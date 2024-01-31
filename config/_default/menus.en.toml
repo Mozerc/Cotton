@@ -1,0 +1,43 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "HOME"
+url = "/"
+weight = 1
+
+[[main]]
+name = "SPECIES"
+url = "authors/"
+weight = 2
+
+
+[[main]]
+name = "GENES"
+url = "elements/"
+weight = 3
+
+
+[[main]]
+name = "CONTACT"
+url = "contact/"
+weight = 4
+
+
+[[main]]
+weight = 5
+name = "MORE"
+hasChildren = true
+
+[[main]]
+parent = "MORE"
+name = "ABOUT"
+url = "about/"
+
+
+
+
+
+
+
+
