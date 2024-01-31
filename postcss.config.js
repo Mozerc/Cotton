@@ -39,6 +39,6 @@ module.exports = {
     tailwindcss: {},
     "@fullhuman/postcss-purgecss":
       process.env.HUGO_ENVIRONMENT === "production" ? purgecss : false,
-    autoprefixer: process.env.HUGO_ENVIRONMENT === "production" ? {} : false,
+    autoprefixer: {}, // 无论环境如何都启用 autoprefixer
   },
 };
