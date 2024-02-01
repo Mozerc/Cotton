@@ -1,24 +1,25 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "name": "ResearchGate",
+      "icon": "fab fa-researchgate",
+      "link": "https://www.researchgate.net/profile/Wen_Yao"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "Google Scholar",
+      "icon": "fa-solid fa-scroll",
+      "link": "https://scholar.google.com/citations?user=n6WrEUQAAAAJ"
     },
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/venyao"
     },
     {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "Group",
+      "icon": "fa-solid fa-user-group",
+      "link": "https://venyao.github.io"
     }
+
   ]
 }
