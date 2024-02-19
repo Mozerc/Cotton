@@ -1,9 +1,22 @@
 <section>
   <div class="container text-center">
-    <div
-      class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      <h1>{{ .Title | title }}</h1>
-      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
-    </div>
+    {{ if eq .Section "top" }}
+      <div class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
+        <a href="/">
+          {{ if .Site.Params.logo }}
+            <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" width="{{ .Site.Params.logo_width }}" height="{{ .Site.Params.logo_height }}">
+          {{ else }}
+            {{ .Site.Params.logo_text }}
+          {{ end }}
+        </a>
+        <h1>{{ .Title | title }}</h1>
+        {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+      </div>
+    {{ else }}
+      <div class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
+        <h1>{{ .Title | title }}</h1>
+        {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+      </div>
+    {{ end }}
   </div>
 </section>

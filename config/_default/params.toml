@@ -5,10 +5,10 @@ logo = "images/logo1.png"
 logo_darkmode = "images/logo1.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "200px"
-logo_height = "38px"
+logo_width = "250px"
+logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
-logo_webp = true
+logo_webp = false
 # logo text will only show when logo is missing.
 logo_text = "funPlantGenes"
 # navbar fixed to top
@@ -17,7 +17,7 @@ navbar_fixed = true
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["GENES","SPECIES"]
+mainSections = ["GENES","SPECIES","FUNCTION","ABOUT"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -38,15 +38,15 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
-link = "contact"
+label = "Submit"
+link = "submit"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["GENES","SPECIES"]
+include_sections = ["INFOR"]
 include_all_sections = false
 show_image = true
 show_description = true
