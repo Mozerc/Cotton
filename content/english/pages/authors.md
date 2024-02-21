@@ -4,12 +4,12 @@ draft: false
 meta_title: 
 title: SPECIES
 ---
-| Scientific name | Common name | Classification | TaxonID | Number |
+| Scientific name | Common name | Classification | TaxonID | Genes |
 |:-------------|:-------------|:-------------|:-------------:|:-------------:|
 | <img src="Arabidopsis_thaliana.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/>  <a href=" " style="font-size: 18px;vertical-align: middle;">Arabidopsis thaliana</a> | Mouse-ear cress | eudicotyledons | [3702](https://www.uniprot.org/taxonomy/3702) | 3000 |
 | <img src="Oryza_sativa.93-11.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href=" " style="font-size: 18px; vertical-align: middle;">Oryza sativa</a> | Rice | Liliopsida | [39947](https://www.uniprot.org/taxonomy/39947) | 2800 |
-| <img src="Zea_mays.Mo17.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href=" " style="font-size: 18px; vertical-align: middle;">Zea mays</a> | Maize | Liliopsida | [4577](https://www.uniprot.org/taxonomy/4577) | 945 |
-| <img src="Triticum_aestivum.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href=" " style="font-size: 18px; vertical-align: middle;">Triticum aestivum</a> | Wheat | Liliopsida | [4565](https://www.uniprot.org/taxonomy/4565) | 593 |
+| <img src="Zea_mays.Mo17.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href="http://funplantgenes.netlify.app/infor/zea_mays/" style="font-size: 18px; vertical-align: middle;">Zea mays</a> | Maize | Liliopsida | [4577](https://www.uniprot.org/taxonomy/4577) | <a href="http://funplantgenes.netlify.app/infor/zea_mays/" style="font-size: 18px; vertical-align: middle;">945</a> |
+| <img src="Triticum_aestivum.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href="" style="font-size: 18px; vertical-align: middle;">Triticum aestivum</a> | Wheat | Liliopsida | [4565](https://www.uniprot.org/taxonomy/4565) | 593 |
 | <img src="Glycine_max.Zhonghuang_13.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href=" " style="font-size: 18px; vertical-align: middle;">Glycine max</a> | Soybean | eudicotyledons | [3847](https://www.uniprot.org/taxonomy/3847) | 302 |
 | <img src="Solanum_lycopersicum.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href=" " style="font-size: 18px; vertical-align: middle;">Solanum lycopersicum</a> | Tomato | eudicotyledons | [4081](https://www.uniprot.org/taxonomy/4081) | 222 |
 | <img src="Malus_x_domestica.png" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href=" " style="font-size: 18px; vertical-align: middle;">Malus domestica</a> | Apple | eudicotyledons | [3750](https://www.uniprot.org/taxonomy/3750) | 179 |

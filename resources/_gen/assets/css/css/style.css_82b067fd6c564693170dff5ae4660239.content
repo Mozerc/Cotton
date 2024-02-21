@@ -1838,8 +1838,8 @@ input#nav-toggle:checked ~ #nav-menu {
 .order-3 {
   order: 3;
 }
-.m-20 {
-  margin: 5rem;
+.m-10 {
+  margin: 2.5rem;
 }
 .mx-auto {
   margin-left: auto;
