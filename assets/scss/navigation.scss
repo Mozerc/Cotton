@@ -17,7 +17,7 @@ input#nav-toggle:checked ~ #nav-menu {
 
 // navbar items
 .navbar {
-  max-height: 75px;
+  max-height: 100px;
   @apply relative flex flex-wrap items-center justify-between;
 }
 

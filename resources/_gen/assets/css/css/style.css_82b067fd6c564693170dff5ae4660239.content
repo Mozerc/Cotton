@@ -591,7 +591,7 @@ select {
   outline: 1px auto -webkit-focus-ring-color;
 }
   html {
-  font-size: 20px;
+  font-size: 22px;
 }
   body {
   --tw-bg-opacity: 1;
@@ -1517,7 +1517,7 @@ main {
   border-color: rgb(62 62 62 / var(--tw-border-opacity));
 }
 .content :is(:where(p):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 20px;
+  font-size: 22px;
   --tw-text-opacity: 1;
   color: rgb(68 68 68 / var(--tw-text-opacity));
 }
@@ -1705,7 +1705,7 @@ input#nav-toggle:checked ~ #nav-menu {
   background-color: rgb(28 28 28 / var(--tw-bg-opacity));
 }
 .navbar {
-    max-height: 75px;
+    max-height: 100px;
     position: relative;
     display: flex;
     flex-wrap: wrap;
