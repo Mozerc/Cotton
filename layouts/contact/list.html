@@ -2,50 +2,65 @@
   {{ partial "page-header" . }}
 
 
-  <section class="section-sm">
+<section class="section-sm">
     <div class="container">
-      <div class="row">
-        <div class="md:col-10 lg:col-6 mx-auto">
-          <form action="{{ site.Params.contact_form_action }}" method="POST">
-            <div class="mb-6">
-              <label for="name" class="form-label">
-                Gene name  Gene symbol or Gene id  <span class="text-red-500">*</span>
-              </label>
-              <input
-                id="name"
-                name="name"
-                class="form-input"
-                placeholder="such as: ZmTE1  TERMINAL EAR 1   GRMZM2G085113"
-                type="text" />
+        <div class="row">
+            <div class="md:col-10 lg:col-6 mx-auto">
+                <form id="myForm" action="{{ site.Params.contact_form_action }}" method="POST">
+                    <div class="mb-6">
+                        <label for="name" class="form-label">
+                            Gene name  Gene symbol or Gene id  <span class="text-red-500">*</span>
+                        </label>
+                        <input
+                            id="name"
+                            name="name"
+                            class="form-input"
+                            placeholder="such as: ZmTE1  TERMINAL EAR 1   GRMZM2G085113"
+                            type="text" />
+                    </div>
+                    <div class="mb-6">
+                        <label for="article" class="form-label">
+                            Article  doi  pmd or  url <span class="text-red-500">*</span>
+                        </label>
+                        <input
+                            id="article"
+                            name="article"
+                            class="form-input"
+                            placeholder="such as:10.1111/pbi.13734 34687251  https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734"IF: 13.8 Q1  34687251  ht
+
+                            />
+                    </div>
+                    <div class="mb-6">
+                        <label for="message" class="form-label">
+                            Anything else? <span class="text-red-500">*</span>
+                        </label>
+                        <textarea
+                            id="message"
+                            name="message"
+                            class="form-input"
+                            placeholder="More message goes here..."
+                            rows="8"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary" onclick="validateForm()">Thank for your submit</button>
+                </form>
             </div>
-            <div class="mb-6">
-              <label for="email" class="form-label">
-                Artcle  doi  pmd or  url <span class="text-red-500">*</span>
-              </label>
-              <input
-                id="email"
-                name="email"
-                class="form-input"
-                placeholder="such as:10.1111/pbi.13734 34687251  https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734"
-                 />
-            </div>
-            <div class="mb-6">
-              <label for="message" class="form-label">
-                Anything else? <span class="text-red-500">*</span>
-              </label>
-              <textarea
-                id="message"
-                name="message"
-                class="form-input"
-                placeholder="More message goes here..."
-                rows="8"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary">Thank for your submit</button>
-          </form>
         </div>
-      </div>
     </div>
-  </section>
+
+    <script>
+        function validateForm() {
+            var nameInput = document.getElementById('name').value.trim();
+            var articleInput = document.getElementById('article').value.trim();
+            var messageInput = document.getElementById('message').value.trim();
+
+            if (nameInput === '' && articleInput === '' && messageInput === '') {
+                // If all three inputs are empty, prevent form submission
+                alert('Please fill in at least one field before submitting.');
+                event.preventDefault(); // Prevents the form from being submitted
+            }
+        }
+    </script>
+</section>
 
   <!-- google map -->
   {{ with site.Params.google_map }}
