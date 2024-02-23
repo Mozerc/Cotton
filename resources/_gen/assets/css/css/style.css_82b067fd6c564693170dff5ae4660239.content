@@ -631,45 +631,45 @@ select {
 }
   h1,
   .h1 {
-  font-size: 0.8rem;
+  font-size: 1.2884080000000007rem;
 }
   @media (min-width: 768px) {
 
   h1,
   .h1 {
-    font-size: 1rem;
+    font-size: 1.6105100000000008rem;
   }
 }
   h2,
   .h2 {
-  font-size: 0.8rem;
+  font-size: 1.1712800000000005rem;
 }
   @media (min-width: 768px) {
 
   h2,
   .h2 {
-    font-size: 1rem;
+    font-size: 1.4641000000000006rem;
   }
 }
   h3,
   .h3 {
-  font-size: 0.8rem;
+  font-size: 1.0648000000000004rem;
 }
   @media (min-width: 768px) {
 
   h3,
   .h3 {
-    font-size: 1rem;
+    font-size: 1.3310000000000004rem;
   }
 }
   h4,
   .h4 {
-  font-size: 1rem;
+  font-size: 1.2100000000000002rem;
   font-weight: 500;
 }
   h5,
   .h5 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 500;
 }
   h6,
@@ -1477,30 +1477,30 @@ main {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 .content :is(:where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 0.8rem;
+  font-size: 1.2884080000000007rem;
 }
 @media (min-width: 768px) {
 
   .content :is(:where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-    font-size: 1rem;
+    font-size: 1.6105100000000008rem;
   }
 }
 .content :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 0.8rem;
+  font-size: 1.1712800000000005rem;
 }
 @media (min-width: 768px) {
 
   .content :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-    font-size: 1rem;
+    font-size: 1.4641000000000006rem;
   }
 }
 .content :is(:where(h3):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 0.8rem;
+  font-size: 1.0648000000000004rem;
 }
 @media (min-width: 768px) {
 
   .content :is(:where(h3):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-    font-size: 1rem;
+    font-size: 1.3310000000000004rem;
   }
 }
 .content :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {

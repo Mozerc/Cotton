@@ -189,11 +189,12 @@
       "z-50"
     ],
     "ids": [
-      "email",
+      "article",
       "gene-details",
       "gene-function-and-description",
       "hide-button",
       "message",
+      "myForm",
       "name",
       "nav-menu",
       "nav-toggle",

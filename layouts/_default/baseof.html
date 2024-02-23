@@ -15,29 +15,27 @@
     {{ partialCached "essentials/style.html" . }}
   </head>
 
-  <body>
+  <body style="padding-top: 2px; padding-bottom: 2px;">
     <!-- cache partial only in production -->
     {{ if hugo.IsProduction }}
       {{ partialCached "preloader.html" . }}
       {{ partialCached "gtm-noscript.html" . }}
     {{ else }}
       {{ partial "preloader.html" . }}
-
-
-      <!-- tailwind size indicator -->
-      {{ partial "components/tw-size-indicator.html" . }}
+      {{ partial "gtm-noscript.html" . }}
     {{ end }}
-
-
+  
+    <!-- tailwind size indicator -->
+    {{ partial "components/tw-size-indicator.html" . }}
+  
     <!-- header (don't cache it) -->
     {{ partial "essentials/header.html" . }}
     {{ partial "search-modal.html" (dict "Context" . ) }}
-
-
+  
     <main>
       {{ block "main" . }}{{ end }}
     </main>
-
+  
     <!-- cache partial only in production -->
     {{ if hugo.IsProduction }}
       {{ partialCached "essentials/footer.html" . }}
@@ -47,4 +45,5 @@
       {{ partial "essentials/script.html" . }}
     {{ end }}
   </body>
+  
 </html>
