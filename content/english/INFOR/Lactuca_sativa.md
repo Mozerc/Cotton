@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Lactuca sativa"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | LsNRL4 |  | LG4_398401 | Lactuca sativa |
 | RLL1 |  |  | Lactuca sativa |

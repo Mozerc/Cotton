@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Musa acuminata"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | MaSBE2.3 |  | Ma06_t09160.1 | Musa acuminata |
 | MaMYB16L |  |  | Musa acuminata |

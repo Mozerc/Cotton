@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Vitis vinifera"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | VviINO | Vitis vinifera INNER NO OUTER | VIT_201s0127g00330（Vitvi01g00703） | Vitis vinifera |
 | VvPR4b |  |  | Vitis vinifera |

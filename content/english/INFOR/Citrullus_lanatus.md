@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Citrullus lanatus"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | ClGRF4 | Citrullus lanatus GROWTH-REGULATING FACTOR4 | Cla97C02G034420 | Citrullus lanatus |
 | ClGIF1 | Citrullus lanatus GRF-INTERACTING FACTOR1 | Cla97C02G042620 | Citrullus lanatus |

@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Cucumis melo"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | CmCRC | Cucumis melo CRABS CLAW | CMiso1.1chr10g0266651 | Cucumis melo |
 | CmACS7 |  |  | Cucumis melo |

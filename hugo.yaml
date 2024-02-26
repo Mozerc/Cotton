@@ -2,7 +2,7 @@ theme: hugoplate
 baseURL: /
 title: funPlantGenes
 timeZone: America/New_York
-paginate: 2
+paginate: 500
 summaryLength: 10
 disableLanguages: []
 hasCJKLanguage: no

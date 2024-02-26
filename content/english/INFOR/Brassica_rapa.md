@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Brassica rapa"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID| Specie |
 |:-------|:------:|:----:|:----:|
 | BrKAO2 |  | BraA07g042410.3C | Brassica rapa |
 | BrWAK1 |  | Bra016428 | Brassica rapa |

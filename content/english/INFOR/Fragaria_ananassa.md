@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Fragaria ananassa"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | FaMADS9 |  | FvH4_6g46420 | Fragaria ananassa |
 | FaRAV1 |  |  | Fragaria ananassa |

@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Populus deltoides"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | PdeRBOHB | RESPIRATORY BURST OXIDASE HOMOLOG B | Potri.005G026200 | Populus deltoides |
 | PdeWRKY75 |  | Potri.015G099200 | Populus deltoides |

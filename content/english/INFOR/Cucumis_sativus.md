@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Cucumis sativus"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | CsAKT1 |  | CsaV3_1G029650 | Cucumis sativus |
 | CsYUC10b |  | Csa3G190380 | Cucumis sativus |

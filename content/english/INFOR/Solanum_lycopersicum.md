@@ -3,7 +3,7 @@ description:  Species Information
 meta_title: 
 title: "Solanum lycopersicum"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----|:----:|
 | PMR4 |  | Solyc07g053980 | Solanum lycopersicum |
 | PPC2 | PHOSPHOENOLPYRUVATE CARBOXYLASE 2 | Solyc07g062530 | Solanum lycopersicum |

@@ -3,7 +3,7 @@ description:  Species Information
 meta_title: 
 title: "Malus domestica"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | MdBT2 |  | MDP0000643281 | Malus domestica |
 | MdMYB73 |  | MDP0000894463 | Malus domestica |

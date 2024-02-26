@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Hordeum vulgare"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | HvMKK1 |  |  | Hordeum vulgare |
 | HvMPK4 |  |  | Hordeum vulgare |

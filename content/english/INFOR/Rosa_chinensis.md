@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Rosa chinensis"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | RcCO |  | RcChr2g0164091 | Rosa chinensis |
 | RcCOL4 |  | RcChr6g0299051 | Rosa chinensis |

@@ -3,7 +3,7 @@ description:  Species Information
 meta_title: 
 title: "Gossypium hirsutum"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | GhCERP |  | Gh_D02G2021 | Gossypium hirsutum |
 | GhEXPA3-1 |  | Gh_D04G1924 | Gossypium hirsutum |

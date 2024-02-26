@@ -3,7 +3,7 @@ description:  Species Information
 meta_title: 
 title: "Triticum aestivum"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----|
 | TaABI4 |  |  | Triticum aestivum |
 | TaPsIPK1-6B |  | TraesCS6B02G167900 | Triticum aestivum |

@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Pyrus bretschneideri"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | PbPH5 |  |  | Pyrus bretschneideri |
 | PbMYB308 |  |  | Pyrus bretschneideri |

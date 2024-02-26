@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Setaria italica"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | SiNP1 |  | Seita.9G347800 | Setaria italica |
 | SGD1 | small grain and dwarf1 | Seita.9G123200 | Setaria italica |

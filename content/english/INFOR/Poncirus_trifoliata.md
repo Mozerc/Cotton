@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Poncirus trifoliata"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | PtrA/NINV7 |  | Pt9g000720 | Poncirus trifoliata |
 | PtrAHL14 |  | PtUn005950 | Poncirus trifoliata |

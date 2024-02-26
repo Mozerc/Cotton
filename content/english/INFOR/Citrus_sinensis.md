@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Citrus sinensis"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | CsCBF1 |  | Cs5g10240 | Citrus sinensis |
 | CsRuby1 |  |  | Citrus sinensis |

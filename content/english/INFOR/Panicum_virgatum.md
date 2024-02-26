@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Panicum virgatum"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | Pvtb1b |  | Pavir.Ib04362/Pavir.9KG031700 | Panicum virgatum |
 | Pvtb1a |  | Pavir.Ia00838/Pavir.9NG142700 | Panicum virgatum |

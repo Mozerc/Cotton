@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Populus tomentosa"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | PtoRD26.1 |  | P.x_tomentosa47952 | Populus tomentosa |
 | PtoWRKY42 |  | Potri.014G111900 | Populus tomentosa |

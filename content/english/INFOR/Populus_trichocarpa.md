@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Populus trichocarpa"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | PtrCesA4 |  | Potri.002G257900 | Populus trichocarpa |
 | PtrCesA7A |  | Potri.006G181900 | Populus trichocarpa |

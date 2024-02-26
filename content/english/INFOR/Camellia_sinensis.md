@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Camellia sinensis"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | UGT91Q2 |  | TEA006435 | Camellia sinensis |
 | CsHSFA1b | Camellia sinensis Heat stress factors A1b | TEA030860 | Camellia sinensis |

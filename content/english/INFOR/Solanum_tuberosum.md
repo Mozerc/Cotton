@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Solanum tuberosum"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | StSWEET11 |  |  | Solanum tuberosum |
 | StSP6A |  |  | Solanum tuberosum |

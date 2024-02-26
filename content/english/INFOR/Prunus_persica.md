@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Prunus persica"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | PpMAPKK5 |  |  | Prunus persica |
 | PpMYB25 |  | Prupe.5G196100 | Prunus persica |

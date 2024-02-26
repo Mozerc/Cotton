@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Brassica napus"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | Bnams4b | Brassica napus male sterile 4 |  | Brassica napus |
 | BnaMs3 |  | BnaC9.Tic40 | Brassica napus |

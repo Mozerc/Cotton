@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Actinidia chinensis"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | AceGGP3 |  | Acc18653.1 | Actinidia chinensis |
 | AdMsrB1 |  | Acc04318 | Actinidia chinensis |

@@ -20,7 +20,7 @@ weight = 3
 
 [[main]]
 name = "FUNCTION"
-url = "functions/"
+url = "tags/"
 weight = 4
 
 

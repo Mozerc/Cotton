@@ -3,7 +3,7 @@ description:  Species Information
 meta_title: 
 title: "Glycine max"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | Rsv4 |  |  | Glycine max |
 | RPS28 | 40S RIBOSOMAL PROTEIN SMALL SUBUNIT S28 | Glyma.19G203300 | Glycine max |

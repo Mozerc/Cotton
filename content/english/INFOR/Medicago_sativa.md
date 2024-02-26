@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Medicago sativa"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | MsFTa1 |  |  | Medicago sativa |
 | MfAOC2 |  |  | Medicago sativa |

@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Medicago truncatula"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | DIB1 |  | Medtr2g102570 | Medicago truncatula |
 | MtLHY |  |  | Medicago truncatula |

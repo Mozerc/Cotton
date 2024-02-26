@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Pyrus pyrifolia"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | PybZIPa |  |  | Pyrus pyrifolia |
 | PyUFGT |  |  | Pyrus pyrifolia |

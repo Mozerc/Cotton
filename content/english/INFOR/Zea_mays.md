@@ -3,7 +3,7 @@ description:  Species Information
 meta_title: 
 title: "Zea mays"
 ---
-|Gene symbol |Gene name | Gene id | Specie |
+|Gene symbol |Gene name | Gene ID | Specie |
 |:-------|:------:|:----|:------:|
 | ZmTE1 | TERMINAL EAR 1 | GRMZM2G085113 | Zea mays |
 | ZmRAVL1 |  | GRMZM2G102059 | Zea mays |

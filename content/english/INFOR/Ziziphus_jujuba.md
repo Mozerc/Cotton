@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Ziziphus jujuba"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | ZjFS3 | Fruit Shape Gene on Chromosome 3 | Zj.jz044531027 | Ziziphus jujuba |
 | ZjPOD1 |  | Zj.jz015743041 | Ziziphus jujuba |

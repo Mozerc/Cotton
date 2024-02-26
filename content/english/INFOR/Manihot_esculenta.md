@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Manihot esculenta"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | MeHSP90.9 |  | Me18G012200 | Manihot esculenta |
 | MeGRXC3 |  | Manes.01G215000 | Manihot esculenta |

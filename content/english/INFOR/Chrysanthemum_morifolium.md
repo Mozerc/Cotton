@@ -3,7 +3,7 @@ description:  Species Information
 meta_title:
 title: "Chrysanthemum morifolium"
 ---
-|Gene symbol |  Gene name | Gene id | Specie |
+|Gene symbol |  Gene name | Gene ID | Specie |
 |:-------|:------:|:----:|:----:|
 | CmNAC25 |  | Unigene39896_All | Chrysanthemum morifolium |
 | CmNPR1 | Gene_name:Chrysanthemum morifolium nonexpressor of pathogenesis-related gene 1 | c81720_g1 | Chrysanthemum morifolium |
