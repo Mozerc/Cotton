@@ -1,0 +1,27 @@
+---
+description: Glyma.16G044200 ; Glycine max
+meta_title:
+title: GmFT3a
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Glyma.16G044200](https://www.maizegdb.org/gene_center/gene/Glyma.16G044200)
+- **Gene Symbol:** GmFT3a
+- **Gene Name:** 
+- **Species:** Glycine max
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+
+## Functions:
+   - GmFT3a positively regulates photoperiodic flowering time
+   - 
+   - 
+
+## Publications:
+   - [Molecular mechanisms for the photoperiodic regulation of flowering in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021 ) - [10.1111/jipb.13021]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021 ) - [33090664](https://pubmed.ncbi.nlm.nih.gov/33090664/)
+   - [Conserved CO-FT regulons contribute to the photoperiod flowering control in soybean.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-9 ) - [10.1186/1471-2229-14-9 ]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-9 ) - [24397545](https://pubmed.ncbi.nlm.nih.gov/24397545/)
+
+## Related News:

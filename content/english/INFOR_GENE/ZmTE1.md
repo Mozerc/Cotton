@@ -3,7 +3,7 @@ description:  TERMINAL EAR 1 ； GRMZM2G085113 ； Zea mays
 meta_title: 
 title: ZmTE1
 category: genes
-tags: [plant height, cell elongation, auxin]
+tags: [auxin,cell division,meristem,plant height,cell elongation,internode elongation]
 ---
 ## Gene Details
 - **Gene ID:** [GRMZM2G085113](https://www.maizegdb.org/gene_center/gene/GRMZM2G085113)
