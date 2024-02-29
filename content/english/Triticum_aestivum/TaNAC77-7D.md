@@ -1,0 +1,29 @@
+---
+description: TraesCS7D02G154200 ; Triticum aestivum
+meta_title:
+title: TaNAC77-7D
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[TraesCS7D02G154200](https://www.maizegdb.org/gene_center/gene/TraesCS7D02G154200)
+- **Gene Symbol:** TaNAC77-7D
+- **Gene Name:** 
+- **Species:** Triticum aestivum
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - The homolog of TuNAC77 in common wheat, TaNAC77, shared an identical function, and the total SSPs were reduced by about 24% in common wheat when TaNAC77 was knocked down
+   - TaNAC77 elevates the transcription of SSP genes in vivo
+   - TaNAC77 was suppressed in common wheat, the total SSPs, including glutenins and gliadins, were reduced
+
+## Publications:
+   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15538)
+   - **DOI:** [10.1111/tpj.15538](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15538)
+   - **PubMed ID:** [34634158](https://pubmed.ncbi.nlm.nih.gov/34634158/)
+
+3. **Related News:**
+   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247519555&idx=3&sn=0a68994bf605d061b12efd3d98bef51b&chksm=ce902016f9e7a9004e8fb6a36c31ad520e70d0d680e28354562f4ab8bbc9afce615e59700ccf&scene=27#wechat_redirect)

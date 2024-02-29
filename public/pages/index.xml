@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Hugoplate</title>
+    <title>Pages on funPlantGenes</title>
     <link>/pages/</link>
-    <description>Recent content in Pages on Hugoplate</description>
+    <description>Recent content in Pages on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Elements</title>
-      <link>/elements/</link>
+      <title>ABOUT</title>
+      <link>/abouts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/elements/</guid>
-      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+      <guid>/abouts/</guid>
+      <description>DAWD</description>
     </item>
     <item>
-      <title>Privacy</title>
-      <link>/privacy-policy/</link>
+      <title>SPECIES</title>
+      <link>/authors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/privacy-policy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <guid>/authors/</guid>
+      <description> Scientific Name Common Name Classification TaxonID Gene Number Arabidopsis thaliana Mouse-ear cress eudicotyledons 3702 3000 Oryza sativa Rice Liliopsida 39947 2800 Zea mays Maize Liliopsida 4577 945 Triticum aestivum Wheat Liliopsida 4565 593 Glycine max Soybean eudicotyledons 3847 302 Solanum lycopersicum Tomato eudicotyledons 4081 222 Malus domestica Apple eudicotyledons 3750 179 Gossypium hirsutum Upland cotton eudicotyledons 3635 132 Brassica napus Rape eudicotyledons 3708 122 Camellia sinensis Tea eudicotyledons 4442 35 Cucumis sativus Cucumber eudicotyledons 3659 34 Vitis vinifera Grape eudicotyledons 29760 33 Chrysanthemum morifolium Florist&amp;rsquo;s daisy eudicotyledons 41568 29 Hordeum vulgare Barley Liliopsida 4513 28 Citrus sinensis Sweet orange eudicotyledons 2711 23 Citrullus lanatus Watermelon eudicotyledons 3654 17 Brassica rapa Turnip eudicotyledons 51350 13 Manihot esculenta Cassava eudicotyledons 3983 14 Actinidia chinensis Kiwi eudicotyledons 3625 12 Cucumis melo Muskmelon eudicotyledons 3656 14 Lactuca sativa Garden lettuce eudicotyledons 4236 7 Medicago sativa Alfalfa eudicotyledons 36902 8 Medicago truncatula Barrel medic eudicotyledons 3880 11 Musa acuminata Banana Liliopsida 4641 6 Panicum virgatum Blackwell switchgrass Liliopsida 38727 11 Poncirus trifoliata Hardy orange eudicotyledons 37690 13 Populus deltoides Eastern poplar eudicotyledons 3696 10 Populus tomentosa Chinese white poplar eudicotyledons 118781 8 Populus trichocarpa Western balsam poplar eudicotyledons 3694 13 Prunus persica Peach eudicotyledons 3760 14 Fragaria ananassa Strawberry eudicotyledons 3747 9 Pyrus bretschneideri Chinese white pear eudicotyledons 225117 8 Pyrus pyrifolia Chinese pear eudicotyledons 3767 8 Rosa chinensis China rose eudicotyledons 74649 6 Setaria italica Foxtail millet Liliopsida 4555 6 Solanum tuberosum Potato eudicotyledons 4113 7 Ziziphus jujuba Chinese jujube eudicotyledons 326968 12 Arachis hypogaea Peanut eudicotyledons 3818 6 Artemisia annua Sweet wormwood eudicotyledons 35608 5 Beta vulgaris Sugar beet eudicotyledons 161934 1 Betula platyphylla Asian white birch eudicotyledons 78630 2 Brachypodium distachyon Purple false brome Liliopsida 15368 Brassica campestris Field mustard eudicotyledons 3711 Brassica juncea Indian mustard eudicotyledons 3707 Brassica oleracea Cauliflower eudicotyledons 3715 Cajanus cajan Pigeon pea eudicotyledons 3821 Cannabis Sativa Hemp eudicotyledons 3483 Capsicum annuum Capsicum pepper eudicotyledons 4072 Carthamus tinctorius Safflower eudicotyledons 4222 Chirita pumila Dwarf Chirita eudicotyledons 405737 Cicer arietinum Chickpea eudicotyledons 3827 Citrus grandis Grapefruit eudicotyledons 37656 Citrus maxima Pomelo eudicotyledons 37334 Citrus reticulata Tangerine eudicotyledons 85571 Daucus carota Carrot eudicotyledons 79200 Echinochloa colona Jungle Rice Liliopsida 90396 Fragaria vesca Woodland strawberry eudicotyledons 57918 Gossypium arboreum Tree cotton eudicotyledons 29729 Gossypium barbadense Sea-island cotton eudicotyledons 3634 Hygrophila difformis Water wisteria eudicotyledons 1279181 Ipomoea batatas Sweet potato eudicotyledons 4120 Juglans regia English walnut eudicotyledons 51240 Lilium longiflorum Trumpet lily Liliopsida 4690 Lolium perenne Perennial ryegrass Liliopsida 4522 Lotus japonicus Japanese lotus eudicotyledons 34305 Lupinus albus White lupine eudicotyledons 3870 Melilotus albus White sweet clover eudicotyledons 47082 Nicotiana attenuata Coyote tobacco eudicotyledons 49451 Nicotiana benthamiana Benth benthamiana eudicotyledons 4100 Nicotiana tabacum Common tobacco eudicotyledons 4097 Paeonia lactiflora Chinese peony eudicotyledons 35924 Petunia inflata Petunia eudicotyledons 2315833 Phalaenopsis aphrodite Moth orchid eudicotyledons 212056 Populus ussuriensis Ussurian Poplar eudicotyledons 696360 Populus tremula European aspen eudicotyledons 113636 Prunus avium Cherry eudicotyledons 42229 Prunus mume Japanese apricot eudicotyledons 102107 Puccinellia tenuiflora Alkali grass eudicotyledons 240906 Punica granatum Pomegranate eudicotyledons 22663 Pyrus betulaefolia Birchleaf pear eudicotyledons 436086 Pyrus communis Pear eudicotyledons 23211 Raphanus raphanistrum Wild radish eudicotyledons 109996 Rehmannia chingii Chinese foxglove eudicotyledons 332336 Ricinus communis Castor bean eudicotyledons 3988 Rosa hybrida Hybrid Tea Roses eudicotyledons 128735 Saccharum spontaneum Wild sugarcane eudicotyledons 62335 Salix matsudana Corkscrew Willow eudicotyledons 349989 Salvia miltiorrhiza Chinese sage eudicotyledons 226208 Scutellaria baicalensis Baical skullcap eudicotyledons 65409 Secale cereale Rye eudicotyledons 4550 Senna tora Sickle Senna eudicotyledons 362788 Sesamum indicum Oriental sesame eudicotyledons 4182 Setaria viridis Green bristlegrass Liliopsida 4556 Solanum arcanum wild tomato eudicotyledons 376710 Solanum melongena Eggplant eudicotyledons 4111 Trifolium repens Creeping white clover eudicotyledons 3899 Vaccinium corymbosum Highbush blueberry eudicotyledons 69266 Vitis amurensis Amur grape eudicotyledons 103351 Zanthoxylum bungeanum Sichuan Pepper eudicotyledons 328401 Lolium rigidium Annual ryegrass Liliopsida 89674 </description>
     </item>
   </channel>
 </rss>

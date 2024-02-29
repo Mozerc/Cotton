@@ -6,7 +6,7 @@ logo_darkmode = "images/logo1.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "250px"
-logo_height = "32px"
+logo_height = "200px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = false
 # logo text will only show when logo is missing.
@@ -46,12 +46,11 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["INFOR"]
+include_sections = ["INFOR_GENE"]
 include_all_sections = false
-#show_image = true
 show_description = true
 show_tags = true
-#show_categories = true
+
 
 
 # seo meta data for OpenGraph / Twitter Card
@@ -100,5 +99,7 @@ enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+
+
 
 

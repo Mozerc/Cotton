@@ -1,20 +1,40 @@
 {{ define "main" }}
-  {{ partial "page-header" . }}
+<style>
+  /* 定义标题的样式 */
+  .title-text {
+    font-size: 20px; /* 调整标题字体大小 */
+    color: #000; /* 标题颜色 */
+    font-weight: bold; /* 加粗标题 */
+  }
 
+  /* 定义描述的样式 */
+  .description-text {
+    font-size: 14px; /* 描述的字体比标题小 */
+    color: #666; /* 描述的颜色比标题暗 */
+  }
+</style>
 
-  <section class="section">
-    <div class="container">
-      <ul class="text-center">
-        {{ range .RegularPages }}
-          <li class="m-10">
-            <a
-              href="{{ .Permalink }}"
-              class="text-dark dark:text-darkmode-dark block text-xl">
-              {{ .Title }}
-            </a>
-          </li>
-        {{ end }}
-      </ul>
+<section class="section" style="padding-bottom: 30px; padding-top: 10px;">
+  <div class="container">
+    <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" >
+      {{ range .Paginator.Pages }}
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            <!-- 应用样式到标题 -->
+            <p>
+              <a href="{{ .Permalink }}" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                {{ .Title }}
+              </a>
+            </p>
+            <!-- 应用样式到描述 -->
+            <p class="description-text">{{ .Description }}</p>
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+    <div style="text-align: center; margin-top: 20px;">
+      {{ partial "components/pagination.html" . }}
     </div>
-  </section>
+  </div>
+</section>
 {{ end }}

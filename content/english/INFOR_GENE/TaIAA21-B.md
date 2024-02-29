@@ -1,0 +1,29 @@
+---
+description: TraesCS7B02G242800 ; Triticum aestivum
+meta_title:
+title: TaIAA21-B
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[TraesCS7B02G242800](https://www.maizegdb.org/gene_center/gene/TraesCS7B02G242800)
+- **Gene Symbol:** TaIAA21-B
+- **Gene Name:** 
+- **Species:** Triticum aestivum
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - TaIAA21 works as a negative regulator of grain size and weight development via the ARF25–ERFs module and is useful for yield improvement in wheat.
+   - TaIAA21 mutation increases wheat grain size and weight
+   - 
+
+## Publications:
+   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)
+   - **DOI:** [10.1111/tpj.15541](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)
+   - **PubMed ID:** [34643010](https://pubmed.ncbi.nlm.nih.gov/34643010/)
+
+3. **Related News:**
+   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247519674&idx=7&sn=5b4c80ad6621586b1757e8630496654d&chksm=ce9020eff9e7a9f93eb00a7c5369081ca4a49dd74b31ae60614d85552a31c7783f1e49a41c36&scene=27#wechat_redirect)

@@ -1,0 +1,31 @@
+---
+description: Zm00001d024230 ; Zea mays
+meta_title:
+title: ZmNF-YC2
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Zm00001d024230](https://www.maizegdb.org/gene_center/gene/Zm00001d024230)
+- **Gene Symbol:** ZmNF-YC2
+- **Gene Name:** 
+- **Species:** Zea mays
+- **NCBI ID:** [ MK405593 ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - Identification of ZmNF-YC2 and its regulatory network for maize flowering time
+   - We then developed a gene regulatory model of flowering time in maize using ZmNF-YC2, ZmNF-YA3, ZmAP2, ZMM4, and other key genes.
+   - Cascading regulation of flowering time by ZmNF-YC2
+   - ZmNF-YC2 regulates other flowering time-associated genes
+   - ZmNF-YC2 regulates flowering time in maize under LD conditions
+
+## Publications:
+   - **Publication** [文章名](https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)
+   - **DOI:** [10.1093/jxb/erab364](https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)
+   - **PubMed ID:** [34338753](https://pubmed.ncbi.nlm.nih.gov/34338753/)
+
+3. **Related News:**
+   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516095&idx=4&sn=774b3fd56ad69fbf44412829a7f47b5f&chksm=ce9012eaf9e79bfce8126b5deff747eb771f79c6d730354e1f8750453d9db8f0251dd621fe19&scene=27#wechat_redirect)

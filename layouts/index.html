@@ -1,10 +1,10 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14" style="padding-top: 80px; padding-bottom: 40px;">
+    <section class="section pt-10" style="padding-top: 80px; padding-bottom: 40px;">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 mb-8 text-center">
+          <div class="lg:col-7 mb-7 text-center">
             <h1 class="mb-4">
               {{ .title | markdownify }}
             </h1>
@@ -20,59 +20,23 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
-          </div>
         </div>
       </div>
     </section>
   {{ end }}
   <!-- /Banner -->
+  
+  <!--/main spieces-->
+ 
 
-  <!-- Features -->
-  {{ range $i, $e:= .Params.features }}
-    <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
-      <div class="container">
-        <div class="row items-center justify-between">
-          <div
-            class="mb:md-0 {{ if not (modBool $i 2) }}
-              md:order-2
-            {{ end }} md:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image") }}
-          </div>
-          <div
-            class="{{ if not (modBool $i 2) }}
-              md:order-1
-            {{ end }} md:col-7 lg:col-6">
-            <h2 class="mb-4">
-              {{ .title | markdownify }}
-            </h2>
-            <p class="mb-8 text-lg">
-              {{ .content | markdownify }}
-            </p>
-            <ul>
-              {{ range .bulletpoints }}
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  {{ . | markdownify }}
-                </li>
-              {{ end }}
-            </ul>
-            {{ with .button }}
-              {{ if .enable }}
-                <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              {{ end }}
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </section>
-  {{ end }}
-  <!-- /Features -->
+  <!--/main spieces-->
 
+
+  
+  <body>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=m&d=kZM6s0pK6F2hXf3Zh6KHqUItH7S6a2GioWYVhE-e4GI&co=1c1c1c&cmo=ea4040&cmn=fc1541&ct=ffffff'></script>
+  </body>
+  
   <!-- Testimonials -->
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}

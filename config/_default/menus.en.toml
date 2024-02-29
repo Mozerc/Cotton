@@ -14,7 +14,7 @@ weight = 2
 
 [[main]]
 name = "GENES"
-url = "elements/"
+url = "infor_gene/"
 weight = 3
 
 

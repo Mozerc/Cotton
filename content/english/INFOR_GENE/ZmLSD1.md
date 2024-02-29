@@ -1,0 +1,29 @@
+---
+description: Zm00001eb173250 ; Zea mays
+meta_title:
+title: ZmLSD1
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Zm00001eb173250](https://www.maizegdb.org/gene_center/gene/Zm00001eb173250)
+- **Gene Symbol:** ZmLSD1
+- **Gene Name:** 
+- **Species:** Zea mays
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - ZmLSD1 (zinc finger protein, negatively regulates the basal defense and cell death pathway) were repressed by drought and ZmNF-YA1 works as an activator of the expression of those two genes.
+   - ZmLSD1 gene by binding to their CCAAT regions in promoters contributed to the enhanced tolerance of abiotic stress in the ZmNF-YA1 OE maize plants.
+   - ZmLSD1 is suggested to interact with other members and play important roles in flowering regulation and stress response.
+
+## Publications:
+   - **Publication** [文章名](https://academic.oup.com/plphys/article/190/2/1506/6647864?login=false)
+   - **DOI:** [10.1093/plphys/kiac340](https://academic.oup.com/plphys/article/190/2/1506/6647864?login=false)
+   - **PubMed ID:** [35861438](https://pubmed.ncbi.nlm.nih.gov/35861438/)
+
+3. **Related News:**
+   - [新闻标题]()

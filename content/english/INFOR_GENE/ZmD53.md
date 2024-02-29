@@ -1,0 +1,29 @@
+---
+description: DWARF 53 ; Zm00001eb404750 ; Zea mays
+meta_title:
+title: ZmD53
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Zm00001eb404750](https://www.maizegdb.org/gene_center/gene/Zm00001eb404750)
+- **Gene Symbol:** ZmD53
+- **Gene Name:** DWARF 53
+- **Species:** Zea mays
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - DWARF53 interacts with transcription factors UB2/UB3/TSH4 to regulate maize tillering and tassel branching
+   - Zmd53 affects male and female inflorescence development
+   - 
+
+## Publications:
+   - **Publication** [文章名](https://academic.oup.com/plphys/article/187/2/947/6294939?login=true)
+   - **DOI:** [10.1093/plphys/kiab259](https://academic.oup.com/plphys/article/187/2/947/6294939?login=true)
+   - **PubMed ID:** [34608948](https://pubmed.ncbi.nlm.nih.gov/34608948/)
+
+3. **Related News:**
+   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247511949&idx=4&sn=ea3b61a2ce66d827577db725a7778f1b&chksm=ce9002d8f9e78bce4c4f21a3570dad923ac2554930c700f70552b085a8bc4b88065b3e7363b6&scene=27#wechat_redirect)

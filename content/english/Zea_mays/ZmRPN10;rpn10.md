@@ -1,0 +1,29 @@
+---
+description: regulatory particle non-ATPase 10 ; Zm00001eb398860 ; Zea mays
+meta_title:
+title: ZmRPN10;rpn10
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Zm00001eb398860](https://www.maizegdb.org/gene_center/gene/Zm00001eb398860)
+- **Gene Symbol:** ZmRPN10;rpn10
+- **Gene Name:** regulatory particle non-ATPase 10
+- **Species:** Zea mays
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - The homologous ZmRPN10 in maize has not been studied. In this study, the changing of leaf angle and gene expression in leaves in maize wild-type B73 and mutant rpn10 under exogenous brassinosteroids (BRs) were investigated.
+   - In this study, we identified a ZmRPN10 mutant rpn10 from an ethyl methane sulfonate (EMS) mutant library of maize inbred line B73, which displays a relatively larger leaf angle. With B73 and rpn10 as experimental materials, we discussed the regulation mechanism of ZmRPN10 on maize leaf angle from field characteristics, cytological analysis, bioinformatics, expression pattern analysis, exogenous BR response and transcriptome analysis.
+   - We can speculate that under exogenous BR treatment, ZmRPN10 may regulate maize leaf angle changes through these differentially expressed.
+
+## Publications:
+   - **Publication** [文章名](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9820655/)
+   - **DOI:** [10.3390/ijms24010189](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9820655/)
+   - **PubMed ID:** [36613631](https://pubmed.ncbi.nlm.nih.gov/36613631/)
+
+3. **Related News:**
+   - [新闻标题]()

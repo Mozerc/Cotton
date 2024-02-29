@@ -25,25 +25,6 @@
 
 
 
-
-
-
-
-
-
-<link rel="shortcut icon" href="/images/favicon_hueb84ecec72665a83aae8c940dfe71474_1906_96x0_resize_lanczos_3.png" type="image/x-icon">
-<link rel="icon" href="/images/favicon_hueb84ecec72665a83aae8c940dfe71474_1906_96x0_resize_lanczos_3.png" type="image/x-icon">
-<link rel="icon" type="image/png" sizes="48x48" href="/images/favicon_hueb84ecec72665a83aae8c940dfe71474_1906_48x0_resize_lanczos_3.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon_hueb84ecec72665a83aae8c940dfe71474_1906_96x0_resize_lanczos_3.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon_hueb84ecec72665a83aae8c940dfe71474_1906_144x0_resize_lanczos_3.png">
-
-
-
-
-
-
-
-
 <link rel="manifest" href="/manifest.webmanifest" />
 <meta
   name="msapplication-TileColor"
@@ -81,7 +62,7 @@
 
 
 
-<title>Hugoplate</title>
+<title>funPlantGenes</title>
 
 
 
@@ -139,44 +120,6 @@
 
   
   
-    
-    
-      
-    
-
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-      
-        <meta property="og:image" content="/images/og-image.png" />
-        <meta name="twitter:image" content="/images/og-image.png" />
-        <meta
-          name="twitter:card"
-          content="summary
-            _large_image
-          " />
-      
-      
-      <meta property="og:image:width" content="900" />
-      <meta property="og:image:height" content="600" />
-    
-
-
-    
-    <meta
-      property="og:image:type"
-      content="image/
-        .png
-      " />
-  
 
 
   
@@ -185,13 +128,13 @@
 
 
 
-<meta property="og:title" content="Hugoplate" />
+<meta property="og:title" content="funPlantGenes" />
 <meta property="og:description" content="Hugo &amp; Tailwindcss Starter" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="/" />
 
 
-<meta name="twitter:title" content="Hugoplate" />
+<meta name="twitter:title" content="funPlantGenes" />
 <meta name="twitter:description" content="Hugo &amp; Tailwindcss Starter" />
 
 
@@ -216,7 +159,7 @@
 
 <script>
   let indexURL = "/searchindex.json";
-  let includeSectionsInSearch = ["blog"];
+  let includeSectionsInSearch = ["INFOR_GENE"];
   let no_results_for = "No results for";
   let empty_search_results_placeholder = "Type something to search..";
 </script>
@@ -265,7 +208,7 @@
 <script>
   (function () {
     const googleFont = document.createElement("link");
-    googleFont.href = "https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Signika:wght@500;700&display=swap";
+    googleFont.href = "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Montserrat:wght@500;700&display=swap";
     googleFont.type = "text/css";
     googleFont.rel = "stylesheet";
     document.head.appendChild(googleFont);
@@ -322,8 +265,8 @@
 
 
 <link
-  href="/css/style.css"
-  integrity=""
+  href="/css/style.min.1aee2066428f08203b5e7a16116ffa4f8e0943b1718af299c0a3c1f336f7104a.css"
+  integrity="sha256-Gu4gZkKPCCA7XnoWEW/6T44JQ7FxivKZwKPB8zb3EEo="
   rel="stylesheet" />
 
 
@@ -331,14 +274,14 @@
   defer
   async
   rel="stylesheet"
-  href="/css/style-lazy.css"
-  integrity=""
+  href="/css/style-lazy.min.901e5cbd6a6883c52a645fd5c91bb3fec340173bc306529fe6cb027c818eb6bf.css"
+  integrity="sha256-kB5cvWpog8UqZF/VyRuz/sNAFzvDBlKf5ssCfIGOtr8="
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
   </head>
 
-  <body>
+  <body style="padding-top: 2px; padding-bottom: 2px;">
     
     
       
@@ -348,8 +291,19 @@
       
 
     
+  
+    
+    <div
+  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
 
-
+  
     
     <header
   class="header sticky top-0 z-30">
@@ -374,9 +328,6 @@
 
 
 
-  
-
-
 
 
 
@@ -385,96 +336,11 @@
 
 
   
-  
-  
-
-
-  
-  
-    
-    
-  
-
-
-  
-  
-    
-    
-    
-    
-    
-    
-    
-  
-  
-
-  
-  
-    
-    
-      
-      
-
-
-      
-      
-        
-        
-        
-        
-
-        
-        
-        
-      
-      
-    
-  
-  
-
-  
-    <img
-      fetchpriority="high"
-      decoding="async"
-      class="img logo-light"
-      width="160"
-      height="32"
-      src="/images/logo_hud3822dc52499c854acb9b180fed4f736_3648_320x0_resize_q90_h2_lanczos_3.webp"
-      alt="Hugoplate"
-      onerror="this.onerror=null;this.src='\/images\/logo_hud3822dc52499c854acb9b180fed4f736_3648_320x0_resize_lanczos_3.png';" />
-
-    <img
-      fetchpriority="high"
-      decoding="async"
-      class="img logo-dark"
-      width="160"
-      height="32"
-      src="/images/logo-darkmode_hu95dd250582672ebe0c063cf60eed448f_3090_320x0_resize_q90_h2_lanczos_3.webp"
-      alt="Hugoplate"
-      onerror="this.onerror=null;this.src='\/images\/logo-darkmode_hu95dd250582672ebe0c063cf60eed448f_3090_320x0_resize_lanczos_3.png';" />
-  
-  
+  funPlantGenes
 
 
       </a>
     </div>
-    
-    <input id="nav-toggle" type="checkbox" class="hidden" />
-    <label
-      for="nav-toggle"
-      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
-      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
-        <title>Menu Open</title>
-        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
-      </svg>
-      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
-        <title>Menu Close</title>
-        <polygon
-          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
-          transform="rotate(45 10 10)"></polygon>
-      </svg>
-    </label>
-    
 
     
     <ul
@@ -491,7 +357,7 @@
               class="nav-link active"
               
               href="/"
-              >Home</a
+              >HOME</a
             >
           </li>
         
@@ -504,8 +370,8 @@
             <a
               class="nav-link "
               
-              href="/about/"
-              >About</a
+              href="/authors/"
+              >SPECIES</a
             >
           </li>
         
@@ -518,8 +384,8 @@
             <a
               class="nav-link "
               
-              href="/elements/"
-              >Elements</a
+              href="/infor_gene/"
+              >GENES</a
             >
           </li>
         
@@ -528,94 +394,27 @@
         
         
         
-          <li class="nav-item nav-dropdown group relative">
-            <span
-              class="nav-link 
-                
-                
-                
+          <li class="nav-item">
+            <a
+              class="nav-link "
               
-                
-                
-                
+              href="/tags/"
+              >FUNCTION</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
               
-                
-                
-                
-              
-                
-                
-                
-              
-                
-                
-                
-               inline-flex items-center">
-              Pages
-              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
-                <path
-                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-              </svg>
-            </span>
-            <ul
-              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/404/">
-                    404 Page
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/authors/">
-                    Authors
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/blog/">
-                    Blog
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/categories/">
-                    Categories
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/contact/">
-                    Contact
-                  </a>
-                </li>
-              
-            </ul>
+              href="/abouts/"
+              >ABOUT</a
+            >
           </li>
         
       
@@ -624,7 +423,7 @@
           <a
             class="btn btn-outline-primary btn-sm"
             href="/contact">
-            get a quote
+            Submit
           </a>
         </li>
       
@@ -722,7 +521,7 @@
         <a
           href="/contact"
           class="btn btn-outline-primary btn-sm hidden lg:inline-block">
-          get a quote
+          Submit
         </a>
       
     </div>
@@ -839,628 +638,21 @@
   
 
 
-
-
+  
     <main>
       
   
   
-    <section class="section pt-14">
+    <section class="section pt-10" style="padding-top: 80px; padding-bottom: 40px;">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 mb-8 text-center">
+          <div class="lg:col-7 mb-7 text-center">
             <h1 class="mb-4">
-              The Ultimate Starter Template You Need To Start Your Hugo Project
+              Welcome to funPlantGenes!
             </h1>
             <p class="mb-8">
-              Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time.
+              A comprehensive repository of functionally characterized plant genes, encompassing a wide range of species, provides a valuable and extensive source of information for researchers and scientists.
             </p>
-            
-              
-                <a class="btn btn-primary" href="https://github.com/zeon-studio/hugoplate">
-                  Get Started For Free
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              
-            
-          </div>
-          <div class="col-12">
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <picture>
-          <source
-            
-              srcset="/images/banner_hu0a5f8563a8e7f50dfbace1ba44f112bf_80952_545x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 575px)" />
-          <source
-            
-              srcset="/images/banner_hu0a5f8563a8e7f50dfbace1ba44f112bf_80952_600x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 767px)" />
-          <source
-            
-              srcset="/images/banner_hu0a5f8563a8e7f50dfbace1ba44f112bf_80952_700x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 991px)" />
-          <source
-            
-              srcset="/images/banner_hu0a5f8563a8e7f50dfbace1ba44f112bf_80952_1110x0_resize_q90_h2_lanczos_3.webp"
-             />
-          <img
-            
-              loading="eager" decoding="async"
-              src="/images/banner_hu0a5f8563a8e7f50dfbace1ba44f112bf_80952_1110x0_resize_lanczos_3.png"
-            class=" mx-auto lg:!max-w-[800px] img"
-            alt="Banner image"
-            width="1206"
-            height="553" />
-        </picture>
-      
-      
-    
-    
-  
-
-
-  
-
-
-          </div>
-        </div>
-      </div>
-    </section>
-  
-  
-
-  
-  
-    <section class="section-sm bg-gradient">
-      <div class="container">
-        <div class="row items-center justify-between">
-          <div
-            class="mb:md-0  md:col-5 mb-6">
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <picture>
-          <source
-            
-              srcset="/images/service-1_hu1640b0eaac84eab88b63529bbd01cf30_11502_545x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 575px)" />
-          <source
-            
-              srcset="/images/service-1_hu1640b0eaac84eab88b63529bbd01cf30_11502_600x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 767px)" />
-          <source
-            
-              srcset="/images/service-1_hu1640b0eaac84eab88b63529bbd01cf30_11502_700x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 991px)" />
-          <source
-            
-              srcset="/images/service-1_hu1640b0eaac84eab88b63529bbd01cf30_11502_1110x0_resize_q90_h2_lanczos_3.webp"
-             />
-          <img
-            
-              loading="lazy" decoding="async"
-              src="/images/service-1_hu1640b0eaac84eab88b63529bbd01cf30_11502_1110x0_resize_lanczos_3.png"
-            class="  img"
-            alt="feature image"
-            width="559"
-            height="518" />
-        </picture>
-      
-      
-    
-    
-  
-
-
-  
-
-
-          </div>
-          <div
-            class=" md:col-7 lg:col-6">
-            <h2 class="mb-4">
-              What&rsquo;s Included in Hugoplate
-            </h2>
-            <p class="mb-8 text-lg">
-              Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What&rsquo;s Included in Hugoplate
-            </p>
-            <ul>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  10+ Pre-build pages
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  95+ Google Pagespeed Score
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Build with Hugo and TailwindCSS for easy and customizable styling
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Fully responsive on all devices
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  SEO-optimized for better search engine rankings
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  <strong>Open-source and free</strong> for personal and commercial use
-                </li>
-              
-            </ul>
-            
-              
-            
-          </div>
-        </div>
-      </div>
-    </section>
-  
-    <section class="section-sm ">
-      <div class="container">
-        <div class="row items-center justify-between">
-          <div
-            class="mb:md-0 
-              md:order-2
-             md:col-5 mb-6">
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <picture>
-          <source
-            
-              srcset="/images/service-2_hub2400521e15639ea64d4f0700f2d9269_19596_545x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 575px)" />
-          <source
-            
-              srcset="/images/service-2_hub2400521e15639ea64d4f0700f2d9269_19596_600x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 767px)" />
-          <source
-            
-              srcset="/images/service-2_hub2400521e15639ea64d4f0700f2d9269_19596_700x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 991px)" />
-          <source
-            
-              srcset="/images/service-2_hub2400521e15639ea64d4f0700f2d9269_19596_1110x0_resize_q90_h2_lanczos_3.webp"
-             />
-          <img
-            
-              loading="lazy" decoding="async"
-              src="/images/service-2_hub2400521e15639ea64d4f0700f2d9269_19596_1110x0_resize_lanczos_3.png"
-            class="  img"
-            alt="feature image"
-            width="548"
-            height="526" />
-        </picture>
-      
-      
-    
-    
-  
-
-
-  
-
-
-          </div>
-          <div
-            class="
-              md:order-1
-             md:col-7 lg:col-6">
-            <h2 class="mb-4">
-              Discover the Key Features Of Hugo
-            </h2>
-            <p class="mb-8 text-lg">
-              Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:
-            </p>
-            <ul>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Zero JS, by default: No JavaScript runtime overhead to slow you down.
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Customizable: Tailwind, MDX, and 100+ other integrations to choose from.
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more.
-                </li>
-              
-            </ul>
-            
-              
-                <a class="btn btn-primary mt-6" href="https://github.com/zeon-studio/hugoplate">
-                  Get Started Now
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              
-            
-          </div>
-        </div>
-      </div>
-    </section>
-  
-    <section class="section-sm bg-gradient">
-      <div class="container">
-        <div class="row items-center justify-between">
-          <div
-            class="mb:md-0  md:col-5 mb-6">
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <picture>
-          <source
-            
-              srcset="/images/service-3_hu253be68c312fbd4b154613c4276f36e3_16481_545x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 575px)" />
-          <source
-            
-              srcset="/images/service-3_hu253be68c312fbd4b154613c4276f36e3_16481_600x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 767px)" />
-          <source
-            
-              srcset="/images/service-3_hu253be68c312fbd4b154613c4276f36e3_16481_700x0_resize_q90_h2_lanczos_3.webp"
-            
-            media="(max-width: 991px)" />
-          <source
-            
-              srcset="/images/service-3_hu253be68c312fbd4b154613c4276f36e3_16481_1110x0_resize_q90_h2_lanczos_3.webp"
-             />
-          <img
-            
-              loading="lazy" decoding="async"
-              src="/images/service-3_hu253be68c312fbd4b154613c4276f36e3_16481_1110x0_resize_lanczos_3.png"
-            class="  img"
-            alt="feature image"
-            width="532"
-            height="433" />
-        </picture>
-      
-      
-    
-    
-  
-
-
-  
-
-
-          </div>
-          <div
-            class=" md:col-7 lg:col-6">
-            <h2 class="mb-4">
-              The Top Reasons to Choose Hugo for Your Hugo Project
-            </h2>
-            <p class="mb-8 text-lg">
-              With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use.
-            </p>
-            <ul>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Instantly load static sites for better user experience and SEO.
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze.
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Use any front-end library or framework, or build custom components, for any project size.
-                </li>
-              
-                <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  Built on cutting-edge technology to keep your projects up-to-date with the latest web standards.
-                </li>
-              
-            </ul>
-            
-              
             
           </div>
         </div>
@@ -1468,722 +660,38 @@
     </section>
   
   
-
   
   
-    
-      <section class="section">
-        <div class="container">
-          <div class="row">
-            <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
-              <h2 class="mb-4">
-                What Users Are Saying About Hugoplate
-              </h2>
-              <p>
-                Don&rsquo;t just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate.
-              </p>
-            </div>
-            <div class="col-12">
-              <div class="swiper testimonial-slider">
-                <div class="swiper-wrapper">
-                  
-                    <div class="swiper-slide">
-                      <div
-                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
-                        <div class="text-dark dark:text-white">
-                          <svg
-                            width="33"
-                            height="20"
-                            viewBox="0 0 33 20"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
-                              fill="currentColor" />
-                          </svg>
-                        </div>
-                        <blockquote class="mt-8">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam.
-                        </blockquote>
-                        <div class="mt-11 flex items-center">
-                          <div class="text-dark dark:text-white">
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
   
 
 
-
-
-
   
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <img
-          
-            src="/images/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_q90_h2_lanczos_3.webp" loading="lazy" decoding="async"
-          
-
-          alt="Marvin McKinney"
-          class=" rounded-full img"
-          width="50"
-          height="50"
-          onerror="this.onerror='null';this.src='\/images\/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_lanczos_3.png';" />
-
-        
-      
-      
-    
-    
-  
-
-
-  
-
-
-                          </div>
-                          <div class="ml-4">
-                            <h3 class="h5 font-primary font-semibold">
-                              Marvin McKinney
-                            </h3>
-                            <p class="text-dark dark:text-white">
-                              Web Designer
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  
-                    <div class="swiper-slide">
-                      <div
-                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
-                        <div class="text-dark dark:text-white">
-                          <svg
-                            width="33"
-                            height="20"
-                            viewBox="0 0 33 20"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
-                              fill="currentColor" />
-                          </svg>
-                        </div>
-                        <blockquote class="mt-8">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam.
-                        </blockquote>
-                        <div class="mt-11 flex items-center">
-                          <div class="text-dark dark:text-white">
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
+  <body>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=m&d=kZM6s0pK6F2hXf3Zh6KHqUItH7S6a2GioWYVhE-e4GI&co=1c1c1c&cmo=ea4040&cmn=fc1541&ct=ffffff'></script>
+  </body>
   
   
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <img
-          
-            src="/images/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_q90_h2_lanczos_3.webp" loading="lazy" decoding="async"
-          
-
-          alt="Marvin McKinney"
-          class=" rounded-full img"
-          width="50"
-          height="50"
-          onerror="this.onerror='null';this.src='\/images\/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_lanczos_3.png';" />
-
-        
-      
-      
-    
-    
   
-
-
-  
-
-
-                          </div>
-                          <div class="ml-4">
-                            <h3 class="h5 font-primary font-semibold">
-                              Marvin McKinney
-                            </h3>
-                            <p class="text-dark dark:text-white">
-                              Web Designer
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  
-                    <div class="swiper-slide">
-                      <div
-                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
-                        <div class="text-dark dark:text-white">
-                          <svg
-                            width="33"
-                            height="20"
-                            viewBox="0 0 33 20"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
-                              fill="currentColor" />
-                          </svg>
-                        </div>
-                        <blockquote class="mt-8">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam.
-                        </blockquote>
-                        <div class="mt-11 flex items-center">
-                          <div class="text-dark dark:text-white">
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <img
-          
-            src="/images/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_q90_h2_lanczos_3.webp" loading="lazy" decoding="async"
-          
-
-          alt="Marvin McKinney"
-          class=" rounded-full img"
-          width="50"
-          height="50"
-          onerror="this.onerror='null';this.src='\/images\/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_lanczos_3.png';" />
-
-        
-      
-      
-    
-    
-  
-
-
-  
-
-
-                          </div>
-                          <div class="ml-4">
-                            <h3 class="h5 font-primary font-semibold">
-                              Marvin McKinney
-                            </h3>
-                            <p class="text-dark dark:text-white">
-                              Web Designer
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  
-                    <div class="swiper-slide">
-                      <div
-                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
-                        <div class="text-dark dark:text-white">
-                          <svg
-                            width="33"
-                            height="20"
-                            viewBox="0 0 33 20"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
-                              fill="currentColor" />
-                          </svg>
-                        </div>
-                        <blockquote class="mt-8">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam.
-                        </blockquote>
-                        <div class="mt-11 flex items-center">
-                          <div class="text-dark dark:text-white">
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <img
-          
-            src="/images/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_q90_h2_lanczos_3.webp" loading="lazy" decoding="async"
-          
-
-          alt="Marvin McKinney"
-          class=" rounded-full img"
-          width="50"
-          height="50"
-          onerror="this.onerror='null';this.src='\/images\/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_lanczos_3.png';" />
-
-        
-      
-      
-    
-    
-  
-
-
-  
-
-
-                          </div>
-                          <div class="ml-4">
-                            <h3 class="h5 font-primary font-semibold">
-                              Marvin McKinney
-                            </h3>
-                            <p class="text-dark dark:text-white">
-                              Web Designer
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  
-                </div>
-                <div
-                  class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
     
   
   
 
     </main>
-
+  
     
     
       <footer class="bg-theme-light dark:bg-darkmode-theme-light">
   <div class="container">
-    <div class="row items-center py-10">
-      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left">
-        
-        <a
-          class="navbar-brand inline-block"
-          href="/">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-  
-  
-    
-    
-  
-
-
-  
-  
-    
-    
-    
-    
-    
-    
-    
-  
-  
-
-  
-  
-    
-    
-      
-      
-
-
-      
-      
-        
-        
-        
-        
-
-        
-        
-        
-      
-      
-    
-  
-  
-
-  
-    <img
-      fetchpriority="high"
-      decoding="async"
-      class="img logo-light"
-      width="160"
-      height="32"
-      src="/images/logo_hud3822dc52499c854acb9b180fed4f736_3648_320x0_resize_q90_h2_lanczos_3.webp"
-      alt="Hugoplate"
-      onerror="this.onerror=null;this.src='\/images\/logo_hud3822dc52499c854acb9b180fed4f736_3648_320x0_resize_lanczos_3.png';" />
-
-    <img
-      fetchpriority="high"
-      decoding="async"
-      class="img logo-dark"
-      width="160"
-      height="32"
-      src="/images/logo-darkmode_hu95dd250582672ebe0c063cf60eed448f_3090_320x0_resize_q90_h2_lanczos_3.webp"
-      alt="Hugoplate"
-      onerror="this.onerror=null;this.src='\/images\/logo-darkmode_hu95dd250582672ebe0c063cf60eed448f_3090_320x0_resize_lanczos_3.png';" />
-  
-  
-
-
-        </a>
-      </div>
+    <div class="row items-center py-0">
       <div class="lg:col-6 mb-8 text-center lg:mb-0">
         <ul>
-          
-            <li class="m-3 inline-block">
-              <a
-                
-                href="
-                  /about/
-                "
-                >About</a
-              >
-            </li>
-          
-            <li class="m-3 inline-block">
-              <a
-                
-                href="
-                  /elements/
-                "
-                >Elements</a
-              >
-            </li>
-          
-            <li class="m-3 inline-block">
-              <a
-                
-                href="
-                  /privacy-policy/
-                "
-                >Privacy Policy</a
-              >
-            </li>
           
         </ul>
       </div>
       <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:mt-0 lg:text-right">
         <ul class="social-icons">
-          
-            <li>
-              <a
-                target="_blank"
-                aria-label="facebook"
-                rel="nofollow noopener"
-                href="https://www.facebook.com/">
-                <i class="fab fa-facebook"></i>
-              </a>
-            </li>
-          
-            <li>
-              <a
-                target="_blank"
-                aria-label="twitter"
-                rel="nofollow noopener"
-                href="https://twitter.com/">
-                <i class="fab fa-twitter"></i>
-              </a>
-            </li>
-          
-            <li>
-              <a
-                target="_blank"
-                aria-label="github"
-                rel="nofollow noopener"
-                href="https://www.github.com/">
-                <i class="fab fa-github"></i>
-              </a>
-            </li>
-          
-            <li>
-              <a
-                target="_blank"
-                aria-label="linkedin"
-                rel="nofollow noopener"
-                href="https://www.linkedin.com/">
-                <i class="fab fa-linkedin"></i>
-              </a>
-            </li>
           
         </ul>
       </div>
@@ -2192,7 +700,7 @@
   <div class="border-border dark:border-darkmode-border border-t py-7">
     <div class="text-light dark:text-darkmode-light container text-center">
       <p>
-        Designed &amp; Developed by <a href="https://zeon.studio"
+        Designed &amp; Developed by <a href="https://gohugo.io/"
 
 
 
@@ -2201,12 +709,22 @@
  
 
 
->Zeon Studio</a>
+>Hugo</a>
+ and <a href="https://www.netlify.com/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>netlify</a>
+ | 2024 Jinbiao Cao (曹金彪)
       </p>
     </div>
   </div>
 </footer>
-
       
 
 
@@ -2314,4 +832,5 @@
 
     
   </body>
+  
 </html>

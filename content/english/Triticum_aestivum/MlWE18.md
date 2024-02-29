@@ -1,0 +1,29 @@
+---
+description:  ; Triticum aestivum
+meta_title:
+title: MlWE18
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[](https://www.maizegdb.org/gene_center/gene/)
+- **Gene Symbol:** MlWE18
+- **Gene Name:** 
+- **Species:** Triticum aestivum
+- **NCBI ID:** [ MW375697 ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - Powdery mildew resistance gene MlWE18 was identified in common wheat line 3D249
+   - 
+   - 
+
+## Publications:
+   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609)
+   - **DOI:** [10.1111/pbi.13609](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609)
+   - **PubMed ID:** [33949081](https://pubmed.ncbi.nlm.nih.gov/33949081/)
+
+3. **Related News:**
+   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247509894&idx=3&sn=3ea9e643233016321a12f84f691726e8&chksm=ce900ad3f9e783c537ebf21a059cebccfb7837a5b9848e7ef5f7d041144b89a6b5d40f1a7c0a&scene=27#wechat_redirect)

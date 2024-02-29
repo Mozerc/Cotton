@@ -1,0 +1,29 @@
+---
+description: precursor elicitor peptide3 ; Zm00001d002138 ; Zea mays
+meta_title:
+title: ZmPep3;propep3
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Zm00001d002138](https://www.maizegdb.org/gene_center/gene/Zm00001d002138)
+- **Gene Symbol:** ZmPep3;propep3
+- **Gene Name:** precursor elicitor peptide3
+- **Species:** Zea mays
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+
+## Functions:
+   - We observed a marked shift from strong ZmPep3 responsiveness in L4 leaves to strong HAC responsiveness in L6 leaves.
+   - ZmPep3, L4 leaves showed the highest emission of indole, monoterpenes, DMNT, and sesquiterpenes, and responsiveness dropped in L5 and L6 leaves.
+   - Responsiveness to the non-volatile elicitor ZmPep3 shows an opposite pattern, demonstrating that this form of hyposmia (i.e., decreased sense of smell) is not due to a general defect in jasmonate defense signaling in mature leaves.
+
+## Publications:
+   - **Publication** [文章名](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00984-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223009843%3Fshowall%3Dtrue)
+   - **DOI:** [10.1016/j.cub.2023.07.045](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00984-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223009843%3Fshowall%3Dtrue)
+   - **PubMed ID:** [37597519](https://pubmed.ncbi.nlm.nih.gov/37597519/)
+
+3. **Related News:**
+   - [新闻标题]()
