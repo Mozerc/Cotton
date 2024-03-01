@@ -1,6 +1,6 @@
 {{ $paginator := .Paginator }}
 <!-- Number of links either side of the current page. -->
-{{ $adjacent_links := 2 }}
+{{ $adjacent_links := 4 }}
 <!-- $max_links = ($adjacent_links * 2) + 1 -->
 {{ $max_links := (add (mul $adjacent_links 2) 1) }}
 <!-- $lower_limit = $adjacent_links + 1 -->
@@ -31,7 +31,7 @@
             clip-rule="evenodd" />
         </svg>
       </a>
-    {{ else }}
+      {{ else }}
       <span class="text-light rounded px-2 py-1.5">
         <span class="sr-only">Previous</span>
         <svg
@@ -47,8 +47,6 @@
         </svg>
       </span>
     {{ end }}
-
-
     <!-- Page numbers -->
     {{ range $paginator.Pagers }}
       {{ $.Scratch.Set "page_number_flag" false }}
@@ -97,7 +95,7 @@
         {{ end }}
       {{ end }}
     {{ end }}
-
+     
 
     <!-- Next page. -->
     {{ if $paginator.HasNext }}
@@ -136,3 +134,30 @@
     {{ end }}
   </nav>
 {{ end }}
+
+<!-- Jump to page input -->
+{{ if lt $paginator.TotalPages 10 }}
+  
+{{ else }}
+<input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="" class="rounded px-2 py-1 text-center">
+<button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
+<span>Max page: {{ $paginator.TotalPages }}</span> 
+{{ end }}
+<script>
+  document.getElementById('jumpBtn').addEventListener('click', function() {
+    var pageInput = document.getElementById('pageInput').value;
+    var totalPages = {{ $paginator.TotalPages }};
+    // Validate page number
+    if (pageInput >= 1 && pageInput <= totalPages) {
+      var url = "{{ $paginator.URL }}";
+      // Replace the page number in the URL
+      url = url.replace("{{ $paginator.PageNumber }}", pageInput);
+      // Navigate to the new URL
+      window.location.href = url;
+    } else {
+      alert("Invalid page number!");
+    }
+  });
+</script>
+
+   
