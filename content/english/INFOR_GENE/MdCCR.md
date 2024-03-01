@@ -1,5 +1,5 @@
 ---
-description:  ; Malus domestica
+description:   Malus domestica
 meta_title:
 title: MdCCR
 category: genes

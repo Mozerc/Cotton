@@ -1,0 +1,25 @@
+---
+description: Csa3G748220 ; Cucumis sativus
+meta_title:
+title: CsTBH
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Csa3G748220](https://www.maizegdb.org/gene_center/gene/Csa3G748220)
+- **Gene Symbol:** CsTBH
+- **Gene Name:** 
+- **Species:** Cucumis sativus
+- **NCBI ID:** [  ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [Cucumber (Chinese Long) v2 Genome]()
+
+## Functions:
+   - we provide evidence that CsTBH can directly bind to the promoters of cucumber 1-Aminocyclopropane-1-Carboxylate Synthase (CsACS) genes and regulate their expression, which affects multicellular trichome development
+
+## Publications:
+   - [TINY BRANCHED HAIR functions in multicellular trichome development through an ethylene pathway in Cucumis sativus L.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15198 ) - [10.1111/tpj.15198 ]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15198 ) - [33577109](https://pubmed.ncbi.nlm.nih.gov/33577109/)
+
+## Related News:
+   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247505156&idx=3&sn=94b16fe47df161b0a4b71da8132a9716&chksm=ce907851f9e7f14776ffaba899807d0c8bf6b72cc543dc44587b43aa52152bfed0843b884eb2&scene=27#wechat_redirect)

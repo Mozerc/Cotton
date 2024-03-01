@@ -1,0 +1,27 @@
+---
+description:  Gossypium hirsutum
+meta_title:
+title: GhKNL1
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[](https://www.maizegdb.org/gene_center/gene/)
+- **Gene Symbol:** GhKNL1
+- **Gene Name:** 
+- **Species:** Gossypium hirsutum
+- **NCBI ID:** [ KC200250 ]()
+- **Protein Sequence:** *Not Available*
+- **Genome Version:** [genomes of G.hirsutum TM-1]()
+
+## Functions:
+   - Overexpression of GhKNL1 reduces the expression of GhXTH1, Gh1,3-β-G, the cell wall protein GhAGP4, and SCW biosynthesis genes such as GhCesA4, thus resulting in decreased fiber length and thinner SCWs.
+   - GhHUB2 ubiquitinates GhKNL1 and directs its degradation through the ubiquitin–26S proteasome-dependent pathway. Our study thus reveals a novel function of HUB2 in plants.
+   -  GhKNL1, which is predominantly expressed in developing fibers.
+
+## Publications:
+   - [GhHUB2, a ubiquitin ligase, is involved in cotton fiber development via the ubiquitin-26S proteasome pathway.]( https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true ) - [10.1093/jxb/ery269]( https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true ) - [30053051](https://pubmed.ncbi.nlm.nih.gov/30053051/)
+
+## Related News:
+   - [新闻标题](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247489711&idx=2&sn=bd86cd9692417401df52fd3d24906458&chksm=e8be6ab1dfc9e3a7783768980647a1ccd12c0666116783661490967489152ca9cd09e285df9f&scene=27#wechat_redirect)
