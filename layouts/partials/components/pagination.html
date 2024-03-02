@@ -8,10 +8,16 @@
 <!-- $upper_limit = $paginator.TotalPages - $adjacent_links -->
 {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
 <!-- If there's more than one page. -->
+
 {{ if gt $paginator.TotalPages 1 }}
-  <nav 
+  
+ <nav 
     class="flex items-center justify-center space-x-3" 
     aria-label="Pagination"  >
+    {{ if lt $paginator.TotalPages 10 }}
+    {{ else }}
+    <div style="text-align: left; display: block;">TotalPages: {{ $paginator.TotalPages }}</div>
+    {{ end }}
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
       <a
@@ -98,6 +104,8 @@
      
 
     <!-- Next page. -->
+    
+    
     {{ if $paginator.HasNext }}
       <a
         class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
@@ -135,9 +143,11 @@
         <!-- Jump to page input -->
         {{ if lt $paginator.TotalPages 10 }}
         {{ else }}
-        <input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="page" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;">
         <button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
-        <span>Max page: {{ $paginator.TotalPages }}</span> 
+        <span>to page:</span>
+        <input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;">
+        
+        
         {{ end }}
         <script>
           document.getElementById('jumpBtn').addEventListener('click', function() {
@@ -146,8 +156,14 @@
             // Validate page number
             if (pageInput >= 1 && pageInput <= totalPages) {
               var url = "{{ $paginator.URL }}";
-              // Replace the page number in the URL
-              url = url.replace("{{ $paginator.PageNumber }}", pageInput);
+              // Check if the URL already contains page number parameter
+              if (url.includes("{{ $paginator.PageNumber }}")) {
+                // Update the page number parameter value
+                url = url.replace("{{ $paginator.PageNumber }}", pageInput);
+              } else {
+                // Append page number parameter to the URL
+                url += "/page/" + pageInput;
+              }
               // Navigate to the new URL
               window.location.href = url;
             } else {
