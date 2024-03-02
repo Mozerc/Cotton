@@ -139,7 +139,7 @@
 {{ if lt $paginator.TotalPages 10 }}
   
 {{ else }}
-<input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="" class="rounded px-2 py-1 text-center">
+<input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="page" class="rounded px-2 py-1 text-center">
 <button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
 <span>Max page: {{ $paginator.TotalPages }}</span> 
 {{ end }}
