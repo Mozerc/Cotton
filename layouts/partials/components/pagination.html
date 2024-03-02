@@ -132,32 +132,35 @@
         </svg>
       </span>
     {{ end }}
+        <!-- Jump to page input -->
+        {{ if lt $paginator.TotalPages 10 }}
+        {{ else }}
+        <input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="page" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;">
+        <button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
+        <span>Max page: {{ $paginator.TotalPages }}</span> 
+        {{ end }}
+        <script>
+          document.getElementById('jumpBtn').addEventListener('click', function() {
+            var pageInput = document.getElementById('pageInput').value;
+            var totalPages = {{ $paginator.TotalPages }};
+            // Validate page number
+            if (pageInput >= 1 && pageInput <= totalPages) {
+              var url = "{{ $paginator.URL }}";
+              // Replace the page number in the URL
+              url = url.replace("{{ $paginator.PageNumber }}", pageInput);
+              // Navigate to the new URL
+              window.location.href = url;
+            } else {
+              alert("Invalid page number!");
+            }
+          });
+        </script>
+  
   </nav>
+  
+
 {{ end }}
 
-<!-- Jump to page input -->
-{{ if lt $paginator.TotalPages 10 }}
-  
-{{ else }}
-<input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="page" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;">
-<button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
-<span>Max page: {{ $paginator.TotalPages }}</span> 
-{{ end }}
-<script>
-  document.getElementById('jumpBtn').addEventListener('click', function() {
-    var pageInput = document.getElementById('pageInput').value;
-    var totalPages = {{ $paginator.TotalPages }};
-    // Validate page number
-    if (pageInput >= 1 && pageInput <= totalPages) {
-      var url = "{{ $paginator.URL }}";
-      // Replace the page number in the URL
-      url = url.replace("{{ $paginator.PageNumber }}", pageInput);
-      // Navigate to the new URL
-      window.location.href = url;
-    } else {
-      alert("Invalid page number!");
-    }
-  });
-</script>
+
 
    
