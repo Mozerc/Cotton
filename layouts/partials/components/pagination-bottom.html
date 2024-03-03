@@ -143,35 +143,35 @@
         <!-- Jump to page input -->
         {{ if lt $paginator.TotalPages 10 }}
         {{ else }}
-        <button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
+        <button id="jumpBtnBottom" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
         <span>to page:</span>
-        <input type="number" id="pageInput" min="1" max="{{ $paginator.TotalPages }}" placeholder="" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;">
+        <input type="number" id="pageInputBottom" min="1" max="{{ $paginator.TotalPages }}" placeholder="" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" >
         
         
         {{ end }}
         <script>
           document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('jumpBtn').addEventListener('click', function() {
-        var pageInput = document.getElementById('pageInput').value;
-        var totalPages = {{ $paginator.TotalPages }};
-        // Validate page number
-        if (pageInput >= 1 && pageInput <= totalPages) {
-            var url = "{{ $paginator.URL }}";
+            document.getElementById('jumpBtnBottom').addEventListener('click', function() {
+               var pageInput = document.getElementById('pageInputBottom').value;
+               var totalPages = {{ $paginator.TotalPages }};
+          // Validate page number
+            if (pageInput >= 1 && pageInput <= totalPages) {
+                var url = "{{ $paginator.URL }}";
             // Check if the URL already contains page number parameter
-            if (url.includes("{{ $paginator.PageNumber }}")) {
+                if (url.includes("{{ $paginator.PageNumber }}")) {
                 // Update the page number parameter value
                 url = url.replace("{{ $paginator.PageNumber }}", pageInput);
-            } else {
+             } else {
                 // Append page number parameter to the URL
                 url += "/page/" + pageInput;
-            }
-            // Navigate to the new URL
-            window.location.href = url;
-        } else {
+              }
+            // Navigate to the new URL 
+             window.location.href = url;
+          } else {
             alert("Invalid page number!");
-        }
-    });
-});
+               }
+             });
+          });
         </script>
   
   </nav>
