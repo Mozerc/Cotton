@@ -16,7 +16,7 @@
     aria-label="Pagination"  >
     {{ if lt $paginator.TotalPages 10 }}
     {{ else }}
-    <div style="text-align: left; display: block;">TotalPages: {{ $paginator.TotalPages }}</div>
+    <div style="text-align: left; display: block;">Total pages: {{ $paginator.TotalPages }}</div>
     {{ end }}
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
@@ -143,9 +143,8 @@
         <!-- Jump to page input -->
         {{ if lt $paginator.TotalPages 10 }}
         {{ else }}
-        <button id="jumpBtnBottom" class="rounded px-2 py-1 bg-primary text-white hover:bg-theme-light">Go</button>
-        <span>to page:</span>
-        <input type="number" id="pageInputBottom" min="1" max="{{ $paginator.TotalPages }}" placeholder="" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" >
+        <button id="jumpBtnBottom" class="rounded px-2 py-1 bg-primary text-white ">Go to page</button>
+        <input type="number" id="pageInputBottom" min="1" max="{{ $paginator.TotalPages }}" placeholder="{{ $paginator.PageNumber }}" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" onfocus="this.placeholder=''" onblur="this.placeholder='{{ $paginator.PageNumber }}'">
         
         
         {{ end }}

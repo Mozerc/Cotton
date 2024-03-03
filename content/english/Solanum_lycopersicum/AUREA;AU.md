@@ -10,9 +10,9 @@ tags: []
 - **Gene ID:**	[Solyc01g008930](https://www.maizegdb.org/gene_center/gene/Solyc01g008930)
 - **Gene Symbol:** AUREA;AU
 - **Gene Name:** 
-- **Species:** Solanum lycopersicum
+- **Species:** *Solanum lycopersicum*
 - **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
+- **Protein Sequence:** 
 - **Genome Version:** [tomato genome sequence SL4.0]()
 
 ## Functions:
