@@ -1,0 +1,28 @@
+---
+description: POD SIZE/WEIGHT1 ; Arahy.VAAE0N ; Arachis hypogaea
+meta_title:
+title: PSW1
+category: genes
+tags: []
+---
+
+## Gene Details
+- **Gene ID:**	[Arahy.VAAE0N](Arahy.VAAE0N)
+- **Gene Symbol:** PSW1
+- **Gene Name:** POD SIZE/WEIGHT1
+- **NCBI ID:** [XP_025608327.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_025608327.1)
+- **Genome Version:** [Arachis hypogaea cv. Tifrunner]()
+- **Species:** *Arachis hypogaea*
+
+## Functions:
+   - Our work thus discovers a conserved function of **PSW1** that controls pod size and provides a valuable genetic resource for breeding high-yield crops
+
+## Publications:
+   - [PSW1, an LRR receptor kinase, regulates pod size in peanut.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14117)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14117](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14117)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37431286](https://pubmed.ncbi.nlm.nih.gov/37431286/)
+
+## Related News:
+   - [PBJ | 河南农大殷冬梅团队揭示花生荚果大小基因PSW1及其分子调控机制](https://mp.weixin.qq.com/s/HI6nNQv06pWhDDLQe2mFrw)
+
+## Sequence Informations:
+- **CDS Sequence:**
+- **Protein Sequence:**
