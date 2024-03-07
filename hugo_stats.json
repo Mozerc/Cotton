@@ -45,6 +45,8 @@
       "ul"
     ],
     "classes": [
+      "1",
+      "=",
       "absolute",
       "active",
       "bg-body",
@@ -60,6 +62,7 @@
       "btn-sm",
       "container",
       "content",
+      "custom-margin",
       "dark:bg-darkmode-body",
       "dark:bg-darkmode-primary",
       "dark:bg-darkmode-theme-light",
@@ -113,7 +116,6 @@
       "m-3",
       "mb-14",
       "mb-4",
-      "mb-5",
       "mb-6",
       "mb-7",
       "mb-8",
@@ -125,7 +127,10 @@
       "ml-2",
       "ml-auto",
       "mr-5",
+      "mt",
+      "mt-0",
       "mt-1",
+      "mt-3",
       "mt-4",
       "mt-8",
       "mx-auto",
@@ -191,10 +196,13 @@
     "ids": [
       "article",
       "clustrmaps",
+      "functional-description",
       "functions",
       "gene-details",
+      "gene-resources",
       "jumpBtn",
       "jumpBtnBottom",
+      "literature",
       "message",
       "myForm",
       "name",
@@ -205,6 +213,7 @@
       "related-news",
       "search-modal-input",
       "sequence-informations",
+      "sequences",
       "theme-switcher"
     ]
   }

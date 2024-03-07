@@ -1,11 +1,15 @@
-<div class="bg-body dark:bg-darkmode-body">
-  {{ $image:= .Params.image }}
-  {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
-  {{ end }}
-  <h4 class="mb-5">
-    <a href="{{ .RelPermalink }}">
-      {{ .Title }}
-    </a>
-  </h4>
-</div>
+
+<section class="section" style="padding-bottom: 1px; padding-top: 1px;">
+  <div class="container">
+       <div class="mt-0">
+            <!-- 应用样式到标题 -->
+            <p>
+              <a href="{{ .Permalink }}" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                {{ .Title }}
+              </a>
+            </p>
+            <!-- 应用样式到描述 -->
+        </div>
+  </div>
+</section>
+
