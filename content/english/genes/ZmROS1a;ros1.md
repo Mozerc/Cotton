@@ -15,7 +15,7 @@ tags: [ transcription factor,fertility,endosperm,height ]
 
 ## Functional Description:
    - Here we investigated the function of two genes (**ZmROS1a** and ZmROS1b, abbreviated as **ZmROS1a**b) encoding DNA demethylases in maize. We found that **ZmROS1a**b preferentially target regions with regulatory function in gene expression. **ZmROS1a**b is important for the proper expression of genes in endosperm, including imprinted genes.
-   - We showed that the regulation of ZmROS1ab on gene expression is partly dependent on DNA methylation-sensitive binding of transcription factor. Our results suggest a critical role and a possible mechanism of ZmROS1ab in regulating gene expression in maize kernel.
+   - We showed that the regulation of **ZmROS1ab** on gene expression is partly dependent on DNA methylation-sensitive binding of transcription factor. Our results suggest a critical role and a possible mechanism of **ZmROS1ab** in regulating gene expression in maize kernel.
    - In the homozygous mutant, expression of both the **ZmROS1a** and ZmROS1b gene was significantly reduced. Phenotypic analysis revealed that the double mutant had reduced height and flowered later than the wild-type. The double mutant is viable and produces ears with normal to slightly reduced fertility. Overall, the phenotype of the single mutants is relatively subtle compared to double mutant, suggesting functional redundancy of these two genes.
 
 ## Literature:

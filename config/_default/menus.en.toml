@@ -8,13 +8,13 @@ weight = 1
 
 [[main]]
 name = "SPECIES"
-url = "authors/"
+url = "species/"
 weight = 2
 
 
 [[main]]
 name = "GENES"
-url = "infor_gene/"
+url = "genes/"
 weight = 3
 
 
@@ -26,7 +26,7 @@ weight = 4
 
 [[main]]
 name = "ABOUT"
-url = "abouts/"
+url = "about/"
 weight = 5
 
 
