@@ -15,7 +15,7 @@ tags: [ ga, ga ,height,plant height,flowering time,flowering ]
 
 ## Functional Description:
    - **LHY2a** encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean
-   - **LHY2a** positively regulates photoperiodic flowering time
+   - **LHY1/2a** positively regulates photoperiodic flowering time
    - 
 
 ## Literature:

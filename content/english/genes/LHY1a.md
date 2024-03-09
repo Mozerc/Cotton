@@ -14,11 +14,11 @@ tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,flowering time, ab
 - **Species:** *Glycine max*
 
 ## Functional Description:
-   - The expressions of four GmLHYs were all induced by drought, and the quadruple mutants of GmLHYs demonstrated significantly improved drought tolerance. Transcriptome profiling suggested that the abscisic acid (ABA) signaling pathway is regulated by GmLHYs to respond to drought tolerance.
-   - LHY2a positively regulates photoperiodic flowering time
+   - The expressions of four **GmLHYs** were all induced by drought, and the quadruple mutants of **GmLHYs** demonstrated significantly improved drought tolerance. Transcriptome profiling suggested that the abscisic acid (ABA) signaling pathway is regulated by **GmLHYs** to respond to drought tolerance.
+   - **LHY1/2a** positively regulates photoperiodic flowering time
 
 ## Literature:
-   - [Liver transplantation in Australia.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17019)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17019](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17019)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[3309590](https://pubmed.ncbi.nlm.nih.gov/3309590/)
+   - [Two homologous LHY pairs negatively control soybean drought tolerance by repressing the abscisic acid responses](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17019)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17019](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17019)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33095906](https://pubmed.ncbi.nlm.nih.gov/33095906/)
    - [Molecular mechanisms for the photoperiodic regulation of flowering in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13021](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33090664](https://pubmed.ncbi.nlm.nih.gov/33090664/)
    - [Natural variation at the soybean J locus improves adaptation to the tropics and enhances yield.]( https://www.nature.com/articles/ng.3819)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ng.3819](https://www.nature.com/articles/ng.3819)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28319089](https://pubmed.ncbi.nlm.nih.gov/28319089/)
 
