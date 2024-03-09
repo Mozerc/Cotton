@@ -3,7 +3,7 @@ description: brassinosteroid-signaling kinase 1 ; Zm00001eb402560 ; Zea mays
 meta_title:
 title: ZmBSK1;bsk1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [New Phytologist | 南京农业大学张阿英教授课题组揭示BSK1-CCaMK介导玉米耐旱性的调控机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247508691&idx=2&sn=07fbef4800e3b8bc4221e55cccaa8d29&chksm=ce900f86f9e78690bc873e0a547bd4db22c7c93f77e2cb635f0095b72533ae31a8031d4d6a29&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100192644](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192644)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

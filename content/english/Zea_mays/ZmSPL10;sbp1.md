@@ -3,7 +3,7 @@ description: SBP-domain protein1 ; Zm00001eb233670 ; Zea mays
 meta_title:
 title: ZmSPL10;sbp1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [New Phytologist  | 华南农业大学王海洋教授课题组在玉米叶片表皮细胞发育的分子机制研究中取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247506014&idx=3&sn=8b818fad749dcc60a98f4dc45616ff4d&chksm=ce90750bf9e7fc1d10be597beb29dbbdc81f1c2c2a978c7593467af0005876c6b11f7d24d7aa&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100127016](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127016)
 - **UniProt accessions:** [B6TPH6](https://www.uniprot.org/uniprotkb/B6TPH6/entry)&nbsp;,&nbsp;[A0A1D6H271](https://www.uniprot.org/uniprotkb/A0A1D6H271/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

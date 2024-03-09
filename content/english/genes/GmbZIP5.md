@@ -3,24 +3,30 @@ description: Glyma.15g014800 ; Glycine max
 meta_title:
 title: GmbZIP5
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Glyma.15g014800](https://www.maizegdb.org/gene_center/gene/Glyma.15g014800)
 - **Gene Symbol:** GmbZIP5
 - **Gene Name:** 
-- **Species:** Glycine max
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Species:** *Glycine max*
 
-## Functions:
-   - A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean
-   - RNAi silencing of GmbZIP5 reduced the isoflavonoid level in soybean hairy roots.
+## Functional Description:
+   - A combinatorial action of GmMYB176 and **GmbZIP5** controls isoflavonoid biosynthesis in soybean
+   - RNAi silencing of **GmbZIP5** reduced the isoflavonoid level in soybean hairy roots.
    - 
 
-## Publications:
-   - [A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max).]( https://www.nature.com/articles/s42003-021-01889-6 ) - [10.1038/s42003-021-01889-6]( https://www.nature.com/articles/s42003-021-01889-6 ) - [33742087](https://pubmed.ncbi.nlm.nih.gov/33742087/)
+## Literature:
+   - [A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max).]( https://www.nature.com/articles/s42003-021-01889-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s42003-021-01889-6](https://www.nature.com/articles/s42003-021-01889-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33742087](https://pubmed.ncbi.nlm.nih.gov/33742087/)
 
 ## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

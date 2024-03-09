@@ -3,7 +3,7 @@ description: LETHAL LEAF SPOT1 ; Zm00001eb003760 ; Zea mays
 meta_title:
 title: LLS1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [JXB│河南农业大学苟明月教授课题组揭示叶绿素降解通路介导的玉米广谱抗病性新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247527008&idx=3&sn=fd1587319619be517e11df560dd883c2&chksm=ce90c735f9e74e238ee0e1de7489404763585b16d73aabbe14f7a58ae3e58cfe1ec1e9e5c045&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103631716](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103631716)
 - **UniProt accessions:** [A0A1D6JNJ8](https://www.uniprot.org/uniprotkb/A0A1D6JNJ8/entry)&nbsp;,&nbsp;[A0A1D6JNJ9](https://www.uniprot.org/uniprotkb/A0A1D6JNJ9/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

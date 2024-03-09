@@ -3,27 +3,30 @@ description:  Alfin-like-transcription factor 7 ; Zm00001eb182490 ; Zea mays
 meta_title:
 title: ZmAL6;alf7
 category: genes
-tags: []
+tags: [ transcription factor ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb182490](https://www.maizegdb.org/gene_center/gene/Zm00001eb182490)
 - **Gene Symbol:** ZmAL6;alf7
 - **Gene Name:**  Alfin-like-transcription factor 7
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
-   - ZmAL6 is involved in regulating the process of dynamically modifying chromatin structure to control gene expression.
-   - ZmAL6 encodes a alfin-like-transcription factor.
+## Functional Description:
+   - **ZmAL6** is involved in regulating the process of dynamically modifying chromatin structure to control gene expression.
+   - **ZmAL6** encodes a alfin-like-transcription factor.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)
-   - **DOI:** [10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)
-   - **PubMed ID:** [33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
+## Literature:
+   - [A temporal hierarchy underpins the transcription factor-DNA interactome of the maize UPR.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,7 +3,7 @@ description: Wuschel-like homeobox3 ; Zm00001eb265710 ; Zea mays
 meta_title:
 title: Wox3;Wox3a
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [Nature Plants | Wox3模式组件调控玉米叶和叶舌的平面生长](https://mp.weixin.qq.com/s/0tB46JlJRvYp9gctSzD4Dw)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100127511](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127511)
 - **UniProt accessions:** [Q70UV1](https://www.uniprot.org/uniprotkb/Q70UV1/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

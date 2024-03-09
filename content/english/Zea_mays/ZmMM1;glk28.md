@@ -3,7 +3,7 @@ description: Mexicana lesion mimic 1 ; Zm00001eb298990 ; Zea mays
 meta_title:
 title: ZmMM1;glk28
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [Mol Plant | 华中农业大学赖志兵课题组揭示了玉米广谱抗病性的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247513887&idx=4&sn=d8ba124a3dae581edf7b8670bb52d01b&chksm=ce901a4af9e7935c62ec0ad6c40db36021b4bcdebfef543918a1a77646c64eff73ae9bd470bd&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100282329](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282329)
 - **UniProt accessions:** [A0A1D6HRM9](https://www.uniprot.org/uniprotkb/A0A1D6HRM9/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,7 +3,7 @@ description: rolled leaf2 ; Zm00001eb000690 ; Zea mays
 meta_title:
 title: ZmHB58;RLD2
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [Development | 玉米LBL1-ta-siRNA和miR165/166-RLD1/2 调控根系生长发育](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247499877&idx=6&sn=624bb2bad0751749b9333c1f18353f9c&chksm=ce906d30f9e7e42649aa627b54052b471ddf310b4efd4da4101d666d92afd92f96de7f73f3e6&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100037826](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037826)
 - **UniProt accessions:** [C0PDB8](https://www.uniprot.org/uniprotkb/C0PDB8/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

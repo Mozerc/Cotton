@@ -3,27 +3,30 @@ description: TraesCS3A02G249100 ; Triticum aestivum
 meta_title:
 title: TaFUSCA3-3A
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS3A02G249100](https://www.maizegdb.org/gene_center/gene/TraesCS3A02G249100)
 - **Gene Symbol:** TaFUSCA3-3A
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - TaFUSCA3 could participate in the growth and development of wheat and in endosperm development
    - Seed storage protein (SSP) genes
    - The end-use quality of wheat, including its unique rheology and viscoelastic properties,
 
-## Publications:
-   - **Publication** [文章名](https://www.frontiersin.org/articles/10.3389/fpls.2017.01133/full)
-   - **DOI:** [10.3389/fpls.2017.01133](https://www.frontiersin.org/articles/10.3389/fpls.2017.01133/full)
-   - **PubMed ID:** [28702045](https://pubmed.ncbi.nlm.nih.gov/28702045/)
+## Literature:
+   - [Functional Characterization of TaFUSCA3, a B3-Superfamily Transcription Factor Gene in the Wheat.]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01133/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01133](https://www.frontiersin.org/articles/10.3389/fpls.2017.01133/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28702045](https://pubmed.ncbi.nlm.nih.gov/28702045/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

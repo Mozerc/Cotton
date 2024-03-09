@@ -3,7 +3,7 @@ description: alkaline α-galactosidase 1 ; Zm00001eb303190 ; Zea mays
 meta_title:
 title: ZmAGA1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [​JAFC | 西北农林科技大学生命科学学院赵天永教授实验室发现调控玉米种子耐储性与萌发速度之间平衡的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247517784&idx=4&sn=c39f877e49587ab4756552cf845a5f44&chksm=ce902b0df9e7a21b98ba807555eb21e7ca1705b38e1d7d4ad40845ff47a1a1f52628c4372e0e&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC606463](https://www.ncbi.nlm.nih.gov/gene/?term=LOC606463)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

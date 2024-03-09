@@ -3,27 +3,30 @@ description: TraesCS3A02G401700 ; Triticum aestivum
 meta_title:
 title: TaZIP4-A1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS3A02G401700](https://www.maizegdb.org/gene_center/gene/TraesCS3A02G401700)
 - **Gene Symbol:** TaZIP4-A1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - TaZIP4-A1 synapsis and crossover of homologous chromosomes
+## Functional Description:
+   - **TaZIP4-A1** synapsis and crossover of homologous chromosomes
    - 
    - 
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s11032-017-0700-2)
-   - **DOI:** [10.1007/s11032-017-0700-2](https://link.springer.com/article/10.1007/s11032-017-0700-2)
-   - **PubMed ID:** [28781573](https://pubmed.ncbi.nlm.nih.gov/28781573/)
+## Literature:
+   - [Exploiting the ZIP4 homologue within the wheat Ph1 locus has identified two lines exhibiting homoeologous crossover in wheat-wild relative hybrids.]( https://link.springer.com/article/10.1007/s11032-017-0700-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-017-0700-2](https://link.springer.com/article/10.1007/s11032-017-0700-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28781573](https://pubmed.ncbi.nlm.nih.gov/28781573/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

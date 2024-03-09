@@ -3,7 +3,7 @@ description: teosinte branched1 ; Zm00001eb054440 ; Zea mays
 meta_title:
 title: TB1;be1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [JEB | 中国农业大学林中伟教授课题组发现调控玉米分蘖发育的新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516449&idx=8&sn=0ca9a532d60f2f00d4d5fd7294f39bc5&chksm=ce902c74f9e7a56226264f6288b36eadc4f946f40b6288a1865343981bb71509c23e3d7488d3&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103643875](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643875)
 - **UniProt accessions:** [A0A1D6L1J8](https://www.uniprot.org/uniprotkb/A0A1D6L1J8/entry)&nbsp;,&nbsp;[A0A317Y2T9](https://www.uniprot.org/uniprotkb/A0A317Y2T9/entry)&nbsp;,&nbsp;[Q93WI2](https://www.uniprot.org/uniprotkb/Q93WI2/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,7 +3,7 @@ description: CCAAT-HAP3-transcription factor 31 ; Zm00001eb148850 ; Zea mays
 meta_title:
 title: ZmNF-YA3;ca3p1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [JXB | 河南农业大学库丽霞教授揭示玉米开花时间调控新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516095&idx=4&sn=774b3fd56ad69fbf44412829a7f47b5f&chksm=ce9012eaf9e79bfce8126b5deff747eb771f79c6d730354e1f8750453d9db8f0251dd621fe19&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100285917](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285917)
 - **UniProt accessions:** [A0A096T4I5](https://www.uniprot.org/uniprotkb/A0A096T4I5/entry)&nbsp;,&nbsp;[A0A1D6N7R4](https://www.uniprot.org/uniprotkb/A0A1D6N7R4/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

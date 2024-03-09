@@ -3,27 +3,30 @@ description: TraesCS7B02G042600 ; Triticum aestivum
 meta_title:
 title: TaAVP1-7B
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS7B02G042600](https://www.maizegdb.org/gene_center/gene/TraesCS7B02G042600)
 - **Gene Symbol:** TaAVP1-7B
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - TaAVP1 is induced under all three types of stresses and relatively higher expression was observed in tolerant genotypes. TaPAL showed down regulation after 12 h of all three stresses.
    - drought stress and salt stress 
    - TaAVP1 and transcription factors TaSHN1, TaDREB6 genes were identified as genes which have high expression under heat, drought and salt stress tolerance in wheat.
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s11033-020-05906-5)
-   - **DOI:** [10.1007/s11033-020-05906-5](https://link.springer.com/article/10.1007/s11033-020-05906-5)
-   - **PubMed ID:** [33068231](https://pubmed.ncbi.nlm.nih.gov/33068231/)
+## Literature:
+   - [Identification and characterization of multiple abiotic stress tolerance genes in wheat.]( https://link.springer.com/article/10.1007/s11033-020-05906-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-020-05906-5](https://link.springer.com/article/10.1007/s11033-020-05906-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33068231](https://pubmed.ncbi.nlm.nih.gov/33068231/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

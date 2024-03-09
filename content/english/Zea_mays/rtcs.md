@@ -3,7 +3,7 @@ description: rootless concerning crown and seminal roots1 ; Zm00001eb003920 ; Ze
 meta_title:
 title: rtcs
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [JXB| 扬州大学徐辰武教授团队揭示类黄酮和生长素代谢在玉米初生根发育中的关键作用](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247509427&idx=4&sn=3683095e15e356d756eab4199e1dc778&chksm=ce9008e6f9e781f09f74acea6d8eca22082805f90b172f2ec4555b6940a5e99b39271c05d250&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100101548](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100101548)
 - **UniProt accessions:** [A5H448](https://www.uniprot.org/uniprotkb/A5H448/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

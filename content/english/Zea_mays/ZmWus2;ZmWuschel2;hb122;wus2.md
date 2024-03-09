@@ -1,0 +1,32 @@
+---
+description: Zm00001eb433010 ; Zea mays
+meta_title:
+title: ZmWus2;ZmWuschel2
+category: genes
+tags: [  ]
+---
+
+## Gene Details:
+- **Gene ID:**	[Zm00001eb433010](https://www.maizegdb.org/gene_center/gene/Zm00001eb433010)
+- **Gene Symbol:** ZmWus2;ZmWuschel2;hb122;wus2
+- **Gene Name:** 
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
+
+## Functional Description:
+   - Overexpression of **ZmWuschel2** coupled with Shoot Meristemless and Isopentenyl transferase allowed for the robust production of shoots in dicots, but with a high incidence of aberrant phenotypes.
+   - Early studies investigating effects of overexpression of Wus2/Bbm on somatic embryogenesis and plant regeneration found that constitutive expression of the genes caused severe pleiotropic effects in regenerated T0 plants.
+   - WUSCHEL2 (Wus2) and BABYBOOM (Bbm), it was found that the Wus2/Bbm vector induced somatic embryogenesis at a higher frequency and intensity than Wox2a.
+
+## Literature:
+   - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,27 +3,30 @@ description: TraesCS2D02G183400 ; Triticum aestivum
 meta_title:
 title: TaGW7-D1
 category: genes
-tags: []
+tags: [ grain,grain length,grain size,grain number,grain weight,grain width ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS2D02G183400](https://www.maizegdb.org/gene_center/gene/TraesCS2D02G183400)
 - **Gene Symbol:** TaGW7-D1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Effects of the TaGW7 gene editing on grain size and weight.
    - With the increase in the functional TaGW7 copy number, the grain width and TGW decreased and grain length increased (Figure 3), but change in grain area was not obvious.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14440)
-   - **DOI:** [10.1111/tpj.14440](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14440)
-   - **PubMed ID:** [31219637](https://pubmed.ncbi.nlm.nih.gov/31219637/)
+## Literature:
+   - [Gene editing of the wheat homologs of TONNEAU1-recruiting motif encoding gene affects grain shape and weight in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14440)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14440](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14440)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31219637](https://pubmed.ncbi.nlm.nih.gov/31219637/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

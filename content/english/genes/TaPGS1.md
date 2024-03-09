@@ -3,27 +3,30 @@ description: T. aestivum POSITIVE REGULATOR of GRAIN SIZE 1 ; TraesCS1D02G094000
 meta_title:
 title: TaPGS1
 category: genes
-tags: []
+tags: [ development,grain,grain size,seed,grain yield,yield,grain weight,seed weight,seed size,seed development ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS1D02G094000](https://www.maizegdb.org/gene_center/gene/TraesCS1D02G094000)
 - **Gene Symbol:** TaPGS1
 - **Gene Name:** T. aestivum POSITIVE REGULATOR of GRAIN SIZE 1
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - Our results reveal that TaPGS1 functions as a valuable trait-associated gene for improving cereal grain yield.
-   - Overexpression (OE) of TaPGS1 in wheat and rice resulted in altered expression levels of seed-development-related genes and increased grain weight and grain size in field tests.
-   - TaPGS1 increased grain weight and size in wheat and rice
+## Functional Description:
+   - Our results reveal that **TaPGS1** functions as a valuable trait-associated gene for improving cereal grain yield.
+   - Overexpression (OE) of **TaPGS1** in wheat and rice resulted in altered expression levels of seed-development-related genes and increased grain weight and grain size in field tests.
+   - **TaPGS1** increased grain weight and size in wheat and rice
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13809)
-   - **DOI:** [10.1111/pbi.13809](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13809)
-   - **PubMed ID:** [35315196](https://pubmed.ncbi.nlm.nih.gov/35315196/)
+## Literature:
+   - [The PGS1 basic helix-loop-helix protein regulates Fl3 to impact seed growth and grain yield in cereals.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13809)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13809](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13809)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35315196](https://pubmed.ncbi.nlm.nih.gov/35315196/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

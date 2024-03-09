@@ -3,27 +3,30 @@ description: TraesCS7B02G161900 ; Triticum aestivum
 meta_title:
 title: TaOTUB1-7B
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS7B02G161900](https://www.maizegdb.org/gene_center/gene/TraesCS7B02G161900)
 - **Gene Symbol:** TaOTUB1-7B
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Reducing expression of TaOTUB1s decreases tiller number in wheat
    - These findings suggested that TaOTUB1s influenced tiller number in wheat.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://www.tandfonline.com/doi/full/10.1080/15592324.2021.2018217)
-   - **DOI:** [10.1093/jxb/erx051](https://www.tandfonline.com/doi/full/10.1080/15592324.2021.2018217)
-   - **PubMed ID:** [34968411](https://pubmed.ncbi.nlm.nih.gov/34968411/)
+## Literature:
+   - [Reducing expression of TaOTUB1s decreases tiller number in wheat.]( https://www.tandfonline.com/doi/full/10.1080/15592324.2021.2018217)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erx051](https://www.tandfonline.com/doi/full/10.1080/15592324.2021.2018217)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34968411](https://pubmed.ncbi.nlm.nih.gov/34968411/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

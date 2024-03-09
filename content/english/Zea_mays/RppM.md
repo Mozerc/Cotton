@@ -3,7 +3,7 @@ description: Zm00001eb405290 ; Zea mays
 meta_title:
 title: RppM
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [Frontiers in Plant Science | 北京市农林科学院在玉米南方锈病抗性研究方面取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247500597&idx=6&sn=a78ff1e13f7b38ce3e7ca03b8c18a4a9&chksm=ce906e60f9e7e776442a62e46355d47b0bde34cf8bcf42bbbbf84e99ea044cf69f57bc402a40&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103640673](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103640673)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

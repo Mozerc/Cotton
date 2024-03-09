@@ -3,28 +3,31 @@ description: Awn Length Inhibitor 1 ; TraesCS5A02G542800 ; Triticum aestivum
 meta_title:
 title: ALI-1
 category: genes
-tags: []
+tags: [ development,grain,grain length,awn,photosynthesis,cytokinin,cell elongation,grain weight,cell proliferation, awn  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS5A02G542800](https://www.maizegdb.org/gene_center/gene/TraesCS5A02G542800)
 - **Gene Symbol:** ALI-1
 - **Gene Name:** Awn Length Inhibitor 1
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - ALI-1 was observed to increase grain length in wheat, which is a valuable attribute of awn on grain weight, aside from photosynthesis.
-   - ALI-1 negatively regulates awn elongation through restraining cytokinin-mediated cell proliferation
-   - Pleiotropic effects of ALI-1 on awn and grain development
-   - ALI-1 represses cytokinin-mediated cell proliferation in awn
+## Functional Description:
+   - **ALI-1** was observed to increase grain length in wheat, which is a valuable attribute of awn on grain weight, aside from photosynthesis.
+   - **ALI-1** negatively regulates awn elongation through restraining cytokinin-mediated cell proliferation
+   - Pleiotropic effects of **ALI-1** on awn and grain development
+   - **ALI-1** represses cytokinin-mediated cell proliferation in awn
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575)
-   - **DOI:** [10.1111/tpj.14575](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575)
-   - **PubMed ID:** [31628879](https://pubmed.ncbi.nlm.nih.gov/31628879/)
+## Literature:
+   - [Natural variations in the promoter of Awn Length Inhibitor 1 (ALI-1) are associated with awn elongation and grain length in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14575](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31628879](https://pubmed.ncbi.nlm.nih.gov/31628879/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

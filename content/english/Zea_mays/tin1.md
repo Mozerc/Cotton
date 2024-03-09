@@ -3,7 +3,7 @@ description: tiller number 1 ; Zm00001eb300220 ; Zea mays
 meta_title:
 title: tin1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [Nature Communications | 中国农大林中伟团队揭示决定玉米分蘖的基因由大刍草渗入](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247486639&idx=3&sn=aeee83717fb283d664a36123959d3dfc&chksm=ce93a1faf9e428ec4e35f46be94560e240149ebbc71b483a46280f980f80090460fa5f3473b0&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100275411](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100275411)
 - **UniProt accessions:** [A0A1D6HSJ8](https://www.uniprot.org/uniprotkb/A0A1D6HSJ8/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,27 +3,31 @@ description: Cochliobolus heterostrophus Susceptibility Kinase 1 ; Zm00014a00190
 meta_title:
 title: ChSK1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00014a001903](https://www.maizegdb.org/gene_center/gene/Zm00014a001903)
 - **Gene Symbol:** ChSK1
 - **Gene Name:** Cochliobolus heterostrophus Susceptibility Kinase 1
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-GRAMENE-4.0)
+- **Species:** *Zea mays*
 
-## Functions:
-   - ChSK1 and provide evidence that its role in SLB susceptibility may be associated with suppression of the PTI response.
-   - ChSK1 modulates the accumulation of H2O2 and affects defense-responsive pathways.
+## Functional Description:
+   - **ChSK1** and provide evidence that its role in SLB susceptibility may be associated with suppression of the PTI response.
+   - **ChSK1** modulates the accumulation of H2O2 and affects defense-responsive pathways.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18781)
-   - **DOI:** [10.1111/nph.18781](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18781)
-   - **PubMed ID:** [36721267](https://pubmed.ncbi.nlm.nih.gov/36721267/)
+## Literature:
+   - [A leucine-rich repeat receptor kinase gene confers quantitative susceptibility to maize southern leaf blight.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18781)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18781](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18781)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36721267](https://pubmed.ncbi.nlm.nih.gov/36721267/)
 
-3. **Related News:**
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247564904&idx=6&sn=b0ba6f76d25f5eb3f8cb21ea2076933e&chksm=e8bc8c76dfcb0560be6440b119d114e8c1e3349dddaf7c9b591f0e08e263c3c3c4c00970d085&scene=27#wechat_redirect)
+## Related News:
+   - [西北农林农学院玉米生物学与抗逆遗传育种团队发现玉米小斑病感病新基因](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247564904&idx=6&sn=b0ba6f76d25f5eb3f8cb21ea2076933e&chksm=e8bc8c76dfcb0560be6440b119d114e8c1e3349dddaf7c9b591f0e08e263c3c3c4c00970d085&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

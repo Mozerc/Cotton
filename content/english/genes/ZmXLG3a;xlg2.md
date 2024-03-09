@@ -3,27 +3,30 @@ description: extra-large guanine nucleotide-binding protein2 ; Zm00001eb209950 ;
 meta_title:
 title: ZmXLG3a;xlg2
 category: genes
-tags: []
+tags: [ development,plant development,seedling,height,plant height ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb209950](https://www.maizegdb.org/gene_center/gene/Zm00001eb209950)
 - **Gene Symbol:** ZmXLG3a;xlg2
 - **Gene Name:** extra-large guanine nucleotide-binding protein2
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
+## Functional Description:
    - Role of heterotrimeric Gα proteins in maize development and enhancement of agronomic traits.
-   - ZmXLG3a mutant knockout has reduced plant height.
-   - ZmXLG3a triple mutants are lethal at the seedling stage.
+   - **ZmXLG3a** mutant knockout has reduced plant height.
+   - **ZmXLG3a** triple mutants are lethal at the seedling stage.
 
-## Publications:
-   - **Publication** [文章名](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374)
-   - **DOI:** [10.1371/journal.pgen.1007374](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374)
-   - **PubMed ID:** [29708966](https://pubmed.ncbi.nlm.nih.gov/29708966/)
+## Literature:
+   - [Role of heterotrimeric Gα proteins in maize development and enhancement of agronomic traits.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1007374](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29708966](https://pubmed.ncbi.nlm.nih.gov/29708966/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

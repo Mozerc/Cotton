@@ -3,27 +3,30 @@ description: photosystem II subunit PsbS1 ; Zm00001eb146510 ; Zea mays
 meta_title:
 title: PsbS;psbs1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb146510](https://www.maizegdb.org/gene_center/gene/Zm00001eb146510)
 - **Gene Symbol:** PsbS;psbs1
 - **Gene Name:** photosystem II subunit PsbS1
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
-   - PsbS subunit elicits defense against destructive effects of excess absorbed light energy
+## Functional Description:
+   - **PsbS** subunit elicits defense against destructive effects of excess absorbed light energy
    - 
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818)
-   - **DOI:** [10.1111/ppl.13818](https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818)
-   - **PubMed ID:** [36345780](https://pubmed.ncbi.nlm.nih.gov/36345780/)
+## Literature:
+   - [Comparative transcriptomic reveals the molecular mechanism of maize hybrid Zhengdan538 in response to water deficit.]( https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/ppl.13818](https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36345780](https://pubmed.ncbi.nlm.nih.gov/36345780/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,7 +3,7 @@ description: Zm00001eb425100 ; Zea mays
 meta_title:
 title: ZmBT2
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [JXB│西南大学蔡一林教授团队揭示玉米株型结构调控新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247508240&idx=4&sn=85c22cca2884996d6576e4b5b097694d&chksm=ce900c45f9e78553240fd538460bc0386806c18a3be7861b74a6a85868796a6f490d75734823&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC109943104](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109943104)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

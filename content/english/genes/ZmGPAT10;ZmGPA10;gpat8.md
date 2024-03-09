@@ -1,0 +1,32 @@
+---
+description: glycerol-3-phosphate acyltransferase8 ; Zm00001eb159140 ; Zea mays
+meta_title:
+title: ZmGPAT10;ZmGPA10
+category: genes
+tags: [ salt,cold ]
+---
+
+## Gene Details:
+- **Gene ID:**	[Zm00001eb159140](https://www.maizegdb.org/gene_center/gene/Zm00001eb159140)
+- **Gene Symbol:** ZmGPAT10;ZmGPA10;gpat8
+- **Gene Name:** glycerol-3-phosphate acyltransferase8
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
+
+## Functional Description:
+   - ZmGPAT1 and **ZmGPAT10** differentially expressed under cold and salt stresses.
+   - These results imply that ZmGPAT7 and **ZmGPAT10** might have the sn-2 acyltransferase activity as AtGPAT4 and AtGPAT6.
+   - 
+
+## Literature:
+   - [NA]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

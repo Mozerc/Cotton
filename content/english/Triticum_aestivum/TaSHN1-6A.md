@@ -3,29 +3,32 @@ description: TraesCS6A02G181400 ; Triticum aestivum
 meta_title:
 title: TaSHN1-6A
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS6A02G181400](https://www.maizegdb.org/gene_center/gene/TraesCS6A02G181400)
 - **Gene Symbol:** TaSHN1-6A
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - TaSHN1 may operate as a positive modulator of drought stress tolerance.
    - Effects of overexpression of TaSHN1 on plant growth and biomass
    - Generation and selection of TaSHN1 transgenic wheat lines
    - Overexpression of TaSHN1 decreases stomatal density and reduces water loss rates
    - Overexpression of TaSHN1 increased survival of transgenic seedlings following severe drought
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/pce.13339)
-   - **DOI:** [10.1111/pce.13339](https://onlinelibrary.wiley.com/doi/10.1111/pce.13339)
-   - **PubMed ID:** [29761511](https://pubmed.ncbi.nlm.nih.gov/29761511/)
+## Literature:
+   - [Overexpression of the TaSHN1 transcription factor in bread wheat leads to leaf surface modifications, improved drought tolerance, and no yield penalty under controlled growth conditions.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13339)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13339](https://onlinelibrary.wiley.com/doi/10.1111/pce.13339)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29761511](https://pubmed.ncbi.nlm.nih.gov/29761511/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

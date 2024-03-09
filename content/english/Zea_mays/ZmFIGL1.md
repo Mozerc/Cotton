@@ -3,7 +3,7 @@ description: AAA-ATPase FIDGETIN-LIKE-1 ; Zm00001eb133210 ; Zea mays
 meta_title:
 title: ZmFIGL1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [JIPB | 中国农业大学农学院贺岩教授课题组在玉米减数分裂同源重组调控机制中取得重要进展](https://mp.weixin.qq.com/s/THpngDbSbe1fymagX_C8lA)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100193153](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193153)
 - **UniProt accessions:** [A0A1D6MTY5](https://www.uniprot.org/uniprotkb/A0A1D6MTY5/entry)&nbsp;,&nbsp;[A0A1D6MTZ1](https://www.uniprot.org/uniprotkb/A0A1D6MTZ1/entry)&nbsp;,&nbsp;[A0A1D6MU11](https://www.uniprot.org/uniprotkb/A0A1D6MU11/entry)&nbsp;,&nbsp;[B4FE01](https://www.uniprot.org/uniprotkb/B4FE01/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

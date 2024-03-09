@@ -3,27 +3,30 @@ description: Zm00001eb142370 ; Zea mays
 meta_title:
 title: hak5;ZmHAK5
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb142370](https://www.maizegdb.org/gene_center/gene/Zm00001eb142370)
 - **Gene Symbol:** hak5;ZmHAK5
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
-   - ZmHAK5 and ZmHAK1 function in K+ uptake and distribution in maize under low K+ conditions.
+## Functional Description:
+   - **ZmHAK5** and ZmHAK1 function in K+ uptake and distribution in maize under low K+ conditions.
    - Overexpression of ZmHAK1 in maize significantly affected K+ distribution in shoots, leading to chlorosis in older leaves.
-   - ZmHAK5 and ZmHAK1 play distinct roles in K+ homeostasis in maize, functioning in K+ uptake and K+ distribution, respectively. 
+   - **ZmHAK5** and ZmHAK1 play distinct roles in K+ homeostasis in maize, functioning in K+ uptake and K+ distribution, respectively. 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756)
-   - **DOI:** [10.1111/jipb.12756](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756)
-   - **PubMed ID:** [30548401](https://pubmed.ncbi.nlm.nih.gov/30548401/)
+## Literature:
+   - [ZmHAK5 and ZmHAK1 function in K(+) uptake and distribution in maize under low K(+) conditions.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12756](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30548401](https://pubmed.ncbi.nlm.nih.gov/30548401/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

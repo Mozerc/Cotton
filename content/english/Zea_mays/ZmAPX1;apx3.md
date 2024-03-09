@@ -3,7 +3,7 @@ description: ascorbate peroxidase 1 ; Zm00001eb013080 ; Zea mays
 meta_title:
 title: ZmAPX1;apx3
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -27,10 +27,10 @@ tags: []
 ## Related News:
    - [JIPB | 河南农业大学吴刘记课题组在玉米小斑病抗性研究中取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247527105&idx=4&sn=8edddd7c56a42ff377fe5d26a29eea8d&chksm=ce90c794f9e74e8244cacd93521b3b4031083ee05cd87f9804a210f8eb00f91886ce5f8dff2c&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100285887](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285887)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

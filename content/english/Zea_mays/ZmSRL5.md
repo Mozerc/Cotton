@@ -3,7 +3,7 @@ description: semi-rolled leaf5 ; Zm00001eb008140 ; Zea mays
 meta_title:
 title: ZmSRL5
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [JIPB | 华中农大玉米团队邱法展课题组发现玉米调控抗旱的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491172&idx=3&sn=25d925616879005a6adb63d0e3bfe476&chksm=ce93b331f9e43a277d83cbefab59a9754e56d07c78594d89e2beb0e91477b590dcc8bf66f5fd&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100283808](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283808)
 - **UniProt accessions:** [A0A1D6JSF7](https://www.uniprot.org/uniprotkb/A0A1D6JSF7/entry)&nbsp;,&nbsp;[C0HIK3](https://www.uniprot.org/uniprotkb/C0HIK3/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

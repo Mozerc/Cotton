@@ -3,7 +3,7 @@ description: MAP kinase6 ; Zm00001eb417810 ; Zea mays
 meta_title:
 title: ZmMPK6
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [New Phytologist | 昆明植物所在玉米抗虫次生代谢产物丁布类化合物的合成调控机制研究中取得进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247497704&idx=3&sn=ceb1a2e3e528b585366b7383484cbd3c&chksm=ce905abdf9e7d3abd3ae38dfa6ec3222b411afab91d1ce03fb1a51df97ac9d81a22f9af8d004&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC542143](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542143)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

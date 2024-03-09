@@ -3,7 +3,7 @@ description: Salt-Tolerant Locus 1 ; Zm00001eb056600 ; Zea mays
 meta_title:
 title: ZmSTL1;stl1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [Nature Communications | 中国农业大学蒋才富课题组发现玉米耐盐调控新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247528980&idx=2&sn=d2bbb0efa9382f46b8c4fcf84a49fb7a&chksm=ce90df41f9e75657d84491654ca2010b6a9c6ab750c0cb851d15d5e1ce3a610c2203b9723e6b&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103645603](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103645603)
 - **UniProt accessions:** [A0A1D6L3I8](https://www.uniprot.org/uniprotkb/A0A1D6L3I8/entry)&nbsp;,&nbsp;[A0A317YBZ7](https://www.uniprot.org/uniprotkb/A0A317YBZ7/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

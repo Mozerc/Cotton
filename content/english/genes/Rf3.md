@@ -3,28 +3,31 @@ description: TraesCS1B02G038500 ; Triticum aestivum
 meta_title:
 title: Rf3
 category: genes
-tags: []
+tags: [ fertility,pollen,sterility,male sterility,male fertility,pollen fertility,pollen formation ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS1B02G038500](https://www.maizegdb.org/gene_center/gene/TraesCS1B02G038500)
 - **Gene Symbol:** Rf3
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - One promising system involves the Rf1 and Rf3 genes that restore fertility of wheat plants carrying Triticum timopheevii-type cytoplasmic male sterility
-   - We identify Rf1 and Rf3 candidates that can restore normal pollen production in transgenic wheat plants carrying T-CMS
-   - Rf1 and Rf3 bind to the mitochondrial orf279 transcript and induce cleavage, preventing expression of the CMS trait
-   - Expression of Rf1 and Rf3 candidates in anthers during pollen formation
+## Functional Description:
+   - One promising system involves the Rf1 and **Rf3** genes that restore fertility of wheat plants carrying Triticum timopheevii-type cytoplasmic male sterility
+   - We identify Rf1 and **Rf3** candidates that can restore normal pollen production in transgenic wheat plants carrying T-CMS
+   - Rf1 and **Rf3** bind to the mitochondrial orf279 transcript and induce cleavage, preventing expression of the CMS trait
+   - Expression of Rf1 and **Rf3** candidates in anthers during pollen formation
 
-## Publications:
-   - **Publication** [文章名](https://www.nature.com/articles/s41467-021-21225-0)
-   - **DOI:** [10.1038/s41467-021-21225-0](https://www.nature.com/articles/s41467-021-21225-0)
-   - **PubMed ID:** [33589621](https://pubmed.ncbi.nlm.nih.gov/33589621/)
+## Literature:
+   - [The genetic basis of cytoplasmic male sterility and fertility restoration in wheat.]( https://www.nature.com/articles/s41467-021-21225-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-21225-0](https://www.nature.com/articles/s41467-021-21225-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33589621](https://pubmed.ncbi.nlm.nih.gov/33589621/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

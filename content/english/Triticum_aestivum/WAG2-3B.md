@@ -3,27 +3,30 @@ description: TraesCS3B02G157500 ; Triticum aestivum
 meta_title:
 title: WAG2-3B
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS3B02G157500](https://www.maizegdb.org/gene_center/gene/TraesCS3B02G157500)
 - **Gene Symbol:** WAG2-3B
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - wheat spike and spikelet
    - florets development
    - 
 
-## Publications:
-   - **Publication** [文章名](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)
-   - **DOI:** [10.1111/nph.16122](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)
-   - **PubMed ID:** [31418861](https://pubmed.ncbi.nlm.nih.gov/31418861/)
+## Literature:
+   - [Genome-wide analysis of MIKC-type MADS-box genes in wheat: pervasive duplications, functional conservation and putative neofunctionalization.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16122](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31418861](https://pubmed.ncbi.nlm.nih.gov/31418861/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

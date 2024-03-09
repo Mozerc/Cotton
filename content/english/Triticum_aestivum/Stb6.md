@@ -3,27 +3,30 @@ description: TraesCS3A02G049500 ; Triticum aestivum
 meta_title:
 title: Stb6
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS3A02G049500](https://www.maizegdb.org/gene_center/gene/TraesCS3A02G049500)
 - **Gene Symbol:** Stb6
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - Stb6 is, to our knowledge, the first cloned gene specifying resistance to Zymoseptoria tritici
+## Functional Description:
+   - **Stb6** is, to our knowledge, the first cloned gene specifying resistance to Zymoseptoria tritici
    - Septoria tritici blotch disease
    - 
 
-## Publications:
-   - **Publication** [文章名](10.1038/s41588-018-0051-x)
-   - **DOI:** [10.1038/s41588-018-0051-x](10.1038/s41588-018-0051-x)
-   - **PubMed ID:** [29434355](https://pubmed.ncbi.nlm.nih.gov/29434355/)
+## Literature:
+   - [Wheat receptor-kinase-like protein Stb6 controls gene-for-gene resistance to fungal pathogen Zymoseptoria tritici.]( 10.1038/s41588-018-0051-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-018-0051-x](10.1038/s41588-018-0051-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29434355](https://pubmed.ncbi.nlm.nih.gov/29434355/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

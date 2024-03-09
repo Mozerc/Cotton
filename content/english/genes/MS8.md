@@ -3,27 +3,30 @@ description: GRMZM2G119265 ; Zea mays
 meta_title:
 title: MS8
 category: genes
-tags: []
+tags: [ pollen,sterility,sterile,tapetal,male sterility ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[GRMZM2G119265](https://www.maizegdb.org/gene_center/gene/GRMZM2G119265)
 - **Gene Symbol:** MS8
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73 RefGen_v3)
+- **Species:** *Zea mays*
 
-## Functions:
-   - MS8 a gene involves in male sterility and pollen dispersal.
+## Functional Description:
+   - **MS8** a gene involves in male sterility and pollen dispersal.
    - Male sterile 8 (Ms8) gene causes male sterility with multiple phenotypic defects first visible in the epidermal and tapetal cells.
-   - MS8 might be involved in maintenance of mitochondrial integrity.
+   - **MS8** might be involved in maintenance of mitochondrial integrity.
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s00497-013-0230-y)
-   - **DOI:** [10.1007/s00497-013-0230-y](https://link.springer.com/article/10.1007/s00497-013-0230-y)
-   - **PubMed ID:** [23887707](https://pubmed.ncbi.nlm.nih.gov/23887707/)
+## Literature:
+   - [Maize Male sterile 8 (Ms8), a putative β-1,3-galactosyltransferase, modulates cell division, expansion, and differentiation during early maize anther development.]( https://link.springer.com/article/10.1007/s00497-013-0230-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00497-013-0230-y](https://link.springer.com/article/10.1007/s00497-013-0230-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23887707](https://pubmed.ncbi.nlm.nih.gov/23887707/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

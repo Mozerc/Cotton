@@ -3,7 +3,7 @@ description: Homeobox-transcription factor 67 ; Zm00001eb067310 ; Zea mays
 meta_title:
 title: ZmWUS1;hb67
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [Nature Communications | 发现玉米WUS1基因的结构变异导致了花序的异常发育](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247508973&idx=2&sn=04fe85069851d30c77174d0227960e47&chksm=ce900eb8f9e787aeb4d304ab1c98982f9d5e2ccb549897829cf0e7d3e515dc6b5c5dfcfaf3aa&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100037786](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037786)
 - **UniProt accessions:** [A0AAS5](https://www.uniprot.org/uniprotkb/A0AAS5/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

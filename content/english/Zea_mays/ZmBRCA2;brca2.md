@@ -3,7 +3,7 @@ description: BREAST CANCER SUSCEPTIBILITY PROTEIN 2 ; Zm00001eb419130 ; Zea mays
 meta_title:
 title: ZmBRCA2;brca2
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [JIPB | 中国农业大学农学院贺岩教授课题组在玉米减数分裂同源重组调控机制中取得重要进展](https://mp.weixin.qq.com/s/THpngDbSbe1fymagX_C8lA)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103641455](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103641455)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

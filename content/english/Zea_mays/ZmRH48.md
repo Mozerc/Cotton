@@ -3,7 +3,7 @@ description: DEAD-box RNA helicase 48 ; Zm00001eb259260 ; Zea mays
 meta_title:
 title: ZmRH48
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [JIPB | 山东大学生命科学学院谭保才课题组发现玉米线粒体内含子剪接的新机制](https://mp.weixin.qq.com/s/FeKvLgvu4YwHVaA0vxAxHw)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103627905](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627905)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

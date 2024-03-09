@@ -3,7 +3,7 @@ description: Na+/H+ antiporter 7 ; Zm00001eb033240 ; Zea mays
 meta_title:
 title: ZmSOS1;nhx7
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [New Phytologist | 中国农大蒋才富团队揭示玉米中植物耐盐经典通路的功能及其自然变异](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247530166&idx=3&sn=28cb95166d3b678a62a6185ab29612ad&chksm=ce90dbe3f9e752f55bbe04c16cf4acb2f34f6b856ab9854b0fd6481d37b3451f12926af00a6a&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100383969](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383969)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

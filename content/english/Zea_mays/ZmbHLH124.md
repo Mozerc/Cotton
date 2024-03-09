@@ -3,7 +3,7 @@ description: bHLH-transcription factor 124 ; Zm00001eb284130 ; Zea mays
 meta_title:
 title: ZmbHLH124
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -28,10 +28,10 @@ tags: []
 ## Related News:
    - [PBJ | ​中国科学院遗传与发育生物学研究所谢旗研究组与陈化榜研究组在玉米耐旱机制方面取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247511214&idx=3&sn=5965cffc57781192e54b02f798bf949d&chksm=ce9001fbf9e788ed3f67070d801f31f5f6255219b335c56c54ca5c863572f9f5a5a1b73affe3&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [103630140](https://www.ncbi.nlm.nih.gov/gene/?term=103630140)
 - **UniProt accessions:** [K7UR97](https://www.uniprot.org/uniprotkb/K7UR97/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

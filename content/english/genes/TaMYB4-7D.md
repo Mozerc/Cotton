@@ -3,27 +3,30 @@ description: TraesCS7D02G272400 ; Triticum aestivum
 meta_title:
 title: TaMYB4-7D
 category: genes
-tags: []
+tags: [ growth,development,plant development,plant growth,transcriptional regulator,phosphate,pi, pi ,pi uptake ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS7D02G272400](https://www.maizegdb.org/gene_center/gene/TraesCS7D02G272400)
 - **Gene Symbol:** TaMYB4-7D
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - TaPHT1;9-4B and its transcriptional regulator TaMYB4-7D contribute to phosphate uptake and plant growth in bread wheat
-   - Silencing TaMYB4-7D decreased TaPHT1;9-4B expression, Pi uptake and plant growth.
-   - TaPHT1;9-4B and TaMYB4-7D may aid further research towards the development of P efficient crop cultivars
+## Functional Description:
+   - TaPHT1;9-4B and its transcriptional regulator **TaMYB4-7D** contribute to phosphate uptake and plant growth in bread wheat
+   - Silencing **TaMYB4-7D** decreased TaPHT1;9-4B expression, Pi uptake and plant growth.
+   - TaPHT1;9-4B and **TaMYB4-7D** may aid further research towards the development of P efficient crop cultivars
 
-## Publications:
-   - **Publication** [文章名](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17534)
-   - **DOI:** [10.1111/nph.17534](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17534)
-   - **PubMed ID:** [34096624](https://pubmed.ncbi.nlm.nih.gov/34096624/)
+## Literature:
+   - [TaPHT1;9-4B and its transcriptional regulator TaMYB4-7D contribute to phosphate uptake and plant growth in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17534)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17534](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17534)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34096624](https://pubmed.ncbi.nlm.nih.gov/34096624/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

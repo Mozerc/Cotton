@@ -3,27 +3,30 @@ description: TraesCS5B02G286100 ; Triticum aestivum
 meta_title:
 title: TaSEP3-5B
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS5B02G286100](https://www.maizegdb.org/gene_center/gene/TraesCS5B02G286100)
 - **Gene Symbol:** TaSEP3-5B
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Transcription factors encoded by MIKC-type MADS-box genes control many important functions in plants, including flower development and morphogenesis. 
    - flower development
    - morphogenesis
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s00438-007-0285-2)
-   - **DOI:** [10.1007/s00438-007-0285-2](https://link.springer.com/article/10.1007/s00438-007-0285-2)
-   - **PubMed ID:** [17846794](https://pubmed.ncbi.nlm.nih.gov/17846794/)
+## Literature:
+   - [Molecular and phylogenetic analysis of MADS-box genes of MIKC type and chromosome location of SEP-like genes in wheat (Triticum aestivum L.).]( https://link.springer.com/article/10.1007/s00438-007-0285-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00438-007-0285-2](https://link.springer.com/article/10.1007/s00438-007-0285-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17846794](https://pubmed.ncbi.nlm.nih.gov/17846794/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

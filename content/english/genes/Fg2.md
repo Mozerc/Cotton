@@ -3,24 +3,30 @@ description: Glyma.10G194000 ; Glycine max
 meta_title:
 title: Fg2
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Glyma.10G194000](https://www.maizegdb.org/gene_center/gene/Glyma.10G194000)
 - **Gene Symbol:** Fg2
 - **Gene Name:** 
-- **Species:** Glycine max
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Species:** *Glycine max*
 
-## Functions:
-   - Fg2 Encodes a flavonol 3-O-glucoside (1 -> 6) rhamnosyltransferase.
+## Functional Description:
+   - **Fg2** Encodes a flavonol 3-O-glucoside (1 -> 6) rhamnosyltransferase.
    - 
    - 
 
-## Publications:
-   - [Linkage mapping, molecular cloning and functional analysis of soybean gene Fg2 encoding flavonol 3-O-glucoside (1 → 6) rhamnosyltransferase.]( https://link.springer.com/article/10.1007/s11103-013-0133-1 ) - [10.1007/s11103-013-0133-1 ]( https://link.springer.com/article/10.1007/s11103-013-0133-1 ) - [24072327](https://pubmed.ncbi.nlm.nih.gov/24072327/)
+## Literature:
+   - [Linkage mapping, molecular cloning and functional analysis of soybean gene Fg2 encoding flavonol 3-O-glucoside (1 → 6) rhamnosyltransferase.]( https://link.springer.com/article/10.1007/s11103-013-0133-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-013-0133-1 ](https://link.springer.com/article/10.1007/s11103-013-0133-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24072327](https://pubmed.ncbi.nlm.nih.gov/24072327/)
 
 ## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

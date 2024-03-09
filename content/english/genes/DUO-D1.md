@@ -3,27 +3,30 @@ description: TraesCS1D02G314700 ; Triticum aestivum
 meta_title:
 title: DUO-D1
 category: genes
-tags: []
+tags: [ grain,grain number,inflorescence,architecture,inflorescence architecture ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS1D02G314700](https://www.maizegdb.org/gene_center/gene/TraesCS1D02G314700)
 - **Gene Symbol:** DUO-D1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - DUO-D1 spike inflorescence architecture;mild supernumerary spikelets;grain number per spike
+## Functional Description:
+   - **DUO-D1** spike inflorescence architecture;mild supernumerary spikelets;grain number per spike
    - 
    - 
 
-## Publications:
-   - **Publication** [文章名](https://www.nature.com/articles/s41477-022-01197-9)
-   - **DOI:** [10.1038/s41477-022-01197-9](https://www.nature.com/articles/s41477-022-01197-9)
-   - **PubMed ID:** [35851621](https://pubmed.ncbi.nlm.nih.gov/35851621/)
+## Literature:
+   - [Improving bread wheat yield through modulating an unselected AP2/ERF gene.]( https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01197-9](https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851621](https://pubmed.ncbi.nlm.nih.gov/35851621/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

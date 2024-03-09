@@ -3,25 +3,31 @@ description: Glyma.07G039400 ; Glycine max
 meta_title:
 title: GmNSP1a
 category: genes
-tags: []
+tags: [ development,stress,salt,salt stress ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Glyma.07G039400](https://www.maizegdb.org/gene_center/gene/Glyma.07G039400)
 - **Gene Symbol:** GmNSP1a
 - **Gene Name:** 
-- **Species:** Glycine max
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** []()
+- **Species:** *Glycine max*
 
-## Functions:
-   - GmNSP1a and GmNSP1b are required for rhizobial infection and nodule formation in soybean
+## Functional Description:
+   - **GmNSP1a** and GmNSP1b are required for rhizobial infection and nodule formation in soybean
    - GmSK2-8 acts upstream of GmNSP1 and mediates salt-stress-inhibited nodule development
-   - GmSK2-8 and GmNSP1a/1b show overlapping spatial expression patterns at the early stages of nodule development
+   - GmSK2-8 and **GmNSP1a**/1b show overlapping spatial expression patterns at the early stages of nodule development
 
-## Publications:
-   - [GSK3-mediated stress signaling inhibits legume-rhizobium symbiosis by phosphorylating GmNSP1 in soybean.]( https://www.sciencedirect.com/science/article/pii/S1674205220304469?via%3Dihub#app3 ) - [10.1016/j.molp.2020.12.015]( https://www.sciencedirect.com/science/article/pii/S1674205220304469?via%3Dihub#app3 ) - [33359013](https://pubmed.ncbi.nlm.nih.gov/33359013/)
+## Literature:
+   - [GSK3-mediated stress signaling inhibits legume-rhizobium symbiosis by phosphorylating GmNSP1 in soybean.]( https://www.sciencedirect.com/science/article/pii/S1674205220304469?via%3Dihub#app3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2020.12.015](https://www.sciencedirect.com/science/article/pii/S1674205220304469?via%3Dihub#app3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33359013](https://pubmed.ncbi.nlm.nih.gov/33359013/)
 
 ## Related News:
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247503673&idx=7&sn=2241983031ebadb649436f1ba9c58df7&chksm=ce90626cf9e7eb7a58896fa8989ce21474f74ac8de046b76d4067d789bab025e96afa108c6c8&scene=27#wechat_redirect)
+   - [一个月内连发Mol Plant、Nature Plants，河南大学王学路团队在大豆共生结瘤领域取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247503673&idx=7&sn=2241983031ebadb649436f1ba9c58df7&chksm=ce90626cf9e7eb7a58896fa8989ce21474f74ac8de046b76d4067d789bab025e96afa108c6c8&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

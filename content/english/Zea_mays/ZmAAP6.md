@@ -3,27 +3,31 @@ description: Zm00001d012229 ; Zea mays
 meta_title:
 title: ZmAAP6
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001d012229](https://www.maizegdb.org/gene_center/gene/Zm00001d012229)
 - **Gene Symbol:** ZmAAP6
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-GRAMENE-4.0)
+- **Species:** *Zea mays*
 
-## Functions:
-   - ZmAAP6, a gene expressed mainly in immature seeds, especially in the basal endosperm transfer layer.
-   - ZmAAP6 functions in the GPC regulation in maize, and is a valuable candidate gene for improving the nutritional quality of maize.
-   - ZmAAP6 regulates the content and profiles of amino acids in developing seeds.
+## Functional Description:
+   - **ZmAAP6**, a gene expressed mainly in immature seeds, especially in the basal endosperm transfer layer.
+   - **ZmAAP6** functions in the GPC regulation in maize, and is a valuable candidate gene for improving the nutritional quality of maize.
+   - **ZmAAP6** regulates the content and profiles of amino acids in developing seeds.
 
-## Publications:
-   - **Publication** [文章名](https://www.sciencedirect.com/science/article/pii/S2214514122000794)
-   - **DOI:** [10.1016/j.cj.2022.03.007](https://www.sciencedirect.com/science/article/pii/S2214514122000794)
-   - **PubMed ID:** [](https://pubmed.ncbi.nlm.nih.gov//)
+## Literature:
+   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514122000794)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.03.007](https://www.sciencedirect.com/science/article/pii/S2214514122000794)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
 
-3. **Related News:**
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247528686&idx=3&sn=7b576ba1b3ef1ea660bb5cc92b0fdff6&chksm=ce90ddbbf9e754ad7952399ecbfd77c3a9e3d364ed8705879d592edda28a87edc1da17602b93&scene=27#wechat_redirect)
+## Related News:
+   - [The Crop Journal | 金危危团队揭示氨基酸通透酶参与调控玉米籽粒蛋白含量](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247528686&idx=3&sn=7b576ba1b3ef1ea660bb5cc92b0fdff6&chksm=ce90ddbbf9e754ad7952399ecbfd77c3a9e3d364ed8705879d592edda28a87edc1da17602b93&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

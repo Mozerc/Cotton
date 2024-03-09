@@ -1,0 +1,32 @@
+---
+description: 1-aminocyclopropane-1-carboxylate oxidase35 ; Zm00001eb256320 ; Zea mays
+meta_title:
+title: ZmACO35;AAO3
+category: genes
+tags: [  ]
+---
+
+## Gene Details:
+- **Gene ID:**	[Zm00001eb256320](https://www.maizegdb.org/gene_center/gene/Zm00001eb256320)
+- **Gene Symbol:** ZmACO35;AAO3;acco35
+- **Gene Name:** 1-aminocyclopropane-1-carboxylate oxidase35
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
+
+## Functional Description:
+   - This analysis prioritized the association of RAP2 for flowering time, PHD17 (E3 SUMO-protein ligase SIZ1, GRMZM2G155123) for ear height, and ACCO35 (1-aminocyclopropane-1-carboxylate oxidase35, GRMZM2G052422) for tassel branch number.
+   - 
+   - 
+
+## Literature:
+   - [CUBIC: an atlas of genetic architecture promises directed maize improvement.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-020-1930-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31980033](https://pubmed.ncbi.nlm.nih.gov/31980033/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

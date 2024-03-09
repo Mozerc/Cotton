@@ -3,7 +3,7 @@ description: Zm00001eb316620 ; Zea mays
 meta_title:
 title: ZmGAR2;GAR2
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [PBJ | 华中农大玉米团队严建兵/肖英杰解析玉米籽粒含水量动态变化的遗传基础，助力籽粒快速脱水新品种培育！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247502996&idx=1&sn=2e0599b76b046cc97f16f89fadd6296c&chksm=ce9061c1f9e7e8d7195233a8510db0011a5645429e5fcf43122d467996df9bed7dcce547566a&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [100384417](https://www.ncbi.nlm.nih.gov/gene/?term=100384417)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

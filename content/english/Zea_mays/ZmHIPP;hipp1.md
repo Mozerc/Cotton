@@ -3,7 +3,7 @@ description: heavy metal-associated isoprenylated plant protein1 ; Zm00001eb0928
 meta_title:
 title: ZmHIPP;hipp1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [Journal of Hazardous Materials | 四川农业大学沈亚欧团队在玉米铅耐受性研究中取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247525310&idx=2&sn=4a58daa06ea6d322f41842bd22e242aa&chksm=ce90ceebf9e747fde2747d0e960be3a429641f8b8b5e846623159e6066216eb0423c81e5ff17&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103647091](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103647091)
 - **UniProt accessions:** [A0A096RFC0](https://www.uniprot.org/uniprotkb/A0A096RFC0/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

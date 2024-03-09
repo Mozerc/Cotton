@@ -3,7 +3,7 @@ description: NAC-transcription factor 108 ; Zm00001eb135910 ; Zea mays
 meta_title:
 title: NAC7;nactf108
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -29,10 +29,10 @@ tags: []
 ## Related News:
    - [PBJ | NAC7让植物叶片青春不老的秘密](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247484360&idx=1&sn=41b53fc295314907f6a668b6930f7246&chksm=ce93ae9df9e4278bc0fc97fda59f635ef148ea7bc58f24998c86881b0374fd0599b5d5e11069&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [103650490](https://www.ncbi.nlm.nih.gov/gene/?term=103650490)
 - **UniProt accessions:** [A0A1D6MWC7](https://www.uniprot.org/uniprotkb/A0A1D6MWC7/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,27 +3,30 @@ description: TraesCS3D02G162700 ; Triticum aestivum
 meta_title:
 title: TaIAA17-3D
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS3D02G162700](https://www.maizegdb.org/gene_center/gene/TraesCS3D02G162700)
 - **Gene Symbol:** TaIAA17-3D
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - TaHST1L strongly interacted with TaIAA17 and inhibited its expression at the protein level, and thus possibly improved the content of endogenous auxin in the basal tissue of tillers.
    - tiller  angle
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)
-   - **DOI:** [10.1111/pbi.13930](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)
-   - **PubMed ID:** [PMC9829390](https://pubmed.ncbi.nlm.nih.gov/PMC9829390/)
+## Literature:
+   - [A HST1-like gene controls tiller angle through regulating endogenous auxin in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13930](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36128872](https://pubmed.ncbi.nlm.nih.gov/36128872/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

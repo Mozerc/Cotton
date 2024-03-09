@@ -3,27 +3,30 @@ description: CK2 protein kinase alpha 4 ; Zm00001eb298700 ; Zea mays
 meta_title:
 title: cka4
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb298700](https://www.maizegdb.org/gene_center/gene/Zm00001eb298700)
 - **Gene Symbol:** cka4
 - **Gene Name:** CK2 protein kinase alpha 4
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
+## Functional Description:
    - A knockout mutant of CKA4 exhibits defects both in the development and elongation of the hypocotyl, delaying growth in general.
    - CKA4 proteins, which have been associated with hypocotyl elongation and plant growth.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402688/)
-   - **DOI:** [10.1371/journal.pone.0212925](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402688/)
-   - **PubMed ID:** [30840677](https://pubmed.ncbi.nlm.nih.gov/30840677/)
+## Literature:
+   - [Genome-wide haplotype-based association analysis of key traits of plant lodging and architecture of maize identifies major determinants for leaf angle: hapLA4.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402688/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0212925](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402688/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30840677](https://pubmed.ncbi.nlm.nih.gov/30840677/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

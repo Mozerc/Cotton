@@ -3,27 +3,30 @@ description: TraesCS4A02G271300 ; Triticum aestivum
 meta_title:
 title: TaTB1-4A
 category: genes
-tags: []
+tags: [ development,spikelet,tiller,inflorescence,architecture,inflorescence architecture,spikelet development,inflorescence development ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS4A02G271300](https://www.maizegdb.org/gene_center/gene/TraesCS4A02G271300)
 - **Gene Symbol:** TaTB1-4A
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Increased Dosage of TB1 Regulates Paired Spikelet and Tiller Phenotypes in hb Plants.
    - We conclude that increased dosage of TB1, with contributions from both the wheat D and B genomes, promotes paired spikelet development and reduces outgrowth of tillers in hb plants.
    - Allelic Diversity for TB1 Regulates Inflorescence Architecture in Modern Wheat Cultivars
 
-## Publications:
-   - **Publication** [文章名](https://academic.oup.com/plcell/article/30/3/563/6099252?login=true#supplementary-data)
-   - **DOI:** [10.1105/tpc.17.00961](https://academic.oup.com/plcell/article/30/3/563/6099252?login=true#supplementary-data)
-   - **PubMed ID:** [29444813](https://pubmed.ncbi.nlm.nih.gov/29444813/)
+## Literature:
+   - [TEOSINTE BRANCHED1 Regulates Inflorescence Architecture and Development in Bread Wheat (Triticum aestivum).]( https://academic.oup.com/plcell/article/30/3/563/6099252?login=true#supplementary-data)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00961](https://academic.oup.com/plcell/article/30/3/563/6099252?login=true#supplementary-data)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29444813](https://pubmed.ncbi.nlm.nih.gov/29444813/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

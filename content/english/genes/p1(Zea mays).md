@@ -3,27 +3,30 @@ description: pericarp color1 ; Zm00001eb014260 ; Zea mays
 meta_title:
 title: p1
 category: genes
-tags: []
+tags: [ transcription factor,resistance,floral,floral organ,pericarp ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb014260](https://www.maizegdb.org/gene_center/gene/Zm00001eb014260)
 - **Gene Symbol:** p1
 - **Gene Name:** pericarp color1
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
+## Functional Description:
    - P1 transcription factor directs production of silk maysin, a corn earworm resistance factor, in concordance with a hierarchy of floral organ pigmentation
-   - The p1 transgenes also conferred red pigment to pericarp, cob, husk and tassel tissues.
-   - Transformation with a p1 transgene induces maysin accumulation in maize silks.
+   - The **p1** transgenes also conferred red pigment to pericarp, cob, husk and tassel tissues.
+   - Transformation with a **p1** transgene induces maysin accumulation in maize silks.
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7652.2005.00120.x)
-   - **DOI:** [10.1111/j.1467-7652.2005.00120.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7652.2005.00120.x)
-   - **PubMed ID:** [17173622](https://pubmed.ncbi.nlm.nih.gov/17173622/)
+## Literature:
+   - [Transformation of maize with the p1 transcription factor directs production of silk maysin, a corn earworm resistance factor, in concordance with a hierarchy of floral organ pigmentation.]( https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7652.2005.00120.x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1467-7652.2005.00120.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7652.2005.00120.x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17173622](https://pubmed.ncbi.nlm.nih.gov/17173622/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

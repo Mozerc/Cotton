@@ -3,7 +3,7 @@ description: ferredoxin5 ; Zm00001eb260150 ; Zea mays
 meta_title:
 title: ZmFdx5
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [IJBM | 四川农业大学沈亚欧团队解析玉米耐铅新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247539925&idx=5&sn=2b7b83df05d577665f5b8595cf2e17d4&chksm=ce90f180f9e77896b0c176034175f8774293db8abcfc56cb18d16b971c311e154f6f5d5bca42&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103628935](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103628935)
 - **UniProt accessions:** [P27789](https://www.uniprot.org/uniprotkb/P27789/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,27 +3,30 @@ description: GRMZM2G074097 ; Zea mays
 meta_title:
 title: THI2
 category: genes
-tags: []
+tags: [ development,shoot,inflorescence,inflorescence development ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[GRMZM2G074097](https://www.maizegdb.org/gene_center/gene/GRMZM2G074097)
 - **Gene Symbol:** THI2
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73 RefGen_v3)
+- **Species:** *Zea mays*
 
-## Functions:
-   - THI2 a thiamine biosynthetic gene involves shoot, inflorescence and leaves development
+## Functional Description:
+   - **THI2** a thiamine biosynthetic gene involves shoot, inflorescence and leaves development
    - THI2-knockdown plants and the transposon insertion mutant thiC had chlorotic leaves.
-   - THI2 in flowers and leaves but not in roots.
+   - **THI2** in flowers and leaves but not in roots.
 
-## Publications:
-   - **Publication** [文章名](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)
-   - **DOI:** [10.1104/pp.16.01254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)
-   - **PubMed ID:** [27702844](https://pubmed.ncbi.nlm.nih.gov/27702844/)
+## Literature:
+   - [The Thiamine Biosynthesis Gene THI1 Promotes Nodule Growth and Seed Maturation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.01254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27702844](https://pubmed.ncbi.nlm.nih.gov/27702844/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

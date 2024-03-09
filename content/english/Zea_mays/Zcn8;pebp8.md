@@ -3,7 +3,7 @@ description: phosphatidylethanolamine-binding protein8 ; Zm00001eb353250 ; Zea m
 meta_title:
 title: Zcn8;pebp8
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [JEB | 中国农业大学林中伟教授课题组发现调控玉米分蘖发育的新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516449&idx=8&sn=0ca9a532d60f2f00d4d5fd7294f39bc5&chksm=ce902c74f9e7a56226264f6288b36eadc4f946f40b6288a1865343981bb71509c23e3d7488d3&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100127519](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127519)
 - **UniProt accessions:** [A9LLY2](https://www.uniprot.org/uniprotkb/A9LLY2/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

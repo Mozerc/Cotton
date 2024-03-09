@@ -3,27 +3,31 @@ description: TraesCS2A02G121000 ; Triticum aestivum
 meta_title:
 title: TaNHX2-2A
 category: genes
-tags: []
+tags: [ stress,potassium,osmotic stress ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS2A02G121000](https://www.maizegdb.org/gene_center/gene/TraesCS2A02G121000)
 - **Gene Symbol:** TaNHX2-2A
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Our data suggest that TaNHX2 is a endomembrane-bound protein and may primarily function as a K+/H+ antiporter, which is involved in cellular pH regulation and potassium nutrition under normal conditions.
    - It appears that osmotic stress is involved in the upregulation of TaNHX2 in addition to an ion-specific signaling component in wheat.
    - TaNHX2 expression could complement the sensitivity of AXT3K to NaCl and KCl stresses.
 
-## Publications:
-   - **Publication** [文章名](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078098	https://link.springer.com/article/10.1007/s11033-020-05906-5)
-   - **DOI:** [10.1371/journal.pone.0078098	10.1007/s11033-020-05906-5](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078098	https://link.springer.com/article/10.1007/s11033-020-05906-5)
-   - **PubMed ID:** [24223765	33068231](https://pubmed.ncbi.nlm.nih.gov/24223765	33068231/)
+## Literature:
+   - [Functional characterization of a wheat NHX antiporter gene TaNHX2 that encodes a K(+)/H(+) exchanger.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0078098](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078098)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24223765](https://pubmed.ncbi.nlm.nih.gov/24223765/)
+   - [Identification and characterization of multiple abiotic stress tolerance genes in wheat.]( https://link.springer.com/article/10.1007/s11033-020-05906-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-020-05906-5](https://link.springer.com/article/10.1007/s11033-020-05906-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33068231](https://pubmed.ncbi.nlm.nih.gov/33068231/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

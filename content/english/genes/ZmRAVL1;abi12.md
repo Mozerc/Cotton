@@ -28,10 +28,10 @@ tags: [ leaf,transcription factor,brassinosteroid,domestication,transcription re
 ## Related News:
    - [【Science|重磅】中国农大田丰团队克隆玉米株型关键基因，为我国玉米研究领域首篇cns主刊论文](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247485484&idx=5&sn=a99ebf816a5d9f0a9944b0561fbe1558&chksm=ce93a579f9e42c6f85b8c964a7d307e4aefa12948ac4474253db24b7e80b74fb4056e3d1fd5d&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103646035](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103646035)
 - **UniProt accessions:** [A0A060D1M1](https://www.uniprot.org/uniprotkb/A0A060D1M1/entry)&nbsp;,&nbsp;[A0A3L6FNT7](https://www.uniprot.org/uniprotkb/A0A3L6FNT7/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,7 +3,7 @@ description: Na+ content3 ; Zm00001eb071370 ; Zea mays
 meta_title:
 title: ZmNC3;ZmHKT1.2
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -28,10 +28,10 @@ tags: []
 ## Related News:
    - [PBJ | 中国农业大学蒋才富/吉林农科院李毅丹团队合作在玉米耐盐碱基因挖掘利用方面取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247538194&idx=1&sn=f0d5b151c19b87c086c37c32de0deefa&chksm=ce90fb47f9e77251cab8ff0c0530333ad1bb555e3c58c98000a74d9970a903fffc081c50aa7c&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC109943959](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109943959)
 - **UniProt accessions:** [A0A1D6E031](https://www.uniprot.org/uniprotkb/A0A1D6E031/entry)&nbsp;,&nbsp;[A0A3L6G3L6](https://www.uniprot.org/uniprotkb/A0A3L6G3L6/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

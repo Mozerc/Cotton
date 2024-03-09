@@ -3,27 +3,30 @@ description: Zm00001eb374920 ; Zea mays
 meta_title:
 title: ZmPP134;dbptf3
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb374920](https://www.maizegdb.org/gene_center/gene/Zm00001eb374920)
 - **Gene Symbol:** ZmPP134;dbptf3
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
-   - ZmPP134 belongs to the corn protein phosphatase gene family.
-   - ZmPP134 insights into the phylogenetic relationships and characteristic functions of maize PPs and will be useful in studies aimed at revealing the global regulatory network in maize abiotic stress responses, thereby contributing to the maize molecular breeding with enhanced quality traits.
+## Functional Description:
+   - **ZmPP134** belongs to the corn protein phosphatase gene family.
+   - **ZmPP134** insights into the phylogenetic relationships and characteristic functions of maize PPs and will be useful in studies aimed at revealing the global regulatory network in maize abiotic stress responses, thereby contributing to the maize molecular breeding with enhanced quality traits.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://pubmed.ncbi.nlm.nih.gov/25199535/)
-   - **DOI:** [10.1186/1471-2164-15-773](https://pubmed.ncbi.nlm.nih.gov/25199535/)
-   - **PubMed ID:** [25199535](https://pubmed.ncbi.nlm.nih.gov/25199535/)
+## Literature:
+   - [Maize protein phosphatase gene family: identification and molecular characterization.]( https://pubmed.ncbi.nlm.nih.gov/25199535/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-15-773](https://pubmed.ncbi.nlm.nih.gov/25199535/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25199535](https://pubmed.ncbi.nlm.nih.gov/25199535/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

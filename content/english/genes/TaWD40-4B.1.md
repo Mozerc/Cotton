@@ -3,27 +3,31 @@ description: TraesCS4B02G072200 ; Triticum aestivum
 meta_title:
 title: TaWD40-4B.1
 category: genes
-tags: []
+tags: [ drought,tolerance,drought tolerance,breeding,catalase ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS4B02G072200](https://www.maizegdb.org/gene_center/gene/TraesCS4B02G072200)
 - **Gene Symbol:** TaWD40-4B.1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - Allelic variation of TaWD40-4B.1 contributes to drought tolerance by modulating catalase activity in wheat.
-   - The introgression of TaWD40-4B.1C enhances drought tolerance of the cultivar harboring TaWD40-4B.1T. Therefore, TaWD40-4B.1C could be useful for molecular breeding of drought tolerant wheat.
+## Functional Description:
+   - Allelic variation of **TaWD40-4B.1** contributes to drought tolerance by modulating catalase activity in wheat.
+   - The introgression of **TaWD40-4B.1**C enhances drought tolerance of the cultivar harboring **TaWD40-4B.1**T. Therefore, **TaWD40-4B.1**C could be useful for molecular breeding of drought tolerant wheat.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://www.nature.com/articles/s41467-023-36901-6)
-   - **DOI:** [10.1038/s41467-023-36901-6](https://www.nature.com/articles/s41467-023-36901-6)
-   - **PubMed ID:** [36864053](https://pubmed.ncbi.nlm.nih.gov/36864053/)
+## Literature:
+   - [Allelic variation of TaWD40-4B.1 contributes to drought tolerance by modulating catalase activity in wheat.]( https://www.nature.com/articles/s41467-023-36901-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-36901-6](https://www.nature.com/articles/s41467-023-36901-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36864053](https://pubmed.ncbi.nlm.nih.gov/36864053/)
 
-3. **Related News:**
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247567241&idx=6&sn=714b3cd3bc469f17f2cab72e69922dd7&chksm=eddcec840ee4f1671db16e029b4ba61d81dc43a195d471fd13fc7b63b170caffdf8cf4427050&scene=27#wechat_redirect)
+## Related News:
+   - [NC | 提高小麦抗旱性！山东大学研究团队发表最新成果](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247567241&idx=6&sn=714b3cd3bc469f17f2cab72e69922dd7&chksm=eddcec840ee4f1671db16e029b4ba61d81dc43a195d471fd13fc7b63b170caffdf8cf4427050&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

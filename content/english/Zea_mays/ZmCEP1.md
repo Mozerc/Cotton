@@ -3,7 +3,7 @@ description: C-terminally encoded peptide1 ; Zm00001eb038200 ; Zea mays
 meta_title:
 title: ZmCEP1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [JEB | 中国农业大学张义荣/邢界文揭示玉米多肽激素基因ZmCEP1参与调控籽粒发育](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247511983&idx=5&sn=18430cf3dd16d90cf3b420285f837768&chksm=ce9002faf9e78bec791a34eb389d0aca93537979b1a717c3cd72a39cc5d1fce91c8d01477459&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100278083](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100278083)
 - **UniProt accessions:** [A0A1D6KLB6](https://www.uniprot.org/uniprotkb/A0A1D6KLB6/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

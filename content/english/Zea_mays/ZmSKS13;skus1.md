@@ -3,7 +3,7 @@ description: skewed root growth similar1 ; Zm00001eb149770 ; Zea mays
 meta_title:
 title: ZmSKS13;skus1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [New Phyto | 山东大学李坤朋课题组在玉米Cupredoxin结构域蛋白ZmSKS13调控种子发育研究中取得进展！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247497778&idx=6&sn=ecbc903c03143c4d6d15ee908c2dbc05&chksm=ce905567f9e7dc717e8e4d9676dbe55e4994c8efc12fcef81a8b1a8423ae45815290cd7c66a8&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100194388](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100194388)
 - **UniProt accessions:** [C0P2K2](https://www.uniprot.org/uniprotkb/C0P2K2/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

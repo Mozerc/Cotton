@@ -3,7 +3,7 @@ description: CCAAT-HAP2-transcription factor 213 ; Zm00001eb256650 ; Zea mays
 meta_title:
 title: ZmNF-YA13;ca2p13
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [New Phytologist | 中国农科院生物所王磊/徐妙云团队揭示zma-miR169o调控玉米籽粒大小和粒重的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247531678&idx=4&sn=faeedbea786a107d7a3655087b081dd5&chksm=ce90d1cbf9e758dd7589480982a062d7198355266ddf8c112bc81d7586d7860f990fed345e91&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100282696](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282696)
 - **UniProt accessions:** [A0A1D6HLV3](https://www.uniprot.org/uniprotkb/A0A1D6HLV3/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,7 +3,7 @@ description: Desiccation-Related Protein 1 ; Zm00001eb267820 ; Zea mays
 meta_title:
 title: ZmDRP1;DRP1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -25,10 +25,10 @@ tags: []
 ## Related News:
    - [JXB | 中国农业大学赵海铭/黄伟研究团队合作发现新的玉米不育基因DRP1及其独特的水分调控机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247535536&idx=4&sn=c42b0267b8cd225f72274451fdf3a512&chksm=ce90e6e5f9e76ff31c6aba4e680a8159c6da522f4e6c0153756f9f84a64aca694d1df5242688&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100283934](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283934)
 - **UniProt accessions:** [B6TNA6](https://www.uniprot.org/uniprotkb/B6TNA6/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

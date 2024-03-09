@@ -3,27 +3,30 @@ description: lazy plant1 ; Zm00001eb169480 ; Zea mays
 meta_title:
 title: ZmLA1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb169480](https://www.maizegdb.org/gene_center/gene/Zm00001eb169480)
 - **Gene Symbol:** ZmLA1
 - **Gene Name:** lazy plant1
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
-   - ZmLA1 might mediate the cross talk between shoot gravitropism and inflorescence development by regulating auxin transport, auxin signaling, and probably light response in maize.
-   - ZmLA1 is involved in shoot gravitropism and inflorescence development through the regulation of PAT and auxin signaling in maize.
-   - ZmLA1 Regulates Both Ear and Tassel Development.
+## Functional Description:
+   - **ZmLA1** might mediate the cross talk between shoot gravitropism and inflorescence development by regulating auxin transport, auxin signaling, and probably light response in maize.
+   - **ZmLA1** is involved in shoot gravitropism and inflorescence development through the regulation of PAT and auxin signaling in maize.
+   - **ZmLA1** Regulates Both Ear and Tassel Development.
 
-## Publications:
-   - **Publication** [文章名](https://academic.oup.com/plphys/article/163/3/1306/6112746?login=true)
-   - **DOI:** [10.1104/pp.113.227314](https://academic.oup.com/plphys/article/163/3/1306/6112746?login=true)
-   - **PubMed ID:** [24089437](https://pubmed.ncbi.nlm.nih.gov/24089437/)
+## Literature:
+   - [Maize LAZY1 mediates shoot gravitropism and inflorescence development through regulating auxin transport, auxin signaling, and light response.]( https://academic.oup.com/plphys/article/163/3/1306/6112746?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.113.227314](https://academic.oup.com/plphys/article/163/3/1306/6112746?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24089437](https://pubmed.ncbi.nlm.nih.gov/24089437/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

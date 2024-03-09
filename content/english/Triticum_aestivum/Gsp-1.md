@@ -3,27 +3,30 @@ description: TraesCS5D02G004000 ; Triticum aestivum
 meta_title:
 title: Gsp-1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS5D02G004000](https://www.maizegdb.org/gene_center/gene/TraesCS5D02G004000)
 - **Gene Symbol:** Gsp-1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - grain hardness
    - kernel texture
    - 
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s11103-007-9263-7)
-   - **DOI:** [10.1007/s11103-007-9263-7](https://link.springer.com/article/10.1007/s11103-007-9263-7)
-   - **PubMed ID:** [18049798](https://pubmed.ncbi.nlm.nih.gov/18049798/)
+## Literature:
+   - [Molecular genetics of puroindolines and related genes: allelic diversity in wheat and other grasses.]( https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9263-7](https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18049798](https://pubmed.ncbi.nlm.nih.gov/18049798/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

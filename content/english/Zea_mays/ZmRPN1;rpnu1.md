@@ -3,7 +3,7 @@ description: regulator of pollen number1 ; Zm00001eb394080 ; Zea mays
 meta_title:
 title: ZmRPN1;rpnu1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [PBJ | 中国农大贺岩教授课题组发现调控玉米花粉数量关键特异基因ZmRPN1](https://mp.weixin.qq.com/s/AodLIhzfADrHhE3yibz8Yw)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [100272380](https://www.ncbi.nlm.nih.gov/gene/?term=100272380)
 - **UniProt accessions:** [B4FNA8](https://www.uniprot.org/uniprotkb/B4FNA8/entry)&nbsp;,&nbsp;[B6TVS7](https://www.uniprot.org/uniprotkb/B6TVS7/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

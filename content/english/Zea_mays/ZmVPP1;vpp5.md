@@ -3,7 +3,7 @@ description: vacuolar-type H+-pyrophosphatase5 ; Zm00001eb387010 ; Zea mays
 meta_title:
 title: ZmVPP1;vpp5
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -20,16 +20,16 @@ tags: []
    - Transgenic maize with enhanced **ZmVPP1** expression exhibits improved drought tolerance that is most likely due to enhanced photosynthetic efficiency and root development.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(19)62828-5](https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[ ](https://pubmed.ncbi.nlm.nih.gov/ /)
+   - []( https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(19)62828-5](https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[ ](https://pubmed.ncbi.nlm.nih.gov/ /)
    - [Genetic variation in ZmVPP1 contributes to drought tolerance in maize seedlings.]( https://www.nature.com/articles/ng.3636)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ng.3636](https://www.nature.com/articles/ng.3636)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27526320](https://pubmed.ncbi.nlm.nih.gov/27526320/)
 
 ## Related News:
    - [JIA | 河北农大董金皋团队解析玉米大斑病菌中编码NHEJ途径关键组分蛋白StKU80基因的功能](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247489943&idx=5&sn=c58de56f905579f5471d7103baac9dfa&chksm=ce93b4c2f9e43dd486d3700b846502d1ab53c7e3fbe54c26ad375e99b93b6c0ff30cc597d9b8&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100280334](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280334)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

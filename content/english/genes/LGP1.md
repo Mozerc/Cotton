@@ -3,27 +3,30 @@ description: low gluten protein 1 ; TraesCS1D02G001200 ; Triticum aestivum
 meta_title:
 title: LGP1
 category: genes
-tags: []
+tags: [ seed,endosperm ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS1D02G001200](https://www.maizegdb.org/gene_center/gene/TraesCS1D02G001200)
 - **Gene Symbol:** LGP1
 - **Gene Name:** low gluten protein 1
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - The reduced gluten level in the lgp1 mutant makes it a good candidate for specific diets for patients with diabetes or kidney diease.
    - The lgp1 mutant accumulates low levels of seed storage proteins
    - lgp1 endosperm cells show SSP aggregation in the extracellular space
 
-## Publications:
-   - **Publication** [文章名](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316)
-   - **DOI:** [10.1111/nph.18316](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316)
-   - **PubMed ID:** [35714031](https://pubmed.ncbi.nlm.nih.gov/35714031/)
+## Literature:
+   - [Unprocessed wheat γ-gliadin reduces gluten accumulation associated with the endoplasmic reticulum stress and elevated cell death.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18316](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35714031](https://pubmed.ncbi.nlm.nih.gov/35714031/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

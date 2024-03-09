@@ -1,29 +1,33 @@
 ---
-description: ABI3-VP1-transcription factor 12 ; Zm00001eb073010 ; Zea mays
+description: GRMZM2G102059 ; Zea mays
 meta_title:
 title: ZmRAVL1
 category: genes
-tags: []
+tags: [ leaf,brassinosteroid,architecture,leaf angle ]
 ---
 
-## Gene Details
-- **Gene ID:**	[Zm00001eb073010](https://www.maizegdb.org/gene_center/gene/Zm00001eb073010)
+## Gene Details:
+- **Gene ID:**	[GRMZM2G102059](https://www.maizegdb.org/gene_center/gene/GRMZM2G102059)
 - **Gene Symbol:** ZmRAVL1
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73RefGen_v3)
+- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73 RefGen_v3)
+- **Species:** *Zea mays*
 
-1. **Functions:**
-   - Upright Plant Architecture2 regulates leaf angle through ZmRAVL1
-   - Teosinte UPA2 and editing ZmRAVL1 enhance maize yields
-   - ZmRAVL1 edited lines also displayed reduced leaf angle.
+## Functional Description:
+   - **ZmRAVL1** regulates brd1 (brassinosteroid C-6 oxidase1), which underlies UPA1, altering endogenous brassinosteroid content and leaf angle.
+   - **ZmRAVL1** functions as a positive regulator of maize leaf angle.
+   - **ZmRAVL1** can generate upright leaf architecture for increased planting density.
 
-2. **Publications:**
-   - **Publication** [文章名](https://www.science.org/doi/10.1126/science.aax5482?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
-   - **DOI:** [10.1126/science.aax5482](https://www.science.org/doi/10.1126/science.aax5482?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
-   - **PubMed ID:** [31416957](https://pubmed.ncbi.nlm.nih.gov/31416957/)
+## Literature:
+   - [Teosinte ligule allele narrows plant architecture and enhances high-density maize yields.]( https://www.science.org/doi/10.1126/science.aax5482?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.aax5482](https://www.science.org/doi/10.1126/science.aax5482?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#supplementary-materials)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31416957](https://pubmed.ncbi.nlm.nih.gov/31416957/)
 
-3. **Related News:**
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247485484&idx=5&sn=a99ebf816a5d9f0a9944b0561fbe1558&chksm=ce93a579f9e42c6f85b8c964a7d307e4aefa12948ac4474253db24b7e80b74fb4056e3d1fd5d&scene=27#wechat_redirect)
+## Related News:
+   - [Science重磅 | 专家点评，重大突破，玉米大规模增产将成为可能，中国农业大学田丰团队克隆新基因并阐述其机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247485488&idx=2&sn=8d03ea1a48d21272dba68a2e92e45e5f&chksm=ce93a565f9e42c737eaba0ceb24d7bed681a915bc395301108da8f9b5d851f77ab74f4402d46&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

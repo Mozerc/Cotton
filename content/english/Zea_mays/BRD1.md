@@ -3,27 +3,30 @@ description: GRMZM2G103773 ; Zea mays
 meta_title:
 title: BRD1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[GRMZM2G103773](https://www.maizegdb.org/gene_center/gene/GRMZM2G103773)
 - **Gene Symbol:** BRD1
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73 RefGen_v3)
+- **Species:** *Zea mays*
 
-## Functions:
-   - A close ortholog of C-6 oxidase in maize was found and is also named BRD1.
-   - BRD1 encodes a Brassinosteroid C-6 Oxidase
+## Functional Description:
+   - A close ortholog of C-6 oxidase in maize was found and is also named **BRD1**.
+   - **BRD1** encodes a Brassinosteroid C-6 Oxidase
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64)
-   - **DOI:** [10.1111/j.1744-7909.2012.01168.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64)
-   - **PubMed ID:** [22963251](https://pubmed.ncbi.nlm.nih.gov/22963251/)
+## Literature:
+   - [Regulation of brassinosteroid biosynthesis and inactivation.]( https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1744-7909.2012.01168.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22963251](https://pubmed.ncbi.nlm.nih.gov/22963251/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,27 +3,30 @@ description: TraesCS2A02G176300 ; Triticum aestivum
 meta_title:
 title: TaAFP-A
 category: genes
-tags: []
+tags: [ seed,seed germination,aba,embryo, aba ,dormancy,seed dormancy ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS2A02G176300](https://www.maizegdb.org/gene_center/gene/TraesCS2A02G176300)
 - **Gene Symbol:** TaAFP-A
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - It is well documented that AtAFP is a negative regulator of ABA signaling that regulates embryo germination and seed dormancy
    - Seed Dormancy
    - 
 
-## Publications:
-   - **Publication** [文章名](https://www.frontiersin.org/articles/10.3389/fpls.2022.837805/full#F4)
-   - **DOI:** [10.3389/fpls.2022.837805](https://www.frontiersin.org/articles/10.3389/fpls.2022.837805/full#F4)
-   - **PubMed ID:** [35432414](https://pubmed.ncbi.nlm.nih.gov/35432414/)
+## Literature:
+   - [A 4 bp InDel in the Promoter of Wheat Gene TaAFP-B Affecting Seed Dormancy Confirmed in Transgenic Rice.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.837805/full#F4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.837805](https://www.frontiersin.org/articles/10.3389/fpls.2022.837805/full#F4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35432414](https://pubmed.ncbi.nlm.nih.gov/35432414/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

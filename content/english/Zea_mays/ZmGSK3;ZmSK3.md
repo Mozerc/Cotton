@@ -3,7 +3,7 @@ description: glycogen synthase kinase3 ; Zm00001eb238820 ; Zea mays
 meta_title:
 title: ZmGSK3;ZmSK3
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [JGG｜中国农大郭岩团队解析盐胁迫下玉米SOS途径的调控机制](https://mp.weixin.qq.com/s/gUQP-zuzfb9JtTU8k_vBdw)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100283610](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283610)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,7 +3,7 @@ description: slow anion channel-associated1 ; Zm00001d002603 ; Zea mays
 meta_title:
 title: ZmSLAC1;slac1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -28,10 +28,10 @@ tags: []
 ## Related News:
    - [PBJ | 中国农业大学武维华、王毅教授团队揭示玉米钙依赖型蛋白激酶调控玉米抗旱性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247517034&idx=1&sn=9fd355e4d2667d54afc82857c479d62f&chksm=ce902e3ff9e7a729b7b8b51d8019b895506bfd2c72db522d28855ab4f2bc16ac15cc43e94661&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [103648441](https://www.ncbi.nlm.nih.gov/gene/?term=103648441)
 - **UniProt accessions:** [A0A1D6E265](https://www.uniprot.org/uniprotkb/A0A1D6E265/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

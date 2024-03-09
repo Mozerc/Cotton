@@ -3,27 +3,30 @@ description: TraesCS2D02G326300 ; Triticum aestivum
 meta_title:
 title: TaVIT1-D
 category: genes
-tags: []
+tags: [ transporter,iron ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS2D02G326300](https://www.maizegdb.org/gene_center/gene/TraesCS2D02G326300)
 - **Gene Symbol:** TaVIT1-D
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - This suggests that TaVIT1 is indeed a functioning iron transporter but that it localizes mainly to a membrane other than the tonoplast
    - These data indicate that both TaVIT1 and TaVIT2 are able to transport iron but that their localization in the cell may differ.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true)
-   - **DOI:** [10.1104/pp.17.00672](https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true)
-   - **PubMed ID:** [28684433](https://pubmed.ncbi.nlm.nih.gov/28684433/)
+## Literature:
+   - [Wheat Vacuolar Iron Transporter TaVIT2 Transports Fe and Mn and Is Effective for Biofortification.]( https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.17.00672](https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28684433](https://pubmed.ncbi.nlm.nih.gov/28684433/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

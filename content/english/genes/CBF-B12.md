@@ -3,27 +3,30 @@ description: TraesCS5B02G312200 ; Triticum aestivum
 meta_title:
 title: CBF-B12
 category: genes
-tags: []
+tags: [ cold ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS5B02G312200](https://www.maizegdb.org/gene_center/gene/TraesCS5B02G312200)
 - **Gene Symbol:** CBF-B12
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Copy number variations of CBF genes at the Fr-A2 locus are essential components of winter hardiness in wheat
    - Winter hardiness,cold
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424)
-   - **DOI:** [10.1111/tpj.13424](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424)
-   - **PubMed ID:** [27859852](https://pubmed.ncbi.nlm.nih.gov/27859852/)
+## Literature:
+   - [Copy number variations of CBF genes at the Fr-A2 locus are essential components of winter hardiness in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13424](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27859852](https://pubmed.ncbi.nlm.nih.gov/27859852/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

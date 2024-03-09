@@ -3,7 +3,7 @@ description: chlorophyllide a oxygenase2 ; Zm00001eb362510 ; Zea mays
 meta_title:
 title: ZmCAO1;chao2
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [JXB | 长江大学杜何为团队揭示ZmCAO1对玉米籽粒重、产量和耐涝性等发面的影响](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247505267&idx=7&sn=891a0d541552bef318803a54336166af&chksm=ce907826f9e7f13026648d32fd84f1bf5aba56139ab0255a38228f4cfb93b817626df216c516&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100284976](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284976)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

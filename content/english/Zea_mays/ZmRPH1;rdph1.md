@@ -3,7 +3,7 @@ description: Reducing Plant Height 1 ; Zm00001eb007470 ; Zea mays
 meta_title:
 title: ZmRPH1;rdph1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -28,10 +28,10 @@ tags: []
 ## Related News:
    - [PBJ | 中国农业大学傅缨教授团队鉴定到一个编码微管结合蛋白的新玉米株高相关基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247486305&idx=1&sn=a2e0f86ae82526fba8f8ee754ad774dd&chksm=ce93a634f9e42f2235faa6f38357c213e4f478d92901ec4a5c639ec356dbf415135a701f3fb3&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [100382795](https://www.ncbi.nlm.nih.gov/gene/?term=100382795)
 - **UniProt accessions:** [A0A1D6JRP3](https://www.uniprot.org/uniprotkb/A0A1D6JRP3/entry)&nbsp;,&nbsp;[A0A1D6JRN6](https://www.uniprot.org/uniprotkb/A0A1D6JRN6/entry)&nbsp;,&nbsp;[A0A1D6JRN8](https://www.uniprot.org/uniprotkb/A0A1D6JRN8/entry)&nbsp;,&nbsp;[A0A1D6JRP1](https://www.uniprot.org/uniprotkb/A0A1D6JRP1/entry)&nbsp;,&nbsp;[A0A1D6JRP4](https://www.uniprot.org/uniprotkb/A0A1D6JRP4/entry)&nbsp;,&nbsp;[C0PAQ8](https://www.uniprot.org/uniprotkb/C0PAQ8/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

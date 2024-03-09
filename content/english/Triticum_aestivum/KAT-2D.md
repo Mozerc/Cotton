@@ -3,27 +3,30 @@ description: TraesCS6D02G493900LC ; Triticum aestivum
 meta_title:
 title: KAT-2D
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS6D02G493900LC](https://www.maizegdb.org/gene_center/gene/TraesCS6D02G493900LC)
 - **Gene Symbol:** KAT-2D
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Grain weight
    - 
    - 
 
-## Publications:
-   - **Publication** [文章名](https://www.nature.com/articles/s41467-020-20133-z)
-   - **DOI:** [10.1038/s41467-020-20133-z](https://www.nature.com/articles/s41467-020-20133-z)
-   - **PubMed ID:** [33293512](https://pubmed.ncbi.nlm.nih.gov/33293512/)
+## Literature:
+   - [Cloning of wheat keto-acyl thiolase 2B reveals a role of jasmonic acid in grain weight determination.]( https://www.nature.com/articles/s41467-020-20133-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-20133-z](https://www.nature.com/articles/s41467-020-20133-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33293512](https://pubmed.ncbi.nlm.nih.gov/33293512/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

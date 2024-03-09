@@ -3,27 +3,31 @@ description: GRMZM2G017845 ; Zea mays
 meta_title:
 title: ZmDA1
 category: genes
-tags: []
+tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,endosperm,sugar,endosperm development ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[GRMZM2G017845](https://www.maizegdb.org/gene_center/gene/GRMZM2G017845)
 - **Gene Symbol:** ZmDA1
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73 RefGen_v3)
+- **Species:** *Zea mays*
 
-## Functions:
+## Functional Description:
    - The over-expression of Zmda1 and Zmdar1 promoted kernel development, resulting in a more developed basal endosperm transfer cell layer (BETL) than WT and enhanced expression of starch synthase genes.
-   - The over-expression of the mutated ZmDA1 or ZmDAR1 genes improves the sugar imports into the sink organ and starch synthesis in maize kernels.
+   - The over-expression of the mutated **ZmDA1** or ZmDAR1 genes improves the sugar imports into the sink organ and starch synthesis in maize kernels.
    - Expressing the Zmda1 or Zmdar1 gene improved grain yield in maize by increasing the kernel number and kernel weight.
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)
-   - **DOI:** [10.1111/pbi.12763](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)
-   - **PubMed ID:** [28557341](https://pubmed.ncbi.nlm.nih.gov/28557341/)
+## Literature:
+   - [Over-expression of mutated ZmDA1 or ZmDAR1 gene improves maize kernel yield by enhancing starch synthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12763](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28557341](https://pubmed.ncbi.nlm.nih.gov/28557341/)
 
-3. **Related News:**
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247485133&idx=2&sn=28d445083019238cbb4c6512b24c3cad&chksm=e8be74d3dfc9fdc500fa3be2a055b5d6f2072f839803541376c514db1c7c73d398c8169ebb0c&scene=27#wechat_redirect)
+## Related News:
+   - [5月29日|植物科学顶尖杂志最新文章导读](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247485133&idx=2&sn=28d445083019238cbb4c6512b24c3cad&chksm=e8be74d3dfc9fdc500fa3be2a055b5d6f2072f839803541376c514db1c7c73d398c8169ebb0c&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

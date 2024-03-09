@@ -24,10 +24,10 @@ tags: [ drought,tolerance,drought tolerance ]
 ## Related News:
    - [Genome Biology |华中农业大学代明球课题组合作揭示代谢介导的玉米抗旱遗传机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516845&idx=1&sn=f1a3566862b2040170e123598c570273&chksm=ce902ff8f9e7a6ee4a436340d97844a856e81535aa6df39d84a560e2d5e61061534a1446b37f&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103635831](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635831)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

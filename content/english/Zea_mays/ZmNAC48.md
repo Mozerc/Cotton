@@ -3,7 +3,7 @@ description: NAC-transcription factor 48 ; Zm00001eb036920 ; Zea mays
 meta_title:
 title: ZmNAC48
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [JXB | 四川农业大学卢艳丽团队揭示玉米ZmNAC48及其自然反义转录本调控玉米干旱新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247504144&idx=2&sn=708abf1b0b1215ee2381ac530bcbb11e&chksm=ce907c45f9e7f5531e1b77925eb447f71dc8064a8c7c25fcf792abec08af3288adc57e3401bd&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100281072](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281072)
 - **UniProt accessions:** [B6SRZ1](https://www.uniprot.org/uniprotkb/B6SRZ1/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

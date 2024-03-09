@@ -3,28 +3,31 @@ description: TraesCS6A02G221900 ; Triticum aestivum
 meta_title:
 title: Rht24
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS6A02G221900](https://www.maizegdb.org/gene_center/gene/TraesCS6A02G221900)
 - **Gene Symbol:** Rht24
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - We previously identified RHT24 as a major locus controlling plant height on chromosome 6AL
-   - Functions of Rht24b in gibberellin-mediated control of plant height
-   - Effects of Rht24b on grain yield
-   - Rht24b is an important reduced height gene for wheat breeding
+   - Functions of **Rht24**b in gibberellin-mediated control of plant height
+   - Effects of **Rht24**b on grain yield
+   - **Rht24**b is an important reduced height gene for wheat breeding
 
-## Publications:
-   - **Publication** [文章名](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17808)
-   - **DOI:** [10.1111/nph.17808](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17808)
-   - **PubMed ID:** [34655489](https://pubmed.ncbi.nlm.nih.gov/34655489/)
+## Literature:
+   - [Rht24b, an ancient variation of TaGA2ox-A9, reduces plant height without yield penalty in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17808)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17808](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17808)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34655489](https://pubmed.ncbi.nlm.nih.gov/34655489/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

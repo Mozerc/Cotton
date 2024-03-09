@@ -3,7 +3,7 @@ description: Zea mays MADS4 ; Zm00001eb057540 ; Zea mays
 meta_title:
 title: ZmMADS4;zmm4
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [New Phytologist│中国农业大学金危危课题组和田丰课题组合作研究揭示了玉米成花转变的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491288&idx=2&sn=e4aeedcffb3ee172da1ac0936acc6d36&chksm=ce93b38df9e43a9b4a9ff2207d1cfb2c760e922db152e1cc4722d7933ea96ece2b9ea57e462b&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [542041](https://www.ncbi.nlm.nih.gov/gene/?term=542041)
 - **UniProt accessions:** [Q84V71](https://www.uniprot.org/uniprotkb/Q84V71/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

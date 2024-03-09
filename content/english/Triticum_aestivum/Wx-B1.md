@@ -3,27 +3,30 @@ description: TraesCS4A02G418200 ; Triticum aestivum
 meta_title:
 title: Wx-B1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS4A02G418200](https://www.maizegdb.org/gene_center/gene/TraesCS4A02G418200)
 - **Gene Symbol:** Wx-B1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - Relationship between a deficiency of Wx proteins and amylose content 
    - amylose synthesis
    - 
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/BF00225138)
-   - **DOI:** [10.1007/BF00225138](https://link.springer.com/article/10.1007/BF00225138)
-   - **PubMed ID:** [24177825](https://pubmed.ncbi.nlm.nih.gov/24177825/)
+## Literature:
+   - [Waxy protein deficiency and chromosomal location of coding genes in common wheat.]( https://link.springer.com/article/10.1007/BF00225138)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/BF00225138](https://link.springer.com/article/10.1007/BF00225138)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24177825](https://pubmed.ncbi.nlm.nih.gov/24177825/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

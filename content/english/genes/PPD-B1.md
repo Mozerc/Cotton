@@ -3,19 +3,17 @@ description: TraesCSU02G196100 ; Triticum aestivum
 meta_title:
 title: PPD-B1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCSU02G196100](https://www.maizegdb.org/gene_center/gene/TraesCSU02G196100)
 - **Gene Symbol:** PPD-B1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - No candidate mutation was found in the 2B PRR gene but polymorphism within the 2B PRR gene cosegregated with the Ppd-B1 locus in a doubled haploid population, suggesting that insensitivity on 2B is due to a mutation outside the sequenced region or to a closely linked gene.
    - Photoperiod insensitivity can also be conferred by mutation at a homoeologous locus on chromosome 2B (Ppd-B1). 
    - photoperiod
@@ -23,14 +21,16 @@ tags: []
    - Photoperiod insensitivity can also be conferred by mutation at a homoeologous locus on chromosome 2B (Ppd-B1). 
    - photoperiod
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s00122-007-0603-4)
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s00122-007-0603-4)
-   - **DOI:** [10.1007/s00122-007-0603-4](https://link.springer.com/article/10.1007/s00122-007-0603-4)
-   - **DOI:** [10.1007/s00122-007-0603-4](https://link.springer.com/article/10.1007/s00122-007-0603-4)
-   - **PubMed ID:** [17634915](https://pubmed.ncbi.nlm.nih.gov/17634915/)
-   - **PubMed ID:** [17634915](https://pubmed.ncbi.nlm.nih.gov/17634915/)
+## Literature:
+   - [A pseudo-response regulator is misexpressed in the photoperiod insensitive Ppd-D1a mutant of wheat (Triticum aestivum L.).]( https://link.springer.com/article/10.1007/s00122-007-0603-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-007-0603-4](https://link.springer.com/article/10.1007/s00122-007-0603-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17634915](https://pubmed.ncbi.nlm.nih.gov/17634915/)
+   - [A pseudo-response regulator is misexpressed in the photoperiod insensitive Ppd-D1a mutant of wheat (Triticum aestivum L.).]( https://link.springer.com/article/10.1007/s00122-007-0603-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-007-0603-4](https://link.springer.com/article/10.1007/s00122-007-0603-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17634915](https://pubmed.ncbi.nlm.nih.gov/17634915/)
 
-3. **Related News:**
-   - [新闻标题]()
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

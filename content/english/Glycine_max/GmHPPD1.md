@@ -3,25 +3,31 @@ description: Glyma.14g030400 ; Glycine max
 meta_title:
 title: GmHPPD1
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Glyma.14g030400](https://www.maizegdb.org/gene_center/gene/Glyma.14g030400)
 - **Gene Symbol:** GmHPPD1
 - **Gene Name:** 
-- **Species:** Glycine max
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Williams 82 genome]()
+- **Species:** *Glycine max*
 
-## Functions:
-   - GmHPPD1 is a candidate gene for population variation controlling total tocopherol.
+## Functional Description:
+   - **GmHPPD1** is a candidate gene for population variation controlling total tocopherol.
    - 
    - 
 
-## Publications:
-   - [Genome-wide scan for oil quality reveals a coregulation mechanism of tocopherols and fatty acids in soybean seeds.]( https://www.sciencedirect.com/science/article/pii/S2590346223001098?via%3Dihub ) - [10.1016/j.xplc.2023.100598]( https://www.sciencedirect.com/science/article/pii/S2590346223001098?via%3Dihub ) - [37029487](https://pubmed.ncbi.nlm.nih.gov/37029487/)
+## Literature:
+   - [Genome-wide scan for oil quality reveals a coregulation mechanism of tocopherols and fatty acids in soybean seeds.]( https://www.sciencedirect.com/science/article/pii/S2590346223001098?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100598](https://www.sciencedirect.com/science/article/pii/S2590346223001098?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37029487](https://pubmed.ncbi.nlm.nih.gov/37029487/)
 
 ## Related News:
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247570241&idx=5&sn=ed550ac9984b0be99e9023f4d19a96c7&chksm=507dea5d02e8efa594bd0d975a0a3e5b7876d7f6b06bcafc1c152dc06f13d21ef4b93558f4ad&scene=27#wechat_redirect)
+   - [中科院遗传发育所王国栋/田志喜研究组合作发现大豆油脂和维生素E合成共调控机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247570241&idx=5&sn=ed550ac9984b0be99e9023f4d19a96c7&chksm=507dea5d02e8efa594bd0d975a0a3e5b7876d7f6b06bcafc1c152dc06f13d21ef4b93558f4ad&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

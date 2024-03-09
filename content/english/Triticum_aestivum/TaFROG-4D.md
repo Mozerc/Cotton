@@ -3,28 +3,31 @@ description: TraesCS4D02G102800 ; Triticum aestivum
 meta_title:
 title: TaFROG-4D
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS4D02G102800](https://www.maizegdb.org/gene_center/gene/TraesCS4D02G102800)
 - **Gene Symbol:** TaFROG-4D
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - We conclude that TaFROG encodes a new Sucrose Non-Fermenting1-Related Kinase1-interacting protein and enhances biotic stress resistance.
    - TaFROG Is a Mycotoxin-Responsive Orphan Gene
    - TaFROG Enhances Wheat Leaf Resistance to F. graminearum
    - Overexpression of TaFROG Retards the Spread of FHB Disease Symptoms
 
-## Publications:
-   - **Publication** [文章名](https://academic.oup.com/plphys/article/169/4/2895/6114242?login=true)
-   - **DOI:** [10.1104/pp.15.01056](https://academic.oup.com/plphys/article/169/4/2895/6114242?login=true)
-   - **PubMed ID:** [26508775](https://pubmed.ncbi.nlm.nih.gov/26508775/)
+## Literature:
+   - [TaFROG Encodes a Pooideae Orphan Protein That Interacts with SnRK1 and Enhances Resistance to the Mycotoxigenic Fungus Fusarium graminearum.]( https://academic.oup.com/plphys/article/169/4/2895/6114242?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.15.01056](https://academic.oup.com/plphys/article/169/4/2895/6114242?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26508775](https://pubmed.ncbi.nlm.nih.gov/26508775/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

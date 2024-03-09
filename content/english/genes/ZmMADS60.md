@@ -3,27 +3,30 @@ description: GRMZM2G152415 ; Zea mays
 meta_title:
 title: ZmMADS60
 category: genes
-tags: []
+tags: [ root,seedling,root elongation,lateral root,primary root,root length,lateral root length ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[GRMZM2G152415](https://www.maizegdb.org/gene_center/gene/GRMZM2G152415)
 - **Gene Symbol:** ZmMADS60
 - **Gene Name:** 
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73 RefGen_v3)
+- **Species:** *Zea mays*
 
-## Functions:
-   - ZmMADS60 be involved in the elongation of primary and lateral roots in the seedling stage and that significant variants can be used to develop functional markers to improve root length in maize.
-   - ZmMADS60 may be involved in the elongation of primary and lateral roots in the seedling stage and that significant variants can be used to develop functional markers to improve root length in maize.
+## Functional Description:
+   - **ZmMADS60** be involved in the elongation of primary and lateral roots in the seedling stage and that significant variants can be used to develop functional markers to improve root length in maize.
+   - **ZmMADS60** may be involved in the elongation of primary and lateral roots in the seedling stage and that significant variants can be used to develop functional markers to improve root length in maize.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://www.mdpi.com/2073-4395/10/3/342)
-   - **DOI:** [10.3390/agronomy10030342](https://www.mdpi.com/2073-4395/10/3/342)
-   - **PubMed ID:** [](https://pubmed.ncbi.nlm.nih.gov//)
+## Literature:
+   - [NA]( https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy10030342](https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

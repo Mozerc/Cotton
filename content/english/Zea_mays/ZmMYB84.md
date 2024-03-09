@@ -3,7 +3,7 @@ description: MYB-transcription factor 84 ; Zm00001eb424660 ; Zea mays
 meta_title:
 title: ZmMYB84
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [PBJ | 北京科技大学万向元团队发现 ZmMYB84-ZmPKSB调控模块控制玉米花药和花粉脂类物质分配平衡及雄配子育性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247536343&idx=1&sn=aa01773ae09ce47d1d6fe65da18c2adc&chksm=ce90e382f9e76a9487e62203f5cd5bd94dc39b0c4c0eff17a3ef5f646df31def3a196c18168e&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100279834](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279834)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

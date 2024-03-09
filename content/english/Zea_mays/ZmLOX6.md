@@ -3,7 +3,7 @@ description: lipoxygenase6 ; Zm00001eb067710 ; Zea mays
 meta_title:
 title: ZmLOX6
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -30,10 +30,10 @@ tags: []
 ## Related News:
    - [PBJ | 一种营养贮藏蛋白ZmLOX6提高玉米干旱耐受性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247518604&idx=1&sn=e31092474265b7e212485669152292e8&chksm=ce9024d9f9e7adcf346e64a6ce8598d2339e845e0eac729767d8afed0696eeb0c11e004d22f4&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [100037805](https://www.ncbi.nlm.nih.gov/gene/?term=100037805)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

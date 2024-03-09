@@ -3,27 +3,31 @@ description: TraesCS4D02G301100 ; Triticum aestivum
 meta_title:
 title: SVP3-4D
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS4D02G301100](https://www.maizegdb.org/gene_center/gene/TraesCS4D02G301100)
 - **Gene Symbol:** SVP3-4D
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - SVP3-4D wheat spike and spikelet development
-   - SVP3-4D flowering
-   - SVP3-4D plant height
+## Functional Description:
+   - **SVP3-4D** wheat spike and spikelet development
+   - **SVP3-4D** flowering
+   - **SVP3-4D** plant height
 
-## Publications:
-   - **Publication** [文章名](https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true	https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full)
-   - **DOI:** [10.1093/plcell/koab243	10.1101/2020.12.01.405779](https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true	https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full)
-   - **PubMed ID:** [34726755	](https://pubmed.ncbi.nlm.nih.gov/34726755	/)
+## Literature:
+   - [Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regulate meristem transitions during wheat spike development.]( https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab243](https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34726755](https://pubmed.ncbi.nlm.nih.gov/34726755/)
+   - [NA]( https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1101/2020.12.01.405779](https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

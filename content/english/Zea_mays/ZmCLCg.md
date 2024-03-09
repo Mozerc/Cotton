@@ -3,7 +3,7 @@ description: Zm00001eb068640 ; Zea mays
 meta_title:
 title: ZmCLCg
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -27,10 +27,10 @@ tags: []
 ## Related News:
    - [PBJ | 北京市农林科学院赵久然团队在玉米耐盐基因挖掘及分子机理研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247509894&idx=1&sn=a5dcf882cb6b6b43ddca9bf585888de6&chksm=ce900ad3f9e783c524bf0979cf760fd9da8af59dc580d06e60caa997c2ca6d517144f36bbeab&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100191503](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191503)
 - **UniProt accessions:** [A0A1D6DWJ0](https://www.uniprot.org/uniprotkb/A0A1D6DWJ0/entry)&nbsp;,&nbsp;[A0A1D6DWJ1](https://www.uniprot.org/uniprotkb/A0A1D6DWJ1/entry)&nbsp;,&nbsp;[A0A1D6DWJ2](https://www.uniprot.org/uniprotkb/A0A1D6DWJ2/entry)&nbsp;,&nbsp;[A0A3L6FZM6](https://www.uniprot.org/uniprotkb/A0A3L6FZM6/entry)&nbsp;,&nbsp;[B4F913](https://www.uniprot.org/uniprotkb/B4F913/entry)&nbsp;,&nbsp;[D5LGX3](https://www.uniprot.org/uniprotkb/D5LGX3/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

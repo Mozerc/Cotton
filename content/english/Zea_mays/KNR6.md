@@ -3,7 +3,7 @@ description: KERNEL NUMBER PER ROW6 ; Zm00001eb273900 ; Zea mays
 meta_title:
 title: KNR6
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -26,10 +26,10 @@ tags: []
 ## Related News:
    - [NC|华中农大张祖新教授课题组鉴定到控制玉米穗粒数重要基因-KNR6, 为提高玉米杂交种产量提供了理论依据和基因资源](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487446&idx=1&sn=6953250c86f15de3b9438224e875e677&chksm=ce93a283f9e42b9566962940a337f303d035c7b3112f88085c2544d9bfa7c8f902e932e404f2&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC100281753](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281753)
 - **UniProt accessions:** [C0PKQ4](https://www.uniprot.org/uniprotkb/C0PKQ4/entry)&nbsp;,&nbsp;[A0A1D6LPP9](https://www.uniprot.org/uniprotkb/A0A1D6LPP9/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

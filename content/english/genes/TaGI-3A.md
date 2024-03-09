@@ -3,27 +3,30 @@ description: TraesCS3A02G116300 ; Triticum aestivum
 meta_title:
 title: TaGI-3A
 category: genes
-tags: []
+tags: [ flowering time,flowering ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS3A02G116300](https://www.maizegdb.org/gene_center/gene/TraesCS3A02G116300)
 - **Gene Symbol:** TaGI-3A
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - The wheat TaGI1, involved in photoperiodic flowering, encodesan Arabidopsis GI ortholog
    - Since overexpression of TaGI1 altered flowering time in wild type and complemented the gi mutant in Arabidopsis, it confirmed that TaGI1 is an ortholog of GI in Arabidopsis.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://link.springer.com/article/10.1007/s11103-005-4162-2)
-   - **DOI:** [10.1007/s11103-005-4162-2](https://link.springer.com/article/10.1007/s11103-005-4162-2)
-   - **PubMed ID:** [16028116](https://pubmed.ncbi.nlm.nih.gov/16028116/)
+## Literature:
+   - [The wheat TaGI1, involved in photoperiodic flowering, encodes an Arabidopsis GI ortholog.]( https://link.springer.com/article/10.1007/s11103-005-4162-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-005-4162-2](https://link.springer.com/article/10.1007/s11103-005-4162-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16028116](https://pubmed.ncbi.nlm.nih.gov/16028116/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -3,23 +3,29 @@ description: glyma.08g083300 ; Glycine max
 meta_title:
 title: GmFLS2a
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[glyma.08g083300](https://www.maizegdb.org/gene_center/gene/glyma.08g083300)
 - **Gene Symbol:** GmFLS2a
 - **Gene Name:** 
-- **Species:** Glycine max
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Species:** *Glycine max*
 
-## Functions:
-   - GmFLS2a and GmFLS2b are likely redundant. They are not distinguishable by the VIGS knockout approach. When both of these genes are silenced, soy plants became much more suceptible to bacterial pathogens (Pseudomonas syringae pv. glycinea), but resistance to viral pathogens (Soybean mosaic virus) is not affected.
+## Functional Description:
+   - **GmFLS2a** and GmFLS2b are likely redundant. They are not distinguishable by the VIGS knockout approach. When both of these genes are silenced, soy plants became much more suceptible to bacterial pathogens (Pseudomonas syringae pv. glycinea), but resistance to viral pathogens (Soybean mosaic virus) is not affected.
    - Silencing GmFLS2 in soybean does not result in visible morphological changes
    - 
 
-## Publications:
+## Literature:
 
 ## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

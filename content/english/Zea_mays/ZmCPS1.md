@@ -3,7 +3,7 @@ description: chloroplast protein synthesis1 ; Zm00001eb063470 ; Zea mays
 meta_title:
 title: ZmCPS1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [Nature Plants | 中国农业大学作物化控中心揭示作物株型塑造的新途径](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487225&idx=1&sn=ec5960e4497eb9cfbb99b18985ed3391&chksm=ce93a3acf9e42abafe431cdc482915ff04fb94c473b2e98b96af5105a8d7a3f8e3dab1591611&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103644288](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103644288)
 - **UniProt accessions:** [A0A1D6LAG9](https://www.uniprot.org/uniprotkb/A0A1D6LAG9/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

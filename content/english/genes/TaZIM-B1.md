@@ -3,27 +3,30 @@ description: TraesCS7B02G323600 ; Triticum aestivum
 meta_title:
 title: TaZIM-B1
 category: genes
-tags: []
+tags: [ heading date ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS7B02G323600](https://www.maizegdb.org/gene_center/gene/TraesCS7B02G323600)
 - **Gene Symbol:** TaZIM-B1
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
-   - TaZIM-A1 and TaZIM-B1 haplotypes as associated with heading date and thousand-kernel weight (TKW). Together, our findings provide new insights into the regulatory roles of the circadian clock and photoperiod pathways in determining wheat heading date.
+## Functional Description:
+   - TaZIM-A1 and **TaZIM-B1** haplotypes as associated with heading date and thousand-kernel weight (TKW). Together, our findings provide new insights into the regulatory roles of the circadian clock and photoperiod pathways in determining wheat heading date.
    - Association of TaZIM-1 haplotypes with heading date and TKW in common wheat
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)
-   - **DOI:** [10.1111/jipb.12720 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)
-   - **PubMed ID:** [30226297](https://pubmed.ncbi.nlm.nih.gov/30226297/)
+## Literature:
+   - [TaZIM-A1 negatively regulates flowering time in common wheat (Triticum aestivum L.).]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12720 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30226297](https://pubmed.ncbi.nlm.nih.gov/30226297/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

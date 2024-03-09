@@ -3,27 +3,31 @@ description: TraesCS7D02G353800 ; Triticum aestivum
 meta_title:
 title: TaMBF1c-7D
 category: genes
-tags: []
+tags: [ stress,tolerance,stress tolerance,stress response,heat tolerance,heat stress,heat stress response ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[TraesCS7D02G353800](https://www.maizegdb.org/gene_center/gene/TraesCS7D02G353800)
 - **Gene Symbol:** TaMBF1c-7D
 - **Gene Name:** 
-- **Species:** Triticum aestivum
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
-- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Genome Version:** [Chinese_Spring1.0](https://www.maizegdb.org/genome/assembly/Chinese_Spring1.0)
+- **Species:** *Triticum aestivum*
 
-## Functions:
+## Functional Description:
    - TaMBF1c in regulating the heat stress response via the translation process
    - TaMBF1c contributes to heat tolerance in wheat
    - TaMBF1c is a component of stress granule under heat stress conditions
 
-## Publications:
-   - **Publication** [文章名](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17865)
-   - **DOI:** [10.1111/nph.17865](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17865)
-   - **PubMed ID:** [34787921](https://pubmed.ncbi.nlm.nih.gov/34787921/)
+## Literature:
+   - [Stress granule-associated TaMBF1c confers thermotolerance through regulating specific mRNA translation in wheat (Triticum aestivum).]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17865)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17865](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17865)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34787921](https://pubmed.ncbi.nlm.nih.gov/34787921/)
 
-3. **Related News:**
-   - [新闻标题](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247521234&idx=4&sn=f29ad9514eac66c3093745a0cde65b6e&chksm=ce903e87f9e7b791f1f55bef03a8eeaba9414a0a833eee893bdd85bcf200ba0cfa59baf22fc0&scene=27#wechat_redirect)
+## Related News:
+   - [New Phytologist | 中国农业大学小麦研究团队揭示小麦应激颗粒相关蛋白TaMBF1c参与耐热响应新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247521234&idx=4&sn=f29ad9514eac66c3093745a0cde65b6e&chksm=ce903e87f9e7b791f1f55bef03a8eeaba9414a0a833eee893bdd85bcf200ba0cfa59baf22fc0&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

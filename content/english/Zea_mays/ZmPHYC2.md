@@ -3,7 +3,7 @@ description: phytochromeC2 ; Zm00001eb214800 ; Zea mays
 meta_title:
 title: ZmPHYC2
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -28,10 +28,10 @@ tags: []
 ## Related News:
    - [PBJ | 华南农业大学和山东农业大学合作揭示光敏色素C在玉米开花时间和株高中的调控作用](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247490462&idx=1&sn=98c399cf77f07ef2f4cca8fd133f2819&chksm=ce93b6cbf9e43fdd7696ebf392fc8f5ae435406a6014422e3fefac060a1c0ca6808d669a769f&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [100192976](https://www.ncbi.nlm.nih.gov/gene/?term=100192976)
 - **UniProt accessions:** [A0A1D6GGX9](https://www.uniprot.org/uniprotkb/A0A1D6GGX9/entry)&nbsp;,&nbsp;[A0A1D6GGY0](https://www.uniprot.org/uniprotkb/A0A1D6GGY0/entry)&nbsp;,&nbsp;[A0A1D6GGY1](https://www.uniprot.org/uniprotkb/A0A1D6GGY1/entry)&nbsp;,&nbsp;[A0A1D6GGY4](https://www.uniprot.org/uniprotkb/A0A1D6GGY4/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

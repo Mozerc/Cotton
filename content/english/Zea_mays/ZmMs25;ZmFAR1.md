@@ -3,7 +3,7 @@ description: male sterile25 ; Zm00001d048337 ; Zea mays
 meta_title:
 title: ZmMs25;ZmFAR1
 category: genes
-tags: []
+tags: [  ]
 ---
 
 ## Gene Details:
@@ -24,10 +24,10 @@ tags: []
 ## Related News:
    - [JXB｜北京科技大学万向元团队揭示玉米不育基因ZmMs25功能机理](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247507740&idx=3&sn=09041ce0f23b65f0f6a7115c7b8e3198&chksm=ce907249f9e7fb5f18b27c02fa3274666cf0334e8a32b5165cde4d66e3e7cacd7367cc96f45e&scene=27#wechat_redirect)
 
-## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
-
 ## Gene Resources:
 - **NCBI ID:** [LOC103639542](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103639542)
 - **UniProt accessions:** [A0A1D6PJD1](https://www.uniprot.org/uniprotkb/A0A1D6PJD1/entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

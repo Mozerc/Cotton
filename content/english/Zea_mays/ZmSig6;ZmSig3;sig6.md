@@ -1,0 +1,32 @@
+---
+description: sigma-like factor6 ; Zm00001eb210370 ; Zea mays
+meta_title:
+title: ZmSig6;ZmSig3
+category: genes
+tags: [  ]
+---
+
+## Gene Details:
+- **Gene ID:**	[Zm00001eb210370](https://www.maizegdb.org/gene_center/gene/Zm00001eb210370)
+- **Gene Symbol:** ZmSig6;ZmSig3;sig6
+- **Gene Name:** sigma-like factor6
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
+
+## Functional Description:
+   - We have raised antibodies against the unique amino-terminal domains of two maize SLFs, ZmSig1 and **ZmSig3**, and have used these specific probes to examine the accumulation of each protein in different maize tissues and during chloroplast development.
+   - both ZmSig1 and **ZmSig3** are plastid-localized SLFs and exhibit distinct patterns of expression within maize tissue.
+   - The immunoblot shows that **ZmSig3** protein accumulates in etioplasts (asterisk) rather than chloroplasts. The positions of molecular mass standards are indicated to the left.
+
+## Literature:
+   - [Complementary expression of two plastid-localized sigma-like factors in maize.]( https://academic.oup.com/plphys/article/123/3/883/6087632?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.123.3.883](https://academic.oup.com/plphys/article/123/3/883/6087632?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10889237](https://pubmed.ncbi.nlm.nih.gov/10889237/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

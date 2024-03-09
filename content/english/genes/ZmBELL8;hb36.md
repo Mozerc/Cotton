@@ -3,27 +3,30 @@ description: Homeobox-transcription factor 36 ; Zm00001eb056260 ; Zea mays
 meta_title:
 title: ZmBELL8;hb36
 category: genes
-tags: []
+tags: [  ]
 ---
 
-## Gene Details
+## Gene Details:
 - **Gene ID:**	[Zm00001eb056260](https://www.maizegdb.org/gene_center/gene/Zm00001eb056260)
 - **Gene Symbol:** ZmBELL8;hb36
 - **Gene Name:** Homeobox-transcription factor 36
-- **Species:** Zea mays
-- **NCBI ID:** [  ]()
-- **Protein Sequence:** *Not Available*
 - **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
+- **Species:** *Zea mays*
 
-## Functions:
+## Functional Description:
    - We demonstrated that ZmBELL10 and six other ZmBELLs interacted to form protein complexes through their α-helical structure mediated by two key Phe residues in the conserved POX domain, and these BELL proteins directly recognized the same motifs to enhance the expression of their downstream genes.
    - ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.
    - 
 
-## Publications:
-   - **Publication** [文章名](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)
-   - **DOI:** [10.1111/pbi.13255](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)
-   - **PubMed ID:** [31529573](https://pubmed.ncbi.nlm.nih.gov/31529573/)
+## Literature:
+   - [ZmILI1 regulates leaf angle by directly affecting liguleless1 expression in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13255](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31529573](https://pubmed.ncbi.nlm.nih.gov/31529573/)
 
-3. **Related News:**
-   - [新闻标题]()
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**
