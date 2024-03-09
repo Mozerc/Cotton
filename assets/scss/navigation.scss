@@ -12,12 +12,11 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .header {
-  @apply bg-body dark:bg-darkmode-body py-6;
+  @apply bg-body dark:bg-darkmode-body py-4;
 }
 
 // navbar items
 .navbar {
-  max-height:75px;
   @apply relative flex flex-wrap items-center justify-between;
 }
 
