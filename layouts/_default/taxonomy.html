@@ -1,13 +1,13 @@
 {{ define "main" }}
- <section class="section" >
-    <div class="container">
-      <div class="row gx-5">
-        <!-- blog posts -->
-        <div class="lg:col-8">
+ <section class="section" style="padding-bottom: 0px; padding-top: 10px;">
+    <div class="container" >
+      <div class="row gx-1">
+        <!-- tags posts -->
+        <div class="lg:col-16">
           <div class="row">
             {{ range .Data.Pages }}
-              <div class="md:col-6 mb-14">
-                {{ partial "components/blog-card" . }}
+              <div class="md:col-3 mb-5" >
+                {{ partial "components/tags-list" . }}
               </div>
             {{ end }}
           </div>
