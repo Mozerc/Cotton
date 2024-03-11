@@ -1,0 +1,34 @@
+---
+description: phenylalanine ammonia lyase homolog1 ; Zm00001eb247620 ; Zea mays
+meta_title:
+title: ZmPAL;ZmPAL3a
+categories: [Zea mays]
+tags: [ leaf ]
+---
+
+## Gene Details:
+- **Gene ID:**	[Zm00001eb247620]()
+- **Gene Symbol:** ZmPAL;ZmPAL3a;pal1
+- **Gene Name:** phenylalanine ammonia lyase homolog1
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Species:** *Zea mays*
+
+## Functional Description:
+   - SCMV symptoms were exacerbated when the maize phenylalanine ammonia lyase (**ZmPAL**) genes were knocked down.
+   - **ZmPAL** ,leaf cDNA csu156 similar to rice phenylalanine ammonia lyase.
+
+## Literature:
+   - [Fighting Death for Living: Recent Advances in Molecular and Genetic Mechanisms Underlying Maize Lethal Necrosis Disease Resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9784999/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/v14122765](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9784999/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36560769](https://pubmed.ncbi.nlm.nih.gov/36560769/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Related Phenotypes:
+leaf
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

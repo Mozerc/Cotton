@@ -1,0 +1,35 @@
+---
+description: TraesCS2A02G174300 ; Triticum aestivum
+meta_title:
+title: FUL3-2A
+categories: [Triticum aestivum]
+tags: [ development,spikelet,plant development,height,plant height,spikelet development,flowering ]
+---
+
+## Gene Details:
+- **Gene ID:**	[TraesCS2A02G174300]()
+- **Gene Symbol:** FUL3-2A
+- **Gene Name:** 
+- **Genome Version:** [Chinese_Spring1.0]()
+- **Species:** *Triticum aestivum*
+
+## Functional Description:
+   - **FUL3-2A** wheat spike and spikelet development
+   - **FUL3-2A** flowering
+   - **FUL3-2A** plant height
+
+## Literature:
+   - [Wheat VRN1, FUL2 and FUL3 play critical and redundant roles in spikelet development and spike determinacy.]( https://journals.biologists.com/dev/article/146/14/dev175398/48949/Wheat-VRN1-FUL2-and-FUL3-play-critical-and)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.175398](https://journals.biologists.com/dev/article/146/14/dev175398/48949/Wheat-VRN1-FUL2-and-FUL3-play-critical-and)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31337701](https://pubmed.ncbi.nlm.nih.gov/31337701/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Related Phenotypes:
+development,spikelet,plant development,height,plant height,spikelet development,flowering
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

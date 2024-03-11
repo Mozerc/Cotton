@@ -1,0 +1,35 @@
+---
+description: cinnamoyl CoA reductase2 ; Zm00001eb307060 ; Zea mays
+meta_title:
+title: ZmCCR2;CCR4
+categories: [Zea mays]
+tags: [ lignin ]
+---
+
+## Gene Details:
+- **Gene ID:**	[Zm00001eb307060]()
+- **Gene Symbol:** ZmCCR2;CCR4;cncr2
+- **Gene Name:** cinnamoyl CoA reductase2
+- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Species:** *Zea mays*
+
+## Functional Description:
+   - **ZmCCR2**,cinnamoyl-coA reductase (CCR, EC 1.2.1.44) catalyses the first step of the lignin pathway.
+   - Northern blot analysis indicated that **ZmCCR2** was expressed at very low levels in roots whereas ZmCCR1 was widely expressed in different organs.
+   - ZmCCR1 and **ZmCCR2** both contain a common signature which is thought to be involved in the catalytic site of CCR.
+
+## Literature:
+   - [Cloning and characterization of two maize cDNAs encoding cinnamoyl-CoA reductase (CCR) and differential expression of the corresponding genes.]( https://link.springer.com/article/10.1023/A:1006060101866)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1023/a:1006060101866](https://link.springer.com/article/10.1023/A:1006060101866)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9747812](https://pubmed.ncbi.nlm.nih.gov/9747812/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Related Phenotypes:
+lignin
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

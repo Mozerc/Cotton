@@ -1,0 +1,36 @@
+---
+description: Brassica napus
+meta_title:
+title: BnLEA3.1
+categories: [Brassica napus]
+tags: [ drought,stress,drought stress,drought stress ,seed,tolerance,drought tolerance,stress tolerance,seed size ]
+---
+
+## Gene Details:
+- **Gene ID:**	[]()
+- **Gene Symbol:** BnLEA3.1
+- **Gene Name:** 
+- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Species:** *Brassica napus*
+
+## Functional Description:
+   - BnLEA and BnVOC genes had higher expression levels under drought stress in B. napus with high oil content.
+   - Overexpression of the BnLEA3, BnVOC, AtLEA3 and AtVOC genes could increase oil content and seed size in transgenic Arabidopsis under normal conditions.
+   - Overexpression and RNA interference of the BnLEA3 and BnVOC genes affect oil content, seed size and drought tolerance in B. napus.
+
+## Literature:
+   - [Drought-responsive genes, late embryogenesis abundant group3 (LEA3) and vicinal oxygen chelate, function in lipid accumulation in Brassica napus and Arabidopsis mainly via enhancing photosynthetic efficiency and reducing ROS.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13127)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13127](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13127)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30972883](https://pubmed.ncbi.nlm.nih.gov/30972883/)
+
+## Related News:
+   - [华中科大揭示干旱胁迫基因参与甘蓝型油菜油脂积累的机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247491537&idx=3&sn=875ce17f4ae14be490a7f01b24979010&chksm=e8be6dcfdfc9e4d9da5c7a14fa767a11a5caddeefa732630a462ccc22ca892d0698ca750a098&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [KP315905](https://www.ncbi.nlm.nih.gov/gene/?term=KP315905)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Related Phenotypes:
+drought,stress,drought stress,drought stress ,seed,tolerance,drought tolerance,stress tolerance,seed size
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**

@@ -46,8 +46,8 @@ link = "submit"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["genes"]
-include_all_sections = false
+include_sections = [""]
+include_all_sections = true
 show_description = true
 show_tags = true
 

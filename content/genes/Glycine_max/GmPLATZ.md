@@ -1,0 +1,34 @@
+---
+description: Glyma.13G147800 ; Glycine max
+meta_title:
+title: GmPLATZ
+categories: [Glycine max]
+tags: [ seed,breeding,seed weight,seed size ]
+---
+
+## Gene Details:
+- **Gene ID:**	[Glyma.13G147800]()
+- **Gene Symbol:** GmPLATZ
+- **Gene Name:** 
+- **Genome Version:** [G. max reference genome (Williams 82.a2 v1)]()
+- **Species:** *Glycine max*
+
+## Functional Description:
+   - Our study reveals a novel module of **GmPLATZ**-GmGA20OX/cyclins in regulating seed size and weight and provides valuable targets for breeding of crops with desirable agronomic traits.
+
+## Literature:
+   - [Global analysis of seed transcriptomes reveals a novel PLATZ regulator for seed size and weight control in soybean.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19316)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19316](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19316)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37840365](https://pubmed.ncbi.nlm.nih.gov/37840365/)
+
+## Related News:
+   - [New Phytologist | 中科院遗传发育所揭示大豆籽粒大小和粒重调控的新通路](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247558159&idx=4&sn=3fc0381b260acab3fbf2dddf27c7cbfd&chksm=ce91495af9e6c04ca2f4f1541fde24035e876edd4e10395904ce166c0a904ea9bc420aa76dd9&scene=27#wechat_redirect)
+
+## Gene Resources:
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+
+## Related Phenotypes:
+seed,breeding,seed weight,seed size
+
+## Sequences:
+- **CDS Sequence:**
+- **Protein Sequence:**
