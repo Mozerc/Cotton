@@ -1,8 +1,8 @@
 ---
-description: Acc18653.1 ; A. eriantha/A. chinensis
+description: Acc18653.1 ; Actinidia chinensis
 meta_title:
 title: AceGGP3
-categories: [A. eriantha/A. chinensis]
+categories: [Actinidia chinensis]
 tags: [  ]
 ---
 
@@ -11,7 +11,7 @@ tags: [  ]
 - **Gene Symbol:** AceGGP3
 - **Gene Name:** 
 - **Genome Version:** [Actinidia chinensis (Red5)]()
-- **Species:** *A. eriantha/A. chinensis*
+- **Species:** *Actinidia chinensis*
 
 ## Functional Description:
    - **AceGGP3** overexpression leads to a sharp accumulation of AsA in kiwifruit.

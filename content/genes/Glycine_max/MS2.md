@@ -3,7 +3,7 @@ description: Glyma.10G281800 ; Glycine max
 meta_title:
 title: MS2
 categories: [Glycine max]
-tags: [  ]
+tags: [ outcrossing rate ]
 ---
 
 ## Gene Details:
@@ -14,7 +14,7 @@ tags: [  ]
 - **Species:** *Glycine max*
 
 ## Functional Description:
-   - we demonstrated that the ms2 mutant conducts the best in outcrossing rate and makes it an ideal tool in building a cost-effective hybrid system for soybean.
+   - We demonstrated that the ms2 mutant conducts the best in outcrossing rate and makes it an ideal tool in building a cost-effective hybrid system for soybean.
 
 ## Literature:
    - [Natural variation of MS2 confers male fertility and drives hybrid breeding in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14133)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14133](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14133)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37475199](https://pubmed.ncbi.nlm.nih.gov/37475199/)
