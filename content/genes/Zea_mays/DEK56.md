@@ -14,9 +14,9 @@ tags: [ development,seed,mitochondria,seed development ]
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - DEFECTIVE KERNEL 56 functions in mitochondrial RNA editing and maize seed development.
+   - **DEFECTIVE KERNEL 56** functions in mitochondrial RNA editing and maize seed development.
    - **DEK56** encodes a mitochondria-targeted E subgroup PPR protein.
-   - DEk56 exhibited an irregular mitochondrion with a collapsed inner structure.
+   - **DEk56** exhibited an irregular mitochondrion with a collapsed inner structure.
 
 ## Literature:
    - [DEK48 Is Required for RNA Editing at Multiple Mitochondrial Sites and Seed Development in Maize.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad598/7416742?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23063064](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad598/7416742?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35328485](https://pubmed.ncbi.nlm.nih.gov/35328485/)

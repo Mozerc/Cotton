@@ -14,7 +14,7 @@ tags: [ root,anther,gibberellin,ga, ga ,ga biosynthetic,root number ]
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The Anther ear1 (An1) gene product is involved in the synthesis of ent-kaurene, the first tetracyclic intermediate in the gibberellin (GA) biosynthetic pathway.
+   - The Anther ear1 (**An1**) gene product is involved in the synthesis of ent-kaurene, the first tetracyclic intermediate in the gibberellin (GA) biosynthetic pathway.
    - **AN1** increase in number of brace root whorls
 
 ## Literature:

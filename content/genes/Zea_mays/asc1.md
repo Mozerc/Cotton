@@ -14,7 +14,7 @@ tags: [ stomatal,height ]
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Asc1 affects the height and size of maize plants.
+   - **Asc1** affects the height and size of maize plants.
    - Especially striking are the effects of **asc1** mutations on stomatal patterning and anatomy.
 
 ## Literature:
