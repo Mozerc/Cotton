@@ -10,7 +10,7 @@ tags: [ sugar,mycorrhizal symbiosis,sucrose,am symbiosis,symbiosis ]
 - **Gene ID:**	[Glyma.04G198600]()
 - **Gene Symbol:** GmSWEET6
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ sugar,mycorrhizal symbiosis,sucrose,am symbiosis,symbiosis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 sugar,mycorrhizal symbiosis,sucrose,am symbiosis,symbiosis
 
 ## Sequences:

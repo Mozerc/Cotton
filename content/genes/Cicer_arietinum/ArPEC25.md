@@ -10,7 +10,7 @@ tags: [ lignin,lignin biosynthesis ]
 - **Gene ID:**	[ST47_g1734]()
 - **Gene Symbol:** ArPEC25
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cicer arietinum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ lignin,lignin biosynthesis ]
 - **NCBI ID:** [KZM27126](https://www.ncbi.nlm.nih.gov/gene/?term=KZM27126)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 lignin,lignin biosynthesis
 
 ## Sequences:

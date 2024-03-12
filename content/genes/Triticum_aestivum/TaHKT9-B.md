@@ -10,7 +10,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,homeostasis ]
 - **Gene ID:**	[TraesCS7B02G318700]()
 - **Gene Symbol:** TaHKT9-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ shoot,salt,tolerance,salt tolerance,homeostasis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 shoot,salt,tolerance,salt tolerance,homeostasis
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ shoot,cytokinin,floral,cell cycle,cellular activities ]
 - **Gene ID:**	[HORVU2Hr1G072750]()
 - **Gene Symbol:** HvCEN
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ shoot,cytokinin,floral,cell cycle,cellular activities ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 shoot,cytokinin,floral,cell cycle,cellular activities
 
 ## Sequences:

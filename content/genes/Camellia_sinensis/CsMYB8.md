@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[TEA000976]()
 - **Gene Symbol:** CsMYB8
 - **Gene Name:** 
-- **Genome Version:** [TeaPGDB V1.0 since 2020]()
+- **Genome:** [TeaPGDB V1.0 since 2020]()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

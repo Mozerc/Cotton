@@ -10,7 +10,7 @@ tags: [ fertility,sterile,heterosis,male fertility ]
 - **Gene ID:**	[Ghir D12G012350.1]()
 - **Gene Symbol:** GhCYP703A2
 - **Gene Name:** 
-- **Genome Version:** [Gossypium hirsutum (TM-1) reference genome]()
+- **Genome:** [Gossypium hirsutum (TM-1) reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ fertility,sterile,heterosis,male fertility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 fertility,sterile,heterosis,male fertility
 
 ## Sequences:

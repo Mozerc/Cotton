@@ -10,7 +10,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress
 - **Gene ID:**	[Csa_2G238250.1]()
 - **Gene Symbol:** CsCOR413PM2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress response
 
 ## Sequences:

@@ -10,13 +10,13 @@ tags: [ development,flower,inflorescence,flower development,inflorescence develo
 - **Gene ID:**	[Zm00001eb086630]()
 - **Gene Symbol:** si3
 - **Gene Name:** Silky3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Transcriptome analysis reveals that the ectopic expression of **si3** strongly represses multiple biological processes, especially the flower development pathways.
-   - pleiotropic inflorescence phenotypes in Si3 mutants are attributable to defects in multiple flower-related pathways.
-   - These results indicated that the complicated mutant phenotypes might be caused by multiple pathway defects in Si3 inflorescences.
+   - pleiotropic inflorescence phenotypes in **si3** mutants are attributable to defects in multiple flower-related pathways.
+   - These results indicated that the complicated mutant phenotypes might be caused by multiple pathway defects in **si3** inflorescences.
 
 ## Literature:
    - [Ectopic Expression of the Transcriptional Regulator silky3 Causes Pleiotropic Meristem and Sex Determination Defects in Maize Inflorescences.]( https://academic.oup.com/plcell/article/32/12/3750/6118609?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00043](https://academic.oup.com/plcell/article/32/12/3750/6118609?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32989171](https://pubmed.ncbi.nlm.nih.gov/32989171/)
@@ -28,7 +28,9 @@ tags: [ development,flower,inflorescence,flower development,inflorescence develo
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,flower,inflorescence,flower development,inflorescence development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ kinase,resistance,resistant,receptor kinase,malectin ]
 - **Gene ID:**	[Glyma.02G122000]()
 - **Gene Symbol:** GmMLRK1
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ kinase,resistance,resistant,receptor kinase,malectin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,resistance,resistant,receptor kinase,malectin
 
 ## Sequences:

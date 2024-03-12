@@ -10,7 +10,7 @@ tags: [ immunity,cell death,transcription regulator,plant immunity ]
 - **Gene ID:**	[Glyma.14G223500]()
 - **Gene Symbol:** GmCAT1
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ immunity,cell death,transcription regulator,plant immunity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 immunity,cell death,transcription regulator,plant immunity
 
 ## Sequences:

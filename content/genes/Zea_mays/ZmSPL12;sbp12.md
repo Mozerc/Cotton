@@ -3,14 +3,14 @@ description: SBP-transcription factor 12 ; Zm00001eb233320 ; Zea mays
 meta_title:
 title: ZmSPL12;sbp12
 categories: [Zea mays]
-tags: [ grain,resistance,grain yield,yield,ga, ga ,lodging,lodging resistance,height,plant height,ga biosynthesis ]
+tags: [ grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,plant height,ga biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb233320]()
 - **Gene Symbol:** ZmSPL12;sbp12
 - **Gene Name:** SBP-transcription factor 12
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -34,8 +34,10 @@ tags: [ grain,resistance,grain yield,yield,ga, ga ,lodging,lodging resistance,he
 - **NCBI ID:** [100191346](https://www.ncbi.nlm.nih.gov/gene/?term=100191346)
 - **UniProt accessions:** [B4F8H7](https://www.uniprot.org/uniprotkb/B4F8H7/entry)&nbsp;,&nbsp;[A0A1D6H1N7](https://www.uniprot.org/uniprotkb/A0A1D6H1N7/entry)&nbsp;,&nbsp;[A0A1D6H1N9](https://www.uniprot.org/uniprotkb/A0A1D6H1N9/entry)
 
-## Related Phenotypes:
-grain,resistance,grain yield,yield,ga, ga ,lodging,lodging resistance,height,plant height,ga biosynthesis
+## Orthologs:
+
+## Keywords:
+grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,plant height,ga biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

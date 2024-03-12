@@ -10,7 +10,7 @@ tags: [ drought,drought response ]
 - **Gene ID:**	[MD15G1126700]()
 - **Gene Symbol:** MdPRP6
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ drought,drought response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,drought response
 
 ## Sequences:

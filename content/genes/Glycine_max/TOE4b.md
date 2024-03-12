@@ -10,7 +10,7 @@ tags: [ grain,grain length,grain number,grain yield,yield,architecture,internode
 - **Gene ID:**	[Gkma.13G329700.1]()
 - **Gene Symbol:** TOE4b
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ grain,grain length,grain number,grain yield,yield,architecture,internode
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain length,grain number,grain yield,yield,architecture,internode length,plant architecture,flowering
 
 ## Sequences:

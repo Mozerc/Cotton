@@ -10,7 +10,7 @@ tags: [ fe ]
 - **Gene ID:**	[Zm00001d027395]()
 - **Gene Symbol:** ZmNAC78
 - **Gene Name:** NAM/ATAF/CUC DOMAIN TRANSCRIPTION FACTOR 78
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ fe ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fe
 
 ## Sequences:

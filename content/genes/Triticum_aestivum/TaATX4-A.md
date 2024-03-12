@@ -3,14 +3,14 @@ description: TraesCS3A01G143300 ; Triticum aestivum
 meta_title:
 title: TaATX4-A
 categories: [Triticum aestivum]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A01G143300]()
 - **Gene Symbol:** TaATX4-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

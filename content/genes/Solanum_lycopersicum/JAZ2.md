@@ -3,14 +3,14 @@ description:  Solyc12g009220 ; Solanum lycopersicum
 meta_title:
 title: JAZ2
 categories: [Solanum lycopersicum]
-tags: [ transcription factor,ja,transcription regulator, ja ,ja signaling ]
+tags: [ transcription factor,ja,transcription regulator,ja signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[ Solyc12g009220]()
 - **Gene Symbol:** JAZ2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ transcription factor,ja,transcription regulator, ja ,ja signaling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,ja,transcription regulator, ja ,ja signaling
+## Orthologs:
+
+## Keywords:
+transcription factor,ja,transcription regulator,ja signaling
 
 ## Sequences:
 - **CDS Sequence:**

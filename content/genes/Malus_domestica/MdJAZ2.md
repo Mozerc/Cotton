@@ -3,14 +3,14 @@ description: MDP0000757701 ; Malus domestica
 meta_title:
 title: MdJAZ2
 categories: [Malus domestica]
-tags: [ leaf,leaf senescence,senescence,ja, ja ,ja signaling ]
+tags: [ leaf,leaf senescence,senescence,ja,ja signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000757701]()
 - **Gene Symbol:** MdJAZ2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ leaf,leaf senescence,senescence,ja, ja ,ja signaling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,leaf senescence,senescence,ja, ja ,ja signaling
+## Orthologs:
+
+## Keywords:
+leaf,leaf senescence,senescence,ja,ja signaling
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ leaf,tillering,development,leaf development,tiller ]
 - **Gene ID:**	[HORVU2Hr1G098820]()
 - **Gene Symbol:** HvHNT1
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,tillering,development,leaf development,tiller ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,tillering,development,leaf development,tiller
 
 ## Sequences:

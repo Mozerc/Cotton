@@ -10,12 +10,12 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
 - **Gene ID:**	[Zm00001eb265710]()
 - **Gene Symbol:** Wox3;Wox3a
 - **Gene Name:** Wuschel-like homeobox3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The planar, mediolateral outgrowth of both eudicot and monocot leaves is dependent on conserved Wuschel-like homeobox3 (WOX3) transcription-factor-encoding genes2,3,4. As described previously, **Wox3** genes are expressed in the marginal domain of the SAM peripheral zone and at the intersection of the adaxial–abaxial (top–bottom) domains (that is, the rim1) of developing leaf primordial edges, where they promote mediolateral outgrowth of the marginal leaf domain.
-   - We show that rim function is regulated by genetically redundant Wuschel-like homeobox3 (WOX3) transcription factors. Higher-order mutations in maize **Wox3** genes greatly reduce leaf width and disrupt ligule outgrowth and patterning.
+   - The planar, mediolateral outgrowth of both eudicot and monocot leaves is dependent on conserved Wuschel-like homeobox3 (**Wox3**) transcription-factor-encoding genes2,3,4. As described previously, **Wox3** genes are expressed in the marginal domain of the SAM peripheral zone and at the intersection of the adaxial–abaxial (top–bottom) domains (that is, the rim1) of developing leaf primordial edges, where they promote mediolateral outgrowth of the marginal leaf domain.
+   - We show that rim function is regulated by genetically redundant Wuschel-like homeobox3 (**Wox3**) transcription factors. Higher-order mutations in maize **Wox3** genes greatly reduce leaf width and disrupt ligule outgrowth and patterning.
    - We refer to this edge-most region of **Wox3** expression as the leaf primordial rim domain.
    - **Wox3** mutants perturb the marginal and lateral leaf domains.
    - Higher-order **Wox3** function and ligule development.
@@ -30,7 +30,9 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
 - **NCBI ID:** [LOC100127511](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127511)
 - **UniProt accessions:** [Q70UV1](https://www.uniprot.org/uniprotkb/Q70UV1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,transcription factor,development,leaf development,leaf patterning
 
 ## Sequences:

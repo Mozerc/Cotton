@@ -10,7 +10,7 @@ tags: [ xylem,root,shoot,domestication,salt,tolerance,salt tolerance,homeostasis
 - **Gene ID:**	[Zm00001eb227000]()
 - **Gene Symbol:** ZmHKT2;nc2
 - **Gene Name:** Na+ content2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ xylem,root,shoot,domestication,salt,tolerance,salt tolerance,homeostasis
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 xylem,root,shoot,domestication,salt,tolerance,salt tolerance,homeostasis,transporter,amino acid transporter
 
 ## Sequences:

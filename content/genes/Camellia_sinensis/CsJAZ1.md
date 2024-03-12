@@ -10,7 +10,7 @@ tags: [ ja,ja biosynthesis, ja  ]
 - **Gene ID:**	[TEA001681.1]()
 - **Gene Symbol:** CsJAZ1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ ja,ja biosynthesis, ja  ]
 - **NCBI ID:** [OL898654](https://www.ncbi.nlm.nih.gov/gene/?term=OL898654)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ja,ja biosynthesis, ja 
 
 ## Sequences:

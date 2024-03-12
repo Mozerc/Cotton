@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[FvH4_3g20700]()
 - **Gene Symbol:** FvRIF
 - **Gene Name:** 
-- **Genome Version:** [Fragaria vesca Whole Genome v4.0.a2]()
+- **Genome:** [Fragaria vesca Whole Genome v4.0.a2]()
 - **Species:** *Fragaria vesca*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

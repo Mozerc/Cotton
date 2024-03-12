@@ -10,7 +10,7 @@ tags: [ drought,salt,tolerance,cold tolerance,aba,drought tolerance,salt toleran
 - **Gene ID:**	[]()
 - **Gene Symbol:** IbSnRK1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Ipomoea batatas*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,salt,tolerance,cold tolerance,aba,drought tolerance,salt toleran
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 drought,salt,tolerance,cold tolerance,aba,drought tolerance,salt tolerance,cold,stomatal,signaling pathway gene, aba 
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[HORVU2Hr1G092290/HORVU.MOREX.r2.2HG0152930]()
 - **Gene Symbol:** vrs1.a4
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

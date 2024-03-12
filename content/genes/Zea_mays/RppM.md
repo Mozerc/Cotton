@@ -10,7 +10,7 @@ tags: [ resistance,breeding ]
 - **Gene ID:**	[Zm00001eb405290]()
 - **Gene Symbol:** RppM
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance,breeding ]
 - **NCBI ID:** [LOC103640673](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103640673)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,breeding
 
 ## Sequences:

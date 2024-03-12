@@ -3,14 +3,14 @@ description: calcineurin B-like-interacting protein kinase46 ; Zm00001eb331220 ;
 meta_title:
 title: ZmSnRK3.29;cipk46
 categories: [Zea mays]
-tags: [ kinase,aba,protein kinase, aba  ]
+tags: [ kinase,aba,protein kinase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb331220]()
 - **Gene Symbol:** ZmSnRK3.29;cipk46
 - **Gene Name:** calcineurin B-like-interacting protein kinase46
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ kinase,aba,protein kinase, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-kinase,aba,protein kinase, aba 
+## Orthologs:
+
+## Keywords:
+kinase,aba,protein kinase
 
 ## Sequences:
 - **CDS Sequence:**

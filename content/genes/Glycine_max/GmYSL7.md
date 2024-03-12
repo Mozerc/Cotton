@@ -10,7 +10,7 @@ tags: [ root,fe,root number ]
 - **Gene ID:**	[Glyma.11G203400]()
 - **Gene Symbol:** GmYSL7
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,fe,root number ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,fe,root number
 
 ## Sequences:

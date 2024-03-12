@@ -10,13 +10,13 @@ tags: [ meiosis,meiotic ]
 - **Gene ID:**	[Zm00001eb404350]()
 - **Gene Symbol:** ZmPRD3A;prd3
 - **Gene Name:** putative recombination initiation defect3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.
-   - These results demonstrate that ZmPRD3 is essential for meiotic DSB formation in maize.
-   - These results indicate that **ZmPRD3A** is essential for maize meiosis and that ZmPRD3B is not sufficiently expressed to complement Zm**prd3**a-1 mutation despite **ZmPRD3A**/ZmPRD3B high homology.
+   - ZmASY1 interacts with Zm**prd3** and is crucial for meiotic double-strand break formation in maize.
+   - These results demonstrate that Zm**prd3** is essential for meiotic DSB formation in maize.
+   - These results indicate that **Zm**prd3**A** is essential for maize meiosis and that Zm**prd3**B is not sufficiently expressed to complement **Zm**prd3**A**-1 mutation despite **Zm**prd3**A**/Zm**prd3**B high homology.
 
 ## Literature:
    - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
@@ -27,7 +27,9 @@ tags: [ meiosis,meiotic ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 meiosis,meiotic
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,stress,cold stress,cold,stress response ]
 - **Gene ID:**	[GRMZM25173534]()
 - **Gene Symbol:** ZmICE1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,stress,cold stress,cold,stress response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,stress,cold stress,cold,stress response
 
 ## Sequences:

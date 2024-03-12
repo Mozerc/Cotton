@@ -10,7 +10,7 @@ tags: [ immunity,protoplasts,plant immunity ]
 - **Gene ID:**	[PGSC0003DMG400016891]()
 - **Gene Symbol:** StIPP
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum tuberosum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ immunity,protoplasts,plant immunity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 immunity,protoplasts,plant immunity
 
 ## Sequences:

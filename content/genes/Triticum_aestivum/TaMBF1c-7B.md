@@ -10,7 +10,7 @@ tags: [ stress,tolerance,stress tolerance,stress response,heat tolerance,heat st
 - **Gene ID:**	[TraesCS7B02G259000]()
 - **Gene Symbol:** TaMBF1c-7B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stress,tolerance,stress tolerance,stress response,heat tolerance,heat st
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,tolerance,stress tolerance,stress response,heat tolerance,heat stress,heat stress response
 
 ## Sequences:

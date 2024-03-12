@@ -10,7 +10,7 @@ tags: [ transporter,sugar,sucrose,sugar transport,sucrose transporter,sucrose tr
 - **Gene ID:**	[TraesCS2B02G282400]()
 - **Gene Symbol:** TaSTP3
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transporter,sugar,sucrose,sugar transport,sucrose transporter,sucrose tr
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transporter,sugar,sucrose,sugar transport,sucrose transporter,sucrose transport
 
 ## Sequences:

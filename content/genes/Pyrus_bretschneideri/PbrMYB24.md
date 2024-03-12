@@ -10,7 +10,7 @@ tags: [ cellulose,lignin ]
 - **Gene ID:**	[Pbr017813.1]()
 - **Gene Symbol:** PbrMYB24
 - **Gene Name:** 
-- **Genome Version:** [pear genome database (http://peargenome.njau.edu.cn)]()
+- **Genome:** [pear genome database (http://peargenome.njau.edu.cn)]()
 - **Species:** *Pyrus bretschneideri*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cellulose,lignin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cellulose,lignin
 
 ## Sequences:

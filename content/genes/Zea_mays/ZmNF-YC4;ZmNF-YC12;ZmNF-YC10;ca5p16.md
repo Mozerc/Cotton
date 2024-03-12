@@ -10,7 +10,7 @@ tags: [ stress,abiotic stress,stress response,abiotic stress response ]
 - **Gene ID:**	[Zm00001eb316260]()
 - **Gene Symbol:** ZmNF-YC4;ZmNF-YC12;ZmNF-YC10;ca5p16
 - **Gene Name:** CCAAT-HAP5-transcription factor 516
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,abiotic stress,stress response,abiotic stress response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,abiotic stress,stress response,abiotic stress response
 
 ## Sequences:

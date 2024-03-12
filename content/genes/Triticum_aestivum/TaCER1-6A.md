@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance,cuticle,wax biosynthesis ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaCER1-6A
 - **Gene Name:** 
-- **Genome Version:** [genome sequence	database (http://plants.ensembl.org/Triticum_aestivum/Info/Index)]()
+- **Genome:** [genome sequence	database (http://plants.ensembl.org/Triticum_aestivum/Info/Index)]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ drought,tolerance,drought tolerance,cuticle,wax biosynthesis ]
 - **NCBI ID:** [OM249960](https://www.ncbi.nlm.nih.gov/gene/?term=OM249960)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance,cuticle,wax biosynthesis
 
 ## Sequences:

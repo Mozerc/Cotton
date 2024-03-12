@@ -10,12 +10,12 @@ tags: [ stem,cell death,architecture,programmed cell death ]
 - **Gene ID:**	[TraesCS3A02G532000]()
 - **Gene Symbol:** TdDof
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - Copy number variation of **TdDof** controls solid-stemmed architecture in wheat
-   - we identify **TdDof** as the causal gene that controls stem solidness in wheat. We show that copy number gain of **TdDof** correlates with its increased expression and the solid-stem phenotype. 
+   - We identify **TdDof** as the causal gene that controls stem solidness in wheat. We show that copy number gain of **TdDof** correlates with its increased expression and the solid-stem phenotype. 
    - Our results suggest **TdDof** could function as a key regulator of genes involved in programmed cell death of the pith parenchyma cells.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ stem,cell death,architecture,programmed cell death ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,cell death,architecture,programmed cell death
 
 ## Sequences:

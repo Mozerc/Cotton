@@ -10,7 +10,7 @@ tags: [ development,plant development,fertility,pollen,anther,stress,seed,seed g
 - **Gene ID:**	[Zm00001eb272750]()
 - **Gene Symbol:** ZmLTP2.5;plt16
 - **Gene Name:** phospholipid transfer protein16
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,plant development,fertility,pollen,anther,stress,seed,seed g
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,plant development,fertility,pollen,anther,stress,seed,seed germination,pollen development,vegetative,anther development,seed development,male fertility,stress response,pollen fertility,pollen germination
 
 ## Sequences:

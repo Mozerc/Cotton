@@ -10,7 +10,7 @@ tags: [ homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthes
 - **Gene ID:**	[Zm00001eb016850]()
 - **Gene Symbol:** BZU3;zb9;ZmNHL31.1
 - **Gene Name:** zebra crossbands9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -23,13 +23,15 @@ tags: [ homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthes
    - [A maize epimerase modulates cell wall synthesis and glycosylation during stomatal morphogenesis.]( https://www.nature.com/articles/s41467-023-40013-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-40013-6](https://www.nature.com/articles/s41467-023-40013-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37474494](https://pubmed.ncbi.nlm.nih.gov/37474494/)
 
 ## Related News:
-   - [NA](https://mp.weixin.qq.com/s/rDWFNDoDr9OFNGohKpfKjQ)
+   - [Nature Communications | 河南大学解析玉米哑铃形气孔形态建成机制](https://mp.weixin.qq.com/s/rDWFNDoDr9OFNGohKpfKjQ)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC542127](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542127)
 - **UniProt accessions:** [A0A1D6K338](https://www.uniprot.org/uniprotkb/A0A1D6K338/entry)&nbsp;,&nbsp;[C0HEU5](https://www.uniprot.org/uniprotkb/C0HEU5/entry)&nbsp;,&nbsp;[C0HI30](https://www.uniprot.org/uniprotkb/C0HI30/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthesis
 
 ## Sequences:

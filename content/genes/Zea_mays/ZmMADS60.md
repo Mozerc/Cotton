@@ -10,7 +10,7 @@ tags: [ root,seedling,root elongation,lateral root,primary root,root length,late
 - **Gene ID:**	[GRMZM2G152415]()
 - **Gene Symbol:** ZmMADS60
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -18,7 +18,7 @@ tags: [ root,seedling,root elongation,lateral root,primary root,root length,late
    - **ZmMADS60** may be involved in the elongation of primary and lateral roots in the seedling stage and that significant variants can be used to develop functional markers to improve root length in maize.
 
 ## Literature:
-   - [NA]( https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy10030342](https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [NA]( https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy10030342](https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -26,7 +26,9 @@ tags: [ root,seedling,root elongation,lateral root,primary root,root length,late
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,seedling,root elongation,lateral root,primary root,root length,lateral root length
 
 ## Sequences:

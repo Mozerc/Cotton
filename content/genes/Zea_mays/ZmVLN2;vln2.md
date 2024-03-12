@@ -10,14 +10,14 @@ tags: [ development,breeding,peduncle ]
 - **Gene ID:**	[Zm00001eb362860]()
 - **Gene Symbol:** ZmVLN2;vln2
 - **Gene Name:** villin-like2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmVLN2** is the candidate gene in qPVB55 that affects maize VB development.
-   - **ZmVLN2** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
-   - A comparison of the PVB-related traits of the Zm**vln2** mutant and the **ZmVLN2** wild-type revealed the Zm**vln2** mutant had a significantly smaller peduncle diameter, but there were no significant differences in LEH and LNEH.
-   - Natural variations in **ZmVLN2** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
+   - **Zm**vln2**** is the candidate gene in qPVB55 that affects maize VB development.
+   - **Zm**vln2**** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
+   - A comparison of the PVB-related traits of the **Zm**vln2**** mutant and the **Zm**vln2**** wild-type revealed the **Zm**vln2**** mutant had a significantly smaller peduncle diameter, but there were no significant differences in LEH and LNEH.
+   - Natural variations in **Zm**vln2**** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
 
 ## Literature:
    - [Dissection of the genetic architecture of peduncle vascular bundle-related traits in maize by a genome-wide association study.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13782](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35080335](https://pubmed.ncbi.nlm.nih.gov/35080335/)
@@ -29,7 +29,9 @@ tags: [ development,breeding,peduncle ]
 - **NCBI ID:** [100279855](https://www.ncbi.nlm.nih.gov/gene/?term=100279855)
 - **UniProt accessions:** [B8A0C4](https://www.uniprot.org/uniprotkb/B8A0C4/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,breeding,peduncle
 
 ## Sequences:

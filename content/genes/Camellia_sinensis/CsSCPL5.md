@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsSCPL5
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [  ]
 - **NCBI ID:** [MZ462935](https://www.ncbi.nlm.nih.gov/gene/?term=MZ462935)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

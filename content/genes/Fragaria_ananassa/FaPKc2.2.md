@@ -10,7 +10,7 @@ tags: [ development,kinase,cytoplasm,phosphate,dehydrogenase ]
 - **Gene ID:**	[FxaC_15g00080]()
 - **Gene Symbol:** FaPKc2.2
 - **Gene Name:** 
-- **Genome Version:** [FAN (F. x ananassa)]()
+- **Genome:** [FAN (F. x ananassa)]()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,kinase,cytoplasm,phosphate,dehydrogenase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,kinase,cytoplasm,phosphate,dehydrogenase
 
 ## Sequences:

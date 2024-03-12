@@ -3,14 +3,14 @@ description: Solyc06g066820 ; Solanum lycopersicum
 meta_title:
 title: SlGA3ox1
 categories: [Solanum lycopersicum]
-tags: [ ga, ga ,ga biosynthetic,ga biosynthesis ]
+tags: [ ga,ga biosynthetic,ga biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc06g066820]()
 - **Gene Symbol:** SlGA3ox1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ ga, ga ,ga biosynthetic,ga biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ga, ga ,ga biosynthetic,ga biosynthesis
+## Orthologs:
+
+## Keywords:
+ga,ga biosynthetic,ga biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

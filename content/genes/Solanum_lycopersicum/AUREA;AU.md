@@ -10,13 +10,13 @@ tags: [ leaf,root,stems,chlorophyll,adventitious root,adventitious root formatio
 - **Gene ID:**	[Solyc01g008930]()
 - **Gene Symbol:** AUREA;AU
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - ****AU**REA** maintains the balance between chlorophyll synthesis and adventitious root formation in tomato.
-   - tomato gene ****AU**REA** (**AU**) that not only led to leaf chlorosis but also caused the spontaneous formation of ARs on stems.
-   - The mutation was mapped to the phytochromobilin synthase gene ****AU**REA** (**AU**), in which a single amino acid substitution from asparagine to tyrosine occurred.
+   - **AUREA** maintains the balance between chlorophyll synthesis and adventitious root formation in tomato.
+   - tomato gene **AUREA** (AU) that not only led to leaf chlorosis but also caused the spontaneous formation of ARs on stems.
+   - The mutation was mapped to the phytochromobilin synthase gene **AUREA** (AU), in which a single amino acid substitution from asparagine to tyrosine occurred.
 
 ## Literature:
    - [AUREA maintains the balance between chlorophyll synthesis and adventitious root formation in tomato.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-020-00386-x/6445688?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41438-020-00386-x](https://academic.oup.com/hr/article/doi/10.1038/s41438-020-00386-x/6445688?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33082972](https://pubmed.ncbi.nlm.nih.gov/33082972/)
@@ -28,7 +28,9 @@ tags: [ leaf,root,stems,chlorophyll,adventitious root,adventitious root formatio
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,root,stems,chlorophyll,adventitious root,adventitious root formation
 
 ## Sequences:

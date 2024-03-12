@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CmbHLH16
 - **Gene Name:** Chrysanthemum morifolium basic helix-loop-helix16
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [MW962302](https://www.ncbi.nlm.nih.gov/gene/?term=MW962302)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

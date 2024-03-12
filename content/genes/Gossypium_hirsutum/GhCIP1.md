@@ -10,7 +10,7 @@ tags: [ flowering ]
 - **Gene ID:**	[Gh_D03G0728]()
 - **Gene Symbol:** GhCIP1
 - **Gene Name:** COP1-interactive protein 1
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flowering
 
 ## Sequences:

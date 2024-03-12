@@ -10,7 +10,7 @@ tags: [ seed,starch,transporter ]
 - **Gene ID:**	[Glyma.20G035700]()
 - **Gene Symbol:** GmLEC2a
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Genome:** [glyma.Wm82.gnm4.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ seed,starch,transporter ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,starch,transporter
 
 ## Sequences:

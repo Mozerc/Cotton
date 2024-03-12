@@ -10,7 +10,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,glucos
 - **Gene ID:**	[]()
 - **Gene Symbol:** UGT91Q2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,glucos
 - **NCBI ID:** [XM_028211228](https://www.ncbi.nlm.nih.gov/gene/?term=XM_028211228)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,glucosyltransferase
 
 ## Sequences:

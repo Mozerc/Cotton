@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** DcMYB11c
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Daucus carota*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [SRR7641950](https://www.ncbi.nlm.nih.gov/gene/?term=SRR7641950)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

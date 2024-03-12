@@ -10,7 +10,7 @@ tags: [ aminobutyric acid ]
 - **Gene ID:**	[MD06G1235500]()
 - **Gene Symbol:** MdGAD5a
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ aminobutyric acid ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 aminobutyric acid
 
 ## Sequences:

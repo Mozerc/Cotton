@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[MELO3C009488.2]()
 - **Gene Symbol:** CmCWINV2
 - **Gene Name:** 
-- **Genome Version:** [Melon (DHL92) v3.6.1]()
+- **Genome:** [Melon (DHL92) v3.6.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

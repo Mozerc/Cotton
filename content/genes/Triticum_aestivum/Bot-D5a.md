@@ -10,7 +10,7 @@ tags: [ tolerance,boron ]
 - **Gene ID:**	[TraesCS7D02G724400LC]()
 - **Gene Symbol:** Bot-D5a
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ tolerance,boron ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,boron
 
 ## Sequences:

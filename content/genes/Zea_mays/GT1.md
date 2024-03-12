@@ -10,12 +10,12 @@ tags: [ cell death,meristem,branching,axillary meristem,programmed cell death ]
 - **Gene ID:**	[GRMZM2G005624]()
 - **Gene Symbol:** GT1
 - **Gene Name:** GRASSY TILLERS1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - gt1 and ra3, which together regulate carpel suppression, meristem determinacy, and axillary meristem suppression.
-   - gt1 Suppresses ra3 Tassel and Ear Branching.
+   - **GT1** and ra3, which together regulate carpel suppression, meristem determinacy, and axillary meristem suppression.
+   - **GT1** Suppresses ra3 Tassel and Ear Branching.
    - **GT1** and RA3 Regulate Genes Predicted to Mediate Programmed Cell Death.
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ cell death,meristem,branching,axillary meristem,programmed cell death ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell death,meristem,branching,axillary meristem,programmed cell death
 
 ## Sequences:

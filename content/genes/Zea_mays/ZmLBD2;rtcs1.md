@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,home
 - **Gene ID:**	[Zm00001eb003920]()
 - **Gene Symbol:** ZmLBD2;rtcs1
 - **Gene Name:** rootless concerning crown and seminal roots1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,home
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance,drought,tolerance,drought tolerance,homeostasis,drought resistance
 
 ## Sequences:

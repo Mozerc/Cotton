@@ -10,7 +10,7 @@ tags: [ stem,growth,flower,meristem ]
 - **Gene ID:**	[Csa6G452100]()
 - **Gene Symbol:** CsTFL1
 - **Gene Name:** Cucumis sativus TERMINAL FLOWER1
-- **Genome Version:** [Cucumber (Chinese Long) v2 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stem,growth,flower,meristem ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stem,growth,flower,meristem
 
 ## Sequences:

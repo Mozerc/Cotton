@@ -10,7 +10,7 @@ tags: [ stress,stomatal,stress response ]
 - **Gene ID:**	[Glyma.11G117400]()
 - **Gene Symbol:** GmGRP7
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome :** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,7 @@ tags: [ stress,stomatal,stress response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Keywordss:
 stress,stomatal,stress response
 
 ## Sequences:

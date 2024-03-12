@@ -10,7 +10,7 @@ tags: [ embryo,somatic embryogenesis,callus,homeobox gene ]
 - **Gene ID:**	[Zm00001eb148390]()
 - **Gene Symbol:** ZmWOX2A;Wox2a
 - **Gene Name:** Wuschel-like homeobox protein 2a
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -31,7 +31,9 @@ tags: [ embryo,somatic embryogenesis,callus,homeobox gene ]
 - **NCBI ID:** [LOC103651027](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103651027)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 embryo,somatic embryogenesis,callus,homeobox gene
 
 ## Sequences:

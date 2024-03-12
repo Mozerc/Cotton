@@ -10,7 +10,7 @@ tags: [ resistance,cold ]
 - **Gene ID:**	[Solyc09g014990]()
 - **Gene Symbol:** SIWRKY33
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ resistance,cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,cold
 
 ## Sequences:

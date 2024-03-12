@@ -3,14 +3,14 @@ description: WRKY-transcription factor 105 ; Zm00001eb086280 ; Zea mays
 meta_title:
 title: ZmWRKY17;wrky105
 categories: [Zea mays]
-tags: [ transcription factor,growth,stress,seedling,seed,salt,seed germination,tolerance,aba,salt tolerance,salt stress,stress tolerance,salt sensitivity, aba ,seed growth,seedling growth,aba sensitivity ]
+tags: [ transcription factor,growth,stress,seedling,seed,salt,seed germination,tolerance,aba,salt tolerance,salt stress,stress tolerance,salt sensitivity,seed growth,seedling growth,aba sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb086280]()
 - **Gene Symbol:** ZmWRKY17;wrky105
 - **Gene Name:** WRKY-transcription factor 105
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ transcription factor,growth,stress,seedling,seed,salt,seed germination,t
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,growth,stress,seedling,seed,salt,seed germination,tolerance,aba,salt tolerance,salt stress,stress tolerance,salt sensitivity, aba ,seed growth,seedling growth,aba sensitivity
+## Orthologs:
+
+## Keywords:
+transcription factor,growth,stress,seedling,seed,salt,seed germination,tolerance,aba,salt tolerance,salt stress,stress tolerance,salt sensitivity,seed growth,seedling growth,aba sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

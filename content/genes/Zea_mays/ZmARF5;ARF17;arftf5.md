@@ -10,7 +10,7 @@ tags: [ auxin,seed,seed germination,auxin response ]
 - **Gene ID:**	[Zm00001eb076420]()
 - **Gene Symbol:** ZmARF5;ARF17;arftf5
 - **Gene Name:** ARF-transcription factor 5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ auxin,seed,seed germination,auxin response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,seed,seed germination,auxin response
 
 ## Sequences:

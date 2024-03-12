@@ -10,7 +10,7 @@ tags: [ sa, sa  ]
 - **Gene ID:**	[TEA002405]()
 - **Gene Symbol:** CsSH1
 - **Gene Name:** 
-- **Genome Version:** [TeaPGDB V1.0 since 2020]()
+- **Genome:** [TeaPGDB V1.0 since 2020]()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sa, sa 
 
 ## Sequences:

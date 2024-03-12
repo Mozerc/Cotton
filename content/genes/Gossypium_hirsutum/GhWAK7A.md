@@ -10,7 +10,7 @@ tags: [ kinase ]
 - **Gene ID:**	[Gh A02G0727]()
 - **Gene Symbol:** GhWAK7A
 - **Gene Name:** 
-- **Genome Version:** [G. hirsutum (AD1)]()
+- **Genome:** [G. hirsutum (AD1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ kinase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 kinase
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ defence ]
 - **Gene ID:**	[GB_A07G1113]()
 - **Gene Symbol:** GbCYP86A1-1
 - **Gene Name:** 
-- **Genome Version:** [G. barbadense cv. Hai7124 (https://www.cottongen.org)]()
+- **Genome:** [G. barbadense cv. Hai7124 (https://www.cottongen.org)]()
 - **Species:** *Gossypium barbadense*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ defence ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 defence
 
 ## Sequences:

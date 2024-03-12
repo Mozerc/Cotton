@@ -10,7 +10,7 @@ tags: [ transcription factor,auxin,auxin response ]
 - **Gene ID:**	[Zm00001eb118970]()
 - **Gene Symbol:** ZmARF7;ZmARF11;arftf7
 - **Gene Name:** ARF-transcription factor 7
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,auxin,auxin response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,auxin,auxin response
 
 ## Sequences:

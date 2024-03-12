@@ -10,7 +10,7 @@ tags: [ resistance,disease,disease resistance ]
 - **Gene ID:**	[MD08G1073500]()
 - **Gene Symbol:** MdVPE4
 - **Gene Name:** APPLE VACUOLAR PROCESSING ENZYME 4
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance,disease,disease resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,disease,disease resistance
 
 ## Sequences:

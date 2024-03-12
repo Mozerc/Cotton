@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,seed,tolerance,drought tol
 - **Gene ID:**	[]()
 - **Gene Symbol:** BnVOC2
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,seed,tolerance,drought tol
 - **NCBI ID:** [KP315910](https://www.ncbi.nlm.nih.gov/gene/?term=KP315910)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,seed,tolerance,drought tolerance,stress tolerance,seed size
 
 ## Sequences:

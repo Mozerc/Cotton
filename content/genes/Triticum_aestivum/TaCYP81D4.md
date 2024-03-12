@@ -10,7 +10,7 @@ tags: [ salinity,tolerance ]
 - **Gene ID:**	[TraesCS5B01G403000]()
 - **Gene Symbol:** TaCYP81D4
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ salinity,tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 salinity,tolerance
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ development,sterile ]
 - **Gene ID:**	[Bra010198]()
 - **Gene Symbol:** ftms
 - **Gene Name:** 
-- **Genome Version:** [B. rapa reference genome (v1.5)]()
+- **Genome:** [B. rapa reference genome (v1.5)]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,sterile ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,sterile
 
 ## Sequences:

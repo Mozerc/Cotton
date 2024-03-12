@@ -10,7 +10,7 @@ tags: [ flower,pollen ]
 - **Gene ID:**	[Cla97C06G121370]()
 - **Gene Symbol:** ClDMP4
 - **Gene Name:** 
-- **Genome Version:** [Citrullus lanatus (Watermelon (97103) v2)]()
+- **Genome:** [Citrullus lanatus (Watermelon (97103) v2)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ flower,pollen ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flower,pollen
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ development,grain,panicle,grain yield,yield,panicle development ]
 - **Gene ID:**	[Seita.3G333100]()
 - **Gene Symbol:** SiBOR1
 - **Gene Name:** 
-- **Genome Version:** [Setaria italica v2.2]()
+- **Genome:** [Setaria italica v2.2]()
 - **Species:** *Setaria italica*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,grain,panicle,grain yield,yield,panicle development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,grain,panicle,grain yield,yield,panicle development
 
 ## Sequences:

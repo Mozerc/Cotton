@@ -10,7 +10,7 @@ tags: [ development,starch,endosperm,endosperm development,pyrophosphorylase,sta
 - **Gene ID:**	[Zm00001eb176800]()
 - **Gene Symbol:** Bt2;agpsen;glt1;adp3
 - **Gene Name:** brittle endosperm2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -18,7 +18,7 @@ tags: [ development,starch,endosperm,endosperm development,pyrophosphorylase,sta
    - We confirmed that 5601Q was a new allele mutant of **Bt2** by allelic test of **Bt2** mutant 1774 and 5601Q. Sequencing analysis revealed that Mutator 19 transposon was inserted in the 2nd exon of **Bt2** gene. In summary, our results indicated that the shrunken kernel in 5601Q was caused by the loss-of-function of **Bt2** gene, which provided a new germplasm resource to elucidate the mechanism of maize **Bt2** gene in endosperm storage substance accumulation.
 
 ## Literature:
-   - [NA]( 10.3724/SP.J.1006.2022.13005)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[https://www.sciengine.com/AAS/doi/10.3724/SP.J.1006.2022.13005](10.3724/SP.J.1006.2022.13005)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Genetic analysis and molecular characterization of a novel maize Bt2 gene mutant](https://www.sciengine.com/AAS/doi/10.3724/SP.J.1006.2022.13005 )&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3724/SP.J.1006.2022.13005](https://www.sciengine.com/AAS/doi/10.3724/SP.J.1006.2022.13005)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -26,7 +26,9 @@ tags: [ development,starch,endosperm,endosperm development,pyrophosphorylase,sta
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,starch,endosperm,endosperm development,pyrophosphorylase,starch accumulation
 
 ## Sequences:

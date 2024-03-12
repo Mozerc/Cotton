@@ -10,7 +10,7 @@ tags: [ chlorophyll,calli ]
 - **Gene ID:**	[Cs7g10980.3]()
 - **Gene Symbol:** CsMADS3
 - **Gene Name:** 
-- **Genome Version:** [Citrus sinensis Valencia genome v1.0 (HZAU)]()
+- **Genome:** [Citrus sinensis Valencia genome v1.0 (HZAU)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ chlorophyll,calli ]
 - **NCBI ID:** [QEH04678.1](https://www.ncbi.nlm.nih.gov/gene/?term=QEH04678.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 chlorophyll,calli
 
 ## Sequences:

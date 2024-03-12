@@ -10,7 +10,7 @@ tags: [ spikelet,spikelet number,flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb293080]()
 - **Gene Symbol:** ZCN7
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ spikelet,spikelet number,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 spikelet,spikelet number,flowering time,flowering
 
 ## Sequences:

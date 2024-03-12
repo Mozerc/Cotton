@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaBln1-5B
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance ]
 - **NCBI ID:** [OM803180](https://www.ncbi.nlm.nih.gov/gene/?term=OM803180)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

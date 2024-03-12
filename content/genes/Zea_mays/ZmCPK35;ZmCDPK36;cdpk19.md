@@ -3,14 +3,14 @@ description: calcium dependent protein kinase19 ; Zm00001eb324690 ; Zea mays
 meta_title:
 title: ZmCPK35;ZmCDPK36
 categories: [Zea mays]
-tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane, aba  ]
+tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb324690]()
 - **Gene Symbol:** ZmCPK35;ZmCDPK36;cdpk19
 - **Gene Name:** calcium dependent protein kinase19
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,8 +32,10 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane, 
 - **NCBI ID:** [103628941](https://www.ncbi.nlm.nih.gov/gene/?term=103628941)
 - **UniProt accessions:** [A0A0B4J305](https://www.uniprot.org/uniprotkb/A0A0B4J305/entry)&nbsp;,&nbsp;[A0A1D6IGW8](https://www.uniprot.org/uniprotkb/A0A1D6IGW8/entry)&nbsp;,&nbsp;[A0A1D6IGW9](https://www.uniprot.org/uniprotkb/A0A1D6IGW9/entry)&nbsp;,&nbsp;[A0A1D6IGX0](https://www.uniprot.org/uniprotkb/A0A1D6IGX0/entry)&nbsp;,&nbsp;[A0A1D6IGX2](https://www.uniprot.org/uniprotkb/A0A1D6IGX2/entry)
 
-## Related Phenotypes:
-drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane, aba 
+## Orthologs:
+
+## Keywords:
+drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane
 
 ## Sequences:
 - **CDS Sequence:**

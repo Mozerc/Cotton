@@ -10,7 +10,7 @@ tags: [ starch ]
 - **Gene ID:**	[TraesCS2A02G293400]()
 - **Gene Symbol:** TaSBEIIa-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ starch ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch
 
 ## Sequences:

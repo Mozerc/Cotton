@@ -10,7 +10,7 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
 - **Gene ID:**	[Zm00001eb094330]()
 - **Gene Symbol:** PBF1;ZmDOF3
 - **Gene Name:** prolamin-box binding factor1
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
 - **NCBI ID:** [542353](https://www.ncbi.nlm.nih.gov/gene/?term=542353)
 - **UniProt accessions:** [A0A1D6EJU8](https://www.uniprot.org/uniprotkb/A0A1D6EJU8/entry)&nbsp;,&nbsp;[A0A1D6EJX0](https://www.uniprot.org/uniprotkb/A0A1D6EJX0/entry)&nbsp;,&nbsp;[A0A1D6EJT9](https://www.uniprot.org/uniprotkb/A0A1D6EJT9/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,transcription factor,development,starch,endosperm,endosperm development,starch biosynthesis,starch accumulation
 
 ## Sequences:

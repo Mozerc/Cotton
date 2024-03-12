@@ -10,7 +10,7 @@ tags: [ gravitropic response,root,auxin,resistance,breeding,auxin response,auxin
 - **Gene ID:**	[Zm00001eb419450]()
 - **Gene Symbol:** ZmYUC2;YUC;yuc2
 - **Gene Name:** Yucca2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ gravitropic response,root,auxin,resistance,breeding,auxin response,auxin
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 gravitropic response,root,auxin,resistance,breeding,auxin response,auxin biosynthesis,lodging,lodging resistance,resistant
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ chilling ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MeMYB2
 - **Gene Name:** 
-- **Genome Version:** [Manihot esculenta, v6.1]()
+- **Genome:** [Manihot esculenta, v6.1]()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ chilling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 chilling
 
 ## Sequences:

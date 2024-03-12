@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[Gh_D03G0209]()
 - **Gene Symbol:** GhGLR4.8
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: Solyc09g015380 ; Solanum lycopersicum
 meta_title:
 title: SlPYL9
 categories: [Solanum lycopersicum]
-tags: [ flower,aba, aba  ]
+tags: [ flower,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc09g015380]()
 - **Gene Symbol:** SlPYL9
 - **Gene Name:** 
-- **Genome Version:** [reference to-mato genome release SL2.50]()
+- **Genome:** [reference to-mato genome release SL2.50]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ flower,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-flower,aba, aba 
+## Orthologs:
+
+## Keywords:
+flower,aba
 
 ## Sequences:
 - **CDS Sequence:**

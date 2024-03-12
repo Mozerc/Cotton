@@ -10,7 +10,7 @@ tags: [ root,development,grain,auxin,grain yield,yield,root development,root ini
 - **Gene ID:**	[TraesCS4D02G312800]()
 - **Gene Symbol:** TaMOR-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ root,development,grain,auxin,grain yield,yield,root development,root ini
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,development,grain,auxin,grain yield,yield,root development,root initiation,lateral root
 
 ## Sequences:

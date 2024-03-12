@@ -10,7 +10,7 @@ tags: [ transcription factor,stress,salt,tolerance,yield,salt tolerance,salt str
 - **Gene ID:**	[Glyma.02G222300]()
 - **Gene Symbol:** GmNTL1
 - **Gene Name:** NAC WITH TRANS-MEMBRANE MOTIF1-LIKE 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,stress,salt,tolerance,yield,salt tolerance,salt str
 - **NCBI ID:** [LOC100778903](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100778903)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,stress,salt,tolerance,yield,salt tolerance,salt stress,stress tolerance
 
 ## Sequences:

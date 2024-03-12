@@ -10,7 +10,7 @@ tags: [ stress,ethylene,signal transduction,phytohormone,heat stress ]
 - **Gene ID:**	[Zm00001eb099980]()
 - **Gene Symbol:** ZmERF1;RAP2-2;ereb202
 - **Gene Name:** AP2-EREBP-transcription factor 202
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,ethylene,signal transduction,phytohormone,heat stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,ethylene,signal transduction,phytohormone,heat stress
 
 ## Sequences:

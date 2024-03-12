@@ -10,7 +10,7 @@ tags: [ stem,sugar,sugar transport,dormancy ]
 - **Gene ID:**	[Zm00001eb413890]()
 - **Gene Symbol:** ABI51
 - **Gene Name:** ABI3-VP1-transcription factor 51
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stem,sugar,sugar transport,dormancy ]
 - **NCBI ID:** [LOC100284698](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284698)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,sugar,sugar transport,dormancy
 
 ## Sequences:

@@ -10,11 +10,11 @@ tags: [ grain,grain protein ]
 - **Gene ID:**	[Zm00001eb316620]()
 - **Gene Symbol:** ZmGAR2;GAR2
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - This gene encodes a gar2-related nucleolar protein and is therefore referred to as **GAR2** hereafter. Resequencing the region near **GAR2** revealed an 8-bp InDel polymorphism (GAACATCA/-) in the 5’ untranslated region (5’UTR) that significantly influences AUDDC (P = 2.37 × 10−7, ANOVA, n = 465).
+   - This gene encodes a **GAR2**-related nucleolar protein and is therefore referred to as **GAR2** hereafter. Resequencing the region near **GAR2** revealed an 8-bp InDel polymorphism (GAACATCA/-) in the 5’ untranslated region (5’UTR) that significantly influences AUDDC (P = 2.37 × 10−7, ANOVA, n = 465).
    - Given the high LD between this 8 bp InDel and the lead SNP, we speculated that the 8 bp InDel is likely the causal variant underlying **GAR2** for AUDDC.
    - These results confirm the notion that **GAR2** is responsible for the QTL on chromosome 7 that negatively regulates grain moisture in maize. The underlying molecular mechanism should be further explored.
 
@@ -29,7 +29,9 @@ tags: [ grain,grain protein ]
 - **NCBI ID:** [100384417](https://www.ncbi.nlm.nih.gov/gene/?term=100384417)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain protein
 
 ## Sequences:

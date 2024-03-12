@@ -10,7 +10,7 @@ tags: [ growth ]
 - **Gene ID:**	[Ca_04558]()
 - **Gene Symbol:** CaTIFY4b
 - **Gene Name:** 
-- **Genome Version:** [CaGAv1.0]()
+- **Genome:** [CaGAv1.0]()
 - **Species:** *Cicer arietinum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth ]
 - **NCBI ID:** [OK572372](https://www.ncbi.nlm.nih.gov/gene/?term=OK572372)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth
 
 ## Sequences:

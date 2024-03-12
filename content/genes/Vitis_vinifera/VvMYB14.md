@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[VIT_207s0005g03340]()
 - **Gene Symbol:** VvMYB14
 - **Gene Name:** 
-- **Genome Version:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
+- **Genome:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

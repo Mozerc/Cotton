@@ -10,12 +10,12 @@ tags: [ leaf,shoot,floral,flowering ]
 - **Gene ID:**	[Zm00001eb057540]()
 - **Gene Symbol:** ZmMADS4;zmm4
 - **Gene Name:** Zea mays MADS4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - We show that dlf1 promotes maize floral transition by directly activating **ZmMADS4** and ZmMADS67 in the shoot apex, providing novel insights into the mechanism of maize floral transition.
-   - ZMM4 (**ZmMADS4**) was reported to act genetically downstream of dlf1 with its overexpression inducing early flowering and reverting the mutant phenotype of dlf1 to wild-type
+   - **zmm4** (**ZmMADS4**) was reported to act genetically downstream of dlf1 with its overexpression inducing early flowering and reverting the mutant phenotype of dlf1 to wild-type
    - **ZmMADS4** and ZmMADS67, were further verified and found to function as positive regulators of maize flowering.
    - Knocking out **ZmMADS4** and ZmMADS67 both increased leaf number and delayed flowering, indicating that they promote the floral transition.
 
@@ -30,7 +30,9 @@ tags: [ leaf,shoot,floral,flowering ]
 - **NCBI ID:** [542041](https://www.ncbi.nlm.nih.gov/gene/?term=542041)
 - **UniProt accessions:** [Q84V71](https://www.uniprot.org/uniprotkb/Q84V71/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,shoot,floral,flowering
 
 ## Sequences:

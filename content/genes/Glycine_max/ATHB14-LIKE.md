@@ -3,14 +3,14 @@ description: Glyma.05g166400 ; Glycine max
 meta_title:
 title: ATHB14-LIKE
 categories: [Glycine max]
-tags: [ ga, ga ,ga biosynthesis ]
+tags: [ ga,ga biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.05g166400]()
 - **Gene Symbol:** ATHB14-LIKE
 - **Gene Name:** 
-- **Genome Version:** [Wm82.a4.v1]()
+- **Genome:** [Wm82.a4.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ ga, ga ,ga biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ga, ga ,ga biosynthesis
+## Orthologs:
+
+## Keywords:
+ga,ga biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

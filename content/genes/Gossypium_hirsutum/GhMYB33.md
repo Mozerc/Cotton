@@ -10,7 +10,7 @@ tags: [ growth,resistance,defense,plant growth,height,plant height ]
 - **Gene ID:**	[Gh_D05G2713]()
 - **Gene Symbol:** GhMYB33
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ growth,resistance,defense,plant growth,height,plant height ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,resistance,defense,plant growth,height,plant height
 
 ## Sequences:

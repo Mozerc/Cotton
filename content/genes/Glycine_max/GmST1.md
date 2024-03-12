@@ -10,7 +10,7 @@ tags: [ resistance,resistant ]
 - **Gene ID:**	[Glyma.13G191400]()
 - **Gene Symbol:** GmST1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,resistant
 
 ## Sequences:

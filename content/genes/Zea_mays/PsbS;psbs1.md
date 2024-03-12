@@ -10,7 +10,7 @@ tags: [ defense ]
 - **Gene ID:**	[Zm00001eb146510]()
 - **Gene Symbol:** PsbS;psbs1
 - **Gene Name:** photosystem II subunit PsbS1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 defense
 
 ## Sequences:

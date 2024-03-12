@@ -10,7 +10,7 @@ tags: [ starch,endosperm,starch biosynthesis,amylose content ]
 - **Gene ID:**	[GRMZM2G423833]()
 - **Gene Symbol:** ZmMYB115
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ starch,endosperm,starch biosynthesis,amylose content ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,endosperm,starch biosynthesis,amylose content
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ cell wall,ubiquitin ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhKNL1
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ cell wall,ubiquitin ]
 - **NCBI ID:** [KC200250](https://www.ncbi.nlm.nih.gov/gene/?term=KC200250)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cell wall,ubiquitin
 
 ## Sequences:

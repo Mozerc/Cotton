@@ -1,16 +1,16 @@
 ---
 description: aldehyde dehydrogenase17 ; Zm00001eb248870 ; Zea mays
 meta_title:
-title: rf2e;aldh17
+title: Rf2e;aldh17
 categories: [Zea mays]
 tags: [ leaf,dehydrogenase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb248870]()
-- **Gene Symbol:** rf2e;aldh17
+- **Gene Symbol:** Rf2e;aldh17
 - **Gene Name:** aldehyde dehydrogenase17
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,dehydrogenase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,dehydrogenase
 
 ## Sequences:

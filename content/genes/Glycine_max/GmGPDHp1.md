@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.02G218700]()
 - **Gene Symbol:** GmGPDHp1
 - **Gene Name:** 
-- **Genome Version:** [Glycine max Wm82.a2.v1]()
+- **Genome:** [Glycine max Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

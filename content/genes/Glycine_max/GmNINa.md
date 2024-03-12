@@ -10,7 +10,7 @@ tags: [ stress,salt,salt stress,transcriptional regulator,node ]
 - **Gene ID:**	[Glyma.04G000600]()
 - **Gene Symbol:** GmNINa
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,salt,salt stress,transcriptional regulator,node ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,salt,salt stress,transcriptional regulator,node
 
 ## Sequences:

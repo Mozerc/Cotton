@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaEDR1-1A
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance ]
 - **NCBI ID:** [ AAU89661.2](https://www.ncbi.nlm.nih.gov/gene/?term= AAU89661.2)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

@@ -10,12 +10,12 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 - **Gene ID:**	[Zm00001eb256380]()
 - **Gene Symbol:** ZmGST24;ZmGSTU9;gst24
 - **Gene Name:** glutathione transferase24
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmGST24** suggest that the upregulated expression of antioxidant oxidase genes in PH4CV and B73 may be involved in inhibiting ROS-mediated leaf senescence under heat stress.
-   - **ZmGST24** is a antioxidant oxidase gene.
+   - **Zm**gst24**** suggest that the upregulated expression of antioxidant oxidase genes in PH4CV and B73 may be involved in inhibiting ROS-mediated leaf senescence under heat stress.
+   - **Zm**gst24**** is a antioxidant oxidase gene.
 
 ## Literature:
    - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
@@ -26,7 +26,9 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,stress,heat stress
 
 ## Sequences:

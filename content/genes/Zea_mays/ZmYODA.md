@@ -10,12 +10,12 @@ tags: [ development,kinase,endosperm,signaling pathway gene,endosperm developmen
 - **Gene ID:**	[GRMZM2G093316]()
 - **Gene Symbol:** ZmYODA
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - O11 is an activator of ZmYoda, suggesting its regulatory function through the MAPK pathway in endosperm development.
-   - O11 is a direct activator of the upstream MAPKK kinase gene ZmYoda, suggesting that its regulatory function in endosperm development occurs through MAPK signaling.
+   - O11 is an activator of **ZmYODA**, suggesting its regulatory function through the MAPK pathway in endosperm development.
+   - O11 is a direct activator of the upstream MAPKK kinase gene **ZmYODA**, suggesting that its regulatory function in endosperm development occurs through MAPK signaling.
    - **ZmYODA** might also be involved in ESR differentiation by regulating asymmetric cell divisions.
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ development,kinase,endosperm,signaling pathway gene,endosperm developmen
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,kinase,endosperm,signaling pathway gene,endosperm development
 
 ## Sequences:

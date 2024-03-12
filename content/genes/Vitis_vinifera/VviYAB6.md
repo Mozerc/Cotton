@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[VIT_202s0154g00070]()
 - **Gene Symbol:** VviYAB6
 - **Gene Name:** 
-- **Genome Version:** [genome assembly 12X.v2]()
+- **Genome:** [genome assembly 12X.v2]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ chloroplast,development,chloroplast development,chlorophyll ]
 - **Gene ID:**	[Solyc08g005010]()
 - **Gene Symbol:** SlRCM1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ chloroplast,development,chloroplast development,chlorophyll ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 chloroplast,development,chloroplast development,chlorophyll
 
 ## Sequences:

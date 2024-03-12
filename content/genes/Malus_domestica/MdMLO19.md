@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[MDP0000168714]()
 - **Gene Symbol:** MdMLO19
 - **Gene Name:** Mildew Locus O 19
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

@@ -10,13 +10,13 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 - **Gene ID:**	[Zm00001d022264]()
 - **Gene Symbol:** ZmPMP3;pmpm5;PMP3-5
 - **Gene Name:** proteolipid membrane potential regulator5
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - By comparing the biomass of three CRISPR/Cas9 mutants of ZmCLCg and one zmpmp3 EMS mutant with their wild-type plants under salt stress, the salt tolerance function of candidate genes ZmCLCg and **ZmPMP3** were confirmed.
+   - By comparing the biomass of three CRISPR/Cas9 mutants of ZmCLCg and one **ZmPMP3** EMS mutant with their wild-type plants under salt stress, the salt tolerance function of candidate genes ZmCLCg and **ZmPMP3** were confirmed.
    - The expression levels of ZmCLCg (GRMZM2G071119) and **ZmPMP3** (GRMZM2G477325) in shoot of B73 under salt stress were analysed. Results showed that ZmCLCg and **ZmPMP3** were responsive to salt stress in B73.
-   - The biomass of the zmpmp3 mutant and its wild type was determined under control and salt treatment. We observed that the zmpmp3 mutant showed significantly decreased root length, root fresh weight, shoot length and shoot fresh weight than the wild type under 100 mm NaCl condition.
+   - The biomass of the **ZmPMP3** mutant and its wild type was determined under control and salt treatment. We observed that the **ZmPMP3** mutant showed significantly decreased root length, root fresh weight, shoot length and shoot fresh weight than the wild type under 100 mm NaCl condition.
    - The **ZmPMP3** (GRMZM2G477325) was reported to regulate ion homeostasis in yeast mutant under salt stress.
 
 ## Literature:
@@ -30,7 +30,9 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 - **NCBI ID:** [100281012](https://www.ncbi.nlm.nih.gov/gene/?term=100281012)
 - **UniProt accessions:** [B4FFP9](https://www.uniprot.org/uniprotkb/B4FFP9/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeostasis,biomass,root length
 
 ## Sequences:

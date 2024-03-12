@@ -3,14 +3,14 @@ description: Zm00001eb223620 ; Zea mays
 meta_title:
 title: ZmJAZ15
 categories: [Zea mays]
-tags: [ resistance,ja,immunity, ja  ]
+tags: [ resistance,ja,immunity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb223620]()
 - **Gene Symbol:** ZmJAZ15
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ resistance,ja,immunity, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,ja,immunity, ja 
+## Orthologs:
+
+## Keywords:
+resistance,ja,immunity
 
 ## Sequences:
 - **CDS Sequence:**

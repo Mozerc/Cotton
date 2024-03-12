@@ -10,7 +10,7 @@ tags: [ detoxification ]
 - **Gene ID:**	[Zm00001eb397280]()
 - **Gene Symbol:** GSTZ5;gst61
 - **Gene Name:** glutathione S-transferase61
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ detoxification ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 detoxification
 
 ## Sequences:

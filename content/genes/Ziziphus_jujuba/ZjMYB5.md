@@ -10,7 +10,7 @@ tags: [ transcription factor ]
 - **Gene ID:**	[Zj.jz005919060]()
 - **Gene Symbol:** ZjMYB5
 - **Gene Name:** 
-- **Genome Version:** [“Junzao” reference genome]()
+- **Genome:** [“Junzao” reference genome]()
 - **Species:** *Ziziphus jujuba*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor
 
 ## Sequences:

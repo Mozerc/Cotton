@@ -10,7 +10,7 @@ tags: [ root,architecture,height,plant height,plant architecture,root architectu
 - **Gene ID:**	[GRMZM2G074267]()
 - **Gene Symbol:** ZmPIN1b
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,architecture,height,plant height,plant architecture,root architectu
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,architecture,height,plant height,plant architecture,root architecture
 
 ## Sequences:

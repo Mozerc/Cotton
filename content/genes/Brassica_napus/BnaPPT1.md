@@ -10,7 +10,7 @@ tags: [ chloroplast,growth,development,plant development,seed,plant growth,chlor
 - **Gene ID:**	[BnaA08g07320D]()
 - **Gene Symbol:** BnaPPT1
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ chloroplast,growth,development,plant development,seed,plant growth,chlor
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 chloroplast,growth,development,plant development,seed,plant growth,chloroplast development,seed development,seed growth
 
 ## Sequences:

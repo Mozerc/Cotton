@@ -10,7 +10,7 @@ tags: [ flower,pollen ]
 - **Gene ID:**	[Bo00578s070]()
 - **Gene Symbol:** boc04.dmp9
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** [B. oleracea reference genome]()
 - **Species:** *Brassica oleracea*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ flower,pollen ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flower,pollen
 
 ## Sequences:

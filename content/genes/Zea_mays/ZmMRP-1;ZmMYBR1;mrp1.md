@@ -10,7 +10,7 @@ tags: [ endosperm,transcriptional activator ]
 - **Gene ID:**	[Zm00001eb354390]()
 - **Gene Symbol:** ZmMRP-1;ZmMYBR1;mrp1
 - **Gene Name:** Myb related protein1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ endosperm,transcriptional activator ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 endosperm,transcriptional activator
 
 ## Sequences:

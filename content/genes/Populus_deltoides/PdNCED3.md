@@ -10,7 +10,7 @@ tags: [ root,aba,abscisic acid, aba  ]
 - **Gene ID:**	[Potri.001G393800]()
 - **Gene Symbol:** PdNCED3
 - **Gene Name:** 
-- **Genome Version:** [P. trichocarpa genome (V3.0)]()
+- **Genome:** [P. trichocarpa genome (V3.0)]()
 - **Species:** *Populus deltoides*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root,aba,abscisic acid, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,aba,abscisic acid, aba 
 
 ## Sequences:

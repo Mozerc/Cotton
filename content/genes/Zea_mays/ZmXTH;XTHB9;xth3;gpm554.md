@@ -10,7 +10,7 @@ tags: [ tolerance,aluminum,al tolerance,cell wall,aluminum tolerance,hydrolase ]
 - **Gene ID:**	[Zm00001eb414340]()
 - **Gene Symbol:** ZmXTH;XTHB9;xth3;gpm554
 - **Gene Name:** xyloglucan endo-transglycosylase/hydrolase3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ tolerance,aluminum,al tolerance,cell wall,aluminum tolerance,hydrolase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,aluminum,al tolerance,cell wall,aluminum tolerance,hydrolase
 
 ## Sequences:

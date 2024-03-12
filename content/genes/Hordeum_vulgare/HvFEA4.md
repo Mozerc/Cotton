@@ -10,7 +10,7 @@ tags: [ transcription factor,development,reproductive,reproductive development,p
 - **Gene ID:**	[HORVU7Hr1G042170]()
 - **Gene Symbol:** HvFEA4
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,development,reproductive,reproductive development,p
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,development,reproductive,reproductive development,phytohormone
 
 ## Sequences:

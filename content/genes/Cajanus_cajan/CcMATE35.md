@@ -10,7 +10,7 @@ tags: [ resistance,stress,transporter,stress response,al resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CcMATE35
 - **Gene Name:** 
-- **Genome Version:** [C.cajan_V1.0]()
+- **Genome:** [C.cajan_V1.0]()
 - **Species:** *Cajanus cajan*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,stress,transporter,stress response,al resistance ]
 - **NCBI ID:** [LOC109802225](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109802225)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,stress,transporter,stress response,al resistance
 
 ## Sequences:

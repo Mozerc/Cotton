@@ -10,7 +10,7 @@ tags: [ seed,seed weight ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** BnRRF
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,seed weight ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,seed weight
 
 ## Sequences:

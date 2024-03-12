@@ -1,16 +1,16 @@
 ---
 description: Homeobox-transcription factor 13 ; Zm00001eb325630 ; Zea mays
 meta_title:
-title: vrs1-like1(vrl1);hb13
+title: Vrs1-like1(vrl1);hb13
 categories: [Zea mays]
 tags: [ growth,floral ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb325630]()
-- **Gene Symbol:** vrs1-like1(vrl1);hb13
+- **Gene Symbol:** Vrs1-like1(vrl1);hb13
 - **Gene Name:** Homeobox-transcription factor 13
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ growth,floral ]
 - **NCBI ID:** [LOC100272993](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272993)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,floral
 
 ## Sequences:

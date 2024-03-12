@@ -10,7 +10,7 @@ tags: [ salt,tolerance,salt tolerance,autophagy ]
 - **Gene ID:**	[MD01G1226600]()
 - **Gene Symbol:** MdHB7-like
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ salt,tolerance,salt tolerance,autophagy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 salt,tolerance,salt tolerance,autophagy
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: MDP0000154855 ; Malus domestica
 meta_title:
 title: MdCIPK22
 categories: [Malus domestica]
-tags: [ aba, aba ,aba sensitivity ]
+tags: [ aba,aba sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000154855]()
 - **Gene Symbol:** MdCIPK22
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ aba, aba ,aba sensitivity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba, aba ,aba sensitivity
+## Orthologs:
+
+## Keywords:
+aba,aba sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

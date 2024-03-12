@@ -3,14 +3,14 @@ description: MDP0000157816 ; Malus domestica
 meta_title:
 title: MdBBX37
 categories: [Malus domestica]
-tags: [ leaf,leaf senescence,senescence,aba,ethylene,abscisic acid, aba  ]
+tags: [ leaf,leaf senescence,senescence,aba,ethylene,abscisic acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000157816]()
 - **Gene Symbol:** MdBBX37
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ leaf,leaf senescence,senescence,aba,ethylene,abscisic acid, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,leaf senescence,senescence,aba,ethylene,abscisic acid, aba 
+## Orthologs:
+
+## Keywords:
+leaf,leaf senescence,senescence,aba,ethylene,abscisic acid
 
 ## Sequences:
 - **CDS Sequence:**

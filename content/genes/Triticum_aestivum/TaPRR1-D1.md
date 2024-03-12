@@ -10,7 +10,7 @@ tags: [ grain,grain weight,height,heading date,plant height ]
 - **Gene ID:**	[TraesCS6D02G207100]()
 - **Gene Symbol:** TaPRR1-D1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,grain weight,height,heading date,plant height ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain weight,height,heading date,plant height
 
 ## Sequences:

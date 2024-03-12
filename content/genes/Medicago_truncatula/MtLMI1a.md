@@ -10,7 +10,7 @@ tags: [ leaf ]
 - **Gene ID:**	[Medtr1g061660]()
 - **Gene Symbol:** MtLMI1a
 - **Gene Name:** 
-- **Genome Version:** [M. truncatula Genome Project v4.0]()
+- **Genome:** [M. truncatula Genome Project v4.0]()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf
 
 ## Sequences:

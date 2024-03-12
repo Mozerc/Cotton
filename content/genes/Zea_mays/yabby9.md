@@ -1,20 +1,20 @@
 ---
 description: Zm00001eb220660 ; Zea mays
 meta_title:
-title: yabby9
+title: Yabby9
 categories: [Zea mays]
 tags: [ leaf,development,leaf development,leaf size ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb220660]()
-- **Gene Symbol:** yabby9
+- **Gene Symbol:** Yabby9
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - YABBY genes function in maize during leaf development, zea **yabby9** (zyb9) and zyb14 transcripts accumulate in lateral primordia in a pattern consistent with their association in establishing and/or maintaining leaf polarity.
+   - YABBY genes function in maize during leaf development, zea **Yabby9** (zyb9) and zyb14 transcripts accumulate in lateral primordia in a pattern consistent with their association in establishing and/or maintaining leaf polarity.
    - YABBY genes affects the angular size of maize leaves
 
 ## Literature:
@@ -26,7 +26,9 @@ tags: [ leaf,development,leaf development,leaf size ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,development,leaf development,leaf size
 
 ## Sequences:

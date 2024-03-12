@@ -10,7 +10,7 @@ tags: [ kinase,brassinosteroid,protein kinase ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdBIN2
 - **Gene Name:** Malus domestica BRASSINOSTEROID INSENSITIVE2
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ kinase,brassinosteroid,protein kinase ]
 - **NCBI ID:** [XM_008367819](https://www.ncbi.nlm.nih.gov/gene/?term=XM_008367819)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,brassinosteroid,protein kinase
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ leaf,shoot,floral,flowering ]
 - **Gene ID:**	[Zm00001eb327040]()
 - **Gene Symbol:** ZmMADS67;ZMM28
 - **Gene Name:** MADS-transcription factor 67
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ leaf,shoot,floral,flowering ]
 - **NCBI ID:** [542045](https://www.ncbi.nlm.nih.gov/gene/?term=542045)
 - **UniProt accessions:** [C0PA60](https://www.uniprot.org/uniprotkb/C0PA60/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,shoot,floral,flowering
 
 ## Sequences:

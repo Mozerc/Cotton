@@ -10,7 +10,7 @@ tags: [ transcription factor,drought,stress,drought stress,drought stress ,toler
 - **Gene ID:**	[]()
 - **Gene Symbol:** BnCOL2
 - **Gene Name:** BnCONSTANS-LIKE2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,drought,stress,drought stress,drought stress ,toler
 - **NCBI ID:** [LOC103249154](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103249154)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response
 
 ## Sequences:

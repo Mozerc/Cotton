@@ -10,13 +10,13 @@ tags: [ growth,development,seed,quality,endosperm,seed development,endosperm dev
 - **Gene ID:**	[TraesCS3D02G249100]()
 - **Gene Symbol:** TaFUSCA3-3D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
-   - TaFUSCA3 could participate in the growth and development of wheat and in endosperm development
+   - TaFUSCA3 could participate in the growth and development of wheat and in endosperm development.
    - Seed storage protein (SSP) genes
-   - The end-use quality of wheat, including its unique rheology and viscoelastic properties,
+   - The end-use quality of wheat, including its unique rheology and viscoelastic properties.
 
 ## Literature:
    - [Functional Characterization of TaFUSCA3, a B3-Superfamily Transcription Factor Gene in the Wheat.]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01133/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01133](https://www.frontiersin.org/articles/10.3389/fpls.2017.01133/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28702045](https://pubmed.ncbi.nlm.nih.gov/28702045/)
@@ -27,7 +27,9 @@ tags: [ growth,development,seed,quality,endosperm,seed development,endosperm dev
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,seed,quality,endosperm,seed development,endosperm development,seed growth
 
 ## Sequences:

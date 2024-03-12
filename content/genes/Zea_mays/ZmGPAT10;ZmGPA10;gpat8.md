@@ -10,7 +10,7 @@ tags: [ salt,cold ]
 - **Gene ID:**	[Zm00001eb159140]()
 - **Gene Symbol:** ZmGPAT10;ZmGPA10;gpat8
 - **Gene Name:** glycerol-3-phosphate acyltransferase8
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -18,7 +18,7 @@ tags: [ salt,cold ]
    - These results imply that ZmGPAT7 and **ZmGPAT10** might have the sn-2 acyltransferase activity as AtGPAT4 and AtGPAT6.
 
 ## Literature:
-   - [NA]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Characterization and expression analysis of GPAT gene family in maize]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -26,7 +26,9 @@ tags: [ salt,cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 salt,cold
 
 ## Sequences:

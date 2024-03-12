@@ -10,11 +10,11 @@ tags: [ fertility ]
 - **Gene ID:**	[Zm00001d007531]()
 - **Gene Symbol:** ZmRF5
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The maize CMS-C trait is regulated by the chimeric mitochondrial gene, atp6c, and can be recovered by the restorer gene ZmRf5.
+   - The maize CMS-C trait is regulated by the chimeric mitochondrial gene, atp6c, and can be recovered by the restorer gene **ZmRF5**.
    - **ZmRF5** cooperates with MORF8 and RS31A to restore CMS-C fertility in maize.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ fertility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility
 
 ## Sequences:

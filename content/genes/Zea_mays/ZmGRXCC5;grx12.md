@@ -3,14 +3,14 @@ description: glutaredoxin12 ; Zm00001eb121020 ; Zea mays
 meta_title:
 title: ZmGRXCC5;grx12
 categories: [Zea mays]
-tags: [ growth,resistance,drought,stress,drought stress,drought stress ,down-regulated genes,salinity,cold stress,cold,plant growth,salinity stress,drought resistance,heat stress ]
+tags: [ growth,resistance,drought,stress,drought stress,down-regulated genes,salinity,cold stress,cold,plant growth,salinity stress,drought resistance,heat stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb121020]()
 - **Gene Symbol:** ZmGRXCC5;grx12
 - **Gene Name:** glutaredoxin12
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ growth,resistance,drought,stress,drought stress,drought stress ,down-reg
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-growth,resistance,drought,stress,drought stress,drought stress ,down-regulated genes,salinity,cold stress,cold,plant growth,salinity stress,drought resistance,heat stress
+## Orthologs:
+
+## Keywords:
+growth,resistance,drought,stress,drought stress,down-regulated genes,salinity,cold stress,cold,plant growth,salinity stress,drought resistance,heat stress
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,breeding,metal transport,co
 - **Gene ID:**	[Zm00001eb166100]()
 - **Gene Symbol:** ZmLAC13;lac10
 - **Gene Name:** laccase10
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance,stress,tolerance,stress tolerance,breeding,metal transport,co
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,stress,tolerance,stress tolerance,breeding,metal transport,copper,lignin,heavy metal,glycoprotein
 
 ## Sequences:

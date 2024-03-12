@@ -10,7 +10,7 @@ tags: [ stress,salt,salt stress ]
 - **Gene ID:**	[MD12G1011500]()
 - **Gene Symbol:** MdCCX1
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stress,salt,salt stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,salt,salt stress
 
 ## Sequences:

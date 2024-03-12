@@ -10,7 +10,7 @@ tags: [ kinase,fertility,cell cycle,dna repair,meiotic ]
 - **Gene ID:**	[Zm00001d040166]()
 - **Gene Symbol:** ZmATM
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ kinase,fertility,cell cycle,dna repair,meiotic ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,fertility,cell cycle,dna repair,meiotic
 
 ## Sequences:

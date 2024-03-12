@@ -10,7 +10,7 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
 - **Gene ID:**	[]()
 - **Gene Symbol:** TabZIP60
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
 - **NCBI ID:** [KJ806560.1](https://www.ncbi.nlm.nih.gov/gene/?term=KJ806560.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root growth,grain growth,seedling growth
 
 ## Sequences:

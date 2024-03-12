@@ -10,7 +10,7 @@ tags: [ calli ]
 - **Gene ID:**	[MD15G1288600]()
 - **Gene Symbol:** MdMYB6
 - **Gene Name:** 
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ calli ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 calli
 
 ## Sequences:

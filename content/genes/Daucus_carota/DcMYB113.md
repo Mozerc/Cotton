@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[DCAR_008994]()
 - **Gene Symbol:** DcMYB113
 - **Gene Name:** 
-- **Genome Version:** [Daucus carota v2.0]()
+- **Genome:** [Daucus carota v2.0]()
 - **Species:** *Daucus carota*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [MK896875](https://www.ncbi.nlm.nih.gov/gene/?term=MK896875)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

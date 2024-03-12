@@ -10,7 +10,7 @@ tags: [ seed,vegetative ]
 - **Gene ID:**	[BnaC02g42260D]()
 - **Gene Symbol:** BnaC02.GTR2
 - **Gene Name:** 
-- **Genome Version:** [	Brassica_napus_v4.1]()
+- **Genome:** [	Brassica_napus_v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,vegetative ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,vegetative
 
 ## Sequences:

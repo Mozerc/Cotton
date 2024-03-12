@@ -10,7 +10,7 @@ tags: [ stress,pathogen,stress response,heat stress,heat stress response ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CaWRKY40
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,pathogen,stress response,heat stress,heat stress response ]
 - **NCBI ID:** [NM_001325081.1](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001325081.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,pathogen,stress response,heat stress,heat stress response
 
 ## Sequences:

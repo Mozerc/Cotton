@@ -10,7 +10,7 @@ tags: [ tolerance,aba, aba  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CaUBP12
 - **Gene Name:** Capsicum annuum ubiquitin-specific protease 12
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance,aba, aba  ]
 - **NCBI ID:** [PHT61989](https://www.ncbi.nlm.nih.gov/gene/?term=PHT61989)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,aba, aba 
 
 ## Sequences:

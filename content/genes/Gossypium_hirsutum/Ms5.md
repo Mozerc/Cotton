@@ -10,7 +10,7 @@ tags: [ development,anther,sterility,map-based cloning,sterile,anther developmen
 - **Gene ID:**	[Ghir_A12G012140]()
 - **Gene Symbol:** Ms5
 - **Gene Name:** 
-- **Genome Version:** [genome sequence of G. hirsutum cv. TM-1]()
+- **Genome:** [genome sequence of G. hirsutum cv. TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,anther,sterility,map-based cloning,sterile,anther developmen
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,anther,sterility,map-based cloning,sterile,anther development,male sterility
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdCRF4
 - **Gene Name:** Malus domestica CYTOKININ RESPONSE FACTOR4
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [NM_001328784.1](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001328784.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

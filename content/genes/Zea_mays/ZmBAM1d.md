@@ -10,7 +10,7 @@ tags: [ development,seed,seed weight,seed development ]
 - **Gene ID:**	[Zm00001eb009640]()
 - **Gene Symbol:** ZmBAM1d
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,seed,seed weight,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,seed weight,seed development
 
 ## Sequences:

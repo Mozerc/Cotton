@@ -3,14 +3,14 @@ description: Zm00001eb122980 ; Zea mays
 meta_title:
 title: ZmRAFS
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,salinity,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance,salinity stress,sucrose,heat tolerance,heat stress ]
+tags: [ drought,stress,drought stress,salinity,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance,salinity stress,sucrose,heat tolerance,heat stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb122980]()
 - **Gene Symbol:** ZmRAFS
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,salinity,tolerance,cold to
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,salinity,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance,salinity stress,sucrose,heat tolerance,heat stress
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,salinity,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance,salinity stress,sucrose,heat tolerance,heat stress
 
 ## Sequences:
 - **CDS Sequence:**

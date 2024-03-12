@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[SRP070731]()
 - **Gene Symbol:** CmERF110
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [AT5G50080.1](https://www.ncbi.nlm.nih.gov/gene/?term=AT5G50080.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

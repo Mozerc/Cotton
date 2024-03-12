@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhCYP82L2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [KY247145](https://www.ncbi.nlm.nih.gov/gene/?term=KY247145)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

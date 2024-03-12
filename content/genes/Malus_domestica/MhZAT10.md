@@ -3,14 +3,14 @@ description: MD08G1086500 ; Malus domestica
 meta_title:
 title: MhZAT10
 categories: [Malus domestica]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance ]
+tags: [ drought,stress,drought stress,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD08G1086500]()
 - **Gene Symbol:** MhZAT10
 - **Gene Name:** 
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,cold tolerance,c
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance
 
 ## Sequences:
 - **CDS Sequence:**

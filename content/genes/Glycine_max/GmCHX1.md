@@ -10,7 +10,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance ]
 - **Gene ID:**	[Glyma.03G171600]()
 - **Gene Symbol:** GmCHX1
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Genome:** [glyma.Wm82.gnm4.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance
 
 ## Sequences:

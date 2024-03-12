@@ -10,12 +10,12 @@ tags: [ resistance,cell wall,lignin ]
 - **Gene ID:**	[TraesCS4B02G385500]()
 - **Gene Symbol:** TaDIR-B1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - DIR gene in Physcomitrella patens was involved in the formation of lignin polymer to harden cell wall and improve the resistance capacity of cells to Colletotrichum gloeosporioides.
-   - **TaDIR-B1** gene was identified to be associated with FCR resistance, and its function was verified by VIGS and EMS-mutagenized wheat lines
+   - **TaDIR-B1** gene was identified to be associated with FCR resistance, and its function was verified by VIGS and EMS-mutagenized wheat lines.
 
 ## Literature:
    - [A loss-of-function of the dirigent gene TaDIR-B1 improves resistance to Fusarium crown rot in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13554)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13554](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13554)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33567136](https://pubmed.ncbi.nlm.nih.gov/33567136/)
@@ -27,7 +27,9 @@ tags: [ resistance,cell wall,lignin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,cell wall,lignin
 
 ## Sequences:

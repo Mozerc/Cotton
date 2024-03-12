@@ -10,7 +10,7 @@ tags: [ seedlings,chloroplast,down-regulated genes,photosynthesis,plastid,chloro
 - **Gene ID:**	[BnaC01g01100D]()
 - **Gene Symbol:** BnaC01.YCO
 - **Gene Name:** 
-- **Genome Version:** [Brassica_napus_v4.1]()
+- **Genome:** [Brassica_napus_v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seedlings,chloroplast,down-regulated genes,photosynthesis,plastid,chloro
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seedlings,chloroplast,down-regulated genes,photosynthesis,plastid,chloroplast biogenesis
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ ethylene,ethylene response ]
 - **Gene ID:**	[Gh_D13G2062]()
 - **Gene Symbol:** GhCKX3-1
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ ethylene,ethylene response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene,ethylene response
 
 ## Sequences:

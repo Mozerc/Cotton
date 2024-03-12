@@ -10,7 +10,7 @@ tags: [ dwarf ]
 - **Gene ID:**	[HORVU5Hr1G118820]()
 - **Gene Symbol:** MND8
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ dwarf ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 dwarf
 
 ## Sequences:

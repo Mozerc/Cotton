@@ -3,14 +3,14 @@ description: GRMZM2G383240 ; Zea mays
 meta_title:
 title: ZmCIPK8
 categories: [Zea mays]
-tags: [ kinase,drought,stress,drought stress,drought stress ,abiotic stress,protein kinase,stress response,drought stress response,drought response,abiotic stress response ]
+tags: [ kinase,drought,stress,drought stress,abiotic stress,protein kinase,stress response,drought stress response,drought response,abiotic stress response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G383240]()
 - **Gene Symbol:** ZmCIPK8
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ kinase,drought,stress,drought stress,drought stress ,abiotic stress,prot
    - **ZmCIPK8** is involved in maize response to drought stress.
 
 ## Literature:
-   - [NA]( https://link.springer.com/article/10.1007/s11240-015-0906-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11240-015-0906-0](https://link.springer.com/article/10.1007/s11240-015-0906-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [NA]( https://link.springer.com/article/10.1007/s11240-015-0906-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11240-015-0906-0](https://link.springer.com/article/10.1007/s11240-015-0906-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,8 +27,10 @@ tags: [ kinase,drought,stress,drought stress,drought stress ,abiotic stress,prot
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-kinase,drought,stress,drought stress,drought stress ,abiotic stress,protein kinase,stress response,drought stress response,drought response,abiotic stress response
+## Orthologs:
+
+## Keywords:
+kinase,drought,stress,drought stress,abiotic stress,protein kinase,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:
 - **CDS Sequence:**

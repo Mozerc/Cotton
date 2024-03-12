@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** LlHB16
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Lilium longiflorum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [OR711344](https://www.ncbi.nlm.nih.gov/gene/?term=OR711344)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

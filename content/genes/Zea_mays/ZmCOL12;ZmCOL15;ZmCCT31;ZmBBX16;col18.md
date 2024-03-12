@@ -10,7 +10,7 @@ tags: [ domestication ]
 - **Gene ID:**	[Zm00001eb233790]()
 - **Gene Symbol:** ZmCOL12;ZmCOL15;ZmCCT31;ZmBBX16;col18
 - **Gene Name:** C2C2-CO-like-transcription factor 18
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ domestication ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 domestication
 
 ## Sequences:

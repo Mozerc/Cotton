@@ -3,14 +3,14 @@ description: nitrate transport4 ; Zm00001eb079530 ; Zea mays
 meta_title:
 title: ZmNRT3.1B;nrt4
 categories: [Zea mays]
-tags: [ nitrogen,aba, aba  ]
+tags: [ nitrogen,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb079530]()
 - **Gene Symbol:** ZmNRT3.1B;nrt4
 - **Gene Name:** nitrate transport4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ nitrogen,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-nitrogen,aba, aba 
+## Orthologs:
+
+## Keywords:
+nitrogen,aba
 
 ## Sequences:
 - **CDS Sequence:**

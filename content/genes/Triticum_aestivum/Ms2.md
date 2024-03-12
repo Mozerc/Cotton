@@ -10,7 +10,7 @@ tags: [ anther,sterility,male sterility ]
 - **Gene ID:**	[TRIAE_CS42_4DS_TGACv1_361189_AA1163110]()
 - **Gene Symbol:** Ms2
 - **Gene Name:** 
-- **Genome Version:** [IWGSC RefSeq v1.0]()
+- **Genome:** [IWGSC RefSeq v1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ anther,sterility,male sterility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 anther,sterility,male sterility
 
 ## Sequences:

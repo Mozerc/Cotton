@@ -10,7 +10,7 @@ tags: [ grain,stems,grain yield,grain filling,yield,grain protein ]
 - **Gene ID:**	[Zm00001eb164380]()
 - **Gene Symbol:** ZmRCAα;rca3
 - **Gene Name:** RUBISCO activase3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,stems,grain yield,grain filling,yield,grain protein ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,stems,grain yield,grain filling,yield,grain protein
 
 ## Sequences:

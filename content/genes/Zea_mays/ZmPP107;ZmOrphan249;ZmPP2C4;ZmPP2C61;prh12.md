@@ -3,14 +3,14 @@ description: protein phosphatase homolog12 ; Zm00001eb294200 ; Zea mays
 meta_title:
 title: ZmPP107;ZmOrphan249
 categories: [Zea mays]
-tags: [ nitrogen,drought,stress,drought stress,drought stress ,salt,abiotic stress,salt stress,stress response,drought stress response,drought response,abiotic stress response ]
+tags: [ nitrogen,drought,stress,drought stress,salt,abiotic stress,salt stress,stress response,drought stress response,drought response,abiotic stress response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb294200]()
 - **Gene Symbol:** ZmPP107;ZmOrphan249;ZmPP2C4;ZmPP2C61;prh12
 - **Gene Name:** protein phosphatase homolog12
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ nitrogen,drought,stress,drought stress,drought stress ,salt,abiotic stre
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-nitrogen,drought,stress,drought stress,drought stress ,salt,abiotic stress,salt stress,stress response,drought stress response,drought response,abiotic stress response
+## Orthologs:
+
+## Keywords:
+nitrogen,drought,stress,drought stress,salt,abiotic stress,salt stress,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:
 - **CDS Sequence:**

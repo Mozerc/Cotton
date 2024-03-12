@@ -10,11 +10,11 @@ tags: [ root,growth,root growth,plant growth ]
 - **Gene ID:**	[Solyc09g082120.3.1]()
 - **Gene Symbol:** SLGlyI
 - **Gene Name:** 
-- **Genome Version:** [Tomato Genome version SL4.0]()
+- **Genome:** [Tomato Genome version SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - Al treatments induced MG accumulation in tomato root-tips, and inhibited tomato plant growth. The overexpression of the SlGlyI gene led to an increase in the glyoxalase system at protein and enzyme levels, and reduced the MG content under Al-treated conditions. The overexpression of SlGlyI gene helped to ameliorate, but not totally overcome, the Al-induced inhibitory effects on root growth from Al treatments.
+   - Al treatments induced MG accumulation in tomato root-tips, and inhibited tomato plant growth. The overexpression of the **SLGlyI** gene led to an increase in the glyoxalase system at protein and enzyme levels, and reduced the MG content under Al-treated conditions. The overexpression of **SLGlyI** gene helped to ameliorate, but not totally overcome, the Al-induced inhibitory effects on root growth from Al treatments.
 
 ## Literature:
    - [Al-induced proteomics changes in tomato plants over-expressing a glyoxalase I gene.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-020-0264-x/6445471?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41438-020-0264-x](https://academic.oup.com/hr/article/doi/10.1038/s41438-020-0264-x/6445471?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32257229](https://pubmed.ncbi.nlm.nih.gov/32257229/)
@@ -26,7 +26,9 @@ tags: [ root,growth,root growth,plant growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,root growth,plant growth
 
 ## Sequences:

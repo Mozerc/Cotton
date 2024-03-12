@@ -3,14 +3,14 @@ description: SnRK2 serine threonine protein kinase2 ; Zm00001eb327780 ; Zea mays
 meta_title:
 title: ZmSnRK2.2;ZmSnRK2.11
 categories: [Zea mays]
-tags: [ kinase,aba, aba  ]
+tags: [ kinase,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb327780]()
 - **Gene Symbol:** ZmSnRK2.2;ZmSnRK2.11;snrkII2
 - **Gene Name:** SnRK2 serine threonine protein kinase2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ kinase,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-kinase,aba, aba 
+## Orthologs:
+
+## Keywords:
+kinase,aba
 
 ## Sequences:
 - **CDS Sequence:**

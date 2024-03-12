@@ -10,7 +10,7 @@ tags: [ kinase,defense response,defense,protein kinase,receptor kinase ]
 - **Gene ID:**	[Solyc07g063000.3]()
 - **Gene Symbol:** Sl-PSKR2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ kinase,defense response,defense,protein kinase,receptor kinase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,defense response,defense,protein kinase,receptor kinase
 
 ## Sequences:

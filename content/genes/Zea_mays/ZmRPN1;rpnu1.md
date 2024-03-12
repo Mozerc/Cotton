@@ -10,7 +10,7 @@ tags: [ pollen,seed,plasma membrane ]
 - **Gene ID:**	[Zm00001eb394080]()
 - **Gene Symbol:** ZmRPN1;rpnu1
 - **Gene Name:** regulator of pollen number1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ pollen,seed,plasma membrane ]
 - **NCBI ID:** [100272380](https://www.ncbi.nlm.nih.gov/gene/?term=100272380)
 - **UniProt accessions:** [B4FNA8](https://www.uniprot.org/uniprotkb/B4FNA8/entry)&nbsp;,&nbsp;[B6TVS7](https://www.uniprot.org/uniprotkb/B6TVS7/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 pollen,seed,plasma membrane
 
 ## Sequences:

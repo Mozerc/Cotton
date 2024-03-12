@@ -10,7 +10,7 @@ tags: [ seedlings,resistance,homeostasis,dwarf,resistant ]
 - **Gene ID:**	[Zm00001eb172740]()
 - **Gene Symbol:** ZmABCB15
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seedlings,resistance,homeostasis,dwarf,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,resistance,homeostasis,dwarf,resistant
 
 ## Sequences:

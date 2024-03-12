@@ -10,11 +10,11 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
 - **Gene ID:**	[Zm00001eb404260]()
 - **Gene Symbol:** ZmHB133;RLD1
 - **Gene Name:** rolled leaf1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Altered expression of microRNA165/166 (miR165/166) and its targets, ROLLED1 and ROLLED2 (**RLD1**/2), contributed to the changes in lbl1-rgd1 root growth and vascular patterning, as was evident by the altered root phenotype of Rld1-O semi-dominant mutant.
+   - Altered expression of microRNA165/166 (miR165/166) and its targets, ROLLED1 and ROLLED2 (**RLD1**/2), contributed to the changes in lbl1-rgd1 root growth and vascular patterning, as was evident by the altered root phenotype of **RLD1**-O semi-dominant mutant.
    - Thus, LBL1/ta-siRNA module regulates root development, possibly by affecting auxin distribution and signalling, in crosstalk with miR165/166-**RLD1**/2 module. We further show that ZmLBL1 and its Arabidopsis homologue AtSGS3 proteins are functionally conserved.
    - We show that maize LBL1, which is involved in ta-siRNA biogenesis, regulates root growth and branching possibly by modulating phytohormone auxin and miR165/166-**RLD1**/2 module.
 
@@ -28,7 +28,9 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
 - **NCBI ID:** [LOC542515](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542515)
 - **UniProt accessions:** [A0S5W1](https://www.uniprot.org/uniprotkb/A0S5W1/entry)&nbsp;,&nbsp;[A0A096QGQ9](https://www.uniprot.org/uniprotkb/A0A096QGQ9/entry)&nbsp;,&nbsp;[A0A1D6JKQ5](https://www.uniprot.org/uniprotkb/A0A1D6JKQ5/entry)&nbsp;,&nbsp;[A0A1D6JKR4](https://www.uniprot.org/uniprotkb/A0A1D6JKR4/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,development,auxin,root development,root growth,branching,vascular development,phytohormone
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ seed,yield,architecture,plant architecture,flowering ]
 - **Gene ID:**	[BnaC03G0346100ZS]()
 - **Gene Symbol:** BnaC03.GF14nu
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,yield,architecture,plant architecture,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,yield,architecture,plant architecture,flowering
 
 ## Sequences:

@@ -26,7 +26,10 @@ tags: [ aba, aba ,aba biosynthesis ]
 - **NCBI ID:** [LOC110770187](https://www.ncbi.nlm.nih.gov/gene/?term=LOC110770187)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 aba, aba ,aba biosynthesis
 
 ## Sequences:

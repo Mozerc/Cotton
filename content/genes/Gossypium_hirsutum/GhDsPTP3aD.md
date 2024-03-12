@@ -10,7 +10,7 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 - **Gene ID:**	[Gh_D06G0680]()
 - **Gene Symbol:** GhDsPTP3aD
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,salinity,salt,tolerance,salt tolerance,salt stress,stress tolerance,salinity stress,stress response,phosphatase,protein phosphatase
 
 ## Sequences:

@@ -10,12 +10,12 @@ tags: [ growth,vegetative,meiotic,meiotic recombination,recombination ]
 - **Gene ID:**	[Zm00001eb388310]()
 - **Gene Symbol:** ZmCom1;com1
 - **Gene Name:** completion of meiotic recombination1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmCom1** Is Required for Both Mitotic and Meiotic Recombination in Maize.
-   - Zm**com1** mutant plants exhibited a number of vegetative phenotypes under normal growth condition, which may be partly attributed to mitotic aberrations including chromosomal fragmentation and anaphase bridges.
+   - **Zm**com1**** Is Required for Both Mitotic and Meiotic Recombination in Maize.
+   - **Zm**com1**** mutant plants exhibited a number of vegetative phenotypes under normal growth condition, which may be partly attributed to mitotic aberrations including chromosomal fragmentation and anaphase bridges.
 
 ## Literature:
    - [ZmCom1 Is Required for Both Mitotic and Meiotic Recombination in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2018.01005/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2018.01005](https://www.frontiersin.org/articles/10.3389/fpls.2018.01005/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30061907](https://pubmed.ncbi.nlm.nih.gov/30061907/)
@@ -27,7 +27,9 @@ tags: [ growth,vegetative,meiotic,meiotic recombination,recombination ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,vegetative,meiotic,meiotic recombination,recombination
 
 ## Sequences:

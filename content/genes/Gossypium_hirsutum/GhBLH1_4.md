@@ -10,7 +10,7 @@ tags: [ cell elongation ]
 - **Gene ID:**	[CotAD_48024]()
 - **Gene Symbol:** GhBLH1_4
 - **Gene Name:** 
-- **Genome Version:** [G. hirsutum genome]()
+- **Genome:** [G. hirsutum genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cell elongation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cell elongation
 
 ## Sequences:

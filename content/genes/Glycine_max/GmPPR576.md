@@ -10,7 +10,7 @@ tags: [ fertility,pollen,breeding,sterile,heterosis,pollen fertility ]
 - **Gene ID:**	[Glyma.16G161900]()
 - **Gene Symbol:** GmPPR576
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ fertility,pollen,breeding,sterile,heterosis,pollen fertility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility,pollen,breeding,sterile,heterosis,pollen fertility
 
 ## Sequences:

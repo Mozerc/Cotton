@@ -10,7 +10,7 @@ tags: [ seedlings,drought,stress,drought stress,drought stress ,tolerance,aba,dr
 - **Gene ID:**	[Zm00001eb028820]()
 - **Gene Symbol:** myb56;MYB59;ZmMYB48
 - **Gene Name:** MYB-transcription factor 56
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ seedlings,drought,stress,drought stress,drought stress ,tolerance,aba,dr
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seedlings,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba 
 
 ## Sequences:

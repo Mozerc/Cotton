@@ -3,14 +3,14 @@ description: Zm00001eb081200 ; Zea mays
 meta_title:
 title: ZmCRY1b;cry2
 categories: [Zea mays]
-tags: [ resistance,seedling,ga, ga ,lodging,lodging resistance,height,plant height ]
+tags: [ resistance,seedling,ga,lodging,lodging resistance,height,plant height ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb081200]()
 - **Gene Symbol:** ZmCRY1b;cry2;PZB00183
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,seedling,ga, ga ,lodging,lodging resistance,height,plant heig
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,seedling,ga, ga ,lodging,lodging resistance,height,plant height
+## Orthologs:
+
+## Keywords:
+resistance,seedling,ga,lodging,lodging resistance,height,plant height
 
 ## Sequences:
 - **CDS Sequence:**

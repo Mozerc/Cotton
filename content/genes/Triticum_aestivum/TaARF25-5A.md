@@ -10,7 +10,7 @@ tags: [ development,grain,grain size,auxin,auxin response,grain weight ]
 - **Gene ID:**	[TraesCS5A02G038300]()
 - **Gene Symbol:** TaARF25-5A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development,grain,grain size,auxin,auxin response,grain weight ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,grain size,auxin,auxin response,grain weight
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,tapetum,tapetum degeneration,sterile ]
 - **Gene ID:**	[Medtr4g094762]()
 - **Gene Symbol:** EAN1
 - **Gene Name:** Medicago truncatula empty anther1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,tapetum,tapetum degeneration,sterile ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,tapetum,tapetum degeneration,sterile
 
 ## Sequences:

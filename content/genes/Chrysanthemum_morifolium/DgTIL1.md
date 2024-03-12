@@ -10,7 +10,7 @@ tags: [ resistance,tolerance,cold tolerance,cold ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** DgTIL1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ resistance,tolerance,cold tolerance,cold ]
 - **NCBI ID:** [MT219513](https://www.ncbi.nlm.nih.gov/gene/?term=MT219513)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,tolerance,cold tolerance,cold
 
 ## Sequences:

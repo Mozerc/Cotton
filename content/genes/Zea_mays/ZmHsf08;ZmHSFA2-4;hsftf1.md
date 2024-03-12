@@ -3,14 +3,14 @@ description: HSF-transcription factor 1 ; Zm00001eb100770 ; Zea mays
 meta_title:
 title: ZmHsf08;ZmHSFA2-4
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,salt,aba,salt stress,abscisic acid,salt sensitivity, aba ,reactive oxygen species,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity ]
+tags: [ drought,stress,drought stress,salt,aba,salt stress,abscisic acid,salt sensitivity,reactive oxygen species,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb100770]()
 - **Gene Symbol:** ZmHsf08;ZmHSFA2-4;hsftf1
 - **Gene Name:** HSF-transcription factor 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,salt,aba,salt stress,absci
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,salt,aba,salt stress,abscisic acid,salt sensitivity, aba ,reactive oxygen species,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,salt,aba,salt stress,abscisic acid,salt sensitivity,reactive oxygen species,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

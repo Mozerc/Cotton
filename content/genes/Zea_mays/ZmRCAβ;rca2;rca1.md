@@ -10,7 +10,7 @@ tags: [ grain,grain yield,yield ]
 - **Gene ID:**	[Zm00001eb164390]()
 - **Gene Symbol:** ZmRCAβ;rca2;rca1
 - **Gene Name:** RUBISCO activase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,grain yield,yield ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain yield,yield
 
 ## Sequences:

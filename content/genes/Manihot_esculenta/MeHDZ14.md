@@ -10,7 +10,7 @@ tags: [ drought ]
 - **Gene ID:**	[Manes.01G242300]()
 - **Gene Symbol:** MeHDZ14
 - **Gene Name:** 
-- **Genome Version:** [ Manihot esculenta, v8.1]()
+- **Genome:** [ Manihot esculenta, v8.1]()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought
 
 ## Sequences:

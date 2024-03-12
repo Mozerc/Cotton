@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Ghir_A12G003840]()
 - **Gene Symbol:** GhMYB4
 - **Gene Name:** 
-- **Genome Version:** [TM-1 reference genome TM-1]()
+- **Genome:** [TM-1 reference genome TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [NP_001314278](https://www.ncbi.nlm.nih.gov/gene/?term=NP_001314278)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

@@ -1,21 +1,21 @@
 ---
 description: phytochromeB1 ; Zm00001eb014850 ; Zea mays
 meta_title:
-title: phyB1;pge(phyB1)
+title: PhyB1;pge(phyB1)
 categories: [Zea mays]
 tags: [ leaf,cuticle ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb014850]()
-- **Gene Symbol:** phyB1;pge(phyB1)
+- **Gene Symbol:** PhyB1;pge(phyB1)
 - **Gene Name:** phytochromeB1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Genetic analyses reveal that **phyB1** phyB2 double mutants of maize exhibit abnormal cuticle composition.
-   - The defects in alkane cuticle composition observed in the phyb1 phyb2 double mutants mirror the changes in alkane components of the cuticle as the leaf emerges from the whorl.
+   - Genetic analyses reveal that **PhyB1** phyB2 double mutants of maize exhibit abnormal cuticle composition.
+   - The defects in alkane cuticle composition observed in the **PhyB1** phyb2 double mutants mirror the changes in alkane components of the cuticle as the leaf emerges from the whorl.
 
 ## Literature:
    - [Transcriptomic network analyses shed light on the regulation of cuticle development in maize leaves.]( https://www.pnas.org/doi/full/10.1073/pnas.2004945117)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2004945117](https://www.pnas.org/doi/full/10.1073/pnas.2004945117)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32424100](https://pubmed.ncbi.nlm.nih.gov/32424100/)
@@ -27,7 +27,9 @@ tags: [ leaf,cuticle ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,cuticle
 
 ## Sequences:

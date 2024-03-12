@@ -10,7 +10,7 @@ tags: [ resistance,cell death ]
 - **Gene ID:**	[TraesCS7B02G441700]()
 - **Gene Symbol:** Pm5e
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ resistance,cell death ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,cell death
 
 ## Sequences:

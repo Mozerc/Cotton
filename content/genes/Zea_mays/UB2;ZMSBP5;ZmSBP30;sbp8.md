@@ -10,7 +10,7 @@ tags: [ development,inflorescence,inflorescence development ]
 - **Gene ID:**	[Zm00001eb035030]()
 - **Gene Symbol:** UB2;ZMSBP5;ZmSBP30;sbp8
 - **Gene Name:** unbranched2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ development,inflorescence,inflorescence development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,inflorescence,inflorescence development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ nitrate ]
 - **Gene ID:**	[MtrunA17_Chr4g0028551.1]()
 - **Gene Symbol:** MtNRT2.1
 - **Gene Name:** 
-- **Genome Version:** [M. truncatula genome v5.0 (https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/)]()
+- **Genome:** [M. truncatula genome v5.0 (https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/)]()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ nitrate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 nitrate
 
 ## Sequences:

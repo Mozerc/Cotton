@@ -3,14 +3,14 @@ description: TraesCS7A02G141300 ; Triticum aestivum
 meta_title:
 title: TaAVP1-7A
 categories: [Triticum aestivum]
-tags: [ drought,stress,drought stress,drought stress ,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,heat tolerance,heat stress ]
+tags: [ drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,heat tolerance,heat stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G141300]()
 - **Gene Symbol:** TaAVP1-7A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,salt,tolerance,drought tol
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,heat tolerance,heat stress
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,heat tolerance,heat stress
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ seed,seed weight,seed size,cell proliferation,organ size ]
 - **Gene ID:**	[Glyma.09G123600]()
 - **Gene Symbol:** GmJAZ3
 - **Gene Name:** Glycine max JASMONATE-ZIM DOMAIN 3
-- **Genome Version:** [Glycine max Wm82.a2.v1]()
+- **Genome:** [Glycine max Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed,seed weight,seed size,cell proliferation,organ size ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,seed weight,seed size,cell proliferation,organ size
 
 ## Sequences:

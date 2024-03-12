@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,defense response,defense,a
 - **Gene ID:**	[CA08g08290]()
 - **Gene Symbol:** CaRLP1
 - **Gene Name:** Capsicum annuum RCAR-Like Protein 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [ drought,stress,drought stress,drought stress ,defense response,defense,a
 - **NCBI ID:** [AKL90410](https://www.ncbi.nlm.nih.gov/gene/?term=AKL90410)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,defense response,defense,aba, aba ,stress response,drought stress response,drought response
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stress,tolerance,abiotic stress,stress tolerance,stress response,abiotic
 - **Gene ID:**	[Solyc12g008650.2]()
 - **Gene Symbol:** SlMIOX4
 - **Gene Name:** 
-- **Genome Version:** [tomato genome database (Solanaceae Genomics Network, http://solgenomics.net/)]()
+- **Genome:** [tomato genome database (Solanaceae Genomics Network, http://solgenomics.net/)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,tolerance,abiotic stress,stress tolerance,stress response,abiotic
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,tolerance,abiotic stress,stress tolerance,stress response,abiotic stress response
 
 ## Sequences:

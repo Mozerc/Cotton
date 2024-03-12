@@ -10,7 +10,7 @@ tags: [ development,pollen,anther,tapetum,pollen development,anther development,
 - **Gene ID:**	[Solyc11g068930]()
 - **Gene Symbol:** SlATG7
 - **Gene Name:** 
-- **Genome Version:** [reference tomato genome SL4.0]()
+- **Genome:** [reference tomato genome SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development,pollen,anther,tapetum,pollen development,anther development,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,pollen,anther,tapetum,pollen development,anther development,autophagy,tapetum degradation
 
 ## Sequences:

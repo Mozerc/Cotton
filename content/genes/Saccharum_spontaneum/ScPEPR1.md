@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [MN445188](https://www.ncbi.nlm.nih.gov/gene/?term=MN445188)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

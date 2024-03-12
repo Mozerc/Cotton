@@ -10,7 +10,7 @@ tags: [ immunity,sa, sa  ]
 - **Gene ID:**	[PGSC0003DMC400045325]()
 - **Gene Symbol:** StPTP1a
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum tuberosum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ immunity,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 immunity,sa, sa 
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: Zm00001eb390330 ; Zea mays
 meta_title:
 title: ZmMYC2b;bhlh91
 categories: [Zea mays]
-tags: [ resistance,jasmonate,ja, ja ,ja signaling ]
+tags: [ resistance,jasmonate,ja,ja signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb390330]()
 - **Gene Symbol:** ZmMYC2b;bhlh91
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ resistance,jasmonate,ja, ja ,ja signaling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,jasmonate,ja, ja ,ja signaling
+## Orthologs:
+
+## Keywords:
+resistance,jasmonate,ja,ja signaling
 
 ## Sequences:
 - **CDS Sequence:**

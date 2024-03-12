@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Pbr001646.1]()
 - **Gene Symbol:** PpbHLH64
 - **Gene Name:** 
-- **Genome Version:** [pear genome database available online (http://peargenome.njau.edu.cn)]()
+- **Genome:** [pear genome database available online (http://peargenome.njau.edu.cn)]()
 - **Species:** *Pyrus pyrifolia*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [XP_009348111.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_009348111.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

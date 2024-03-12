@@ -3,14 +3,14 @@ description: Solyc02g085360 ; Solanum lycopersicum
 meta_title:
 title: SlCYP90B3
 categories: [Solanum lycopersicum]
-tags: [ br,ethylene, br ,ethylene production ]
+tags: [ br,ethylene,ethylene production ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc02g085360]()
 - **Gene Symbol:** SlCYP90B3
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ br,ethylene, br ,ethylene production ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-br,ethylene, br ,ethylene production
+## Orthologs:
+
+## Keywords:
+br,ethylene,ethylene production
 
 ## Sequences:
 - **CDS Sequence:**

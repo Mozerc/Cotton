@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Ma03_g21920]()
 - **Gene Symbol:** MaMYB4
 - **Gene Name:** 
-- **Genome Version:** [banana A genome]()
+- **Genome:** [banana A genome]()
 - **Species:** *Musa acuminata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

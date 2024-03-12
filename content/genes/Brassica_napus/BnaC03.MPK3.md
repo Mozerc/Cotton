@@ -10,7 +10,7 @@ tags: [ organ size ]
 - **Gene ID:**	[Bna03g55440D]()
 - **Gene Symbol:** BnaC03.MPK3
 - **Gene Name:** 
-- **Genome Version:** [Brassica_napus_v4.1]()
+- **Genome:** [Brassica_napus_v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ organ size ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 organ size
 
 ## Sequences:

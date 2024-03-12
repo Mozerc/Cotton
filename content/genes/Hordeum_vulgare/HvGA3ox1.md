@@ -10,7 +10,7 @@ tags: [ seed,dormancy,seed dormancy ]
 - **Gene ID:**	[HORVU.MOREX.r3.2HG0208900]()
 - **Gene Symbol:** HvGA3ox1
 - **Gene Name:** 
-- **Genome Version:** [genome sequence of barley cv. Morex V3]()
+- **Genome:** [genome sequence of barley cv. Morex V3]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,dormancy,seed dormancy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,dormancy,seed dormancy
 
 ## Sequences:

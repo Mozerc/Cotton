@@ -3,14 +3,14 @@ description: Glyma.02G121600 ; Glycine max
 meta_title:
 title: GmAP1d
 categories: [Glycine max]
-tags: [ stem,floral,ga, ga ,height,plant height,flowering time,flowering,node ]
+tags: [ stem,floral,ga,height,plant height,flowering time,flowering,node ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.02G121600]()
 - **Gene Symbol:** GmAP1d
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ stem,floral,ga, ga ,height,plant height,flowering time,flowering,node ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stem,floral,ga, ga ,height,plant height,flowering time,flowering,node
+## Orthologs:
+
+## Keywords:
+stem,floral,ga,height,plant height,flowering time,flowering,node
 
 ## Sequences:
 - **CDS Sequence:**

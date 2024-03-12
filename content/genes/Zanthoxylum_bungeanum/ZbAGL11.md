@@ -26,6 +26,9 @@ tags: [ transcription factor ]
 - **NCBI ID:** [MT276586](https://www.ncbi.nlm.nih.gov/gene/?term=MT276586)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
+## Orthologs:
+
+
 ## Keywords:
 transcription factor
 

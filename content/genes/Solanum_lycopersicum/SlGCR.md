@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Solyc12g098370]()
 - **Gene Symbol:** SlGCR
 - **Gene Name:** G2-LIKE CAROTENOID REGULATOR
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

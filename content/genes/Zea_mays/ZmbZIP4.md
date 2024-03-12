@@ -3,14 +3,14 @@ description: GRMZM2G479760 ; Zea mays
 meta_title:
 title: ZmbZIP4
 categories: [Zea mays]
-tags: [ root,growth,development,resistance,plant development,stress,abiotic stress,aba,root development,root growth,plant growth, aba  ]
+tags: [ root,growth,development,resistance,plant development,stress,abiotic stress,aba,root development,root growth,plant growth ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G479760]()
 - **Gene Symbol:** ZmbZIP4
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ root,growth,development,resistance,plant development,stress,abiotic stre
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,growth,development,resistance,plant development,stress,abiotic stress,aba,root development,root growth,plant growth, aba 
+## Orthologs:
+
+## Keywords:
+root,growth,development,resistance,plant development,stress,abiotic stress,aba,root development,root growth,plant growth
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ transcription factor,flavonoid,transcription regulator,flavonoid biosynt
 - **Gene ID:**	[Solyc02g077790]()
 - **Gene Symbol:** SlERF.G3-like
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,flavonoid,transcription regulator,flavonoid biosynt
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,flavonoid,transcription regulator,flavonoid biosynthesis
 
 ## Sequences:

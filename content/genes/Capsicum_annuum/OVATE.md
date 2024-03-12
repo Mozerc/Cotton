@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Caz10g08850]()
 - **Gene Symbol:** OVATE
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

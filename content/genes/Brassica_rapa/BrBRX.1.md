@@ -10,7 +10,7 @@ tags: [ leaf ]
 - **Gene ID:**	[BraA09g033250.3C/Bra023219]()
 - **Gene Symbol:** BrBRX.1
 - **Gene Name:** 
-- **Genome Version:** [B. rapa reference genome (v1.5)]()
+- **Genome:** [B. rapa reference genome (v1.5)]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ leaf ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf
 
 ## Sequences:

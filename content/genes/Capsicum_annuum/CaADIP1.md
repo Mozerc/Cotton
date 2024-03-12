@@ -10,7 +10,7 @@ tags: [ drought,aba, aba ,phosphatase,protein phosphatase ]
 - **Gene ID:**	[CA03g35550]()
 - **Gene Symbol:** CaADIP1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ drought,aba, aba ,phosphatase,protein phosphatase ]
 - **NCBI ID:** [KM403424](https://www.ncbi.nlm.nih.gov/gene/?term=KM403424)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,aba, aba ,phosphatase,protein phosphatase
 
 ## Sequences:

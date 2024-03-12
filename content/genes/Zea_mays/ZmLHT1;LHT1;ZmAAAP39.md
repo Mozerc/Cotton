@@ -10,7 +10,7 @@ tags: [ nitrogen,plasma membrane,phosphate,phosphorus ]
 - **Gene ID:**	[Zm00001eb261440]()
 - **Gene Symbol:** ZmLHT1;LHT1;ZmAAAP39
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ nitrogen,plasma membrane,phosphate,phosphorus ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,plasma membrane,phosphate,phosphorus
 
 ## Sequences:

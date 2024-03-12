@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Solyc06g076400.2.1]()
 - **Gene Symbol:** SlPP2C3
 - **Gene Name:** 
-- **Genome Version:** [reference tomato genome (release SL2.50)]()
+- **Genome:** [reference tomato genome (release SL2.50)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

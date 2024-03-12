@@ -3,14 +3,14 @@ description: Zm00001d007240 ; Zea mays
 meta_title:
 title: ZmPRR37
 categories: [Zea mays]
-tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance, aba ,flowering,stress response ]
+tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,flowering,stress response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d007240]()
 - **Gene Symbol:** ZmPRR37
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance, a
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance, aba ,flowering,stress response
+## Orthologs:
+
+## Keywords:
+stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,flowering,stress response
 
 ## Sequences:
 - **CDS Sequence:**

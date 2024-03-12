@@ -10,7 +10,7 @@ tags: [ development,ubiquitin ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhHUB2-A
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,ubiquitin ]
 - **NCBI ID:** [XM_016856414](https://www.ncbi.nlm.nih.gov/gene/?term=XM_016856414)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,ubiquitin
 
 ## Sequences:

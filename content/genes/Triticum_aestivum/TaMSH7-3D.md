@@ -10,12 +10,12 @@ tags: [ fertility,pollen,meiotic,meiotic recombination,pollen fertility,recombin
 - **Gene ID:**	[TraesCS3D02G119400]()
 - **Gene Symbol:** TaMSH7-3D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - Ph2 encodes the mismatch repair protein MSH7-3D that inhibits wheat homoeologous recombination
-   - Tamsh7-3D reduces pollen viability but does not affect plant fertility
+   - **TaMSH7-3D** reduces pollen viability but does not affect plant fertility
    - **TaMSH7-3D** is expressed in anthers during meiotic prophase I
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ fertility,pollen,meiotic,meiotic recombination,pollen fertility,recombin
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility,pollen,meiotic,meiotic recombination,pollen fertility,recombination
 
 ## Sequences:

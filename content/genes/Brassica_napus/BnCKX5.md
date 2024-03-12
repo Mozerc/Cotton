@@ -10,7 +10,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,stress
 - **Gene ID:**	[BnaA02g05340D]()
 - **Gene Symbol:** BnCKX5
 - **Gene Name:** 
-- **Genome Version:** [ Brassica v4.1 (‘Darmor-bzh’) genome]()
+- **Genome:** [ Brassica v4.1 (‘Darmor-bzh’) genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,stress
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,stress response
 
 ## Sequences:

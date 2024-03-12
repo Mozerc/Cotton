@@ -10,7 +10,7 @@ tags: [ resistance,disease,disease resistance,resistant ]
 - **Gene ID:**	[Ma11_g13300.1]()
 - **Gene Symbol:** MusaENODL3
 - **Gene Name:** 
-- **Genome Version:** [anana genome A (Musa accuminata)]()
+- **Genome:** [anana genome A (Musa accuminata)]()
 - **Species:** *Musa acuminata*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ resistance,disease,disease resistance,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,disease,disease resistance,resistant
 
 ## Sequences:

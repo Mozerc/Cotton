@@ -10,7 +10,7 @@ tags: [ development,seed,yield,seed development ]
 - **Gene ID:**	[Glyma10g40820]()
 - **Gene Symbol:** GmSPX5
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ development,seed,yield,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,yield,seed development
 
 ## Sequences:

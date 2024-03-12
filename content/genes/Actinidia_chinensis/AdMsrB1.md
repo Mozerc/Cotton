@@ -10,7 +10,7 @@ tags: [ ethylene ]
 - **Gene ID:**	[Acc04318]()
 - **Gene Symbol:** AdMsrB1
 - **Gene Name:** 
-- **Genome Version:** [Actinidia chinensis (Red5)]()
+- **Genome:** [Actinidia chinensis (Red5)]()
 - **Species:** *Actinidia chinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene ]
 - **NCBI ID:** [NCBI_ID:](https://www.ncbi.nlm.nih.gov/gene/?term=NCBI_ID:)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene
 
 ## Sequences:

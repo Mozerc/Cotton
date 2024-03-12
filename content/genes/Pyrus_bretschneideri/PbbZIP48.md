@@ -10,7 +10,7 @@ tags: [ transcription factor,lignin,lignin biosynthesis ]
 - **Gene ID:**	[Pbr013209.1]()
 - **Gene Symbol:** PbbZIP48
 - **Gene Name:** 
-- **Genome Version:** [Pyrus bretschneideri v1.1]()
+- **Genome:** [Pyrus bretschneideri v1.1]()
 - **Species:** *Pyrus bretschneideri*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,lignin,lignin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,lignin,lignin biosynthesis
 
 ## Sequences:

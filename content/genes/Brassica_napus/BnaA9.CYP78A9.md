@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BnaA09g55530D]()
 - **Gene Symbol:** BnaA9.CYP78A9
 - **Gene Name:** 
-- **Genome Version:** [reference genome of Darmor]()
+- **Genome:** [reference genome of Darmor]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

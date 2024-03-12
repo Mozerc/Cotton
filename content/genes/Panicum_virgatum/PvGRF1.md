@@ -10,7 +10,7 @@ tags: [ height,plant height,lignin ]
 - **Gene ID:**	[Pavir.1NG528000]()
 - **Gene Symbol:** PvGRF1
 - **Gene Name:** 
-- **Genome Version:** [Panicum virgatum v4.1]()
+- **Genome:** [Panicum virgatum v4.1]()
 - **Species:** *Panicum virgatum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ height,plant height,lignin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 height,plant height,lignin
 
 ## Sequences:

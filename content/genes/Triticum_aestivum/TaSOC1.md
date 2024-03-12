@@ -10,7 +10,7 @@ tags: [ flowering time,flowering,vernalization ]
 - **Gene ID:**	[TraesCS4B02G346700]()
 - **Gene Symbol:** TaSOC1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ flowering time,flowering,vernalization ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering,vernalization
 
 ## Sequences:

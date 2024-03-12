@@ -3,14 +3,14 @@ description: TraesCS2A03G1246300 ; Triticum aestivum
 meta_title:
 title: TaPI4K-2A
 categories: [Triticum aestivum]
-tags: [ aba, aba  ]
+tags: [ aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A03G1246300]()
 - **Gene Symbol:** TaPI4K-2A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba, aba 
+## Orthologs:
+
+## Keywords:
+aba
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ root,stress,tolerance,stress tolerance,al tolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MsDHN1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Medicago sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root,stress,tolerance,stress tolerance,al tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,stress,tolerance,stress tolerance,al tolerance
 
 ## Sequences:

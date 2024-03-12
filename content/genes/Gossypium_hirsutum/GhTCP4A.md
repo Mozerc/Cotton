@@ -10,7 +10,7 @@ tags: [ transcription factor,cell elongation ]
 - **Gene ID:**	[GH_A04G0407]()
 - **Gene Symbol:** GhTCP4A
 - **Gene Name:** 
-- **Genome Version:** [G. hirsutum (AD1) “TM-1” genome CRI_v1]()
+- **Genome:** [G. hirsutum (AD1) “TM-1” genome CRI_v1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,cell elongation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,cell elongation
 
 ## Sequences:

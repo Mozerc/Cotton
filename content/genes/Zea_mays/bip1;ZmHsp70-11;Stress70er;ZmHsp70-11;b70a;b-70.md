@@ -10,7 +10,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,er stress,heat stress ]
 - **Gene ID:**	[Zm00001eb229930]()
 - **Gene Symbol:** bip1;ZmHsp70-11;Stress70er;ZmHsp70-11;b70a;b-70
 - **Gene Name:** Binding protein homolog1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,er stress,heat stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,tolerance,stress tolerance,heat tolerance,er stress,heat stress
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ embryo,endosperm,sucrose,sucrose transport ]
 - **Gene ID:**	[Zm00001d018527]()
 - **Gene Symbol:** ZmSUT4
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ embryo,endosperm,sucrose,sucrose transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 embryo,endosperm,sucrose,sucrose transport
 
 ## Sequences:

@@ -10,16 +10,16 @@ tags: [ root,resistance ]
 - **Gene ID:**	[TraesCS7B02G130300]()
 - **Gene Symbol:** TaTLP1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
-   - Overexpression of **TaTLP1** in wheat confers resistance to CRR
+   - Overexpression of **TaTLP1** in wheat confers resistance to CRR.
    - **TaTLP1**-OE lines exhibit resistance to common root rot.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514121000891?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.021](https://www.sciencedirect.com/science/article/pii/S2214514121000891?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514123000569)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.04.006](https://www.sciencedirect.com/science/article/pii/S2214514123000569)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Transgenic expression of TaTLP1, a thaumatin-like protein gene, reduces susceptibility to common root rot and leaf rust in wheat]( https://www.sciencedirect.com/science/article/pii/S2214514121000891?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.021](https://www.sciencedirect.com/science/article/pii/S2214514121000891?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Puccinia triticina effector protein Pt_21 interacts with wheat thaumatin-like protein TaTLP1 to inhibit its antifungal activity and suppress wheat apoplast immunity]( https://www.sciencedirect.com/science/article/pii/S2214514123000569)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.04.006](https://www.sciencedirect.com/science/article/pii/S2214514123000569)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | 类甜蛋白基因TaTLP1过表达提高小麦抗病性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247514293&idx=4&sn=19b0fe3074ccf16b5698f8a746643080&chksm=ce9015e0f9e79cf66cecbc70bcb951cbb5ade012424b4f7a4a919db811e6c514174b35680502&scene=27#wechat_redirect)
@@ -29,7 +29,9 @@ tags: [ root,resistance ]
 - **NCBI ID:** [KJ764822](https://www.ncbi.nlm.nih.gov/gene/?term=KJ764822)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,resistance
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** FaMYB10
 - **Gene Name:** 
-- **Genome Version:** [FAN (F. x ananassa)]()
+- **Genome:** [FAN (F. x ananassa)]()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [MG456859](https://www.ncbi.nlm.nih.gov/gene/?term=MG456859)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

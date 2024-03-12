@@ -10,7 +10,7 @@ tags: [ quality,breeding ]
 - **Gene ID:**	[BraA08g039305E]()
 - **Gene Symbol:** CRA8.2.4
 - **Gene Name:** 
-- **Genome Version:** [ECD04 genome]()
+- **Genome:** [ECD04 genome]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ quality,breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 quality,breeding
 
 ## Sequences:

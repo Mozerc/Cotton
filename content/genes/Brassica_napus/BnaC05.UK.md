@@ -10,7 +10,7 @@ tags: [ seed,flavonoid,flavonoid metabolism ]
 - **Gene ID:**	[BnaC05g43050D]()
 - **Gene Symbol:** BnaC05.UK
 - **Gene Name:** 
-- **Genome Version:** [B. napus genome (B. napus v4.1, http://www.genoscope.cns.fr/brassicanapus/)]()
+- **Genome:** [B. napus genome v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,flavonoid,flavonoid metabolism ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,flavonoid,flavonoid metabolism
 
 ## Sequences:

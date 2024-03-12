@@ -10,7 +10,7 @@ tags: [ resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resis
 - **Gene ID:**	[Zm00001eb054240]()
 - **Gene Symbol:** ZmBGLU17
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resis
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resistance
 
 ## Sequences:

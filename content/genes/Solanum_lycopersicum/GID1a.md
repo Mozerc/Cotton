@@ -3,14 +3,14 @@ description: Solyc01g098390 ; Solanum lycopersicum
 meta_title:
 title: GID1a
 categories: [Solanum lycopersicum]
-tags: [ ga, ga  ]
+tags: [ ga ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc01g098390]()
 - **Gene Symbol:** GID1a
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ ga, ga  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ga, ga 
+## Orthologs:
+
+## Keywords:
+ga
 
 ## Sequences:
 - **CDS Sequence:**

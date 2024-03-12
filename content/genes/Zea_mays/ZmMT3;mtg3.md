@@ -10,7 +10,7 @@ tags: [ immunity,cell death,plant immunity ]
 - **Gene ID:**	[Zm00001d023090]()
 - **Gene Symbol:** ZmMT3;mtg3
 - **Gene Name:** mexicana lesion mimic target gene3
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ immunity,cell death,plant immunity ]
 - **NCBI ID:** [LOC111590394](https://www.ncbi.nlm.nih.gov/gene/?term=LOC111590394)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 immunity,cell death,plant immunity
 
 ## Sequences:

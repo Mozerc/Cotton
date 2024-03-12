@@ -10,7 +10,7 @@ tags: [ defense response,defense ]
 - **Gene ID:**	[Zm00001eb409970]()
 - **Gene Symbol:** ZmVPS23L;vpsl23
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ defense response,defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 defense response,defense
 
 ## Sequences:

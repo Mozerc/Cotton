@@ -3,20 +3,20 @@ description: MEK homolog1 ; Zm00001eb154530 ; Zea mays
 meta_title:
 title: ZmMEK1;mek1
 categories: [Zea mays]
-tags: [ seedlings,kinase,stems,aba,salicylic acid,abscisic acid,protein kinase, aba ,sa, sa  ]
+tags: [ seedlings,kinase,stems,aba,salicylic acid,abscisic acid,protein kinase,sa ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb154530]()
 - **Gene Symbol:** ZmMEK1;mek1
 - **Gene Name:** MEK homolog1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmMEK1** was induced by PEG, abscisic acid (ABA), and salicylic acid (SA) and was down-regulated by NaCl.
+   - **Zm**mek1**** was induced by PEG, abscisic acid (ABA), and salicylic acid (SA) and was down-regulated by NaCl.
    - Mitogen-activated protein kinase (MAPK) cascade constitutes a conserved signaling module in eukaryotes. MAPK kinase (MAPKK) plays a crucial role in a MAPK cascade.
-   - **ZmMEK1** mRNA was most abundant in the primary roots and coleoptiles of maize seedlings and moderate amounts of **ZmMEK1** mRNA are present in mature stems.
+   - **Zm**mek1**** mRNA was most abundant in the primary roots and coleoptiles of maize seedlings and moderate amounts of **Zm**mek1**** mRNA are present in mature stems.
 
 ## Literature:
    - [Maize ZmMEK1 is a single-copy gene.]( https://link.springer.com/article/10.1007/s11033-011-1057-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-011-1057-y](https://link.springer.com/article/10.1007/s11033-011-1057-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21691709](https://pubmed.ncbi.nlm.nih.gov/21691709/)
@@ -27,8 +27,10 @@ tags: [ seedlings,kinase,stems,aba,salicylic acid,abscisic acid,protein kinase, 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-seedlings,kinase,stems,aba,salicylic acid,abscisic acid,protein kinase, aba ,sa, sa 
+## Orthologs:
+
+## Keywords:
+seedlings,kinase,stems,aba,salicylic acid,abscisic acid,protein kinase,sa
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ stress,oxidative stress,tolerance,oxidative,stress tolerance ]
 - **Gene ID:**	[Zm00001eb376640]()
 - **Gene Symbol:** ZmMPK5;mpk2;MPK6
 - **Gene Name:** MAP kinase2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ stress,oxidative stress,tolerance,oxidative,stress tolerance ]
 - **NCBI ID:** [AB016802.1](https://www.ncbi.nlm.nih.gov/gene/?term=AB016802.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,oxidative stress,tolerance,oxidative,stress tolerance
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ flowering time,internode length,flowering ]
 - **Gene ID:**	[Glyma.02G304700]()
 - **Gene Symbol:** GmHY2a
 - **Gene Name:** 
-- **Genome Version:** [Glycine max Wm82.a2.v1 reference genome (https://phytozome-next.jgi.doe.gov/)]()
+- **Genome:** [Glycine max Wm82.a2.v1 reference genome (https://phytozome-next.jgi.doe.gov/)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ flowering time,internode length,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,internode length,flowering
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ development,grain,grain size,grain yield,yield,cell division,breeding,ce
 - **Gene ID:**	[TraesCS3A01G212900LC]()
 - **Gene Symbol:** TaGS5-3A
 - **Gene Name:** 
-- **Genome Version:** [IWGSC Refseq v1.0]()
+- **Genome:** [IWGSC Refseq v1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,grain,grain size,grain yield,yield,cell division,breeding,ce
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,grain size,grain yield,yield,cell division,breeding,cell cycle
 
 ## Sequences:

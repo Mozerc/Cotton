@@ -10,7 +10,7 @@ tags: [ development,grain,grain size,seed,grain yield,yield,grain weight,seed we
 - **Gene ID:**	[TraesCS1B02G112900]()
 - **Gene Symbol:** TaPGS1-1B-1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,grain,grain size,seed,grain yield,yield,grain weight,seed we
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,grain size,seed,grain yield,yield,grain weight,seed weight,seed size,seed development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,senescence,shattering ]
 - **Gene ID:**	[Bna.A05g08020D]()
 - **Gene Symbol:** Bna.A05ABI5
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome v3.0 (http://brassicadb.org/brad/)]()
+- **Genome:** [B. napus reference genome v3.0]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,senescence,shattering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,senescence,shattering
 
 ## Sequences:

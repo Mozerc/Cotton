@@ -10,7 +10,7 @@ tags: [ transcription factor,development,flower,flower development,transcription
 - **Gene ID:**	[CMiso1.1chr05g0123221]()
 - **Gene Symbol:** CmWIP1
 - **Gene Name:** 
-- **Genome Version:** [Melon (Charmono) v1.1]()
+- **Genome:** [Melon (Charmono) v1.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,development,flower,flower development,transcription
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,development,flower,flower development,transcription regulator
 
 ## Sequences:

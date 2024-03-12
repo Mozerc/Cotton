@@ -10,7 +10,7 @@ tags: [ ethylene,cytokinin,ethylene response,cytokinin response ]
 - **Gene ID:**	[Gh_D06G0733]()
 - **Gene Symbol:** GhCKX3
 - **Gene Name:** 
-- **Genome Version:** [cotton genome (G. hirsutum TM-1 (AD)1)]()
+- **Genome:** [cotton genome (G. hirsutum TM-1 (AD)1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene,cytokinin,ethylene response,cytokinin response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene,cytokinin,ethylene response,cytokinin response
 
 ## Sequences:

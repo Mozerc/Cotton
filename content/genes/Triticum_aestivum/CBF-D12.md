@@ -10,7 +10,7 @@ tags: [ cold ]
 - **Gene ID:**	[TraesCS5D02G318500]()
 - **Gene Symbol:** CBF-D12
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cold
 
 ## Sequences:

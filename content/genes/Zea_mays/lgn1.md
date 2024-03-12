@@ -3,14 +3,14 @@ description: Liguleless narrow1 ; GRMZM2G134382 ; Zea mays
 meta_title:
 title: LGN1
 categories: [Zea mays]
-tags: [ leaf,growth,development,kinase,leaf development,inflorescence,branching,leaf angle,inflorescence development,leaf patterning ]
+tags: [ leaf,growth,development,kinase,leaf development,inflorescence,branching,leaf angle,inflorescence development,leaf patterning,narrow leaf ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G134382]()
 - **Gene Symbol:** LGN1
 - **Gene Name:** Liguleless narrow1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ leaf,growth,development,kinase,leaf development,inflorescence,branching,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,growth,development,kinase,leaf development,inflorescence,branching,leaf angle,inflorescence development,leaf patterning
+## Orthologs:
+
+## Keywords:
+leaf,growth,development,kinase,leaf development,inflorescence,branching,leaf angle,inflorescence development,leaf patterning,narrow leaf
 
 ## Sequences:
 - **CDS Sequence:**

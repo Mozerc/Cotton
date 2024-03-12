@@ -10,7 +10,7 @@ tags: [ jasmonate,defense ]
 - **Gene ID:**	[Zm00001eb087540]()
 - **Gene Symbol:** ZmJAZ10;TIFY14;zim8
 - **Gene Name:** ZIM-transcription factor 8
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ jasmonate,defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 jasmonate,defense
 
 ## Sequences:

@@ -3,19 +3,19 @@ description: Solyc10g078990 ; Solanum lycopersicum
 meta_title:
 title: HL
 categories: [Solanum lycopersicum]
-tags: [ transcription factor,ja, ja  ]
+tags: [ transcription factor,ja ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc10g078990]()
 - **Gene Symbol:** HL
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
    - H/**HL** is essential for JA-triggered trichome formation.
-   - h/hl double mutant displayed more severe trichome defects in all tissues.
+   - h/**HL** double mutant displayed more severe trichome defects in all tissues.
    - In the presence of JA, high H/**HL** activity represses the expression of THM1, an R2R3 MYB transcription factor that negatively regulates trichome formation.
 
 ## Literature:
@@ -28,8 +28,10 @@ tags: [ transcription factor,ja, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,ja, ja 
+## Orthologs:
+
+## Keywords:
+transcription factor,ja
 
 ## Sequences:
 - **CDS Sequence:**

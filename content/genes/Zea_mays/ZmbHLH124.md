@@ -3,14 +3,14 @@ description: bHLH-transcription factor 124 ; Zm00001eb284130 ; Zea mays
 meta_title:
 title: ZmbHLH124
 categories: [Zea mays]
-tags: [ transcription factor,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,reproductive ]
+tags: [ transcription factor,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,reproductive ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb284130]()
 - **Gene Symbol:** ZmbHLH124
 - **Gene Name:** bHLH-transcription factor 124
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,8 +32,10 @@ tags: [ transcription factor,drought,stress,drought stress,drought stress ,toler
 - **NCBI ID:** [103630140](https://www.ncbi.nlm.nih.gov/gene/?term=103630140)
 - **UniProt accessions:** [K7UR97](https://www.uniprot.org/uniprotkb/K7UR97/entry)
 
-## Related Phenotypes:
-transcription factor,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,reproductive
+## Orthologs:
+
+## Keywords:
+transcription factor,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,reproductive
 
 ## Sequences:
 - **CDS Sequence:**

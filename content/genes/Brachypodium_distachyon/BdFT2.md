@@ -10,7 +10,7 @@ tags: [ flowering ]
 - **Gene ID:**	[Bradi2g07070]()
 - **Gene Symbol:** BdFT2
 - **Gene Name:** FLOWERING LOCUS T2
-- **Genome Version:** [B. distachyon accession Bd21]()
+- **Genome:** [B. distachyon accession Bd21]()
 - **Species:** *Brachypodium distachyon*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flowering
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ leaf,transcription factor,development,leaf development,transcription reg
 - **Gene ID:**	[Zm00001eb068900]()
 - **Gene Symbol:** ZmILI1;ZmbHLH197
 - **Gene Name:** increased leaf inclination1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -31,7 +31,9 @@ tags: [ leaf,transcription factor,development,leaf development,transcription reg
 - **NCBI ID:** [103645865](https://www.ncbi.nlm.nih.gov/gene/?term=103645865)
 - **UniProt accessions:** [A0A1D6DWS9](https://www.uniprot.org/uniprotkb/A0A1D6DWS9/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,transcription factor,development,leaf development,transcription regulator,leaf angle
 
 ## Sequences:

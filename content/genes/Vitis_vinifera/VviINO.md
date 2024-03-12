@@ -10,7 +10,7 @@ tags: [ development,seed,ovule,seed development ]
 - **Gene ID:**	[VIT_201s0127g00330]()
 - **Gene Symbol:** VviINO
 - **Gene Name:** 
-- **Genome Version:** [genome assembly 12X.v2]()
+- **Genome:** [genome assembly 12X.v2]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,seed,ovule,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,seed,ovule,seed development
 
 ## Sequences:

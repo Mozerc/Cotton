@@ -10,7 +10,7 @@ tags: [ auxin ]
 - **Gene ID:**	[Cs3g23950]()
 - **Gene Symbol:** CsMYB77
 - **Gene Name:** 
-- **Genome Version:** [Citrus Pan-genome to Breeding Database (http://citrus.hzau.edu.cn/) ]()
+- **Genome:** [Citrus Pan-genome to Breeding Database (http://citrus.hzau.edu.cn/) ]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ auxin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin
 
 ## Sequences:

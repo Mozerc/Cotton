@@ -10,7 +10,7 @@ tags: [ lignin,lignin biosynthesis ]
 - **Gene ID:**	[VIT_11s0016g02610]()
 - **Gene Symbol:** VvCCoAOMT
 - **Gene Name:** 
-- **Genome Version:** [V. vinifera reference genome (http://plants.ensembl.org/index.html)]()
+- **Genome:** [V. vinifera reference genome (http://plants.ensembl.org/index.html)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ lignin,lignin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 lignin,lignin biosynthesis
 
 ## Sequences:

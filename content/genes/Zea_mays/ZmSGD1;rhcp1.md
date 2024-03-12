@@ -10,7 +10,7 @@ tags: [ grain,grain length,grain size,panicle,grain number,grain yield,yield,pan
 - **Gene ID:**	[Zm00001eb216620]()
 - **Gene Symbol:** ZmSGD1;rhcp1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,grain length,grain size,panicle,grain number,grain yield,yield,pan
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain length,grain size,panicle,grain number,grain yield,yield,panicle size,grain weight,ubiquitin,panicle length
 
 ## Sequences:

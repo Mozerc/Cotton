@@ -10,7 +10,7 @@ tags: [ growth,development,plant development,plant growth,height,plant height ]
 - **Gene ID:**	[TraesCS5D02G216900]()
 - **Gene Symbol:** TaDEP1-5D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ growth,development,plant development,plant growth,height,plant height ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,plant development,plant growth,height,plant height
 
 ## Sequences:

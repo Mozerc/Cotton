@@ -10,7 +10,7 @@ tags: [ development,inflorescence,inflorescence development ]
 - **Gene ID:**	[Zm00001d036425]()
 - **Gene Symbol:** si1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development,inflorescence,inflorescence development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,inflorescence,inflorescence development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ breeding,fe ]
 - **Gene ID:**	[Ghir_A05G040150]()
 - **Gene Symbol:** GhACT1
 - **Gene Name:** 
-- **Genome Version:** [TM-1 genome (HAU-AD1_genome_v1.0_v1.1)]()
+- **Genome:** [TM-1 genome (HAU-AD1_genome_v1.0_v1.1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ breeding,fe ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 breeding,fe
 
 ## Sequences:

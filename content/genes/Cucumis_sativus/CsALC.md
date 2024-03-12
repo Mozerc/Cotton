@@ -10,7 +10,7 @@ tags: [ development,auxin,fertility,sterility,cell wall,female sterility,carpel 
 - **Gene ID:**	[Csa2G356640]()
 - **Gene Symbol:** CsALC
 - **Gene Name:** ALCATRAZ
-- **Genome Version:** [Cucumber (Chinese Long) v2 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,auxin,fertility,sterility,cell wall,female sterility,carpel 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,auxin,fertility,sterility,cell wall,female sterility,carpel differentiation
 
 ## Sequences:

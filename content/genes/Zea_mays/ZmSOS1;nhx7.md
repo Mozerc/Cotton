@@ -10,7 +10,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance,breeding ]
 - **Gene ID:**	[Zm00001eb033240]()
 - **Gene Symbol:** ZmSOS1;nhx7
 - **Gene Name:** Na+/H+ antiporter 7
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ root,shoot,salt,tolerance,salt tolerance,breeding ]
 - **NCBI ID:** [LOC100383969](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383969)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,shoot,salt,tolerance,salt tolerance,breeding
 
 ## Sequences:

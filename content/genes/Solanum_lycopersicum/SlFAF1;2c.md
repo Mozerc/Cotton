@@ -10,11 +10,11 @@ tags: [ flowering ]
 - **Gene ID:**	[Solyc09g065140]()
 - **Gene Symbol:** SlFAF1;2c
 - **Gene Name:** FANTASTIC FOUR 1/2c
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - **SlFAF1**/**2c** also positively regulates tomato flowering, although to a lesser extent.
+   - **SlFAF1**/2c also positively regulates tomato flowering, although to a lesser extent.
    - EARLY FLOWERING is a dominant gain-of-function allele of FANTASTIC FOUR 1/**2c** that promotes early flowering in tomato.
 
 ## Literature:
@@ -29,7 +29,9 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering
 
 ## Sequences:

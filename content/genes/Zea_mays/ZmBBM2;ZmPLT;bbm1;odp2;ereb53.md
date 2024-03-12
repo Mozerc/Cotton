@@ -10,11 +10,11 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb144510]()
 - **Gene Symbol:** ZmBBM2;ZmPLT;bbm1;odp2;ereb53
 - **Gene Name:** AP2-EREBP-transcription factor 53
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Zea mays BABY BOOM 1 (ZmBBM1) (Zm00001eb247080) and **ZmBBM2** (Zm00001eb144510) are most highly expressed and include the bbm-1-specific region (E/GLSMIKT/NWLRN).
+   - Zea mays BABY BOOM 1 (Zm**bbm1**) (Zm00001eb247080) and **ZmBBM2** (Zm00001eb144510) are most highly expressed and include the bbm-1-specific region (E/GLSMIKT/NWLRN).
    - A recent attempt using trans-activated **ZmBBM2** to induce parthenogenesis.
    - Our results exceed the 0.4−3.5% haploid frequency recently observed with transgenic transactivation of **ZmBBM2**.
 
@@ -27,7 +27,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

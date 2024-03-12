@@ -3,14 +3,14 @@ description: Ethylene-Overproduction Protein 1 ; Glyma.14G197100 ; Glycine max
 meta_title:
 title: GmETO1
 categories: [Glycine max]
-tags: [ tolerance,pi, pi  ]
+tags: [ tolerance,pi ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.14G197100]()
 - **Gene Symbol:** GmETO1
 - **Gene Name:** Ethylene-Overproduction Protein 1
-- **Genome Version:** [reference genome (Wm82.a2.v1)]()
+- **Genome:** [reference genome (Wm82.a2.v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ tolerance,pi, pi  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-tolerance,pi, pi 
+## Orthologs:
+
+## Keywords:
+tolerance,pi
 
 ## Sequences:
 - **CDS Sequence:**

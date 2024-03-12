@@ -10,7 +10,7 @@ tags: [ growth,development,grain,plant development,stress,grain number,plant gro
 - **Gene ID:**	[TraesCS3B02G572900]()
 - **Gene Symbol:** TaSINA
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ growth,development,grain,plant development,stress,grain number,plant gro
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,grain,plant development,stress,grain number,plant growth,grain weight,biomass,grain growth,heat stress
 
 ## Sequences:

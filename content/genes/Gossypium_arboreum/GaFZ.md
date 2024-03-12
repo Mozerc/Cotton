@@ -10,7 +10,7 @@ tags: [ development ]
 - **Gene ID:**	[Ga08G0121]()
 - **Gene Symbol:** GaFZ
 - **Gene Name:** 
-- **Genome Version:** [G. arboreum reference genome ]()
+- **Genome:** [G. arboreum reference genome ]()
 - **Species:** *Gossypium arboreum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 development
 
 ## Sequences:

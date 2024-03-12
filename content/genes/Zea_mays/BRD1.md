@@ -10,7 +10,7 @@ tags: [ brassinosteroid ]
 - **Gene ID:**	[GRMZM2G103773]()
 - **Gene Symbol:** BRD1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ brassinosteroid ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 brassinosteroid
 
 ## Sequences:

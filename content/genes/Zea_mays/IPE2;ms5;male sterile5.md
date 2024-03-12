@@ -10,7 +10,7 @@ tags: [ fertility,pollen,anther,sterility,tapetum,tapetum degeneration,cuticle,m
 - **Gene ID:**	[Zm00001eb237060]()
 - **Gene Symbol:** IPE2;ms5;male sterile5
 - **Gene Name:** IRREGULAR POLLEN  EXINE2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ fertility,pollen,anther,sterility,tapetum,tapetum degeneration,cuticle,m
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility,pollen,anther,sterility,tapetum,tapetum degeneration,cuticle,male sterility,male fertility,pollen fertility,pollen exine formation,pollen formation,cuticle formation
 
 ## Sequences:

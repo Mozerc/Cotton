@@ -10,7 +10,7 @@ tags: [ transcription factor,secondary metabolism ]
 - **Gene ID:**	[Solyc10g079240]()
 - **Gene Symbol:** SUN
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,secondary metabolism ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,secondary metabolism
 
 ## Sequences:

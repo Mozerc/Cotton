@@ -3,14 +3,14 @@ description: Glyma.09G145700 ; Glycine max
 meta_title:
 title: GmDREB1D
 categories: [Glycine max]
-tags: [ transcription factor,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response ]
+tags: [ transcription factor,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.09G145700]()
 - **Gene Symbol:** GmDREB1D
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,drought,stress,drought stress,drought stress ,toler
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+transcription factor,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

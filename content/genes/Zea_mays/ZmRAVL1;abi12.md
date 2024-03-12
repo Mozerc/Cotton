@@ -10,7 +10,7 @@ tags: [ leaf,transcription factor,brassinosteroid,domestication,transcription re
 - **Gene ID:**	[Zm00001eb073010]()
 - **Gene Symbol:** ZmRAVL1;abi12
 - **Gene Name:** ABI3-VP1-transcription factor 12
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ leaf,transcription factor,brassinosteroid,domestication,transcription re
 - **NCBI ID:** [LOC103646035](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103646035)
 - **UniProt accessions:** [A0A060D1M1](https://www.uniprot.org/uniprotkb/A0A060D1M1/entry)&nbsp;,&nbsp;[A0A3L6FNT7](https://www.uniprot.org/uniprotkb/A0A3L6FNT7/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,transcription factor,brassinosteroid,domestication,transcription regulator,leaf angle
 
 ## Sequences:

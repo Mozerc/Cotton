@@ -3,14 +3,14 @@ description: MD16G1047700 ; Malus domestica
 meta_title:
 title: MdRAV1
 categories: [Malus domestica]
-tags: [ transcription factor,aba, aba ,aba sensitivity ]
+tags: [ transcription factor,aba,aba sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD16G1047700]()
 - **Gene Symbol:** MdRAV1
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,aba, aba ,aba sensitivity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,aba, aba ,aba sensitivity
+## Orthologs:
+
+## Keywords:
+transcription factor,aba,aba sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

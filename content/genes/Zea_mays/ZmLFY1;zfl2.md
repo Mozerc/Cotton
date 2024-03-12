@@ -10,7 +10,7 @@ tags: [ vegetative,floral,inflorescence,reproductive,architecture,inflorescence 
 - **Gene ID:**	[Zm00001eb071990]()
 - **Gene Symbol:** ZmLFY1;zfl2
 - **Gene Name:** Zea floricaula leafy2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ vegetative,floral,inflorescence,reproductive,architecture,inflorescence 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 vegetative,floral,inflorescence,reproductive,architecture,inflorescence architecture,branching,floral organ,flowering time,flowering,organ identity
 
 ## Sequences:

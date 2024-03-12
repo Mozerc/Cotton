@@ -10,7 +10,7 @@ tags: [ resistance,ja,defense,tolerance,cold tolerance,cold,pathogen,ja biosynth
 - **Gene ID:**	[]()
 - **Gene Symbol:** MfAOC2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Medicago sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,ja,defense,tolerance,cold tolerance,cold,pathogen,ja biosynth
 - **NCBI ID:** [OQ291228](https://www.ncbi.nlm.nih.gov/gene/?term=OQ291228)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,ja,defense,tolerance,cold tolerance,cold,pathogen,ja biosynthesis, ja ,antioxidant defense,pathogen resistance
 
 ## Sequences:

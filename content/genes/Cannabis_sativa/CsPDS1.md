@@ -10,7 +10,7 @@ tags: [ seedlings ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsPDS1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cannabis Sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seedlings ]
 - **NCBI ID:** [XM_030651587.1](https://www.ncbi.nlm.nih.gov/gene/?term=XM_030651587.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seedlings
 
 ## Sequences:

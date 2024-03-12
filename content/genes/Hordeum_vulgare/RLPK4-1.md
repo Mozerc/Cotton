@@ -10,7 +10,7 @@ tags: [ kinase,stress,salinity,salt,salt stress,salinity stress,receptor kinase 
 - **Gene ID:**	[HORVU2Hr1G111760.1]()
 - **Gene Symbol:** RLPK4-1
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ kinase,stress,salinity,salt,salt stress,salinity stress,receptor kinase 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 kinase,stress,salinity,salt,salt stress,salinity stress,receptor kinase
 
 ## Sequences:

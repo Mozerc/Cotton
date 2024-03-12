@@ -10,7 +10,7 @@ tags: [ stress ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhPOD
 - **Gene Name:** 
-- **Genome Version:** [Cotton Genome Database (https://www.cottongen.org/)]()
+- **Genome:** [Cotton Genome Database (https://www.cottongen.org/)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress
 
 ## Sequences:

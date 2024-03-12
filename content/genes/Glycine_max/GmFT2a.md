@@ -10,7 +10,7 @@ tags: [ flowering ]
 - **Gene ID:**	[Glyma.16g150700]()
 - **Gene Symbol:** GmFT2a
 - **Gene Name:** Flowering Time 2a
-- **Genome Version:** [Wm82.a2.v1]()
+- **Genome:** [Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ flowering ]
 - **NCBI ID:** [AB550122](https://www.ncbi.nlm.nih.gov/gene/?term=AB550122)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering
 
 ## Sequences:

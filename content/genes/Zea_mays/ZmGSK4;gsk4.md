@@ -10,7 +10,7 @@ tags: [ kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,prot
 - **Gene ID:**	[Zm00001eb204920]()
 - **Gene Symbol:** ZmGSK4;gsk4
 - **Gene Name:** glycogen synthase kinase4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,prot
 - **NCBI ID:** [LOC100191610](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191610)
 - **UniProt accessions:** [A0A1D6H663](https://www.uniprot.org/uniprotkb/A0A1D6H663/entry)&nbsp;,&nbsp;[A0A1D6QQ01](https://www.uniprot.org/uniprotkb/A0A1D6QQ01/entry)&nbsp;,&nbsp;[B4F9G4](https://www.uniprot.org/uniprotkb/B4F9G4/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,protein kinase,calcium
 
 ## Sequences:

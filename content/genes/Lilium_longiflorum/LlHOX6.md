@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** LlHOX6
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Lilium longiflorum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ resistance ]
 - **NCBI ID:** [OR711346](https://www.ncbi.nlm.nih.gov/gene/?term=OR711346)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

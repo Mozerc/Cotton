@@ -10,7 +10,7 @@ tags: [ development,seed,seed development ]
 - **Gene ID:**	[BnaA05G0069700ZS]()
 - **Gene Symbol:** BnaA05.BASS2
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,seed,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,seed,seed development
 
 ## Sequences:

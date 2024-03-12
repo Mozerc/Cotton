@@ -10,7 +10,7 @@ tags: [ stem,root,shoot,meristem,root apical meristem,shoot apical meristem,prim
 - **Gene ID:**	[Zm00001d002431]()
 - **Gene Symbol:** ZmCOLD1-2;cold2
 - **Gene Name:** cold rsponsive2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stem,root,shoot,meristem,root apical meristem,shoot apical meristem,prim
 - **NCBI ID:** [XP 023157368](https://www.ncbi.nlm.nih.gov/gene/?term=XP 023157368)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,root,shoot,meristem,root apical meristem,shoot apical meristem,primary root,root meristem,shoot meristem
 
 ## Sequences:

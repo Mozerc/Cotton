@@ -10,7 +10,7 @@ tags: [ flower,cytoplasm,carotene ]
 - **Gene ID:**	[Solyc04g056390]()
 - **Gene Symbol:** SlIDI1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ flower,cytoplasm,carotene ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flower,cytoplasm,carotene
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ ga, ga ,ga biosynthesis ]
 - **Gene ID:**	[BraA07g042410.3C]()
 - **Gene Symbol:** BrKAO2
 - **Gene Name:** 
-- **Genome Version:** [B.rapa Chiifu v3.0]()
+- **Genome:** [B.rapa Chiifu v3.0]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ga, ga ,ga biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ga, ga ,ga biosynthesis
 
 ## Sequences:

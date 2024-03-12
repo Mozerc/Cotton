@@ -10,12 +10,12 @@ tags: [ kinase,potassium,cytoplasm,protein kinase,plasma membrane ]
 - **Gene ID:**	[Zm00001eb390900]()
 - **Gene Symbol:** ZmCBL9;cbl9
 - **Gene Name:** calcineurin B-like9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Subcellular localization analyses showed that ZmCBL1 and **ZmCBL9** were specifically localized on the plasma membrane, while ZmCIPK23 was localized in cytoplasm.
-   - ZmCBL1, and **ZmCBL9** did not significantly enhance the kinase activity of ZmCIPK23. Since both ZMK1 and AKT1 can be phosphorylated by upstream CIPK kinases, we speculated that the phosphorylation sites should be conserved.
+   - Subcellular localization analyses showed that ZmCBL1 and **Zm**cbl9**** were specifically localized on the plasma membrane, while ZmCIPK23 was localized in cytoplasm.
+   - ZmCBL1, and **Zm**cbl9**** did not significantly enhance the kinase activity of ZmCIPK23. Since both ZMK1 and AKT1 can be phosphorylated by upstream CIPK kinases, we speculated that the phosphorylation sites should be conserved.
    - Moreover, inward potassium currents can be recorded in Xenopus oocytes when co-expression of ZmCIPK23 and ZMK1. ZMK1 activity was further enhanced by the addition of ZmCBL1. These results indicate that the activity of ZmCIPK23 is not completely dependent on the upstream CBL protein.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ kinase,potassium,cytoplasm,protein kinase,plasma membrane ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,potassium,cytoplasm,protein kinase,plasma membrane
 
 ## Sequences:

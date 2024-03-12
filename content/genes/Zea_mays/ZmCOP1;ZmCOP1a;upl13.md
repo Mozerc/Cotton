@@ -10,11 +10,11 @@ tags: [ seedlings,architecture,height,plant height,signal transduction,plant arc
 - **Gene ID:**	[Zm00001eb256270]()
 - **Gene Symbol:** ZmCOP1;ZmCOP1a;upl13
 - **Gene Name:** ubiquitin-protein ligase13
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - We found that the mesocotyl lengths of zmcop1 loss-of-function mutants were shorter than those of wild-type B73 in darkness, while the mesocotyl lengths of lines with **ZmCOP1** overexpression were longer than those of wild-type B104.
+   - We found that the mesocotyl lengths of **ZmCOP1** loss-of-function mutants were shorter than those of wild-type B73 in darkness, while the mesocotyl lengths of lines with **ZmCOP1** overexpression were longer than those of wild-type B104.
    - **ZmCOP1** functions in the elongation of etiolated seedlings in darkness and affects plant height in light. Our data can be applied in the improvement of maize plant architecture.
    - **ZmCOP1** regulates a wide range of KEGG pathways, such as those for MAPK hormone signal transduction, ribosome formation, RNA transport, glyoxylic acid and dicarboxylic acid metabolism and biosynthesis of secondary metabolites.
 
@@ -27,7 +27,9 @@ tags: [ seedlings,architecture,height,plant height,signal transduction,plant arc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,architecture,height,plant height,signal transduction,plant architecture,secondary metabolism,as transport
 
 ## Sequences:

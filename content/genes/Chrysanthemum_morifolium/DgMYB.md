@@ -10,7 +10,7 @@ tags: [ resistance,cold ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** DgMYB
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,cold ]
 - **NCBI ID:** [MW719239](https://www.ncbi.nlm.nih.gov/gene/?term=MW719239)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,cold
 
 ## Sequences:

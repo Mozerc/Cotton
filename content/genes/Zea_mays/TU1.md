@@ -10,12 +10,12 @@ tags: [ transcription factor,development,spikelet,inflorescence,spikelet develop
 - **Gene ID:**	[GRMZM2G370777]()
 - **Gene Symbol:** TU1
 - **Gene Name:** Tunicate1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **TU1** encodes a MADS box transcription factor influences inflorescence development.
-   - Tu1 encodes a MADS box transcription factor expressed in leaves whose 5′ regulatory region is fused by a 1.8-Mb chromosomal inversion to the 3′ region of a gene expressed in the inflorescence.
+   - **TU1** encodes a MADS box transcription factor expressed in leaves whose 5′ regulatory region is fused by a 1.8-Mb chromosomal inversion to the 3′ region of a gene expressed in the inflorescence.
    - **TU1** proteins are nuclearly localized in specific cells at the base of spikelet pair meristems.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ transcription factor,development,spikelet,inflorescence,spikelet develop
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,development,spikelet,inflorescence,spikelet development,inflorescence development
 
 ## Sequences:

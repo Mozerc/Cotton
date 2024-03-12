@@ -10,7 +10,7 @@ tags: [ stem,growth,shoot,floral,flowering time,flowering,node ]
 - **Gene ID:**	[Glyma.09G266200]()
 - **Gene Symbol:** SOC1b
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stem,growth,shoot,floral,flowering time,flowering,node ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,growth,shoot,floral,flowering time,flowering,node
 
 ## Sequences:

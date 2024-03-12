@@ -10,7 +10,7 @@ tags: [ resistance,disease,disease resistance ]
 - **Gene ID:**	[Zm00001eb190920]()
 - **Gene Symbol:** ZmNANMT;ZmCOMT2;ZmCOMT13;nanmt1
 - **Gene Name:** nicotinate N-methyltransferase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ resistance,disease,disease resistance ]
 - **NCBI ID:** [100283243](https://www.ncbi.nlm.nih.gov/gene/?term=100283243)
 - **UniProt accessions:** [A0A3L6F1Z0](https://www.uniprot.org/uniprotkb/A0A3L6F1Z0/entry)&nbsp;,&nbsp;[B6TG62](https://www.uniprot.org/uniprotkb/B6TG62/entry)&nbsp;,&nbsp;[C0HEH4](https://www.uniprot.org/uniprotkb/C0HEH4/entry)&nbsp;,&nbsp;[Q6VWE9](https://www.uniprot.org/uniprotkb/Q6VWE9/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,disease,disease resistance
 
 ## Sequences:

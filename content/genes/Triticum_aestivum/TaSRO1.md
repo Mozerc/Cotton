@@ -10,7 +10,7 @@ tags: [ growth,stress,mitochondria,salinity,yield,salinity stress,stress respons
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaSRO1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ growth,stress,mitochondria,salinity,yield,salinity stress,stress respons
 - **NCBI ID:** [JN202574](https://www.ncbi.nlm.nih.gov/gene/?term=JN202574)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,stress,mitochondria,salinity,yield,salinity stress,stress response
 
 ## Sequences:

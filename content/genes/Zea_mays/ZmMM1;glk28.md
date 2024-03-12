@@ -10,7 +10,7 @@ tags: [ resistance,disease,disease resistance,immunity,cell death,breeding,broad
 - **Gene ID:**	[Zm00001eb298990]()
 - **Gene Symbol:** ZmMM1;glk28
 - **Gene Name:** Mexicana lesion mimic 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ resistance,disease,disease resistance,immunity,cell death,breeding,broad
 - **NCBI ID:** [LOC100282329](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282329)
 - **UniProt accessions:** [A0A1D6HRM9](https://www.uniprot.org/uniprotkb/A0A1D6HRM9/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,disease,disease resistance,immunity,cell death,breeding,broad-spectrum disease resistance,transcription regulator,plant immunity
 
 ## Sequences:

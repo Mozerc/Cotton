@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **Gene ID:**	[GRMZM2G180568]()
 - **Gene Symbol:** ZmTCP42
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

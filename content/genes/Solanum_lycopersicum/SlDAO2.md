@@ -3,14 +3,14 @@ description: DIOXYGENASE FOR AUXIN OXIDATION2 ; Solyc02g068320 ; Solanum lycoper
 meta_title:
 title: SlDAO2
 categories: [Solanum lycopersicum]
-tags: [ aba,iaa, aba ,aba sensitivity ]
+tags: [ aba,iaa,aba sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc02g068320]()
 - **Gene Symbol:** SlDAO2
 - **Gene Name:** DIOXYGENASE FOR AUXIN OXIDATION2
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ aba,iaa, aba ,aba sensitivity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba,iaa, aba ,aba sensitivity
+## Orthologs:
+
+## Keywords:
+aba,iaa,aba sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

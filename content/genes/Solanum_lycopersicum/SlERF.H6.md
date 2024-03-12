@@ -10,7 +10,7 @@ tags: [ gibberellin,ethylene,gibberellin biosynthesis ]
 - **Gene ID:**	[Solyc03g120840]()
 - **Gene Symbol:** SlERF.H6
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ gibberellin,ethylene,gibberellin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 gibberellin,ethylene,gibberellin biosynthesis
 
 ## Sequences:

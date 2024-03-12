@@ -10,7 +10,7 @@ tags: [ transcription factor,fertility,endosperm,height ]
 - **Gene ID:**	[Zm00001eb202980]()
 - **Gene Symbol:** ZmROS1b;mdr1
 - **Gene Name:** maternal derepression of R1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,fertility,endosperm,height ]
 - **NCBI ID:** [LOC100280151](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280151)
 - **UniProt accessions:** [A0A1D6QN22](https://www.uniprot.org/uniprotkb/A0A1D6QN22/entry)&nbsp;,&nbsp;[A0A1D6QN28](https://www.uniprot.org/uniprotkb/A0A1D6QN28/entry)&nbsp;,&nbsp;[K7U9K6](https://www.uniprot.org/uniprotkb/K7U9K6/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,fertility,endosperm,height
 
 ## Sequences:

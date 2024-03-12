@@ -10,7 +10,7 @@ tags: [ auxin,ethylene,auxin biosynthesis ]
 - **Gene ID:**	[Gh_D08G13101]()
 - **Gene Symbol:** GhERF108
 - **Gene Name:** 
-- **Genome Version:** [cotton genome databases (https://www.cottonfgd.org/sequenceserver/)]()
+- **Genome:** [cotton genome databases (https://www.cottonfgd.org/sequenceserver/)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ auxin,ethylene,auxin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin,ethylene,auxin biosynthesis
 
 ## Sequences:

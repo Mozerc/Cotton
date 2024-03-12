@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,homeostasis,stomatal,catal
 - **Gene ID:**	[Manes.01G215000]()
 - **Gene Symbol:** MeGRXC3
 - **Gene Name:** 
-- **Genome Version:** [Manihot esculenta, v8.1]()
+- **Genome:** [Manihot esculenta, v8.1]()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,homeostasis,stomatal,catal
 - **NCBI ID:** [PRJNA797171(RNA-seq data)](https://www.ncbi.nlm.nih.gov/gene/?term=PRJNA797171(RNA-seq data))
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,homeostasis,stomatal,catalase
 
 ## Sequences:

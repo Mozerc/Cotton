@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 - **Gene ID:**	[Zm00001eb036040]()
 - **Gene Symbol:** ZmbHLH49;bhlh81
 - **Gene Name:** bHLH-transcription factor 81
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,stress,heat stress
 
 ## Sequences:

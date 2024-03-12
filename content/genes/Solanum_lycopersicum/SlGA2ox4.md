@@ -3,14 +3,14 @@ description: Solyc07g061720 ; Solanum lycopersicum
 meta_title:
 title: SlGA2ox4
 categories: [Solanum lycopersicum]
-tags: [ resistance,ga, ga ,ga biosynthesis ]
+tags: [ resistance,ga,ga biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc07g061720]()
 - **Gene Symbol:** SlGA2ox4
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,ga, ga ,ga biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,ga, ga ,ga biosynthesis
+## Orthologs:
+
+## Keywords:
+resistance,ga,ga biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

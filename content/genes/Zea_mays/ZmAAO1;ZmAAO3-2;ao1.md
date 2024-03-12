@@ -3,19 +3,19 @@ description: aldehyde oxidase1 ; Zm00001eb060250 ; Zea mays
 meta_title:
 title: ZmAAO1;ZmAAO3-2
 categories: [Zea mays]
-tags: [ stem,development,plant development,drought,stress,drought stress,drought stress ,seedling,inflorescence,stress response,drought stress response,drought response,inflorescence development ]
+tags: [ stem,development,plant development,drought,stress,drought stress,seedling,inflorescence,stress response,drought stress response,drought response,inflorescence development ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb060250]()
 - **Gene Symbol:** ZmAAO1;ZmAAO3-2;ao1
 - **Gene Name:** aldehyde oxidase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - In drought stress, **ZmAAO1** and ZmAAO4 showed slight down regulation or no change in expression in different anatomical parts of various developmental stage such as germination stage, seedling stage, stem elongation, inflorescence stage and anthesis except of 6 h time point in stele where **ZmAAO1** and ZmAAO4 showed slight up regulation.
-   - In Zea mays expression of all AAO genes in germination, seedling, stem elongation, inflorescence, anthesis, fruit formation and dough stage was slightly less except for **ZmAAO1** and ZmAAO4. Expression of **ZmAAO1** was moderate only in germination stage, whereas expression of ZmAAO4 was moderate in all stages of plant development. Expression of ZmAAO4 was highest among all AAOs.
+   - In drought stress, **ZmA**ao1**** and ZmAAO4 showed slight down regulation or no change in expression in different anatomical parts of various developmental stage such as germination stage, seedling stage, stem elongation, inflorescence stage and anthesis except of 6 h time point in stele where **ZmA**ao1**** and ZmAAO4 showed slight up regulation.
+   - In Zea mays expression of all AAO genes in germination, seedling, stem elongation, inflorescence, anthesis, fruit formation and dough stage was slightly less except for **ZmA**ao1**** and ZmAAO4. Expression of **ZmA**ao1**** was moderate only in germination stage, whereas expression of ZmAAO4 was moderate in all stages of plant development. Expression of ZmAAO4 was highest among all AAOs.
    - An enzyme named ascorbate oxidase (AAO) is known to oxidize AA and deleteriously affect the plant system in response to stress.
 
 ## Literature:
@@ -27,8 +27,10 @@ tags: [ stem,development,plant development,drought,stress,drought stress,drought
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stem,development,plant development,drought,stress,drought stress,drought stress ,seedling,inflorescence,stress response,drought stress response,drought response,inflorescence development
+## Orthologs:
+
+## Keywords:
+stem,development,plant development,drought,stress,drought stress,seedling,inflorescence,stress response,drought stress response,drought response,inflorescence development
 
 ## Sequences:
 - **CDS Sequence:**

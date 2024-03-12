@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BnaC07G0531500ZS]()
 - **Gene Symbol:** BnaC7.ROT3
 - **Gene Name:** 
-- **Genome Version:** [B. napus ‘ZS11’ reference genome]()
+- **Genome:** [B. napus ‘ZS11’ reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

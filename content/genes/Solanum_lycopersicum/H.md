@@ -3,20 +3,20 @@ description: Solyc10g078970 ; Solanum lycopersicum
 meta_title:
 title: H
 categories: [Solanum lycopersicum]
-tags: [ transcription factor,ja, ja  ]
+tags: [ transcription factor,ja ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc10g078970]()
 - **Gene Symbol:** H
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - **H**/**H**L is essential for JA-triggered trichome formation.
-   - h/hl double mutant displayed more severe trichome defects in all tissues.
-   - In the presence of JA, high **H**/**H**L activity represses the expression of T**H**M1, an R2R3 MYB transcription factor that negatively regulates trichome formation.
+   - **H**/**H**L is essential for JA-triggered tric**H**ome formation.
+   - **H**/**H**l double mutant displayed more severe tric**H**ome defects in all tissues.
+   - In t**H**e presence of JA, **H**ig**H** **H**/**H**L activity represses t**H**e expression of T**H**M1, an R2R3 MYB transcription factor t**H**at negatively regulates tric**H**ome formation.
 
 ## Literature:
    - [H and HL synergistically regulate jasmonate-triggered trichome formation in tomato.]( https://academic.oup.com/hr/article/doi/10.1093/hr/uhab080/6511823)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhab080](https://academic.oup.com/hr/article/doi/10.1093/hr/uhab080/6511823)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35048113](https://pubmed.ncbi.nlm.nih.gov/35048113/)
@@ -28,8 +28,10 @@ tags: [ transcription factor,ja, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,ja, ja 
+## Orthologs:
+
+## Keywords:
+transcription factor,ja
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ root,immunity,r protein,root hair,root number ]
 - **Gene ID:**	[Glyma.02G076900]()
 - **Gene Symbol:** GmNNL1
 - **Gene Name:** Nodule Number Locus 1 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,immunity,r protein,root hair,root number ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,immunity,r protein,root hair,root number
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,cell wall ]
 - **Gene ID:**	[Solyc03g120910.2 ]()
 - **Gene Symbol:** SlLOB1
 - **Gene Name:** 
-- **Genome Version:** [reference tomato genome SL4.0]()
+- **Genome:** [reference tomato genome SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,cell wall ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,cell wall
 
 ## Sequences:

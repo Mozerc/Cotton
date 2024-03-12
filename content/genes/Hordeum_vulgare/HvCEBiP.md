@@ -10,7 +10,7 @@ tags: [ immunity,pathogen,pamp-triggered immunity,chitin signaling ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** HvCEBiP
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ immunity,pathogen,pamp-triggered immunity,chitin signaling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 immunity,pathogen,pamp-triggered immunity,chitin signaling
 
 ## Sequences:

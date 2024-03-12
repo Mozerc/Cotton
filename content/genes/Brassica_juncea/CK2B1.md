@@ -10,7 +10,7 @@ tags: [ stem,cell cycle ]
 - **Gene ID:**	[BjuA024891]()
 - **Gene Symbol:** CK2B1
 - **Gene Name:** 
-- **Genome Version:** [Braju_tum_V1.5]()
+- **Genome:** [Braju_tum_V1.5]()
 - **Species:** *Brassica juncea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stem,cell cycle ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stem,cell cycle
 
 ## Sequences:

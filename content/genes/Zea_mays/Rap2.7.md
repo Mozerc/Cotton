@@ -10,7 +10,7 @@ tags: [ development,flowering time,flowering ]
 - **Gene ID:**	[GRMZM2G700665]()
 - **Gene Symbol:** Rap2.7
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,flowering time,flowering
 
 ## Sequences:

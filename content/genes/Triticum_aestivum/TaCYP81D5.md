@@ -10,7 +10,7 @@ tags: [ seedling,salinity,tolerance,reproductive,reactive oxygen species ]
 - **Gene ID:**	[TraesCS5B01G403100]()
 - **Gene Symbol:** TaCYP81D5
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ seedling,salinity,tolerance,reproductive,reactive oxygen species ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedling,salinity,tolerance,reproductive,reactive oxygen species
 
 ## Sequences:

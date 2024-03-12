@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb413100]()
 - **Gene Symbol:** ZmNF-YC2;ca5p5
 - **Gene Name:** CCAAT-HAP5-transcription factor 55
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC100273685](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273685)
 - **UniProt accessions:** [B4FWZ1](https://www.uniprot.org/uniprotkb/B4FWZ1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

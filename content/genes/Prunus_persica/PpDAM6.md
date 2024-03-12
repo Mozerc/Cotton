@@ -10,7 +10,7 @@ tags: [ dormancy ]
 - **Gene ID:**	[Prupe.1G531700]()
 - **Gene Symbol:** PpDAM6
 - **Gene Name:** DORMANCY-ASSOCIATED MADS-box
-- **Genome Version:** [peach reference genome v2.0.a1]()
+- **Genome:** [peach reference genome v2.0.a1]()
 - **Species:** *Prunus persica*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ dormancy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 dormancy
 
 ## Sequences:

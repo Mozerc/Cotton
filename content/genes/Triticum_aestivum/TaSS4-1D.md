@@ -10,7 +10,7 @@ tags: [ development,grain,pollen,starch,pollen development,endosperm,endosperm d
 - **Gene ID:**	[TraesCS1D02G356900]()
 - **Gene Symbol:** TaSS4-1D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ development,grain,pollen,starch,pollen development,endosperm,endosperm d
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,pollen,starch,pollen development,endosperm,endosperm development
 
 ## Sequences:

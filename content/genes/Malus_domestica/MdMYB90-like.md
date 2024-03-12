@@ -10,7 +10,7 @@ tags: [ transcription factor ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdMYB90-like
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor ]
 - **NCBI ID:** [HF36881-RA](https://www.ncbi.nlm.nih.gov/gene/?term=HF36881-RA)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor
 
 ## Sequences:

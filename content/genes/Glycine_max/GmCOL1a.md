@@ -10,7 +10,7 @@ tags: [ drought,salt,tolerance,drought tolerance,salt tolerance ]
 - **Gene ID:**	[Glyma.08G255200]()
 - **Gene Symbol:** GmCOL1a
 - **Gene Name:** CONSTANS-like 1a
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ drought,salt,tolerance,drought tolerance,salt tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,salt,tolerance,drought tolerance,salt tolerance
 
 ## Sequences:

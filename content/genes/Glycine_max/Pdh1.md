@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.16G141400.2]()
 - **Gene Symbol:** Pdh1
 - **Gene Name:** Pod dehiscence 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ methyltransferase ]
 - **Gene ID:**	[Cs4g13430]()
 - **Gene Symbol:** CsCCoAOMT
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ methyltransferase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 methyltransferase
 
 ## Sequences:

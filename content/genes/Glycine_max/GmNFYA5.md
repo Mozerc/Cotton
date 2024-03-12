@@ -3,14 +3,14 @@ description: Glycine max
 meta_title:
 title: GmNFYA5
 categories: [Glycine max]
-tags: [ drought,tolerance,aba,drought tolerance, aba  ]
+tags: [ drought,tolerance,aba,drought tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GmNFYA5
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,tolerance,aba,drought tolerance, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,tolerance,aba,drought tolerance, aba 
+## Orthologs:
+
+## Keywords:
+drought,tolerance,aba,drought tolerance
 
 ## Sequences:
 - **CDS Sequence:**

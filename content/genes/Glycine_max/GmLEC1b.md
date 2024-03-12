@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[Glyma17g00950]()
 - **Gene Symbol:** GmLEC1b
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

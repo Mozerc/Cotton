@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Gh_D13G2434]()
 - **Gene Symbol:** GhGT47B_D13
 - **Gene Name:** 
-- **Genome Version:** [reference genome sequence for G. hirsutum ZJU v2.1(https://www.cottongen.org/data/download/genome_tetraploid/AD1)]()
+- **Genome:** [reference genome sequence for G. hirsutum ZJU v2.1(https://www.cottongen.org/data/download/genome_tetraploid/AD1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

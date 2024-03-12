@@ -3,14 +3,14 @@ description: calcineurin B-like-interacting protein kinase33 ; Zm00001eb196030 ;
 meta_title:
 title: ZmCIPK32;ZmCIPK33
 categories: [Zea mays]
-tags: [ stress,seed,seed germination,aba,ga, ga , aba  ]
+tags: [ stress,seed,seed germination,aba,ga ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb196030]()
 - **Gene Symbol:** ZmCIPK32;ZmCIPK33;ZmSnRK3.16;ZmCIPK3;cipk33
 - **Gene Name:** calcineurin B-like-interacting protein kinase33
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ stress,seed,seed germination,aba,ga, ga , aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stress,seed,seed germination,aba,ga, ga , aba 
+## Orthologs:
+
+## Keywords:
+stress,seed,seed germination,aba,ga
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.01G154900.1]()
 - **Gene Symbol:** GmCCD4
 - **Gene Name:** Glycine max carotenoidcleavage dioxygenase 4
-- **Genome Version:** [reference genome sequence (G. max Wm82.a2.v1)]()
+- **Genome:** [reference genome sequence (G. max Wm82.a2.v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

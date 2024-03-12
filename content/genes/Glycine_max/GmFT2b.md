@@ -1,16 +1,16 @@
 ---
-description: GmFT2b ; Glycine max
+description: Glyma.16G151000 ; Glycine max
 meta_title:
-title: Glyma.16G151000
+title: GmFT2b
 categories: [Glycine max]
 tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[GmFT2b]()
-- **Gene Symbol:** Glyma.16G151000
+- **Gene ID:**	[Glyma.16G151000]()
+- **Gene Symbol:** GmFT2b
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

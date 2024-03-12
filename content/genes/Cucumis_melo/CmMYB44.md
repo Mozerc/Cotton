@@ -10,7 +10,7 @@ tags: [ ethylene,sucrose,phosphate,ethylene production,sucrose synthase ]
 - **Gene ID:**	[MELO3C016789]()
 - **Gene Symbol:** CmMYB44
 - **Gene Name:** 
-- **Genome Version:** [Melon (DHL92) v3.6.1]()
+- **Genome:** [Melon (DHL92) v3.6.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene,sucrose,phosphate,ethylene production,sucrose synthase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene,sucrose,phosphate,ethylene production,sucrose synthase
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ seed,quality,breeding,seed size ]
 - **Gene ID:**	[SoyZH13_05G229200]()
 - **Gene Symbol:** GmST05
 - **Gene Name:** Seed Thickness on Chromosome 5
-- **Genome Version:** [Zhonghuang 13 (ZH13) reference genome]()
+- **Genome:** [Zhonghuang 13 (ZH13) reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed,quality,breeding,seed size ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,quality,breeding,seed size
 
 ## Sequences:

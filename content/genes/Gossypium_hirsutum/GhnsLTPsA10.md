@@ -10,7 +10,7 @@ tags: [ resistance,stress,disease,disease resistance,insect,pathogen,insect resi
 - **Gene ID:**	[Gh_A10G2049]()
 - **Gene Symbol:** GhnsLTPsA10
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ resistance,stress,disease,disease resistance,insect,pathogen,insect resi
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,stress,disease,disease resistance,insect,pathogen,insect resistance,pathogen resistance
 
 ## Sequences:

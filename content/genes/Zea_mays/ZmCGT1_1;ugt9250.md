@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,stress,cytokinin,phytohormone,heat stres
 - **Gene ID:**	[Zm00001eb304010]()
 - **Gene Symbol:** ZmCGT1_1;ugt9250
 - **Gene Name:** uridinediphosphate-dependent glycosyltransferase9250
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,leaf senescence,senescence,stress,cytokinin,phytohormone,heat stres
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,stress,cytokinin,phytohormone,heat stress
 
 ## Sequences:

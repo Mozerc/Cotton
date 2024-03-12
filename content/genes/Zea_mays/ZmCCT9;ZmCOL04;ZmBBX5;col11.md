@@ -3,14 +3,14 @@ description: C2C2-CO-like-transcription factor 11 ; Zm00001eb078490 ; Zea mays
 meta_title:
 title: ZmCCT9;ZmCOL04
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,floral,flowering time,flowering,drought sensitivity,stress response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,floral,flowering time,flowering,drought sensitivity,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb078490]()
 - **Gene Symbol:** ZmCCT9;ZmCOL04;ZmBBX5;col11
 - **Gene Name:** C2C2-CO-like-transcription factor 11
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,floral,flowering time,flowering,drought sensitivity,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,floral,flowering time,flowering,drought sensitivity,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

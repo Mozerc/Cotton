@@ -10,7 +10,7 @@ tags: [ leaf,temperature,stomatal,water loss,thermotolerance ]
 - **Gene ID:**	[Zm00001eb009250]()
 - **Gene Symbol:** ZmMKK9;MKK9
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,temperature,stomatal,water loss,thermotolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,temperature,stomatal,water loss,thermotolerance
 
 ## Sequences:

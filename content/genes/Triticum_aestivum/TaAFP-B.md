@@ -3,14 +3,14 @@ description: TraesCS2B02G202700 ; Triticum aestivum
 meta_title:
 title: TaAFP-B
 categories: [Triticum aestivum]
-tags: [ seed,seed germination,aba,embryo, aba ,dormancy,seed dormancy ]
+tags: [ seed,seed germination,aba,embryo,dormancy,seed dormancy ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G202700]()
 - **Gene Symbol:** TaAFP-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ seed,seed germination,aba,embryo, aba ,dormancy,seed dormancy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-seed,seed germination,aba,embryo, aba ,dormancy,seed dormancy
+## Orthologs:
+
+## Keywords:
+seed,seed germination,aba,embryo,dormancy,seed dormancy
 
 ## Sequences:
 - **CDS Sequence:**

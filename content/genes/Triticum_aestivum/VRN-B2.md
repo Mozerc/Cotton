@@ -10,15 +10,15 @@ tags: [ temperature,flower,flowering,vernalization ]
 - **Gene ID:**	[TraesCS4B02G372700]()
 - **Gene Symbol:** VRN-B2
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - The vernalization gene VRN-2 in winter wheat cultivars prevents flowering during the winter season, but repression can be removed by low temperature (vernalization) and winter wheat cultivars thus flower in the following spring.
-   - vernalization
+   - vernalization.
 
 ## Literature:
-   - [NA]( https://link.springer.com/article/10.1007/s10681-015-1589-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10681-015-1589-7](https://link.springer.com/article/10.1007/s10681-015-1589-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Duplicated, deleted and translocated VRN2 genes in hexaploid wheat]( https://link.springer.com/article/10.1007/s10681-015-1589-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10681-015-1589-7](https://link.springer.com/article/10.1007/s10681-015-1589-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -26,7 +26,9 @@ tags: [ temperature,flower,flowering,vernalization ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 temperature,flower,flowering,vernalization
 
 ## Sequences:

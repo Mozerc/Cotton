@@ -10,7 +10,7 @@ tags: [ branching ]
 - **Gene ID:**	[SoyZH13_18g242900]()
 - **Gene Symbol:** Dt2
 - **Gene Name:** 
-- **Genome Version:** [reference genome ZH13]()
+- **Genome:** [reference genome ZH13]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ branching ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 branching
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ sucrose,sucrose transport ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** StSWEET11
 - **Gene Name:** 
-- **Genome Version:** [Potato Genome Sequencing Consortium website (http://www.potatogenome.net).]()
+- **Genome:** [Potato Genome Sequencing Consortium website (http://www.potatogenome.net).]()
 - **Species:** *Solanum tuberosum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ sucrose,sucrose transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sucrose,sucrose transport
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** FaRAV1
 - **Gene Name:** 
-- **Genome Version:** [FAN (F. x ananassa)]()
+- **Genome:** [FAN (F. x ananassa)]()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [XM_011466945.1](https://www.ncbi.nlm.nih.gov/gene/?term=XM_011466945.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

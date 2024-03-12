@@ -10,7 +10,7 @@ tags: [ yield,breeding ]
 - **Gene ID:**	[Arahy.VAAE0N]()
 - **Gene Symbol:** PSW1
 - **Gene Name:** POD SIZE/WEIGHT1
-- **Genome Version:** [Arachis hypogaea cv. Tifrunner]()
+- **Genome:** [Arachis hypogaea cv. Tifrunner]()
 - **Species:** *Arachis hypogaea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ yield,breeding ]
 - **NCBI ID:** [XP_025608327.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_025608327.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 yield,breeding
 
 ## Sequences:

@@ -1,16 +1,16 @@
 ---
-description: GmNFYA ; Glycine max
+description: Glyma.02G303800 ; Glycine max
 meta_title:
-title: Glyma.02G303800
+title: GmNFYA
 categories: [Glycine max]
 tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,stress response ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[GmNFYA]()
-- **Gene Symbol:** Glyma.02G303800
+- **Gene ID:**	[Glyma.02G303800]()
+- **Gene Symbol:** GmNFYA
 - **Gene Name:** 
-- **Genome Version:** [soybean genome sequence (Williams 82)]()
+- **Genome:** [soybean genome sequence (Williams 82)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,stress
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,stress response
 
 ## Sequences:

@@ -1,16 +1,16 @@
 ---
 description: PIN-formed protein1 ; Zm00001eb372180 ; Zea mays
 meta_title:
-title: pin1;ZmPIN1a
+title: PIN1;ZmPIN1a
 categories: [Zea mays]
 tags: [ auxin,height ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb372180]()
-- **Gene Symbol:** pin1;ZmPIN1a
+- **Gene Symbol:** PIN1;ZmPIN1a
 - **Gene Name:** PIN-formed protein1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ auxin,height ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,height
 
 ## Sequences:

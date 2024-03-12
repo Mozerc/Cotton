@@ -3,14 +3,14 @@ description: TraesCS1D02G340900 ; Triticum aestivum
 meta_title:
 title: TaVQ4-D
 categories: [Triticum aestivum]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G340900]()
 - **Gene Symbol:** TaVQ4-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance
 
 ## Sequences:
 - **CDS Sequence:**

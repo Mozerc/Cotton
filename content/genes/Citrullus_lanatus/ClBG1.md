@@ -10,7 +10,7 @@ tags: [ seed,seed germination,aba,seed weight,cell cycle,seed size, aba  ]
 - **Gene ID:**	[Cla97C08G153160]()
 - **Gene Symbol:** ClBG1
 - **Gene Name:** 
-- **Genome Version:** [Citrullus lanatus (Watermelon (97103) v2)]()
+- **Genome:** [Citrullus lanatus (Watermelon (97103) v2)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ seed,seed germination,aba,seed weight,cell cycle,seed size, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,seed germination,aba,seed weight,cell cycle,seed size, aba 
 
 ## Sequences:

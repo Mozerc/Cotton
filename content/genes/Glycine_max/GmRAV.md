@@ -10,7 +10,7 @@ tags: [ growth,flowering time,flowering ]
 - **Gene ID:**	[Glyma.10G204400]()
 - **Gene Symbol:** GmRAV
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ growth,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,flowering time,flowering
 
 ## Sequences:

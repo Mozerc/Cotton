@@ -10,13 +10,13 @@ tags: [ development,seed,endosperm,seed development,endosperm development ]
 - **Gene ID:**	[Zm00001eb057030]()
 - **Gene Symbol:** Emp10;ZmPPR072
 - **Gene Name:** empty pericarp 10
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **Emp10** encodes a mitochondrial PPR protein that affects the cis-splicing of nad2 intron 1 and seed development in maize.
-   - EMP10 is specifically required for the cis-splicing of mitochondrial nad2 intron 1, embryogenesis and endosperm development in maize.
-   - The importance of EMP10 for the development of maize seed.
+   - **Emp10** is specifically required for the cis-splicing of mitochondrial nad2 intron 1, embryogenesis and endosperm development in maize.
+   - The importance of **Emp10** for the development of maize seed.
 
 ## Literature:
    - [Emp10 encodes a mitochondrial PPR protein that affects the cis-splicing of nad2 intron 1 and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13551)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13551](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13551)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28346745](https://pubmed.ncbi.nlm.nih.gov/28346745/)
@@ -28,7 +28,9 @@ tags: [ development,seed,endosperm,seed development,endosperm development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,endosperm,seed development,endosperm development
 
 ## Sequences:

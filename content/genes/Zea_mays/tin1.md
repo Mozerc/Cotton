@@ -10,13 +10,13 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
 - **Gene ID:**	[Zm00001eb300220]()
 - **Gene Symbol:** tin1
 - **Gene Name:** tiller number 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Tin1 is involved in multiple pathways, directly represses two tiller-related genes, gt1 and Laba1/An-2, and interacts with three TOPLESS proteins to regulate the outgrowth of tiller buds. Our results support that maize **tin1**, derived from a standing variation in wild progenitor teosinte population, determines tillering retention during maize diversification.
+   - **tin1** is involved in multiple pathways, directly represses two tiller-related genes, gt1 and Laba1/An-2, and interacts with three TOPLESS proteins to regulate the outgrowth of tiller buds. Our results support that maize **tin1**, derived from a standing variation in wild progenitor teosinte population, determines tillering retention during maize diversification.
    - Our results support that maize **tin1**, derived from a standing variation in wild progenitor teosinte population, determines tillering retention during maize diversification.
-   - Tin1 is a major QTL for tiller number in maize.
+   - **tin1** is a major QTL for tiller number in maize.
    - Maize **tin1** controls the outgrowth of the tiller bud.
 
 ## Literature:
@@ -29,7 +29,9 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
 - **NCBI ID:** [LOC100275411](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100275411)
 - **UniProt accessions:** [A0A1D6HSJ8](https://www.uniprot.org/uniprotkb/A0A1D6HSJ8/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tillering,tiller,tiller number,tiller bud outgrowth
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,development,ovule ]
 - **Gene ID:**	[Gh_A06G0179]()
 - **Gene Symbol:** GhWRKY16-A
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,development,ovule ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,development,ovule
 
 ## Sequences:

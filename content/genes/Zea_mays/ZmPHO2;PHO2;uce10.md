@@ -3,14 +3,14 @@ description: Phosphate 2 ; Zm00001eb295490 ; Zea mays
 meta_title:
 title: ZmPHO2;PHO2
 categories: [Zea mays]
-tags: [ senescence,domestication,homeostasis,phosphate,pi, pi ,pi homeostasis,pi signaling,phosphate starvation,phosphate starvation signaling,phosphate starvation response,phosphate signaling,phosphate homeostasis ]
+tags: [ senescence,domestication,homeostasis,phosphate,pi,pi homeostasis,pi signaling,phosphate starvation,phosphate starvation signaling,phosphate starvation response,phosphate signaling,phosphate homeostasis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb295490]()
 - **Gene Symbol:** ZmPHO2;PHO2;uce10
 - **Gene Name:** Phosphate 2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ senescence,domestication,homeostasis,phosphate,pi, pi ,pi homeostasis,pi
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-senescence,domestication,homeostasis,phosphate,pi, pi ,pi homeostasis,pi signaling,phosphate starvation,phosphate starvation signaling,phosphate starvation response,phosphate signaling,phosphate homeostasis
+## Orthologs:
+
+## Keywords:
+senescence,domestication,homeostasis,phosphate,pi,pi homeostasis,pi signaling,phosphate starvation,phosphate starvation signaling,phosphate starvation response,phosphate signaling,phosphate homeostasis
 
 ## Sequences:
 - **CDS Sequence:**

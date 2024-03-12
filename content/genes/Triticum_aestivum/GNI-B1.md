@@ -10,7 +10,7 @@ tags: [ transcription factor,spikelet,fertility,spikelet number ]
 - **Gene ID:**	[TraesCS2B02G405700]()
 - **Gene Symbol:** GNI-B1
 - **Gene Name:** Grain Number Increase 1
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,spikelet,fertility,spikelet number ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,spikelet,fertility,spikelet number
 
 ## Sequences:

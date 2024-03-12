@@ -10,7 +10,7 @@ tags: [ starch ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** IbVP1
 - **Gene Name:** 
-- **Genome Version:** [Taizhong 6 genome]()
+- **Genome:** [Taizhong 6 genome]()
 - **Species:** *Ipomoea batatas*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ starch ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 starch
 
 ## Sequences:

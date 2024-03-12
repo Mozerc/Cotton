@@ -10,7 +10,7 @@ tags: [ quality,hydrolase ]
 - **Gene ID:**	[CotAD_74480]()
 - **Gene Symbol:** GhGDSL
 - **Gene Name:** 
-- **Genome Version:** [Gossypium hirsutum genome (AD)]()
+- **Genome:** [Gossypium hirsutum genome (AD)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ quality,hydrolase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 quality,hydrolase
 
 ## Sequences:

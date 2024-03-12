@@ -10,7 +10,7 @@ tags: [ development,plant development,fertility,drought,tolerance,drought tolera
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaNOX7-3A
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,plant development,fertility,drought,tolerance,drought tolera
 - **NCBI ID:** [AK334324](https://www.ncbi.nlm.nih.gov/gene/?term=AK334324)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,plant development,fertility,drought,tolerance,drought tolerance
 
 ## Sequences:

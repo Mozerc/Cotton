@@ -10,12 +10,12 @@ tags: [ development,anther,sterility,tapetum,anther development,cell proliferati
 - **Gene ID:**	[Zm00001eb332170]()
 - **Gene Symbol:** Ms23;ms35;bhlh16;rf4
 - **Gene Name:** male sterile23
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The bHLH transcription factors MS23, MS32, bHLH122 and bHLH51 are involved in anther somatic cell development in turn, and play an important role in regulating the proliferation of proper tapetum cells.
-   - MS23, MS32, bHLH122 and bHLH51 showed sterility after mutation of 4 transcription factors.
+   - The bHLH transcription factors **Ms23**, MS32, bHLH122 and bHLH51 are involved in anther somatic cell development in turn, and play an important role in regulating the proliferation of proper tapetum cells.
+   - **Ms23**, MS32, bHLH122 and bHLH51 showed sterility after mutation of 4 transcription factors.
 
 ## Literature:
    - [A cascade of bHLH-regulated pathways programs maize anther development.]( https://academic.oup.com/plcell/article/34/4/1207/6501455)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac007](https://academic.oup.com/plcell/article/34/4/1207/6501455)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35018475](https://pubmed.ncbi.nlm.nih.gov/35018475/)
@@ -27,7 +27,9 @@ tags: [ development,anther,sterility,tapetum,anther development,cell proliferati
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,anther,sterility,tapetum,anther development,cell proliferation
 
 ## Sequences:

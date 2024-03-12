@@ -10,7 +10,7 @@ tags: [ resistance,defense ]
 - **Gene ID:**	[Zm00001eb074900]()
 - **Gene Symbol:** ZmERF061;ereb61
 - **Gene Name:** AP2-EREBP-transcription factor 61
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -18,7 +18,7 @@ tags: [ resistance,defense ]
    - **ZmERF061** positively regulates resistance of maize plants against E. turcicum through activating the expression of defense-related genes.
 
 ## Literature:
-   - [NA]( https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1080/17429145.2023.2261772](https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [ZmMPK6-1 positively regulates maize resistance to E. turcicum through enhancing ZmERF061 activity]( https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1080/17429145.2023.2261772](https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -26,7 +26,9 @@ tags: [ resistance,defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,defense
 
 ## Sequences:

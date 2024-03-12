@@ -10,7 +10,7 @@ tags: [ domestication,seed,quality,yield ]
 - **Gene ID:**	[Glyma.08G183500]()
 - **Gene Symbol:** GmSWEET10b
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ domestication,seed,quality,yield ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 domestication,seed,quality,yield
 
 ## Sequences:

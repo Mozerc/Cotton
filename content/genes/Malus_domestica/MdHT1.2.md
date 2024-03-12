@@ -10,7 +10,7 @@ tags: [ root,growth,root growth,plant growth,sugar,epidermis ]
 - **Gene ID:**	[MD10G1304000]()
 - **Gene Symbol:** MdHT1.2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,growth,root growth,plant growth,sugar,epidermis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,root growth,plant growth,sugar,epidermis
 
 ## Sequences:

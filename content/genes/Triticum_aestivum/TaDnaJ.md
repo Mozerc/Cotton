@@ -10,7 +10,7 @@ tags: [ defense ]
 - **Gene ID:**	[TraesCS7A02G506000]()
 - **Gene Symbol:** TaDnaJ
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 defense
 
 ## Sequences:

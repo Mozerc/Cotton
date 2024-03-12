@@ -10,7 +10,7 @@ tags: [ lignin ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MsNST1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Medicago sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ lignin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 lignin
 
 ## Sequences:

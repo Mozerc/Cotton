@@ -3,14 +3,14 @@ description: Malus domestica MYB30-INTERACTING E3 LIGASE 1 ; Malus domestica
 meta_title:
 title: MdMIEL1
 categories: [Malus domestica]
-tags: [ drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdMIEL1
 - **Gene Name:** Malus domestica MYB30-INTERACTING E3 LIGASE 1
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,stress response,drought st
 - **NCBI ID:** [XM_008342616.3](https://www.ncbi.nlm.nih.gov/gene/?term=XM_008342616.3)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

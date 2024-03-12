@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[DTZ79_16g09490/Actinidia31027]()
 - **Gene Symbol:** AceMYBS1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Actinidia chinensis*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [  ]
 - **NCBI ID:** [DTZ79_16g09490](https://www.ncbi.nlm.nih.gov/gene/?term=DTZ79_16g09490)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: MDP0000248567 ; Malus domestica
 meta_title:
 title: MdAREB2
 categories: [Malus domestica]
-tags: [ transcription factor,aba,sugar, aba  ]
+tags: [ transcription factor,aba,sugar ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000248567]()
 - **Gene Symbol:** MdAREB2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,aba,sugar, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,aba,sugar, aba 
+## Orthologs:
+
+## Keywords:
+transcription factor,aba,sugar
 
 ## Sequences:
 - **CDS Sequence:**

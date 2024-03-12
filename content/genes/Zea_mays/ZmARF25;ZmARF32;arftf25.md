@@ -10,7 +10,7 @@ tags: [ leaf,development,leaf development,heterosis,cell proliferation,cellular 
 - **Gene ID:**	[Zm00001eb363810]()
 - **Gene Symbol:** ZmARF25;ZmARF32;arftf25
 - **Gene Name:** ARF-transcription factor 25
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,development,leaf development,heterosis,cell proliferation,cellular 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,development,leaf development,heterosis,cell proliferation,cellular proliferation,organ size,leaf size
 
 ## Sequences:

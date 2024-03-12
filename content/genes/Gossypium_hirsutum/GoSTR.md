@@ -10,7 +10,7 @@ tags: [ stem,growth ]
 - **Gene ID:**	[GH_D08G0109]()
 - **Gene Symbol:** GoSTR
 - **Gene Name:** Gossypium Stem Trichome Repressor
-- **Genome Version:** [reference genome TM-1 v2.1]()
+- **Genome:** [reference genome TM-1 v2.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stem,growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stem,growth
 
 ## Sequences:

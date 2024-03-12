@@ -3,14 +3,14 @@ description: ZIM-transcription factor 16 ; Zm00001eb006000 ; Zea mays
 meta_title:
 title: ZmJAZ2;ZmJAZ5
 categories: [Zea mays]
-tags: [ growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja biosynthesis, ja  ]
+tags: [ growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb006000]()
 - **Gene Symbol:** ZmJAZ2;ZmJAZ5;zim16
 - **Gene Name:** ZIM-transcription factor 16
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja biosynthesis, ja 
+## Orthologs:
+
+## Keywords:
+growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

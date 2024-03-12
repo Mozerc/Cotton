@@ -10,7 +10,7 @@ tags: [ development,flower,pollen,pollen development,pollen wall,cell wall,signa
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlMPK4
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ development,flower,pollen,pollen development,pollen wall,cell wall,signa
 - **NCBI ID:** [HM367593](https://www.ncbi.nlm.nih.gov/gene/?term=HM367593)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,flower,pollen,pollen development,pollen wall,cell wall,signal transduction,flower development,pollen formation
 
 ## Sequences:

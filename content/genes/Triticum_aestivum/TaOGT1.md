@@ -10,7 +10,7 @@ tags: [ sugar,flowering time,flowering,heading time ]
 - **Gene ID:**	[TraesCS6A01G091300]()
 - **Gene Symbol:** TaOGT1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ sugar,flowering time,flowering,heading time ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 sugar,flowering time,flowering,heading time
 
 ## Sequences:

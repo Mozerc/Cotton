@@ -10,7 +10,7 @@ tags: [ shoot gravitropism,development,shoot,auxin,inflorescence,auxin response,
 - **Gene ID:**	[Zm00001eb169480]()
 - **Gene Symbol:** ZmLA1
 - **Gene Name:** lazy plant1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ shoot gravitropism,development,shoot,auxin,inflorescence,auxin response,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 shoot gravitropism,development,shoot,auxin,inflorescence,auxin response,auxin transport,inflorescence development
 
 ## Sequences:

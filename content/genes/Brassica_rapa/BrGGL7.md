@@ -10,7 +10,7 @@ tags: [ pollen,sterility,sterile,male sterility,pollen formation ]
 - **Gene ID:**	[BraA05g022470.3C]()
 - **Gene Symbol:** BrGGL7
 - **Gene Name:** 
-- **Genome Version:** [V3.0 reference genome]()
+- **Genome:** [V3.0 reference genome]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ pollen,sterility,sterile,male sterility,pollen formation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 pollen,sterility,sterile,male sterility,pollen formation
 
 ## Sequences:

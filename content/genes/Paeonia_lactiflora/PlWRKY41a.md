@@ -26,7 +26,10 @@ tags: [ stem,cell wall,secondary cell wall,stem strength ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 stem,cell wall,secondary cell wall,stem strength
 
 ## Sequences:

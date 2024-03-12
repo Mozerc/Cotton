@@ -10,7 +10,7 @@ tags: [ root,stress,root elongation,architecture,root architecture ]
 - **Gene ID:**	[Glyma.02g274600]()
 - **Gene Symbol:** GmEIL4
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,stress,root elongation,architecture,root architecture ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,stress,root elongation,architecture,root architecture
 
 ## Sequences:

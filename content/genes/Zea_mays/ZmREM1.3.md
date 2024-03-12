@@ -3,14 +3,14 @@ description: GRMZM2G122937 ; Zea mays
 meta_title:
 title: ZmREM1.3
 categories: [Zea mays]
-tags: [ ja,sa, sa ,defence,defence response, ja ,ja signalling ]
+tags: [ ja,sa,defence,defence response,ja signalling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G122937]()
 - **Gene Symbol:** ZmREM1.3
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ ja,sa, sa ,defence,defence response, ja ,ja signalling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja,sa, sa ,defence,defence response, ja ,ja signalling
+## Orthologs:
+
+## Keywords:
+ja,sa,defence,defence response,ja signalling
 
 ## Sequences:
 - **CDS Sequence:**

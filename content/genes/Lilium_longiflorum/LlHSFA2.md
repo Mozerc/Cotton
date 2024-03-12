@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** LlHSFA2
 - **Gene Name:** HEAT STRESS TRANSCRIPTION FACTOR A2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Lilium longiflorum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [HM185815.1](https://www.ncbi.nlm.nih.gov/gene/?term=HM185815.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

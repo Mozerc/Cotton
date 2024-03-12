@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Potri.005G026200]()
 - **Gene Symbol:** PdeRBOHB
 - **Gene Name:** RESPIRATORY BURST OXIDASE HOMOLOG B
-- **Genome Version:** [P. trichocarpa genome (V3.0)]()
+- **Genome:** [P. trichocarpa genome (V3.0)]()
 - **Species:** *Populus deltoides*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

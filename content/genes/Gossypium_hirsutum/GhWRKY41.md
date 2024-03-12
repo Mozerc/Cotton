@@ -10,7 +10,7 @@ tags: [ lignin ]
 - **Gene ID:**	[Gh_A08G2417]()
 - **Gene Symbol:** GhWRKY41
 - **Gene Name:** 
-- **Genome Version:** [G. hirsutum cv. TM-1 reference genome (https://cottonfgd.org/)]()
+- **Genome:** [G. hirsutum cv. TM-1 reference genome (https://cottonfgd.org/)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ lignin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 lignin
 
 ## Sequences:

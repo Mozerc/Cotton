@@ -10,7 +10,7 @@ tags: [ auxin,homeostasis ]
 - **Gene ID:**	[Zm00001eb011450]()
 - **Gene Symbol:** ZmIMB4;impb9
 - **Gene Name:** importin beta9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ auxin,homeostasis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,homeostasis
 
 ## Sequences:

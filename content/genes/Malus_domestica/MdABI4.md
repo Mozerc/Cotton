@@ -3,14 +3,14 @@ description: MD07G1224400 ; Malus domestica
 meta_title:
 title: MdABI4
 categories: [Malus domestica]
-tags: [ aba, aba  ]
+tags: [ aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD07G1224400]()
 - **Gene Symbol:** MdABI4
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba, aba 
+## Orthologs:
+
+## Keywords:
+aba
 
 ## Sequences:
 - **CDS Sequence:**

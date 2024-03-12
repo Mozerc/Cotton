@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** JrWRKY21
 - **Gene Name:** 
-- **Genome Version:** [Juglans regia reference genome Walnut 2.0（GCA_001411555.2）]()
+- **Genome:** [Juglans regia reference genome Walnut 2.0（GCA_001411555.2）]()
 - **Species:** *Juglans regia*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [LOC108996036](https://www.ncbi.nlm.nih.gov/gene/?term=LOC108996036)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

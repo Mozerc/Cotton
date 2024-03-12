@@ -10,13 +10,13 @@ tags: [ development ]
 - **Gene ID:**	[Zm00001d021053]()
 - **Gene Symbol:** Dek43
 - **Gene Name:** DEFECTIVE KERNEL 43
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - DEK43, a dual-localized PPR protein, plays an important role in maintaining mitochondrial function and maize kernel development.
+   - **Dek43**, a dual-localized PPR protein, plays an important role in maintaining mitochondrial function and maize kernel development.
    - Mutations in **Dek43** affect cis-splicing of mitochondrial nad4 introns 1 and 3.
-   - The dek43-1 mutant exhibits reduced mitochondrial complex I abundance and activity.
+   - The **Dek43**-1 mutant exhibits reduced mitochondrial complex I abundance and activity.
 
 ## Literature:
    - [DEK43 is a P-type pentatricopeptide repeat (PPR) protein responsible for the Cis-splicing of nad4 in maize mitochondria.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.12843)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12843](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.12843)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31119902](https://pubmed.ncbi.nlm.nih.gov/31119902/)
@@ -28,7 +28,9 @@ tags: [ development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development
 
 ## Sequences:

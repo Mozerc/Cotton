@@ -10,7 +10,7 @@ tags: [ cell division,iaa,embryo,callus,cell expansion,iaa biosynthesis,callus f
 - **Gene ID:**	[Zm00001d001964]()
 - **Gene Symbol:** ZmSAUR15
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ cell division,iaa,embryo,callus,cell expansion,iaa biosynthesis,callus f
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell division,iaa,embryo,callus,cell expansion,iaa biosynthesis,callus formation
 
 ## Sequences:

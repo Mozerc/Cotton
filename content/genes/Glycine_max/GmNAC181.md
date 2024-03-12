@@ -10,7 +10,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,node ]
 - **Gene ID:**	[Glyma.19G108800]()
 - **Gene Symbol:** GmNAC181
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,node ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,node
 
 ## Sequences:

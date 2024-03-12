@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,oxidative stress,tolerance
 - **Gene ID:**	[Zm00001eb204870]()
 - **Gene Symbol:** bzr3
 - **Gene Name:** BZR-transcription factor 3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,oxidative stress,tolerance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,oxidative stress,tolerance,oxidative,drought tolerance,stress tolerance,drought and oxidative stress
 
 ## Sequences:

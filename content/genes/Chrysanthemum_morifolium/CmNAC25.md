@@ -10,7 +10,7 @@ tags: [ flower,flowering ]
 - **Gene ID:**	[Unigene39896_All]()
 - **Gene Symbol:** CmNAC25
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ flower,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flower,flowering
 
 ## Sequences:

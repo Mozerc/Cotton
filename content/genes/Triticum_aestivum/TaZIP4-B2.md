@@ -10,12 +10,12 @@ tags: [ crossover,synapsis ]
 - **Gene ID:**	[TraesCS5B02G255100]()
 - **Gene Symbol:** TaZIP4-B2
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - **TaZIP4-B2** suppresses homoeologous COs in wheat-Ae. variabilis hybrids
-   - Tazip4-B2 mutant Cadenza lines show no multivalents
+   - **TaZIP4-B2** mutant Cadenza lines show no multivalents
    - **TaZIP4-B2** synapsis and crossover of homologous chromosomes
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ crossover,synapsis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 crossover,synapsis
 
 ## Sequences:

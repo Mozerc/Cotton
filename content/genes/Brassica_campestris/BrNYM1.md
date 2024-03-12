@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BraA03g050600.3C]()
 - **Gene Symbol:** BrNYM1
 - **Gene Name:** 
-- **Genome Version:** [Chinese cabbage v. 3.0]()
+- **Genome:** [Chinese cabbage v. 3.0]()
 - **Species:** *Brassica campestris*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

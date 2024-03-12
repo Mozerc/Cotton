@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[GRMZM2G133398]()
 - **Gene Symbol:** ZmVP1
 - **Gene Name:** Zea mays VIVIPAROUS1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

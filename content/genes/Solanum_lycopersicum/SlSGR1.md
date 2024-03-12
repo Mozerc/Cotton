@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,chlorophyll ]
 - **Gene ID:**	[Solyc08g080090]()
 - **Gene Symbol:** SlSGR1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,leaf senescence,senescence,chlorophyll ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,chlorophyll
 
 ## Sequences:

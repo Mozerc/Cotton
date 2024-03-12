@@ -3,14 +3,14 @@ description: TraesCS3D02G428000 ; Triticum aestivum
 meta_title:
 title: TaMADS2-3D
 categories: [Triticum aestivum]
-tags: [ root,growth,stress,vegetative,architecture,root growth,pi, pi ,root architecture ]
+tags: [ root,growth,stress,vegetative,architecture,root growth,pi,root architecture ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G428000]()
 - **Gene Symbol:** TaMADS2-3D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -20,7 +20,7 @@ tags: [ root,growth,stress,vegetative,architecture,root growth,pi, pi ,root arch
    - Overexpressing **TaMADS2-3D** increased H2O2 and O2− production in Arabidopsis roots
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.020](https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [TaMADS2-3D, a MADS transcription factor gene, regulates phosphate starvation responses in plants]( https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.020](https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [​The Crop Journal | 小麦转录因子TaMADS2-3D基因参与调控低磷胁迫响应](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247513360&idx=4&sn=7e897119399d4dd4a2136c9c0078cf80&chksm=ce901845f9e79153079008b65ca571c38ebd01ded02948148e3af0080ea611a728c02d3f8e06&scene=27#wechat_redirect)
@@ -29,8 +29,10 @@ tags: [ root,growth,stress,vegetative,architecture,root growth,pi, pi ,root arch
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,growth,stress,vegetative,architecture,root growth,pi, pi ,root architecture
+## Orthologs:
+
+## Keywords:
+root,growth,stress,vegetative,architecture,root growth,pi,root architecture
 
 ## Sequences:
 - **CDS Sequence:**

@@ -3,14 +3,14 @@ description: MDP0000644807 ; Malus domestica
 meta_title:
 title: MdERF38
 categories: [Malus domestica]
-tags: [ drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000644807]()
 - **Gene Symbol:** MdERF38
 - **Gene Name:** 
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,stress response,drought st
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

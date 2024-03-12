@@ -10,7 +10,7 @@ tags: [ melatonin,melatonin biosynthesis,serotonin biosynthesis ]
 - **Gene ID:**	[Solyc06g064500]()
 - **Gene Symbol:** SlASMT7
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ melatonin,melatonin biosynthesis,serotonin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 melatonin,melatonin biosynthesis,serotonin biosynthesis
 
 ## Sequences:

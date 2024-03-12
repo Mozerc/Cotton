@@ -3,14 +3,14 @@ description: glucose-6-phosphate dehydrogenase4 ; Zm00001eb019890 ; Zea mays
 meta_title:
 title: ZmG6PDH4;G6PD2
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,defense response,defense,gibberellin,cold stress,aba,cold, aba ,stress response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,defense response,defense,gibberellin,cold stress,aba,cold,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb019890]()
 - **Gene Symbol:** ZmG6PDH4;G6PD2;gpdh4
 - **Gene Name:** glucose-6-phosphate dehydrogenase4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,defense response,defense,g
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,defense response,defense,gibberellin,cold stress,aba,cold, aba ,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,defense response,defense,gibberellin,cold stress,aba,cold,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

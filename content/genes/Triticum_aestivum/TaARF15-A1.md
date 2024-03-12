@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,auxin,auxin response ]
 - **Gene ID:**	[TraesCS6A02G113000]()
 - **Gene Symbol:** TaARF15-A1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,leaf senescence,senescence,auxin,auxin response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,auxin,auxin response
 
 ## Sequences:

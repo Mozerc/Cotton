@@ -3,19 +3,19 @@ description: ascorbate peroxidase 1 ; Zm00001eb013080 ; Zea mays
 meta_title:
 title: ZmAPX1;apx3
 categories: [Zea mays]
-tags: [ leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathway gene,ja biosynthesis, ja ,ja signaling,plant defense signaling ]
+tags: [ leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathway gene,ja biosynthesis,ja signaling,plant defense signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb013080]()
 - **Gene Symbol:** ZmAPX1;apx3
 - **Gene Name:** ascorbate peroxidase 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - These proteins included an ascorbate peroxidase (Zea mays ascorbate peroxidase 1 (**ZmAPX1**)) encoded by a gene located within the mapping interval of a previously identified quantitative trait locus associated with SCLB resistance.
-   - **ZmAPX1** overexpression resulted in lower H2O2 accumulation and enhanced resistance against B. maydis. Jasmonic acid (JA) contents and transcript levels for JA biosynthesis and responsive genes increased in **ZmAPX1**-overexpressing plants infected with B. maydis, whereas Zmapx1 mutants showed the opposite effects.
+   - **ZmAPX1** overexpression resulted in lower H2O2 accumulation and enhanced resistance against B. maydis. Jasmonic acid (JA) contents and transcript levels for JA biosynthesis and responsive genes increased in **ZmAPX1**-overexpressing plants infected with B. maydis, whereas **ZmAPX1** mutants showed the opposite effects.
    - These results demonstrate that **ZmAPX1** positively regulates SCLB resistance by decreasing H2O2 accumulation and activating the JA-mediated defense signaling pathway. This study identified **ZmAPX1** as a potentially useful gene for increasing SCLB resistance. Furthermore, the generated data may be relevant for clarifying the functions of plant APXs.
    - Overexpression of Zea mays ascorbate peroxidase 1 (**ZmAPX1**) confers resistance against southern corn leaf blight.
    - These results suggest that **ZmAPX1** decreases the accumulation of H2O2. In addition, we measured H2O2 contents in B. maydis-infected Mo17 and B73 plants, finding that the Mo17 plants accumulated lower H2O2 levels than B73 plants.
@@ -31,8 +31,10 @@ tags: [ leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathw
 - **NCBI ID:** [LOC100285887](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285887)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathway gene,ja biosynthesis, ja ,ja signaling,plant defense signaling
+## Orthologs:
+
+## Keywords:
+leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathway gene,ja biosynthesis,ja signaling,plant defense signaling
 
 ## Sequences:
 - **CDS Sequence:**

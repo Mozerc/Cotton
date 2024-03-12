@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Glyma.08G363100]()
 - **Gene Symbol:** GmFT4
 - **Gene Name:** 
-- **Genome Version:** [Wm82.a2.v1]()
+- **Genome:** [Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.19g146000]()
 - **Gene Symbol:** GmSPL9d
 - **Gene Name:** SQUAMOSA promoter-binding protein-like 9d
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

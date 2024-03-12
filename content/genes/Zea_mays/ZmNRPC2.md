@@ -10,7 +10,7 @@ tags: [ transcription factor,development,cell proliferation ]
 - **Gene ID:**	[Zm00001d035960]()
 - **Gene Symbol:** ZmNRPC2
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,development,cell proliferation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,development,cell proliferation
 
 ## Sequences:

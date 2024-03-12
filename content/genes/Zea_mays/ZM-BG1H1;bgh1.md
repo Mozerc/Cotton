@@ -10,7 +10,7 @@ tags: [ grain,grain size,stress,grain number,seed,grain yield,yield,seed size ]
 - **Gene ID:**	[Zm00001eb005730]()
 - **Gene Symbol:** ZM-BG1H1;bgh1
 - **Gene Name:** Zea Mays BIG GRAIN 1 HOMOLOG 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ grain,grain size,stress,grain number,seed,grain yield,yield,seed size ]
 - **NCBI ID:** [100277616](https://www.ncbi.nlm.nih.gov/gene/?term=100277616)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain size,stress,grain number,seed,grain yield,yield,seed size
 
 ## Sequences:

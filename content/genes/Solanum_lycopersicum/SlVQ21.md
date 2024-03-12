@@ -3,14 +3,14 @@ description: Solyc10g007580 ; Solanum lycopersicum
 meta_title:
 title: SlVQ21
 categories: [Solanum lycopersicum]
-tags: [ ja,phytohormone, ja  ]
+tags: [ ja,phytohormone ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc10g007580]()
 - **Gene Symbol:** SlVQ21
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ ja,phytohormone, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja,phytohormone, ja 
+## Orthologs:
+
+## Keywords:
+ja,phytohormone
 
 ## Sequences:
 - **CDS Sequence:**

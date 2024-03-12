@@ -10,7 +10,7 @@ tags: [ stems ]
 - **Gene ID:**	[GH_D08G1984]()
 - **Gene Symbol:** GoSPGF
 - **Gene Name:** Gossypium STEM PIGMENT GLAND FORMING GENE
-- **Genome Version:** [TM-1 reference genome]()
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stems ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stems
 
 ## Sequences:

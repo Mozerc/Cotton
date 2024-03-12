@@ -1,22 +1,22 @@
 ---
 description: bZIP transcription factor60 ; Zm00001eb388050 ; Zea mays
 meta_title:
-title: bZIP60;ZmbZIP60
+title: BZIP60;ZmbZIP60
 categories: [Zea mays]
 tags: [ transcription factor,growth,stress,tolerance,vegetative,stress tolerance,flowering,stress response,heat tolerance,heat stress,heat stress response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb388050]()
-- **Gene Symbol:** bZIP60;ZmbZIP60;ZmbZIP112
+- **Gene Symbol:** BZIP60;ZmbZIP60;ZmbZIP112
 - **Gene Name:** bZIP transcription factor60
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The Transcription Factor **bZIP60** Links the Unfolded Protein Response to the Heat Stress Response in Maize.
-   - Role of **bZIP60** in Heat Tolerance.
-   - **bZIP60** activity hampered vegetative growth and resulted in early flowering.
+   - The Transcription Factor **BZIP60** Links the Unfolded Protein Response to the Heat Stress Response in Maize.
+   - Role of **BZIP60** in Heat Tolerance.
+   - **BZIP60** activity hampered vegetative growth and resulted in early flowering.
 
 ## Literature:
    - [The Transcription Factor bZIP60 Links the Unfolded Protein Response to the Heat Stress Response in Maize.]( https://academic.oup.com/plcell/article/32/11/3559/6099370?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00260](https://academic.oup.com/plcell/article/32/11/3559/6099370?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32843434](https://pubmed.ncbi.nlm.nih.gov/32843434/)
@@ -28,7 +28,9 @@ tags: [ transcription factor,growth,stress,tolerance,vegetative,stress tolerance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,growth,stress,tolerance,vegetative,stress tolerance,flowering,stress response,heat tolerance,heat stress,heat stress response
 
 ## Sequences:

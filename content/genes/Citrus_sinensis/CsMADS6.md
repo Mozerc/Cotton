@@ -10,7 +10,7 @@ tags: [ transcription factor,development ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsMADS6
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,development ]
 - **NCBI ID:** [MG594037](https://www.ncbi.nlm.nih.gov/gene/?term=MG594037)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
 - **Gene ID:**	[Zm00001eb047760]()
 - **Gene Symbol:** ZmHSFA2;ZmHsf04;hsf24
 - **Gene Name:** HEAT SHOCK FACTOR A2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
 
 ## Sequences:

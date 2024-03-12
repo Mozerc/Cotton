@@ -10,7 +10,7 @@ tags: [ vegetative,height,plant height,flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb387280]()
 - **Gene Symbol:** ZmEREB55;gl4;gl15
 - **Gene Name:** glossy15
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ vegetative,height,plant height,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 vegetative,height,plant height,flowering time,flowering
 
 ## Sequences:

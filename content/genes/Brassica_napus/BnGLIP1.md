@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[BnaC07g35650D]()
 - **Gene Symbol:** BnGLIP1
 - **Gene Name:** 
-- **Genome Version:** [referrce genome of ‘Darmor-bzh’]()
+- **Genome:** [referrce genome of ‘Darmor-bzh’]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

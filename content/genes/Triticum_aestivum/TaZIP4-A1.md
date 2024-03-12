@@ -10,7 +10,7 @@ tags: [ crossover,synapsis ]
 - **Gene ID:**	[TraesCS3A02G401700]()
 - **Gene Symbol:** TaZIP4-A1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ crossover,synapsis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 crossover,synapsis
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ development,flower,flower development,flowering ]
 - **Gene ID:**	[FvH4_6g00090]()
 - **Gene Symbol:** FvFT1
 - **Gene Name:** FLOWERING LOCUS T1
-- **Genome Version:** [Fragaria vesca Whole Genome v4.0.a2]()
+- **Genome:** [Fragaria vesca Whole Genome v4.0.a2]()
 - **Species:** **
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,flower,flower development,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 development,flower,flower development,flowering
 
 ## Sequences:

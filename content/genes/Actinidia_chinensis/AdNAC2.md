@@ -10,7 +10,7 @@ tags: [ ethylene,ethylene response ]
 - **Gene ID:**	[Acc26399]()
 - **Gene Symbol:** AdNAC2
 - **Gene Name:** 
-- **Genome Version:** [Genome_version:Actinidia chinensis (Red5)]()
+- **Genome:** [Actinidia chinensis (Red5)]()
 - **Species:** *Actinidia chinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene,ethylene response ]
 - **NCBI ID:** [NCBI_ID:](https://www.ncbi.nlm.nih.gov/gene/?term=NCBI_ID:)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene,ethylene response
 
 ## Sequences:

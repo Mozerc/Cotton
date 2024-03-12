@@ -10,7 +10,7 @@ tags: [ leaf,leaf shape ]
 - **Gene ID:**	[BraA10g000480.3C]()
 - **Gene Symbol:** BrAN
 - **Gene Name:** 
-- **Genome Version:** [V3.0 reference genome]()
+- **Genome:** [V3.0 reference genome]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ leaf,leaf shape ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,leaf shape
 
 ## Sequences:

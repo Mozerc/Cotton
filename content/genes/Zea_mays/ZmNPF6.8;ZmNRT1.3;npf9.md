@@ -10,7 +10,7 @@ tags: [ nitrogen,leaf,nitrate ]
 - **Gene ID:**	[Zm00001eb245250]()
 - **Gene Symbol:** ZmNPF6.8;ZmNRT1.3;npf9
 - **Gene Name:** nitrate transporter/peptide transporter family9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ nitrogen,leaf,nitrate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,leaf,nitrate
 
 ## Sequences:

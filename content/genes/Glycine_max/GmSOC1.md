@@ -10,7 +10,7 @@ tags: [ floral,flowering ]
 - **Gene ID:**	[Glyma18G224500]()
 - **Gene Symbol:** GmSOC1
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ floral,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 floral,flowering
 
 ## Sequences:

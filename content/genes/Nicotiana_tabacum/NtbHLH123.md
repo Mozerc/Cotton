@@ -26,7 +26,10 @@ tags: [ stress,salt,salt stress,stress response ]
 - **NCBI ID:** [XM_016658960](https://www.ncbi.nlm.nih.gov/gene/?term=XM_016658960)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 stress,salt,salt stress,stress response
 
 ## Sequences:

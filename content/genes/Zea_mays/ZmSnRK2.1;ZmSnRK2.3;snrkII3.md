@@ -3,14 +3,14 @@ description: SnRK2 serine threonine protein kinase3 ; Zm00001eb023880 ; Zea mays
 meta_title:
 title: ZmSnRK2.1;ZmSnRK2.3
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,salt,cold stress,abiotic stress,salt stress,cold ]
+tags: [ drought,stress,drought stress,salt,cold stress,abiotic stress,salt stress,cold ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb023880]()
 - **Gene Symbol:** ZmSnRK2.1;ZmSnRK2.3;snrkII3
 - **Gene Name:** SnRK2 serine threonine protein kinase3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,salt,cold stress,abiotic s
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,salt,cold stress,abiotic stress,salt stress,cold
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,salt,cold stress,abiotic stress,salt stress,cold
 
 ## Sequences:
 - **CDS Sequence:**

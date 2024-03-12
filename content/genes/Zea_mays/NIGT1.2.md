@@ -3,14 +3,14 @@ description: NITRATE-INDUCIBLE, GARP-TYPE TRANSCRIPTIOANL REPRESSOR1.2 ; AT1G686
 meta_title:
 title: NIGT1.2
 categories: [Zea mays]
-tags: [ transcription factor,nitrate,phosphate,pi, pi ,pi uptake,phosphate starvation ]
+tags: [ transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[AT1G68670]()
 - **Gene Symbol:** NIGT1.2
 - **Gene Name:** NITRATE-INDUCIBLE, GARP-TYPE TRANSCRIPTIOANL REPRESSOR1.2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,nitrate,phosphate,pi, pi ,pi uptake,phosphate starv
 - **NCBI ID:** [AT1G68670](https://www.ncbi.nlm.nih.gov/gene/?term=AT1G68670)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,nitrate,phosphate,pi, pi ,pi uptake,phosphate starvation
+## Orthologs:
+
+## Keywords:
+transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation
 
 ## Sequences:
 - **CDS Sequence:**

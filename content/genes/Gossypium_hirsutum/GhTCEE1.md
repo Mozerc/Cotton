@@ -10,7 +10,7 @@ tags: [ callus,callus formation ]
 - **Gene ID:**	[Gh_D11G3523]()
 - **Gene Symbol:** GhTCEE1
 - **Gene Name:** 
-- **Genome Version:** [cotton genome database (https://cottonfgd.org/)]()
+- **Genome:** [cotton genome database (https://cottonfgd.org/)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ callus,callus formation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 callus,callus formation
 
 ## Sequences:

@@ -10,13 +10,13 @@ tags: [ root,root elongation,root initiation,primary root,root hair,root length,
 - **Gene ID:**	[GRMZM2G426953]()
 - **Gene Symbol:** RTH5
 - **Gene Name:** roothairless 5
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Roothairless5, which functions in maize root hair initiation and elongation encodes a monocot-specific NADPH oxidase.
    - The roothairless5 gene controls both root hair length and density.
-   - The rth5 gene is preferentially expressed in root hairs.
+   - The **RTH5** gene is preferentially expressed in root hairs.
    - The **RTH5** protein is localized in epidermal cells of the primary root.
 
 ## Literature:
@@ -29,7 +29,9 @@ tags: [ root,root elongation,root initiation,primary root,root hair,root length,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,root elongation,root initiation,primary root,root hair,root length,root epidermal cells
 
 ## Sequences:

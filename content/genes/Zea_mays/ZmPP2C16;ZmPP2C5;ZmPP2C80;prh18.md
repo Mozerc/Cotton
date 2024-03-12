@@ -10,7 +10,7 @@ tags: [ growth,development,plant development,stress,plant growth,stress response
 - **Gene ID:**	[Zm00001eb356420]()
 - **Gene Symbol:** ZmPP2C16;ZmPP2C5;ZmPP2C80;prh18
 - **Gene Name:** protein phosphatase homolog18
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ growth,development,plant development,stress,plant growth,stress response
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,plant development,stress,plant growth,stress response,phosphatase,protein phosphatase
 
 ## Sequences:

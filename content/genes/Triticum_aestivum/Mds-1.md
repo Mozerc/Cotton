@@ -10,7 +10,7 @@ tags: [ development,resistance,resistant ]
 - **Gene ID:**	[TraesCSU02G074100LC]()
 - **Gene Symbol:** Mds-1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,resistance,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,resistance,resistant
 
 ## Sequences:

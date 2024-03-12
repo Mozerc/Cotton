@@ -26,7 +26,10 @@ tags: [ growth,development,resistance,blight,bacterial blight,blast,blast resist
 - **NCBI ID:** [OM069715](https://www.ncbi.nlm.nih.gov/gene/?term=OM069715)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 growth,development,resistance,blight,bacterial blight,blast,blast resistance
 
 ## Sequences:

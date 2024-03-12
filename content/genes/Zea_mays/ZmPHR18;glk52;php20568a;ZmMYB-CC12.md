@@ -10,7 +10,7 @@ tags: [ phosphorus ]
 - **Gene ID:**	[Zm00001eb433040]()
 - **Gene Symbol:** ZmPHR18;glk52;php20568a;ZmMYB-CC12
 - **Gene Name:** G2-like-transcription factor 52
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ phosphorus ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 phosphorus
 
 ## Sequences:

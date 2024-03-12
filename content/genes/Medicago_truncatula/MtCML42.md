@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MtCML42
 - **Gene Name:** 
-- **Genome Version:** [M. truncatula Genome Project v4.0]()
+- **Genome:** [M. truncatula Genome Project v4.0]()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:** [MTR_7g074240](https://www.ncbi.nlm.nih.gov/gene/?term=MTR_7g074240)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

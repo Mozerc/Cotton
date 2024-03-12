@@ -10,7 +10,7 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 - **Gene ID:**	[Zm00001eb203330]()
 - **Gene Symbol:** ZmCBL4;ZmCBL8;cbl8
 - **Gene Name:** calcineurin B-like8
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,salinity,salt,tolerance,salt tolerance,salt stress,stress tolerance,salinity stress,calcium,calcium signaling
 
 ## Sequences:

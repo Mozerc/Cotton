@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[c81720_g1]()
 - **Gene Symbol:** CmNPR1
 - **Gene Name:** Gene_name:Chrysanthemum morifolium nonexpressor of pathogenesis-related gene 1
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

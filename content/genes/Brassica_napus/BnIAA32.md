@@ -10,7 +10,7 @@ tags: [ iaa ]
 - **Gene ID:**	[BnaA06G0441800WE]()
 - **Gene Symbol:** BnIAA32
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [ iaa ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 iaa
 
 ## Sequences:

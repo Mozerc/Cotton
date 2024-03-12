@@ -10,7 +10,7 @@ tags: [ development,shoot,meristem,branching,shoot apical meristem,axillary meri
 - **Gene ID:**	[Glyma.02G177500]()
 - **Gene Symbol:** GmSPL9a
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ development,shoot,meristem,branching,shoot apical meristem,axillary meri
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,shoot,meristem,branching,shoot apical meristem,axillary meristem,homeobox gene,shoot meristem
 
 ## Sequences:

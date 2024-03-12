@@ -10,7 +10,7 @@ tags: [ br, br  ]
 - **Gene ID:**	[Gh_A11G2808]()
 - **Gene Symbol:** GhFP1
 - **Gene Name:** Fibre-related Protein 1
-- **Genome Version:** [AADD genome]()
+- **Genome:** [AADD genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ br, br  ]
 - **NCBI ID:** [KR782251](https://www.ncbi.nlm.nih.gov/gene/?term=KR782251)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 br, br 
 
 ## Sequences:

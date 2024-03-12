@@ -10,7 +10,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 - **Gene ID:**	[TraesCS2B02G092700]()
 - **Gene Symbol:** TaSRT1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance
 
 ## Sequences:

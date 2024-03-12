@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance ]
 - **Gene ID:**	[MD14G1189300]()
 - **Gene Symbol:** MdMYB1r1
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance
 
 ## Sequences:

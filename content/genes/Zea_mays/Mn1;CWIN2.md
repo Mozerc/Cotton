@@ -10,13 +10,13 @@ tags: [ development,seed,cell wall,endosperm,sugar,seed development,endosperm de
 - **Gene ID:**	[Zm00001eb083790]()
 - **Gene Symbol:** Mn1;CWIN2
 - **Gene Name:** miniature seed1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **Mn1** is especially expressed in the BETL and is critical for the majority of metabolic and signaling pathways associated with hexose sugars during endosperm development.
    - Mn6 and **Mn1** in the same pathway for sugar cleavage and subsequent seed filling.
-   - The mn1 mutant is a typical Mn mutant and provided the earliest genetic demonstration of the role of cell wall invertase in seed filling.
+   - The **Mn1** mutant is a typical Mn mutant and provided the earliest genetic demonstration of the role of cell wall invertase in seed filling.
 
 ## Literature:
    - [Miniature Seed6, encoding an endoplasmic reticulum signal peptidase, is critical in seed development.]( https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiaa060](https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33793873](https://pubmed.ncbi.nlm.nih.gov/33793873/)
@@ -28,7 +28,9 @@ tags: [ development,seed,cell wall,endosperm,sugar,seed development,endosperm de
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,cell wall,endosperm,sugar,seed development,endosperm development,seed filling
 
 ## Sequences:

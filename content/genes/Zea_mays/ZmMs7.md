@@ -10,7 +10,7 @@ tags: [ transcription factor,anther,sterility,seed,sterile,male sterility,hybrid
 - **Gene ID:**	[Zm00001eb314550]()
 - **Gene Symbol:** ZmMs7
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,anther,sterility,seed,sterile,male sterility,hybrid
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,anther,sterility,seed,sterile,male sterility,hybrid sterility
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress
 - **Gene ID:**	[Solyc03g098050]()
 - **Gene Symbol:** CaM6
 - **Gene Name:** Calmodulin6
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress response
 
 ## Sequences:

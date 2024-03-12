@@ -10,7 +10,7 @@ tags: [ ethylene,ethylene response ]
 - **Gene ID:**	[MDP0000704216]()
 - **Gene Symbol:** ERF17
 - **Gene Name:** ETHYLENE RESPONSE FACTOR17 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ ethylene,ethylene response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 ethylene,ethylene response
 
 ## Sequences:

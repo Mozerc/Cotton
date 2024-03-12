@@ -3,14 +3,14 @@ description: TraesCS4A02G001300 ; Triticum aestivum
 meta_title:
 title: TaERF87
 categories: [Triticum aestivum]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,drought sensitivity ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G001300]()
 - **Gene Symbol:** TaERF87
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,drought sensitivity
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

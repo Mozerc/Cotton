@@ -10,7 +10,7 @@ tags: [ growth,pollen,pollen formation ]
 - **Gene ID:**	[Pbr017224.1]()
 - **Gene Symbol:** PbrCalS1B.1
 - **Gene Name:** 
-- **Genome Version:** [Pyrus bretschneideri v1.1]()
+- **Genome:** [Pyrus bretschneideri v1.1]()
 - **Species:** *Pyrus bretschneideri*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,pollen,pollen formation ]
 - **NCBI ID:** [OP207888](https://www.ncbi.nlm.nih.gov/gene/?term=OP207888)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,pollen,pollen formation
 
 ## Sequences:

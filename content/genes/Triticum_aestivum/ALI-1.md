@@ -3,14 +3,14 @@ description: Awn Length Inhibitor 1 ; TraesCS5A02G542800 ; Triticum aestivum
 meta_title:
 title: ALI-1
 categories: [Triticum aestivum]
-tags: [ development,grain,grain length,awn,photosynthesis,cytokinin,cell elongation,grain weight,cell proliferation, awn  ]
+tags: [ development,grain,grain length,awn,photosynthesis,cytokinin,cell elongation,grain weight,cell proliferation ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G542800]()
 - **Gene Symbol:** ALI-1
 - **Gene Name:** Awn Length Inhibitor 1
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ development,grain,grain length,awn,photosynthesis,cytokinin,cell elongat
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-development,grain,grain length,awn,photosynthesis,cytokinin,cell elongation,grain weight,cell proliferation, awn 
+## Orthologs:
+
+## Keywords:
+development,grain,grain length,awn,photosynthesis,cytokinin,cell elongation,grain weight,cell proliferation
 
 ## Sequences:
 - **CDS Sequence:**

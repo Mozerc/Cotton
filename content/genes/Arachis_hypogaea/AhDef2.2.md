@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[arahy.Tifrunner.gnm1.ann1.IDU4K1]()
 - **Gene Symbol:** AhDef2.2
 - **Gene Name:** 
-- **Genome Version:** [Arachis hypogaea cv. Tifrunner]()
+- **Genome:** [Arachis hypogaea cv. Tifrunner]()
 - **Species:** *Arachis hypogaea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

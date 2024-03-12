@@ -3,14 +3,14 @@ description: Glyma.16g214300 ; Glycine max
 meta_title:
 title: SRC7
 categories: [Glycine max]
-tags: [ resistance,sa, sa  ]
+tags: [ resistance,sa ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.16g214300]()
 - **Gene Symbol:** SRC7
 - **Gene Name:** 
-- **Genome Version:** [Wm82.a2.v1 soybean database (https://soybase.org/)]()
+- **Genome:** [Wm82.a2.v1 soybean database (https://soybase.org/)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,sa, sa 
+## Orthologs:
+
+## Keywords:
+resistance,sa
 
 ## Sequences:
 - **CDS Sequence:**

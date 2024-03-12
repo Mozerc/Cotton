@@ -10,7 +10,7 @@ tags: [ temperature ]
 - **Gene ID:**	[Zm00001eb146720]()
 - **Gene Symbol:** ZmTLP14;tubtf2
 - **Gene Name:** TUB-transcription factor 2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ temperature ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 temperature
 
 ## Sequences:

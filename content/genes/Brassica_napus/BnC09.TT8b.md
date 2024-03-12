@@ -10,7 +10,7 @@ tags: [ seed,seed phenotype ]
 - **Gene ID:**	[BnaC09g24870D]()
 - **Gene Symbol:** BnC09.TT8b
 - **Gene Name:** 
-- **Genome Version:** [reference genome Darmor-bzh]()
+- **Genome:** [reference genome Darmor-bzh]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,seed phenotype ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,seed phenotype
 
 ## Sequences:

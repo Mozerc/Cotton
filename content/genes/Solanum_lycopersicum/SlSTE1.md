@@ -3,14 +3,14 @@ description: SALT TOLERANCE ENHANCER1 ; Solanum lycopersicum
 meta_title:
 title: SlSTE1
 categories: [Solanum lycopersicum]
-tags: [ stress,oxidative stress,salt,tolerance,oxidative,aba,salt tolerance,salt stress,stress tolerance,homeostasis,abscisic acid,chlorophyll, aba ,reactive oxygen species ]
+tags: [ stress,oxidative stress,salt,tolerance,oxidative,aba,salt tolerance,salt stress,stress tolerance,homeostasis,abscisic acid,chlorophyll,reactive oxygen species ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlSTE1
 - **Gene Name:** SALT TOLERANCE ENHANCER1
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ stress,oxidative stress,salt,tolerance,oxidative,aba,salt tolerance,salt
 - **NCBI ID:** [AK329679](https://www.ncbi.nlm.nih.gov/gene/?term=AK329679)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stress,oxidative stress,salt,tolerance,oxidative,aba,salt tolerance,salt stress,stress tolerance,homeostasis,abscisic acid,chlorophyll, aba ,reactive oxygen species
+## Orthologs:
+
+## Keywords:
+stress,oxidative stress,salt,tolerance,oxidative,aba,salt tolerance,salt stress,stress tolerance,homeostasis,abscisic acid,chlorophyll,reactive oxygen species
 
 ## Sequences:
 - **CDS Sequence:**

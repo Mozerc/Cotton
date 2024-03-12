@@ -10,13 +10,13 @@ tags: [ kinase,homeostasis,protein kinase ]
 - **Gene ID:**	[Zm00001eb300010]()
 - **Gene Symbol:** ZmCIPK23;cipk23
 - **Gene Name:** calcineurin B-like-interacting protein kinase23
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Similar to AKT1 regulation, the protein kinase **ZmCIPK23** interacted with ZMK1 and phosphorylated the cytosolic region of ZMK1, activating ZMK1-mediated K+ uptake.
-   - **ZmCIPK23** could also complement the low-K+-sensitive phenotype of Arabidopsis **cipk23**/lks1 mutant. These findings demonstrate that ZMK1 together with **ZmCIPK23** plays important roles in K+ uptake and homeostasis in maize.
-   - The activation voltage of ZMK1 was below −100 mV. We noted that **ZmCIPK23** alone could activate ZMK1, although the K+ currents were comparatively small.
+   - Similar to AKT1 regulation, the protein kinase **Zm**cipk23**** interacted with ZMK1 and phosphorylated the cytosolic region of ZMK1, activating ZMK1-mediated K+ uptake.
+   - **Zm**cipk23**** could also complement the low-K+-sensitive phenotype of Arabidopsis **cipk23**/lks1 mutant. These findings demonstrate that ZMK1 together with **Zm**cipk23**** plays important roles in K+ uptake and homeostasis in maize.
+   - The activation voltage of ZMK1 was below −100 mV. We noted that **Zm**cipk23**** alone could activate ZMK1, although the K+ currents were comparatively small.
 
 ## Literature:
    - [ZMK1 Is Involved in K(+) Uptake and Regulated by Protein Kinase ZmCIPK23 in Zea mays.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7966722/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2021.517742](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7966722/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33746991](https://pubmed.ncbi.nlm.nih.gov/33746991/)
@@ -27,7 +27,9 @@ tags: [ kinase,homeostasis,protein kinase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,homeostasis,protein kinase
 
 ## Sequences:

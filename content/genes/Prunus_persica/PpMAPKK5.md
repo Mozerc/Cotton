@@ -10,7 +10,7 @@ tags: [ development,resistance,disease,disease resistance,salicylic acid,cell de
 - **Gene ID:**	[]()
 - **Gene Symbol:** PpMAPKK5
 - **Gene Name:** P. persica mitogen-activated protein kinase kinase 5
-- **Genome Version:** [peach reference genome v2.0.a1]()
+- **Genome:** [peach reference genome v2.0.a1]()
 - **Species:** *Prunus persica*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,resistance,disease,disease resistance,salicylic acid,cell de
 - **NCBI ID:** [LOC18781583](https://www.ncbi.nlm.nih.gov/gene/?term=LOC18781583)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,resistance,disease,disease resistance,salicylic acid,cell death,r protein,sa, sa ,disease development
 
 ## Sequences:

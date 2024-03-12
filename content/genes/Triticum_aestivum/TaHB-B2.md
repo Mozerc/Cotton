@@ -10,7 +10,7 @@ tags: [ leaf,development,spikelet,grain,leaf development,inflorescence,branching
 - **Gene ID:**	[TraesCS1B02G173900]()
 - **Gene Symbol:** TaHB-B2
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ leaf,development,spikelet,grain,leaf development,inflorescence,branching
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,development,spikelet,grain,leaf development,inflorescence,branching,vascular development,resistant,spikelet development,grain protein content,grain protein,inflorescence development
 
 ## Sequences:

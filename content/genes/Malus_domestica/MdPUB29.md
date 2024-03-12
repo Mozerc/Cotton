@@ -10,7 +10,7 @@ tags: [ quality,ethylene,ubiquitin,ubiquitin e3 ligase ]
 - **Gene ID:**	[MDP0000194473]()
 - **Gene Symbol:** MdPUB29
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ quality,ethylene,ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 quality,ethylene,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

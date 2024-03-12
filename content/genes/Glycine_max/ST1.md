@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[Glyma.08g109100]()
 - **Gene Symbol:** ST1
 - **Gene Name:** Seed Thickness 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

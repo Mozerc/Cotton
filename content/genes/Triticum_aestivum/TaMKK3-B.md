@@ -10,7 +10,7 @@ tags: [ seed,dormancy,seed dormancy ]
 - **Gene ID:**	[TraesCS5B02G565100]()
 - **Gene Symbol:** TaMKK3-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ seed,dormancy,seed dormancy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,dormancy,seed dormancy
 
 ## Sequences:

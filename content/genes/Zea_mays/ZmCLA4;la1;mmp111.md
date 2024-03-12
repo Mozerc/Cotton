@@ -10,7 +10,7 @@ tags: [ leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasm
 - **Gene ID:**	[Zm00001eb169480]()
 - **Gene Symbol:** ZmCLA4;la1;mmp111
 - **Gene Name:** lazy plant1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasm
    - **ZmCLA4** protein shuttled between the plasma membrane and the nucleus.
 
 ## Literature:
-   - [NA]( https://academic.oup.com/jxb/article/65/17/5063/559064?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru271](https://academic.oup.com/jxb/article/65/17/5063/559064?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [The ZmCLA4 gene in the qLA4-1 QTL controls leaf angle in maize (Zea mays L.) ]( https://academic.oup.com/jxb/article/65/17/5063/559064?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru271](https://academic.oup.com/jxb/article/65/17/5063/559064?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [热点评 Science | 大刍草稀有等位基因促进玉米密植高产](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247491798&idx=3&sn=2203fc279721b554de1a6a78fe998f33&chksm=fd737ab1ca04f3a75d3d44d5d2fcd84b554bf9daa1e01640ab0b61d46ed9164c912bc6323518&scene=27#wechat_redirect)
@@ -28,7 +28,9 @@ tags: [ leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasm
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasma membrane,leaf angle
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ root,tolerance,al tolerance,cell wall,detoxification ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** HvHOX9
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root,tolerance,al tolerance,cell wall,detoxification ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,tolerance,al tolerance,cell wall,detoxification
 
 ## Sequences:

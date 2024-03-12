@@ -10,7 +10,7 @@ tags: [ auxin,auxin biosynthesis,signal transduction ]
 - **Gene ID:**	[MDP0000131759]()
 - **Gene Symbol:** MdIAA121
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ auxin,auxin biosynthesis,signal transduction ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,auxin biosynthesis,signal transduction
 
 ## Sequences:

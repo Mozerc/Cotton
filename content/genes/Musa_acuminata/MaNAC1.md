@@ -10,7 +10,7 @@ tags: [ stress,cell wall,cellulose,chilling,chilling stress ]
 - **Gene ID:**	[Ma06_g28730]()
 - **Gene Symbol:** MaNAC1
 - **Gene Name:** 
-- **Genome Version:** [banana A genome]()
+- **Genome:** [banana A genome]()
 - **Species:** *Musa acuminata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,cell wall,cellulose,chilling,chilling stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,cell wall,cellulose,chilling,chilling stress
 
 ## Sequences:

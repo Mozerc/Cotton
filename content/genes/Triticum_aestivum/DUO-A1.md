@@ -10,7 +10,7 @@ tags: [ grain,grain number,inflorescence,architecture,inflorescence architecture
 - **Gene ID:**	[TraesCS1A02G314200]()
 - **Gene Symbol:** DUO-A1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ grain,grain number,inflorescence,architecture,inflorescence architecture
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain number,inflorescence,architecture,inflorescence architecture
 
 ## Sequences:

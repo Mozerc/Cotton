@@ -3,14 +3,14 @@ description: kaurene oxidase1 ; Zm00001d046344 ; Zea mays
 meta_title:
 title: ZmKO1
 categories: [Zea mays]
-tags: [ architecture,ga, ga ,plant architecture ]
+tags: [ architecture,ga,plant architecture ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d046344]()
 - **Gene Symbol:** ZmKO1
 - **Gene Name:** kaurene oxidase1
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ architecture,ga, ga ,plant architecture ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-architecture,ga, ga ,plant architecture
+## Orthologs:
+
+## Keywords:
+architecture,ga,plant architecture
 
 ## Sequences:
 - **CDS Sequence:**

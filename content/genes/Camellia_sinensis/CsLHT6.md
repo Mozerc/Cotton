@@ -10,7 +10,7 @@ tags: [ nitrogen,as transport ]
 - **Gene ID:**	[TEA003706]()
 - **Gene Symbol:** CsLHT6
 - **Gene Name:** 
-- **Genome Version:** [TeaPGDB V1.0 since 2020]()
+- **Genome:** [TeaPGDB V1.0 since 2020]()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ nitrogen,as transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 nitrogen,as transport
 
 ## Sequences:

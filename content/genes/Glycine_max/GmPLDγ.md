@@ -10,7 +10,7 @@ tags: [ seed,quality,yield ]
 - **Gene ID:**	[Glyma.01g42420]()
 - **Gene Symbol:** GmPLDγ
 - **Gene Name:** 
-- **Genome Version:** [Glyma.Wm82.gmn1]()
+- **Genome:** [Glyma.Wm82.gmn1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ seed,quality,yield ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,quality,yield
 
 ## Sequences:

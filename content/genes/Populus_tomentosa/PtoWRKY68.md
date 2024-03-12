@@ -10,7 +10,7 @@ tags: [ drought,tolerance,aba,drought tolerance, aba  ]
 - **Gene ID:**	[P.x_tomentosa21811]()
 - **Gene Symbol:** PtoWRKY68
 - **Gene Name:** 
-- **Genome Version:** [P. tomentosa reference genome]()
+- **Genome:** [P. tomentosa reference genome]()
 - **Species:** *Populus tomentosa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,tolerance,aba,drought tolerance, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,tolerance,aba,drought tolerance, aba 
 
 ## Sequences:

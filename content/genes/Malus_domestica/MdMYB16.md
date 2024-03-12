@@ -10,7 +10,7 @@ tags: [ homeostasis,lignin,lignin biosynthesis ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdMYB16
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ homeostasis,lignin,lignin biosynthesis ]
 - **NCBI ID:** [NP_001315806.1](https://www.ncbi.nlm.nih.gov/gene/?term=NP_001315806.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 homeostasis,lignin,lignin biosynthesis
 
 ## Sequences:

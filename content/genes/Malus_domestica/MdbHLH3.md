@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,root,quality,ethyle
 - **Gene ID:**	[MDP0000225680]()
 - **Gene Symbol:** MdbHLH3
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,root,quality,ethyle
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,transcription factor,senescence,root,quality,ethylene,ethylene production
 
 ## Sequences:

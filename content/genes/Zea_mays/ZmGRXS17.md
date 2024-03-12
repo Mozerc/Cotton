@@ -10,7 +10,7 @@ tags: [ grain,stress,grain yield,yield,stress response,heat stress,heat stress r
 - **Gene ID:**	[Zm00001eb044380]()
 - **Gene Symbol:** ZmGRXS17
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,stress,grain yield,yield,stress response,heat stress,heat stress r
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,stress,grain yield,yield,stress response,heat stress,heat stress response,thermotolerance
 
 ## Sequences:

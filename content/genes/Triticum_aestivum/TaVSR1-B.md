@@ -10,7 +10,7 @@ tags: [ root,development,root development,root elongation ]
 - **Gene ID:**	[TraesCS2B02G122400]()
 - **Gene Symbol:** TaVSR1-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ root,development,root development,root elongation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,development,root development,root elongation
 
 ## Sequences:

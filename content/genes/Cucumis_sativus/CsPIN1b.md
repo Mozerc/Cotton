@@ -10,7 +10,7 @@ tags: [ auxin ]
 - **Gene ID:**	[Csa1G025070]()
 - **Gene Symbol:** CsPIN1b
 - **Gene Name:** PIN-FORMED 1
-- **Genome Version:** [Cucumber (Chinese Long) v2 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ auxin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin
 
 ## Sequences:

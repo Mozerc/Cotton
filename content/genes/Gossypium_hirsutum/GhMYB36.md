@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,drou
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhMYB36
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,drou
 - **NCBI ID:** [ASH96785.1](https://www.ncbi.nlm.nih.gov/gene/?term=ASH96785.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,resistance,drought,tolerance,drought tolerance,drought resistance
 
 ## Sequences:

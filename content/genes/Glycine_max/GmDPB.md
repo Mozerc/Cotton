@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance,immunity,transcription regulator,plant i
 - **Gene ID:**	[Glyma.01G228100]()
 - **Gene Symbol:** GmDPB
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,resistance,immunity,transcription regulator,plant i
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance,immunity,transcription regulator,plant immunity
 
 ## Sequences:

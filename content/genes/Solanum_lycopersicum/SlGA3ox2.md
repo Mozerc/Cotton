@@ -3,14 +3,14 @@ description: Solyc03g119910 ; Solanum lycopersicum
 meta_title:
 title: SlGA3ox2
 categories: [Solanum lycopersicum]
-tags: [ ga, ga ,ga biosynthetic,ga biosynthesis ]
+tags: [ ga,ga biosynthetic,ga biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc03g119910]()
 - **Gene Symbol:** SlGA3ox2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ ga, ga ,ga biosynthetic,ga biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ga, ga ,ga biosynthetic,ga biosynthesis
+## Orthologs:
+
+## Keywords:
+ga,ga biosynthetic,ga biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

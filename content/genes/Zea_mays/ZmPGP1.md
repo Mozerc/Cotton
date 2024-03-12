@@ -10,7 +10,7 @@ tags: [ leaf,root,development,leaf development,auxin,plant development,domestica
 - **Gene ID:**	[GRMZM2G315375]()
 - **Gene Symbol:** ZmPGP1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,root,development,leaf development,auxin,plant development,domestica
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,root,development,leaf development,auxin,plant development,domestication,yield,root development,architecture,auxin transport,height,plant height,plant architecture,leaf angle,root architecture
 
 ## Sequences:

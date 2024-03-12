@@ -10,13 +10,13 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
 - **Gene ID:**	[Zm00001eb105640]()
 - **Gene Symbol:** ZmSPL13;ZmSBP13;ZmGLW7-1;sbp13
 - **Gene Name:** SBP-transcription factor 13
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - In this study, we combine expressional, genetic, and molecular studies to identify two homologous SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPL) transcription factors **ZmSPL13** and ZmSPL29 as positive regulators of juvenile-to-adult vegetative transition and floral transition in maize.
    - We show that both **ZmSPL13** and ZmSPL29 are preferentially expressed in leaf phloem, vegetative and reproductive meristem.
-   - We show that vegetative phase change and flowering time are moderately delayed in the Zmspl13 and Zmspl29 single knockout mutants and more significantly delayed in the Zmspl13/29 double mutants.
+   - We show that vegetative phase change and flowering time are moderately delayed in the **ZmSPL13** and Zmspl29 single knockout mutants and more significantly delayed in the **ZmSPL13**/29 double mutants.
    - **ZmSPL13** and ZmSPL29 directly upregulate the expression of ZmMIR172C and ZCN8 in the leaf, and of ZMM3 and ZMM4 in the shoot apical meristem, to induce juvenile-to-adult vegetative transition and floral transition.
 
 ## Literature:
@@ -29,7 +29,9 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
 - **NCBI ID:** [LOC107436005](https://www.ncbi.nlm.nih.gov/gene/?term=LOC107436005)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloem,flowering time,shoot apical meristem,flowering,shoot meristem
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: pathogenesis related protein4 ; Zm00001eb299370 ; Zea mays
 meta_title:
 title: ZmPR1;ZmPR1a
 categories: [Zea mays]
-tags: [ defense,sa, sa  ]
+tags: [ defense,sa ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb299370]()
 - **Gene Symbol:** ZmPR1;ZmPR1a;ZmPR-1-14;prp4
 - **Gene Name:** pathogenesis related protein4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ defense,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-defense,sa, sa 
+## Orthologs:
+
+## Keywords:
+defense,sa
 
 ## Sequences:
 - **CDS Sequence:**

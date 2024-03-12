@@ -3,14 +3,14 @@ description: Solyc08g005050 ; Solanum lycopersicum
 meta_title:
 title: SlMYC1
 categories: [Solanum lycopersicum]
-tags: [ resistance,ja,cell division,insect,cell expansion, ja ,insect resistance,pest,ja signalling ]
+tags: [ resistance,ja,cell division,insect,cell expansion,insect resistance,pest,ja signalling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc08g005050]()
 - **Gene Symbol:** SlMYC1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,ja,cell division,insect,cell expansion, ja ,insect resistance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,ja,cell division,insect,cell expansion, ja ,insect resistance,pest,ja signalling
+## Orthologs:
+
+## Keywords:
+resistance,ja,cell division,insect,cell expansion,insect resistance,pest,ja signalling
 
 ## Sequences:
 - **CDS Sequence:**

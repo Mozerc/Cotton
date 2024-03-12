@@ -10,7 +10,7 @@ tags: [ transcription factor,development,seed,starch,transcription regulator,see
 - **Gene ID:**	[Zm00001eb138380]()
 - **Gene Symbol:** ZmMADS1a;ZmMADS2;zag2
 - **Gene Name:** Zea AGAMOUS homolog2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,development,seed,starch,transcription regulator,see
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,development,seed,starch,transcription regulator,seed development,starch biosynthesis
 
 ## Sequences:

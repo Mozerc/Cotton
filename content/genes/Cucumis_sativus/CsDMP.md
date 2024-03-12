@@ -10,7 +10,7 @@ tags: [ pollen,seed,seed germination,pollen germination ]
 - **Gene ID:**	[CsaV3_1G028660]()
 - **Gene Symbol:** CsDMP
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ pollen,seed,seed germination,pollen germination ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 pollen,seed,seed germination,pollen germination
 
 ## Sequences:

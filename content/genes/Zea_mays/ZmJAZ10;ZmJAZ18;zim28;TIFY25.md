@@ -3,14 +3,14 @@ description: ZIM-transcription factor 28 ; Zm00001eb314010 ; Zea mays
 meta_title:
 title: ZmJAZ10;ZmJAZ18
 categories: [Zea mays]
-tags: [ ja, ja  ]
+tags: [ ja ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb314010]()
 - **Gene Symbol:** ZmJAZ10;ZmJAZ18;zim28;TIFY25
 - **Gene Name:** ZIM-transcription factor 28
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ ja, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja, ja 
+## Orthologs:
+
+## Keywords:
+ja
 
 ## Sequences:
 - **CDS Sequence:**

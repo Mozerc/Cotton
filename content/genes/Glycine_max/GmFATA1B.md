@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[Glyma.08g349200]()
 - **Gene Symbol:** GmFATA1B
 - **Gene Name:** 
-- **Genome Version:** [Gmax_ZH13_v2.0]()
+- **Genome:** [Gmax_ZH13_v2.0]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ growth,development,seed,quality,endosperm,seed development,endosperm dev
 - **Gene ID:**	[TraesCS3A02G249100]()
 - **Gene Symbol:** TaFUSCA3-3A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ growth,development,seed,quality,endosperm,seed development,endosperm dev
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,seed,quality,endosperm,seed development,endosperm development,seed growth
 
 ## Sequences:

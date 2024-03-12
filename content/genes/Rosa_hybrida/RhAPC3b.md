@@ -26,7 +26,10 @@ tags: [ growth ]
 - **NCBI ID:** [MN626999](https://www.ncbi.nlm.nih.gov/gene/?term=MN626999)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 growth
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: TraesCS5A02G359900 ; Triticum aestivum
 meta_title:
 title: TaPP2C158
 categories: [Triticum aestivum]
-tags: [ drought,aba, aba ,phosphatase,protein phosphatase,drought response ]
+tags: [ drought,aba,phosphatase,protein phosphatase,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G359900]()
 - **Gene Symbol:** TaPP2C158
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,aba, aba ,phosphatase,protein phosphatase,drought response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,aba, aba ,phosphatase,protein phosphatase,drought response
+## Orthologs:
+
+## Keywords:
+drought,aba,phosphatase,protein phosphatase,drought response
 
 ## Sequences:
 - **CDS Sequence:**

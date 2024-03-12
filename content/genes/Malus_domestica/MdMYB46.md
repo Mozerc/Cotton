@@ -10,7 +10,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,cell w
 - **Gene ID:**	[MD03G1176000]()
 - **Gene Symbol:** MdMYB46
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,cell w
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,cell wall,osmotic tolerance,osmotic stress,secondary cell wall
 
 ## Sequences:

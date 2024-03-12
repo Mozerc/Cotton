@@ -10,7 +10,7 @@ tags: [ growth,grain,resistance,grain yield,yield,transporter,plant growth,heigh
 - **Gene ID:**	[TraesCS4B02G322000]()
 - **Gene Symbol:** TaTMT3B
 - **Gene Name:** Tonoplast monosaccharide transporter 3
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ growth,grain,resistance,grain yield,yield,transporter,plant growth,heigh
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,grain,resistance,grain yield,yield,transporter,plant growth,height,plant height,grain growth
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
 - **Gene ID:**	[Zm00001eb362510]()
 - **Gene Symbol:** ZmCAO1;chao2
 - **Gene Name:** chlorophyllide a oxygenase2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
 - **NCBI ID:** [LOC100284976](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284976)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynthesis,embryo,endosperm,endosperm development,photosystem,embryo development
 
 ## Sequences:

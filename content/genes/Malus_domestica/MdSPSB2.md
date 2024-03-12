@@ -10,7 +10,7 @@ tags: [ cytoplasm,sucrose,phosphate,sucrose synthase ]
 - **Gene ID:**	[MD10G1002500]()
 - **Gene Symbol:** MdSPSB2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ cytoplasm,sucrose,phosphate,sucrose synthase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cytoplasm,sucrose,phosphate,sucrose synthase
 
 ## Sequences:

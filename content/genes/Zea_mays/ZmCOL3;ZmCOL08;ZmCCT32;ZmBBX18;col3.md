@@ -10,13 +10,13 @@ tags: [ flowering ]
 - **Gene ID:**	[Zm00001eb246780]()
 - **Gene Symbol:** ZmCOL3;ZmCOL08;ZmCCT32;ZmBBX18;col3
 - **Gene Name:** C2C2-CO-like-transcription factor 3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmCOL3**, the expression of a maize florigen gene.
-   - **ZmCOL3** was previously shown to act as a flowering repressor by directly activating the transcription of ZmCCT10.
-   - **ZmCOL3** promote flowering under both SD and LD conditions.
+   - **Zm**col3****, the expression of a maize florigen gene.
+   - **Zm**col3**** was previously shown to act as a flowering repressor by directly activating the transcription of ZmCCT10.
+   - **Zm**col3**** promote flowering under both SD and LD conditions.
 
 ## Literature:
    - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806612/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806612/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
@@ -27,7 +27,9 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ seedlings,stress,salt,tolerance,salt tolerance,salt stress,stress tolera
 - **Gene ID:**	[]()
 - **Gene Symbol:** GmNHX5
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ seedlings,stress,salt,tolerance,salt tolerance,salt stress,stress tolera
 - **NCBI ID:** [XM_006597582.2](https://www.ncbi.nlm.nih.gov/gene/?term=XM_006597582.2)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,stress,salt,tolerance,salt tolerance,salt stress,stress tolerance
 
 ## Sequences:

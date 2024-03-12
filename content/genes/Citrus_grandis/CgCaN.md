@@ -10,7 +10,7 @@ tags: [ nucleus,pcd ]
 - **Gene ID:**	[Cs7g30310]()
 - **Gene Symbol:** CgCaN
 - **Gene Name:** 
-- **Genome Version:** [Citrus maxima (C. grandis) genome v1.0]()
+- **Genome:** [Citrus maxima (C. grandis) genome v1.0]()
 - **Species:** *Citrus grandis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ nucleus,pcd ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 nucleus,pcd
 
 ## Sequences:

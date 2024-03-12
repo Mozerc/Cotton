@@ -10,7 +10,7 @@ tags: [ development,spikelet,floral,meristem,spikelet meristem,inflorescence,flo
 - **Gene ID:**	[TraesCS6D02G240200]()
 - **Gene Symbol:** TaAGL6-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ development,spikelet,floral,meristem,spikelet meristem,inflorescence,flo
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,spikelet,floral,meristem,spikelet meristem,inflorescence,floral meristem,floral organ,spikelet development,inflorescence development
 
 ## Sequences:

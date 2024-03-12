@@ -10,7 +10,7 @@ tags: [ architecture,breeding,height,plant height,plant architecture ]
 - **Gene ID:**	[BnaC03G0466900ZS]()
 - **Gene Symbol:** BnaSD.C3
 - **Gene Name:** 
-- **Genome Version:** [ZS11 reference genome]()
+- **Genome:** [ZS11 reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ architecture,breeding,height,plant height,plant architecture ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 architecture,breeding,height,plant height,plant architecture
 
 ## Sequences:

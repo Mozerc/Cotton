@@ -3,14 +3,14 @@ description: TraesCS6D02G333200.1 ; Triticum aestivum
 meta_title:
 title: TaRAB21-6D
 categories: [Triticum aestivum]
-tags: [ aba, aba  ]
+tags: [ aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G333200.1]()
 - **Gene Symbol:** TaRAB21-6D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba, aba 
+## Orthologs:
+
+## Keywords:
+aba
 
 ## Sequences:
 - **CDS Sequence:**

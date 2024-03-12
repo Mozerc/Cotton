@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,chlorophyll ]
 - **Gene ID:**	[MDP0000222881]()
 - **Gene Symbol:** MdBBX23
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,leaf senescence,senescence,chlorophyll ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,chlorophyll
 
 ## Sequences:

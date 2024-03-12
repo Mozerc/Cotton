@@ -3,14 +3,14 @@ description: MD03G1194700,MD11G1211000 ; Malus domestica
 meta_title:
 title: MdSUMO2A
 categories: [Malus domestica]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD03G1194700,MD11G1211000]()
 - **Gene Symbol:** MdSUMO2A
 - **Gene Name:** 
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance
 
 ## Sequences:
 - **CDS Sequence:**

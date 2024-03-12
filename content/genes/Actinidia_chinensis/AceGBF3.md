@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[DTZ79_15g00300/Actinidia27344]()
 - **Gene Symbol:** AceGBF3
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Actinidia chinensis*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

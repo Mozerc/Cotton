@@ -10,7 +10,7 @@ tags: [ root,stress,yield,architecture,biomass,height,plant height,plant archite
 - **Gene ID:**	[Glyma.09g040000]()
 - **Gene Symbol:** GmRR1
 - **Gene Name:** a soybean type-B Response Regulator 1
-- **Genome Version:** [Phytozome database (Glycine max Wm82.a2.v1)]()
+- **Genome:** [Phytozome database (Glycine max Wm82.a2.v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,stress,yield,architecture,biomass,height,plant height,plant archite
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,stress,yield,architecture,biomass,height,plant height,plant architecture,stress response,phosphorus,root architecture
 
 ## Sequences:

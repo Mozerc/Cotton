@@ -10,7 +10,7 @@ tags: [ transcription factor ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** AaDBR2
 - **Gene Name:** double-bond reductase 2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Artemisia annua*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor
 
 ## Sequences:

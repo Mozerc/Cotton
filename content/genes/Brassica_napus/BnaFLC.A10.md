@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** BnaFLC.A10
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genomes v4.1(http://www.genoscope.cns.fr/brassicanapus/)]()
+- **Genome:** [B. napus reference genomes v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [MN105089](https://www.ncbi.nlm.nih.gov/gene/?term=MN105089)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

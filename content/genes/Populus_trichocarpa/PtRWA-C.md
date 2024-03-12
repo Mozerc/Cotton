@@ -10,7 +10,7 @@ tags: [ cell wall ]
 - **Gene ID:**	[Potri.010G148500]()
 - **Gene Symbol:** PtRWA-C
 - **Gene Name:** 
-- **Genome Version:** [P. trichocarpa reference genome (https://phytozome.jgi.doe.gov/pz/portal.html#)]()
+- **Genome:** [P. trichocarpa reference genome (https://phytozome.jgi.doe.gov/pz/portal.html#)]()
 - **Species:** *Populus trichocarpa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cell wall ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cell wall
 
 ## Sequences:

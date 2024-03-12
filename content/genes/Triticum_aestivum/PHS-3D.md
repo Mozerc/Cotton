@@ -3,14 +3,14 @@ description: TraesCS3D02G468400-2 ; Triticum aestivum
 meta_title:
 title: PHS-3D
 categories: [Triticum aestivum]
-tags: [ grain,resistance,aba, aba ,aba biosynthesis ]
+tags: [ grain,resistance,aba,aba biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G468400-2]()
 - **Gene Symbol:** PHS-3D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ grain,resistance,aba, aba ,aba biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-grain,resistance,aba, aba ,aba biosynthesis
+## Orthologs:
+
+## Keywords:
+grain,resistance,aba,aba biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

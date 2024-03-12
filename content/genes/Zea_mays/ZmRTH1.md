@@ -10,7 +10,7 @@ tags: [ root,growth,development,plant development,root development,root growth,p
 - **Gene ID:**	[GRMZM2G099056]()
 - **Gene Symbol:** ZmRTH1
 - **Gene Name:** roothairless 1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,growth,development,plant development,root development,root growth,p
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,development,plant development,root development,root growth,plant growth
 
 ## Sequences:

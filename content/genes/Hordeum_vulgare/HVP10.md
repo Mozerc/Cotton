@@ -10,7 +10,7 @@ tags: [ salt,tolerance,salt tolerance ]
 - **Gene ID:**	[HORVU7Hr1G028910]()
 - **Gene Symbol:** HVP10
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ salt,tolerance,salt tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 salt,tolerance,salt tolerance
 
 ## Sequences:

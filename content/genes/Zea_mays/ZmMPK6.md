@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 - **Gene ID:**	[Zm00001eb417810]()
 - **Gene Symbol:** ZmMPK6
 - **Gene Name:** MAP kinase6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 - **NCBI ID:** [LOC542143](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542143)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,jasmonic acid,wounding,insect resistance
 
 ## Sequences:

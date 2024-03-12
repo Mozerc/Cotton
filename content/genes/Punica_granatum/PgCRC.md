@@ -26,7 +26,10 @@ tags: [ development,seed,ovule,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 development,seed,ovule,seed development
 
 ## Sequences:

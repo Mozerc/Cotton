@@ -10,7 +10,7 @@ tags: [ cell division,cell cycle ]
 - **Gene ID:**	[Solyc10g008950]()
 - **Gene Symbol:** SlGBP1
 - **Gene Name:** 
-- **Genome Version:** [reference tomato genome SL2.50]()
+- **Genome:** [reference tomato genome SL2.50]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ cell division,cell cycle ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell division,cell cycle
 
 ## Sequences:

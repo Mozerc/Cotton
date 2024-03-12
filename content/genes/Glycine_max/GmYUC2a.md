@@ -10,7 +10,7 @@ tags: [ root,growth,development,auxin,root development,root growth,auxin biosynt
 - **Gene ID:**	[Glyma.08g038600]()
 - **Gene Symbol:** GmYUC2a
 - **Gene Name:** 
-- **Genome Version:** [SoyBase (http://soybase.org/soyseq/;Severin et al., 2010)]()
+- **Genome:** [SoyBase (http://soybase.org/soyseq/;Severin et al., 2010)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,growth,development,auxin,root development,root growth,auxin biosynt
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,development,auxin,root development,root growth,auxin biosynthesis
 
 ## Sequences:

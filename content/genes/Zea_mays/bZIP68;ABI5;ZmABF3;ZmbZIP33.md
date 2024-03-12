@@ -10,7 +10,7 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 - **Gene ID:**	[Zm00001eb176680]()
 - **Gene Symbol:** bZIP68;ABI5;ZmABF3;ZmbZIP33
 - **Gene Name:** bZIP-transcription factor 68
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 - **NCBI ID:** [LOC100216617](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100216617)
 - **UniProt accessions:** [B4FIX1](https://www.uniprot.org/uniprotkb/B4FIX1/entry)&nbsp;,&nbsp;[B4FRB4](https://www.uniprot.org/uniprotkb/B4FRB4/entry)&nbsp;,&nbsp;[A0A3L6F7L4](https://www.uniprot.org/uniprotkb/A0A3L6F7L4/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,transcriptional regulator,transcription regulator,stress response
 
 ## Sequences:

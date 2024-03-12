@@ -10,7 +10,7 @@ tags: [ photosynthesis,yield,stomatal,biomass,stomata,stomatal density ]
 - **Gene ID:**	[Solyc01g104670]()
 - **Gene Symbol:** SlTLFP8
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ photosynthesis,yield,stomatal,biomass,stomata,stomatal density ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 photosynthesis,yield,stomatal,biomass,stomata,stomatal density
 
 ## Sequences:

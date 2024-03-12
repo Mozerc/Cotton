@@ -10,7 +10,7 @@ tags: [ leaf,auxin ]
 - **Gene ID:**	[Zm00001eb119130]()
 - **Gene Symbol:** ZmGLR;glr1
 - **Gene Name:** glutamic acid- and lysine-rich1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,auxin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,auxin
 
 ## Sequences:

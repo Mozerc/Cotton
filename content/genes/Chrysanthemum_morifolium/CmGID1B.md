@@ -10,7 +10,7 @@ tags: [ ga, ga  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CmGID1B
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ga, ga  ]
 - **NCBI ID:** [OP889328](https://www.ncbi.nlm.nih.gov/gene/?term=OP889328)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ga, ga 
 
 ## Sequences:

@@ -10,13 +10,13 @@ tags: [ resistance ]
 - **Gene ID:**	[Zm00001eb003490]()
 - **Gene Symbol:** ZmMRP4;lpa1
 - **Gene Name:** multidrug resistance-associated protein 4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The Lpa1 gene encodes for **ZmMRP4** (accession number EF586878), a multidrug resistance-associated protein (MRP) belonging to the subfamily of ATP-binding cassette (ABC) transmembrane transporters.
+   - The **lpa1** gene encodes for **ZmMRP4** (accession number EF586878), a multidrug resistance-associated protein (MRP) belonging to the subfamily of ATP-binding cassette (ABC) transmembrane transporters.
    - In this study, we present genetic and molecular analyses of the **lpa1**-241 mutation that indicate an epigenetic origin of this trait, that is, a paramutagenic interaction that results in meiotically heritable changes in **ZmMRP4** gene expression, causing a strong pleiotropic effect on the whole plant.
-   - Phylogenetic tree using nucleotide and protein sequences revealed a closer relationship of maize Lpa1 sequences with Sorghum bicolor, Panicum hallii, Setaria italica and S. viridis. This study offered newer insights into the understanding of the genetic diversity of the Lpa1 gene in maize and related crop-species, and information generated here would further help in exploiting the **lpa1** mutant for the enhancement of nutritional value in maize kernels.
+   - Phylogenetic tree using nucleotide and protein sequences revealed a closer relationship of maize **lpa1** sequences with Sorghum bicolor, Panicum hallii, Setaria italica and S. viridis. This study offered newer insights into the understanding of the genetic diversity of the **lpa1** gene in maize and related crop-species, and information generated here would further help in exploiting the **lpa1** mutant for the enhancement of nutritional value in maize kernels.
 
 ## Literature:
    - [A paramutation phenomenon is involved in the genetics of maize low phytic acid1-241 (lpa1-241) trait.]( https://www.nature.com/articles/hdy200896)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/hdy.2008.96](https://www.nature.com/articles/hdy200896)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18781168](https://pubmed.ncbi.nlm.nih.gov/18781168/)
@@ -28,7 +28,9 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

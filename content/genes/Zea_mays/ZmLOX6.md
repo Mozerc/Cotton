@@ -3,14 +3,14 @@ description: lipoxygenase6 ; Zm00001eb067710 ; Zea mays
 meta_title:
 title: ZmLOX6
 categories: [Zea mays]
-tags: [ nitrogen,development,grain,drought,stress,drought stress,drought stress ,flowering ]
+tags: [ nitrogen,development,grain,drought,stress,drought stress,flowering ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb067710]()
 - **Gene Symbol:** ZmLOX6
 - **Gene Name:** lipoxygenase6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -34,8 +34,10 @@ tags: [ nitrogen,development,grain,drought,stress,drought stress,drought stress 
 - **NCBI ID:** [100037805](https://www.ncbi.nlm.nih.gov/gene/?term=100037805)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-nitrogen,development,grain,drought,stress,drought stress,drought stress ,flowering
+## Orthologs:
+
+## Keywords:
+nitrogen,development,grain,drought,stress,drought stress,flowering
 
 ## Sequences:
 - **CDS Sequence:**

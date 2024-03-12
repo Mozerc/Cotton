@@ -10,7 +10,7 @@ tags: [ transcription factor,development,endosperm,endosperm development ]
 - **Gene ID:**	[Zm00001eb318740 ]()
 - **Gene Symbol:** ZmbZIP22;ZmbZIP91
 - **Gene Name:** bZIP-transcription factor 22
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,development,endosperm,endosperm development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,development,endosperm,endosperm development
 
 ## Sequences:

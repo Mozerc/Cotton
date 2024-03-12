@@ -3,14 +3,14 @@ description: Triticum aestivum
 meta_title:
 title: TaWRKY76
 categories: [Triticum aestivum]
-tags: [ sa, sa ,defence,defence response ]
+tags: [ sa,defence,defence response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaWRKY76
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ sa, sa ,defence,defence response ]
 - **NCBI ID:** [XM_044541645](https://www.ncbi.nlm.nih.gov/gene/?term=XM_044541645)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-sa, sa ,defence,defence response
+## Orthologs:
+
+## Keywords:
+sa,defence,defence response
 
 ## Sequences:
 - **CDS Sequence:**

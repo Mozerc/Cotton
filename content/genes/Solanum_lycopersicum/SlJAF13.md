@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Solyc08g081140]()
 - **Gene Symbol:** SlJAF13
 - **Gene Name:** 
-- **Genome Version:** [tomato reference genome (SL2.4, https://solgenomics.net/organism/solanum_lycopersicum/genome)]()
+- **Genome:** [tomato reference genome (SL2.4, https://solgenomics.net/organism/solanum_lycopersicum/genome)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

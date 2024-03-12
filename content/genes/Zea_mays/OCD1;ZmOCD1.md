@@ -10,11 +10,11 @@ tags: [ development,quality,endosperm,endosperm development,nutritional quality 
 - **Gene ID:**	[Zm00001eb336870]()
 - **Gene Symbol:** OCD1;ZmOCD1
 - **Gene Name:** oxalyl-CoA decarboxylase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The ocd1 mutant seeds contain a significantly higher level of oxalate than the wild type, indicating that the ocd1 mutants have a defect in oxalate catabolism.
+   - The **OCD1** mutant seeds contain a significantly higher level of oxalate than the wild type, indicating that the **OCD1** mutants have a defect in oxalate catabolism.
    - Zm**OCD1** acts downstream of O7 in oxalate degradation and affects endosperm development, the metabolome, and nutritional quality in maize seeds.
    - Zm**OCD1** Catalyzes the Breakdown of Oxalyl-CoA into Formyl-CoA and CO2.
 
@@ -28,7 +28,9 @@ tags: [ development,quality,endosperm,endosperm development,nutritional quality 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,quality,endosperm,endosperm development,nutritional quality
 
 ## Sequences:

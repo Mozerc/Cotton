@@ -10,7 +10,7 @@ tags: [ seed,dormancy,seed dormancy ]
 - **Gene ID:**	[TraesCS5D02G224200]()
 - **Gene Symbol:** TaQsd1-5D
 - **Gene Name:** 
-- **Genome Version:** [CS(Refseq v1.0)]()
+- **Genome:** [CS(Refseq v1.0)]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seed,dormancy,seed dormancy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,dormancy,seed dormancy
 
 ## Sequences:

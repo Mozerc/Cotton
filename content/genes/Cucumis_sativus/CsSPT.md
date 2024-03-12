@@ -10,7 +10,7 @@ tags: [ development,auxin,fertility,sterility,reproductive,cell wall,reproductiv
 - **Gene ID:**	[Csa6G491000]()
 - **Gene Symbol:** CsSPT
 - **Gene Name:** SPATULA
-- **Genome Version:** [Cucumber (Chinese Long) v2 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,auxin,fertility,sterility,reproductive,cell wall,reproductiv
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,auxin,fertility,sterility,reproductive,cell wall,reproductive development,female sterility,carpel differentiation
 
 ## Sequences:

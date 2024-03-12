@@ -10,7 +10,7 @@ tags: [ transcription activator ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdRGL2a
 - **Gene Name:** 
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription activator ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription activator
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ kinase,drought,stress,drought stress,drought stress ,aba,abscisic acid, 
 - **Gene ID:**	[]()
 - **Gene Symbol:** CaADIK1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ kinase,drought,stress,drought stress,drought stress ,aba,abscisic acid, 
 - **NCBI ID:** [XP_009600573.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_009600573.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 kinase,drought,stress,drought stress,drought stress ,aba,abscisic acid, aba ,stress response,drought stress response,drought response
 
 ## Sequences:

@@ -26,6 +26,9 @@ tags: [  ]
 - **NCBI ID:** [MT365245](https://www.ncbi.nlm.nih.gov/gene/?term=MT365245)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
+## Orthologs:
+
+
 ## Keywords:
 
 

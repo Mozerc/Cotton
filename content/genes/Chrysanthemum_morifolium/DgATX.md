@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** DgATX
 - **Gene Name:** Chrysanthemum morifolium ARABIDOPSIS HOMOLOG OF TRITHORAX
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:** [MW719240](https://www.ncbi.nlm.nih.gov/gene/?term=MW719240)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

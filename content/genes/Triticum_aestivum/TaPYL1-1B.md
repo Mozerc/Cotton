@@ -10,7 +10,7 @@ tags: [ grain,drought,grain yield,tolerance,yield,drought tolerance ]
 - **Gene ID:**	[TraesCS1B02G206600]()
 - **Gene Symbol:** TaPYL1-1B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ grain,drought,grain yield,tolerance,yield,drought tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,drought,grain yield,tolerance,yield,drought tolerance
 
 ## Sequences:

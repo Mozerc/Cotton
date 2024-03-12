@@ -10,7 +10,7 @@ tags: [ chlorophyll ]
 - **Gene ID:**	[Glyma.15g08680]()
 - **Gene Symbol:** ChlI1b
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ chlorophyll ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 chlorophyll
 
 ## Sequences:

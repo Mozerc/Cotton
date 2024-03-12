@@ -10,7 +10,7 @@ tags: [ resistance,lignin,lignin biosynthesis ]
 - **Gene ID:**	[GH_D04G1418]()
 - **Gene Symbol:** GhLAC4-3
 - **Gene Name:** 
-- **Genome Version:** [ reference genome (TM-1_ZJU_v2.1)]()
+- **Genome:** [ reference genome (TM-1_ZJU_v2.1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,lignin,lignin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,lignin,lignin biosynthesis
 
 ## Sequences:

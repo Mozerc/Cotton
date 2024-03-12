@@ -10,7 +10,7 @@ tags: [ height,plant height ]
 - **Gene ID:**	[Medtr2g102570]()
 - **Gene Symbol:** DIB1
 - **Gene Name:** 
-- **Genome Version:** [ M. truncatula (cv. Jemalong A17) ]()
+- **Genome:** [ M. truncatula (cv. Jemalong A17) ]()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ height,plant height ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 height,plant height
 
 ## Sequences:

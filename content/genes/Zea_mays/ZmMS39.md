@@ -10,7 +10,7 @@ tags: [ fertility,homeostasis,male fertility,autophagy ]
 - **Gene ID:**	[Zm00001eb157150]()
 - **Gene Symbol:** ZmMS39
 - **Gene Name:** male sterile39
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ fertility,homeostasis,male fertility,autophagy ]
    - ZmCals12 mutation causes disturbance of ROS homeostasis and increased autophagy in maize anthers.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514122002227)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.08.012](https://www.sciencedirect.com/science/article/pii/S2214514122002227)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514122002227)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.08.012](https://www.sciencedirect.com/science/article/pii/S2214514122002227)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,7 +27,9 @@ tags: [ fertility,homeostasis,male fertility,autophagy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility,homeostasis,male fertility,autophagy
 
 ## Sequences:

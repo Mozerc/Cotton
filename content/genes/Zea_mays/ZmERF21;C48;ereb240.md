@@ -3,14 +3,14 @@ description: AP2-EREBP-transcription factor 240 ; Zm00001eb423100 ; Zea mays
 meta_title:
 title: ZmERF21;C48
 categories: [Zea mays]
-tags: [ leaf,seedlings,root,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,chlorophyll,chlorophyll content ]
+tags: [ leaf,seedlings,root,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,chlorophyll,chlorophyll content ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb423100]()
 - **Gene Symbol:** ZmERF21;C48;ereb240
 - **Gene Name:** AP2-EREBP-transcription factor 240
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ leaf,seedlings,root,drought,stress,drought stress,drought stress ,tolera
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,seedlings,root,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,chlorophyll,chlorophyll content
+## Orthologs:
+
+## Keywords:
+leaf,seedlings,root,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,chlorophyll,chlorophyll content
 
 ## Sequences:
 - **CDS Sequence:**

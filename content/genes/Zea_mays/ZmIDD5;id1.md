@@ -10,12 +10,12 @@ tags: [ transcription factor,growth,vegetative,zinc,transcriptional regulator,tr
 - **Gene ID:**	[Zm00001eb047750]()
 - **Gene Symbol:** ZmIDD5;id1
 - **Gene Name:** indeterminate growth1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The maize INDETERMINATE1 gene, ID1, is a key regulator of the transition to flowering and the founding member of a transcription factor gene family that encodes a protein with a distinct arrangement of zinc finger motifs.
-   - The presence of zinc finger domains and previous biochemical studies showing that ID1 binds to DNA suggests that members of this gene family are involved in transcriptional regulation.
+   - The maize INDETERMINATE1 gene, **id1**, is a key regulator of the transition to flowering and the founding member of a transcription factor gene family that encodes a protein with a distinct arrangement of zinc finger motifs.
+   - The presence of zinc finger domains and previous biochemical studies showing that **id1** binds to DNA suggests that members of this gene family are involved in transcriptional regulation.
    - Loss-of-function **id1** mutants remain in a prolonged state of vegetative growth and form aberrant flowers.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ transcription factor,growth,vegetative,zinc,transcriptional regulator,tr
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,growth,vegetative,zinc,transcriptional regulator,transcription regulator,flowering
 
 ## Sequences:

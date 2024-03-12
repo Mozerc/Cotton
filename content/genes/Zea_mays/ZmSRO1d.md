@@ -3,14 +3,14 @@ description: Zm00001d047993 ; Zea mays
 meta_title:
 title: ZmSRO1d
 categories: [Zea mays]
-tags: [ resistance,drought,stress,drought stress,drought stress ,drought resistance ]
+tags: [ resistance,drought,stress,drought stress,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d047993]()
 - **Gene Symbol:** ZmSRO1d
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,drought,stress,drought stress,drought stress ,drought resista
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,drought,stress,drought stress,drought stress ,drought resistance
+## Orthologs:
+
+## Keywords:
+resistance,drought,stress,drought stress,drought resistance
 
 ## Sequences:
 - **CDS Sequence:**

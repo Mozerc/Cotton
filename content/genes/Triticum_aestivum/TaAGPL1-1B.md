@@ -10,7 +10,7 @@ tags: [ starch,phosphate ]
 - **Gene ID:**	[TraesCS1B02G449700]()
 - **Gene Symbol:** TaAGPL1-1B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ starch,phosphate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,phosphate
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BnaC06g20910D]()
 - **Gene Symbol:** BnLACS9-C06
 - **Gene Name:** 
-- **Genome Version:** [Brassica_napus_v4.1(http://www.genoscope.cns.fr/blat-server/cgi-bin/colza/webBlat)]()
+- **Genome:** [Brassica_napus_v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

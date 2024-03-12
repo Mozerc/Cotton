@@ -10,7 +10,7 @@ tags: [ auxin,auxin response,flowering ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** FaARF4
 - **Gene Name:** auxin response factor4
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ auxin,auxin response,flowering ]
 - **NCBI ID:** [MG765454](https://www.ncbi.nlm.nih.gov/gene/?term=MG765454)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin,auxin response,flowering
 
 ## Sequences:

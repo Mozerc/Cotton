@@ -10,7 +10,7 @@ tags: [ transcription factor,ethylene,transcription regulator ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** VAHOX1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,ethylene,transcription regulator ]
 - **NCBI ID:** [NP_001234250](https://www.ncbi.nlm.nih.gov/gene/?term=NP_001234250)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,ethylene,transcription regulator
 
 ## Sequences:

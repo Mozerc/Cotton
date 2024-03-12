@@ -10,16 +10,17 @@ tags: [ breeding,heading date,flowering ]
 - **Gene ID:**	[TraesCS1A02G443200]()
 - **Gene Symbol:** TaELF3-1AL
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
-   - TaELF3-1DL, a homolog of ELF3, is associated with heading date in bread wheat
+   - TaELF3-1DL, a homolog of ELF3, is associated with heading date in bread wheat.
    - TaELF3-1DLb is associated with early HD. Thus, the functional marker can be used in wheat breeding programs.
-   - flowering
+   - flowering.
 
 ## Literature:
-   - [NA]( https://link.springer.com/article/10.1007/s11032-016-0585-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-016-0585-5](https://link.springer.com/article/10.1007/s11032-016-0585-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [TaELF3-1DL, a homolog of ELF3, is associated with heading date in bread wheat]( https://link.springer.com/article/10.1007/s11032-016-0585-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-016-0585-5](https://link.springer.com/article/10.1007/s11032-016-0585-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+
 
 ## Related News:
 
@@ -27,7 +28,9 @@ tags: [ breeding,heading date,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 breeding,heading date,flowering
 
 ## Sequences:

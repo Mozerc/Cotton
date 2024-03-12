@@ -10,7 +10,7 @@ tags: [ cell wall ]
 - **Gene ID:**	[Solyc06g051800]()
 - **Gene Symbol:** SlExp1
 - **Gene Name:** lExpansin1
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ cell wall ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell wall
 
 ## Sequences:

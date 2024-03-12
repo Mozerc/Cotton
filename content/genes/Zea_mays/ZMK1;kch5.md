@@ -10,7 +10,7 @@ tags: [ kinase,homeostasis,protein kinase ]
 - **Gene ID:**	[Zm00001eb359320]()
 - **Gene Symbol:** ZMK1;kch5
 - **Gene Name:** potassium channel5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ kinase,homeostasis,protein kinase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,homeostasis,protein kinase
 
 ## Sequences:

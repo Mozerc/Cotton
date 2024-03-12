@@ -10,7 +10,7 @@ tags: [ defense response,defense ]
 - **Gene ID:**	[Zm00014a001903]()
 - **Gene Symbol:** ChSK1
 - **Gene Name:** Cochliobolus heterostrophus Susceptibility Kinase 1
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ defense response,defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 defense response,defense
 
 ## Sequences:

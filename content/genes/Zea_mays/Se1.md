@@ -10,12 +10,12 @@ tags: [ starch,quality,endosperm,starch biosynthesis ]
 - **Gene ID:**	[Zm00001eb115450]()
 - **Gene Symbol:** Se1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Maize sugary enhancer1 (se1) is a genetic modifier of su1 expression and is a commercially important allele that modifies kernel carbohydrate metabolism and improves fresh market quality.
-   - Maize sugary enhancer1 (se1) is a gene affecting endosperm starch metabolism.
+   - Maize sugary enhancer1 (**Se1**) is a genetic modifier of su1 expression and is a commercially important allele that modifies kernel carbohydrate metabolism and improves fresh market quality.
+   - Maize sugary enhancer1 (**Se1**) is a gene affecting endosperm starch metabolism.
    - Transcript Profiling Indicated That **Se1** Affects Starch Biosynthesis and Degradation Processes.
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ starch,quality,endosperm,starch biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,quality,endosperm,starch biosynthesis
 
 ## Sequences:

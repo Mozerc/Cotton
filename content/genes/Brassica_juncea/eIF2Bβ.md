@@ -10,7 +10,7 @@ tags: [ resistance,pathogen,pathogen resistance ]
 - **Gene ID:**	[BjuA006209]()
 - **Gene Symbol:** eIF2Bβ
 - **Gene Name:** 
-- **Genome Version:** [Braju_tum_V1.5]()
+- **Genome:** [Braju_tum_V1.5]()
 - **Species:** *Brassica juncea*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ resistance,pathogen,pathogen resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,pathogen,pathogen resistance
 
 ## Sequences:

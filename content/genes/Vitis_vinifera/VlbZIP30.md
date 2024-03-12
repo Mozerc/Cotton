@@ -10,7 +10,7 @@ tags: [ resistance,drought,lignin,lignin biosynthesis,drought resistance ]
 - **Gene ID:**	[VIT_13s0175g00120]()
 - **Gene Symbol:** VlbZIP30
 - **Gene Name:** 
-- **Genome Version:** [V. vinifera reference genome (http://plants.ensembl.org/index.html)]()
+- **Genome:** [V. vinifera reference genome (http://plants.ensembl.org/index.html)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ resistance,drought,lignin,lignin biosynthesis,drought resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,drought,lignin,lignin biosynthesis,drought resistance
 
 ## Sequences:

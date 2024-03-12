@@ -3,14 +3,14 @@ description: TOPLESS3 ; Solyc01g100050.2.1 ; Solanum lycopersicum
 meta_title:
 title: SlTPL3
 categories: [Solanum lycopersicum]
-tags: [ development,auxin,ga, ga  ]
+tags: [ development,auxin,ga ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc01g100050.2.1]()
 - **Gene Symbol:** SlTPL3
 - **Gene Name:** TOPLESS3
-- **Genome Version:** [tomato reference genome (Solanum lycopersicum ITAG3.2)]()
+- **Genome:** [tomato reference genome (Solanum lycopersicum ITAG3.2)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ development,auxin,ga, ga  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-development,auxin,ga, ga 
+## Orthologs:
+
+## Keywords:
+development,auxin,ga
 
 ## Sequences:
 - **CDS Sequence:**

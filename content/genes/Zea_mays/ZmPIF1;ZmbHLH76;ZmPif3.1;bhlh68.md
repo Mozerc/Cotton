@@ -10,7 +10,7 @@ tags: [ grain,drought,grain yield,tolerance,yield,drought tolerance,breeding,sto
 - **Gene ID:**	[Zm00001eb129520]()
 - **Gene Symbol:** ZmPIF1;ZmbHLH76;ZmPif3.1;bhlh68
 - **Gene Name:** bHLH-transcription factor 68
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ grain,drought,grain yield,tolerance,yield,drought tolerance,breeding,sto
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,drought,grain yield,tolerance,yield,drought tolerance,breeding,stomatal,resistant,grain protein
 
 ## Sequences:

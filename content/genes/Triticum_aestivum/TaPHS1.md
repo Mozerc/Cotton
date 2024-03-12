@@ -10,7 +10,7 @@ tags: [ grain,resistance,grain yield,grain quality,quality,yield,breeding,flower
 - **Gene ID:**	[TraesCS3A02G006600]()
 - **Gene Symbol:** TaPHS1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ grain,resistance,grain yield,grain quality,quality,yield,breeding,flower
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,resistance,grain yield,grain quality,quality,yield,breeding,flowering time,flowering
 
 ## Sequences:

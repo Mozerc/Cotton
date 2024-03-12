@@ -10,7 +10,7 @@ tags: [ growth,floral,flowering ]
 - **Gene ID:**	[RcChr6g0299051]()
 - **Gene Symbol:** RcCOL4
 - **Gene Name:** 
-- **Genome Version:** [genome database of R. chinensis (https://lipm-browsers.toulouse.inra.fr/pub/RchiOBHm-V2/) ]()
+- **Genome:** [genome database of R. chinensis (https://lipm-browsers.toulouse.inra.fr/pub/RchiOBHm-V2/) ]()
 - **Species:** *Rosa chinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,floral,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,floral,flowering
 
 ## Sequences:

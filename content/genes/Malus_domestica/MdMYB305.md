@@ -10,7 +10,7 @@ tags: [ sugar ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdMYB305
 - **Gene Name:** 
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ sugar ]
 - **NCBI ID:** [XM_008391048](https://www.ncbi.nlm.nih.gov/gene/?term=XM_008391048)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 sugar
 
 ## Sequences:

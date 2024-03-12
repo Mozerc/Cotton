@@ -3,14 +3,14 @@ description: TraesCS1D02G195300 ; Triticum aestivum
 meta_title:
 title: TaPYL1-1D
 categories: [Triticum aestivum]
-tags: [ drought,tolerance,aba,drought tolerance, aba  ]
+tags: [ drought,tolerance,aba,drought tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G195300]()
 - **Gene Symbol:** TaPYL1-1D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,tolerance,aba,drought tolerance, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,tolerance,aba,drought tolerance, aba 
+## Orthologs:
+
+## Keywords:
+drought,tolerance,aba,drought tolerance
 
 ## Sequences:
 - **CDS Sequence:**

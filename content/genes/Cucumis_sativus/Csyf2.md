@@ -10,7 +10,7 @@ tags: [ aba, aba  ]
 - **Gene ID:**	[CsaV3_4G007140]()
 - **Gene Symbol:** Csyf2
 - **Gene Name:**  C. sativus yellow flesh 2
-- **Genome Version:** [Cucumber (Chinese Long) v3 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v3 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 aba, aba 
 
 ## Sequences:

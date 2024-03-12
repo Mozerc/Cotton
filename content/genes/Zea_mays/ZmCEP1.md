@@ -10,7 +10,7 @@ tags: [ nitrogen,root,growth,development,auxin,plant development,seed,root devel
 - **Gene ID:**	[Zm00001eb038200]()
 - **Gene Symbol:** ZmCEP1
 - **Gene Name:** C-terminally encoded peptide1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ nitrogen,root,growth,development,auxin,plant development,seed,root devel
 - **NCBI ID:** [LOC100278083](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100278083)
 - **UniProt accessions:** [A0A1D6KLB6](https://www.uniprot.org/uniprotkb/A0A1D6KLB6/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,root,growth,development,auxin,plant development,seed,root development,root elongation,breeding,root growth,auxin response,plant growth,auxin transport,seed weight,height,plant height,seed size,sugar,vascular development,seed development,nitrate,root length,seed growth,sugar transport,seed length
 
 ## Sequences:

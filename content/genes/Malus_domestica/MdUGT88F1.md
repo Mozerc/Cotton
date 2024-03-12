@@ -10,7 +10,7 @@ tags: [ resistance,glucosyltransferase ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdUGT88F1
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance,glucosyltransferase ]
 - **NCBI ID:** [KX639791](https://www.ncbi.nlm.nih.gov/gene/?term=KX639791)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,glucosyltransferase
 
 ## Sequences:

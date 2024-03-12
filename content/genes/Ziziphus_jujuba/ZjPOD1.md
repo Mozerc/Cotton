@@ -10,7 +10,7 @@ tags: [ seed,seed-setting ]
 - **Gene ID:**	[Zj.jz015743041]()
 - **Gene Symbol:** ZjPOD1
 - **Gene Name:** 
-- **Genome Version:** [reference jujube genomes, for ‘Dongzao’]()
+- **Genome:** [reference jujube genomes, for ‘Dongzao’]()
 - **Species:** *Ziziphus jujuba*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,seed-setting ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,seed-setting
 
 ## Sequences:

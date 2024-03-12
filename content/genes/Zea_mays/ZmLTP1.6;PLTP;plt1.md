@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[Zm00001eb406100]()
 - **Gene Symbol:** ZmLTP1.6;PLTP;plt1
 - **Gene Name:** phospholipid transfer protein homolog1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ grain,grain weight ]
 - **Gene ID:**	[TraesCS3D01G172900]()
 - **Gene Symbol:** TaGS5-3D
 - **Gene Name:** 
-- **Genome Version:** [IWGSC Refseq v1.0]()
+- **Genome:** [IWGSC Refseq v1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ grain,grain weight ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain weight
 
 ## Sequences:

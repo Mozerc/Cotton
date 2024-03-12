@@ -10,11 +10,11 @@ tags: [ transcription factor,development,zinc ]
 - **Gene ID:**	[Solyc05g054030]()
 - **Gene Symbol:** PT
 - **Gene Name:** POINTED TIP
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - A POINTED TIP (**PT**) gene that encodes a C2H2-type zinc finger transcription factor.
+   - A POINTED TIP (**PT**) gene that encodes a C2H2-type zinc finger transcri**PT**ion factor.
    - This study uncovers variation in **PT** and molecular mechanism underlying fruit tip development in tomato.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ transcription factor,development,zinc ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,development,zinc
 
 ## Sequences:

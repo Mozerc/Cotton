@@ -10,7 +10,7 @@ tags: [ resistance,drought,stomatal,drought resistance ]
 - **Gene ID:**	[Zm00001d038762]()
 - **Gene Symbol:** ZmRBOHC
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance,drought,stomatal,drought resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,drought,stomatal,drought resistance
 
 ## Sequences:

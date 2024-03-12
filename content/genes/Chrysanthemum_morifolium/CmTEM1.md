@@ -10,7 +10,7 @@ tags: [ ethylene,floral,flowering ]
 - **Gene ID:**	[Unigene50848_All]()
 - **Gene Symbol:** CmTEM1
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ ethylene,floral,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene,floral,flowering
 
 ## Sequences:

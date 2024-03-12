@@ -10,7 +10,7 @@ tags: [ root,development,seedling,salt,tolerance,root development,salt tolerance
 - **Gene ID:**	[Zm00001eb130310]()
 - **Gene Symbol:** ZmHKT1;nc1
 - **Gene Name:** Na+ content1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,development,seedling,salt,tolerance,root development,salt tolerance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,development,seedling,salt,tolerance,root development,salt tolerance
 
 ## Sequences:

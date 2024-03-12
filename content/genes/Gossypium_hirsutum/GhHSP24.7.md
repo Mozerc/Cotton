@@ -10,7 +10,7 @@ tags: [ stress,abiotic stress ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhHSP24.7
 - **Gene Name:** 
-- **Genome Version:** [Gossypium hirsutum (AD1) 'TM-1' genome NAU-NBI_v1.1]()
+- **Genome:** [Gossypium hirsutum (AD1) 'TM-1' genome NAU-NBI_v1.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,abiotic stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,abiotic stress
 
 ## Sequences:

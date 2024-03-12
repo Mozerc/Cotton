@@ -10,7 +10,7 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase ]
 - **Gene ID:**	[MDP0000259614]()
 - **Gene Symbol:** MdMYB1
 - **Gene Name:** 
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription regulator,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
 - **Gene ID:**	[Zm00001eb355310]()
 - **Gene Symbol:** ZmWOX14;Wox3b
 - **Gene Name:** Wuschel-like homeobox3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
 - **NCBI ID:** [LOC103635953](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635953)
 - **UniProt accessions:** [Q6S3I3](https://www.uniprot.org/uniprotkb/Q6S3I3/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,transcription factor,development,leaf development,leaf patterning
 
 ## Sequences:

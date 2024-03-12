@@ -10,7 +10,7 @@ tags: [ root,growth,root growth ]
 - **Gene ID:**	[TraesCS5B02G350700]()
 - **Gene Symbol:** TaFMO1-5B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,growth,root growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,root growth
 
 ## Sequences:

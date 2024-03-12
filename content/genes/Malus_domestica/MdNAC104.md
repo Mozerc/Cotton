@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[MD15G1415700]()
 - **Gene Symbol:** MdNAC104
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:** [MF401514.1](https://www.ncbi.nlm.nih.gov/gene/?term=MF401514.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,epidermal cell morphogenesis ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlHDZIV8
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,epidermal cell morphogenesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,epidermal cell morphogenesis
 
 ## Sequences:

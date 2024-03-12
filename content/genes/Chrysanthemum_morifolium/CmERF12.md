@@ -10,7 +10,7 @@ tags: [ transcription factor,development,breeding,embryo,embryo development ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CmERF12
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,development,breeding,embryo,embryo development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,development,breeding,embryo,embryo development
 
 ## Sequences:

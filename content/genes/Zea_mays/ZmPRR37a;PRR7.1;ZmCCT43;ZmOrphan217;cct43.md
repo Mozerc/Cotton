@@ -10,7 +10,7 @@ tags: [ flowering ]
 - **Gene ID:**	[Zm00001eb331630]()
 - **Gene Symbol:** ZmPRR37a;PRR7.1;ZmCCT43;ZmOrphan217;cct43
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering
 
 ## Sequences:

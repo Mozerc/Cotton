@@ -3,14 +3,14 @@ description: Solyc06g075780 ; Solanum lycopersicum
 meta_title:
 title: SlZF3
 categories: [Solanum lycopersicum]
-tags: [ salt,zinc,ga, ga ,dwarf,height,plant height,ga biosynthesis ]
+tags: [ salt,zinc,ga,dwarf,height,plant height,ga biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc06g075780]()
 - **Gene Symbol:** SlZF3
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ salt,zinc,ga, ga ,dwarf,height,plant height,ga biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-salt,zinc,ga, ga ,dwarf,height,plant height,ga biosynthesis
+## Orthologs:
+
+## Keywords:
+salt,zinc,ga,dwarf,height,plant height,ga biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

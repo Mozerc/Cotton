@@ -10,7 +10,7 @@ tags: [ ethylene,ethylene response ]
 - **Gene ID:**	[MD10G1145400]()
 - **Gene Symbol:** MdHDA19
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ ethylene,ethylene response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 ethylene,ethylene response
 
 ## Sequences:

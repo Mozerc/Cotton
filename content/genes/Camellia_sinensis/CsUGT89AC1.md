@@ -10,7 +10,7 @@ tags: [ resistance,insect,insect resistance ]
 - **Gene ID:**	[CSS0040530]()
 - **Gene Symbol:** CsUGT89AC1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ resistance,insect,insect resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,insect,insect resistance
 
 ## Sequences:

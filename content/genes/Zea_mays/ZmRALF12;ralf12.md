@@ -10,12 +10,12 @@ tags: [ leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wal
 - **Gene ID:**	[Zm00001eb410350]()
 - **Gene Symbol:** ZmRALF12;ralf12
 - **Gene Name:** rapid alkalinization factor12
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - The RALF signaling pathway regulates cell wall integrity during pollen tube growth in maize.
-   - Other members like **ZmRALF12** are broadly expressed in vegetative tissues like the stigma, root, leaf, and seed.
+   - Other members like **Zm**ralf12**** are broadly expressed in vegetative tissues like the stigma, root, leaf, and seed.
    - The ortholog of ARABIDOPSIS RAPID ALKALINIZATION FACTOR 23, ATRALF23.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wal
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wall,seed growth
 
 ## Sequences:

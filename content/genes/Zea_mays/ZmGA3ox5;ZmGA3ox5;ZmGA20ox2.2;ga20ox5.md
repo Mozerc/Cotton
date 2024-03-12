@@ -3,19 +3,19 @@ description: gibberellin 20-oxidase5 ; Zm00001eb366090 ; Zea mays
 meta_title:
 title: ZmGA3ox5;ZmGA3ox5
 categories: [Zea mays]
-tags: [ gibberellin,vegetative,ga, ga ,ga biosynthetic,ga biosynthesis,gibberellin biosynthesis ]
+tags: [ gibberellin,vegetative,ga,ga biosynthetic,ga biosynthesis,gibberellin biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366090]()
 - **Gene Symbol:** ZmGA3ox5;ZmGA3ox5;ZmGA20ox2.2;ga20ox5
 - **Gene Name:** gibberellin 20-oxidase5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - ZmGA20ox3 and ZmGA20ox5 genes that control GA biosynthesis primarily in vegetative tissues.
-   - Targeted suppression of gibberellin biosynthetic genes ZmGA20ox3 and ZmGA20ox5 produces a short stature maize ideotype.
+   - ZmGA20ox3 and Zm**ga20ox5** genes that control GA biosynthesis primarily in vegetative tissues.
+   - Targeted suppression of gibberellin biosynthetic genes ZmGA20ox3 and Zm**ga20ox5** produces a short stature maize ideotype.
 
 ## Literature:
    - [Targeted suppression of gibberellin biosynthetic genes ZmGA20ox3 and ZmGA20ox5 produces a short stature maize ideotype.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13797](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13797)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35244326](https://pubmed.ncbi.nlm.nih.gov/35244326/)
@@ -27,8 +27,10 @@ tags: [ gibberellin,vegetative,ga, ga ,ga biosynthetic,ga biosynthesis,gibberell
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-gibberellin,vegetative,ga, ga ,ga biosynthetic,ga biosynthesis,gibberellin biosynthesis
+## Orthologs:
+
+## Keywords:
+gibberellin,vegetative,ga,ga biosynthetic,ga biosynthesis,gibberellin biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

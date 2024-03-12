@@ -10,7 +10,7 @@ tags: [ root,development,root development,root initiation,root hair ]
 - **Gene ID:**	[TEA029017]()
 - **Gene Symbol:** CsMYB184
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ root,development,root development,root initiation,root hair ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,development,root development,root initiation,root hair
 
 ## Sequences:

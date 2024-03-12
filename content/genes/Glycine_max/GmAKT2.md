@@ -10,7 +10,7 @@ tags: [ resistance,potassium ]
 - **Gene ID:**	[Glym08g20030]()
 - **Gene Symbol:** GmAKT2
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance,potassium ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,potassium
 
 ## Sequences:

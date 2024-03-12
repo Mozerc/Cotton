@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Ciclev10028113m.g]()
 - **Gene Symbol:** CCD4b
 - **Gene Name:** CAROTENOID CLEAVAGE DIOXYGENASE 4
-- **Genome Version:** [Citrus clementina v1.0]()
+- **Genome:** [Citrus clementina v1.0]()
 - **Species:** *Citrus reticulata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [MH705289](https://www.ncbi.nlm.nih.gov/gene/?term=MH705289)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

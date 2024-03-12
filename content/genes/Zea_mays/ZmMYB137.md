@@ -3,14 +3,14 @@ description: MYB-transcription factor 137 ; GRMZM2G162709 ; Zea mays
 meta_title:
 title: ZmMYB137
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,pi, pi  ]
+tags: [ drought,stress,drought stress,pi ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G162709]()
 - **Gene Symbol:** ZmMYB137
 - **Gene Name:** MYB-transcription factor 137
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,pi, pi  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,pi, pi 
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,pi
 
 ## Sequences:
 - **CDS Sequence:**

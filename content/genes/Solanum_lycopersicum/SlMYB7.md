@@ -10,7 +10,7 @@ tags: [ transcription factor,transcription regulator ]
 - **Gene ID:**	[Solyc01g111500.3.1]()
 - **Gene Symbol:** SlMYB7
 - **Gene Name:** 
-- **Genome Version:** [reference tomato genome SL4.0]()
+- **Genome:** [reference tomato genome SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,transcription regulator ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,transcription regulator
 
 ## Sequences:

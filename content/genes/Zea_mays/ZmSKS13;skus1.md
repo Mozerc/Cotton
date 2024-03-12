@@ -10,7 +10,7 @@ tags: [ development,homeostasis,reactive oxygen species ]
 - **Gene ID:**	[Zm00001eb149770]()
 - **Gene Symbol:** ZmSKS13;skus1
 - **Gene Name:** skewed root growth similar1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ development,homeostasis,reactive oxygen species ]
 - **NCBI ID:** [LOC100194388](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100194388)
 - **UniProt accessions:** [C0P2K2](https://www.uniprot.org/uniprotkb/C0P2K2/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,homeostasis,reactive oxygen species
 
 ## Sequences:

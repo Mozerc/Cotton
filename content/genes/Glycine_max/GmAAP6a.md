@@ -10,7 +10,7 @@ tags: [ nitrogen,stress,seed,quality,tolerance,stress tolerance ]
 - **Gene ID:**	[Glyma.17g192000]()
 - **Gene Symbol:** GmAAP6a
 - **Gene Name:** 
-- **Genome Version:** [Wm82.a2.v1]()
+- **Genome:** [Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ nitrogen,stress,seed,quality,tolerance,stress tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,stress,seed,quality,tolerance,stress tolerance
 
 ## Sequences:

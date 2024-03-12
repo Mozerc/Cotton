@@ -10,7 +10,7 @@ tags: [ tolerance,cell wall ]
 - **Gene ID:**	[Zm00001eb092880]()
 - **Gene Symbol:** ZmHIPP;hipp1
 - **Gene Name:** heavy metal-associated isoprenylated plant protein1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ tolerance,cell wall ]
 - **NCBI ID:** [LOC103647091](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103647091)
 - **UniProt accessions:** [A0A096RFC0](https://www.uniprot.org/uniprotkb/A0A096RFC0/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,cell wall
 
 ## Sequences:

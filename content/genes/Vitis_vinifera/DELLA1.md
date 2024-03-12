@@ -10,7 +10,7 @@ tags: [ development,floral,meristem,floral meristem,ovule ]
 - **Gene ID:**	[VIT_211s0016g04630]()
 - **Gene Symbol:** DELLA1
 - **Gene Name:** 
-- **Genome Version:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
+- **Genome:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,floral,meristem,floral meristem,ovule ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,floral,meristem,floral meristem,ovule
 
 ## Sequences:

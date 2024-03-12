@@ -10,7 +10,7 @@ tags: [ homeostasis ]
 - **Gene ID:**	[Zm00001eb084630]()
 - **Gene Symbol:** hak1;ZmHAK1;umc2250
 - **Gene Name:** potassium high-affinity transporter1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ homeostasis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 homeostasis
 
 ## Sequences:

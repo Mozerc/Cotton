@@ -10,7 +10,7 @@ tags: [ transporter ]
 - **Gene ID:**	[Potri007G050600]()
 - **Gene Symbol:** PotriNRAMP3.1
 - **Gene Name:** 
-- **Genome Version:** [P. trichocarpa genome V4.1]()
+- **Genome:** [P. trichocarpa genome V4.1]()
 - **Species:** *Populus trichocarpa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transporter ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transporter
 
 ## Sequences:

@@ -10,13 +10,13 @@ tags: [ breeding ]
 - **Gene ID:**	[Solyc01g103960]()
 - **Gene Symbol:** RecQ4
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - CRISPR/Cas inactivation of RECQ4 increases homeologous crossovers in an interspecific tomato hybrid.
-   - The positive effect of RECQ4 knockout on homeologous crossovers in a crop breeding intermediate.
-   - RECQ4 knockout results in increased frequency of ring bivalents in male meiocytes.
+   - CRISPR/Cas inactivation of **RecQ4** increases homeologous crossovers in an interspecific tomato hybrid.
+   - The positive effect of **RecQ4** knockout on homeologous crossovers in a crop breeding intermediate.
+   - **RecQ4** knockout results in increased frequency of ring bivalents in male meiocytes.
 
 ## Literature:
    - [CRISPR/Cas inactivation of RECQ4 increases homeologous crossovers in an interspecific tomato hybrid.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13248)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13248](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13248)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31483929](https://pubmed.ncbi.nlm.nih.gov/31483929/)
@@ -28,7 +28,9 @@ tags: [ breeding ]
 - **NCBI ID:** [XM_004231289](https://www.ncbi.nlm.nih.gov/gene/?term=XM_004231289)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 breeding
 
 ## Sequences:

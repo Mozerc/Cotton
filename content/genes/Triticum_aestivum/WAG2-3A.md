@@ -10,7 +10,7 @@ tags: [ development,spikelet,spikelet development ]
 - **Gene ID:**	[TraesCS3A02G314300]()
 - **Gene Symbol:** WAG2-3A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development,spikelet,spikelet development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,spikelet,spikelet development
 
 ## Sequences:

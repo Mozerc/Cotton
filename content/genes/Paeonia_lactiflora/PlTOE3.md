@@ -26,7 +26,10 @@ tags: [ temperature,stress,tolerance,stress tolerance,high-temperature tolerance
 - **NCBI ID:** [KC455454](https://www.ncbi.nlm.nih.gov/gene/?term=KC455454)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 temperature,stress,tolerance,stress tolerance,high-temperature tolerance
 
 ## Sequences:

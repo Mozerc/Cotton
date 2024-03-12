@@ -10,7 +10,7 @@ tags: [ resistance,immunity,plant immunity ]
 - **Gene ID:**	[Cs1g22670]()
 - **Gene Symbol:** CsACD2
 - **Gene Name:** 
-- **Genome Version:** [Citrus sinensis Valencia genome v1.0 (HZAU)]()
+- **Genome:** [Citrus sinensis Valencia genome v1.0 (HZAU)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,immunity,plant immunity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,immunity,plant immunity
 
 ## Sequences:

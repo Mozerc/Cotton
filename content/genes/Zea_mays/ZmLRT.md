@@ -10,7 +10,7 @@ tags: [ seedlings,root,drought,tolerance,drought tolerance,lateral root,root num
 - **Gene ID:**	[Zm00001eb248920]()
 - **Gene Symbol:** ZmLRT
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ seedlings,root,drought,tolerance,drought tolerance,lateral root,root num
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,root,drought,tolerance,drought tolerance,lateral root,root number,lateral root number
 
 ## Sequences:

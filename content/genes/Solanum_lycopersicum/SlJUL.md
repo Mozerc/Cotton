@@ -10,7 +10,7 @@ tags: [ yield,phloem,sucrose,sucrose transport ]
 - **Gene ID:**	[Solyc08g067180.3.1]()
 - **Gene Symbol:** SlJUL
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ yield,phloem,sucrose,sucrose transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 yield,phloem,sucrose,sucrose transport
 
 ## Sequences:

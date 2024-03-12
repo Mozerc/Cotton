@@ -10,14 +10,14 @@ tags: [ dna repair,meiotic ]
 - **Gene ID:**	[Zm00001eb419130]()
 - **Gene Symbol:** ZmBRCA2;brca2
 - **Gene Name:** BREAST CANCER SUSCEPTIBILITY PROTEIN 2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Together, our data demonstrate that **ZmBRCA2** and ZmFIGL1 act coordinately to regulate the dynamics of RAD51/DMC1-dependent DSB repair to promote CO formation in maize.
-   - Our results revealed that **ZmBRCA2** is not only involved in the repair of DNA double-stranded breaks (DSBs), but also regulates CO formation in a dosage-dependent manner.
-   - Further, simultaneous loss of ZmFIGL1 and **ZmBRCA2** abolished RAD51/DMC1 foci and exacerbated meiotic defects compared with the single mutant Zm**brca2** or Zmfigl1.
-   - This conclusion is surprisingly different from the antagonistic roles of BRCA2 and FIGL1 in Arabidopsis, implying that, although key factors that control CO formation are evolutionarily conserved, specific characteristics have been adopted in diverse plant species.
+   - Together, our data demonstrate that **Zm**brca2**** and ZmFIGL1 act coordinately to regulate the dynamics of RAD51/DMC1-dependent DSB repair to promote CO formation in maize.
+   - Our results revealed that **Zm**brca2**** is not only involved in the repair of DNA double-stranded breaks (DSBs), but also regulates CO formation in a dosage-dependent manner.
+   - Further, simultaneous loss of ZmFIGL1 and **Zm**brca2**** abolished RAD51/DMC1 foci and exacerbated meiotic defects compared with the single mutant **Zm**brca2**** or Zmfigl1.
+   - This conclusion is surprisingly different from the antagonistic roles of **brca2** and FIGL1 in Arabidopsis, implying that, although key factors that control CO formation are evolutionarily conserved, specific characteristics have been adopted in diverse plant species.
 
 ## Literature:
    - [FIGL1 coordinates with dosage-sensitive BRCA2 in modulating meiotic recombination in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13541](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37293848](https://pubmed.ncbi.nlm.nih.gov/37293848/)
@@ -29,7 +29,9 @@ tags: [ dna repair,meiotic ]
 - **NCBI ID:** [LOC103641455](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103641455)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 dna repair,meiotic
 
 ## Sequences:

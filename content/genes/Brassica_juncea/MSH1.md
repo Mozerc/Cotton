@@ -10,7 +10,7 @@ tags: [ fertility ]
 - **Gene ID:**	[BjuA001421]()
 - **Gene Symbol:** MSH1
 - **Gene Name:** MutS HOMOLOG1
-- **Genome Version:** [Braju_tum_V1.5]()
+- **Genome:** [Braju_tum_V1.5]()
 - **Species:** *Brassica juncea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ fertility ]
 - **NCBI ID:** [NCBI_ID:](https://www.ncbi.nlm.nih.gov/gene/?term=NCBI_ID:)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 fertility
 
 ## Sequences:

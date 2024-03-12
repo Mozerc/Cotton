@@ -10,7 +10,7 @@ tags: [ grain,grain number,grain weight ]
 - **Gene ID:**	[HORVU.MOREX.r3.2HG064020]()
 - **Gene Symbol:** HvSRN1
 - **Gene Name:** 
-- **Genome Version:** [genome sequence of barley cv. Morex V3]()
+- **Genome:** [genome sequence of barley cv. Morex V3]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ grain,grain number,grain weight ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 grain,grain number,grain weight
 
 ## Sequences:

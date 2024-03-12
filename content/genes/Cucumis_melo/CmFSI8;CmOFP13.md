@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[MELO3C025206]()
 - **Gene Symbol:** CmFSI8;CmOFP13
 - **Gene Name:** 
-- **Genome Version:** [Melon (DHL92) 3.6.1]()
+- **Genome:** [Melon (DHL92) 3.6.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [OK330387](https://www.ncbi.nlm.nih.gov/gene/?term=OK330387)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

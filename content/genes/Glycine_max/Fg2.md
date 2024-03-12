@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.10G194000]()
 - **Gene Symbol:** Fg2
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Genome:** [glyma.Wm82.gnm4.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

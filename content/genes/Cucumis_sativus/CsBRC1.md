@@ -10,7 +10,7 @@ tags: [ shoot,auxin,branching,auxin transport ]
 - **Gene ID:**	[Csa1G020890]()
 - **Gene Symbol:** CsBRC1
 - **Gene Name:** cucumber BRANCHED1
-- **Genome Version:** [Cucumber (Chinese Long) v2 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ shoot,auxin,branching,auxin transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 shoot,auxin,branching,auxin transport
 
 ## Sequences:

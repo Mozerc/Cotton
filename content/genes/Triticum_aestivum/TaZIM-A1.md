@@ -10,7 +10,7 @@ tags: [ heading date,flowering time,flowering,heading time ]
 - **Gene ID:**	[TraesCS7A02G423100]()
 - **Gene Symbol:** TaZIM-A1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ heading date,flowering time,flowering,heading time ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 heading date,flowering time,flowering,heading time
 
 ## Sequences:

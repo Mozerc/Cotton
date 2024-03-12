@@ -3,14 +3,14 @@ description: MD11G1303400 ; Malus domestica
 meta_title:
 title: MdATG18a
 categories: [Malus domestica]
-tags: [ nitrogen,temperature,drought,stress,drought stress,drought stress ,salt,tolerance,abiotic stress,drought tolerance,salt tolerance,salt stress,stress tolerance,stress response,drought stress response,autophagy,drought response,abiotic stress response ]
+tags: [ nitrogen,temperature,drought,stress,drought stress,salt,tolerance,abiotic stress,drought tolerance,salt tolerance,salt stress,stress tolerance,stress response,drought stress response,autophagy,drought response,abiotic stress response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD11G1303400]()
 - **Gene Symbol:** MdATG18a
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ nitrogen,temperature,drought,stress,drought stress,drought stress ,salt,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-nitrogen,temperature,drought,stress,drought stress,drought stress ,salt,tolerance,abiotic stress,drought tolerance,salt tolerance,salt stress,stress tolerance,stress response,drought stress response,autophagy,drought response,abiotic stress response
+## Orthologs:
+
+## Keywords:
+nitrogen,temperature,drought,stress,drought stress,salt,tolerance,abiotic stress,drought tolerance,salt tolerance,salt stress,stress tolerance,stress response,drought stress response,autophagy,drought response,abiotic stress response
 
 ## Sequences:
 - **CDS Sequence:**

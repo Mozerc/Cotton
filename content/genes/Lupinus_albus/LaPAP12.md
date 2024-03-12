@@ -10,7 +10,7 @@ tags: [ growth,plant growth ]
 - **Gene ID:**	[Lalb_Chr23g0266391]()
 - **Gene Symbol:** LaPAP12
 - **Gene Name:** 
-- **Genome Version:** [whole white lupin genome(https://www.whitelupin.fr/index.html)_]()
+- **Genome:** [whole white lupin genome(https://www.whitelupin.fr/index.html)_]()
 - **Species:** *Lupinus albus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,plant growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 growth,plant growth
 
 ## Sequences:

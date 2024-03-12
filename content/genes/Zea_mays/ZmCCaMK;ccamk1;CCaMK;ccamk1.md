@@ -3,14 +3,14 @@ description: calcium/calmodulin dependent protein kinase1 ; Zm00001eb200350 ; Ze
 meta_title:
 title: ZmCCaMK;ccamk1
 categories: [Zea mays]
-tags: [ kinase,drought,stress,drought stress,drought stress ,defense,tolerance,aba,drought tolerance,stress tolerance,protein kinase,calcium,plasma membrane, aba ,antioxidant defense ]
+tags: [ kinase,drought,stress,drought stress,defense,tolerance,aba,drought tolerance,stress tolerance,protein kinase,calcium,plasma membrane,antioxidant defense ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb200350]()
 - **Gene Symbol:** ZmCCaMK;ccamk1;CCaMK;ccamk1
 - **Gene Name:** calcium/calmodulin dependent protein kinase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ kinase,drought,stress,drought stress,drought stress ,defense,tolerance,a
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-kinase,drought,stress,drought stress,drought stress ,defense,tolerance,aba,drought tolerance,stress tolerance,protein kinase,calcium,plasma membrane, aba ,antioxidant defense
+## Orthologs:
+
+## Keywords:
+kinase,drought,stress,drought stress,defense,tolerance,aba,drought tolerance,stress tolerance,protein kinase,calcium,plasma membrane,antioxidant defense
 
 ## Sequences:
 - **CDS Sequence:**

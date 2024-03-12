@@ -10,7 +10,7 @@ tags: [ starch,phosphate ]
 - **Gene ID:**	[Zm00001eb192680]()
 - **Gene Symbol:** ZmTPS9;trps10;TPSII.5.3
 - **Gene Name:** trehalose-6-phosphate synthase10
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -33,7 +33,9 @@ tags: [ starch,phosphate ]
 - **NCBI ID:** [LOC103654185](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103654185)
 - **UniProt accessions:** [A0A1D6QCI3](https://www.uniprot.org/uniprotkb/A0A1D6QCI3/entry)&nbsp;,&nbsp;[A0A1D6QCI5](https://www.uniprot.org/uniprotkb/A0A1D6QCI5/entry)&nbsp;,&nbsp;[A0A3L6F4F7](https://www.uniprot.org/uniprotkb/A0A3L6F4F7/entry)&nbsp;,&nbsp;[C4JBT8](https://www.uniprot.org/uniprotkb/C4JBT8/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,phosphate
 
 ## Sequences:

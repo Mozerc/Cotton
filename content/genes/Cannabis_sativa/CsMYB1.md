@@ -10,7 +10,7 @@ tags: [ flowering,transcriptional activator,transcription activator ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsMYB1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cannabis Sativa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ flowering,transcriptional activator,transcription activator ]
 - **NCBI ID:** [XM_030639466](https://www.ncbi.nlm.nih.gov/gene/?term=XM_030639466)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flowering,transcriptional activator,transcription activator
 
 ## Sequences:

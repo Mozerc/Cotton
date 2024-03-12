@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,stress response,drought st
 - **Gene ID:**	[Gohir.D06G173000]()
 - **Gene Symbol:** GhHSP70-26
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,stress response,drought st
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ salt,tolerance,salt tolerance ]
 - **Gene ID:**	[CsaV3_1G029650]()
 - **Gene Symbol:** CsAKT1
 - **Gene Name:** 
-- **Genome Version:** [Cucumber (Chinese Long) v3 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v3 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ salt,tolerance,salt tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 salt,tolerance,salt tolerance
 
 ## Sequences:

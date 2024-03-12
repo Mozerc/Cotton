@@ -10,7 +10,7 @@ tags: [ seed,photosynthesis,yield,photosystem ]
 - **Gene ID:**	[Glyma.18G065600]()
 - **Gene Symbol:** GmFtsH25
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ seed,photosynthesis,yield,photosystem ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,photosynthesis,yield,photosystem
 
 ## Sequences:

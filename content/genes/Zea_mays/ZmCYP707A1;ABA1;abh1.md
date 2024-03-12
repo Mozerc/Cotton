@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,stress,abscisic acid,phytohormone,heat s
 - **Gene ID:**	[Zm00001eb251960]()
 - **Gene Symbol:** ZmCYP707A1;ABA1;abh1
 - **Gene Name:** abscisic acid 8'-hydroxylase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,leaf senescence,senescence,stress,abscisic acid,phytohormone,heat s
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,stress,abscisic acid,phytohormone,heat stress
 
 ## Sequences:

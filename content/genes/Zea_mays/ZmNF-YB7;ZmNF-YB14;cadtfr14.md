@@ -3,14 +3,14 @@ description: CCAAT-DR1-transcription factor 14 ; Zm00001eb302780 ; Zea mays
 meta_title:
 title: ZmNF-YB7;ZmNF-YB14
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress  ]
+tags: [ drought,stress,drought stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb302780]()
 - **Gene Symbol:** ZmNF-YB7;ZmNF-YB14;cadtfr14
 - **Gene Name:** CCAAT-DR1-transcription factor 14
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,stress,drought stress,drought stress  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress 
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress
 
 ## Sequences:
 - **CDS Sequence:**

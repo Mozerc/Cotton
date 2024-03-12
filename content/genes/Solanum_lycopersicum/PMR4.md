@@ -10,7 +10,7 @@ tags: [ resistance,pathogen,pathogen resistance ]
 - **Gene ID:**	[Solyc07g053980]()
 - **Gene Symbol:** PMR4
 - **Gene Name:** 
-- **Genome Version:** [Tomato Genome version SL4.0]()
+- **Genome:** [Tomato Genome version SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance,pathogen,pathogen resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,pathogen,pathogen resistance
 
 ## Sequences:

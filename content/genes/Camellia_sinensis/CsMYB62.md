@@ -10,7 +10,7 @@ tags: [ resistance,phosphorus ]
 - **Gene ID:**	[CSS0015964]()
 - **Gene Symbol:** CsMYB62
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,phosphorus ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,phosphorus
 
 ## Sequences:

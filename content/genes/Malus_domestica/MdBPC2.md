@@ -10,7 +10,7 @@ tags: [ transcription factor,growth,auxin,auxin biosynthesis ]
 - **Gene ID:**	[MD16G1012800]()
 - **Gene Symbol:** MdBPC2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,growth,auxin,auxin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,growth,auxin,auxin biosynthesis
 
 ## Sequences:

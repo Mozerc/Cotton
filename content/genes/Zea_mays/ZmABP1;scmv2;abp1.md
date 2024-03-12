@@ -10,13 +10,13 @@ tags: [ auxin,resistance,disease,disease resistance,resistant ]
 - **Gene ID:**	[Zm00001eb137840]()
 - **Gene Symbol:** ZmABP1;scmv2;abp1
 - **Gene Name:** Auxin Binding Protein 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Auxin Binding Protein 1 Reinforces Resistance to Sugarcane Mosaic Virus in Maize.
-   - A maize gene for resistance to sugarcane Mosaic virus disease **ZmABP1** was studied.
-   - Scmv2, which encodes an auxin binding protein 1 (**ZmABP1**), is located on Chr 3, and it is highly expressed in the resistant lines and acts synergistically with Scmv1 to enhance the virus resistance.
+   - A maize gene for resistance to sugarcane Mosaic virus disease **Zm**abp1**** was studied.
+   - **scmv2**, which encodes an auxin binding protein 1 (**Zm**abp1****), is located on Chr 3, and it is highly expressed in the resistant lines and acts synergistically with Scmv1 to enhance the virus resistance.
 
 ## Literature:
    - [Auxin Binding Protein 1 Reinforces Resistance to Sugarcane Mosaic Virus in Maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30229-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205217302290%3Fshowall%3Dtrue#supplementaryMaterial)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.07.013](https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30229-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205217302290%3Fshowall%3Dtrue#supplementaryMaterial)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28827193](https://pubmed.ncbi.nlm.nih.gov/28827193/)
@@ -28,7 +28,9 @@ tags: [ auxin,resistance,disease,disease resistance,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,resistance,disease,disease resistance,resistant
 
 ## Sequences:

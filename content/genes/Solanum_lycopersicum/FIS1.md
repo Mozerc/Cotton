@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Solyc10g007570]()
 - **Gene Symbol:** FIS1
 - **Gene Name:** 
-- **Genome Version:** [tomato reference genome (ITAG3.0)]()
+- **Genome:** [tomato reference genome (ITAG3.0)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

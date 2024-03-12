@@ -10,13 +10,13 @@ tags: [ stomatal,stomata ]
 - **Gene ID:**	[Zm00001eb117610]()
 - **Gene Symbol:** pan2
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - In **pan2**, all stomata have stomatal closure defects, indicating that PAN2 has an additional role in stomatal closure.
-   - Stomatal closure in maize is mediated by subsidiary cells and the PAN2 receptor.
-   - PAN2 contributes to stomatal function in two distinct ways.
+   - In **pan2**, all stomata have stomatal closure defects, indicating that **pan2** has an additional role in stomatal closure.
+   - Stomatal closure in maize is mediated by subsidiary cells and the **pan2** receptor.
+   - **pan2** contributes to stomatal function in two distinct ways.
 
 ## Literature:
    - [Stomatal closure in maize is mediated by subsidiary cells and the PAN2 receptor.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19379](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37936339](https://pubmed.ncbi.nlm.nih.gov/37936339/)
@@ -28,7 +28,9 @@ tags: [ stomatal,stomata ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stomatal,stomata
 
 ## Sequences:

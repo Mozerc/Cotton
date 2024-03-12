@@ -10,7 +10,7 @@ tags: [ transcription factor,starch,endosperm ]
 - **Gene ID:**	[Zm00001eb292790]()
 - **Gene Symbol:** ZmDOF36;dof10
 - **Gene Name:** C2C2-Dof-transcription factor 10
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,starch,endosperm ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,starch,endosperm
 
 ## Sequences:

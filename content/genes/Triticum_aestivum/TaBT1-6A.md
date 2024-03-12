@@ -10,7 +10,7 @@ tags: [ grain,grain size,starch,grain yield,yield,breeding,grain weight ]
 - **Gene ID:**	[TraesCS6A02G175100]()
 - **Gene Symbol:** TaBT1-6A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ grain,grain size,starch,grain yield,yield,breeding,grain weight ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain size,starch,grain yield,yield,breeding,grain weight
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: TraesCS2A02G205500 ; Triticum aestivum
 meta_title:
 title: TaSTP6-2A
 categories: [Triticum aestivum]
-tags: [ aba,transporter,sugar, aba  ]
+tags: [ aba,transporter,sugar ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G205500]()
 - **Gene Symbol:** TaSTP6-2A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ aba,transporter,sugar, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba,transporter,sugar, aba 
+## Orthologs:
+
+## Keywords:
+aba,transporter,sugar
 
 ## Sequences:
 - **CDS Sequence:**

@@ -26,6 +26,9 @@ tags: [ breeding ]
 - **NCBI ID:** [OP221437](https://www.ncbi.nlm.nih.gov/gene/?term=OP221437)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
+## Orthologs:
+
+
 ## Keywords:
 breeding
 

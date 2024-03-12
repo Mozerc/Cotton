@@ -10,7 +10,7 @@ tags: [ root,adventitious root,adventitious root formation ]
 - **Gene ID:**	[MD06G1196100]()
 - **Gene Symbol:** MdORE1
 - **Gene Name:** Malus domestica ORESARA1
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,adventitious root,adventitious root formation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,adventitious root,adventitious root formation
 
 ## Sequences:

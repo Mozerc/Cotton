@@ -10,7 +10,7 @@ tags: [ transporter,endosperm,manganese,iron,fe ]
 - **Gene ID:**	[TraesCS5A02G203400]()
 - **Gene Symbol:** TaVIT2-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transporter,endosperm,manganese,iron,fe ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transporter,endosperm,manganese,iron,fe
 
 ## Sequences:

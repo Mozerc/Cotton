@@ -10,7 +10,7 @@ tags: [ root,auxin,architecture,auxin transport,height,plant height,nitrate,plan
 - **Gene ID:**	[GRMZM2G098643]()
 - **Gene Symbol:** ZmPIN1a
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ root,auxin,architecture,auxin transport,height,plant height,nitrate,plan
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,auxin,architecture,auxin transport,height,plant height,nitrate,plant architecture,root architecture
 
 ## Sequences:

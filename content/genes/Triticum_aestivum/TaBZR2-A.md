@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,drou
 - **Gene ID:**	[TraesCS3A02G139000]()
 - **Gene Symbol:** TaBZR2-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,drou
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance,drought,tolerance,drought tolerance,drought resistance
 
 ## Sequences:

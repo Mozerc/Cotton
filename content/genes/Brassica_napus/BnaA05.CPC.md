@@ -10,7 +10,7 @@ tags: [ root,development,root development ]
 - **Gene ID:**	[BnaA05g01400D]()
 - **Gene Symbol:** BnaA05.CPC
 - **Gene Name:** CAPRICE
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ root,development,root development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,development,root development
 
 ## Sequences:

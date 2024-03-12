@@ -10,7 +10,7 @@ tags: [ kinase,grain,grain length,grain number,grain yield,yield,meristem,inflor
 - **Gene ID:**	[Zm00001eb273900]()
 - **Gene Symbol:** KNR6
 - **Gene Name:** KERNEL NUMBER PER ROW6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ kinase,grain,grain length,grain number,grain yield,yield,meristem,inflor
 - **NCBI ID:** [LOC100281753](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281753)
 - **UniProt accessions:** [C0PKQ4](https://www.uniprot.org/uniprotkb/C0PKQ4/entry)&nbsp;,&nbsp;[A0A1D6LPP9](https://www.uniprot.org/uniprotkb/A0A1D6LPP9/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,grain,grain length,grain number,grain yield,yield,meristem,inflorescence,protein kinase,grain protein
 
 ## Sequences:

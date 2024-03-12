@@ -10,7 +10,7 @@ tags: [ drought ]
 - **Gene ID:**	[VIT_19s0014g03290]()
 - **Gene Symbol:** VvNAC17
 - **Gene Name:** 
-- **Genome Version:** [V. vinifera reference genome (http://plants.ensembl.org/index.html)]()
+- **Genome:** [V. vinifera reference genome (http://plants.ensembl.org/index.html)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ drought ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ root,growth,auxin,stress,seedling,tolerance,stress tolerance,root growth
 - **Gene ID:**	[Zm00001eb217960]()
 - **Gene Symbol:** ZmBET5L1
 - **Gene Name:** BET5-like1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,growth,auxin,stress,seedling,tolerance,stress tolerance,root growth
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,auxin,stress,seedling,tolerance,stress tolerance,root growth,auxin transport,osmotic tolerance,primary root,seedling growth,osmotic stress
 
 ## Sequences:

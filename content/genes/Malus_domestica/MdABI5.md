@@ -3,14 +3,14 @@ description: Malus domestica ABSCISIC ACID-INSENSITIVE 5 ; Malus domestica
 meta_title:
 title: MdABI5
 categories: [Malus domestica]
-tags: [ leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance, aba  ]
+tags: [ leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdABI5
 - **Gene Name:** Malus domestica ABSCISIC ACID-INSENSITIVE 5
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance,
 - **NCBI ID:** [LOC103430245](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103430245)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance, aba 
+## Orthologs:
+
+## Keywords:
+leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance
 
 ## Sequences:
 - **CDS Sequence:**

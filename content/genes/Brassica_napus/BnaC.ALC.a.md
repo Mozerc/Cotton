@@ -10,7 +10,7 @@ tags: [ development,resistance,seed,seed development,shattering,seed shattering 
 - **Gene ID:**	[BnaC07g16290D]()
 - **Gene Symbol:** BnaC.ALC.a
 - **Gene Name:** ALCATRAZ
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,resistance,seed,seed development,shattering,seed shattering 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,resistance,seed,seed development,shattering,seed shattering
 
 ## Sequences:

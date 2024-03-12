@@ -10,7 +10,7 @@ tags: [ seedlings,growth,fertility,yield,plant growth,cell elongation,height,pla
 - **Gene ID:**	[Zm00001eb007470]()
 - **Gene Symbol:** ZmRPH1;rdph1
 - **Gene Name:** Reducing Plant Height 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ seedlings,growth,fertility,yield,plant growth,cell elongation,height,pla
 - **NCBI ID:** [100382795](https://www.ncbi.nlm.nih.gov/gene/?term=100382795)
 - **UniProt accessions:** [A0A1D6JRP3](https://www.uniprot.org/uniprotkb/A0A1D6JRP3/entry)&nbsp;,&nbsp;[A0A1D6JRN6](https://www.uniprot.org/uniprotkb/A0A1D6JRN6/entry)&nbsp;,&nbsp;[A0A1D6JRN8](https://www.uniprot.org/uniprotkb/A0A1D6JRN8/entry)&nbsp;,&nbsp;[A0A1D6JRP1](https://www.uniprot.org/uniprotkb/A0A1D6JRP1/entry)&nbsp;,&nbsp;[A0A1D6JRP4](https://www.uniprot.org/uniprotkb/A0A1D6JRP4/entry)&nbsp;,&nbsp;[C0PAQ8](https://www.uniprot.org/uniprotkb/C0PAQ8/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,growth,fertility,yield,plant growth,cell elongation,height,plant height,flowering time,flowering
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdBBX7
 - **Gene Name:** Malus domestica B-BOX 7
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [NM_001293833.1](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001293833.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

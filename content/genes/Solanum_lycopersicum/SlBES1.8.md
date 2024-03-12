@@ -10,7 +10,7 @@ tags: [ development ]
 - **Gene ID:**	[Solyc10g076390]()
 - **Gene Symbol:** SlBES1.8
 - **Gene Name:** 
-- **Genome Version:** [ tomato genome in the Solanaceae Genomics Network (http://solgenomics.net/)]()
+- **Genome:** [ tomato genome in the Solanaceae Genomics Network (http://solgenomics.net/)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development
 
 ## Sequences:

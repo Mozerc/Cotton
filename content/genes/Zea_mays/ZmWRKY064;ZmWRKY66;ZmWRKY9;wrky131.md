@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,stress,stress response,heat stress,heat 
 - **Gene ID:**	[Zm00001eb256230]()
 - **Gene Symbol:** ZmWRKY064;ZmWRKY66;ZmWRKY9;wrky131
 - **Gene Name:** WRKY-transcription factor 131
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,leaf senescence,senescence,stress,stress response,heat stress,heat 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,stress,stress response,heat stress,heat stress response
 
 ## Sequences:

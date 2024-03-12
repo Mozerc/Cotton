@@ -10,7 +10,7 @@ tags: [ dwarf ]
 - **Gene ID:**	[GH_A09G2280]()
 - **Gene Symbol:** GhDR
 - **Gene Name:** 
-- **Genome Version:** [ reference genome TM-1_ZJU_v2.1 (ftp://ftp.bioinfo.wsu.edu/species/Gossypium_ hirsutum/ZJU_G.hirsutum_AD1genome_v2.1)]()
+- **Genome:** [ reference genome TM-1_ZJU_v2.1 (ftp://ftp.bioinfo.wsu.edu/species/Gossypium_ hirsutum/ZJU_G.hirsutum_AD1genome_v2.1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ dwarf ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 dwarf
 
 ## Sequences:

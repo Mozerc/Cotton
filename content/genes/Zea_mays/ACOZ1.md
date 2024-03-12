@@ -10,7 +10,7 @@ tags: [ meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination ]
 - **Gene ID:**	[Zm00001d039352]()
 - **Gene Symbol:** ACOZ1
 - **Gene Name:** abnormal chromosome organization in zygotene1
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination
 
 ## Sequences:

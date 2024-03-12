@@ -10,7 +10,7 @@ tags: [ height,plant height ]
 - **Gene ID:**	[TraesCS3A03G0950800]()
 - **Gene Symbol:** TaSD1-3A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ height,plant height ]
    - TaSD1 had not been widely utilized in wheat due to lack of alleles.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514123000818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.05.007](https://www.sciencedirect.com/science/article/pii/S2214514123000818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [In silico curation of QTL-rich clusters and candidate gene identification for plant height of bread wheat]( https://www.sciencedirect.com/science/article/pii/S2214514123000818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.05.007](https://www.sciencedirect.com/science/article/pii/S2214514123000818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [青岛农大鉴定小麦株高QTL簇及其候选基因](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247576896&idx=6&sn=ef38ccafece8d11a02f7fb8cb34bca7b&chksm=e968c6f5255c1de3d0f5423279a6ed93bc9cc13115745bd8eaac9438f3decf3ebf4c773ee788&scene=27#wechat_redirect)
@@ -28,7 +28,9 @@ tags: [ height,plant height ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 height,plant height
 
 ## Sequences:

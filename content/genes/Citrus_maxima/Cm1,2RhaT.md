@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Cg1g023820]()
 - **Gene Symbol:** Cm1,2RhaT
 - **Gene Name:** 
-- **Genome Version:** [Citrus maxima (C. grandis) genome v1.0]()
+- **Genome:** [Citrus maxima (C. grandis) genome v1.0]()
 - **Species:** *Citrus maxima*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [AY048882](https://www.ncbi.nlm.nih.gov/gene/?term=AY048882)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

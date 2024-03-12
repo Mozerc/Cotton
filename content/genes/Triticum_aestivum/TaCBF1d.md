@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance ]
 - **Gene ID:**	[TraesCS6D02G147300]()
 - **Gene Symbol:** TaCBF1d
 - **Gene Name:** 
-- **Genome Version:** [ference wheat genome (http://plants.ensembl.org/Triticum_aestivum/Info/Index)]()
+- **Genome:** [ference wheat genome (http://plants.ensembl.org/Triticum_aestivum/Info/Index)]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance
 
 ## Sequences:

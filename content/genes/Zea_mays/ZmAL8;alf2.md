@@ -10,7 +10,7 @@ tags: [ transcription factor ]
 - **Gene ID:**	[Zm00001eb244180]()
 - **Gene Symbol:** ZmAL8;alf2
 - **Gene Name:** Alfin-like-transcription factor 2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor
 
 ## Sequences:

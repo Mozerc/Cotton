@@ -10,7 +10,7 @@ tags: [ root,root number ]
 - **Gene ID:**	[GRMZM2G101511]()
 - **Gene Symbol:** TGA1
 - **Gene Name:** teosinte glume architecture1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ root,root number ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,root number
 
 ## Sequences:

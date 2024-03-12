@@ -10,7 +10,7 @@ tags: [ transcription factor,sugar,sugar transport,as transport ]
 - **Gene ID:**	[Zm00001eb148260]()
 - **Gene Symbol:** ZmWRKY031;ZmWRKY130;ZmWRKY54;wrky54
 - **Gene Name:** WRKY-transcription factor 54
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,sugar,sugar transport,as transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,sugar,sugar transport,as transport
 
 ## Sequences:

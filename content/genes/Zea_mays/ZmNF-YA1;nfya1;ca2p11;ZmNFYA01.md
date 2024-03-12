@@ -3,14 +3,14 @@ description: Zm00001eb005690 ; Zea mays
 meta_title:
 title: ZmNF-YA1;nfya1
 categories: [Zea mays]
-tags: [ root,growth,development,plant development,drought,stress,drought stress,drought stress ,salt,tolerance,abiotic stress,drought tolerance,root development,salt tolerance,salt stress,stress tolerance,root growth,plant growth,transcription regulator ]
+tags: [ root,growth,development,plant development,drought,stress,drought stress,salt,tolerance,abiotic stress,drought tolerance,root development,salt tolerance,salt stress,stress tolerance,root growth,plant growth,transcription regulator ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb005690]()
 - **Gene Symbol:** ZmNF-YA1;nfya1;ca2p11;ZmNFYA01
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ root,growth,development,plant development,drought,stress,drought stress,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,growth,development,plant development,drought,stress,drought stress,drought stress ,salt,tolerance,abiotic stress,drought tolerance,root development,salt tolerance,salt stress,stress tolerance,root growth,plant growth,transcription regulator
+## Orthologs:
+
+## Keywords:
+root,growth,development,plant development,drought,stress,drought stress,salt,tolerance,abiotic stress,drought tolerance,root development,salt tolerance,salt stress,stress tolerance,root growth,plant growth,transcription regulator
 
 ## Sequences:
 - **CDS Sequence:**

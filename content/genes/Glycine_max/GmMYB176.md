@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.05g032200]()
 - **Gene Symbol:** GmMYB176
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Genome:** [glyma.Wm82.gnm4.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

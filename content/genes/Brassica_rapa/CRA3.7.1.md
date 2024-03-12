@@ -10,7 +10,7 @@ tags: [ resistant ]
 - **Gene ID:**	[BraA03g012133E]()
 - **Gene Symbol:** CRA3.7.1
 - **Gene Name:** 
-- **Genome Version:** [ECD04 genome]()
+- **Genome:** [ECD04 genome]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistant
 
 ## Sequences:

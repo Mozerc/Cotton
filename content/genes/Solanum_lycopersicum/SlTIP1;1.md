@@ -10,13 +10,13 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlTIP1;1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - SlERF52 regulates **SlTIP**1****;**1** expression to accelerate tomato pedicel abscission.
-   - SlERF52 bound directly to the **SlTIP**1****;**1** promoter to regulate its expression, demonstrating a positive loop in which cytoplasmic H2O2 activates ETH production, which activates SlERF52.
-   - Induces **SlTIP**1****;**1**, which leads to elevated cytoplasmic H2O2 and water influx.
+   - SlERF52 regulates **SlTIP1**;1 expression to accelerate tomato pedicel abscission.
+   - SlERF52 bound directly to the **SlTIP1**;1 promoter to regulate its expression, demonstrating a positive loop in which cytoplasmic H2O2 activates ETH production, which activates SlERF52.
+   - Induces **SlTIP1**;1, which leads to elevated cytoplasmic H2O2 and water influx.
 
 ## Literature:
    - [SlERF52 regulates SlTIP1;1 expression to accelerate tomato pedicel abscission.]( https://academic.oup.com/plphys/article/185/4/1829/6122741)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab026](https://academic.oup.com/plphys/article/185/4/1829/6122741)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33638643](https://pubmed.ncbi.nlm.nih.gov/33638643/)
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [AB845616](https://www.ncbi.nlm.nih.gov/gene/?term=AB845616)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

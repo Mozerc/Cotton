@@ -10,7 +10,7 @@ tags: [ sugar ]
 - **Gene ID:**	[Cla000264]()
 - **Gene Symbol:** ClTST2
 - **Gene Name:** onoplast Sugar Transporter gene2
-- **Genome Version:** [latermelon database 97103 V1 (http://cucurbitgenomics.org/organism/1)]()
+- **Genome:** [latermelon database 97103 V1 (http://cucurbitgenomics.org/organism/1)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ sugar ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sugar
 
 ## Sequences:

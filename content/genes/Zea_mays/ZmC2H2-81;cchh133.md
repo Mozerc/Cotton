@@ -10,7 +10,7 @@ tags: [ seedlings,temperature,resistance,stress,cold stress,cold,low-temperature
 - **Gene ID:**	[Zm00001eb243510]()
 - **Gene Symbol:** ZmC2H2-81;cchh133
 - **Gene Name:** Cys2His2 Zinc Finger133
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seedlings,temperature,resistance,stress,cold stress,cold,low-temperature
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,temperature,resistance,stress,cold stress,cold,low-temperature
 
 ## Sequences:

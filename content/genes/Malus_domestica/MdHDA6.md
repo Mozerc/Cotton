@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdHDA6
 - **Gene Name:** Malus domestica histone deacetylase 6
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [LOC114820967](https://www.ncbi.nlm.nih.gov/gene/?term=LOC114820967)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Acc03208]()
 - **Gene Symbol:** AcALMT1
 - **Gene Name:** Al-ACTIVATED MALATE TRANSPORTER
-- **Genome Version:** [Genome_version:Actinidia chinensis (Red5)]()
+- **Genome:** [Genome_version:Actinidia chinensis (Red5)]()
 - **Species:** *Actinidia chinensis*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

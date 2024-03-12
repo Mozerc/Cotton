@@ -10,7 +10,7 @@ tags: [ sugar,phosphorus,pi,sugar transport, pi ,pi signaling,pi uptake ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** FaVPT1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ sugar,phosphorus,pi,sugar transport, pi ,pi signaling,pi uptake ]
 - **NCBI ID:** [XP_004298733.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_004298733.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sugar,phosphorus,pi,sugar transport, pi ,pi signaling,pi uptake
 
 ## Sequences:

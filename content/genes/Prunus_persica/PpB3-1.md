@@ -10,7 +10,7 @@ tags: [ development,flower,flower development ]
 - **Gene ID:**	[Pp08G015510]()
 - **Gene Symbol:** PpB3-1
 - **Gene Name:** 
-- **Genome Version:** [CN14 genome ]()
+- **Genome:** [CN14 genome ]()
 - **Species:** *Prunus persica*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,flower,flower development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,flower,flower development
 
 ## Sequences:

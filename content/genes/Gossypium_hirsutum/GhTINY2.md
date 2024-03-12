@@ -10,7 +10,7 @@ tags: [ growth,br,br signaling,immunity, br ,sa, sa  ]
 - **Gene ID:**	[GhD06G0642]()
 - **Gene Symbol:** GhTINY2
 - **Gene Name:** 
-- **Genome Version:** [Cotton Functional Genomics Database (https://cottonfgd.org/)]()
+- **Genome:** [Cotton Functional Genomics Database (https://cottonfgd.org/)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,br,br signaling,immunity, br ,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,br,br signaling,immunity, br ,sa, sa 
 
 ## Sequences:

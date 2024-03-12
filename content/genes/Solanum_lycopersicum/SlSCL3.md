@@ -10,7 +10,7 @@ tags: [ development ]
 - **Gene ID:**	[Solyc12g099900]()
 - **Gene Symbol:** SlSCL3
 - **Gene Name:** 
-- **Genome Version:** [ tomato genome ITAG 2.4]()
+- **Genome:** [ tomato genome ITAG 2.4]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development
 
 ## Sequences:

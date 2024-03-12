@@ -10,7 +10,7 @@ tags: [ floral ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** ClCRY2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ floral ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 floral
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,transcription activator,calli ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsNAC7
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,transcription activator,calli ]
 - **NCBI ID:** [MT882349](https://www.ncbi.nlm.nih.gov/gene/?term=MT882349)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,transcription activator,calli
 
 ## Sequences:

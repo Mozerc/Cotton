@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** YrNAM
 - **Gene Name:** 
-- **Genome Version:** [Triticeae genomes [http://wheatomics.sdau.edu.cn/]]()
+- **Genome:** [Triticeae genomes [http://wheatomics.sdau.edu.cn/]]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ resistance ]
 - **NCBI ID:** [OP490604](https://www.ncbi.nlm.nih.gov/gene/?term=OP490604)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

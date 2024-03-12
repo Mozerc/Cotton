@@ -10,7 +10,7 @@ tags: [ development,flower,flower development ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CmBES1
 - **Gene Name:** Gene_name:Chrysanthemum morifolium BRI1-EMS-SUPPRESSOR 1
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,flower,flower development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,flower,flower development
 
 ## Sequences:

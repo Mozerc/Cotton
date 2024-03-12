@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance,al tolerance ]
 - **Gene ID:**	[MS.gene058705]()
 - **Gene Symbol:** MsLEA1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Medicago sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,tolerance,drought tolerance,al tolerance ]
 - **NCBI ID:** [OR449397](https://www.ncbi.nlm.nih.gov/gene/?term=OR449397)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,tolerance,drought tolerance,al tolerance
 
 ## Sequences:

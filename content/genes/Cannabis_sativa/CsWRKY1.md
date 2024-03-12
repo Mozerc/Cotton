@@ -10,7 +10,7 @@ tags: [ flowering,transcriptional activator,transcription activator ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsWRKY1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cannabis Sativa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ flowering,transcriptional activator,transcription activator ]
 - **NCBI ID:** [XM_030654298](https://www.ncbi.nlm.nih.gov/gene/?term=XM_030654298)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flowering,transcriptional activator,transcription activator
 
 ## Sequences:

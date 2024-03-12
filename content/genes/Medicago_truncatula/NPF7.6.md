@@ -10,7 +10,7 @@ tags: [ nitrate,symbiosis ]
 - **Gene ID:**	[Mtr.27727.1]()
 - **Gene Symbol:** NPF7.6
 - **Gene Name:** 
-- **Genome Version:** [JCVI Mt 4.0]()
+- **Genome:** [JCVI Mt 4.0]()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ nitrate,symbiosis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 nitrate,symbiosis
 
 ## Sequences:

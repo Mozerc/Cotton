@@ -3,14 +3,14 @@ description: bHLH-transcription factor 132 ; Zm00001eb144450 ; Zea mays
 meta_title:
 title: ZmKS;ZmOST1
 categories: [Zea mays]
-tags: [ leaf,transcription factor,root,kinase,stress,nucleus,aba,embryo,protein kinase, aba ,osmotic stress ]
+tags: [ leaf,transcription factor,root,kinase,stress,nucleus,aba,embryo,protein kinase,osmotic stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb144450]()
 - **Gene Symbol:** ZmKS;ZmOST1;bhlh132
 - **Gene Name:** bHLH-transcription factor 132
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ leaf,transcription factor,root,kinase,stress,nucleus,aba,embryo,protein 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,transcription factor,root,kinase,stress,nucleus,aba,embryo,protein kinase, aba ,osmotic stress
+## Orthologs:
+
+## Keywords:
+leaf,transcription factor,root,kinase,stress,nucleus,aba,embryo,protein kinase,osmotic stress
 
 ## Sequences:
 - **CDS Sequence:**

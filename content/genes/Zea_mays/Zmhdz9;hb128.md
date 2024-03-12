@@ -3,14 +3,14 @@ description: Homeobox-transcription factor 128 ; Zm00001eb319390 ; Zea mays
 meta_title:
 title: Zmhdz9;hb128
 categories: [Zea mays]
-tags: [ transcription factor,resistance,drought,stress,drought stress,drought stress ,aba,abscisic acid,lignin, aba ,drought resistance ]
+tags: [ transcription factor,resistance,drought,stress,drought stress,aba,abscisic acid,lignin,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb319390]()
 - **Gene Symbol:** Zmhdz9;hb128
 - **Gene Name:** Homeobox-transcription factor 128
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,drought st
 - **NCBI ID:** [LOC100502166](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502166)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,resistance,drought,stress,drought stress,drought stress ,aba,abscisic acid,lignin, aba ,drought resistance
+## Orthologs:
+
+## Keywords:
+transcription factor,resistance,drought,stress,drought stress,aba,abscisic acid,lignin,drought resistance
 
 ## Sequences:
 - **CDS Sequence:**

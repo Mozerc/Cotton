@@ -10,7 +10,7 @@ tags: [ ja,immunity, ja  ]
 - **Gene ID:**	[RC0G0132900]()
 - **Gene Symbol:** RcMYB123
 - **Gene Name:** 
-- **Genome Version:** [R. chinensis ‘Old blush’(https://lipmbro-wsers.toulouse.inra.fr/pub/RchiOBHm-V2/)]()
+- **Genome:** [R. chinensis ‘Old blush’(https://lipmbro-wsers.toulouse.inra.fr/pub/RchiOBHm-V2/)]()
 - **Species:** *Rosa chinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ja,immunity, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ja,immunity, ja 
 
 ## Sequences:

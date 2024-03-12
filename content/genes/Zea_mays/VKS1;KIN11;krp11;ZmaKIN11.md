@@ -10,11 +10,11 @@ tags: [ development,yield,mitosis,endosperm,endosperm development ]
 - **Gene ID:**	[Zm00001eb298280]()
 - **Gene Symbol:** VKS1;KIN11;krp11;ZmaKIN11
 - **Gene Name:** varied kernel size 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Vks1 encodes Zm**KIN11**, which belongs to the kinesin-14 subfamily and is predominantly expressed in early endosperm development.
+   - **VKS1** encodes Zm**KIN11**, which belongs to the kinesin-14 subfamily and is predominantly expressed in early endosperm development.
    - Absence of **VKS1** has relatively minor effects on plants but causes deformities in spindle assembly.
    - Our discovery highlights **VKS1** as a central regulator of mitosis in early maize endosperm development and provides a potential approach for future yield improvement.
 
@@ -28,7 +28,9 @@ tags: [ development,yield,mitosis,endosperm,endosperm development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,yield,mitosis,endosperm,endosperm development
 
 ## Sequences:

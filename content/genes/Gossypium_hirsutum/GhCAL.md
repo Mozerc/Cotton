@@ -10,7 +10,7 @@ tags: [ breeding,flowering ]
 - **Gene ID:**	[GH_D07G0876]()
 - **Gene Symbol:** GhCAL
 - **Gene Name:** 
-- **Genome Version:** [The TM-1 reference genome (Gossypium hirsutum, ZJU)(https://cottonfgd.org/about/download.html)]()
+- **Genome:** [The TM-1 reference genome (Gossypium hirsutum, ZJU)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ breeding,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 breeding,flowering
 
 ## Sequences:

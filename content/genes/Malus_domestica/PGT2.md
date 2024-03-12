@@ -10,7 +10,7 @@ tags: [ glycosylation ]
 - **Gene ID:**	[MDP0000836043]()
 - **Gene Symbol:** PGT2
 - **Gene Name:** Phloretin glycosyltransferase2
-- **Genome Version:** [M. × domestica ‘Golden Delicious’ v1.0]()
+- **Genome:** [M. × domestica ‘Golden Delicious’ v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ glycosylation ]
 - **NCBI ID:** [UGT88A32](https://www.ncbi.nlm.nih.gov/gene/?term=UGT88A32)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 glycosylation
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ development,flower,flower development ]
 - **Gene ID:**	[TraesCS4B02G245700]()
 - **Gene Symbol:** WLHS1-4B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ development,flower,flower development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,flower,flower development
 
 ## Sequences:

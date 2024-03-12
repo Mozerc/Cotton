@@ -10,7 +10,7 @@ tags: [ pollen,pollen exine formation,pollen formation ]
 - **Gene ID:**	[Ghir_D02G025140]()
 - **Gene Symbol:** GhNSP
 - **Gene Name:** NO SPINE POLLEN
-- **Genome Version:** [G.hirsutum cv TM-1]()
+- **Genome:** [G.hirsutum cv TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ pollen,pollen exine formation,pollen formation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 pollen,pollen exine formation,pollen formation
 
 ## Sequences:

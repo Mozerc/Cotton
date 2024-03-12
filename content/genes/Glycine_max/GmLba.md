@@ -10,7 +10,7 @@ tags: [ nitrogen,development,iron ]
 - **Gene ID:**	[Glyma.20G191200]()
 - **Gene Symbol:** GmLba
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ nitrogen,development,iron ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,development,iron
 
 ## Sequences:

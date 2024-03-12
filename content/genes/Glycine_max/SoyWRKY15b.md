@@ -10,7 +10,7 @@ tags: [ development,seed,seed weight,seed development ]
 - **Gene ID:**	[Glyma17g18480]()
 - **Gene Symbol:** SoyWRKY15b
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,seed,seed weight,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,seed weight,seed development
 
 ## Sequences:

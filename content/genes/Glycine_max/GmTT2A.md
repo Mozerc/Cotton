@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.13G109100]()
 - **Gene Symbol:** GmTT2A
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [XM_003541253.4](https://www.ncbi.nlm.nih.gov/gene/?term=XM_003541253.4)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

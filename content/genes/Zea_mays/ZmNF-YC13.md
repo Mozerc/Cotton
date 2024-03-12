@@ -10,7 +10,7 @@ tags: [ leaf,transcription factor,growth,architecture,plant growth,plant archite
 - **Gene ID:**	[Zm00001d046967]()
 - **Gene Symbol:** ZmNF-YC13
 - **Gene Name:** CCAAT-HAP5-transcription factor 57
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ leaf,transcription factor,growth,architecture,plant growth,plant archite
 - **NCBI ID:** [LOC100217109](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100217109)
 - **UniProt accessions:** [B4FLF9](https://www.uniprot.org/uniprotkb/B4FLF9/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,transcription factor,growth,architecture,plant growth,plant architecture
 
 ## Sequences:

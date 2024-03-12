@@ -10,7 +10,7 @@ tags: [ carotene ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsMYC2
 - **Gene Name:** 
-- **Genome Version:** [Citrus sinensis cv. Valencia, v2.0 (HZAU)]()
+- **Genome:** [Citrus sinensis cv. Valencia, v2.0 (HZAU)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ carotene ]
 - **NCBI ID:** [Ciclev10019730m](https://www.ncbi.nlm.nih.gov/gene/?term=Ciclev10019730m)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 carotene
 
 ## Sequences:

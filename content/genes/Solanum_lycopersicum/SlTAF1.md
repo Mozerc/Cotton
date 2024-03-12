@@ -10,7 +10,7 @@ tags: [ transcription factor,growth,stress,salinity,salt,tolerance,salt toleranc
 - **Gene ID:**	[Solyc06g060230]()
 - **Gene Symbol:** SlTAF1
 - **Gene Name:** Transcription Activation Factor 1
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,growth,stress,salinity,salt,tolerance,salt toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,growth,stress,salinity,salt,tolerance,salt tolerance,salt stress,stress tolerance,plant growth,salinity stress,transcription regulator,stress response
 
 ## Sequences:

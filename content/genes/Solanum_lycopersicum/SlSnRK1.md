@@ -3,14 +3,14 @@ description: Solyc02g067030 ; Solanum lycopersicum
 meta_title:
 title: SlSnRK1
 categories: [Solanum lycopersicum]
-tags: [ seed,seed germination,aba, aba  ]
+tags: [ seed,seed germination,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc02g067030]()
 - **Gene Symbol:** SlSnRK1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ seed,seed germination,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-seed,seed germination,aba, aba 
+## Orthologs:
+
+## Keywords:
+seed,seed germination,aba
 
 ## Sequences:
 - **CDS Sequence:**

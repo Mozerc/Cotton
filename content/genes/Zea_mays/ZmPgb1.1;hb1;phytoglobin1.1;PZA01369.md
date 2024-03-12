@@ -3,14 +3,14 @@ description: hemoglobin1 ; Zm00001eb399590 ; Zea mays
 meta_title:
 title: ZmPgb1.1;hb1
 categories: [Zea mays]
-tags: [ stem,root,auxin,ja,jasmonic,jasmonic acid, ja  ]
+tags: [ stem,root,auxin,ja,jasmonic,jasmonic acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb399590]()
 - **Gene Symbol:** ZmPgb1.1;hb1;phytoglobin1.1;PZA01369
 - **Gene Name:** hemoglobin1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ stem,root,auxin,ja,jasmonic,jasmonic acid, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stem,root,auxin,ja,jasmonic,jasmonic acid, ja 
+## Orthologs:
+
+## Keywords:
+stem,root,auxin,ja,jasmonic,jasmonic acid
 
 ## Sequences:
 - **CDS Sequence:**

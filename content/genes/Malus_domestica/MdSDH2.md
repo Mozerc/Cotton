@@ -3,14 +3,14 @@ description: Malus domestica sorbitol dehydrogenase ; MDP0000874667 ; Malus dome
 meta_title:
 title: MdSDH2
 categories: [Malus domestica]
-tags: [ aba, aba  ]
+tags: [ aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000874667]()
 - **Gene Symbol:** MdSDH2
 - **Gene Name:** Malus domestica sorbitol dehydrogenase
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba, aba 
+## Orthologs:
+
+## Keywords:
+aba
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 - **Gene ID:**	[Zm00001eb008140]()
 - **Gene Symbol:** ZmSRL5
 - **Gene Name:** semi-rolled leaf5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 - **NCBI ID:** [LOC100283808](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283808)
 - **UniProt accessions:** [A0A1D6JSF7](https://www.uniprot.org/uniprotkb/A0A1D6JSF7/entry)&nbsp;,&nbsp;[C0HIK3](https://www.uniprot.org/uniprotkb/C0HIK3/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance,drought sensitivity,cuticular wax formation
 
 ## Sequences:

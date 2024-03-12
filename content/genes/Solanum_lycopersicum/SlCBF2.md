@@ -3,14 +3,14 @@ description: Solyc03g124110 ; Solanum lycopersicum
 meta_title:
 title: SlCBF2
 categories: [Solanum lycopersicum]
-tags: [ stress,ja,tolerance,cold tolerance,cold stress,aba,cold,stress tolerance, aba ,stress response, ja ,ja signalling ]
+tags: [ stress,ja,tolerance,cold tolerance,cold stress,aba,cold,stress tolerance,stress response,ja signalling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc03g124110]()
 - **Gene Symbol:** SlCBF2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ stress,ja,tolerance,cold tolerance,cold stress,aba,cold,stress tolerance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stress,ja,tolerance,cold tolerance,cold stress,aba,cold,stress tolerance, aba ,stress response, ja ,ja signalling
+## Orthologs:
+
+## Keywords:
+stress,ja,tolerance,cold tolerance,cold stress,aba,cold,stress tolerance,stress response,ja signalling
 
 ## Sequences:
 - **CDS Sequence:**

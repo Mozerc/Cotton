@@ -10,7 +10,7 @@ tags: [ drought,drought response ]
 - **Gene ID:**	[Zm00001eb347600]()
 - **Gene Symbol:** ZmDREB2A;DBP1b;DREB2;ZmDREB2.1;ZmERF134;ZmERF135;ZmERF136
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ drought,drought response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,drought response
 
 ## Sequences:

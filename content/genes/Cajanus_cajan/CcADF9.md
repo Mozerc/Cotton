@@ -10,7 +10,7 @@ tags: [ salt,salt sensitivity ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CcADF9
 - **Gene Name:** 
-- **Genome Version:** [C.cajan_V1.0]()
+- **Genome:** [C.cajan_V1.0]()
 - **Species:** *Cajanus cajan*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ salt,salt sensitivity ]
 - **NCBI ID:** [LOC109804501](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109804501)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 salt,salt sensitivity
 
 ## Sequences:

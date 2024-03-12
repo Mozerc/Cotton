@@ -10,11 +10,11 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Zm00001d009374]()
 - **Gene Symbol:** ZmMCM4
 - **Gene Name:** Minichromosome maintenance protein 4
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The zmmcm4 gene is also stably expressed in maize flowering tissues.
+   - The **ZmMCM4** gene is also stably expressed in maize flowering tissues.
    - We identified mcm4 (Minichromosome maintenance protein 4) (Zm00001d009374) as another candidate gene for flowering time.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

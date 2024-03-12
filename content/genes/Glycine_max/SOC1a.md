@@ -10,7 +10,7 @@ tags: [ stem,growth,flowering time,flowering ]
 - **Gene ID:**	[Glyma.18G224500]()
 - **Gene Symbol:** SOC1a
 - **Gene Name:** 
-- **Genome Version:** [soybean W82 reference genome (Wm82.a2.v1)]()
+- **Genome:** [soybean W82 reference genome (Wm82.a2.v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stem,growth,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,growth,flowering time,flowering
 
 ## Sequences:

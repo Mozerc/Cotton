@@ -10,7 +10,7 @@ tags: [ starch ]
 - **Gene ID:**	[Zm00001eb378140]()
 - **Gene Symbol:** ZmGBSS1;wx1;Gss1
 - **Gene Name:** granule-bound starch synthase 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ starch ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch
 
 ## Sequences:

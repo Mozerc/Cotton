@@ -3,14 +3,14 @@ description: TraesCS6B02G210300 ; Triticum aestivum
 meta_title:
 title: TaSHN1-6B
 categories: [Triticum aestivum]
-tags: [ seedlings,growth,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,plant growth,stomatal,biomass,stomatal density,water loss ]
+tags: [ seedlings,growth,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,plant growth,stomatal,biomass,stomatal density,water loss ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G210300]()
 - **Gene Symbol:** TaSHN1-6B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ seedlings,growth,drought,stress,drought stress,drought stress ,tolerance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-seedlings,growth,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,plant growth,stomatal,biomass,stomatal density,water loss
+## Orthologs:
+
+## Keywords:
+seedlings,growth,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,plant growth,stomatal,biomass,stomatal density,water loss
 
 ## Sequences:
 - **CDS Sequence:**

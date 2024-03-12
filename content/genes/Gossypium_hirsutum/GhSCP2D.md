@@ -10,7 +10,7 @@ tags: [ sugar,sucrose ]
 - **Gene ID:**	[Gh_D06G0145]()
 - **Gene Symbol:** GhSCP2D
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ sugar,sucrose ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sugar,sucrose
 
 ## Sequences:

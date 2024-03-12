@@ -10,7 +10,7 @@ tags: [ xylem,growth,development,plant development,plant growth,phloem ]
 - **Gene ID:**	[Zm00001eb144010]()
 - **Gene Symbol:** PROT1;aaap20
 - **Gene Name:** amino acid/auxin permease20
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ xylem,growth,development,plant development,plant growth,phloem ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 xylem,growth,development,plant development,plant growth,phloem
 
 ## Sequences:

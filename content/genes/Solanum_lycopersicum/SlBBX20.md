@@ -3,14 +3,14 @@ description: Solyc01g110180 ; Solanum lycopersicum
 meta_title:
 title: SlBBX20
 categories: [Solanum lycopersicum]
-tags: [ transcription factor,resistance,ja, ja ,ja signalling ]
+tags: [ transcription factor,resistance,ja,ja signalling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc01g110180]()
 - **Gene Symbol:** SlBBX20
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,resistance,ja, ja ,ja signalling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,resistance,ja, ja ,ja signalling
+## Orthologs:
+
+## Keywords:
+transcription factor,resistance,ja,ja signalling
 
 ## Sequences:
 - **CDS Sequence:**

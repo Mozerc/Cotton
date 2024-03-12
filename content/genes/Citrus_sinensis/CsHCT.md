@@ -10,7 +10,7 @@ tags: [ lignin ]
 - **Gene ID:**	[Cs1g14450]()
 - **Gene Symbol:** CsHCT
 - **Gene Name:** 
-- **Genome Version:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
+- **Genome:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ lignin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 lignin
 
 ## Sequences:

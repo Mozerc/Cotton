@@ -10,7 +10,7 @@ tags: [ leaf,br,br signaling, br  ]
 - **Gene ID:**	[Seita.5G121100]()
 - **Gene Symbol:** DPY1
 - **Gene Name:** 
-- **Genome Version:** [Setaria italica v2.2]()
+- **Genome:** [Setaria italica v2.2]()
 - **Species:** *Setaria italica*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,br,br signaling, br  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,br,br signaling, br 
 
 ## Sequences:

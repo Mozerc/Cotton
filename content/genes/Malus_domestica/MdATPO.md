@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdATPO
 - **Gene Name:** Malus domestica ATP synthase subunit OSCP
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [XM_008358516.3](https://www.ncbi.nlm.nih.gov/gene/?term=XM_008358516.3)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

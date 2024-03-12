@@ -3,18 +3,18 @@ description: Zm00001eb119140 ; Zea mays
 meta_title:
 title: ZmKOB1;kob1
 categories: [Zea mays]
-tags: [ aba, aba ,glycosyltransferase ]
+tags: [ aba,glycosyltransferase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb119140]()
 - **Gene Symbol:** ZmKOB1;kob1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmKOB1** shows differential expression of kernel weight per ear, kernel number per row and ear length; and encodes a glycosyltransferase-like protein, which is highly homologous to Arabidopsis ABA INSENSITIVE 8 (ABI8)/ELONGATION EFFECTIVE 1 (ELD1)/KOBITO1 (KOB1)43.
+   - **Zm**kob1**** shows differential expression of kernel weight per ear, kernel number per row and ear length; and encodes a glycosyltransferase-like protein, which is highly homologous to Arabidopsis ABA INSENSITIVE 8 (ABI8)/ELONGATION EFFECTIVE 1 (ELD1)/KOBITO1 (**kob1**)43.
 
 ## Literature:
    - [Genomic insights into historical improvement of heterotic groups during modern hybrid maize breeding.]( https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01190-2](https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851624](https://pubmed.ncbi.nlm.nih.gov/35851624/)
@@ -26,8 +26,10 @@ tags: [ aba, aba ,glycosyltransferase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba, aba ,glycosyltransferase
+## Orthologs:
+
+## Keywords:
+aba,glycosyltransferase
 
 ## Sequences:
 - **CDS Sequence:**

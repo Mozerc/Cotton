@@ -10,7 +10,7 @@ tags: [ development,seed,cold,seed development ]
 - **Gene ID:**	[Zm00001eb136910]()
 - **Gene Symbol:** ZmGPAT8;ZmGPAT6;gpat6
 - **Gene Name:** glycerol-3-phosphate acyltransferase6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ development,seed,cold,seed development ]
    - The transcripts of ZmGPAT7, **ZmGPAT8**, ZmGPAT13, and ZmGPAT14 all peaked at the early stage of seed development (5DAF) and maintained high levels of transcription at the middle seed developmental stages (15–20 DAF), which might imply their potential roles in maize seed development and oil production.
 
 ## Literature:
-   - [NA]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Characterization and expression analysis of GPAT gene family in maize]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,7 +27,9 @@ tags: [ development,seed,cold,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,cold,seed development
 
 ## Sequences:

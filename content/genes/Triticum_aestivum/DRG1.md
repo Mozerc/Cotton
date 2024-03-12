@@ -3,20 +3,20 @@ description: TraesCS1D02G020000 ; Triticum aestivum
 meta_title:
 title: DRG1
 categories: [Triticum aestivum]
-tags: [ br, br ,actin protein ]
+tags: [ br,actin protein ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G020000]()
 - **Gene Symbol:** DRG1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - **DRG1**/TaACT7 encodes an actin family protein that is essential for polymerization stability and microfilament (MF) formation.
    - **DRG1**/TaACT7 plays an important role in wheat cell shape determination by modulating actin organization and intracellular material transport
-   - drg1-D affects the BR response
+   - **DRG1**-D affects the BR response
 
 ## Literature:
    - [A Glu209Lys substitution in DRG1/TaACT7, which disturbs F-actin organization, reduces plant height and grain length in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19246)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19246](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19246)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37668262](https://pubmed.ncbi.nlm.nih.gov/37668262/)
@@ -28,8 +28,10 @@ tags: [ br, br ,actin protein ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-br, br ,actin protein
+## Orthologs:
+
+## Keywords:
+br,actin protein
 
 ## Sequences:
 - **CDS Sequence:**

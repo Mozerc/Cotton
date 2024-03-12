@@ -10,7 +10,7 @@ tags: [ leaf,sheath,cytokinin,leaf patterning ]
 - **Gene ID:**	[GRMZM2G151223]()
 - **Gene Symbol:** Hsf1
 - **Gene Name:** Hairy sheath frayed1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,sheath,cytokinin,leaf patterning ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,sheath,cytokinin,leaf patterning
 
 ## Sequences:

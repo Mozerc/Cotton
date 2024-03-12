@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[CCG015314.1]()
 - **Gene Symbol:** CtMYB63
 - **Gene Name:** Carthamus tinctorius BIG BROTHER 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Carthamus tinctorius*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

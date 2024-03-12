@@ -10,7 +10,7 @@ tags: [ flavonoid,flavonoid biosynthesis ]
 - **Gene ID:**	[BnaC06g08390D]()
 - **Gene Symbol:** BnaTT1.C06
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ flavonoid,flavonoid biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flavonoid,flavonoid biosynthesis
 
 ## Sequences:

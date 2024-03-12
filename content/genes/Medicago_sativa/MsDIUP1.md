@@ -10,7 +10,7 @@ tags: [ drought ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MsDIUP1
 - **Gene Name:** Medicago sativa DROUGHT-INDUCED UNKNOWN PROTEIN 1
-- **Genome Version:** [genome fasta sequence and annotation files(https://figshare.com/projects/whole_genome_sequencing_and_assembly_of_Medicago_sativa/66380)]()
+- **Genome:** [genome fasta sequence and annotation files(https://figshare.com/projects/whole_genome_sequencing_and_assembly_of_Medicago_sativa/66380)]()
 - **Species:** *Medicago sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Glyma.20G186200]()
 - **Gene Symbol:** GmTEM1a
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

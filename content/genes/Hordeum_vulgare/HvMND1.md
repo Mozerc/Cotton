@@ -10,7 +10,7 @@ tags: [ senescence,growth,reproductive,plant growth,reproductive growth ]
 - **Gene ID:**	[HORVU7Hr1G113480.3]()
 - **Gene Symbol:** HvMND1
 - **Gene Name:** MANY NODED DWARF1
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ senescence,growth,reproductive,plant growth,reproductive growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 senescence,growth,reproductive,plant growth,reproductive growth
 
 ## Sequences:

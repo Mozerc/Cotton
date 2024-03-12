@@ -10,7 +10,7 @@ tags: [ cell cycle,phosphatase ]
 - **Gene ID:**	[Zm00001eb001260]()
 - **Gene Symbol:** ZmCDKA2;CDKA1;cdc2
 - **Gene Name:** cell division control protein homolog2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ cell cycle,phosphatase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell cycle,phosphatase
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: NAC-transcription factor 48 ; Zm00001eb036920 ; Zea mays
 meta_title:
 title: ZmNAC48
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stomatal,water loss,stress response,drought stress response,protoplasts,drought response ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stomatal,water loss,stress response,drought stress response,protoplasts,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb036920]()
 - **Gene Symbol:** ZmNAC48
 - **Gene Name:** NAC-transcription factor 48
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,8 +30,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [LOC100281072](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281072)
 - **UniProt accessions:** [B6SRZ1](https://www.uniprot.org/uniprotkb/B6SRZ1/entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stomatal,water loss,stress response,drought stress response,protoplasts,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stomatal,water loss,stress response,drought stress response,protoplasts,drought response
 
 ## Sequences:
 - **CDS Sequence:**

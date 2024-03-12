@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[PGSC0003DMG400004054]()
 - **Gene Symbol:** BRC1b
 - **Gene Name:** BRANCHED1b 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum tuberosum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

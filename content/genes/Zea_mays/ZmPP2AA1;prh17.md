@@ -3,14 +3,14 @@ description: protein phosphatase homolog17 ; Zm00001eb269610 ; Zea mays
 meta_title:
 title: ZmPP2AA1;prh17
 categories: [Zea mays]
-tags: [ root,growth,development,tolerance,root development,root growth,lateral root,primary root,phosphatase,pi, pi ,protein phosphatase ]
+tags: [ root,growth,development,tolerance,root development,root growth,lateral root,primary root,phosphatase,pi,protein phosphatase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb269610]()
 - **Gene Symbol:** ZmPP2AA1;prh17
 - **Gene Name:** protein phosphatase homolog17
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ root,growth,development,tolerance,root development,root growth,lateral r
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,growth,development,tolerance,root development,root growth,lateral root,primary root,phosphatase,pi, pi ,protein phosphatase
+## Orthologs:
+
+## Keywords:
+root,growth,development,tolerance,root development,root growth,lateral root,primary root,phosphatase,pi,protein phosphatase
 
 ## Sequences:
 - **CDS Sequence:**

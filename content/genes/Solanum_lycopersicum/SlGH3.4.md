@@ -10,7 +10,7 @@ tags: [ development,auxin,iaa ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlGH3.4
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development,auxin,iaa ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,auxin,iaa
 
 ## Sequences:

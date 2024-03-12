@@ -10,7 +10,7 @@ tags: [ leaf,resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** Lr14a
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,resistance ]
 - **NCBI ID:** [MT123593](https://www.ncbi.nlm.nih.gov/gene/?term=MT123593)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,resistance
 
 ## Sequences:

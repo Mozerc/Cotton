@@ -10,7 +10,7 @@ tags: [ resistance,seed,breeding,resistant ]
 - **Gene ID:**	[Zm00001eb233880]()
 - **Gene Symbol:** ZmWAX2;umc1591;ZmCER3
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ resistance,seed,breeding,resistant ]
 - **NCBI ID:** [LOC100280351](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280351)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,seed,breeding,resistant
 
 ## Sequences:

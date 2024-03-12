@@ -10,7 +10,7 @@ tags: [ tolerance,cadmium,cadmium tolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdSOS2L1
 - **Gene Name:** 
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ tolerance,cadmium,cadmium tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,cadmium,cadmium tolerance
 
 ## Sequences:

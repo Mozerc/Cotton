@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[EVM0001671.1]()
 - **Gene Symbol:** MaBGLU1
 - **Gene Name:** 
-- **Genome Version:** [Medicago archiducis genome sequences (NCBI, SRX9404272)]()
+- **Genome:** [Medicago archiducis genome sequences (NCBI, SRX9404272)]()
 - **Species:** *Melilotus albus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

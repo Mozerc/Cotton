@@ -10,7 +10,7 @@ tags: [ transcription factor,homeostasis,breeding,flowering time,transcription r
 - **Gene ID:**	[Zm00001eb047750]()
 - **Gene Symbol:** ID1;ZmIDD5
 - **Gene Name:** indeterminate growth1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,homeostasis,breeding,flowering time,transcription r
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,homeostasis,breeding,flowering time,transcription regulator,flowering,phosphorus
 
 ## Sequences:

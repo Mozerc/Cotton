@@ -10,7 +10,7 @@ tags: [ transcription factor,development ]
 - **Gene ID:**	[SoyC08_13G189600]()
 - **Gene Symbol:** Mao1
 - **Gene Name:** 
-- **Genome Version:** [QH34 reference genome]()
+- **Genome:** [QH34 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,development
 
 ## Sequences:

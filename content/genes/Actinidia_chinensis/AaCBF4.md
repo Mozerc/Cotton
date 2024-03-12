@@ -10,7 +10,7 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 - **Gene ID:**	[]()
 - **Gene Symbol:** AaCBF4
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Actinidia arguta*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 - **NCBI ID:** [MT477466](https://www.ncbi.nlm.nih.gov/gene/?term=MT477466)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance
 
 ## Sequences:

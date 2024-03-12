@@ -3,14 +3,14 @@ description: Glycine max
 meta_title:
 title: GsERD15B
 categories: [Glycine max]
-tags: [ salt,tolerance,aba,salt tolerance, aba ,catalase ]
+tags: [ salt,tolerance,aba,salt tolerance,catalase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GsERD15B
 - **Gene Name:** 
-- **Genome Version:** [soybean reference genome (Williams 82) sequence]()
+- **Genome:** [soybean reference genome (Williams 82) sequence]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ salt,tolerance,aba,salt tolerance, aba ,catalase ]
 - **NCBI ID:** [XP_028191281.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_028191281.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-salt,tolerance,aba,salt tolerance, aba ,catalase
+## Orthologs:
+
+## Keywords:
+salt,tolerance,aba,salt tolerance,catalase
 
 ## Sequences:
 - **CDS Sequence:**

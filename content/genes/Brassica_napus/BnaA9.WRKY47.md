@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BnaA09g00350D]()
 - **Gene Symbol:** BnaA9.WRKY47
 - **Gene Name:** 
-- **Genome Version:** [B. napus ‘Darmor-bzh’ genome reference sequences (chromosome v1.0)]()
+- **Genome:** [B. napus ‘Darmor-bzh’ genome reference sequences (chromosome v1.0)]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

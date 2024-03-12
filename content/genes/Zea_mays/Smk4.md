@@ -10,12 +10,12 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
 - **Gene ID:**	[Zm00001eb169670]()
 - **Gene Symbol:** Smk4
 - **Gene Name:** small kernel4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - SMALL KERNEL4 is required for mitochondrial cox1 transcript editing and seed development in maize.
-   - SMK4 functions in the C-to-U editing of cox1-1489, and this editing is crucial for mitochondrial complex IV activity, plant growth, and kernel development in maize.
+   - **Smk4** functions in the C-to-U editing of cox1-1489, and this editing is crucial for mitochondrial complex IV activity, plant growth, and kernel development in maize.
    - **Smk4** encodes an E-subclass PPR protein that is targeted to mitochondria.
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,plant development,seed,mitochondria,plant growth,seed development,seed growth
 
 ## Sequences:

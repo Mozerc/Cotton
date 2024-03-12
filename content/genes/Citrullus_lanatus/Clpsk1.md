@@ -10,7 +10,7 @@ tags: [ seedlings,resistance,resistant ]
 - **Gene ID:**	[Cla97C01G016930]()
 - **Gene Symbol:** Clpsk1
 - **Gene Name:** Gene_name:Citrullus lanatus Phytosulfokine1
-- **Genome Version:** [Citrullus lanatus (Watermelon (97103) v2)]()
+- **Genome:** [Citrullus lanatus (Watermelon (97103) v2)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seedlings,resistance,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seedlings,resistance,resistant
 
 ## Sequences:

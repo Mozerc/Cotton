@@ -10,7 +10,7 @@ tags: [ root,growth,auxin,root growth,auxin transport ]
 - **Gene ID:**	[TraesCS4D02G298400]()
 - **Gene Symbol:** TaSRL1-4D
 - **Gene Name:** HORT ROOT LENGTH 1
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,growth,auxin,root growth,auxin transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,auxin,root growth,auxin transport
 
 ## Sequences:

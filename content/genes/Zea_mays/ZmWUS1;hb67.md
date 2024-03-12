@@ -10,7 +10,7 @@ tags: [ stem,meristem,inflorescence ]
 - **Gene ID:**	[Zm00001eb067310]()
 - **Gene Symbol:** ZmWUS1;hb67
 - **Gene Name:** Homeobox-transcription factor 67
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stem,meristem,inflorescence ]
 - **NCBI ID:** [LOC100037786](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037786)
 - **UniProt accessions:** [A0AAS5](https://www.uniprot.org/uniprotkb/A0AAS5/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,meristem,inflorescence
 
 ## Sequences:

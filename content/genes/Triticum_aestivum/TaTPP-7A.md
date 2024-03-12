@@ -3,14 +3,14 @@ description: TraesCS7A03G0422300 ; Triticum aestivum
 meta_title:
 title: TaTPP-7A
 categories: [Triticum aestivum]
-tags: [ temperature,development,grain,domestication,starch,grain quality,quality,grain filling,aba,breeding,endosperm,sugar,sucrose, aba ,endosperm development,amylose content ]
+tags: [ temperature,development,grain,domestication,starch,grain quality,quality,grain filling,aba,breeding,endosperm,sugar,sucrose,endosperm development,amylose content ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A03G0422300]()
 - **Gene Symbol:** TaTPP-7A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -30,8 +30,10 @@ tags: [ temperature,development,grain,domestication,starch,grain quality,quality
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-temperature,development,grain,domestication,starch,grain quality,quality,grain filling,aba,breeding,endosperm,sugar,sucrose, aba ,endosperm development,amylose content
+## Orthologs:
+
+## Keywords:
+temperature,development,grain,domestication,starch,grain quality,quality,grain filling,aba,breeding,endosperm,sugar,sucrose,endosperm development,amylose content
 
 ## Sequences:
 - **CDS Sequence:**

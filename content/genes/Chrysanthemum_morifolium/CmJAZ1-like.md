@@ -10,7 +10,7 @@ tags: [ cell expansion ]
 - **Gene ID:**	[Unigene2375]()
 - **Gene Symbol:** CmJAZ1-like
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cell expansion ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cell expansion
 
 ## Sequences:

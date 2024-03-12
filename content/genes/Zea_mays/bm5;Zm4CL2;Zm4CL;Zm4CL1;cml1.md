@@ -1,21 +1,21 @@
 ---
-description: Zm00001eb233720 ; Zea mays
+description: brown midrib5 ; Zm00001eb233720 ; Zea mays
 meta_title:
-title: bm5;Zm4CL2
+title: BM5;Zm4CL2
 categories: [Zea mays]
 tags: [ cell wall,lignin,lignin biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb233720]()
-- **Gene Symbol:** bm5;Zm4CL2;Zm4CL;Zm4CL1;cml1
-- **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Gene Symbol:** BM5;Zm4CL2;Zm4CL;Zm4CL1;cml1
+- **Gene Name:** brown midrib5
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Mutation of 4-coumarate: coenzyme A ligase 1 gene affects lignin biosynthesis and increases the cell wall digestibility in maize brown midrib5 mutants
-   - The comprehensive effects of **bm5** mutation on lignin biosynthesis.
+   - The comprehensive effects of **BM5** mutation on lignin biosynthesis.
 
 ## Literature:
    - [Mutation of 4-coumarate: coenzyme A ligase 1 gene affects lignin biosynthesis and increases the cell wall digestibility in maize brown midrib5 mutants.]( https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1421-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13068-019-1421-z](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1421-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31007716](https://pubmed.ncbi.nlm.nih.gov/31007716/)
@@ -27,7 +27,9 @@ tags: [ cell wall,lignin,lignin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell wall,lignin,lignin biosynthesis
 
 ## Sequences:

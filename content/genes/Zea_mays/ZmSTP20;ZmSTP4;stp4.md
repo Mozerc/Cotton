@@ -10,7 +10,7 @@ tags: [ resistance,disease,disease resistance,breeding ]
 - **Gene ID:**	[Zm00001eb324180]()
 - **Gene Symbol:** ZmSTP20;ZmSTP4;stp4
 - **Gene Name:** sugar transport protein4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ resistance,disease,disease resistance,breeding ]
    - ZmSTP2 and **ZmSTP20**, were predicted to be involved in resistance to F. graminearum infection
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2095311922003008)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.12.014](https://www.sciencedirect.com/science/article/pii/S2095311922003008)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Identification and expression analysis of sugar transporter family genes reveal the role of ZmSTP2 and ZmSTP20 in maize disease resistance]( https://www.sciencedirect.com/science/article/pii/S2095311922003008)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.12.014](https://www.sciencedirect.com/science/article/pii/S2095311922003008)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,7 +27,9 @@ tags: [ resistance,disease,disease resistance,breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,disease,disease resistance,breeding
 
 ## Sequences:

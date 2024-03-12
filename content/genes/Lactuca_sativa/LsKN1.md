@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[LG7600774]()
 - **Gene Symbol:** LsKN1
 - **Gene Name:** 
-- **Genome Version:** [Lsat_Salinas_v11]()
+- **Genome:** [Lsat_Salinas_v11]()
 - **Species:** *Lactuca sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [LOC111890976](https://www.ncbi.nlm.nih.gov/gene/?term=LOC111890976)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

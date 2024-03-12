@@ -10,7 +10,7 @@ tags: [ stress,defense response,defense,tolerance,insect,biotic stress,stress to
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhLac1
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,defense response,defense,tolerance,insect,biotic stress,stress to
 - **NCBI ID:** [KX822020.1](https://www.ncbi.nlm.nih.gov/gene/?term=KX822020.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,defense response,defense,tolerance,insect,biotic stress,stress tolerance,pathogen,jasmonic,jasmonic acid,stress response
 
 ## Sequences:

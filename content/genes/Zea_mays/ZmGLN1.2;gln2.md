@@ -10,11 +10,11 @@ tags: [ nitrogen ]
 - **Gene ID:**	[Zm00001eb054990]()
 - **Gene Symbol:** ZmGLN1.2;gln2
 - **Gene Name:** glutamine synthetase2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - GS is encoded by six genes in maize: the cytosolic GS, ZmGLN1.1 to ZmGLN1.5 and the single plastidic GS, ZmGLN2.
+   - GS is encoded by six genes in maize: the cytosolic GS, ZmGLN1.1 to ZmGLN1.5 and the single plastidic GS, Zm**gln2**.
    - Effects of **ZmGLN1.2** on nitrogen transport and assimilation in maize.
 
 ## Literature:
@@ -26,7 +26,9 @@ tags: [ nitrogen ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen
 
 ## Sequences:

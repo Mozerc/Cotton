@@ -10,7 +10,7 @@ tags: [ growth,seedling,seedling growth ]
 - **Gene ID:**	[GRMZM2G112154]()
 - **Gene Symbol:** ZmNRT1.1C
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ growth,seedling,seedling growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,seedling,seedling growth
 
 ## Sequences:

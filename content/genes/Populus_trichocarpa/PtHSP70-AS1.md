@@ -10,7 +10,7 @@ tags: [ tolerance ]
 - **Gene ID:**	[Potri.010G205800.1]()
 - **Gene Symbol:** PtHSP70-AS1
 - **Gene Name:** 
-- **Genome Version:** [P. trichocarpa genome(https://phytozome-next.jgi.doe.gov/)]()
+- **Genome:** [P. trichocarpa genome(https://phytozome-next.jgi.doe.gov/)]()
 - **Species:** *Populus trichocarpa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ resistance,stress,disease,disease resistance,stress response ]
 - **Gene ID:**	[Zm00001eb296340]()
 - **Gene Symbol:** GBF3;bzip18;gbf1
 - **Gene Name:** G-box binding factor1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance,stress,disease,disease resistance,stress response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,stress,disease,disease resistance,stress response
 
 ## Sequences:

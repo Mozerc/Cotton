@@ -3,20 +3,20 @@ description: Glyma.14G188000 ; Glycine max
 meta_title:
 title: GmPHT1;11
 categories: [Glycine max]
-tags: [ development,stress,homeostasis,transporter,phosphate,stress response,phosphorus,pi, pi ,pi homeostasis,phosphate homeostasis ]
+tags: [ development,stress,homeostasis,transporter,phosphate,stress response,phosphorus,pi,pi homeostasis,phosphate homeostasis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.14G188000]()
 - **Gene Symbol:** GmPHT1;11
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
-   - A soybean phosphorus transporter (**GmPHT1**; **11**) and four phosphorus stress response factors (GmPHR1~GmPHR4).
-   - They also play a role in nodulation and Pi homeostasis in nodules. **GmPHT1**;**11**, **GmPHT1**;12, and **GmPHT1**;13 are arbuscular mycorrhiza-inducible phosphate transporter genes of soybean.
-   - **GmPHT1**;**11** functions in the absorption of fungus-derived phosphate and in arbuscular development.
+   - A soybean phosphorus transporter (**GmPHT1**; 11) and four phosphorus stress response factors (GmPHR1~GmPHR4).
+   - They also play a role in nodulation and Pi homeostasis in nodules. **GmPHT1**;11, **GmPHT1**;12, and **GmPHT1**;13 are arbuscular mycorrhiza-inducible phosphate transporter genes of soybean.
+   - **GmPHT1**;11 functions in the absorption of fungus-derived phosphate and in arbuscular development.
 
 ## Literature:
    - [Spatial Divergence of PHR-PHT1 Modules Maintains Phosphorus Homeostasis in Soybean Nodules.]( https://academic.oup.com/plphys/article/184/1/236/6117800?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.01209](https://academic.oup.com/plphys/article/184/1/236/6117800?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32680974](https://pubmed.ncbi.nlm.nih.gov/32680974/)
@@ -28,8 +28,10 @@ tags: [ development,stress,homeostasis,transporter,phosphate,stress response,pho
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-development,stress,homeostasis,transporter,phosphate,stress response,phosphorus,pi, pi ,pi homeostasis,phosphate homeostasis
+## Orthologs:
+
+## Keywords:
+development,stress,homeostasis,transporter,phosphate,stress response,phosphorus,pi,pi homeostasis,phosphate homeostasis
 
 ## Sequences:
 - **CDS Sequence:**

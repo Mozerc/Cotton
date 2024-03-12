@@ -10,7 +10,7 @@ tags: [ leaf,transcription factor,chloroplast,growth,development,leaf developmen
 - **Gene ID:**	[Solyc05g054030]()
 - **Gene Symbol:** OBV
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,transcription factor,chloroplast,growth,development,leaf developmen
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,transcription factor,chloroplast,growth,development,leaf development,sheath,photosynthesis,zinc,chloroplast development,chlorophyll
 
 ## Sequences:

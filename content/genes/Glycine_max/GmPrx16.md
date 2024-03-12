@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **Gene ID:**	[Glyma.16G164400]()
 - **Gene Symbol:** GmPrx16
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 (Wm82) reference genome]()
+- **Genome:** [Williams 82 (Wm82) reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

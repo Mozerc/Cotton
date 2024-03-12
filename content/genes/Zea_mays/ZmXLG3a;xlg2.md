@@ -10,7 +10,7 @@ tags: [ development,plant development,seedling,height,plant height ]
 - **Gene ID:**	[Zm00001eb209950]()
 - **Gene Symbol:** ZmXLG3a;xlg2
 - **Gene Name:** extra-large guanine nucleotide-binding protein2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,plant development,seedling,height,plant height ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,plant development,seedling,height,plant height
 
 ## Sequences:

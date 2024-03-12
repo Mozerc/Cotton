@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Solyc10g083630]()
 - **Gene Symbol:** SlDML2
 - **Gene Name:** 
-- **Genome Version:** [tomato build_SL3.0 reference genome (ftp://ftp.solgenomics.net/tomato_genome/)]()
+- **Genome:** [tomato build_SL3.0 reference genome (ftp://ftp.solgenomics.net/tomato_genome/)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

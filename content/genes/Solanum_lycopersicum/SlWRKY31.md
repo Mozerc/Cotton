@@ -3,18 +3,18 @@ description: Solyc06g066370 ; Solanum lycopersicum
 meta_title:
 title: SlWRKY31
 categories: [Solanum lycopersicum]
-tags: [ resistance,ja,defense, ja  ]
+tags: [ resistance,ja,defense ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc06g066370]()
 - **Gene Symbol:** SlWRKY31
 - **Gene Name:** 
-- **Genome Version:** [tomato genome Version SL2.5]()
+- **Genome:** [tomato genome Version SL2.5]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - SlVQ15 and **SlWRKY31** synergistically regulated tomato resistance to B. cinerea, as silencing SlVQ15 enhanced the sensitivity of slwrky31 to B. cinerea. Taken together, our findings showed that the SlJAZ-interacting protein SlVQ15 physically interacts with **SlWRKY31** to cooperatively control JA-mediated plant defense against B. cinerea.
+   - SlVQ15 and **SlWRKY31** synergistically regulated tomato resistance to B. cinerea, as silencing SlVQ15 enhanced the sensitivity of **SlWRKY31** to B. cinerea. Taken together, our findings showed that the SlJAZ-interacting protein SlVQ15 physically interacts with **SlWRKY31** to cooperatively control JA-mediated plant defense against B. cinerea.
 
 ## Literature:
    - [SlVQ15 interacts with jasmonate-ZIM domain proteins and SlWRKY31 to regulate defense response in tomato.]( https://academic.oup.com/plphys/article/190/1/828/6605860?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac275](https://academic.oup.com/plphys/article/190/1/828/6605860?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35689622](https://pubmed.ncbi.nlm.nih.gov/35689622/)
@@ -26,8 +26,10 @@ tags: [ resistance,ja,defense, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,ja,defense, ja 
+## Orthologs:
+
+## Keywords:
+resistance,ja,defense
 
 ## Sequences:
 - **CDS Sequence:**

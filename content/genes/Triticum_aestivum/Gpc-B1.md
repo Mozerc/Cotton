@@ -10,7 +10,7 @@ tags: [ grain,grain protein ]
 - **Gene ID:**	[TraesCS6B02G207500LC]()
 - **Gene Symbol:** Gpc-B1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ grain,grain protein ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain protein
 
 ## Sequences:

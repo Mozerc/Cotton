@@ -10,7 +10,7 @@ tags: [ leaf,root,growth,development,grain,leaf development,plant development,gr
 - **Gene ID:**	[Zm00001eb428490]()
 - **Gene Symbol:** ZmACS7
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,root,growth,development,grain,leaf development,plant development,gr
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,root,growth,development,grain,leaf development,plant development,grain number,grain yield,yield,root development,root growth,plant growth,height,plant height,flowering time,leaf angle,flowering,grain growth,root number
 
 ## Sequences:

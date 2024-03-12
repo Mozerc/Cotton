@@ -10,7 +10,7 @@ tags: [ transcription factor,stress,oxidative stress,tolerance,oxidative,stress 
 - **Gene ID:**	[Zm00001eb062170]()
 - **Gene Symbol:** ZmNAC49;ZmNAC1;ZmNAC010312;nactf49
 - **Gene Name:** NAC-transcription factor 49
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,stress,oxidative stress,tolerance,oxidative,stress 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,stress,oxidative stress,tolerance,oxidative,stress tolerance
 
 ## Sequences:

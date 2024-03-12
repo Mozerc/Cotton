@@ -10,7 +10,7 @@ tags: [ leaf,development,leaf development,resistance,disease,disease resistance,
 - **Gene ID:**	[GRMZM2G107774]()
 - **Gene Symbol:** ZmREM6.3
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,development,leaf development,resistance,disease,disease resistance,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,development,leaf development,resistance,disease,disease resistance,blight,blight disease,disease development
 
 ## Sequences:

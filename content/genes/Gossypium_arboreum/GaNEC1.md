@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Ga12G1409]()
 - **Gene Symbol:** GaNEC1
 - **Gene Name:** 
-- **Genome Version:** [G. arboreum reference genome (ICR, V2.0) ]()
+- **Genome:** [G. arboreum reference genome (ICR, V2.0) ]()
 - **Species:** *Gossypium arboreum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

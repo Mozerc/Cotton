@@ -10,7 +10,7 @@ tags: [ grain,grain length,grain yield,gibberellin,yield,height,plant height,int
 - **Gene ID:**	[Glyma.12G224600.1]()
 - **Gene Symbol:** RIN1
 - **Gene Name:** reduced internode 1
-- **Genome Version:** [Williams 82 (Wm82) reference genome]()
+- **Genome:** [Williams 82 (Wm82) reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ grain,grain length,grain yield,gibberellin,yield,height,plant height,int
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain length,grain yield,gibberellin,yield,height,plant height,internode length
 
 ## Sequences:

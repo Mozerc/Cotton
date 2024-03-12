@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[Glyma.15g049200]()
 - **Gene Symbol:** GmSWEET39
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ seed ]
 - **NCBI ID:** [NM_001357978.1](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001357978.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

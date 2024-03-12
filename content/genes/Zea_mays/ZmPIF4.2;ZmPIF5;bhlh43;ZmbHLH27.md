@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb050790]()
 - **Gene Symbol:** ZmPIF4.2;ZmPIF5;bhlh43;ZmbHLH27
 - **Gene Name:** bHLH-transcription factor 43
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

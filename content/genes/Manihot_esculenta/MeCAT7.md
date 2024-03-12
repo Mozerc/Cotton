@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Manes.02G113300]()
 - **Gene Symbol:** MeCAT7
 - **Gene Name:** catalases 7
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

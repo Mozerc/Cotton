@@ -10,12 +10,12 @@ tags: [ development,auxin,inflorescence,auxin biosynthesis,height,inflorescence 
 - **Gene ID:**	[GRMZM2G025222]()
 - **Gene Symbol:** SPI1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **SPI1**,a YUCCA-like gene related to auxin biosynthesis, regulates maize height and inflorescence development
-   - Suggest that spi1 has evolved a dominant role in auxin biosynthesis that is essential for normal maize inflorescence development.
+   - Suggest that **SPI1** has evolved a dominant role in auxin biosynthesis that is essential for normal maize inflorescence development.
    - **SPI1** Expression Is Localized in Proximity to Newly Emerging Primordia and Axillary Meristems.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ development,auxin,inflorescence,auxin biosynthesis,height,inflorescence 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,auxin,inflorescence,auxin biosynthesis,height,inflorescence development
 
 ## Sequences:

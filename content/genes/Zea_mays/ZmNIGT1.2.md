@@ -3,14 +3,14 @@ description: Zm00001d023402 ; Zea mays
 meta_title:
 title: ZmNIGT1.2
 categories: [Zea mays]
-tags: [ transcription factor,nitrate,phosphate,pi, pi ,pi uptake,phosphate starvation ]
+tags: [ transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d023402]()
 - **Gene Symbol:** ZmNIGT1.2
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,nitrate,phosphate,pi, pi ,pi uptake,phosphate starv
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,nitrate,phosphate,pi, pi ,pi uptake,phosphate starvation
+## Orthologs:
+
+## Keywords:
+transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **Gene ID:**	[Zm00001eb018630]()
 - **Gene Symbol:** ZmBx12;ZmCOMT1
 - **Gene Name:** benzoxazinone synthesis12
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [LOC103635831](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635831)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

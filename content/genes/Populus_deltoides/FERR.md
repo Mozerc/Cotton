@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Potri.019G133600.3/EVM0009215.1]()
 - **Gene Symbol:** FERR
 - **Gene Name:** 
-- **Genome Version:** [PRJNA598948 (genome sequence of P. deltoides: female tree), PRJNA599215 (genome sequence of P. deltoides: male tree), PRJNA628142 ]()
+- **Genome:** [PRJNA598948 (genome sequence of P. deltoides: female tree), PRJNA599215 (genome sequence of P. deltoides: male tree), PRJNA628142 ]()
 - **Species:** *Populus deltoides*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [PRJNA659408](https://www.ncbi.nlm.nih.gov/gene/?term=PRJNA659408)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

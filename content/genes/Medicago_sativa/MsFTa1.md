@@ -10,7 +10,7 @@ tags: [ leaf,stem,architecture,biomass,plant architecture,flowering ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MsFTa1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Medicago sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,stem,architecture,biomass,plant architecture,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,stem,architecture,biomass,plant architecture,flowering
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth ]
 - **Gene ID:**	[TraesCS7B02G319100]()
 - **Gene Symbol:** TaD27-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth
 
 ## Sequences:

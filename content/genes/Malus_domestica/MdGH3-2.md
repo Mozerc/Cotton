@@ -3,14 +3,14 @@ description: MD02G1180300 ; Malus domestica
 meta_title:
 title: MdGH3-2
 categories: [Malus domestica]
-tags: [ resistance,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,drought resistance,am symbiosis,symbiosis,am colonization ]
+tags: [ resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought resistance,am symbiosis,symbiosis,am colonization ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD02G1180300]()
 - **Gene Symbol:** MdGH3-2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,drought,stress,drought stress,drought stress ,tolerance,droug
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,drought resistance,am symbiosis,symbiosis,am colonization
+## Orthologs:
+
+## Keywords:
+resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought resistance,am symbiosis,symbiosis,am colonization
 
 ## Sequences:
 - **CDS Sequence:**

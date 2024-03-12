@@ -10,7 +10,7 @@ tags: [ development,plant development ]
 - **Gene ID:**	[Zm00001eb175950]()
 - **Gene Symbol:** ZmGA20ox7;ga20ox8
 - **Gene Name:** gibberellin 20-oxidase8
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,plant development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,plant development
 
 ## Sequences:

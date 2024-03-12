@@ -10,7 +10,7 @@ tags: [ quality,yield,breeding ]
 - **Gene ID:**	[Glyma.06G269600]()
 - **Gene Symbol:** EIF1
 - **Gene Name:** EUKARYOTIC TRANSLATION INITIATION FACTOR 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ quality,yield,breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 quality,yield,breeding
 
 ## Sequences:

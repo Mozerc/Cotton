@@ -10,7 +10,7 @@ tags: [ transcription factor,breeding ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** AhTc1(J3K16L)
 - **Gene Name:** 
-- **Genome Version:** [Arachis hypogaea cv. Tifrunner]()
+- **Genome:** [Arachis hypogaea cv. Tifrunner]()
 - **Species:** *Arachis hypogaea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,breeding
 
 ## Sequences:

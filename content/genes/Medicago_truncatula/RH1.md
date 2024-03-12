@@ -10,7 +10,7 @@ tags: [ leaf ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** RH1
 - **Gene Name:** RED HEART1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf ]
 - **NCBI ID:** [XP_013442258](https://www.ncbi.nlm.nih.gov/gene/?term=XP_013442258)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf
 
 ## Sequences:

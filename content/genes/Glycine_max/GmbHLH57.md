@@ -10,7 +10,7 @@ tags: [ iron,fe ]
 - **Gene ID:**	[Glyma.12G178500]()
 - **Gene Symbol:** GmbHLH57
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ iron,fe ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 iron,fe
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: TraesCS1A02G306300.1 ; Triticum aestivum
 meta_title:
 title: TaFDL2-1A
 categories: [Triticum aestivum]
-tags: [ resistance,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba ,aba biosynthesis,drought resistance ]
+tags: [ resistance,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,aba biosynthesis,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G306300.1]()
 - **Gene Symbol:** TaFDL2-1A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,drought,stress,drought stress,drought stress ,tolerance,aba,d
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba ,aba biosynthesis,drought resistance
+## Orthologs:
+
+## Keywords:
+resistance,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,aba biosynthesis,drought resistance
 
 ## Sequences:
 - **CDS Sequence:**

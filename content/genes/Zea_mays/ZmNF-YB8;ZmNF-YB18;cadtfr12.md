@@ -3,14 +3,14 @@ description: CCAAT-DR1-transcription factor 12 ; Zm00001eb380770 ; Zea mays
 meta_title:
 title: ZmNF-YB8;ZmNF-YB18
 categories: [Zea mays]
-tags: [ transcription factor,drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response ]
+tags: [ transcription factor,drought,stress,drought stress,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb380770]()
 - **Gene Symbol:** ZmNF-YB8;ZmNF-YB18;cadtfr12
 - **Gene Name:** CCAAT-DR1-transcription factor 12
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ transcription factor,drought,stress,drought stress,drought stress ,stres
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+transcription factor,drought,stress,drought stress,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

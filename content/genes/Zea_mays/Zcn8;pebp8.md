@@ -10,7 +10,7 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
 - **Gene ID:**	[Zm00001eb353250]()
 - **Gene Symbol:** Zcn8;pebp8
 - **Gene Name:** phosphatidylethanolamine-binding protein8
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
 - **NCBI ID:** [LOC100127519](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127519)
 - **UniProt accessions:** [A9LLY2](https://www.uniprot.org/uniprotkb/A9LLY2/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,kinase,tiller,down-regulated genes,map-based cloning,tiller number,tiller bud outgrowth
 
 ## Sequences:

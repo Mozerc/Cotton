@@ -3,14 +3,14 @@ description: serine/threonine specific protein phosphatase ; Zm00001eb251160 ; Z
 meta_title:
 title: ZmPP2C55;ZmOrphan312
 categories: [Zea mays]
-tags: [ leaf,seedlings,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance ]
+tags: [ leaf,seedlings,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb251160]()
 - **Gene Symbol:** ZmPP2C55;ZmOrphan312
 - **Gene Name:** serine/threonine specific protein phosphatase
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ leaf,seedlings,drought,stress,drought stress,drought stress ,tolerance,d
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,seedlings,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance
+## Orthologs:
+
+## Keywords:
+leaf,seedlings,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance
 
 ## Sequences:
 - **CDS Sequence:**

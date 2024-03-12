@@ -10,7 +10,7 @@ tags: [ development,plant development,domestication ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsMYB1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,plant development,domestication ]
 - **NCBI ID:** [MN604029](https://www.ncbi.nlm.nih.gov/gene/?term=MN604029)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,plant development,domestication
 
 ## Sequences:

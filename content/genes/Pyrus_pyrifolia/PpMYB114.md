@@ -10,7 +10,7 @@ tags: [ ethylene ]
 - **Gene ID:**	[Pbr042132.1]()
 - **Gene Symbol:** PpMYB114
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Pyrus pyrifolia*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ yield,cytokinin,dehydrogenase ]
 - **Gene ID:**	[Glyma.17G054500]()
 - **Gene Symbol:** CKX3
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ yield,cytokinin,dehydrogenase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 yield,cytokinin,dehydrogenase
 
 ## Sequences:

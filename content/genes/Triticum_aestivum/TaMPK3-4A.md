@@ -3,14 +3,14 @@ description: TraesCS4A02G106400 ; Triticum aestivum
 meta_title:
 title: TaMPK3-4A
 categories: [Triticum aestivum]
-tags: [ growth,resistance,drought,tolerance,aba,vegetative,drought tolerance, aba ,drought resistance,drought sensitivity,aba sensitivity ]
+tags: [ growth,resistance,drought,tolerance,aba,vegetative,drought tolerance,drought resistance,drought sensitivity,aba sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G106400]()
 - **Gene Symbol:** TaMPK3-4A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ growth,resistance,drought,tolerance,aba,vegetative,drought tolerance, ab
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-growth,resistance,drought,tolerance,aba,vegetative,drought tolerance, aba ,drought resistance,drought sensitivity,aba sensitivity
+## Orthologs:
+
+## Keywords:
+growth,resistance,drought,tolerance,aba,vegetative,drought tolerance,drought resistance,drought sensitivity,aba sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

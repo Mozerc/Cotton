@@ -10,7 +10,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 - **Gene ID:**	[CA05g16710]()
 - **Gene Symbol:** CaCIPK13
 - **Gene Name:** Capsicum annuum CBL-interacting protein kinases
-- **Genome Version:** [Pepper.v.1.55]()
+- **Genome:** [Pepper.v.1.55]()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance
 
 ## Sequences:

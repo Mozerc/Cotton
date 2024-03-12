@@ -10,13 +10,13 @@ tags: [ cytosol ]
 - **Gene ID:**	[GRMZM2G023528]()
 - **Gene Symbol:** Smk2
 - **Gene Name:** small kernel2
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **Smk2** encodes the glutaminase subunit of the PLP synthase complex involved in vitamin B6 biosynthesis de novo.
    - **Smk2** is constitutively expressed in the maize plant, including developing embryos.
-   - SMK2 Shows a High Similarity to the Glutaminase Subunit of PLP Synthase and Is Localized in Cytosol.
+   - **Smk2** Shows a High Similarity to the Glutaminase Subunit of PLP Synthase and Is Localized in Cytosol.
 
 ## Literature:
    - [Small kernel2 Encodes a Glutaminase in Vitamin B(6) Biosynthesis Essential for Maize Seed Development.]( https://academic.oup.com/plphys/article/174/2/1127/6117379?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.01295](https://academic.oup.com/plphys/article/174/2/1127/6117379?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28408540](https://pubmed.ncbi.nlm.nih.gov/28408540/)
@@ -28,7 +28,9 @@ tags: [ cytosol ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cytosol
 
 ## Sequences:

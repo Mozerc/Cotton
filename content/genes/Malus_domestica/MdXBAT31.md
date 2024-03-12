@@ -10,7 +10,7 @@ tags: [ ubiquitin,ubiquitin e3 ligase ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdXBAT31
 - **Gene Name:** MdXB3 ORTHOLOG 1 IN ARABIDOPSIS THALIANA
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:** [XM_008359188](https://www.ncbi.nlm.nih.gov/gene/?term=XM_008359188)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

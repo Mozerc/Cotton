@@ -10,7 +10,7 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 - **Gene ID:**	[Zm00001eb065890]()
 - **Gene Symbol:** ZmCTLP1;smk10
 - **Gene Name:** choline transporter-like protein 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 - **NCBI ID:** [LOC103645752](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103645752)
 - **UniProt accessions:** [A0A1D6DSZ7](https://www.uniprot.org/uniprotkb/A0A1D6DSZ7/entry)&nbsp;,&nbsp;[A0A1D6DSZ8](https://www.uniprot.org/uniprotkb/A0A1D6DSZ8/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,homeostasis,endosperm,endosperm development
 
 ## Sequences:

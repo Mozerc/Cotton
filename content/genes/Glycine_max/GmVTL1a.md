@@ -10,7 +10,7 @@ tags: [ nitrogen,iron,symbiosis ]
 - **Gene ID:**	[Glyma.05G121600]()
 - **Gene Symbol:** GmVTL1a
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ nitrogen,iron,symbiosis ]
 - **NCBI ID:** [NP_001236825](https://www.ncbi.nlm.nih.gov/gene/?term=NP_001236825)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,iron,symbiosis
 
 ## Sequences:

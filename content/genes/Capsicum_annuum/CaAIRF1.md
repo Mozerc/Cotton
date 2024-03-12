@@ -10,7 +10,7 @@ tags: [ drought,aba, aba ,phosphatase,protein phosphatase ]
 - **Gene ID:**	[CA01g23600]()
 - **Gene Symbol:** CaAIRF1
 - **Gene Name:** Capsicum annuum ADIP1 Interacting RING Finger Protein 1
-- **Genome Version:** [Pepper Genome Database version 1.55]()
+- **Genome:** [Pepper Genome Database version 1.55]()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ drought,aba, aba ,phosphatase,protein phosphatase ]
 - **NCBI ID:** [KU748268](https://www.ncbi.nlm.nih.gov/gene/?term=KU748268)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,aba, aba ,phosphatase,protein phosphatase
 
 ## Sequences:

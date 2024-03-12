@@ -3,14 +3,14 @@ description: TraesCS4B02G235400 ; Triticum aestivum
 meta_title:
 title: TaBCAT1-B
 categories: [Triticum aestivum]
-tags: [ stem,defense,sa, sa  ]
+tags: [ stem,defense,sa ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G235400]()
 - **Gene Symbol:** TaBCAT1-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ stem,defense,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stem,defense,sa, sa 
+## Orthologs:
+
+## Keywords:
+stem,defense,sa
 
 ## Sequences:
 - **CDS Sequence:**

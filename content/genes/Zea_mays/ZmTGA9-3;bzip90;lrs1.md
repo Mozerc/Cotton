@@ -10,7 +10,7 @@ tags: [ fertility,pollen,anther,sterility,male sterility,male fertility,pollen f
 - **Gene ID:**	[Zm00001eb366880]()
 - **Gene Symbol:** ZmTGA9-3;bzip90;lrs1
 - **Gene Name:** liguleless related sequence1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ fertility,pollen,anther,sterility,male sterility,male fertility,pollen f
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility,pollen,anther,sterility,male sterility,male fertility,pollen fertility
 
 ## Sequences:

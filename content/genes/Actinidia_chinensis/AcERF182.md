@@ -10,7 +10,7 @@ tags: [ sugar ]
 - **Gene ID:**	[Acc04742]()
 - **Gene Symbol:** AcERF182
 - **Gene Name:** 
-- **Genome Version:** [Actinidia chinensis (Red5_PS1_1.69.0, https://plants.ensembl.org/Actinidia_chinensis)]()
+- **Genome:** [Actinidia chinensis (Red5)]()
 - **Species:** *Actinidia chinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ sugar ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sugar
 
 ## Sequences:

@@ -10,12 +10,12 @@ tags: [ growth,development,grain,grain length,brassinosteroid,seed,map-based clo
 - **Gene ID:**	[Zm00001eb120890]()
 - **Gene Symbol:** ZmD1;ZmCYP90D1;cyp45
 - **Gene Name:** cytochrome P450 45
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **ZmD1**, in the regulation of stalk length and thickness.
-   - The seed length, width, and hundred-grain weight were slightly reduced in zmd1 mutants.
+   - The seed length, width, and hundred-grain weight were slightly reduced in **ZmD1** mutants.
    - The **ZmD1** gene regulated stalk development by influencing cell length and width.
    - The expression trends of **ZmD1** and ZmBZR1 were complementary in maize stalks.
    - Cytochrome P450 D1 (**ZmD1**) and Brassinzole-resistant 1 (ZmBZR1), were identified as hub genes in the elongated stalk network.
@@ -34,7 +34,9 @@ tags: [ growth,development,grain,grain length,brassinosteroid,seed,map-based clo
 - **NCBI ID:** [100384722](https://www.ncbi.nlm.nih.gov/gene/?term=100384722)
 - **UniProt accessions:** [C4IZQ0](https://www.uniprot.org/uniprotkb/C4IZQ0/entry)&nbsp;,&nbsp;[A0A1D6MHH1](https://www.uniprot.org/uniprotkb/A0A1D6MHH1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,grain,grain length,brassinosteroid,seed,map-based cloning,nucleus,cell division,grain weight,seed weight,resistant,seed development,internode length,grain width,grain growth,seed growth,grain protein,seed length,internode development
 
 ## Sequences:

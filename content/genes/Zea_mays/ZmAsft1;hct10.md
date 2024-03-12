@@ -10,7 +10,7 @@ tags: [ cell wall ]
 - **Gene ID:**	[Zm00001eb366700]()
 - **Gene Symbol:** ZmAsft1;hct10
 - **Gene Name:** hydroxycinnamoyltransferase10
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ cell wall ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell wall
 
 ## Sequences:

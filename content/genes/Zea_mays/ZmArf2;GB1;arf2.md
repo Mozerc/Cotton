@@ -10,13 +10,13 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb019130]()
 - **Gene Symbol:** ZmArf2;GB1;arf2
 - **Gene Name:** ADP-ribosylation factor homolog2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Maize zm**arf2** mutants showed a characteristic smaller kernel size.
-   - The zm**arf2** mutation negatively affects kernel weight and width.
-   - **ZmArf2** positively regulates maize kernel size and plant agronomic traits through a complex molecular pathway.
+   - Maize **Zm**arf2**** mutants showed a characteristic smaller kernel size.
+   - The **Zm**arf2**** mutation negatively affects kernel weight and width.
+   - **Zm**arf2**** positively regulates maize kernel size and plant agronomic traits through a complex molecular pathway.
 
 ## Literature:
    - [An ARF24-ZmArf2 module influences kernel size in different maize haplotypes.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13473)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13473](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13473)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36866706](https://pubmed.ncbi.nlm.nih.gov/36866706/)
@@ -29,7 +29,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

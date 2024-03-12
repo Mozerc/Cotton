@@ -3,14 +3,14 @@ description: Solyc08g082180.2.1 ; Solanum lycopersicum
 meta_title:
 title: SlRCAR13
 categories: [Solanum lycopersicum]
-tags: [ aba,ethylene, aba  ]
+tags: [ aba,ethylene ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc08g082180.2.1]()
 - **Gene Symbol:** SlRCAR13
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ aba,ethylene, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba,ethylene, aba 
+## Orthologs:
+
+## Keywords:
+aba,ethylene
 
 ## Sequences:
 - **CDS Sequence:**

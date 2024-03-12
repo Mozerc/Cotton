@@ -10,7 +10,7 @@ tags: [ transcription factor,cuticle,ubiquitin,ubiquitin e3 ligase ]
 - **Gene ID:**	[MD11G1131700]()
 - **Gene Symbol:** MdSIZ1
 - **Gene Name:** Malus domestica SAP AND MIZ1 DOMAIN CONTAINING LIGASE1
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,cuticle,ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,cuticle,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

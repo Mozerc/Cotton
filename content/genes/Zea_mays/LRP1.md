@@ -10,12 +10,12 @@ tags: [ root,development,auxin,crown root development,root development,crown roo
 - **Gene ID:**	[GRMZM2G077752]()
 - **Gene Symbol:** LRP1
 - **Gene Name:** lateral root primordia 1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **LRP1** protein is involved in maize auxin signal transduction downstream of rum1 which regulates the initiation of lateral and seminal roots.
-   - Maize lrp1 is expressed in lateral and crown root primordia and is auxin-inducible.
+   - Maize **LRP1** is expressed in lateral and crown root primordia and is auxin-inducible.
    - **LRP1** in root meristems, suggests a function in maize root development via the RUM1-dependent auxin signalling pathway.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ root,development,auxin,crown root development,root development,crown roo
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,development,auxin,crown root development,root development,crown root initiation,root initiation,signal transduction,crown,crown root,lateral root
 
 ## Sequences:

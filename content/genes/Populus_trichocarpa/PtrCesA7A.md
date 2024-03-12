@@ -10,7 +10,7 @@ tags: [ cellulose,phloem ]
 - **Gene ID:**	[Potri.006G181900]()
 - **Gene Symbol:** PtrCesA7A
 - **Gene Name:** 
-- **Genome Version:** [Populus trichocarpa genome]()
+- **Genome:** [Populus trichocarpa genome]()
 - **Species:** *Populus trichocarpa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cellulose,phloem ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cellulose,phloem
 
 ## Sequences:

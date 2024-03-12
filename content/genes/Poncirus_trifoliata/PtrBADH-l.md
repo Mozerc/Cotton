@@ -10,7 +10,7 @@ tags: [ stress,cold stress,cold ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** PtrBADH-l
 - **Gene Name:** Poncirus trifoliata BADH-like
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,cold stress,cold ]
 - **NCBI ID:** [MT919253](https://www.ncbi.nlm.nih.gov/gene/?term=MT919253)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,cold stress,cold
 
 ## Sequences:

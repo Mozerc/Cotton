@@ -10,7 +10,7 @@ tags: [ root,growth,resistance,stress,root growth,stress response,al resistance 
 - **Gene ID:**	[Zm00001eb358580]()
 - **Gene Symbol:** ZmSLAH2
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ root,growth,resistance,stress,root growth,stress response,al resistance 
 - **NCBI ID:** [103636089](https://www.ncbi.nlm.nih.gov/gene/?term=103636089)
 - **UniProt accessions:** [K7V3L5](https://www.uniprot.org/uniprotkb/K7V3L5/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,resistance,stress,root growth,stress response,al resistance
 
 ## Sequences:

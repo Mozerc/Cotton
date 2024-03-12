@@ -10,11 +10,11 @@ tags: [ pollen ]
 - **Gene ID:**	[Glyma.02g107600]()
 - **Gene Symbol:** ms3
 - **Gene Name:** MALE STERILITY 3
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
-   - Transgenetic analysis indicated that MS3 knockout resulted in nonfunctional pollen and no self-pollinated pods, and RNA-seq analysis revealed that MS3 affects the expression of genes associated with carbohydrate metabolism.
+   - Transgenetic analysis indicated that **ms3** knockout resulted in nonfunctional pollen and no self-pollinated pods, and RNA-seq analysis revealed that **ms3** affects the expression of genes associated with carbohydrate metabolism.
 
 ## Literature:
    - [MALE STERILITY 3 encodes a plant homeodomain-finger protein for male fertility in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13242)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13242](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13242)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35249256](https://pubmed.ncbi.nlm.nih.gov/35249256/)
@@ -26,7 +26,9 @@ tags: [ pollen ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 pollen
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ breeding ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** RLL1
 - **Gene Name:** 
-- **Genome Version:** [Lsat_Salinas_v8]()
+- **Genome:** [Lsat_Salinas_v8]()
 - **Species:** *Lactuca sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 breeding
 
 ## Sequences:

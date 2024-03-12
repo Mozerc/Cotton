@@ -10,7 +10,7 @@ tags: [ root,stress,stress response ]
 - **Gene ID:**	[Glyma.17g211000]()
 - **Gene Symbol:** GmEBF1
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ root,stress,stress response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,stress,stress response
 
 ## Sequences:

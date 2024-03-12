@@ -10,7 +10,7 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 - **Gene ID:**	[]()
 - **Gene Symbol:** CmHSFA4
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,salinity,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeostasis,salinity stress,chlorophyll
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[Pt7g003200]()
 - **Gene Symbol:** PtrERF108
 - **Gene Name:** 
-- **Genome Version:** [P. trifoliata genome]()
+- **Genome:** [P. trifoliata genome]()
 - **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

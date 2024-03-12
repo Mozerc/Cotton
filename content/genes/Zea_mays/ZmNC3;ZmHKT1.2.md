@@ -10,7 +10,7 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
 - **Gene ID:**	[Zm00001eb071370]()
 - **Gene Symbol:** ZmNC3;ZmHKT1.2
 - **Gene Name:** Na+ content3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
 - **NCBI ID:** [LOC109943959](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109943959)
 - **UniProt accessions:** [A0A1D6E031](https://www.uniprot.org/uniprotkb/A0A1D6E031/entry)&nbsp;,&nbsp;[A0A3L6G3L6](https://www.uniprot.org/uniprotkb/A0A3L6G3L6/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,shoot,salt,tolerance,salt tolerance,transporter
 
 ## Sequences:

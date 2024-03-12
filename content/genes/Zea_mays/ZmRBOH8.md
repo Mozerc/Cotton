@@ -10,7 +10,7 @@ tags: [ stress,cold stress,abiotic stress,cold,stress response,heat stress,heat 
 - **Gene ID:**	[Zm00001eb040550]()
 - **Gene Symbol:** ZmRBOH8
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,cold stress,abiotic stress,cold,stress response,heat stress,heat 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,cold stress,abiotic stress,cold,stress response,heat stress,heat stress response,abiotic stress response
 
 ## Sequences:

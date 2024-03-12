@@ -3,14 +3,14 @@ description: GRMZM2G700200 ; Zea mays
 meta_title:
 title: ZmDRO1
 categories: [Zea mays]
-tags: [ root,growth,grain,drought,grain yield,yield,aba,root growth, aba ,grain growth ]
+tags: [ root,growth,grain,drought,grain yield,yield,aba,root growth,grain growth ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G700200]()
 - **Gene Symbol:** ZmDRO1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ root,growth,grain,drought,grain yield,yield,aba,root growth, aba ,grain 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,growth,grain,drought,grain yield,yield,aba,root growth, aba ,grain growth
+## Orthologs:
+
+## Keywords:
+root,growth,grain,drought,grain yield,yield,aba,root growth,grain growth
 
 ## Sequences:
 - **CDS Sequence:**

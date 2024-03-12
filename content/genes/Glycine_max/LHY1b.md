@@ -3,14 +3,14 @@ description: Glyma.07G048500 ; Glycine max
 meta_title:
 title: LHY1b
 categories: [Glycine max]
-tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,flowering time, aba ,flowering ]
+tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,flowering time,flowering ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.07G048500]()
 - **Gene Symbol:** LHY1b
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,flowering time, ab
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,tolerance,aba,drought tolerance,abscisic acid,flowering time, aba ,flowering
+## Orthologs:
+
+## Keywords:
+drought,tolerance,aba,drought tolerance,abscisic acid,flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

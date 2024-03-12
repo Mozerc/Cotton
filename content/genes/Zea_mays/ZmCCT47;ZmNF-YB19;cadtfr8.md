@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb368240]()
 - **Gene Symbol:** ZmCCT47;ZmNF-YB19;cadtfr8
 - **Gene Name:** CCAAT-DR1-transcription factor 8
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

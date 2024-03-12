@@ -10,7 +10,7 @@ tags: [ salt,tolerance,aba,salt tolerance, aba  ]
 - **Gene ID:**	[P.x_tomentosa47952]()
 - **Gene Symbol:** PtoRD26.1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Populus tomentosa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ salt,tolerance,aba,salt tolerance, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 salt,tolerance,aba,salt tolerance, aba 
 
 ## Sequences:

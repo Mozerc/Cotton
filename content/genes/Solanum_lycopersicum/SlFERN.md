@@ -10,7 +10,7 @@ tags: [ r protein ]
 - **Gene ID:**	[Solyc06g075000]()
 - **Gene Symbol:** SlFERN
 - **Gene Name:** 
-- **Genome Version:** [Genome_version:tomato genome Version SL2.5]()
+- **Genome:** [Genome_version:tomato genome Version SL2.5]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ r protein ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 r protein
 
 ## Sequences:

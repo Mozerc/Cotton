@@ -3,14 +3,14 @@ description: calcium dependent protein kinase33 ; Zm00001eb094770 ; Zea mays
 meta_title:
 title: ZmCDPK38;cdpk33
 categories: [Zea mays]
-tags: [ stem,root,kinase,drought,stress,drought stress,drought stress ,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,protein kinase,stress response,drought stress response,drought response ]
+tags: [ stem,root,kinase,drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,protein kinase,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb094770]()
 - **Gene Symbol:** ZmCDPK38;cdpk33;CPK38
 - **Gene Name:** calcium dependent protein kinase33
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ stem,root,kinase,drought,stress,drought stress,drought stress ,salt,tole
    - **ZmCDPK38** gene was expressed in a tissue-specific manner, which showed high expression level in maize leaves and less mRNA accumulation in stem, root, ear and tassel.
 
 ## Literature:
-   - [NA]( http://www.xjnykx.com/CN/10.6048/j.issn.1001-4330.2021.01.006)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.6048/j.issn.1001-4330.2021.01.006](http://www.xjnykx.com/CN/10.6048/j.issn.1001-4330.2021.01.006)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Expression Characteristics and Bioinformatics Analysis of ZmCDPK38Gene in Maize]( http://www.xjnykx.com/CN/10.6048/j.issn.1001-4330.2021.01.006)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.6048/j.issn.1001-4330.2021.01.006](http://www.xjnykx.com/CN/10.6048/j.issn.1001-4330.2021.01.006)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,8 +27,10 @@ tags: [ stem,root,kinase,drought,stress,drought stress,drought stress ,salt,tole
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stem,root,kinase,drought,stress,drought stress,drought stress ,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,protein kinase,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+stem,root,kinase,drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,protein kinase,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

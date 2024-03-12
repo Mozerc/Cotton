@@ -10,7 +10,7 @@ tags: [ calli ]
 - **Gene ID:**	[MD11G1269800]()
 - **Gene Symbol:** MdBBX22
 - **Gene Name:** 
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ calli ]
 - **NCBI ID:** [XP_028944947](https://www.ncbi.nlm.nih.gov/gene/?term=XP_028944947)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 calli
 
 ## Sequences:

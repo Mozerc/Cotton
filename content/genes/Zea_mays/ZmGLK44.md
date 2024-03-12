@@ -10,7 +10,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **Gene ID:**	[Zm00001eb058460]()
 - **Gene Symbol:** ZmGLK44
 - **Gene Name:** G2-like-transcription factor 44
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [LOC100282724](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282724)
 - **UniProt accessions:** [B6TAS1](https://www.uniprot.org/uniprotkb/B6TAS1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

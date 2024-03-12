@@ -10,7 +10,7 @@ tags: [ auxin,seed ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaYUC10.3
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ auxin,seed ]
 - **NCBI ID:** [KF924402](https://www.ncbi.nlm.nih.gov/gene/?term=KF924402)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,seed
 
 ## Sequences:

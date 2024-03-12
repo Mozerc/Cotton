@@ -3,14 +3,14 @@ description: Solyc09g074270 ; Solanum lycopersicum
 meta_title:
 title: GID1b1
 categories: [Solanum lycopersicum]
-tags: [ ga, ga  ]
+tags: [ ga ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc09g074270]()
 - **Gene Symbol:** GID1b1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ ga, ga  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ga, ga 
+## Orthologs:
+
+## Keywords:
+ga
 
 ## Sequences:
 - **CDS Sequence:**

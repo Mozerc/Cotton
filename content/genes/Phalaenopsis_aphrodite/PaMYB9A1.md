@@ -26,7 +26,10 @@ tags: [ development,cuticular wax biosynthesis,wax biosynthesis ]
 - **NCBI ID:** [PAXXG123420(Orchidstra databases)](https://www.ncbi.nlm.nih.gov/gene/?term=PAXXG123420(Orchidstra databases))
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 development,cuticular wax biosynthesis,wax biosynthesis
 
 ## Sequences:

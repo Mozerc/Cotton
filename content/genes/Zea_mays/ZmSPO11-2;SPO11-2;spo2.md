@@ -10,7 +10,7 @@ tags: [ sterility,meiotic,male sterility,meiotic recombination,female sterility,
 - **Gene ID:**	[Zm00001eb172550]()
 - **Gene Symbol:** ZmSPO11-2;SPO11-2;spo2
 - **Gene Name:** topoisomerase-like enzyme2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ sterility,meiotic,male sterility,meiotic recombination,female sterility,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 sterility,meiotic,male sterility,meiotic recombination,female sterility,recombination
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ growth,auxin,stress,salt,salt stress ]
 - **Gene ID:**	[Ghir_A06G004210]()
 - **Gene Symbol:** GhARF17
 - **Gene Name:** 
-- **Genome Version:** [Gossypium hirsutum, HAU assembly]()
+- **Genome:** [Gossypium hirsutum, HAU assembly]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,auxin,stress,salt,salt stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,auxin,stress,salt,salt stress
 
 ## Sequences:

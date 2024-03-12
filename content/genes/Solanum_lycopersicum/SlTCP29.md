@@ -10,7 +10,7 @@ tags: [ leaf,development,leaf development,plant development ]
 - **Gene ID:**	[Solyc08g048370]()
 - **Gene Symbol:** SlTCP29
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,development,leaf development,plant development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,development,leaf development,plant development
 
 ## Sequences:

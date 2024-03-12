@@ -10,7 +10,7 @@ tags: [ kinase,br,br signaling,cell cycle, br ,cell expansion ]
 - **Gene ID:**	[Gh_D11G206800]()
 - **Gene Symbol:** GhKRP6
 - **Gene Name:** 
-- **Genome Version:** [G. hirsutum genome (CRI)]()
+- **Genome:** [G. hirsutum genome (CRI)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ kinase,br,br signaling,cell cycle, br ,cell expansion ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 kinase,br,br signaling,cell cycle, br ,cell expansion
 
 ## Sequences:

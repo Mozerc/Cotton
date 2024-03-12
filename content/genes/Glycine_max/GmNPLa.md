@@ -10,7 +10,7 @@ tags: [ root ]
 - **Gene ID:**	[Glyma.11G244800]()
 - **Gene Symbol:** GmNPLa
 - **Gene Name:** phosphate starvation-induced transcription factor 1
-- **Genome Version:** [Williams 82 (Wm82) reference genome]()
+- **Genome:** [Williams 82 (Wm82) reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ root ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ breeding,sterile ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** Bnams4b
 - **Gene Name:** Brassica napus male sterile 4
-- **Genome Version:** []()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ breeding,sterile ]
 - **NCBI ID:** [KX756984](https://www.ncbi.nlm.nih.gov/gene/?term=KX756984)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 breeding,sterile
 
 ## Sequences:

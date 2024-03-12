@@ -10,7 +10,7 @@ tags: [ floral,transcription regulator,flowering ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CmBBX8
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ floral,transcription regulator,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 floral,transcription regulator,flowering
 
 ## Sequences:

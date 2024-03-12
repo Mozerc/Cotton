@@ -10,7 +10,7 @@ tags: [ starch ]
 - **Gene ID:**	[Ma05_g18560.1]()
 - **Gene Symbol:** MaMADS36
 - **Gene Name:** 
-- **Genome Version:** [banana A genome (https://banana-genome-hub.southgreen.fr/)]()
+- **Genome:** [banana A genome (https://banana-genome-hub.southgreen.fr/)]()
 - **Species:** *Musa acuminata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ starch ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 starch
 
 ## Sequences:

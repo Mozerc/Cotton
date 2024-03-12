@@ -10,7 +10,7 @@ tags: [ seed,yield,seed weight ]
 - **Gene ID:**	[Glyma.20G085100]()
 - **Gene Symbol:** POWR1
 - **Gene Name:** 
-- **Genome Version:** [G. max reference genome (Williams 82.a2 v1)]()
+- **Genome:** [G. max reference genome (Williams 82.a2 v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed,yield,seed weight ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,yield,seed weight
 
 ## Sequences:

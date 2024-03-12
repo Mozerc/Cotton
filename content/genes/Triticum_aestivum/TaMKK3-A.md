@@ -10,7 +10,7 @@ tags: [ kinase,seed,protein kinase,dormancy,seed dormancy ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaMKK3-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ kinase,seed,protein kinase,dormancy,seed dormancy ]
 - **NCBI ID:** [LC091368.1](https://www.ncbi.nlm.nih.gov/gene/?term=LC091368.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,seed,protein kinase,dormancy,seed dormancy
 
 ## Sequences:

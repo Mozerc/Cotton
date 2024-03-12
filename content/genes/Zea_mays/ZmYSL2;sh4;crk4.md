@@ -10,7 +10,7 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
 - **Gene ID:**	[Zm00001eb248990]()
 - **Gene Symbol:** ZmYSL2;sh4;crk4
 - **Gene Name:** shrunken4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
 - **NCBI ID:** [LOC103627488](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627488)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,starch,homeostasis,transporter,metal transport,embryo,endosperm,plasma membrane,endosperm development,fe,fe homeostasis,fe accumulation,embryo development,starch accumulation
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,heat t
 - **Gene ID:**	[TraesCS1A02G138200]()
 - **Gene Symbol:** TaHAG1-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,heat t
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,heat tolerance,heat stress
 
 ## Sequences:

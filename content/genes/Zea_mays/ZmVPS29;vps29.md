@@ -10,16 +10,16 @@ tags: [ development,auxin,plant development,domestication,yield,homeostasis,bree
 - **Gene ID:**	[Zm00001eb203950]()
 - **Gene Symbol:** ZmVPS29;vps29
 - **Gene Name:** vacuolar protein sorting29
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmVPS29** increased auxin accumulation during early kernel development by enhancing auxin biosynthesis and transport and reducing auxin degradation and thereby improved kernel development.
-   - Overexpression of **ZmVPS29** conferred a slender kernel morphology and increased the yield per plant in different maize genetic backgrounds.
-   - **ZmVPS29** might play a role in the maintenance of auxin homeostasis in vivo by regulating auxin accumulation in maize kernel development through a combination of auxin biosynthesis, transport and degradation.
-   - Positional cloning and transgenic analysis revealed that qKM4.08 encodes **ZmVPS29**, a retromer complex component.
-   - Further study showed that **ZmVPS29** increased auxin accumulation during early kernel development by enhancing auxin biosynthesis and transport and reducing auxin degradation and thereby improved kernel development.
-   - Sequence analyses suggest that **ZmVPS29** has been under purifying selection during maize domestication and likely in breeding processes as well.
+   - **Zm**vps29**** increased auxin accumulation during early kernel development by enhancing auxin biosynthesis and transport and reducing auxin degradation and thereby improved kernel development.
+   - Overexpression of **Zm**vps29**** conferred a slender kernel morphology and increased the yield per plant in different maize genetic backgrounds.
+   - **Zm**vps29**** might play a role in the maintenance of auxin homeostasis in vivo by regulating auxin accumulation in maize kernel development through a combination of auxin biosynthesis, transport and degradation.
+   - Positional cloning and transgenic analysis revealed that qKM4.08 encodes **Zm**vps29****, a retromer complex component.
+   - Further study showed that **Zm**vps29**** increased auxin accumulation during early kernel development by enhancing auxin biosynthesis and transport and reducing auxin degradation and thereby improved kernel development.
+   - Sequence analyses suggest that **Zm**vps29**** has been under purifying selection during maize domestication and likely in breeding processes as well.
 
 ## Literature:
    - [The retromer protein ZmVPS29 regulates maize kernel morphology likely through an auxin-dependent process(es).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13267)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13267](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13267)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31553822](https://pubmed.ncbi.nlm.nih.gov/31553822/)
@@ -33,7 +33,9 @@ tags: [ development,auxin,plant development,domestication,yield,homeostasis,bree
 - **NCBI ID:** [100281359](https://www.ncbi.nlm.nih.gov/gene/?term=100281359)
 - **UniProt accessions:** [B6SUM0](https://www.uniprot.org/uniprotkb/B6SUM0/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,auxin,plant development,domestication,yield,homeostasis,breeding,auxin biosynthesis,auxin transport,as transport
 
 ## Sequences:

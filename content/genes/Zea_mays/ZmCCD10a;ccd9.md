@@ -3,14 +3,14 @@ description: carotenoid cleavage dioxygenase9 ; Zm00001eb309770 ; Zea mays
 meta_title:
 title: ZmCCD10a;ccd9
 categories: [Zea mays]
-tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi, pi  ]
+tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb309770]()
 - **Gene Symbol:** ZmCCD10a;ccd9
 - **Gene Name:** carotenoid cleavage dioxygenase9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi, pi  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,shoot,tolerance,biomass,phosphate,phosphorus,pi, pi 
+## Orthologs:
+
+## Keywords:
+root,shoot,tolerance,biomass,phosphate,phosphorus,pi
 
 ## Sequences:
 - **CDS Sequence:**

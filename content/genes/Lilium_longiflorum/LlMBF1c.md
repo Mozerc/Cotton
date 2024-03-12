@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** LlMBF1c
 - **Gene Name:** MULTIPROTEIN BRIDGING FACTOR 1C
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Lilium longiflorum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [OR712244](https://www.ncbi.nlm.nih.gov/gene/?term=OR712244)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

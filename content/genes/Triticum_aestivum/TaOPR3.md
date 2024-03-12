@@ -3,14 +3,14 @@ description: TraesCS7A03G0999600 ; Triticum aestivum
 meta_title:
 title: TaOPR3
 categories: [Triticum aestivum]
-tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmonic acid,ja biosynthesis, ja  ]
+tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmonic acid,ja biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A03G0999600]()
 - **Gene Symbol:** TaOPR3
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -30,8 +30,10 @@ tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmon
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmonic acid,ja biosynthesis, ja 
+## Orthologs:
+
+## Keywords:
+root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmonic acid,ja biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

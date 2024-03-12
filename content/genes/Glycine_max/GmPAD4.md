@@ -10,7 +10,7 @@ tags: [ defense,salicylic acid ]
 - **Gene ID:**	[Glyma08g00420]()
 - **Gene Symbol:** GmPAD4
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm1.ann1]()
+- **Genome:** [glyma.Wm82.gnm1.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ defense,salicylic acid ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 defense,salicylic acid
 
 ## Sequences:

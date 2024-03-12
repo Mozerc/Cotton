@@ -3,14 +3,14 @@ description: Solyc10g076180 ; Solanum lycopersicum
 meta_title:
 title: SlOFP20
 categories: [Solanum lycopersicum]
-tags: [ development,br,br signaling,flower,pollen,pollen development,floral,ga, ga ,floral organ, br ,flower development ]
+tags: [ development,br,br signaling,flower,pollen,pollen development,floral,ga,floral organ,flower development ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc10g076180]()
 - **Gene Symbol:** SlOFP20
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ development,br,br signaling,flower,pollen,pollen development,floral,ga, 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-development,br,br signaling,flower,pollen,pollen development,floral,ga, ga ,floral organ, br ,flower development
+## Orthologs:
+
+## Keywords:
+development,br,br signaling,flower,pollen,pollen development,floral,ga,floral organ,flower development
 
 ## Sequences:
 - **CDS Sequence:**

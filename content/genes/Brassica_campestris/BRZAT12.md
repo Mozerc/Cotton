@@ -10,7 +10,7 @@ tags: [ temperature,resistance,stress,cold stress,aba,cold,low-temperature, aba 
 - **Gene ID:**	[Bra002528]()
 - **Gene Symbol:** BRZAT12
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Brassica campestris*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ temperature,resistance,stress,cold stress,aba,cold,low-temperature, aba 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 temperature,resistance,stress,cold stress,aba,cold,low-temperature, aba ,stress response
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: TraesCS2D01G118200 ; Triticum aestivum
 meta_title:
 title: WFZP-D
 categories: [Triticum aestivum]
-tags: [ spikelet,awn, awn  ]
+tags: [ spikelet,awn ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D01G118200]()
 - **Gene Symbol:** WFZP-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ spikelet,awn, awn  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-spikelet,awn, awn 
+## Orthologs:
+
+## Keywords:
+spikelet,awn
 
 ## Sequences:
 - **CDS Sequence:**

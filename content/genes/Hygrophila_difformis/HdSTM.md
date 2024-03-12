@@ -10,7 +10,7 @@ tags: [ development ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** HdSTM
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Hygrophila difformis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development ]
 - **NCBI ID:** [MZ365290](https://www.ncbi.nlm.nih.gov/gene/?term=MZ365290)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ kinase,resistance,pathogen,defence,aminobutyric acid,pathogen resistance
 - **Gene ID:**	[]()
 - **Gene Symbol:** PpTGA1
 - **Gene Name:** 
-- **Genome Version:** [peach reference genome v2.0.a1]()
+- **Genome:** [peach reference genome v2.0.a1]()
 - **Species:** *Prunus persica*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ kinase,resistance,pathogen,defence,aminobutyric acid,pathogen resistance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 kinase,resistance,pathogen,defence,aminobutyric acid,pathogen resistance
 
 ## Sequences:

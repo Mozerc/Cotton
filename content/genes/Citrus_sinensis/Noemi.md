@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Cs5g31400]()
 - **Gene Symbol:** Noemi
 - **Gene Name:** 
-- **Genome Version:** [Citrus sinensis Valencia genome v1.0 (HZAU)]()
+- **Genome:** [Citrus sinensis Valencia genome v1.0 (HZAU)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [KT757350](https://www.ncbi.nlm.nih.gov/gene/?term=KT757350)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ fertility,pollen,sterility,sterile,male sterility,male fertility,pollen 
 - **Gene ID:**	[Zm00001d035791]()
 - **Gene Symbol:** ZmDRP1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ fertility,pollen,sterility,sterile,male sterility,male fertility,pollen 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility,pollen,sterility,sterile,male sterility,male fertility,pollen fertility
 
 ## Sequences:

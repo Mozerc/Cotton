@@ -10,13 +10,13 @@ tags: [ mitochondria,photosynthesis ]
 - **Gene ID:**	[Solyc11g069790.1]()
 - **Gene Symbol:** SlCPN60α1
 - **Gene Name:** chaperonin 60α1
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - The chaperonin 60 protein SlCpn60α1 modulates photosynthesis and photorespiration in tomato.
+   - The chaperonin 60 protein **SlCPN60α1** modulates photosynthesis and photorespiration in tomato.
    - **SlCPN60α1** directly interacted with serine hydroxymethyltransferase (SlSHMT1) in mitochondria, thereby regulating photorespiration in tomato.
-   - SlCpn60α1 is involved in photosynthesis in tomato.
+   - **SlCPN60α1** is involved in photosynthesis in tomato.
 
 ## Literature:
    - [The chaperonin 60 protein SlCpn60α1 modulates photosynthesis and photorespiration in tomato.]( https://academic.oup.com/jxb/article/71/22/7224/5904182?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa418](https://academic.oup.com/jxb/article/71/22/7224/5904182?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32915204](https://pubmed.ncbi.nlm.nih.gov/32915204/)
@@ -28,7 +28,9 @@ tags: [ mitochondria,photosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 mitochondria,photosynthesis
 
 ## Sequences:

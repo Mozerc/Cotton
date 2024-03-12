@@ -10,7 +10,7 @@ tags: [ photosynthesis,transporter,stomatal ]
 - **Gene ID:**	[Zm00001eb288410]()
 - **Gene Symbol:** CST1;ZmSWEET12;ZmSWEET13;sweet1b
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ photosynthesis,transporter,stomatal ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 photosynthesis,transporter,stomatal
 
 ## Sequences:

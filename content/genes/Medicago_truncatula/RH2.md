@@ -10,7 +10,7 @@ tags: [ leaf ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** RH2
 - **Gene Name:** RED HEART2
-- **Genome Version:** [Medicago genome sequences MtrunA17r5.0]()
+- **Genome:** [Medicago genome sequences MtrunA17r5.0]()
 - **Species:** *Medicago truncatula*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf ]
 - **NCBI ID:** [XP_013442390](https://www.ncbi.nlm.nih.gov/gene/?term=XP_013442390)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf
 
 ## Sequences:

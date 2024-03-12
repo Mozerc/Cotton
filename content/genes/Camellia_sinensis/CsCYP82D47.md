@@ -10,7 +10,7 @@ tags: [ resistance,ja,ja biosynthesis, ja  ]
 - **Gene ID:**	[TEA023255]()
 - **Gene Symbol:** CsCYP82D47
 - **Gene Name:** 
-- **Genome Version:** [TeaPGDB V1.0 since 2020]()
+- **Genome:** [TeaPGDB V1.0 since 2020]()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ resistance,ja,ja biosynthesis, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,ja,ja biosynthesis, ja 
 
 ## Sequences:

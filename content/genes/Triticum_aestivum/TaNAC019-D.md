@@ -10,7 +10,7 @@ tags: [ starch,quality,starch accumulation ]
 - **Gene ID:**	[TraesCS3D02G078500]()
 - **Gene Symbol:** TaNAC019-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ starch,quality,starch accumulation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,quality,starch accumulation
 
 ## Sequences:

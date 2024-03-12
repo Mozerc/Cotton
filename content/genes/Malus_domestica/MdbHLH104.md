@@ -10,7 +10,7 @@ tags: [ atpase,homeostasis,plasma membrane,iron,fe,iron homeostasis,fe homeostas
 - **Gene ID:**	[MDP0000825749]()
 - **Gene Symbol:** MdbHLH104
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ atpase,homeostasis,plasma membrane,iron,fe,iron homeostasis,fe homeostas
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 atpase,homeostasis,plasma membrane,iron,fe,iron homeostasis,fe homeostasis
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stem,growth,shoot,domestication,floral,flowering ]
 - **Gene ID:**	[Glyma.01G194300]()
 - **Gene Symbol:** Dt1
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stem,growth,shoot,domestication,floral,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,growth,shoot,domestication,floral,flowering
 
 ## Sequences:

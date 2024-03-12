@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Ghicr24_A05G103300.1]()
 - **Gene Symbol:** GhKCS6
 - **Gene Name:** 
-- **Genome Version:** [ZM24_genome_assembly_V1.0]()
+- **Genome:** [ZM24_genome_assembly_V1.0]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

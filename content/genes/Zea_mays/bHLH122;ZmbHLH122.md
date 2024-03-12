@@ -10,7 +10,7 @@ tags: [ development,anther,sterility,tapetum,anther development,cell proliferati
 - **Gene ID:**	[Zm00001d017724]()
 - **Gene Symbol:** bHLH122;ZmbHLH122
 - **Gene Name:** bHLH-transcription factor 122
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,anther,sterility,tapetum,anther development,cell proliferati
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,anther,sterility,tapetum,anther development,cell proliferation
 
 ## Sequences:

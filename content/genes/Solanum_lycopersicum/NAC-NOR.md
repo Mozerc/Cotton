@@ -10,7 +10,7 @@ tags: [ demethylation ]
 - **Gene ID:**	[Solyc10g006880]()
 - **Gene Symbol:** NAC-NOR
 - **Gene Name:** 
-- **Genome Version:** [reference genome SL4.0 (ftp://ftp.solgenomics.net/tomato_genome/annotation/ITAG4.0_release)]()
+- **Genome:** [reference genome SL4.0 (ftp://ftp.solgenomics.net/tomato_genome/annotation/ITAG4.0_release)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ demethylation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 demethylation
 
 ## Sequences:

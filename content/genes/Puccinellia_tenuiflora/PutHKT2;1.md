@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [FJ716169](https://www.ncbi.nlm.nih.gov/gene/?term=FJ716169)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

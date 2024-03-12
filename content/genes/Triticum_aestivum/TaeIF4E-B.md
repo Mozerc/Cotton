@@ -10,7 +10,7 @@ tags: [ resistance,yield ]
 - **Gene ID:**	[TraesCS3B02G591300.1]()
 - **Gene Symbol:** TaeIF4E-B
 - **Gene Name:** 
-- **Genome Version:** [IWGSC RefSeq v1.1]()
+- **Genome:** [IWGSC RefSeq v1.1]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance,yield ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,yield
 
 ## Sequences:

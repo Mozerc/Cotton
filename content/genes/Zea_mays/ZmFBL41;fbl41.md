@@ -10,13 +10,13 @@ tags: [ leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resi
 - **Gene ID:**	[Zm00001eb193970]()
 - **Gene Symbol:** ZmFBL41;fbl41
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Rice overexpressing **ZmFBL41** showed elevated susceptibility to R. solani.
-   - An F-box protein (**ZmFBL41**) that confers resistance to banded leaf and sheath blight through a genome-wide association study in maize.
-   - Natural variation in **ZmFBL41** confers banded leaf and sheath blight resistance in maize.
+   - Rice overexpressing **Zm**fbl41**** showed elevated susceptibility to R. solani.
+   - An F-box protein (**Zm**fbl41****) that confers resistance to banded leaf and sheath blight through a genome-wide association study in maize.
+   - Natural variation in **Zm**fbl41**** confers banded leaf and sheath blight resistance in maize.
 
 ## Literature:
    - [Natural variation in ZmFBL41 confers banded leaf and sheath blight resistance in maize.]( https://www.nature.com/articles/s41588-019-0503-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0503-y](https://www.nature.com/articles/s41588-019-0503-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31570888](https://pubmed.ncbi.nlm.nih.gov/31570888/)
@@ -28,7 +28,9 @@ tags: [ leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resi
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resistance
 
 ## Sequences:

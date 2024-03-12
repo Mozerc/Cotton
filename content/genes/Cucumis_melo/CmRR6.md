@@ -10,7 +10,7 @@ tags: [ seedlings,stress,tolerance,cold tolerance,cold stress,cold,stress tolera
 - **Gene ID:**	[MELO3C019056.2.1]()
 - **Gene Symbol:** CmRR6
 - **Gene Name:** 
-- **Genome Version:** [Melon (DHL92) v3.6.1]()
+- **Genome:** [Melon (DHL92) v3.6.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ seedlings,stress,tolerance,cold tolerance,cold stress,cold,stress tolera
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seedlings,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress response
 
 ## Sequences:

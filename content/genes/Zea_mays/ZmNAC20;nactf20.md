@@ -3,14 +3,14 @@ description: NAC-transcription factor 20 ; Zm00001eb288360 ; Zea mays
 meta_title:
 title: ZmNAC20;nactf20
 categories: [Zea mays]
-tags: [ transcription factor,resistance,drought,stress,drought stress,drought stress ,aba,stomatal, aba ,drought resistance ]
+tags: [ transcription factor,resistance,drought,stress,drought stress,aba,stomatal,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb288360]()
 - **Gene Symbol:** ZmNAC20;nactf20
 - **Gene Name:** NAC-transcription factor 20
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,drought st
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,resistance,drought,stress,drought stress,drought stress ,aba,stomatal, aba ,drought resistance
+## Orthologs:
+
+## Keywords:
+transcription factor,resistance,drought,stress,drought stress,aba,stomatal,drought resistance
 
 ## Sequences:
 - **CDS Sequence:**

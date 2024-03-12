@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.14g001600]()
 - **Gene Symbol:** GmNIN2b
 - **Gene Name:** 
-- **Genome Version:** [Phytozome version 12.1 (http://phytozome.jgi.doe.gov/pz/portal.html)]()
+- **Genome:** [Phytozome version 12.1 (http://phytozome.jgi.doe.gov/pz/portal.html)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

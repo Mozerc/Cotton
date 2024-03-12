@@ -10,7 +10,7 @@ tags: [ grain,grain length,grain size,grain number,grain weight,grain width ]
 - **Gene ID:**	[TraesCS2B02G202300]()
 - **Gene Symbol:** TaGW7-B1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,grain length,grain size,grain number,grain weight,grain width ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain length,grain size,grain number,grain weight,grain width
 
 ## Sequences:

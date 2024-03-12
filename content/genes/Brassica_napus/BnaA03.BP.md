@@ -10,7 +10,7 @@ tags: [ architecture,dwarf,plant architecture ]
 - **Gene ID:**	[ZS11A03G024840]()
 - **Gene Symbol:** BnaA03.BP
 - **Gene Name:** 
-- **Genome Version:** [ZY821 reference genome]()
+- **Genome:** [ZY821 reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ architecture,dwarf,plant architecture ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 architecture,dwarf,plant architecture
 
 ## Sequences:

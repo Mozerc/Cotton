@@ -10,7 +10,7 @@ tags: [ development,seed,endosperm,seed development,endosperm development,seed f
 - **Gene ID:**	[Zm00001eb373160]()
 - **Gene Symbol:** ZmICK7;cki7
 - **Gene Name:** cyclin-dependent kinase inhibitor7
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,seed,endosperm,seed development,endosperm development,seed f
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,endosperm,seed development,endosperm development,seed filling
 
 ## Sequences:

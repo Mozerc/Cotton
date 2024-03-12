@@ -10,7 +10,7 @@ tags: [ growth,seed,quality,reproductive,plant growth,height,plant height,flower
 - **Gene ID:**	[Zm00001eb403750]()
 - **Gene Symbol:** ZmSOC1
 - **Gene Name:** SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ growth,seed,quality,reproductive,plant growth,height,plant height,flower
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [NM_001111682.1](https://www.uniprot.org/uniprotkb/NM_001111682.1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,seed,quality,reproductive,plant growth,height,plant height,flowering,reproductive growth,seed growth
 
 ## Sequences:

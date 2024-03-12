@@ -3,14 +3,14 @@ description: phosphoethanolamine N-methyltransferase1 ; Zm00001eb155940 ; Zea ma
 meta_title:
 title: ZmPEAMT;peamt1
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,oxidative stress,salt,oxidative,cold stress,abiotic stress,salt stress,cold,methyltransferase,drought and oxidative stress ]
+tags: [ drought,stress,drought stress,oxidative stress,salt,oxidative,cold stress,abiotic stress,salt stress,cold,methyltransferase,drought and oxidative stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb155940]()
 - **Gene Symbol:** ZmPEAMT;peamt1
 - **Gene Name:** phosphoethanolamine N-methyltransferase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,oxidative stress,salt,oxid
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,oxidative stress,salt,oxidative,cold stress,abiotic stress,salt stress,cold,methyltransferase,drought and oxidative stress
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,oxidative stress,salt,oxidative,cold stress,abiotic stress,salt stress,cold,methyltransferase,drought and oxidative stress
 
 ## Sequences:
 - **CDS Sequence:**

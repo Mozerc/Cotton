@@ -10,7 +10,7 @@ tags: [ stem,disease,cell division,pcd ]
 - **Gene ID:**	[TraesCS3D02G474300]()
 - **Gene Symbol:** mDES1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ stem,disease,cell division,pcd ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,disease,cell division,pcd
 
 ## Sequences:

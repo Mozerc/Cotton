@@ -10,7 +10,7 @@ tags: [ lignin,lignin biosynthesis ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdCCR
 - **Gene Name:** 
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ lignin,lignin biosynthesis ]
 - **NCBI ID:** [LOC103427062](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103427062)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 lignin,lignin biosynthesis
 
 ## Sequences:

@@ -10,13 +10,13 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
 - **Gene ID:**	[GRMZM2G099328]()
 - **Gene Symbol:** ZmDAR1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The over-expression of Zmda1 and Zmdar1 promoted kernel development, resulting in a more developed basal endosperm transfer cell layer (BETL) than WT and enhanced expression of starch synthase genes.
+   - The over-expression of Zmda1 and **ZmDAR1** promoted kernel development, resulting in a more developed basal endosperm transfer cell layer (BETL) than WT and enhanced expression of starch synthase genes.
    - The over-expression of the mutated ZmDA1 or **ZmDAR1** genes improves the sugar imports into the sink organ and starch synthesis in maize kernels.
-   - Expressing the Zmda1 or Zmdar1 gene improved grain yield in maize by increasing the kernel number and kernel weight.
+   - Expressing the Zmda1 or **ZmDAR1** gene improved grain yield in maize by increasing the kernel number and kernel weight.
 
 ## Literature:
    - [Over-expression of mutated ZmDA1 or ZmDAR1 gene improves maize kernel yield by enhancing starch synthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12763](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28557341](https://pubmed.ncbi.nlm.nih.gov/28557341/)
@@ -28,7 +28,9 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,grain number,starch,grain yield,yield,grain weight,endosperm,sugar,endosperm development
 
 ## Sequences:

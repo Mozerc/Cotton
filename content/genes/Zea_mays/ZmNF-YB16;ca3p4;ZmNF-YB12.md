@@ -3,14 +3,14 @@ description: Zm00001eb327140 ; Zea mays
 meta_title:
 title: ZmNF-YB16;ca3p4
 categories: [Zea mays]
-tags: [ growth,drought,stress,drought stress,drought stress ,photosynthesis,tolerance,yield,abiotic stress,drought tolerance,stress tolerance,plant growth ]
+tags: [ growth,drought,stress,drought stress,photosynthesis,tolerance,yield,abiotic stress,drought tolerance,stress tolerance,plant growth ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb327140]()
 - **Gene Symbol:** ZmNF-YB16;ca3p4;ZmNF-YB12
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ growth,drought,stress,drought stress,drought stress ,photosynthesis,tole
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-growth,drought,stress,drought stress,drought stress ,photosynthesis,tolerance,yield,abiotic stress,drought tolerance,stress tolerance,plant growth
+## Orthologs:
+
+## Keywords:
+growth,drought,stress,drought stress,photosynthesis,tolerance,yield,abiotic stress,drought tolerance,stress tolerance,plant growth
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[CsGy7G014720]()
 - **Gene Symbol:** CsFnl7.1
 - **Gene Name:** 
-- **Genome Version:** [Cucumber (Gy14) v2 Genome]()
+- **Genome:** [Cucumber (Gy14) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

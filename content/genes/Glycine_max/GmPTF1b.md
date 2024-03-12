@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.03G143900]()
 - **Gene Symbol:** GmPTF1b
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 (Wm82) reference genome]()
+- **Genome:** [Williams 82 (Wm82) reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

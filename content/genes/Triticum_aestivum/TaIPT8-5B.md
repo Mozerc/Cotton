@@ -10,16 +10,16 @@ tags: [ drought,tolerance,drought tolerance ]
 - **Gene ID:**	[TraesCS5B02G469600]()
 - **Gene Symbol:** TaIPT8-5B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - Transgenic wheat plants with drought-induced TaIPT8 showed increased drought tolerance.
-   - Mutation of TaIPT8 results in reduced drought tolerance
-   - Drought-inducible expression of TaIPT8 improves wheat drought tolerance
+   - Mutation of TaIPT8 results in reduced drought tolerance.
+   - Drought-inducible expression of TaIPT8 improves wheat drought tolerance.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514122000964)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.04.010](https://www.sciencedirect.com/science/article/pii/S2214514122000964)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Genomic analysis of isopentenyltransferase genes and functional characterization of TaIPT8 indicates positive effects of cytokinins on drought tolerance in wheat]( https://www.sciencedirect.com/science/article/pii/S2214514122000964)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.04.010](https://www.sciencedirect.com/science/article/pii/S2214514122000964)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,7 +27,9 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

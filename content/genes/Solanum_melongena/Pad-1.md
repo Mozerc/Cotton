@@ -26,6 +26,9 @@ tags: [  ]
 - **NCBI ID:** [LC500833 and LC500834](https://www.ncbi.nlm.nih.gov/gene/?term=LC500833 and LC500834)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
+## Orthologs:
+
+
 ## Keywords:
 
 

@@ -10,7 +10,7 @@ tags: [ dehydrogenase ]
 - **Gene ID:**	[Cs1g20590]()
 - **Gene Symbol:** CsCAD
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ dehydrogenase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 dehydrogenase
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ breeding,flowering time,flowering ]
 - **Gene ID:**	[Glyma.04G141400.1]()
 - **Gene Symbol:** LNK2a
 - **Gene Name:** NIGHT LIGHT-INDUCIBLE AND CLOCK-REGULATED 2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ breeding,flowering time,flowering ]
    - LNK2 promoted the expression of E1 and repressed that of FT2a in soybean. 
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514120301495)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.09.005](https://www.sciencedirect.com/science/article/pii/S2214514120301495)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Multiplex CRISPR/Cas9-mediated knockout of soybean LNK2 advances flowering time](https://www.sciencedirect.com/science/article/pii/S2214514120301495)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.09.005](https://www.sciencedirect.com/science/article/pii/S2214514120301495)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | ​广州大学刘宝辉/孔凡江团队在大豆LNK2基因功能研究方面取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247502615&idx=2&sn=131dfb66153d103af1c8f6f8d2c3c791&chksm=ce906642f9e7ef54ef5dfbbf82f1ac679b4c7cbe27096701bf66acf58a38c0dd109bc60e1953&scene=27#wechat_redirect)
@@ -28,7 +28,9 @@ tags: [ breeding,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 breeding,flowering time,flowering
 
 ## Sequences:

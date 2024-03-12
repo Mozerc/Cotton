@@ -10,7 +10,7 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
 - **Gene ID:**	[Zm00001eb386990]()
 - **Gene Symbol:** ZmTIP1;tipd1;ZmPAT34
 - **Gene Name:** tip growth defective1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
 - **NCBI ID:** [103638729](https://www.ncbi.nlm.nih.gov/gene/?term=103638729)
 - **UniProt accessions:** [K7WAN1](https://www.uniprot.org/uniprotkb/K7WAN1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,kinase,drought,tolerance,drought tolerance,root elongation,protein kinase,calcium,root hair,root length
 
 ## Sequences:

@@ -10,11 +10,11 @@ tags: [ development,fertility,pollen,pollen development,male fertility,pollen fe
 - **Gene ID:**	[Solyc03g053130]()
 - **Gene Symbol:** SlSTR1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - CR-slstr1-3-6 plants are defective in pollen development and male fertility.
+   - CR-**SlSTR1**-3-6 plants are defective in pollen development and male fertility.
    - **SlSTR1** is one of 14 tomato proteins that have been annotated as strictosidine synthase family proteins.
    - **SlSTR1** acts as a strictosidine synthase in pollen development is uncertain. Less Adherent Pollen 3 (LAP3).
 
@@ -28,7 +28,9 @@ tags: [ development,fertility,pollen,pollen development,male fertility,pollen fe
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,fertility,pollen,pollen development,male fertility,pollen fertility
 
 ## Sequences:

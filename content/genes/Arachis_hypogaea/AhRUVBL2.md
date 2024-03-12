@@ -10,7 +10,7 @@ tags: [ cell division ]
 - **Gene ID:**	[Arahy.TSR8I7]()
 - **Gene Symbol:** AhRUVBL2
 - **Gene Name:** 
-- **Genome Version:** [Arachis hypogaea cv. Tifrunner]()
+- **Genome:** [Arachis hypogaea cv. Tifrunner]()
 - **Species:** *Arachis hypogaea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cell division ]
 - **NCBI ID:** [LOC112701767](https://www.ncbi.nlm.nih.gov/gene/?term=LOC112701767)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cell division
 
 ## Sequences:

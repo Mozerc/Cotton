@@ -3,14 +3,14 @@ description: TraesCS1A02G350500 ; Triticum aestivum
 meta_title:
 title: TaSnRK1α−1A
 categories: [Triticum aestivum]
-tags: [ ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid, ja  ]
+tags: [ ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G350500]()
 - **Gene Symbol:** TaSnRK1α−1A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid, ja 
+## Orthologs:
+
+## Keywords:
+ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid
 
 ## Sequences:
 - **CDS Sequence:**

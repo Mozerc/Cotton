@@ -10,7 +10,7 @@ tags: [ fertility,stress,abiotic stress,biotic stress,male fertility,stress resp
 - **Gene ID:**	[Zm00001eb080620]()
 - **Gene Symbol:** ZmLTPg10;plt39
 - **Gene Name:** phospholipid transfer protein39
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ fertility,stress,abiotic stress,biotic stress,male fertility,stress resp
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fertility,stress,abiotic stress,biotic stress,male fertility,stress response,as transport,abiotic stress response
 
 ## Sequences:

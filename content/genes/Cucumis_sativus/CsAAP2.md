@@ -10,7 +10,7 @@ tags: [ root,development,root development,root elongation,root initiation,merist
 - **Gene ID:**	[CsaV3_4G030920/Csa4G470690]()
 - **Gene Symbol:** CsAAP2
 - **Gene Name:** 
-- **Genome Version:** [Cucumber (Chinese Long) v3 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v3 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root,development,root development,root elongation,root initiation,merist
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,development,root development,root elongation,root initiation,meristem,lateral root,root meristem
 
 ## Sequences:

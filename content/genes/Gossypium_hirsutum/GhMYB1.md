@@ -10,7 +10,7 @@ tags: [ development,cell wall,cell wall synthesis ]
 - **Gene ID:**	[CotAD_64719]()
 - **Gene Symbol:** GhMYB1
 - **Gene Name:** 
-- **Genome Version:** [Gossypium hirsutum genome (AD)]()
+- **Genome:** [Gossypium hirsutum genome (AD)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ development,cell wall,cell wall synthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,cell wall,cell wall synthesis
 
 ## Sequences:

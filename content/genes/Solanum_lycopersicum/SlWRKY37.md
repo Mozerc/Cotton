@@ -3,14 +3,14 @@ description: Solyc01g079360 ; Solanum lycopersicum
 meta_title:
 title: SlWRKY37
 categories: [Solanum lycopersicum]
-tags: [ leaf,leaf senescence,transcription factor,senescence,ja,jasmonic,jasmonic acid, ja  ]
+tags: [ leaf,leaf senescence,transcription factor,senescence,ja,jasmonic,jasmonic acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc01g079360]()
 - **Gene Symbol:** SlWRKY37
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,ja,jasmonic,jasmoni
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,leaf senescence,transcription factor,senescence,ja,jasmonic,jasmonic acid, ja 
+## Orthologs:
+
+## Keywords:
+leaf,leaf senescence,transcription factor,senescence,ja,jasmonic,jasmonic acid
 
 ## Sequences:
 - **CDS Sequence:**

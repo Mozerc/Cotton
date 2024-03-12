@@ -10,14 +10,14 @@ tags: [ development,grain,plant development,seed,starch,grain filling,embryo,end
 - **Gene ID:**	[Zm00001eb361390]()
 - **Gene Symbol:** ZmABI19;ZmAFL2
 - **Gene Name:** ABI3-VP1-transcription factor 19
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **ZmABI19** coordinates expression of key factors required for maize seed development and grain filling.
    - **ZmABI19** regulatory network in the coordination of endosperm and embryo development, nutrient reservoir activity, starch and sucrose metabolism, and plant hormone signal transduction in maize seeds.
    - We used the promoter of the grain filling-specific TF gene Opaque2 (O2) to screen upstream regulatory factors and identified a B3 domain TF, **ZmABI19**, that directly binds to the O2 promoter for transactivation.
-   - The accumulation of zeins, starch and lipids dramatically decreased in zmabi19 mutants.
+   - The accumulation of zeins, starch and lipids dramatically decreased in **ZmABI19** mutants.
    - **ZmABI19** directly regulates multiple key grain filling TFs including O2, Prolamine-box binding factor 1, ZmbZIP22, NAC130, and Opaque11 in the endosperm and Viviparous1 in the embryo.
 
 ## Literature:
@@ -32,7 +32,9 @@ tags: [ development,grain,plant development,seed,starch,grain filling,embryo,end
 - **NCBI ID:** [103636228](https://www.ncbi.nlm.nih.gov/gene/?term=103636228)
 - **UniProt accessions:** [A0A1D6G382](https://www.uniprot.org/uniprotkb/A0A1D6G382/entry)&nbsp;,&nbsp;[A0A1D6G382](https://www.uniprot.org/uniprotkb/A0A1D6G382/entry)&nbsp;,&nbsp;[A0A1D6G384](https://www.uniprot.org/uniprotkb/A0A1D6G384/entry)&nbsp;,&nbsp;[A0A1D6G385](https://www.uniprot.org/uniprotkb/A0A1D6G385/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,plant development,seed,starch,grain filling,embryo,endosperm,signal transduction,seed development,sucrose,endosperm development,embryo development,seed filling,starch accumulation
 
 ## Sequences:

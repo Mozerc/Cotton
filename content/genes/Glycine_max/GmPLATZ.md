@@ -10,7 +10,7 @@ tags: [ seed,breeding,seed weight,seed size ]
 - **Gene ID:**	[Glyma.13G147800]()
 - **Gene Symbol:** GmPLATZ
 - **Gene Name:** 
-- **Genome Version:** [G. max reference genome (Williams 82.a2 v1)]()
+- **Genome:** [G. max reference genome (Williams 82.a2 v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed,breeding,seed weight,seed size ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,breeding,seed weight,seed size
 
 ## Sequences:

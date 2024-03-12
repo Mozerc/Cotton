@@ -10,7 +10,7 @@ tags: [ tolerance,transporter,metal transport,as transport,co transport ]
 - **Gene ID:**	[Zm00001eb231210]()
 - **Gene Symbol:** ZmNRAMP4;ZmNRAMP6;nrat2
 - **Gene Name:** nramp aluminum transporter2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ tolerance,transporter,metal transport,as transport,co transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,transporter,metal transport,as transport,co transport
 
 ## Sequences:

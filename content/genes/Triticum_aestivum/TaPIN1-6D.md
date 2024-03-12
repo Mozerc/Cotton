@@ -10,7 +10,7 @@ tags: [ grain,auxin,tiller,grain number,grain yield,yield,tiller number ]
 - **Gene ID:**	[TraesCS6D02G287800]()
 - **Gene Symbol:** TaPIN1-6D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ grain,auxin,tiller,grain number,grain yield,yield,tiller number ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,auxin,tiller,grain number,grain yield,yield,tiller number
 
 ## Sequences:

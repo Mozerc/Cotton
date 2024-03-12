@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** BpGLK1
 - **Gene Name:** 
-- **Genome Version:** [B. pendula genome(Salojärvi et al., 2017)]()
+- **Genome:** [B. pendula genome(Salojärvi et al., 2017)]()
 - **Species:** *Betula platyphylla*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

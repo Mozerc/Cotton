@@ -3,14 +3,14 @@ description: Triticum aestivum
 meta_title:
 title: TaSDIR1-4A
 categories: [Triticum aestivum]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba ,stress response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaSDIR1-4A
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,aba,drought tole
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba ,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

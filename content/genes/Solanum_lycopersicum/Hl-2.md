@@ -10,7 +10,7 @@ tags: [ stems ]
 - **Gene ID:**	[Solyc02g068720]()
 - **Gene Symbol:** Hl-2
 - **Gene Name:** hairless-2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stems ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stems
 
 ## Sequences:

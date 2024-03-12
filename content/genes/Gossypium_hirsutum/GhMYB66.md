@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Ghir_D08G018460]()
 - **Gene Symbol:** GhMYB66
 - **Gene Name:** 
-- **Genome Version:** [TM-1 reference genome TM-1]()
+- **Genome:** [TM-1 reference genome TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [XP_016716195](https://www.ncbi.nlm.nih.gov/gene/?term=XP_016716195)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

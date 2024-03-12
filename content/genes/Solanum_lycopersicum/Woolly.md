@@ -10,7 +10,7 @@ tags: [ cuticular wax biosynthesis,wax biosynthesis ]
 - **Gene ID:**	[Solyc02g080260]()
 - **Gene Symbol:** Woolly
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ cuticular wax biosynthesis,wax biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cuticular wax biosynthesis,wax biosynthesis
 
 ## Sequences:

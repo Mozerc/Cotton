@@ -10,7 +10,7 @@ tags: [ architecture,breeding,plant architecture ]
 - **Gene ID:**	[Gh_A11G1857]()
 - **Gene Symbol:** GhCUL1
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ architecture,breeding,plant architecture ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 architecture,breeding,plant architecture
 
 ## Sequences:

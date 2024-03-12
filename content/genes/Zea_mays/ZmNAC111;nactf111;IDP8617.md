@@ -10,7 +10,7 @@ tags: [ drought,drought response ]
 - **Gene ID:**	[Zm00001eb079630]()
 - **Gene Symbol:** ZmNAC111;nactf111;IDP8617
 - **Gene Name:** NAC-transcription factor 111
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ drought,drought response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,drought response
 
 ## Sequences:

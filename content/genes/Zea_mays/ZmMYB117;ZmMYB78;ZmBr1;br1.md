@@ -10,7 +10,7 @@ tags: [ cell wall,cell elongation,cell cycle,internode elongation ]
 - **Gene ID:**	[Zm00001eb041450]()
 - **Gene Symbol:** ZmMYB117;ZmMYB78;ZmBr1;br1
 - **Gene Name:** brachytic1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ cell wall,cell elongation,cell cycle,internode elongation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell wall,cell elongation,cell cycle,internode elongation
 
 ## Sequences:

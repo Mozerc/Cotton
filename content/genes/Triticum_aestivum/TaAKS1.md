@@ -3,14 +3,14 @@ description: TraesCS7A02G435800 ; Triticum aestivum
 meta_title:
 title: TaAKS1
 categories: [Triticum aestivum]
-tags: [ drought,tolerance,aba,drought tolerance,abscisic acid, aba ,aba biosynthesis,abscisic acid biosynthesis ]
+tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,aba biosynthesis,abscisic acid biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G435800]()
 - **Gene Symbol:** TaAKS1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ drought,tolerance,aba,drought tolerance,abscisic acid, aba ,aba biosynth
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,tolerance,aba,drought tolerance,abscisic acid, aba ,aba biosynthesis,abscisic acid biosynthesis
+## Orthologs:
+
+## Keywords:
+drought,tolerance,aba,drought tolerance,abscisic acid,aba biosynthesis,abscisic acid biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

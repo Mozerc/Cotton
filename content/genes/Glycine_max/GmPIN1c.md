@@ -10,7 +10,7 @@ tags: [ leaf,auxin,architecture,transporter,auxin transport,plant architecture,l
 - **Gene ID:**	[Glyma.09G30700]()
 - **Gene Symbol:** GmPIN1c
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ leaf,auxin,architecture,transporter,auxin transport,plant architecture,l
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,auxin,architecture,transporter,auxin transport,plant architecture,leaf angle
 
 ## Sequences:

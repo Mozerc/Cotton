@@ -10,7 +10,7 @@ tags: [ temperature,growth,auxin,resistance,auxin response,auxin biosynthesis,li
 - **Gene ID:**	[]()
 - **Gene Symbol:** McMYB4
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ temperature,growth,auxin,resistance,auxin response,auxin biosynthesis,li
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 temperature,growth,auxin,resistance,auxin response,auxin biosynthesis,lignin,lignin biosynthesis
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ nitrogen,development,fertility,pollen,sterility,seed,pollen development,
 - **Gene ID:**	[Zm00001eb198610]()
 - **Gene Symbol:** Ms44;ZmLTPc1;MFS14
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ nitrogen,development,fertility,pollen,sterility,seed,pollen development,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,development,fertility,pollen,sterility,seed,pollen development,sterile,seed development,male sterility,male fertility,hybrid sterility,pollen fertility
 
 ## Sequences:

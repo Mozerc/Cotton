@@ -10,11 +10,11 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
 - **Gene ID:**	[Zm00001eb176380]()
 - **Gene Symbol:** ZmNC2;hak4
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmNC2**, encoding the HAK family ion transporter ZmHAK4, confers the natural variation of shoot Na+ exclusion and salt tolerance in maize.
+   - **ZmNC2**, encoding the HAK family ion transporter Zm**hak4**, confers the natural variation of shoot Na+ exclusion and salt tolerance in maize.
    - **ZmNC2** is associated with shoot Na+ content under saline conditions in maize.
    - **ZmNC2** encodes a HAK family ion transporter.
 
@@ -28,7 +28,9 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 shoot,salt,tolerance,salt tolerance,transporter
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: Zm00001eb246270 ; Zea mays
 meta_title:
 title: ZmGL8;Glossy 8
 categories: [Zea mays]
-tags: [ ja,jasmonic,jasmonic acid, ja  ]
+tags: [ ja,jasmonic,jasmonic acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb246270]()
 - **Gene Symbol:** ZmGL8;Glossy 8
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ ja,jasmonic,jasmonic acid, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja,jasmonic,jasmonic acid, ja 
+## Orthologs:
+
+## Keywords:
+ja,jasmonic,jasmonic acid
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ breeding,sterile ]
 - **Gene ID:**	[BnaC9.Tic40]()
 - **Gene Symbol:** BnaMs3
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ breeding,sterile ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 breeding,sterile
 
 ## Sequences:

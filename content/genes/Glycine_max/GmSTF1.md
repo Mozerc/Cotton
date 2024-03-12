@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.18G117100]()
 - **Gene Symbol:** GmSTF1
 - **Gene Name:** 
-- **Genome Version:** [Phytozome database (Glycine max Wm82.a2.v1)]()
+- **Genome:** [Phytozome database (Glycine max Wm82.a2.v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

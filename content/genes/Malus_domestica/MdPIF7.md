@@ -10,7 +10,7 @@ tags: [ growth ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdPIF7
 - **Gene Name:** Malus domestica phytochrome interacting factor 7
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ growth ]
 - **NCBI ID:** [XP_008393195.2](https://www.ncbi.nlm.nih.gov/gene/?term=XP_008393195.2)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth
 
 ## Sequences:

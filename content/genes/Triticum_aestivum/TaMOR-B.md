@@ -10,7 +10,7 @@ tags: [ root,grain,auxin,grain yield,yield,root initiation ]
 - **Gene ID:**	[TraesCS4B02G316200]()
 - **Gene Symbol:** TaMOR-B
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ root,grain,auxin,grain yield,yield,root initiation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,grain,auxin,grain yield,yield,root initiation
 
 ## Sequences:

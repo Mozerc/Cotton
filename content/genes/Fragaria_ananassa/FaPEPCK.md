@@ -10,7 +10,7 @@ tags: [ development ]
 - **Gene ID:**	[FxaC_1g21491]()
 - **Gene Symbol:** FaPEPCK
 - **Gene Name:** 
-- **Genome Version:** [FAN (F. x ananassa)]()
+- **Genome:** [FAN (F. x ananassa)]()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ growth,development,cell division,reproductive,homeostasis,embryo,endospe
 - **Gene ID:**	[Zm00001eb076570]()
 - **Gene Symbol:** ZmTFCB;tfcb1
 - **Gene Name:** tubulin-folding cofactor B1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ growth,development,cell division,reproductive,homeostasis,embryo,endospe
 - **NCBI ID:** [100193227](https://www.ncbi.nlm.nih.gov/gene/?term=100193227)
 - **UniProt accessions:** [crumpled kernel  small kernel](https://www.uniprot.org/uniprotkb/crumpled kernel  small kernel/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,cell division,reproductive,homeostasis,embryo,endosperm,reproductive development,reproductive growth,endosperm development,cytosol,embryo development,tubulin
 
 ## Sequences:

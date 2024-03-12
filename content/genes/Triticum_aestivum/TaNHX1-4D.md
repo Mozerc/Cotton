@@ -10,7 +10,7 @@ tags: [ nitrogen,growth,stress,salinity,salt,salt stress,salinity stress ]
 - **Gene ID:**	[TraesCS4D02G147600]()
 - **Gene Symbol:** TaNHX1-4D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ nitrogen,growth,stress,salinity,salt,salt stress,salinity stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,growth,stress,salinity,salt,salt stress,salinity stress
 
 ## Sequences:

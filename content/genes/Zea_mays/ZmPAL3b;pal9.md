@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb247630]()
 - **Gene Symbol:** ZmPAL3b;pal9
 - **Gene Name:** phenylalanine ammonia lyase9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [  ]
    - The ZmPAL3 genes are considered as those preferentially involved in the monolignol pathway. Other ZmPAL genes have been shown in the maize genome since the construction of the used macro-array, of which expression is thus not known, including two genes in close positions to the ZmPAL3a and **ZmPAL3b** genes.
 
 ## Literature:
-   - [NA]( https://www.researchgate.net/publication/321997734_Open_Access_Investigating_the_unusually_high_cell_wall_digestibility_of_the_old_INRA_early_flint_F4_maize_inbred_line)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.02.016](https://www.researchgate.net/publication/321997734_Open_Access_Investigating_the_unusually_high_cell_wall_digestibility_of_the_old_INRA_early_flint_F4_maize_inbred_line)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Open Access Investigating the unusually high cell wall digestibility of the old INRA early flint F4 maize inbred line]( https://www.researchgate.net/publication/321997734_Open_Access_Investigating_the_unusually_high_cell_wall_digestibility_of_the_old_INRA_early_flint_F4_maize_inbred_line)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.02.016](https://www.researchgate.net/publication/321997734_Open_Access_Investigating_the_unusually_high_cell_wall_digestibility_of_the_old_INRA_early_flint_F4_maize_inbred_line)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,7 +27,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

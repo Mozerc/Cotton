@@ -10,7 +10,7 @@ tags: [ leaf,stem,root,shoot,pollen,seedling,embryo,cytosol ]
 - **Gene ID:**	[Zm00001eb399860]()
 - **Gene Symbol:** ZmGS1-5;ZmGLN1.5;gln3
 - **Gene Name:** glutamine synthetase3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,stem,root,shoot,pollen,seedling,embryo,cytosol ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,stem,root,shoot,pollen,seedling,embryo,cytosol
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[Glyma.02G147800.1]()
 - **Gene Symbol:** GmTT8a
 - **Gene Name:** 
-- **Genome Version:** [Glycine max Wm82.a2.v1]()
+- **Genome:** [Glycine max Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [ ](https://www.uniprot.org/uniprotkb/ /entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

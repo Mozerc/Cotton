@@ -10,7 +10,7 @@ tags: [ development,grain,grain size,grain yield,yield,grain weight ]
 - **Gene ID:**	[TraesCS7A02G331100]()
 - **Gene Symbol:** TaIAA21-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,grain,grain size,grain yield,yield,grain weight ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,grain size,grain yield,yield,grain weight
 
 ## Sequences:

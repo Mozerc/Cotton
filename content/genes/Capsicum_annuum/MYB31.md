@@ -10,7 +10,7 @@ tags: [ pericarp ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MYB31
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ pericarp ]
 - **NCBI ID:** [MK074771.1](https://www.ncbi.nlm.nih.gov/gene/?term=MK074771.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 pericarp
 
 ## Sequences:

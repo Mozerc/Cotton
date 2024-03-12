@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,pi, pi  ]
 - **Gene ID:**	[Pavir.5KG053700]()
 - **Gene Symbol:** PvSSG
 - **Gene Name:** 
-- **Genome Version:** [P. virgatum v5.1]()
+- **Genome:** [P. virgatum v5.1]()
 - **Species:** *Panicum virgatum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,leaf senescence,senescence,pi, pi  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,leaf senescence,senescence,pi, pi 
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ leaf,auxin,leaf shape ]
 - **Gene ID:**	[CotAD_08070]()
 - **Gene Symbol:** GhARF16-1
 - **Gene Name:** 
-- **Genome Version:** [ G. hirsutum (AADD genome)]()
+- **Genome:** [ G. hirsutum (AADD genome)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,auxin,leaf shape ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,auxin,leaf shape
 
 ## Sequences:

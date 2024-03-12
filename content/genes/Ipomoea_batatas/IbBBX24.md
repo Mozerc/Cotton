@@ -10,7 +10,7 @@ tags: [ resistance,ja,yield,pathogen,ja biosynthesis, ja ,ja signaling,pathogen 
 - **Gene ID:**	[]()
 - **Gene Symbol:** IbBBX24
 - **Gene Name:** 
-- **Genome Version:** [http://sweetpotato-garden.kazusa.or.jp/]()
+- **Genome:** [http://sweetpotato-garden.kazusa.or.jp/]()
 - **Species:** *Ipomoea batatas*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,ja,yield,pathogen,ja biosynthesis, ja ,ja signaling,pathogen 
 - **NCBI ID:** [MH813941](https://www.ncbi.nlm.nih.gov/gene/?term=MH813941)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance,ja,yield,pathogen,ja biosynthesis, ja ,ja signaling,pathogen resistance
 
 ## Sequences:

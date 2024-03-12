@@ -10,12 +10,12 @@ tags: [ resistance,lodging,lodging resistance,lignin,lignin biosynthesis ]
 - **Gene ID:**	[Zm00001eb148240]()
 - **Gene Symbol:** ZmLAC5;ZmLac6;ZmLAC8;lac5
 - **Gene Name:** laccase5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - By regulating the expression of ZmLAC3 and **ZmLAC5**, ZmmiR528 affects maize lodging resistance under N-luxury conditions.
-   - ZmLAC3 and **ZmLAC5** mRNA, affects maize lignin biosynthesis and lodging resistance under N-luxury conditions.
+   - By regulating the expression of ZmLAC3 and **Zm**lac5****, ZmmiR528 affects maize lodging resistance under N-luxury conditions.
+   - ZmLAC3 and **Zm**lac5**** mRNA, affects maize lignin biosynthesis and lodging resistance under N-luxury conditions.
 
 ## Literature:
    - [MicroRNA528 Affects Lodging Resistance of Maize by Regulating Lignin Biosynthesis under Nitrogen-Luxury Conditions.]( https://www.sciencedirect.com/science/article/pii/S167420521830100X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2018.03.013](https://www.sciencedirect.com/science/article/pii/S167420521830100X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29597009](https://pubmed.ncbi.nlm.nih.gov/29597009/)
@@ -27,7 +27,9 @@ tags: [ resistance,lodging,lodging resistance,lignin,lignin biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,lodging,lodging resistance,lignin,lignin biosynthesis
 
 ## Sequences:

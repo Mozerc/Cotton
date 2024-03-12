@@ -10,7 +10,7 @@ tags: [ jasmonate,defense,salicylic acid,wounding,methyl jasmonate ]
 - **Gene ID:**	[Zm00001eb332550]()
 - **Gene Symbol:** Zmcyc5;cyc5;cycZme1
 - **Gene Name:** cyclin5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ jasmonate,defense,salicylic acid,wounding,methyl jasmonate ]
    - Zmcyc1 and **Zm**cyc5**** encoding PR proteins could also play defense roles in the maize defense systems against fungi.
 
 ## Literature:
-   - [NA]( https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11738-017-2425-6](https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Induction of two cyclotide-like genes Zmcyc1 and Zmcyc5 by abiotic and biotic stresses in Zea mays]( https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11738-017-2425-6](https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,7 +27,9 @@ tags: [ jasmonate,defense,salicylic acid,wounding,methyl jasmonate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 jasmonate,defense,salicylic acid,wounding,methyl jasmonate
 
 ## Sequences:

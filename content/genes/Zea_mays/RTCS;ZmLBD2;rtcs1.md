@@ -10,7 +10,7 @@ tags: [ root,shoot,auxin,root initiation,auxin response ]
 - **Gene ID:**	[Zm00001eb003920]()
 - **Gene Symbol:** RTCS;ZmLBD2;rtcs1
 - **Gene Name:** rootless concerning crown and seminal roots1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ root,shoot,auxin,root initiation,auxin response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,shoot,auxin,root initiation,auxin response
 
 ## Sequences:

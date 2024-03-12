@@ -10,7 +10,7 @@ tags: [ seed,yield,architecture,plant architecture,flowering ]
 - **Gene ID:**	[BnaA03G0552500ZS]()
 - **Gene Symbol:** BnaA03.FD
 - **Gene Name:** 
-- **Genome Version:** [ZS11 reference genome]()
+- **Genome:** [ZS11 reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,yield,architecture,plant architecture,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,yield,architecture,plant architecture,flowering
 
 ## Sequences:

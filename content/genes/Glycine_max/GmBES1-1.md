@@ -3,14 +3,14 @@ description: Glyma.17g248900 ; Glycine max
 meta_title:
 title: GmBES1-1
 categories: [Glycine max]
-tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling, br  ]
+tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.17g248900]()
 - **Gene Symbol:** GmBES1-1
 - **Gene Name:** 
-- **Genome Version:** [G. max reference genome SoyBase (https://soybase.org) ]()
+- **Genome:** [G. max reference genome SoyBase]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling, br  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-brassinosteroid,br,br signaling,brassinosteroid signaling, br 
+## Orthologs:
+
+## Keywords:
+brassinosteroid,br,br signaling,brassinosteroid signaling
 
 ## Sequences:
 - **CDS Sequence:**

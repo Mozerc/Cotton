@@ -10,7 +10,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotoleran
 - **Gene ID:**	[Zm00001eb297110]()
 - **Gene Symbol:** ZmMPK20;mpk13
 - **Gene Name:** MITOGEN-ACTIVATED PROTEIN KINASE 20
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotoleran
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotolerance
 
 ## Sequences:

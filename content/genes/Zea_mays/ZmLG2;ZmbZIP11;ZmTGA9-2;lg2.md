@@ -10,12 +10,12 @@ tags: [ leaf,stem,shoot,vegetative,reproductive,leaf angle ]
 - **Gene ID:**	[Zm00001eb147220]()
 - **Gene Symbol:** ZmLG2;ZmbZIP11;ZmTGA9-2;lg2
 - **Gene Name:** liguleless2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - ZmLG1 and **ZmLG2** could provide genetic clues to optimize leaf angle for dense plantings.
-   - Allowing the leaf blade to project away from the stem. Two classical genes, ZmLG1, a Squamosa Promoter Binding Protein domain-containing TF, and **ZmLG2** (Liguleless2) **ZmLG2**, a basic leucine zipper TF family member.
+   - ZmLG1 and **Zm**lg2**** could provide genetic clues to optimize leaf angle for dense plantings.
+   - Allowing the leaf blade to project away from the stem. Two classical genes, ZmLG1, a Squamosa Promoter Binding Protein domain-containing TF, and **Zm**lg2**** (Liguleless2) **Zm**lg2****, a basic leucine zipper TF family member.
    - The liguleless2 gene of maize functions during the transition from the vegetative to the reproductive shoot apex
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ leaf,stem,shoot,vegetative,reproductive,leaf angle ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,stem,shoot,vegetative,reproductive,leaf angle
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[TraesCS5D02G111300]()
 - **Gene Symbol:** TaNACL-D1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ resistance ]
 - **NCBI ID:** [MG701911](https://www.ncbi.nlm.nih.gov/gene/?term=MG701911)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

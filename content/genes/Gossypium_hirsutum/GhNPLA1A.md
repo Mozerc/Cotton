@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[GH_A05G4329]()
 - **Gene Symbol:** GhNPLA1A
 - **Gene Name:** 
-- **Genome Version:** [TM-1 reference genome]()
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

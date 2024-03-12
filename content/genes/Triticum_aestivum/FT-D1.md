@@ -10,7 +10,7 @@ tags: [ phloem,flowering,vernalization ]
 - **Gene ID:**	[TraesCS7D02G111600]()
 - **Gene Symbol:** FT-D1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ phloem,flowering,vernalization ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 phloem,flowering,vernalization
 
 ## Sequences:

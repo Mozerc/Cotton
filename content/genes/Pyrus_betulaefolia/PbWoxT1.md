@@ -26,7 +26,10 @@ tags: [ phloem ]
 - **NCBI ID:** [KT998806](https://www.ncbi.nlm.nih.gov/gene/?term=KT998806)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 phloem
 
 ## Sequences:

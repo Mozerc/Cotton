@@ -10,7 +10,7 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
 - **Gene ID:**	[Zm00001eb066570]()
 - **Gene Symbol:** ZmRR1;ZmOrphan186;ZmCip1;crr1
 - **Gene Name:** cytokinin response regulator1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
 - **NCBI ID:** [LOC541613](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541613)
 - **UniProt accessions:** [Q9ZQW0](https://www.uniprot.org/uniprotkb/Q9ZQW0/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance
 
 ## Sequences:

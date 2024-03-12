@@ -3,19 +3,19 @@ description: TraesCS2A02G116900 ; Triticum aestivum
 meta_title:
 title: WFZP-A
 categories: [Triticum aestivum]
-tags: [ spikelet,awn, awn  ]
+tags: [ spikelet,awn ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G116900]()
 - **Gene Symbol:** WFZP-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
    - **WFZP-A**/D were critically required for not only the repression of spikelet formation, but also for the promotion of awn elongation, in a dose-dependent manner.
-   -  wfzp-a/d mutants highlighted the essential role of WFZP in awn elongation
+   -  **WFZP-A**/d mutants highlighted the essential role of WFZP in awn elongation
 
 ## Literature:
    - [FRIZZY PANICLE defines a regulatory hub for simultaneously controlling spikelet formation and awn elongation in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17388](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33837555](https://pubmed.ncbi.nlm.nih.gov/33837555/)
@@ -29,8 +29,10 @@ tags: [ spikelet,awn, awn  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-spikelet,awn, awn 
+## Orthologs:
+
+## Keywords:
+spikelet,awn
 
 ## Sequences:
 - **CDS Sequence:**

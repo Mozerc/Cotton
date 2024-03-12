@@ -10,7 +10,7 @@ tags: [ development,seed,cell wall,seed development,cell wall synthesis ]
 - **Gene ID:**	[Zm00001eb285570]()
 - **Gene Symbol:** Mn6;gpm882
 - **Gene Name:** miniature seed6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,seed,cell wall,seed development,cell wall synthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,cell wall,seed development,cell wall synthesis
 
 ## Sequences:

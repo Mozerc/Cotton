@@ -10,7 +10,7 @@ tags: [ salt,tolerance,ethylene,salt tolerance ]
 - **Gene ID:**	[Pavir.J03475]()
 - **Gene Symbol:** PvPCF5a
 - **Gene Name:** 
-- **Genome Version:** [Panicum virgatum v4.1]()
+- **Genome:** [Panicum virgatum v4.1]()
 - **Species:** *Panicum virgatum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ salt,tolerance,ethylene,salt tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 salt,tolerance,ethylene,salt tolerance
 
 ## Sequences:

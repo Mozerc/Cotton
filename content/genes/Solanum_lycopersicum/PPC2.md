@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Solyc07g062530]()
 - **Gene Symbol:** PPC2
 - **Gene Name:** PHOSPHOENOLPYRUVATE CARBOXYLASE 2
-- **Genome Version:** [Tomato Genome version SL4.0]()
+- **Genome:** [Tomato Genome version SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

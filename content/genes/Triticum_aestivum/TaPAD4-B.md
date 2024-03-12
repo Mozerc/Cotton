@@ -3,14 +3,14 @@ description: TraesCS4B02G100100 ; Triticum aestivum
 meta_title:
 title: TaPAD4-B
 categories: [Triticum aestivum]
-tags: [ resistance,sa, sa ,acetyltransferase ]
+tags: [ resistance,sa,acetyltransferase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G100100]()
 - **Gene Symbol:** TaPAD4-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ resistance,sa, sa ,acetyltransferase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,sa, sa ,acetyltransferase
+## Orthologs:
+
+## Keywords:
+resistance,sa,acetyltransferase
 
 ## Sequences:
 - **CDS Sequence:**

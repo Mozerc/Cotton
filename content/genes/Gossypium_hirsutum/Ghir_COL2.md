@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Ghir_D03G011010.1]()
 - **Gene Symbol:** Ghir_COL2
 - **Gene Name:** CONSTANS-like 2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

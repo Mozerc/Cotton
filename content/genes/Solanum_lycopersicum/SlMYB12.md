@@ -10,7 +10,7 @@ tags: [ flavonoid,protoplasts,flavonoid biosynthesis ]
 - **Gene ID:**	[Solyc10g019260]()
 - **Gene Symbol:** SlMYB12
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ flavonoid,protoplasts,flavonoid biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flavonoid,protoplasts,flavonoid biosynthesis
 
 ## Sequences:

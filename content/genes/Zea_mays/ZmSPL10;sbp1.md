@@ -10,7 +10,7 @@ tags: [ leaf,auxin ]
 - **Gene ID:**	[Zm00001eb233670]()
 - **Gene Symbol:** ZmSPL10;sbp1
 - **Gene Name:** SBP-domain protein1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,auxin ]
 - **NCBI ID:** [LOC100127016](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127016)
 - **UniProt accessions:** [B6TPH6](https://www.uniprot.org/uniprotkb/B6TPH6/entry)&nbsp;,&nbsp;[A0A1D6H271](https://www.uniprot.org/uniprotkb/A0A1D6H271/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,auxin
 
 ## Sequences:

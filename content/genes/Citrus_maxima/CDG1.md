@@ -10,7 +10,7 @@ tags: [ leaf,chloroplast,development,leaf development,chloroplast development ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CDG1
 - **Gene Name:** Citrus Delayed Greening gene 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Citrus maxima*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,chloroplast,development,leaf development,chloroplast development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 leaf,chloroplast,development,leaf development,chloroplast development
 
 ## Sequences:

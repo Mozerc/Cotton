@@ -10,7 +10,7 @@ tags: [ senescence,nitrate ]
 - **Gene ID:**	[Lj2g3v1058050.1]()
 - **Gene Symbol:** LjNAC094
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Lotus japonicus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ senescence,nitrate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 senescence,nitrate
 
 ## Sequences:

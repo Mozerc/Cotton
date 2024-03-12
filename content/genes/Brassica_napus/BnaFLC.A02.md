@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BnaA02g00370d]()
 - **Gene Symbol:** BnaFLC.A02
 - **Gene Name:** FLOWERING LOCUS C
-- **Genome Version:** [Darmor-bzh reference genome]()
+- **Genome:** [Darmor-bzh reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

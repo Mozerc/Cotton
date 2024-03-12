@@ -10,11 +10,11 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb094350]()
 - **Gene Symbol:** ZmTon1b;ton1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmTon1b** conserved interactions with kw7 regulates maize organ shape.
+   - **Zm**ton1**b** conserved interactions with kw7 regulates maize organ shape.
 
 ## Literature:
    - [cis-Regulatory variation affecting gene expression contributes to the improvement of maize kernel size.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15910)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15910](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15910)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35860955](https://pubmed.ncbi.nlm.nih.gov/35860955/)
@@ -25,7 +25,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

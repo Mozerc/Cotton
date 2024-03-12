@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma17g05200]()
 - **Gene Symbol:** KASIIa
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm1.ann1]()
+- **Genome:** [glyma.Wm82.gnm1.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -18,7 +18,7 @@ tags: [  ]
    - In particular, the intermediate levels of palmitic acid produced in the seeds of the **KASIIa**A469T mutant provide a resource to fine-tune oil content in a way that was not previously available to breeders and geneticists.
 
 ## Literature:
-   - [NA]( https://link.springer.com/article/10.1007/s11032-012-9707-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-012-9707-x](https://link.springer.com/article/10.1007/s11032-012-9707-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Mutations in the soybean 3-ketoacyl-ACP synthase gene are correlated with high levels of seed palmitic acid ]( https://link.springer.com/article/10.1007/s11032-012-9707-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-012-9707-x](https://link.springer.com/article/10.1007/s11032-012-9707-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

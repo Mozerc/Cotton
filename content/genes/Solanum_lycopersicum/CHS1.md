@@ -10,7 +10,7 @@ tags: [ development ]
 - **Gene ID:**	[Solyc09g091510]()
 - **Gene Symbol:** CHS1
 - **Gene Name:** 
-- **Genome Version:** [public tomato genome v.2.50]()
+- **Genome:** [public tomato genome v.2.50]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development
 
 ## Sequences:

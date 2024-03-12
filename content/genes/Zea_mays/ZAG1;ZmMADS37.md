@@ -10,7 +10,7 @@ tags: [ floral,stamen ]
 - **Gene ID:**	[Zm00001eb284010]()
 - **Gene Symbol:** ZAG1;ZmMADS37
 - **Gene Name:** Zea AGAMOUS homolog1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ floral,stamen ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 floral,stamen
 
 ## Sequences:

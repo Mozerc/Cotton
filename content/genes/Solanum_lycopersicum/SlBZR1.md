@@ -3,14 +3,14 @@ description: Solyc12g089040 ; Solanum lycopersicum
 meta_title:
 title: SlBZR1
 categories: [Solanum lycopersicum]
-tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling, br  ]
+tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc12g089040]()
 - **Gene Symbol:** SlBZR1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling, br  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-brassinosteroid,br,br signaling,brassinosteroid signaling, br 
+## Orthologs:
+
+## Keywords:
+brassinosteroid,br,br signaling,brassinosteroid signaling
 
 ## Sequences:
 - **CDS Sequence:**

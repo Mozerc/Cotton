@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[CSS0034454]()
 - **Gene Symbol:** CsGDH2.1
 - **Gene Name:** glutamate dehydrolase 2
-- **Genome Version:** [tea genome database TPIA (tpia.teaplant.org)]()
+- **Genome:** [tea genome database TPIA (tpia.teaplant.org)]()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

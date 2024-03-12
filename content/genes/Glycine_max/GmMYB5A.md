@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.14G154400]()
 - **Gene Symbol:** GmMYB5A
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [  ]
 - **NCBI ID:** [NM_001254563.1](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001254563.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

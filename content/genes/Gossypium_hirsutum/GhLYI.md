@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence ]
 - **Gene ID:**	[Gh_D08G0312]()
 - **Gene Symbol:** GhLYI
 - **Gene Name:** LINT YIELD INCREASING
-- **Genome Version:** [eference genome of G. hirsutum (TM-1_V2.1)]()
+- **Genome:** [eference genome of G. hirsutum (TM-1_V2.1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,leaf senescence,senescence ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,leaf senescence,senescence
 
 ## Sequences:

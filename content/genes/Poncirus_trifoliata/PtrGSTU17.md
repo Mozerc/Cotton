@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,ethylene,cold,homeostasis,ethylene homeostasis 
 - **Gene ID:**	[Pt4g003440]()
 - **Gene Symbol:** PtrGSTU17
 - **Gene Name:** glutathione S-transferase U17
-- **Genome Version:** [P. trifoliata genome]()
+- **Genome:** [P. trifoliata genome]()
 - **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance,cold tolerance,ethylene,cold,homeostasis,ethylene homeostasis 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,cold tolerance,ethylene,cold,homeostasis,ethylene homeostasis
 
 ## Sequences:

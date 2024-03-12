@@ -10,7 +10,7 @@ tags: [ growth,development,auxin,mitochondria,inflorescence,inflorescence develo
 - **Gene ID:**	[Zm00001eb351270]()
 - **Gene Symbol:** ZmNDL1
 - **Gene Name:** NEEDLE1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ growth,development,auxin,mitochondria,inflorescence,inflorescence develo
 - **NCBI ID:** [MK674049](https://www.ncbi.nlm.nih.gov/gene/?term=MK674049)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,auxin,mitochondria,inflorescence,inflorescence development
 
 ## Sequences:

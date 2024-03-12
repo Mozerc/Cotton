@@ -26,7 +26,10 @@ tags: [ flower,quality ]
 - **NCBI ID:** [L21976.2](https://www.ncbi.nlm.nih.gov/gene/?term=L21976.2)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 flower,quality
 
 ## Sequences:

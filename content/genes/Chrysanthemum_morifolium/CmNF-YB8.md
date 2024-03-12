@@ -10,7 +10,7 @@ tags: [ leaf,resistance,drought,stomatal,cuticle,drought resistance,epidermis ]
 - **Gene ID:**	[UN088090]()
 - **Gene Symbol:** CmNF-YB8
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,resistance,drought,stomatal,cuticle,drought resistance,epidermis ]
 - **NCBI ID:** [UN69086](https://www.ncbi.nlm.nih.gov/gene/?term=UN69086)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,resistance,drought,stomatal,cuticle,drought resistance,epidermis
 
 ## Sequences:

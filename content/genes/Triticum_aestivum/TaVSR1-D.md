@@ -10,7 +10,7 @@ tags: [ root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stre
 - **Gene ID:**	[TraesCS2D02G105100]()
 - **Gene Symbol:** TaVSR1-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stre
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stress tolerance,architecture,root growth,grain growth,root architecture
 
 ## Sequences:

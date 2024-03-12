@@ -10,11 +10,11 @@ tags: [ flowering ]
 - **Gene ID:**	[TraesCS5A02G308400]()
 - **Gene Symbol:** TaRF2b
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
-   - The tarf2b mutants exhibited delayed flowering, whereas transgenic wheat lines overexpressing **TaRF2b** showed earlier flowering
+   - The **TaRF2b** mutants exhibited delayed flowering, whereas transgenic wheat lines overexpressing **TaRF2b** showed earlier flowering
    - **TaRF2b** accelerates winter wheat flowering by regulating the expression of TaVRN1.
 
 ## Literature:
@@ -26,7 +26,9 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering
 
 ## Sequences:

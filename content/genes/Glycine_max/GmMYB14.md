@@ -10,7 +10,7 @@ tags: [ brassinosteroid,drought,tolerance,yield,drought tolerance,architecture,p
 - **Gene ID:**	[Glyma.19g164600]()
 - **Gene Symbol:** GmMYB14
 - **Gene Name:** 
-- **Genome Version:** [reference genome Wm82.a2.v1]()
+- **Genome:** [reference genome Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ brassinosteroid,drought,tolerance,yield,drought tolerance,architecture,p
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 brassinosteroid,drought,tolerance,yield,drought tolerance,architecture,plant architecture
 
 ## Sequences:

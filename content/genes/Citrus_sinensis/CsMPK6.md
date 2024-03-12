@@ -10,7 +10,7 @@ tags: [ jasmonate,jasmonate response ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsMPK6
 - **Gene Name:** 
-- **Genome Version:** [Citrus sinensis cv. Valencia, v2.0 (HZAU)]()
+- **Genome:** [Citrus sinensis cv. Valencia, v2.0 (HZAU)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ jasmonate,jasmonate response ]
 - **NCBI ID:** [Ciclev10020481m](https://www.ncbi.nlm.nih.gov/gene/?term=Ciclev10020481m)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 jasmonate,jasmonate response
 
 ## Sequences:

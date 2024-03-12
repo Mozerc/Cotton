@@ -10,7 +10,7 @@ tags: [ resistance,viral resistance ]
 - **Gene ID:**	[glyma.08g083300]()
 - **Gene Symbol:** GmFLS2a
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ resistance,viral resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,viral resistance
 
 ## Sequences:

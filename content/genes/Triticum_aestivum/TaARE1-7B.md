@@ -1,22 +1,21 @@
 ---
-description: TaARE1-7B ; Triticum aestivum
+description: TraesCS7B02G196800 ; Triticum aestivum
 meta_title:
-title: TraesCS7B02G196800
+title: TaARE1-7B
 categories: [Triticum aestivum]
-tags: [ nitrogen,nitrogen utilization,nitrate,n utilization ]
+tags: [ nitrate ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TaARE1-7B]()
-- **Gene Symbol:** TraesCS7B02G196800
+- **Gene ID:**	[TraesCS7B02G196800]()
+- **Gene Symbol:** TaARE1-7B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
-   - expression indicated that knock-out of TaARE1 homoeologs could stimulate nitrate transport rather than ammonium transport upon N deprivation.
-   - three TaARE1 homoeologs resulted in more active nitrate transport than ammonium transport upon N deprivation, and the different TaARE1 homoeologs have diverged in this function
-   - nitrogen utilization
+   - Expression indicated that knock-out of TaARE1 homoeologs could stimulate nitrate transport rather than ammonium transport upon N deprivation.
+   - Three TaARE1 homoeologs resulted in more active nitrate transport than ammonium transport upon N deprivation, and the different TaARE1 homoeologs have diverged in this function
 
 ## Literature:
    - [Increasing yield potential through manipulating of an ARE1 ortholog related to nitrogen use efficiency in wheat by CRISPR/Cas9.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13151)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13151](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13151)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270164](https://pubmed.ncbi.nlm.nih.gov/34270164/)
@@ -27,8 +26,10 @@ tags: [ nitrogen,nitrogen utilization,nitrate,n utilization ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-nitrogen,nitrogen utilization,nitrate,n utilization
+## Orthologs:
+
+## Keywords:
+nitrate
 
 ## Sequences:
 - **CDS Sequence:**

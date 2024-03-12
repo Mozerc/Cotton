@@ -10,7 +10,7 @@ tags: [ branching ]
 - **Gene ID:**	[Glyma.18G273600]()
 - **Gene Symbol:** GmDT2
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Genome:** [glyma.Wm82.gnm4.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ branching ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 branching
 
 ## Sequences:

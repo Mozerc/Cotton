@@ -10,7 +10,7 @@ tags: [ stem,growth ]
 - **Gene ID:**	[Ptom.001G.02866]()
 - **Gene Symbol:** PtoP4H9
 - **Gene Name:** 
-- **Genome Version:** [P. tomentosa genome]()
+- **Genome:** [P. tomentosa genome]()
 - **Species:** *Populus tomentosa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stem,growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stem,growth
 
 ## Sequences:

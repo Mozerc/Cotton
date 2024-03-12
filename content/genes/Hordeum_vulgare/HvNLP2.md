@@ -10,7 +10,7 @@ tags: [ seed,yield,biomass,nitrate ]
 - **Gene ID:**	[Hv2055A04]()
 - **Gene Symbol:** HvNLP2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ seed,yield,biomass,nitrate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 seed,yield,biomass,nitrate
 
 ## Sequences:

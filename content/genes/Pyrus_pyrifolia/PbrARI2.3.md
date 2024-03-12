@@ -10,7 +10,7 @@ tags: [ growth,pollen ]
 - **Gene ID:**	[Pbr020065.1]()
 - **Gene Symbol:** PbrARI2.3
 - **Gene Name:** 
-- **Genome Version:** [Pear Genome Project database (http://dx.doi.org/10.5524/100083)]()
+- **Genome:** [Pear Genome Project database (http://dx.doi.org/10.5524/100083)]()
 - **Species:** *Pyrus pyrifolia*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,pollen ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,pollen
 
 ## Sequences:

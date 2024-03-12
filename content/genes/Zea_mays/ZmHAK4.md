@@ -10,7 +10,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
 - **Gene ID:**	[Zm00001d049987]()
 - **Gene Symbol:** ZmHAK4
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 shoot,salt,tolerance,salt tolerance,transporter
 
 ## Sequences:

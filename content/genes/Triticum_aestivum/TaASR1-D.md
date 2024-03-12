@@ -3,14 +3,14 @@ description: TraesCS4D02G109500.1 ; Triticum aestivum
 meta_title:
 title: TaASR1-D
 categories: [Triticum aestivum]
-tags: [ resistance,stress,abiotic stress,aba, aba  ]
+tags: [ resistance,stress,abiotic stress,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G109500.1]()
 - **Gene Symbol:** TaASR1-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ resistance,stress,abiotic stress,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,stress,abiotic stress,aba, aba 
+## Orthologs:
+
+## Keywords:
+resistance,stress,abiotic stress,aba
 
 ## Sequences:
 - **CDS Sequence:**

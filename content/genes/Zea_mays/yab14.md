@@ -1,16 +1,16 @@
 ---
 description: GRMZM2G005353 ; Zea mays
 meta_title:
-title: yab14
+title: Yab14
 categories: [Zea mays]
 tags: [ leaf,development,leaf development,leaf size ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G005353]()
-- **Gene Symbol:** yab14
+- **Gene Symbol:** Yab14
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,development,leaf development,leaf size ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,development,leaf development,leaf size
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
 - **Gene ID:**	[Zm00001eb280950]()
 - **Gene Symbol:** ZmCGT1;cgt2
 - **Gene Name:** C-glucosyl transferase2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
 - **NCBI ID:** [100282556](https://www.ncbi.nlm.nih.gov/gene/?term=100282556)
 - **UniProt accessions:** [K7V1F2](https://www.uniprot.org/uniprotkb/K7V1F2/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 quality,nutritional quality,glycosyltransferase,flavone
 
 ## Sequences:

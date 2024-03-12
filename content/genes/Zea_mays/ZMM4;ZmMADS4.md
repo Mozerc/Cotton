@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb057540]()
 - **Gene Symbol:** ZMM4;ZmMADS4
 - **Gene Name:** Zea mays MADS-box gene 4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC542041](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542041)
 - **UniProt accessions:** [Q84V71](https://www.uniprot.org/uniprotkb/Q84V71/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

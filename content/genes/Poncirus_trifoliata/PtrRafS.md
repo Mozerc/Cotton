@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[Cs9g12460]()
 - **Gene Symbol:** PtrRafS
 - **Gene Name:** 
-- **Genome Version:** [sweet orange (C. sinensis) genome (http://citrus.hzau.edu.cn/orange/index.php)]()
+- **Genome:** [sweet orange (C. sinensis) genome (http://citrus.hzau.edu.cn/orange/index.php)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

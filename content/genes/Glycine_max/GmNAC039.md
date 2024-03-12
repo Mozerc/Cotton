@@ -10,7 +10,7 @@ tags: [ senescence ]
 - **Gene ID:**	[Glyma.06G157400]()
 - **Gene Symbol:** GmNAC039
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ senescence ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 senescence
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: TUB-transcription factor 6 ; Zm00001eb188370 ; Zea mays
 meta_title:
 title: ZmTLP9;tubtf6
 categories: [Zea mays]
-tags: [ leaf,stress,aba, aba  ]
+tags: [ leaf,stress,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb188370]()
 - **Gene Symbol:** ZmTLP9;tubtf6
 - **Gene Name:** TUB-transcription factor 6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ leaf,stress,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,stress,aba, aba 
+## Orthologs:
+
+## Keywords:
+leaf,stress,aba
 
 ## Sequences:
 - **CDS Sequence:**

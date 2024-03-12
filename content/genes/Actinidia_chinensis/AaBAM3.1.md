@@ -10,7 +10,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** AaBAM3.1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Actinidia arguta*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 - **NCBI ID:** [MT263012](https://www.ncbi.nlm.nih.gov/gene/?term=MT263012)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance
 
 ## Sequences:

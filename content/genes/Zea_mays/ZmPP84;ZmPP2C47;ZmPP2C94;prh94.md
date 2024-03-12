@@ -3,14 +3,14 @@ description: protein phosphatase homolog94 ; Zm00001eb232360 ; Zea mays
 meta_title:
 title: ZmPP84;ZmPP2C47
 categories: [Zea mays]
-tags: [ kinase,resistance,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance,stomatal,abscisic acid,signal transduction, aba ,drought resistance,stress response,drought stress response,drought response ]
+tags: [ kinase,resistance,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stomatal,abscisic acid,signal transduction,drought resistance,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb232360]()
 - **Gene Symbol:** ZmPP84;ZmPP2C47;ZmPP2C94;prh94
 - **Gene Name:** protein phosphatase homolog94
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ kinase,resistance,drought,stress,drought stress,drought stress ,toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-kinase,resistance,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance,stomatal,abscisic acid,signal transduction, aba ,drought resistance,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+kinase,resistance,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stomatal,abscisic acid,signal transduction,drought resistance,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

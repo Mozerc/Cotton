@@ -10,7 +10,7 @@ tags: [ melatonin,methyltransferase ]
 - **Gene ID:**	[Manes.13G140900]()
 - **Gene Symbol:** MeASMT1
 - **Gene Name:** N-aceylserotonin O-methyltransferase 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ melatonin,methyltransferase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 melatonin,methyltransferase
 
 ## Sequences:

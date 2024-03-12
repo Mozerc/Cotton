@@ -10,7 +10,7 @@ tags: [ meiotic,meiotic recombination,recombination ]
 - **Gene ID:**	[Zm00001eb133210]()
 - **Gene Symbol:** ZmFIGL1
 - **Gene Name:** AAA-ATPase FIDGETIN-LIKE-1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ meiotic,meiotic recombination,recombination ]
 - **NCBI ID:** [LOC100193153](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193153)
 - **UniProt accessions:** [A0A1D6MTY5](https://www.uniprot.org/uniprotkb/A0A1D6MTY5/entry)&nbsp;,&nbsp;[A0A1D6MTZ1](https://www.uniprot.org/uniprotkb/A0A1D6MTZ1/entry)&nbsp;,&nbsp;[A0A1D6MU11](https://www.uniprot.org/uniprotkb/A0A1D6MU11/entry)&nbsp;,&nbsp;[B4FE01](https://www.uniprot.org/uniprotkb/B4FE01/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 meiotic,meiotic recombination,recombination
 
 ## Sequences:

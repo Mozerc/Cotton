@@ -10,7 +10,7 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
 - **Gene ID:**	[Zm00001eb000690]()
 - **Gene Symbol:** ZmHB58;RLD2
 - **Gene Name:** rolled leaf2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
 - **NCBI ID:** [LOC100037826](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037826)
 - **UniProt accessions:** [C0PDB8](https://www.uniprot.org/uniprotkb/C0PDB8/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,development,auxin,root development,root growth,branching,vascular development,phytohormone
 
 ## Sequences:

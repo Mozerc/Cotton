@@ -10,7 +10,7 @@ tags: [ transcription factor ]
 - **Gene ID:**	[Glyma.02G005700]()
 - **Gene Symbol:** GmCRY2b
 - **Gene Name:** 
-- **Genome Version:** [Phytozome database (Glycine max Wm82.a2.v1)]()
+- **Genome:** [Phytozome database (Glycine max Wm82.a2.v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor
 
 ## Sequences:

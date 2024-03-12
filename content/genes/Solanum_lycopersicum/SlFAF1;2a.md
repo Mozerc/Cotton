@@ -10,12 +10,12 @@ tags: [ floral,flowering time,flowering ]
 - **Gene ID:**	[Solyc06g084280]()
 - **Gene Symbol:** SlFAF1;2a
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - **SlFAF1**/**2a** is mainly expressed during floral transition phases.
-   - **SlFAF1**/**2a** positively regulates tomato flowering time.
+   - **SlFAF1**/2a is mainly expressed during floral transition phases.
+   - **SlFAF1**/2a positively regulates tomato flowering time.
 
 ## Literature:
    - [CRISPR/Cas9-mediated mutations of FANTASTIC FOUR gene family for creating early flowering mutants in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14223](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37942846](https://pubmed.ncbi.nlm.nih.gov/37942846/)
@@ -27,7 +27,9 @@ tags: [ floral,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 floral,flowering time,flowering
 
 ## Sequences:

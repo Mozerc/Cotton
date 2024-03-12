@@ -10,7 +10,7 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase ]
 - **Gene ID:**	[MD05G1189400]()
 - **Gene Symbol:** MdPHR1
 - **Gene Name:** 
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription regulator,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

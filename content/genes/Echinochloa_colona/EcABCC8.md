@@ -10,7 +10,7 @@ tags: [ transporter,plasma membrane ]
 - **Gene ID:**	[EC_v4.g098055]()
 - **Gene Symbol:** EcABCC8
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Echinochloa colona*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transporter,plasma membrane ]
 - **NCBI ID:** [MT249005](https://www.ncbi.nlm.nih.gov/gene/?term=MT249005)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 transporter,plasma membrane
 
 ## Sequences:

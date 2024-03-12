@@ -10,12 +10,12 @@ tags: [ pollen,sterility,sterile,tapetal,male sterility ]
 - **Gene ID:**	[GRMZM2G119265]()
 - **Gene Symbol:** MS8
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **MS8** a gene involves in male sterility and pollen dispersal.
-   - Male sterile 8 (Ms8) gene causes male sterility with multiple phenotypic defects first visible in the epidermal and tapetal cells.
+   - Male sterile 8 (**MS8**) gene causes male sterility with multiple phenotypic defects first visible in the epidermal and tapetal cells.
    - **MS8** might be involved in maintenance of mitochondrial integrity.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ pollen,sterility,sterile,tapetal,male sterility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 pollen,sterility,sterile,tapetal,male sterility
 
 ## Sequences:

@@ -10,12 +10,12 @@ tags: [ nitrogen,nitrate ]
 - **Gene ID:**	[Zm00001eb246140]()
 - **Gene Symbol:** ZmNRT3.1A;npf5
 - **Gene Name:** nitrate transporter/peptide transporter family5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - The expression patterns of six key NRTs genes (NPF6.6, NPF6.8, NRT2.1, NRT2.5 and NRT3.1A/B) varied in response to alterations in nitrogen levels.
-   - **ZmNRT3.1A**, ZmNPF4.1, and ZmNPF5.18—all of which showed high expression levels primarily in roots.
+   - **ZmNRT3.1A**, ZmNPF4.1, and Zm**npf5**.18—all of which showed high expression levels primarily in roots.
    - ZmNRT2.1, ZmNRT2.2, and **ZmNRT3.1A** displayed high expression levels in the roots and showed a considerable response to nitrate levels.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ nitrogen,nitrate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,nitrate
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: TraesCS5A02G543100 ; Triticum aestivum
 meta_title:
 title: Rht12
 categories: [Triticum aestivum]
-tags: [ stem,ga, ga ,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation ]
+tags: [ stem,ga,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G543100]()
 - **Gene Symbol:** Rht12
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ stem,ga, ga ,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stem,ga, ga ,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation
+## Orthologs:
+
+## Keywords:
+stem,ga,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation
 
 ## Sequences:
 - **CDS Sequence:**

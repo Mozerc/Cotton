@@ -3,18 +3,18 @@ description: TraesCS6B02G013100 ; Triticum aestivum
 meta_title:
 title: TN1
 categories: [Triticum aestivum]
-tags: [ tillering,aba, aba  ]
+tags: [ tillering,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G013100]()
 - **Gene Symbol:** TN1
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
-   - Demonstrating that the TraesCS6B02G013100 gene can rescue the low-tillering phenotype of the tn1 mutant
+   - Demonstrating that the TraesCS6B02G013100 gene can rescue the low-tillering phenotype of the **TN1** mutant
    - these results support the conclusion that TraesCS6B02G013100 is the **TN1** gene and that SNPG373A causes the low-tillering phenotype.
    - **TN1** regulates tillering through the ABA pathway
    - **TN1** regulates wheat tillering independently of the TB1 pathway.
@@ -29,8 +29,10 @@ tags: [ tillering,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-tillering,aba, aba 
+## Orthologs:
+
+## Keywords:
+tillering,aba
 
 ## Sequences:
 - **CDS Sequence:**

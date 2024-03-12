@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb148850]()
 - **Gene Symbol:** ZmNF-YA3;ca3p1
 - **Gene Name:** CCAAT-HAP3-transcription factor 31
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC100285917](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285917)
 - **UniProt accessions:** [A0A096T4I5](https://www.uniprot.org/uniprotkb/A0A096T4I5/entry)&nbsp;,&nbsp;[A0A1D6N7R4](https://www.uniprot.org/uniprotkb/A0A1D6N7R4/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

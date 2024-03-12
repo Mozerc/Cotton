@@ -10,7 +10,7 @@ tags: [ resistance,defense response,defense ]
 - **Gene ID:**	[Zm00001eb292740]()
 - **Gene Symbol:** ZmRop6;rop6
 - **Gene Name:** Rho-related protein6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ resistance,defense response,defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,defense response,defense
 
 ## Sequences:

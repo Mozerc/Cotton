@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Glyma.02G048400]()
 - **Gene Symbol:** GmF3H1
 - **Gene Name:** Flavanone 3 β-hydroxylase 1
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

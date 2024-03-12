@@ -10,11 +10,11 @@ tags: [ growth,stress,stems,tolerance,stress tolerance,inflorescence,plant growt
 - **Gene ID:**	[Zm00001eb117950]()
 - **Gene Symbol:** ZmGRF11;grf11
 - **Gene Name:** general regulatory factor11
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - In maize, ectopic co-expression of **ZmGRF11**-ZmGIF2 or ZmGRF2-ZmGIF3 delayed the bolting time, but accelerated the growth of inflorescence stems in transgenic Arabidopsis plants.
+   - In maize, ectopic co-expression of **Zm**grf11****-ZmGIF2 or ZmGRF2-ZmGIF3 delayed the bolting time, but accelerated the growth of inflorescence stems in transgenic Arabidopsis plants.
    - The growth and fruit production of grape vine are severely affected by adverse environmental conditions. Growth-regulating factors (GRFs) play a vital role in the regulation of plant growth, reproduction and stress tolerance.
    - Growth-regulating factors (GRFs) are a class of transcriptional factors that have been identified in plants including moss, fern, gymnosperms and angiosperms.
 
@@ -27,7 +27,9 @@ tags: [ growth,stress,stems,tolerance,stress tolerance,inflorescence,plant growt
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,stress,stems,tolerance,stress tolerance,inflorescence,plant growth
 
 ## Sequences:

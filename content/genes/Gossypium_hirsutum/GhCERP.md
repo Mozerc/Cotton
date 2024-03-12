@@ -10,7 +10,7 @@ tags: [ root,growth,br,br signaling,root growth, br  ]
 - **Gene ID:**	[Gh_D02G2021]()
 - **Gene Symbol:** GhCERP
 - **Gene Name:** 
-- **Genome Version:** [ cotton genome (Gossypium hirsutum, NAU)]()
+- **Genome:** [ cotton genome (Gossypium hirsutum, NAU)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root,growth,br,br signaling,root growth, br  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,growth,br,br signaling,root growth, br 
 
 ## Sequences:

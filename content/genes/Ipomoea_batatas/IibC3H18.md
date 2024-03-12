@@ -10,7 +10,7 @@ tags: [ resistance,stress,tolerance,abiotic stress,stress tolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** IibC3H18
 - **Gene Name:** 
-- **Genome Version:** [Taizhong 6 genome]()
+- **Genome:** [Taizhong 6 genome]()
 - **Species:** *Ipomoea batatas*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,stress,tolerance,abiotic stress,stress tolerance ]
 - **NCBI ID:** [MK396199](https://www.ncbi.nlm.nih.gov/gene/?term=MK396199)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance,stress,tolerance,abiotic stress,stress tolerance
 
 ## Sequences:

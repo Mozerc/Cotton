@@ -10,15 +10,15 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 - **Gene ID:**	[Zm00001eb244650]()
 - **Gene Symbol:** ZmRIBA1;o18
 - **Gene Name:** opaque18
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - O18 encodes a rate-limiting bifunctional enzyme **ZmRIBA1**, targeted to plastid where to initiate riboflavin biosynthesis.
+   - **o18** encodes a rate-limiting bifunctional enzyme **ZmRIBA1**, targeted to plastid where to initiate riboflavin biosynthesis.
    - Substantiate a key role of riboflavin in coordinating cellular energy and cell cycle to modulate maize endosperm development.
-   - Overexpression of O18 increases riboflavin production and confers osmotic tolerance.
+   - Overexpression of **o18** increases riboflavin production and confers osmotic tolerance.
    - Here, we report a novel maize (Zea mays L.) opaque mutant **o18**, which displays an increase in lysine accumulation, but impaired endosperm filling and embryo development.
-   - Loss of function of O18 specifically disrupts respiratory complexes I and II, but also decreases SDH1 flavinylation, and in turn shifts the mitochondrial tricarboxylic acid (TCA) cycle to glycolysis.
+   - Loss of function of **o18** specifically disrupts respiratory complexes I and II, but also decreases SDH1 flavinylation, and in turn shifts the mitochondrial tricarboxylic acid (TCA) cycle to glycolysis.
 
 ## Literature:
    - [Riboflavin integrates cellular energetics and cell cycle to regulate maize seed development.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13826](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35426230](https://pubmed.ncbi.nlm.nih.gov/35426230/)
@@ -30,7 +30,9 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 - **NCBI ID:** [100304324](https://www.ncbi.nlm.nih.gov/gene/?term=100304324)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endosperm development,plastid,embryo development
 
 ## Sequences:

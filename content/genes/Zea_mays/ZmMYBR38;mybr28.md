@@ -10,7 +10,7 @@ tags: [ drought,domestication,tolerance,yield,drought tolerance,drought response
 - **Gene ID:**	[Zm00001eb243450]()
 - **Gene Symbol:** ZmMYBR38;mybr28
 - **Gene Name:** MYB-related-transcription factor 28
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ drought,domestication,tolerance,yield,drought tolerance,drought response
 - **NCBI ID:** [LOC103627275](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627275)
 - **UniProt accessions:** [A0A1D6HA97](https://www.uniprot.org/uniprotkb/A0A1D6HA97/entry)&nbsp;,&nbsp;[A0A1D6HA98](https://www.uniprot.org/uniprotkb/A0A1D6HA98/entry)&nbsp;,&nbsp;[A0A1X8EUP5](https://www.uniprot.org/uniprotkb/A0A1X8EUP5/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,domestication,tolerance,yield,drought tolerance,drought response
 
 ## Sequences:

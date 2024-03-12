@@ -10,7 +10,7 @@ tags: [ starch,endosperm ]
 - **Gene ID:**	[GRMZM2G018436]()
 - **Gene Symbol:** ZmNAC126
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ starch,endosperm ]
    - **ZmNAC126** is a key factor in transcriptional regulation of maize starch synthesis-related genes.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514120300933)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.04.014](https://www.sciencedirect.com/science/article/pii/S2214514120300933)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514120300933)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.04.014](https://www.sciencedirect.com/science/article/pii/S2214514120300933)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal│四川农业大学发现ZmNAC126调控玉米胚乳淀粉合成机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247494494&idx=3&sn=7787cdb2b906cfeace2d9df3628e7ec7&chksm=ce90460bf9e7cf1dca8de98f790687f26f4d7bdaed81e9da4d8c830a35c6f456762877551732&scene=27#wechat_redirect)
@@ -28,7 +28,9 @@ tags: [ starch,endosperm ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,endosperm
 
 ## Sequences:

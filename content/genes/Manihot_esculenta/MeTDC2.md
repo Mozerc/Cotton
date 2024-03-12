@@ -10,7 +10,7 @@ tags: [ melatonin ]
 - **Gene ID:**	[Manes.12G038600]()
 - **Gene Symbol:** MeTDC2
 - **Gene Name:** tryptophan decarboxylase 2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ melatonin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 melatonin
 
 ## Sequences:

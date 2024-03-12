@@ -10,13 +10,13 @@ tags: [ seed,seed weight,o-glcnac transferase ]
 - **Gene ID:**	[Glyma.19G196000]()
 - **Gene Symbol:** GmSSS1
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
-   - Knocking out **GmSSS1** resulted in small seeds, while overexpressing **GmSSS1**/Gmsss1 induced large seeds.
+   - Knocking out **GmSSS1** resulted in small seeds, while overexpressing **GmSSS1**/**GmSSS1** induced large seeds.
    - **GmSSS1** (Glyma.19G196000) encoded a putative O-GlcNAc transferase that consisted of tetratricopeptide repeat (TPR) and catalytic domains, and two of the four nonsynonymous substitutions (182nd and 638th) occurred in the conserved regions.
-   - Gmsss1 conferred an enhancing effect on seed weight.
+   - **GmSSS1** conferred an enhancing effect on seed weight.
 
 ## Literature:
    - [An enhancing effect attributed to a nonsynonymous mutation in SOYBEAN SEED SIZE 1, a SPINDLY-like gene, is exploited in soybean domestication and improvement.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18461)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18461](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18461)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36068955](https://pubmed.ncbi.nlm.nih.gov/36068955/)
@@ -28,7 +28,9 @@ tags: [ seed,seed weight,o-glcnac transferase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,seed weight,o-glcnac transferase
 
 ## Sequences:

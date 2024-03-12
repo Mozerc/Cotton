@@ -3,14 +3,14 @@ description: Glycine max
 meta_title:
 title: GmPAP15a
 categories: [Glycine max]
-tags: [ root,glycosylation,phosphatase,pi, pi  ]
+tags: [ root,glycosylation,phosphatase,pi ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GmPAP15a
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ root,glycosylation,phosphatase,pi, pi  ]
 - **NCBI ID:** [NP_001235188](https://www.ncbi.nlm.nih.gov/gene/?term=NP_001235188)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,glycosylation,phosphatase,pi, pi 
+## Orthologs:
+
+## Keywords:
+root,glycosylation,phosphatase,pi
 
 ## Sequences:
 - **CDS Sequence:**

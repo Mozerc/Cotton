@@ -10,11 +10,11 @@ tags: [ stem,development,architecture ]
 - **Gene ID:**	[Zm00001eb175190]()
 - **Gene Symbol:** NOT1
 - **Gene Name:** neighbor of tga1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Glume architecture phenotypes of isogenic lines with different genotypes at tga1 and not1.
+   - Glume architecture phenotypes of isogenic lines with different genotypes at tga1 and **NOT1**.
    - **NOT1** regulates the development of strut roots in the first four to six segments of the stem.
    - Glume length was significantly increased when TGA1/**NOT1** were knocked down/out.
 
@@ -27,7 +27,9 @@ tags: [ stem,development,architecture ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,development,architecture
 
 ## Sequences:

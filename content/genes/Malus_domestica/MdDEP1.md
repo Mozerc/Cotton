@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,ethylene,phosphatase ]
 - **Gene ID:**	[MDP0000180420]()
 - **Gene Symbol:** MdDEP1
 - **Gene Name:** Malus domestica dehydratase-enolase-phosphatase complex 1
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,leaf senescence,senescence,ethylene,phosphatase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,ethylene,phosphatase
 
 ## Sequences:

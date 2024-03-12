@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[TraesCS7B02G149200.1]()
 - **Gene Symbol:** HSP90.2
 - **Gene Name:** Heat Shock Protein 90.2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

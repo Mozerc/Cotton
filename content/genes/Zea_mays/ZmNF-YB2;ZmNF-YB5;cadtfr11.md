@@ -3,14 +3,14 @@ description: CCAAT-DR1-transcription factor 11 ; Zm00001eb042490 ; Zea mays
 meta_title:
 title: ZmNF-YB2;ZmNF-YB5
 categories: [Zea mays]
-tags: [ leaf,temperature,resistance,drought,stress,drought stress,drought stress ,stems,photosynthesis,tolerance,drought tolerance,stress tolerance,stomatal,chlorophyll,chlorophyll content,drought resistance ]
+tags: [ leaf,temperature,resistance,drought,stress,drought stress,stems,photosynthesis,tolerance,drought tolerance,stress tolerance,stomatal,chlorophyll,chlorophyll content,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb042490]()
 - **Gene Symbol:** ZmNF-YB2;ZmNF-YB5;cadtfr11
 - **Gene Name:** CCAAT-DR1-transcription factor 11
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ leaf,temperature,resistance,drought,stress,drought stress,drought stress
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,temperature,resistance,drought,stress,drought stress,drought stress ,stems,photosynthesis,tolerance,drought tolerance,stress tolerance,stomatal,chlorophyll,chlorophyll content,drought resistance
+## Orthologs:
+
+## Keywords:
+leaf,temperature,resistance,drought,stress,drought stress,stems,photosynthesis,tolerance,drought tolerance,stress tolerance,stomatal,chlorophyll,chlorophyll content,drought resistance
 
 ## Sequences:
 - **CDS Sequence:**

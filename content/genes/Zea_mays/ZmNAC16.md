@@ -10,7 +10,7 @@ tags: [ leaf,leaf angle ]
 - **Gene ID:**	[GRMZM2G166721]()
 - **Gene Symbol:** ZmNAC16
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,7 +25,9 @@ tags: [ leaf,leaf angle ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf angle
 
 ## Sequences:

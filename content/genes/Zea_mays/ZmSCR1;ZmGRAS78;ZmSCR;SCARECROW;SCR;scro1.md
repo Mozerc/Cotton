@@ -10,12 +10,12 @@ tags: [ leaf,leaf patterning ]
 - **Gene ID:**	[Zm00001eb195650]()
 - **Gene Symbol:** ZmSCR1;ZmGRAS78;ZmSCR;SCARECROW;SCR;scro1
 - **Gene Name:** scarecrow1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - It was recently reported that the duplicated maize **SCARECROW** (**SCR**) genes ****Zm**SCR****1** and ****Zm**SCR****1**h redundantly regulate Kranz patterning.
-   - Zmscr1;Zmscr1h mutants, the majority of vascular bundles are separated by only one rather than two mesophyll cells, and there are additional patterning perturbations in both leaves and roots.
+   - ****Zm**SCR****1**;****Zm**SCR****1**h mutants, the majority of vascular bundles are separated by only one rather than two mesophyll cells, and there are additional patterning perturbations in both leaves and roots.
    - These results imply a role for ****Zm**SCR****1** and ****Zm**SCR****1**h (either directly or indirectly) in the establishment and/or maintenance of photosynthetic capacity in the maize leaf.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ leaf,leaf patterning ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf patterning
 
 ## Sequences:

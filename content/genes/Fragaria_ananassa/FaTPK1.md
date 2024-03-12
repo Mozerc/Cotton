@@ -10,7 +10,7 @@ tags: [ development,quality,potassium ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** FaTPK1
 - **Gene Name:** two-pore potassium channel 1-like
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ development,quality,potassium ]
 - **NCBI ID:** [LOC101294428](https://www.ncbi.nlm.nih.gov/gene/?term=LOC101294428)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,quality,potassium
 
 ## Sequences:

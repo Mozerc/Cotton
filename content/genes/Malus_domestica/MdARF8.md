@@ -10,7 +10,7 @@ tags: [ root,auxin,auxin response,adventitious root,adventitious root formation 
 - **Gene ID:**	[MDP0000550049]()
 - **Gene Symbol:** MdARF8
 - **Gene Name:** Malus domestica AUXIN RESPONSE FACTOR8
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ root,auxin,auxin response,adventitious root,adventitious root formation 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,auxin,auxin response,adventitious root,adventitious root formation
 
 ## Sequences:

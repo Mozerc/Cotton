@@ -10,7 +10,7 @@ tags: [ sa, sa  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsWRKY70
 - **Gene Name:** 
-- **Genome Version:** [C. sinensis genome database (http://citrus.hzau.edu.cn/orange/)]()
+- **Genome:** [C. sinensis genome database (http://citrus.hzau.edu.cn/orange/)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sa, sa 
 
 ## Sequences:

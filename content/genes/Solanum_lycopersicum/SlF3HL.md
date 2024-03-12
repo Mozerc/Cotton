@@ -10,7 +10,7 @@ tags: [ stress,tolerance,stress tolerance,chilling,chilling stress,chilling tole
 - **Gene ID:**	[Solyc03g080190]()
 - **Gene Symbol:** SlF3HL
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stress,tolerance,stress tolerance,chilling,chilling stress,chilling tole
 - **NCBI ID:** [NP_001233840](https://www.ncbi.nlm.nih.gov/gene/?term=NP_001233840)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,tolerance,stress tolerance,chilling,chilling stress,chilling tolerance,detoxification
 
 ## Sequences:

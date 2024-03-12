@@ -10,7 +10,7 @@ tags: [ development,breeding ]
 - **Gene ID:**	[MELO3C035640.2.1]()
 - **Gene Symbol:** CmCLV3
 - **Gene Name:** 
-- **Genome Version:** [Melon (DHL92) v3.6.1]()
+- **Genome:** [Melon (DHL92) v3.6.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,breeding
 
 ## Sequences:

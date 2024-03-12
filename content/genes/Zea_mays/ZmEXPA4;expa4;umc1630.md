@@ -3,20 +3,20 @@ description: alpha-expansin4 ; Zm00001eb062750 ; Zea mays
 meta_title:
 title: ZmEXPA4;expa4
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress  ]
+tags: [ drought,stress,drought stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb062750]()
 - **Gene Symbol:** ZmEXPA4;expa4;umc1630
 - **Gene Name:** alpha-expansin4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Manipulating **ZmEXPA4** expression ameliorates the drought-induced prolonged anthesis and silking interval in maize.
-   - Genetic manipulation of α-expansin4 (**ZmEXPA4**) expression in developing ears using a drought-inducible promoter alleviated the drought-induced extension of the ASI.
-   - Natural variation in **ZmEXPA4** is associated with ASI under drought stress.
+   - Manipulating **Zm**expa4**** expression ameliorates the drought-induced prolonged anthesis and silking interval in maize.
+   - Genetic manipulation of α-expansin4 (**Zm**expa4****) expression in developing ears using a drought-inducible promoter alleviated the drought-induced extension of the ASI.
+   - Natural variation in **Zm**expa4**** is associated with ASI under drought stress.
 
 ## Literature:
    - [Manipulating ZmEXPA4 expression ameliorates the drought-induced prolonged anthesis and silking interval in maize.]( https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab083](https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33730156](https://pubmed.ncbi.nlm.nih.gov/33730156/)
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress 
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb380460]()
 - **Gene Symbol:** conz1;ZmCOL14;ZmCCT50;ZmCOL1;ZmBBX31;ZmBBX30
 - **Gene Name:** constans1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -31,7 +31,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [100147736](https://www.ncbi.nlm.nih.gov/gene/?term=100147736)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

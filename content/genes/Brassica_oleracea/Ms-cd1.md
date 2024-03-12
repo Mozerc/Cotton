@@ -10,7 +10,7 @@ tags: [ sterile ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** Ms-cd1
 - **Gene Name:** 
-- **Genome Version:** [“02-12” reference genome,version 1]()
+- **Genome:** [“02-12” reference genome,version 1]()
 - **Species:** *Brassica oleracea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ sterile ]
 - **NCBI ID:** [OR523690](https://www.ncbi.nlm.nih.gov/gene/?term=OR523690)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sterile
 
 ## Sequences:

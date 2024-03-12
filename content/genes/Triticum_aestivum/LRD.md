@@ -10,7 +10,7 @@ tags: [ root,growth,stress,yield,root growth,stomatal ]
 - **Gene ID:**	[TraesCS7D02G501000]()
 - **Gene Symbol:** LRD
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,growth,stress,yield,root growth,stomatal ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,stress,yield,root growth,stomatal
 
 ## Sequences:

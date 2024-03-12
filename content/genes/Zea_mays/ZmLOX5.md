@@ -3,14 +3,14 @@ description: Zm00001d013493 ; Zea mays
 meta_title:
 title: ZmLOX5
 categories: [Zea mays]
-tags: [ ja,defense,aba,insect,wounding, aba , ja ,ja signaling ]
+tags: [ ja,defense,aba,insect,wounding,ja signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d013493]()
 - **Gene Symbol:** ZmLOX5
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ ja,defense,aba,insect,wounding, aba , ja ,ja signaling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja,defense,aba,insect,wounding, aba , ja ,ja signaling
+## Orthologs:
+
+## Keywords:
+ja,defense,aba,insect,wounding,ja signaling
 
 ## Sequences:
 - **CDS Sequence:**

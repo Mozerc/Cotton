@@ -10,7 +10,7 @@ tags: [ growth,resistance,plant growth,thermotolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CaNAC2c
 - **Gene Name:** 
-- **Genome Version:** [Pepper.v.1.55]()
+- **Genome:** [Pepper.v.1.55]()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,resistance,plant growth,thermotolerance ]
 - **NCBI ID:** [XP_016575179.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_016575179.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,resistance,plant growth,thermotolerance
 
 ## Sequences:

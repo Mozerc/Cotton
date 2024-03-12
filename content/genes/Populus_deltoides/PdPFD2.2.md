@@ -10,7 +10,7 @@ tags: [ biomass,biomass production ]
 - **Gene ID:**	[Potri.008G153900]()
 - **Gene Symbol:** PdPFD2.2
 - **Gene Name:** 
-- **Genome Version:** [P. trichocarpa genome (V3.0)]()
+- **Genome:** [P. trichocarpa genome (V3.0)]()
 - **Species:** *Populus deltoides*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ biomass,biomass production ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 biomass,biomass production
 
 ## Sequences:

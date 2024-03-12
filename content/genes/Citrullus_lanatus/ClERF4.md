@@ -10,7 +10,7 @@ tags: [ ethylene ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** ClERF4
 - **Gene Name:** 
-- **Genome Version:** [Citrullus lanatus (Watermelon (97103) v2)]()
+- **Genome:** [Citrullus lanatus (Watermelon (97103) v2)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene
 
 ## Sequences:

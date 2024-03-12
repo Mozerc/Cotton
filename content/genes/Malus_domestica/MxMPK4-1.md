@@ -10,7 +10,7 @@ tags: [ fe,calli ]
 - **Gene ID:**	[MD01G1069100]()
 - **Gene Symbol:** MxMPK4-1
 - **Gene Name:** Malus xiaojinensis Mitogen-activated protein kinase 4-1
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ fe,calli ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 fe,calli
 
 ## Sequences:

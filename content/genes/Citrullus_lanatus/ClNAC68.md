@@ -10,7 +10,7 @@ tags: [ transcription factor,development,seed,sugar,seed development,sucrose,tra
 - **Gene ID:**	[Cla97C03G059250]()
 - **Gene Symbol:** ClNAC68
 - **Gene Name:** 
-- **Genome Version:** [Citrullus lanatus (Watermelon (97103) v2)]()
+- **Genome:** [Citrullus lanatus (Watermelon (97103) v2)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,development,seed,sugar,seed development,sucrose,tra
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,development,seed,sugar,seed development,sucrose,transcriptional repressor
 
 ## Sequences:

@@ -10,12 +10,12 @@ tags: [ cell death,meristem,axillary meristem,programmed cell death ]
 - **Gene ID:**	[GRMZM2G014729]()
 - **Gene Symbol:** RA3
 - **Gene Name:** RAMOSA3
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - gt1 and ra3, which together regulate carpel suppression, meristem determinacy, and axillary meristem suppression.
-   - ra3 Mutants Have a Carpel Suppression Phenotype and **RA3** Colocalizes with GT1 in Carpel Nuclei.
+   - gt1 and **RA3**, which together regulate carpel suppression, meristem determinacy, and axillary meristem suppression.
+   - **RA3** Mutants Have a Carpel Suppression Phenotype and **RA3** Colocalizes with GT1 in Carpel Nuclei.
    - GT1 and **RA3** Regulate Genes Predicted to Mediate Programmed Cell Death.
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ cell death,meristem,axillary meristem,programmed cell death ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell death,meristem,axillary meristem,programmed cell death
 
 ## Sequences:

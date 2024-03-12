@@ -3,14 +3,14 @@ description: Zm00001eb173250 ; Zea mays
 meta_title:
 title: ZmLSD1
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,defense response,defense,tolerance,abiotic stress,drought tolerance,stress tolerance,cell death,zinc,flowering,stress response,drought stress response,drought response,abiotic stress response ]
+tags: [ drought,stress,drought stress,defense response,defense,tolerance,abiotic stress,drought tolerance,stress tolerance,cell death,zinc,flowering,stress response,drought stress response,drought response,abiotic stress response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb173250]()
 - **Gene Symbol:** ZmLSD1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,defense response,defense,t
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,defense response,defense,tolerance,abiotic stress,drought tolerance,stress tolerance,cell death,zinc,flowering,stress response,drought stress response,drought response,abiotic stress response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,defense response,defense,tolerance,abiotic stress,drought tolerance,stress tolerance,cell death,zinc,flowering,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:
 - **CDS Sequence:**

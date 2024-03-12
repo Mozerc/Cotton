@@ -25,6 +25,9 @@ tags: [  ]
 - **NCBI ID:** [CBI22960.3](https://www.ncbi.nlm.nih.gov/gene/?term=CBI22960.3)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
+## Orthologs:
+
+
 ## Keywords:
 
 

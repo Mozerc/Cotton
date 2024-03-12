@@ -10,15 +10,15 @@ tags: [ nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynth
 - **Gene ID:**	[Zm00001eb135910]()
 - **Gene Symbol:** NAC7;nactf108
 - **Gene Name:** NAC-transcription factor 108
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **NAC7** as a target for improving functional stay-green and yields in maize and other crops.
    - **NAC7** regulates genes involved in protein turnover, photosynthesis and trehalose-6-phosphate pathways to delay senescence and increase yield in maize.
-   - Reducing nac7 expression increased plant leaf area, biomass and nitrogen content of the leaf and stalk tissues.
+   - Reducing **NAC7** expression increased plant leaf area, biomass and nitrogen content of the leaf and stalk tissues.
    - **NAC7** RNAi events targeted on protein turnover pathways to delay senescence.
-   - Transgenic maize lines where nac7 was down-regulated by RNAi showed delayed senescence and increased both biomass and nitrogen accumulation in vegetative tissues, demonstrating **NAC7** functions as a negative regulator of the stay-green trait.
+   - Transgenic maize lines where **NAC7** was down-regulated by RNAi showed delayed senescence and increased both biomass and nitrogen accumulation in vegetative tissues, demonstrating **NAC7** functions as a negative regulator of the stay-green trait.
    - We further determined the putative target of **NAC7** and provided a logical extension for the role of **NAC7** in regulating resource allocation from vegetative source to reproductive sink tissues.
 
 ## Literature:
@@ -33,7 +33,9 @@ tags: [ nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynth
 - **NCBI ID:** [103650490](https://www.ncbi.nlm.nih.gov/gene/?term=103650490)
 - **UniProt accessions:** [A0A1D6MWC7](https://www.uniprot.org/uniprotkb/A0A1D6MWC7/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynthesis,yield,vegetative,reproductive,biomass,phosphate
 
 ## Sequences:

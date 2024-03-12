@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,ethylene,cold ]
 - **Gene ID:**	[Pt3g03800]()
 - **Gene Symbol:** PtrACS1
 - **Gene Name:** 
-- **Genome Version:** [P. trifoliata genome]()
+- **Genome:** [P. trifoliata genome]()
 - **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tolerance,cold tolerance,ethylene,cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,cold tolerance,ethylene,cold
 
 ## Sequences:

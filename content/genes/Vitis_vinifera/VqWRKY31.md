@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,defense,salic
 - **Gene ID:**	[VIT_10s0116g01200]()
 - **Gene Symbol:** VqWRKY31
 - **Gene Name:** 
-- **Genome Version:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
+- **Genome:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcription factor,resistance,disease,disease resistance,defense,salic
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,resistance,disease,disease resistance,defense,salicylic acid,resistant
 
 ## Sequences:

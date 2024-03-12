@@ -10,7 +10,7 @@ tags: [ ethylene ]
 - **Gene ID:**	[Prupe. 6G348700]()
 - **Gene Symbol:** PpERF1-1
 - **Gene Name:** 
-- **Genome Version:** [peach reference genome v2.0.a1]()
+- **Genome:** [peach reference genome v2.0.a1]()
 - **Species:** *Prunus persica*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene
 
 ## Sequences:

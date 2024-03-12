@@ -10,7 +10,7 @@ tags: [ drought ]
 - **Gene ID:**	[Zm00001eb060260]()
 - **Gene Symbol:** ZmAAO3-1;AAO3-q;ao4
 - **Gene Name:** aldehyde oxidase4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ drought ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ auxin,immunity,auxin biosynthesis,sa, sa ,plant immunity ]
 - **Gene ID:**	[Me18G012200]()
 - **Gene Symbol:** MeHSP90.9
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ auxin,immunity,auxin biosynthesis,sa, sa ,plant immunity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin,immunity,auxin biosynthesis,sa, sa ,plant immunity
 
 ## Sequences:

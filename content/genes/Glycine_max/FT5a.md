@@ -10,7 +10,7 @@ tags: [ shoot,yield,flowering time,flowering ]
 - **Gene ID:**	[Glyma.16G044100]()
 - **Gene Symbol:** FT5a
 - **Gene Name:** 
-- **Genome Version:** [Glycine max Wm82.a2.v1 (https://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Gmax)]()
+- **Genome:** [Glycine max Wm82.a2.v1 (https://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Gmax)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ shoot,yield,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 shoot,yield,flowering time,flowering
 
 ## Sequences:

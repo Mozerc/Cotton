@@ -10,7 +10,7 @@ tags: [ aba, aba  ]
 - **Gene ID:**	[Cs3g17870]()
 - **Gene Symbol:** CsHB5
 - **Gene Name:** 
-- **Genome Version:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
+- **Genome:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 aba, aba 
 
 ## Sequences:

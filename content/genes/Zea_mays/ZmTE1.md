@@ -10,7 +10,7 @@ tags: [ growth,cell division,meristem,plant growth,cell elongation,height,plant 
 - **Gene ID:**	[Zm00001d042445]()
 - **Gene Symbol:** ZmTE1
 - **Gene Name:** TERMINAL EAR 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ growth,cell division,meristem,plant growth,cell elongation,height,plant 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,cell division,meristem,plant growth,cell elongation,height,plant height,intercalary meristem,internode elongation
 
 ## Sequences:

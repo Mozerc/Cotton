@@ -10,7 +10,7 @@ tags: [ immunity,sa, sa ,immunity signalling ]
 - **Gene ID:**	[PGSC0003DMP400021542]()
 - **Gene Symbol:** StMPK7
 - **Gene Name:** 
-- **Genome Version:** [PGSC_DM_v4.03_pseudomolecules reference genome( http://solanaceae.plantbiology.msu.edu/pgsc_download.shtml)]()
+- **Genome:** [PGSC_DM_v4.03_pseudomolecules reference genome( http://solanaceae.plantbiology.msu.edu/pgsc_download.shtml)]()
 - **Species:** *Solanum tuberosum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ immunity,sa, sa ,immunity signalling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 immunity,sa, sa ,immunity signalling
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stomatal ]
 - **Gene ID:**	[TraesCS2B02G016000]()
 - **Gene Symbol:** TaHXK3-2B
 - **Gene Name:** 
-- **Genome Version:** [reference genome IWGSC RefSeq v1.1]()
+- **Genome:** [reference genome IWGSC RefSeq v1.1]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stomatal ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stomatal
 
 ## Sequences:

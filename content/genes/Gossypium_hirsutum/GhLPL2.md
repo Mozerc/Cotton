@@ -10,7 +10,7 @@ tags: [ growth,resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhLPL2
 - **Gene Name:** 
-- **Genome Version:** [G. hirsutum acc. TM-1 (NAU_v2.1)]()
+- **Genome:** [G. hirsutum acc. TM-1 (NAU_v2.1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ growth,resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,resistance
 
 ## Sequences:

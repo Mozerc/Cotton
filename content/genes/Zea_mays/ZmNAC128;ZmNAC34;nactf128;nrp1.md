@@ -10,7 +10,7 @@ tags: [ starch,endosperm ]
 - **Gene ID:**	[Zm00001eb126890]()
 - **Gene Symbol:** ZmNAC128;ZmNAC34;nactf128;nrp1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ starch,endosperm ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,endosperm
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ yield ]
 - **Gene ID:**	[BnaA01g20420D]()
 - **Gene Symbol:** BnNPC6.A01
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ yield ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 yield
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: G2-like-transcription factor 59 ; Zm00001eb331010 ; Zea mays
 meta_title:
 title: ZmPHR13;glk59
 categories: [Zea mays]
-tags: [ leaf,stress,phosphate,stress response,pi, pi ,phosphate starvation,phosphate starvation response ]
+tags: [ leaf,stress,phosphate,stress response,pi,phosphate starvation,phosphate starvation response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb331010]()
 - **Gene Symbol:** ZmPHR13;glk59
 - **Gene Name:** G2-like-transcription factor 59
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ leaf,stress,phosphate,stress response,pi, pi ,phosphate starvation,phosp
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,stress,phosphate,stress response,pi, pi ,phosphate starvation,phosphate starvation response
+## Orthologs:
+
+## Keywords:
+leaf,stress,phosphate,stress response,pi,phosphate starvation,phosphate starvation response
 
 ## Sequences:
 - **CDS Sequence:**

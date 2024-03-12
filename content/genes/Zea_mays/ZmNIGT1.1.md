@@ -3,14 +3,14 @@ description: Zm00001d023411 ; Zea mays
 meta_title:
 title: ZmNIGT1.1
 categories: [Zea mays]
-tags: [ nitrogen,stress,phosphorus,pi, pi ,pi uptake ]
+tags: [ nitrogen,stress,phosphorus,pi,pi uptake ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d023411]()
 - **Gene Symbol:** ZmNIGT1.1
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ nitrogen,stress,phosphorus,pi, pi ,pi uptake ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-nitrogen,stress,phosphorus,pi, pi ,pi uptake
+## Orthologs:
+
+## Keywords:
+nitrogen,stress,phosphorus,pi,pi uptake
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ stress,seedling,tolerance,cold tolerance,cold stress,cold,stress toleran
 - **Gene ID:**	[Zm00001eb142500]()
 - **Gene Symbol:** ZmICE1;ICE1;ZmICEa;ZmSCRAM;bhlh175
 - **Gene Name:** INDUCER OF CBF EXPRESSION 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ stress,seedling,tolerance,cold tolerance,cold stress,cold,stress toleran
 - **NCBI ID:** [LOC100193144](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193144)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,seedling,tolerance,cold tolerance,cold stress,cold,stress tolerance,transcriptional regulator,transcription regulator,transcriptional activator,transcription activator
 
 ## Sequences:

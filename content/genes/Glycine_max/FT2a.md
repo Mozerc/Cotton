@@ -10,7 +10,7 @@ tags: [ yield ]
 - **Gene ID:**	[Glyma16G150700]()
 - **Gene Symbol:** FT2a
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 (WS82) reference genome]()
+- **Genome:** [Williams 82 (WS82) reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ yield ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 yield
 
 ## Sequences:

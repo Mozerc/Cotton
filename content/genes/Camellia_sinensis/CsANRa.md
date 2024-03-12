@@ -10,7 +10,7 @@ tags: [ transcription factor ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsANRa
 - **Gene Name:** Camellia sinensis Anthocyanidin reductasea
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor ]
 - **NCBI ID:** [KY615701](https://www.ncbi.nlm.nih.gov/gene/?term=KY615701)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor
 
 ## Sequences:

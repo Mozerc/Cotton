@@ -10,7 +10,7 @@ tags: [ resistance,ja,defense,reactive oxygen species,sa, sa , ja ,ja signaling 
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhGPA
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [ resistance,ja,defense,reactive oxygen species,sa, sa , ja ,ja signaling 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,ja,defense,reactive oxygen species,sa, sa , ja ,ja signaling
 
 ## Sequences:

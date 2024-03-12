@@ -10,7 +10,7 @@ tags: [ sugar,phosphate,sugar transport,phosphate transport ]
 - **Gene ID:**	[VIT_202s0025g04540]()
 - **Gene Symbol:** VvVPT1
 - **Gene Name:** 
-- **Genome Version:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
+- **Genome:** [grapevine genome (http://www.grapegenomics.com/pages/PN40024/)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ sugar,phosphate,sugar transport,phosphate transport ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 sugar,phosphate,sugar transport,phosphate transport
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Unigene7371]()
 - **Gene Symbol:** CmTCP20
 - **Gene Name:** Chrysanthemum morifolium TEOSINTE BRANCHED1/CYCLOIDEA/PROLIFERATING CELL FACTOR20
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

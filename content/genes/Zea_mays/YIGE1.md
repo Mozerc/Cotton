@@ -10,7 +10,7 @@ tags: [ development,grain,grain size,auxin,grain number,grain yield,yield,merist
 - **Gene ID:**	[Zm00001eb014970]()
 - **Gene Symbol:** YIGE1
 - **Gene Name:** yige1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ development,grain,grain size,auxin,grain number,grain yield,yield,merist
 - **NCBI ID:** [ LOC118473617](https://www.ncbi.nlm.nih.gov/gene/?term= LOC118473617)
 - **UniProt accessions:** [A0A1D6K0R1](https://www.uniprot.org/uniprotkb/A0A1D6K0R1/entry)&nbsp;,&nbsp;[A0A1D6K0R2](https://www.uniprot.org/uniprotkb/A0A1D6K0R2/entry)&nbsp;,&nbsp;[A0A1D6K0R3](https://www.uniprot.org/uniprotkb/A0A1D6K0R3/entry)&nbsp;,&nbsp;[A0A1D6K0R4](https://www.uniprot.org/uniprotkb/A0A1D6K0R4/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,grain,grain size,auxin,grain number,grain yield,yield,meristem,inflorescence,sugar,grain protein,inflorescence development
 
 ## Sequences:

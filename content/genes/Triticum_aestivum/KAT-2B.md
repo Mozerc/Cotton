@@ -3,14 +3,14 @@ description: TraesCS6B02G432600 ; Triticum aestivum
 meta_title:
 title: KAT-2B
 categories: [Triticum aestivum]
-tags: [ grain,grain yield,ja,yield,sucrose,ja biosynthesis, ja  ]
+tags: [ grain,grain yield,ja,yield,sucrose,ja biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G432600]()
 - **Gene Symbol:** KAT-2B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ grain,grain yield,ja,yield,sucrose,ja biosynthesis, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-grain,grain yield,ja,yield,sucrose,ja biosynthesis, ja 
+## Orthologs:
+
+## Keywords:
+grain,grain yield,ja,yield,sucrose,ja biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

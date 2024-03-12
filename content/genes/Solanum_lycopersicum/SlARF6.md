@@ -10,7 +10,7 @@ tags: [ strigolactone,phosphorus ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlARF6
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ strigolactone,phosphorus ]
 - **NCBI ID:** [HM195248.1](https://www.ncbi.nlm.nih.gov/gene/?term=HM195248.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 strigolactone,phosphorus
 
 ## Sequences:

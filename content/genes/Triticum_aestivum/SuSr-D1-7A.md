@@ -10,7 +10,7 @@ tags: [ stem,resistance,resistant ]
 - **Gene ID:**	[TraesCS7A02G540000]()
 - **Gene Symbol:** SuSr-D1-7A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ stem,resistance,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,resistance,resistant
 
 ## Sequences:

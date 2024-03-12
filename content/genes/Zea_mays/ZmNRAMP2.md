@@ -10,7 +10,7 @@ tags: [ root,growth,root growth,plant growth ]
 - **Gene ID:**	[GRMZM2G178190]()
 - **Gene Symbol:** ZmNRAMP2
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ root,growth,root growth,plant growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,growth,root growth,plant growth
 
 ## Sequences:

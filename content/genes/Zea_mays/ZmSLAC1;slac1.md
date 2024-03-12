@@ -3,22 +3,22 @@ description: slow anion channel-associated1 ; Zm00001d002603 ; Zea mays
 meta_title:
 title: ZmSLAC1;slac1
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,aba,stomatal, aba  ]
+tags: [ drought,stress,drought stress,aba,stomatal ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d002603]()
 - **Gene Symbol:** ZmSLAC1;slac1
 - **Gene Name:** slow anion channel-associated1
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - An S-type anion channel **ZmSLAC1** that was preferentially expressed in maize guard cells and involved in stomatal closure under drought stress.
-   - **ZmSLAC1** plays crucial roles in stomatal closure in maize, whose activity is regulated by ZmCPK35 and ZmCPK37.
-   - Anion channel gene **ZmSLAC1** is expressed in maize guard cells and induced by drought stress.
-   - Mutation of **ZmSLAC1** and ZmCPK37 impaired ABA-activated S-type anion currents in maize guard cells, while the S-type anion currents were increased in the guard cells of ZmCPK35- and ZmCPK37-overexpression lines.
-   - We identified an S-type anion channel **ZmSLAC1** that was preferentially expressed in maize guard cells and involved in stomatal closure under drought stress.
+   - An S-type anion channel **Zm**slac1**** that was preferentially expressed in maize guard cells and involved in stomatal closure under drought stress.
+   - **Zm**slac1**** plays crucial roles in stomatal closure in maize, whose activity is regulated by ZmCPK35 and ZmCPK37.
+   - Anion channel gene **Zm**slac1**** is expressed in maize guard cells and induced by drought stress.
+   - Mutation of **Zm**slac1**** and ZmCPK37 impaired ABA-activated S-type anion currents in maize guard cells, while the S-type anion currents were increased in the guard cells of ZmCPK35- and ZmCPK37-overexpression lines.
+   - We identified an S-type anion channel **Zm**slac1**** that was preferentially expressed in maize guard cells and involved in stomatal closure under drought stress.
 
 ## Literature:
    - [Two calcium-dependent protein kinases enhance maize drought tolerance by activating anion channel ZmSLAC1 in guard cells.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13701](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34498364](https://pubmed.ncbi.nlm.nih.gov/34498364/)
@@ -32,8 +32,10 @@ tags: [ drought,stress,drought stress,drought stress ,aba,stomatal, aba  ]
 - **NCBI ID:** [103648441](https://www.ncbi.nlm.nih.gov/gene/?term=103648441)
 - **UniProt accessions:** [A0A1D6E265](https://www.uniprot.org/uniprotkb/A0A1D6E265/entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,aba,stomatal, aba 
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,aba,stomatal
 
 ## Sequences:
 - **CDS Sequence:**

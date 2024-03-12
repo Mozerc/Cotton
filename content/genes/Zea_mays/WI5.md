@@ -3,14 +3,14 @@ description: Zm00001d013561 ; Zea mays
 meta_title:
 title: WI5
 categories: [Zea mays]
-tags: [ xylem,growth,drought,stress,drought stress,drought stress ,cell wall,plant growth,cell wall synthesis,stress response,drought stress response,secondary cell wall,drought response ]
+tags: [ xylem,growth,drought,stress,drought stress,cell wall,plant growth,cell wall synthesis,stress response,drought stress response,secondary cell wall,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d013561]()
 - **Gene Symbol:** WI5
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ xylem,growth,drought,stress,drought stress,drought stress ,cell wall,pla
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-xylem,growth,drought,stress,drought stress,drought stress ,cell wall,plant growth,cell wall synthesis,stress response,drought stress response,secondary cell wall,drought response
+## Orthologs:
+
+## Keywords:
+xylem,growth,drought,stress,drought stress,cell wall,plant growth,cell wall synthesis,stress response,drought stress response,secondary cell wall,drought response
 
 ## Sequences:
 - **CDS Sequence:**

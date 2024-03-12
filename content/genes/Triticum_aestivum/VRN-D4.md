@@ -10,7 +10,7 @@ tags: [ growth,vernalization ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** VRN-D4
 - **Gene Name:** VERNALIZATION 4
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ growth,vernalization ]
 - **NCBI ID:** [KR422424](https://www.ncbi.nlm.nih.gov/gene/?term=KR422424)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,vernalization
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stress,ja,defense,salt,tolerance,salt tolerance,salt stress,stress toler
 - **Gene ID:**	[Cotton_A_11862]()
 - **Gene Symbol:** GaJAZ1
 - **Gene Name:** 
-- **Genome Version:** [Gossypium hirsutum L. acc. TM-1 genome]()
+- **Genome:** [Gossypium hirsutum L. acc. TM-1 genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,ja,defense,salt,tolerance,salt tolerance,salt stress,stress toler
 - **NCBI ID:** [KT312824](https://www.ncbi.nlm.nih.gov/gene/?term=KT312824)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,ja,defense,salt,tolerance,salt tolerance,salt stress,stress tolerance,ja biosynthesis, ja ,ja signaling
 
 ## Sequences:

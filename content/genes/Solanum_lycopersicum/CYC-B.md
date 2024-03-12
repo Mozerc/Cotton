@@ -10,12 +10,12 @@ tags: [ growth,tolerance,cold tolerance,cold ]
 - **Gene ID:**	[Solyc06g074240]()
 - **Gene Symbol:** CYC-B
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
    - Targeted disruption of tomato chromoplast-specific lycopene β-cyclase (**CYC-B**) gene promotes early accumulation of lycopene in fruits and enhanced postharvest cold tolerance.
-   -  cyc-b knockout lines exhibited indeterminate growth and increased lycopene content in the fruit, overcoming the existing genetic linkage between these traits.
+   -  **CYC-B** knockout lines exhibited indeterminate growth and increased lycopene content in the fruit, overcoming the existing genetic linkage between these traits.
 
 ## Literature:
    - [Targeted disruption of tomato chromoplast-specific lycopene β-cyclase (CYC-B) gene promotes early accumulation of lycopene in fruits and enhanced postharvest cold tolerance.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14169)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14169](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14169)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37654005](https://pubmed.ncbi.nlm.nih.gov/37654005/)
@@ -27,7 +27,9 @@ tags: [ growth,tolerance,cold tolerance,cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,tolerance,cold tolerance,cold
 
 ## Sequences:

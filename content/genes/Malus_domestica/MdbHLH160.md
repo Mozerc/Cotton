@@ -3,14 +3,14 @@ description: MD10G1098900 ; Malus domestica
 meta_title:
 title: MdbHLH160
 categories: [Malus domestica]
-tags: [ transcription factor,drought,tolerance,aba,drought tolerance, aba  ]
+tags: [ transcription factor,drought,tolerance,aba,drought tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD10G1098900]()
 - **Gene Symbol:** MdbHLH160
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,drought,tolerance,aba,drought tolerance, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,drought,tolerance,aba,drought tolerance, aba 
+## Orthologs:
+
+## Keywords:
+transcription factor,drought,tolerance,aba,drought tolerance
 
 ## Sequences:
 - **CDS Sequence:**

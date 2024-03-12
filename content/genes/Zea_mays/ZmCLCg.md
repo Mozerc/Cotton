@@ -10,14 +10,14 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 - **Gene ID:**	[Zm00001eb068640]()
 - **Gene Symbol:** ZmCLCg
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Chloride content analysis revealed that **ZmCLCg** regulated chloride transport under sodium chloride stress. These results help to explain genetic variations in salt tolerance and provide novel loci for generating salt-tolerant maize lines.
-   - Under 100 mm NaCl treatment, the chloride content in shoots of three zmclcg mutants was significantly higher than that of wild type (Figure 4i), indicating that the salt tolerance function of **ZmCLCg** was associated with chloride transport.
+   - Under 100 mm NaCl treatment, the chloride content in shoots of three **ZmCLCg** mutants was significantly higher than that of wild type (Figure 4i), indicating that the salt tolerance function of **ZmCLCg** was associated with chloride transport.
    - By comparing the biomass of three CRISPR/Cas9 mutants of **ZmCLCg** and one zmpmp3 EMS mutant with their wild-type plants under salt stress, the salt tolerance function of candidate genes **ZmCLCg** and ZmPMP3 were confirmed.
-   - The biomass of three zmclcg mutants and one zmpmp3 EMS mutant were compared with their wild-type plants under 100 mm NaCl treatment, respectively, and the results showed that the root length, root fresh weight, shoot length, shoot fresh weight of all mutants were significantly lower than that of the wild type, which verified the salt tolerance function of both ZmPMP3 and **ZmCLCg**.
+   - The biomass of three **ZmCLCg** mutants and one zmpmp3 EMS mutant were compared with their wild-type plants under 100 mm NaCl treatment, respectively, and the results showed that the root length, root fresh weight, shoot length, shoot fresh weight of all mutants were significantly lower than that of the wild type, which verified the salt tolerance function of both ZmPMP3 and **ZmCLCg**.
 
 ## Literature:
    - [Molecular dissection of maize seedling salt tolerance using a genome-wide association analysis method.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13607)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13607](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13607)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33934485](https://pubmed.ncbi.nlm.nih.gov/33934485/)
@@ -31,7 +31,9 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 - **NCBI ID:** [LOC100191503](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191503)
 - **UniProt accessions:** [A0A1D6DWJ0](https://www.uniprot.org/uniprotkb/A0A1D6DWJ0/entry)&nbsp;,&nbsp;[A0A1D6DWJ1](https://www.uniprot.org/uniprotkb/A0A1D6DWJ1/entry)&nbsp;,&nbsp;[A0A1D6DWJ2](https://www.uniprot.org/uniprotkb/A0A1D6DWJ2/entry)&nbsp;,&nbsp;[A0A3L6FZM6](https://www.uniprot.org/uniprotkb/A0A3L6FZM6/entry)&nbsp;,&nbsp;[B4F913](https://www.uniprot.org/uniprotkb/B4F913/entry)&nbsp;,&nbsp;[D5LGX3](https://www.uniprot.org/uniprotkb/D5LGX3/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,biomass,root length
 
 ## Sequences:

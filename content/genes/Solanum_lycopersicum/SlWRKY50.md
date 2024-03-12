@@ -3,14 +3,14 @@ description: Solyc06g068460 ; Solanum lycopersicum
 meta_title:
 title: SlWRKY50
 categories: [Solanum lycopersicum]
-tags: [ transcription factor,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,ja biosynthesis, ja ,ja signaling ]
+tags: [ transcription factor,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,ja biosynthesis,ja signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc06g068460]()
 - **Gene Symbol:** SlWRKY50
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,ja biosynthesis, ja ,ja signaling
+## Orthologs:
+
+## Keywords:
+transcription factor,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,ja biosynthesis,ja signaling
 
 ## Sequences:
 - **CDS Sequence:**

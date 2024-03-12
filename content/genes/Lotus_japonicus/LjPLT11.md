@@ -10,7 +10,7 @@ tags: [ development ]
 - **Gene ID:**	[Lj4g3v0937820]()
 - **Gene Symbol:** LjPLT11
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Lotus japonicus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development ]
 - **NCBI ID:** [BI420529](https://www.ncbi.nlm.nih.gov/gene/?term=BI420529)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 development
 
 ## Sequences:

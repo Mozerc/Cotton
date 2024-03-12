@@ -10,7 +10,7 @@ tags: [ pollen ]
 - **Gene ID:**	[Pbr025893.1]()
 - **Gene Symbol:** PbrPPA5
 - **Gene Name:** 
-- **Genome Version:** [Pyrus bretschneideri v1.1]()
+- **Genome:** [Pyrus bretschneideri v1.1]()
 - **Species:** *Pyrus bretschneideri*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ pollen ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 pollen
 
 ## Sequences:

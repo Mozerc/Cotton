@@ -10,7 +10,7 @@ tags: [ transcription factor,seedlings,stress,heat stress,thermotolerance ]
 - **Gene ID:**	[Zm00001eb060670]()
 - **Gene Symbol:** ZmHsf05;hsftf11
 - **Gene Name:** HSF-transcription factor 11
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,seedlings,stress,heat stress,thermotolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,seedlings,stress,heat stress,thermotolerance
 
 ## Sequences:

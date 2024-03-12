@@ -10,7 +10,7 @@ tags: [ root,seed,root elongation,lateral root,epidermis ]
 - **Gene ID:**	[BraA02G0242800]()
 - **Gene Symbol:** BnaA2.NIP5;1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root,seed,root elongation,lateral root,epidermis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,seed,root elongation,lateral root,epidermis
 
 ## Sequences:

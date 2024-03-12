@@ -10,12 +10,12 @@ tags: [ seed ]
 - **Gene ID:**	[Glyma.09G025300]()
 - **Gene Symbol:** GmDCL2a
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
    - Endogenous LIR-derived transcripts in soybean are predominantly processed by GmDCL2 into 22-nucleotide siRNAs and uncovered a role for DCL2 in regulating natural traits.
-   - Disruption of this process in Gmdcl2a/2b mutants substantially increased CHS mRNA levels in the seed coat, thus changing the coat color from yellow to brown.
+   - Disruption of this process in **GmDCL2a**/2b mutants substantially increased CHS mRNA levels in the seed coat, thus changing the coat color from yellow to brown.
    - DCL2-Dependent 22-nucleotide siRNAs Regulate the Seed Coat Color in Soybean
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

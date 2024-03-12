@@ -10,7 +10,7 @@ tags: [ leaf,resistance ]
 - **Gene ID:**	[HORVU2Hr1G019120.5]()
 - **Gene Symbol:** Rph15
 - **Gene Name:** 
-- **Genome Version:** [barley cultivar Morex V1]()
+- **Genome:** [barley cultivar Morex V1]()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,resistance ]
 - **NCBI ID:** [AY641411.1](https://www.ncbi.nlm.nih.gov/gene/?term=AY641411.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,resistance
 
 ## Sequences:

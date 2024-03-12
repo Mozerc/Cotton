@@ -10,7 +10,7 @@ tags: [ shoot,resistant ]
 - **Gene ID:**	[Bol016089]()
 - **Gene Symbol:** BoPDS
 - **Gene Name:** 
-- **Genome Version:** [“02-12” reference genome, version 1]()
+- **Genome:** [“02-12” reference genome, version 1]()
 - **Species:** *Brassica oleracea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ shoot,resistant ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 shoot,resistant
 
 ## Sequences:

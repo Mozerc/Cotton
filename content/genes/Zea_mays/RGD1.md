@@ -10,11 +10,11 @@ tags: [ root,development,auxin,root development,auxin biosynthesis,auxin transpo
 - **Gene ID:**	[GRMZM2G020187]()
 - **Gene Symbol:** RGD1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **RGD1** auxin accumulation, biosynthesis and transport are affected in lbl1-rgd1 root.
+   - **RGD1** auxin accumulation, biosynthesis and transport are affected in lbl1-**RGD1** root.
    - Conserved LBL1-ta-siRNA and miR165/166-RLD1/2 modules regulate root development in maize.
    - **RGD1** ncodes a key regulator required for lateral organs dorsoventrality establishment in maize
 
@@ -27,7 +27,9 @@ tags: [ root,development,auxin,root development,auxin biosynthesis,auxin transpo
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,development,auxin,root development,auxin biosynthesis,auxin transport,lateral root
 
 ## Sequences:

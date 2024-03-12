@@ -10,7 +10,7 @@ tags: [ shoot,sheath,homeobox gene ]
 - **Gene ID:**	[Zm00001eb092480]()
 - **Gene Symbol:** ns1;ZmWOX3;ZmHB125
 - **Gene Name:** narrow sheath1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ shoot,sheath,homeobox gene ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 shoot,sheath,homeobox gene
 
 ## Sequences:

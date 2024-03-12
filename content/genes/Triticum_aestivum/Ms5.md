@@ -10,11 +10,11 @@ tags: [ sterility,male sterility ]
 - **Gene ID:**	[TraesCS3A02G217000]()
 - **Gene Symbol:** Ms5
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
-   - Wheat ms5 male-sterility is induced by recessive homoeologous A and D genome non-specific lipid transfer proteins
+   - Wheat **Ms5** male-sterility is induced by recessive homoeologous A and D genome non-specific lipid transfer proteins
    - Allelic forms of Ta**Ms5**-B in bread and durum wheat are non-functional
 
 ## Literature:
@@ -26,7 +26,9 @@ tags: [ sterility,male sterility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 sterility,male sterility
 
 ## Sequences:

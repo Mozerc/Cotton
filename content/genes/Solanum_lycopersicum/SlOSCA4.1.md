@@ -10,7 +10,7 @@ tags: [ homeostasis ]
 - **Gene ID:**	[Solyc02g083430]()
 - **Gene Symbol:** SlOSCA4.1
 - **Gene Name:** 
-- **Genome Version:** [reference genome SL2.50]()
+- **Genome:** [reference genome SL2.50]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ homeostasis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 homeostasis
 
 ## Sequences:

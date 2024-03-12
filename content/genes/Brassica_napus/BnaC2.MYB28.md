@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BnaC02G0527500ZS]()
 - **Gene Symbol:** BnaC2.MYB28
 - **Gene Name:** 
-- **Genome Version:** [ZS11 reference genome]()
+- **Genome:** [ZS11 reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

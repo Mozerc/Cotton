@@ -1,5 +1,5 @@
 ---
-description: GRMZM2G122543 ; Zea mays
+description: similar to RCD one1 ; Zm00001eb009570 ; Zea mays
 meta_title:
 title: ZmSRO1e
 categories: [Zea mays]
@@ -7,10 +7,10 @@ tags: [ stress,oxidative stress,tolerance,oxidative,abiotic stress,stress tolera
 ---
 
 ## Gene Details:
-- **Gene ID:**	[GRMZM2G122543]()
+- **Gene ID:**	[Zm00001eb009570]()
 - **Gene Symbol:** ZmSRO1e
-- **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Gene Name:** similar to RCD one1
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,10 +25,12 @@ tags: [ stress,oxidative stress,tolerance,oxidative,abiotic stress,stress tolera
    - [Plant J|山东大学刘树伟教授揭示玉米玉米SRO1e参与非生物胁迫反应的调控机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247500468&idx=2&sn=8e55dd8b2511d97f4a8a06b0ed9f795c&chksm=ce906fe1f9e7e6f72b2f7705143014f268414c69b1b5f7d8b8a01c24c047bcc8783ea88f0476&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:** [103633148](https://www.ncbi.nlm.nih.gov/gene/?term=103633148)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,oxidative stress,tolerance,oxidative,abiotic stress,stress tolerance
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ flowering ]
 - **Gene ID:**	[BraA07g018240.3C]()
 - **Gene Symbol:** ATC
 - **Gene Name:** 
-- **Genome Version:** [V3.0 reference genome]()
+- **Genome:** [V3.0 reference genome]()
 - **Species:** *Brassica rapa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flowering
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ leaf,auxin,auxin response,leaf shape,sugar,dehydrogenase ]
 - **Gene ID:**	[MD00G1130200]()
 - **Gene Symbol:** MdbHLH3-27
 - **Gene Name:** Malus domestica basic helix–loop–helix 3
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -31,7 +31,9 @@ tags: [ leaf,auxin,auxin response,leaf shape,sugar,dehydrogenase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,auxin,auxin response,leaf shape,sugar,dehydrogenase
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stress,heat stress,thermotolerance ]
 - **Gene ID:**	[TraesCS4D02G206600]()
 - **Gene Symbol:** TaHSP70-2
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stress,heat stress,thermotolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,heat stress,thermotolerance
 
 ## Sequences:

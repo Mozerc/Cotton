@@ -10,7 +10,7 @@ tags: [ photosynthesis,ethylene,ethylene production ]
 - **Gene ID:**	[Solyc12g006340]()
 - **Gene Symbol:** SlARF6A
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ photosynthesis,ethylene,ethylene production ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 photosynthesis,ethylene,ethylene production
 
 ## Sequences:

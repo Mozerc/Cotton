@@ -1,22 +1,22 @@
 ---
 description: brown midrib2 ; Zm00001eb062180 ; Zea mays
 meta_title:
-title: bm2;ZmMTHFR-1
+title: BM2;ZmMTHFR-1
 categories: [Zea mays]
 tags: [ lignin ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb062180]()
-- **Gene Symbol:** bm2;ZmMTHFR-1;csuh134a;mtf1
+- **Gene Symbol:** BM2;ZmMTHFR-1;csuh134a;mtf1
 - **Gene Name:** brown midrib2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The maize brown midrib2 (**bm2**) gene encodes a methylenetetrahydrofolate reductase that contributes to lignin accumulation.
-   - Bm2 mutants accumulate reduced levels of lignin with altered composition compared to wild-type.
-   - The accumulation of **bm2** transcripts is dramatically reduced in **bm2** mutants.
+   - The maize brown midrib2 (**BM2**) gene encodes a methylenetetrahydrofolate reductase that contributes to lignin accumulation.
+   - **BM2** mutants accumulate reduced levels of lignin with altered composition compared to wild-type.
+   - The accumulation of **BM2** transcripts is dramatically reduced in **BM2** mutants.
 
 ## Literature:
    - [The maize brown midrib2 (bm2) gene encodes a methylenetetrahydrofolate reductase that contributes to lignin accumulation.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.12394)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.12394](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12394)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24286468](https://pubmed.ncbi.nlm.nih.gov/24286468/)
@@ -28,7 +28,9 @@ tags: [ lignin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 lignin
 
 ## Sequences:

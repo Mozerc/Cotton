@@ -3,14 +3,14 @@ description: Zm00001eb152710 ; Zea mays
 meta_title:
 title: GA2ox3
 categories: [Zea mays]
-tags: [ aba, aba  ]
+tags: [ aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb152710]()
 - **Gene Symbol:** GA2ox3
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -25,8 +25,10 @@ tags: [ aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-aba, aba 
+## Orthologs:
+
+## Keywords:
+aba
 
 ## Sequences:
 - **CDS Sequence:**

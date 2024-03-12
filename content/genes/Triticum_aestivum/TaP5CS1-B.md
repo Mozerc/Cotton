@@ -3,14 +3,14 @@ description: TraesCS3B02G395900 ; Triticum aestivum
 meta_title:
 title: TaP5CS1-B
 categories: [Triticum aestivum]
-tags: [ development,drought,stress,drought stress,drought stress  ]
+tags: [ development,drought,stress,drought stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G395900]()
 - **Gene Symbol:** TaP5CS1-B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ development,drought,stress,drought stress,drought stress  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-development,drought,stress,drought stress,drought stress 
+## Orthologs:
+
+## Keywords:
+development,drought,stress,drought stress
 
 ## Sequences:
 - **CDS Sequence:**

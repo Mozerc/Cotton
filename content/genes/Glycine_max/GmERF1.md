@@ -10,7 +10,7 @@ tags: [ root,development,tolerance,root development,phosphorus ]
 - **Gene ID:**	[Glyma.13G123100]()
 - **Gene Symbol:** GmERF1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ root,development,tolerance,root development,phosphorus ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,development,tolerance,root development,phosphorus
 
 ## Sequences:

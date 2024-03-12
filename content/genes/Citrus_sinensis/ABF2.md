@@ -10,7 +10,7 @@ tags: [ development,auxin,aba,cell wall,auxin biosynthesis,auxin transport,chlor
 - **Gene ID:**	[Cs3g23480]()
 - **Gene Symbol:** ABF2
 - **Gene Name:** 
-- **Genome Version:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
+- **Genome:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,auxin,aba,cell wall,auxin biosynthesis,auxin transport,chlor
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,auxin,aba,cell wall,auxin biosynthesis,auxin transport,chlorophyll,sucrose, aba ,aba biosynthesis,sucrose transport
 
 ## Sequences:

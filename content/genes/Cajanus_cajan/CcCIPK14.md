@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **Gene ID:**	[Gene_id:]()
 - **Gene Symbol:** CcCIPK14
 - **Gene Name:** 
-- **Genome Version:** [C.cajan_V1.0]()
+- **Genome:** [C.cajan_V1.0]()
 - **Species:** *Cajanus cajan*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [LOC109807907](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109807907)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,flavonoid,flavonoid biosynthesis
 
 ## Sequences:

@@ -8,9 +8,9 @@ tags: [ growth,pollen,pollen wall,cell wall ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb078280]()
-- **Gene Symbol:** ZmLLG1
+- **Gene Symbol:** ZmLLG1;lorelei-like glycosylphosphatidylinositol-anchor1
 - **Gene Name:** lorelei-like glycosylphosphatidylinositol-anchor1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ growth,pollen,pollen wall,cell wall ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,pollen,pollen wall,cell wall
 
 ## Sequences:

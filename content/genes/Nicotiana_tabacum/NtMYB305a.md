@@ -26,7 +26,10 @@ tags: [ secondary metabolism ]
 - **NCBI ID:** [KC792284](https://www.ncbi.nlm.nih.gov/gene/?term=KC792284)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 secondary metabolism
 
 ## Sequences:

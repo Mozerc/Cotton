@@ -10,7 +10,7 @@ tags: [ temperature,fertility,sterility,stress,male sterility,male fertility,flo
 - **Gene ID:**	[Glyma.18G005600]()
 - **Gene Symbol:** GmSPL2b
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ temperature,fertility,sterility,stress,male sterility,male fertility,flo
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 temperature,fertility,sterility,stress,male sterility,male fertility,flowering,thermotolerance
 
 ## Sequences:

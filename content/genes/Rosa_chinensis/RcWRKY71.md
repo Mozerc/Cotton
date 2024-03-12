@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,aba, aba ,stress response,
 - **Gene ID:**	[]()
 - **Gene Symbol:** RcWRKY71
 - **Gene Name:** 
-- **Genome Version:** [Rosa chinensis Old Blush homozygous Genome v2.0]()
+- **Genome:** [Rosa chinensis Old Blush homozygous Genome v2.0]()
 - **Species:** *Rosa chinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,aba, aba ,stress response,
 - **NCBI ID:** [XP_024158903](https://www.ncbi.nlm.nih.gov/gene/?term=XP_024158903)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,aba, aba ,stress response,drought stress response,drought response
 
 ## Sequences:

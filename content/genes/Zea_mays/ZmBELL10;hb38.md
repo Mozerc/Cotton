@@ -10,7 +10,7 @@ tags: [ transcription factor,cell division,cell elongation,height,plant height,i
 - **Gene ID:**	[Zm00001eb268690]()
 - **Gene Symbol:** ZmBELL10;hb38
 - **Gene Name:** Homeobox-transcription factor 38
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,cell division,cell elongation,height,plant height,i
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,cell division,cell elongation,height,plant height,internode length,internode elongation,node
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: TraesCS2D02G190500.1 ; Triticum aestivum
 meta_title:
 title: TaWRKY1-2D
 categories: [Triticum aestivum]
-tags: [ transcription factor,resistance,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,drought resistance ]
+tags: [ transcription factor,resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D02G190500.1]()
 - **Gene Symbol:** TaWRKY1-2D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,drought st
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,resistance,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,drought resistance
+## Orthologs:
+
+## Keywords:
+transcription factor,resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought resistance
 
 ## Sequences:
 - **CDS Sequence:**

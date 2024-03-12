@@ -10,7 +10,7 @@ tags: [ endosperm ]
 - **Gene ID:**	[Zm00001eb428940 ]()
 - **Gene Symbol:** NKD2
 - **Gene Name:** NAKED ENDOSPERM2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ endosperm ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 endosperm
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: 9-CIS-EPOXYCAROTENOID DIOXYGENASE 2 ; Solyc07g006030 ; Solanum lyco
 meta_title:
 title: SlREC2
 categories: [Solanum lycopersicum]
-tags: [ tolerance,cold tolerance,aba,cold,breeding,resistant, aba  ]
+tags: [ tolerance,cold tolerance,aba,cold,breeding,resistant ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc07g006030]()
 - **Gene Symbol:** SlREC2
 - **Gene Name:** 9-CIS-EPOXYCAROTENOID DIOXYGENASE 2
-- **Genome Version:** [tomato genome Version SL2.5]()
+- **Genome:** [tomato genome Version SL2.5]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ tolerance,cold tolerance,aba,cold,breeding,resistant, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-tolerance,cold tolerance,aba,cold,breeding,resistant, aba 
+## Orthologs:
+
+## Keywords:
+tolerance,cold tolerance,aba,cold,breeding,resistant
 
 ## Sequences:
 - **CDS Sequence:**

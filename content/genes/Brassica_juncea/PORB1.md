@@ -10,7 +10,7 @@ tags: [ homeostasis,plastid ]
 - **Gene ID:**	[Bra019049]()
 - **Gene Symbol:** PORB1
 - **Gene Name:** 
-- **Genome Version:** [Braju_tum_V1.5]()
+- **Genome:** [Braju_tum_V1.5]()
 - **Species:** *Brassica juncea*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ homeostasis,plastid ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 homeostasis,plastid
 
 ## Sequences:

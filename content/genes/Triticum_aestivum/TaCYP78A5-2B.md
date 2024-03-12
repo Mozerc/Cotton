@@ -10,7 +10,7 @@ tags: [ growth,grain,auxin,grain yield,yield,plant growth,grain weight,cell prol
 - **Gene ID:**	[TraesCS2B02G201900]()
 - **Gene Symbol:** TaCYP78A5-2B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ growth,grain,auxin,grain yield,yield,plant growth,grain weight,cell prol
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,grain,auxin,grain yield,yield,plant growth,grain weight,cell proliferation,grain growth
 
 ## Sequences:

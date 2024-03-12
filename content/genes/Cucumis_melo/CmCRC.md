@@ -10,7 +10,7 @@ tags: [ development,flower,flower development ]
 - **Gene ID:**	[CMiso1.1chr10g0266651]()
 - **Gene Symbol:** CmCRC
 - **Gene Name:** Cucumis melo CRABS CLAW
-- **Genome Version:** [Melon (Charmono) v1.1]()
+- **Genome:** [Melon (Charmono) v1.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,flower,flower development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,flower,flower development
 
 ## Sequences:

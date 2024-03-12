@@ -10,7 +10,7 @@ tags: [ resistance,calcium,flowering time,flowering ]
 - **Gene ID:**	[Glyma.16G128600]()
 - **Gene Symbol:** GmCDPK38
 - **Gene Name:** CALCIUM-DEPENDENT PROTEIN KINASE38
-- **Genome Version:** [soybean reference genome (https://genome.jgi.doe.gov/portal/pages/dynamicOrganismDownload.jsf?organism=Gmax)]()
+- **Genome:** [soybean reference genome ]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance,calcium,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,calcium,flowering time,flowering
 
 ## Sequences:

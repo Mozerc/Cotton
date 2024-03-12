@@ -10,7 +10,7 @@ tags: [ defense ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** VvPR4b
 - **Gene Name:** 
-- **Genome Version:** [“Pinot Noir” reference genome (12×; http://www.genoscope.cns.fr)]()
+- **Genome:** [“Pinot Noir” reference genome (12×; http://www.genoscope.cns.fr)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 defense
 
 ## Sequences:

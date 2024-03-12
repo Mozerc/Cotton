@@ -10,7 +10,7 @@ tags: [ ethylene ]
 - **Gene ID:**	[Solyc06g060230]()
 - **Gene Symbol:** SlNAM1
 - **Gene Name:** 
-- **Genome Version:** [tomato reference genome version SL2.50]()
+- **Genome:** [tomato reference genome version SL2.50]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ ethylene ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 ethylene
 
 ## Sequences:

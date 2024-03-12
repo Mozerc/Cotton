@@ -10,7 +10,7 @@ tags: [ development,anther,stress,oxidative stress,oxidative,sterile,anther deve
 - **Gene ID:**	[Zm00001eb115970]()
 - **Gene Symbol:** ZmMs33;ZmGPAT6;ZmGPAT4;Group 7
 - **Gene Name:** male sterile33
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,anther,stress,oxidative stress,oxidative,sterile,anther deve
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,anther,stress,oxidative stress,oxidative,sterile,anther development,reactive oxygen species,phosphate
 
 ## Sequences:

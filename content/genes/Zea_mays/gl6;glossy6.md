@@ -10,13 +10,13 @@ tags: [ drought,seedling,tolerance,drought tolerance,cuticle,plasma membrane,cut
 - **Gene ID:**	[Zm00001eb136750]()
 - **Gene Symbol:** gl6;glossy6
 - **Gene Name:** glossy6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - A maize glossy (**gl6**) mutant that exhibited decreased epicuticular wax load, increased cuticle permeability, and reduced seedling drought tolerance relative to wild-type.
    - The **gl6** gene represents a novel maize glossy gene containing a conserved, but uncharacterized, DUF538 domain.
-   - The GL6 protein may be involved in the intracellular trafficking of cuticular waxes, opening the door to elucidating the poorly understood process by which cuticular wax is transported from its site of biosynthesis to the plasma membrane.
+   - The **gl6** protein may be involved in the intracellular trafficking of cuticular waxes, opening the door to elucidating the poorly understood process by which cuticular wax is transported from its site of biosynthesis to the plasma membrane.
 
 ## Literature:
    - [Maize glossy6 is involved in cuticular wax deposition and drought tolerance.]( https://academic.oup.com/jxb/article/70/12/3089/5421310?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erz131](https://academic.oup.com/jxb/article/70/12/3089/5421310?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30919902](https://pubmed.ncbi.nlm.nih.gov/30919902/)
@@ -28,7 +28,9 @@ tags: [ drought,seedling,tolerance,drought tolerance,cuticle,plasma membrane,cut
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,seedling,tolerance,drought tolerance,cuticle,plasma membrane,cuticular wax biosynthesis,wax biosynthesis
 
 ## Sequences:

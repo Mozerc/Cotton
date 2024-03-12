@@ -10,13 +10,13 @@ tags: [ development,seed,mitochondria,seed development ]
 - **Gene ID:**	[Zm00001eb188450]()
 - **Gene Symbol:** DEK56
 - **Gene Name:** DEFECTIVE KERNEL 56
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **DEFECTIVE KERNEL 56** functions in mitochondrial RNA editing and maize seed development.
+   - DEFECTIVE KERNEL 56 functions in mitochondrial RNA editing and maize seed development.
    - **DEK56** encodes a mitochondria-targeted E subgroup PPR protein.
-   - **DEk56** exhibited an irregular mitochondrion with a collapsed inner structure.
+   - **DEK56** exhibited an irregular mitochondrion with a collapsed inner structure.
 
 ## Literature:
    - [DEK48 Is Required for RNA Editing at Multiple Mitochondrial Sites and Seed Development in Maize.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad598/7416742?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23063064](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad598/7416742?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35328485](https://pubmed.ncbi.nlm.nih.gov/35328485/)
@@ -28,7 +28,9 @@ tags: [ development,seed,mitochondria,seed development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,seed,mitochondria,seed development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,aba, aba  ]
 - **Gene ID:**	[CA07g11530]()
 - **Gene Symbol:** CaADIK1;CaMEKK22
 - **Gene Name:** Capsicum annuum ADIP1 Interacting MAP3 Kinase 1
-- **Genome Version:** [Pepper.v.1.55]()
+- **Genome:** [Pepper.v.1.55]()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,aba, aba 
 
 ## Sequences:

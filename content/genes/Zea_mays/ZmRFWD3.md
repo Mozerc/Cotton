@@ -10,7 +10,7 @@ tags: [ nitrogen,development,endosperm,endosperm development ]
 - **Gene ID:**	[Zm00001eb000650]()
 - **Gene Symbol:** ZmRFWD3
 - **Gene Name:** ring finger and WD40 repeat3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ nitrogen,development,endosperm,endosperm development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,development,endosperm,endosperm development
 
 ## Sequences:

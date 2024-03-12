@@ -10,7 +10,7 @@ tags: [ cell wall ]
 - **Gene ID:**	[Arahy.08SQ5V.1]()
 - **Gene Symbol:** AhNGHb
 - **Gene Name:** 
-- **Genome Version:** [Arachis hypogaea cv. Tifrunner]()
+- **Genome:** [Arachis hypogaea cv. Tifrunner]()
 - **Species:** *Arachis hypogaea*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cell wall ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cell wall
 
 ## Sequences:

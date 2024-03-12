@@ -10,7 +10,7 @@ tags: [ homeostasis,fe,fe homeostasis ]
 - **Gene ID:**	[Solyc10g079680]()
 - **Gene Symbol:** SlbHLH101
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ homeostasis,fe,fe homeostasis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 homeostasis,fe,fe homeostasis
 
 ## Sequences:

@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [XP_018433953.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_018433953.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

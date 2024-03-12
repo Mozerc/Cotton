@@ -10,7 +10,7 @@ tags: [ seedlings,stress,salt,nucleus,salt stress ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GmHKT1
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seedlings,stress,salt,nucleus,salt stress ]
 - **NCBI ID:** [XM_014764887.2](https://www.ncbi.nlm.nih.gov/gene/?term=XM_014764887.2)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,stress,salt,nucleus,salt stress
 
 ## Sequences:

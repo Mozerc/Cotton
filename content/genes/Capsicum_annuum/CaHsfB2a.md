@@ -10,7 +10,7 @@ tags: [ tolerance,immunity,plant immunity ]
 - **Gene ID:**	[CA03g16300]()
 - **Gene Symbol:** CaHsfB2a
 - **Gene Name:** 
-- **Genome Version:** [Pepper.v.1.55]()
+- **Genome:** [Pepper.v.1.55]()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [ tolerance,immunity,plant immunity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tolerance,immunity,plant immunity
 
 ## Sequences:

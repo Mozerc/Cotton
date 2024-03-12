@@ -10,7 +10,7 @@ tags: [ flavonoid,flavonoid metabolism ]
 - **Gene ID:**	[VIT_213s0067g03140]()
 - **Gene Symbol:** VvWRKY70
 - **Gene Name:** 
-- **Genome Version:** [V. vinifera-PN40024 version 12x.V2 (http://www.grapegenomics.com/pages/PN40024/)]()
+- **Genome:** [V. vinifera-PN40024 version 12x.V2 (http://www.grapegenomics.com/pages/PN40024/)]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ flavonoid,flavonoid metabolism ]
 - **NCBI ID:** [OP251191](https://www.ncbi.nlm.nih.gov/gene/?term=OP251191)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flavonoid,flavonoid metabolism
 
 ## Sequences:

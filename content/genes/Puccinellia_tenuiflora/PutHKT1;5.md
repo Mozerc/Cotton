@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [OL792615](https://www.ncbi.nlm.nih.gov/gene/?term=OL792615)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

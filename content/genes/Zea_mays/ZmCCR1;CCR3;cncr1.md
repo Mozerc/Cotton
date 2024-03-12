@@ -10,12 +10,12 @@ tags: [ growth,development,plant development,drought,plant growth ]
 - **Gene ID:**	[Zm00001eb041120]()
 - **Gene Symbol:** ZmCCR1;CCR3;cncr1
 - **Gene Name:** cinnamoyl CoA reductase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Characterization of a cinnamoyl-CoA reductase 1 (CCR1) mutant in maize: effects on lignification, fibre development, and global gene expression.
-   - Zmccr1– exhibited enhanced digestibility without compromising plant growth and development.
+   - **ZmCCR1**– exhibited enhanced digestibility without compromising plant growth and development.
    - Whereas **ZmCCR1** was preferentially expressed in all lignifying tissues, ZmCCR2 was detected mainly in roots and it was shown to be induced by drought conditions.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ growth,development,plant development,drought,plant growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,plant development,drought,plant growth
 
 ## Sequences:

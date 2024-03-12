@@ -10,7 +10,7 @@ tags: [ flavonoid,chlorophyll,flavonoid metabolism ]
 - **Gene ID:**	[Solyc07g055000]()
 - **Gene Symbol:** SlMYB72
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ flavonoid,chlorophyll,flavonoid metabolism ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flavonoid,chlorophyll,flavonoid metabolism
 
 ## Sequences:

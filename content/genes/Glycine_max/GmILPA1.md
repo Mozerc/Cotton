@@ -10,7 +10,7 @@ tags: [ leaf,growth,cell division ]
 - **Gene ID:**	[Glyma.11G026400.1]()
 - **Gene Symbol:** GmILPA1
 - **Gene Name:** Increased Leaf Petiole Angle1
-- **Genome Version:** [Williams 82 reference genome]()
+- **Genome:** [Williams 82 reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,growth,cell division ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,growth,cell division
 
 ## Sequences:

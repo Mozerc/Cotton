@@ -10,7 +10,7 @@ tags: [ transcription factor,stress,tolerance,stress tolerance,osmotic tolerance
 - **Gene ID:**	[Zm00001eb330910]()
 - **Gene Symbol:** ZmNAC2;ZmNAC87;nactf2
 - **Gene Name:** NAC-transcription factor 2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,stress,tolerance,stress tolerance,osmotic tolerance
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,stress,tolerance,stress tolerance,osmotic tolerance,stress response,osmotic stress
 
 ## Sequences:

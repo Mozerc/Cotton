@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** BdFAR4
 - **Gene Name:** 
-- **Genome Version:** [Brachypodium_distachyon_v3.0]()
+- **Genome:** [Brachypodium_distachyon_v3.0]()
 - **Species:** *Brachypodium distachyon*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [MF285084.1](https://www.ncbi.nlm.nih.gov/gene/?term=MF285084.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

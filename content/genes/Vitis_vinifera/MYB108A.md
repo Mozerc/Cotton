@@ -10,7 +10,7 @@ tags: [ salt,tolerance,ethylene,salt tolerance,melatonin,melatonin biosynthesis 
 - **Gene ID:**	[VIT_205s0077g00500]()
 - **Gene Symbol:** MYB108A
 - **Gene Name:** 
-- **Genome Version:** [genome assembly 12X.v2]()
+- **Genome:** [genome assembly 12X.v2]()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ salt,tolerance,ethylene,salt tolerance,melatonin,melatonin biosynthesis 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 salt,tolerance,ethylene,salt tolerance,melatonin,melatonin biosynthesis
 
 ## Sequences:

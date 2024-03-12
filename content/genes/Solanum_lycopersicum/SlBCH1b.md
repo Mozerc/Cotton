@@ -3,14 +3,14 @@ description: β-RING CAROTENE HYDROXYLASE 1b ; Solyc06g036260 ; Solanum lycopers
 meta_title:
 title: SlBCH1b
 categories: [Solanum lycopersicum]
-tags: [ tolerance,cold tolerance,aba,cold,breeding,resistant, aba  ]
+tags: [ tolerance,cold tolerance,aba,cold,breeding,resistant ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc06g036260]()
 - **Gene Symbol:** SlBCH1b
 - **Gene Name:** β-RING CAROTENE HYDROXYLASE 1b
-- **Genome Version:** [tomato genome Version SL2.5]()
+- **Genome:** [tomato genome Version SL2.5]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ tolerance,cold tolerance,aba,cold,breeding,resistant, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-tolerance,cold tolerance,aba,cold,breeding,resistant, aba 
+## Orthologs:
+
+## Keywords:
+tolerance,cold tolerance,aba,cold,breeding,resistant
 
 ## Sequences:
 - **CDS Sequence:**

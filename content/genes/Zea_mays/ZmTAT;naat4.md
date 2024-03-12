@@ -10,7 +10,7 @@ tags: [ homeostasis,iron,iron homeostasis ]
 - **Gene ID:**	[Zm00001eb240650]()
 - **Gene Symbol:** ZmTAT;naat4
 - **Gene Name:** nicotianamine aminotransferase4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ homeostasis,iron,iron homeostasis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 homeostasis,iron,iron homeostasis
 
 ## Sequences:

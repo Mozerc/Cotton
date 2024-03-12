@@ -10,11 +10,11 @@ tags: [ flowering ]
 - **Gene ID:**	[Glyma.11G136600]()
 - **Gene Symbol:** LUX2
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 (W82) reference genome (Phytozome; https://phytozome.jgi.doe.gov/soybean)]()
+- **Genome:** [Williams 82 (W82) reference genome ]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
-   - lux1 lux2 double mutant shows extremely late flowering and a massively extended flowering phase. 
+   - lux1 **LUX2** double mutant shows extremely late flowering and a massively extended flowering phase. 
    - LUX1 and **LUX2** Are the Critical Regulators in Soybean Flowering under SD Conditions.
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering
 
 ## Sequences:

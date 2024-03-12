@@ -10,12 +10,12 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb041930]()
 - **Gene Symbol:** ZmBADH2b;aldh9
 - **Gene Name:** aldehyde dehydrogenase9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - These results suggest that ZmBADH2a and **ZmBADH2b** redundantly participate in 2AP biosynthesis in maize, and represent the creation of the world's first aromatic maize by simultaneous genome editing of the two BADH2 genes.
-   - Here, we characterized the two maize BADH2 homologs, ZmBADH2a and **ZmBADH2b**. We generated zmbadh2a and zmbadh2b single mutants and the zmbadh2a-zmbadh2b double mutant by CRISPR/Cas in four inbred lines. A popcorn-like scent was only noticeable in seeds from the double mutant, but not from either single mutant or in wild type.
+   - Here, we characterized the two maize BADH2 homologs, ZmBADH2a and **ZmBADH2b**. We generated zmbadh2a and **ZmBADH2b** single mutants and the zmbadh2a-**ZmBADH2b** double mutant by CRISPR/Cas in four inbred lines. A popcorn-like scent was only noticeable in seeds from the double mutant, but not from either single mutant or in wild type.
    - These results demonstrated that ZmBADH2a and **ZmBADH2b** are both involved in 2AP biosynthesis and only their combined inactivation results in 2AP accumulation in maize.
 
 ## Literature:
@@ -29,7 +29,9 @@ tags: [  ]
 - **NCBI ID:** [LOC606443](https://www.ncbi.nlm.nih.gov/gene/?term=LOC606443)
 - **UniProt accessions:** [A0A1D6KPH6](https://www.uniprot.org/uniprotkb/A0A1D6KPH6/entry)&nbsp;,&nbsp;[A0A1D6KPH7](https://www.uniprot.org/uniprotkb/A0A1D6KPH7/entry)&nbsp;,&nbsp;[A0A1D6KPH8](https://www.uniprot.org/uniprotkb/A0A1D6KPH8/entry)&nbsp;,&nbsp;[G5DDC2](https://www.uniprot.org/uniprotkb/G5DDC2/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

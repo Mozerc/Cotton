@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[SolyC03g120910]()
 - **Gene Symbol:** SlHB15A
 - **Gene Name:** 
-- **Genome Version:** [Sol Genomics Network (ITAG3.0 release, http://solgenomics.net/)]()
+- **Genome:** [Sol Genomics Network (ITAG3.0 release, http://solgenomics.net/)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

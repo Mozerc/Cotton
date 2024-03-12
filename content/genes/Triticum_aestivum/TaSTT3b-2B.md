@@ -10,7 +10,7 @@ tags: [ grain,grain size,resistance,defense,immunity,innate immunity,grain weigh
 - **Gene ID:**	[TraesCS2B02G587900]()
 - **Gene Symbol:** TaSTT3b-2B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ grain,grain size,resistance,defense,immunity,innate immunity,grain weigh
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain size,resistance,defense,immunity,innate immunity,grain weight,plant immunity
 
 ## Sequences:

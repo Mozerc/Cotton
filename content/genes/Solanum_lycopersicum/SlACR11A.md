@@ -10,7 +10,7 @@ tags: [ seedlings,tolerance,cold tolerance,cold ]
 - **Gene ID:**	[Solyc03g117890]()
 - **Gene Symbol:** SlACR11A
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ seedlings,tolerance,cold tolerance,cold ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seedlings,tolerance,cold tolerance,cold
 
 ## Sequences:

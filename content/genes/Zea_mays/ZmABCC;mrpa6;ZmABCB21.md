@@ -10,7 +10,7 @@ tags: [ cytoplasm ]
 - **Gene ID:**	[Zm00001eb341220]()
 - **Gene Symbol:** ZmABCC;mrpa6;ZmABCB21
 - **Gene Name:** multidrug resistance associated protein6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ cytoplasm ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cytoplasm
 
 ## Sequences:

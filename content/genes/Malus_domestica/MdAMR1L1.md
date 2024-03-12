@@ -10,7 +10,7 @@ tags: [ pyrophosphorylase ]
 - **Gene ID:**	[MD15G1235900]()
 - **Gene Symbol:** MdAMR1L1
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ pyrophosphorylase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 pyrophosphorylase
 
 ## Sequences:

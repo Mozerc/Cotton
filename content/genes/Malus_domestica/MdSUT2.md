@@ -3,14 +3,14 @@ description: MDP0000277235 ; Malus domestica
 meta_title:
 title: MdSUT2
 categories: [Malus domestica]
-tags: [ stress,tolerance,aba,stress tolerance,sugar,flowering time, aba ,flowering ]
+tags: [ stress,tolerance,aba,stress tolerance,sugar,flowering time,flowering ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000277235]()
 - **Gene Symbol:** MdSUT2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ stress,tolerance,aba,stress tolerance,sugar,flowering time, aba ,floweri
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stress,tolerance,aba,stress tolerance,sugar,flowering time, aba ,flowering
+## Orthologs:
+
+## Keywords:
+stress,tolerance,aba,stress tolerance,sugar,flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

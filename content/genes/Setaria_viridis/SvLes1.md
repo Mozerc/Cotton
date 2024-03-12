@@ -26,6 +26,9 @@ tags: [ seed,shattering,seed shattering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
+## Orthologs:
+
+
 ## Keywords:
 seed,shattering,seed shattering
 

@@ -3,14 +3,14 @@ description: GRMZM2G354338 ; Zea mays
 meta_title:
 title: ARGOS8
 categories: [Zea mays]
-tags: [ grain,drought,stress,drought stress,drought stress ,grain yield,yield,ethylene,drought sensitivity ]
+tags: [ grain,drought,stress,drought stress,grain yield,yield,ethylene,drought sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G354338]()
 - **Gene Symbol:** ARGOS8
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ grain,drought,stress,drought stress,drought stress ,grain yield,yield,et
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-grain,drought,stress,drought stress,drought stress ,grain yield,yield,ethylene,drought sensitivity
+## Orthologs:
+
+## Keywords:
+grain,drought,stress,drought stress,grain yield,yield,ethylene,drought sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

@@ -3,14 +3,14 @@ description: TraesCS4A02G219700 ; Triticum aestivum
 meta_title:
 title: TaNAC071-A
 categories: [Triticum aestivum]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,reproductive ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,reproductive ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G219700]()
 - **Gene Symbol:** TaNAC071-A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,reproductive
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,reproductive
 
 ## Sequences:
 - **CDS Sequence:**

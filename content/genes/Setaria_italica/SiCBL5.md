@@ -10,7 +10,7 @@ tags: [ salt,tolerance,salt tolerance,homeostasis ]
 - **Gene ID:**	[Seita.5G214600]()
 - **Gene Symbol:** SiCBL5
 - **Gene Name:** 
-- **Genome Version:** [Setaria italica v2.2]()
+- **Genome:** [Setaria italica v2.2]()
 - **Species:** *Setaria italica*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ salt,tolerance,salt tolerance,homeostasis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 salt,tolerance,salt tolerance,homeostasis
 
 ## Sequences:

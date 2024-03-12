@@ -3,14 +3,14 @@ description: Zm00001d044612 ; Zea mays
 meta_title:
 title: ZmMs33
 categories: [Zea mays]
-tags: [ development,anther,sterility,stress,ja,anther development,male sterility,stress response, ja  ]
+tags: [ development,anther,sterility,stress,ja,anther development,male sterility,stress response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d044612]()
 - **Gene Symbol:** ZmMs33
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ development,anther,sterility,stress,ja,anther development,male sterility
    - **ZmMs33** in stress response during anther development.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514123000764)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.06.002](https://www.sciencedirect.com/science/article/pii/S2214514123000764)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514123000764)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.06.002](https://www.sciencedirect.com/science/article/pii/S2214514123000764)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | 北京科技大学万向元团队揭示茉莉酸介导的胁迫应答与雄性不育间共享机制](https://mp.weixin.qq.com/s/dN6QD2_zQMPi1wYFVpqVxg)
@@ -28,8 +28,10 @@ tags: [ development,anther,sterility,stress,ja,anther development,male sterility
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-development,anther,sterility,stress,ja,anther development,male sterility,stress response, ja 
+## Orthologs:
+
+## Keywords:
+development,anther,sterility,stress,ja,anther development,male sterility,stress response
 
 ## Sequences:
 - **CDS Sequence:**

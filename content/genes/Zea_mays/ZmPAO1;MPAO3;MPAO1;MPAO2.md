@@ -10,13 +10,13 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb413630]()
 - **Gene Symbol:** ZmPAO1;MPAO3;MPAO1;MPAO2
 - **Gene Name:** Polyamine Oxidase 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Knockdown or inhibition of enzymatic activity of **ZmPAO1** suppressed MCMV infection. Nevertheless.
-   - Silencing of **ZmPAO1** transcripts or inhibiting ZmPAO activity suppressed MCMV infection.
-   - MCMV-encoded p31 protein directly targets and enhances **ZmPAO1** enzyme activity.
+   - Knockdown or inhibition of enzymatic activity of **Z**MPAO1**** suppressed MCMV infection. Nevertheless.
+   - Silencing of **Z**MPAO1**** transcripts or inhibiting ZmPAO activity suppressed MCMV infection.
+   - MCMV-encoded p31 protein directly targets and enhances **Z**MPAO1**** enzyme activity.
 
 ## Literature:
    - [Maize miR167-ARF3/30-polyamine oxidase 1 module-regulated H2O2 production confers resistance to maize chlorotic mottle virus.]( https://academic.oup.com/plphys/article/189/2/1065/6550062?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac099](https://academic.oup.com/plphys/article/189/2/1065/6550062?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35298645](https://pubmed.ncbi.nlm.nih.gov/35298645/)
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

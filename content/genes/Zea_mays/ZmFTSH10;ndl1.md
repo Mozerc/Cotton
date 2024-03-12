@@ -10,12 +10,12 @@ tags: [ development,auxin,plant development,reproductive,reproductive developmen
 - **Gene ID:**	[Zm00001eb351270]()
 - **Gene Symbol:** ZmFTSH10;ndl1
 - **Gene Name:** needle1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - These results suggest that maize reproductive development may be more sensitive to the absence of **ZmFTSH10** activity than Arabidopsis.
-   - We pursued 2 complementary approaches to confirm that GRMZM2G038401, hereafter referred to as **ZmFTSH10**, corresponded to NDL1. First, we used a CRISPR-Cas9–based strategy with a gRNA targeting exon 5 of **ZmFTSH10** to create additional mutant alleles.
+   - We pursued 2 complementary approaches to confirm that GRMZM2G038401, hereafter referred to as **ZmFTSH10**, corresponded to **ndl1**. First, we used a CRISPR-Cas9–based strategy with a gRNA targeting exon 5 of **ZmFTSH10** to create additional mutant alleles.
    - Displays severe reproductive defects and strong genetic interactions with known mutants affected in the regulation of the plant hormone auxin
 
 ## Literature:
@@ -27,7 +27,9 @@ tags: [ development,auxin,plant development,reproductive,reproductive developmen
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,auxin,plant development,reproductive,reproductive development
 
 ## Sequences:

@@ -25,7 +25,10 @@ tags: [  ]
 - **NCBI ID:** [KM603510.1](https://www.ncbi.nlm.nih.gov/gene/?term=KM603510.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

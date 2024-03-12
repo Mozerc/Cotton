@@ -10,7 +10,7 @@ tags: [ seed ]
 - **Gene ID:**	[Glyma.13g108100]()
 - **Gene Symbol:** GmPDAT
 - **Gene Name:** 
-- **Genome Version:** [genome Williams 82 v1.1]()
+- **Genome:** [genome Williams 82 v1.1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ seed ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stem,development,resistance,disease,disease resistance,blight,broad-spec
 - **Gene ID:**	[MELO03C012987]()
 - **Gene Symbol:** Gsb
 - **Gene Name:** Gummy stem blight
-- **Genome Version:** [Melon (DHL92) v3.6.1]()
+- **Genome:** [Melon (DHL92) v3.6.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stem,development,resistance,disease,disease resistance,blight,broad-spec
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stem,development,resistance,disease,disease resistance,blight,broad-spectrum disease resistance,blight disease,disease development
 
 ## Sequences:

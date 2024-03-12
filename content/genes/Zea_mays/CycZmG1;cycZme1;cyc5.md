@@ -10,7 +10,7 @@ tags: [ leaf,root,development,leaf development,root development,meristem,endospe
 - **Gene ID:**	[Zm00001eb332550]()
 - **Gene Symbol:** CycZmG1;cycZme1;cyc5
 - **Gene Name:** cyclin5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,root,development,leaf development,root development,meristem,endospe
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,root,development,leaf development,root development,meristem,endosperm,root apical meristem,endosperm development,root meristem
 
 ## Sequences:

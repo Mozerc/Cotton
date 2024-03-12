@@ -10,7 +10,7 @@ tags: [ resistance,stress,defense response,defense,yield,breeding,stress respons
 - **Gene ID:**	[Solyc05g007770.2.1]()
 - **Gene Symbol:** SlNAP1
 - **Gene Name:** 
-- **Genome Version:** [Tomato Genome version SL4.0]()
+- **Genome:** [Tomato Genome version SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance,stress,defense response,defense,yield,breeding,stress respons
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,stress,defense response,defense,yield,breeding,stress response
 
 ## Sequences:

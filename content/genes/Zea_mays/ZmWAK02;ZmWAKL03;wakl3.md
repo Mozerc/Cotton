@@ -10,7 +10,7 @@ tags: [ leaf,grain,resistance,grain yield,yield,resistant,grain protein ]
 - **Gene ID:**	[Zm00001eb034290]()
 - **Gene Symbol:** ZmWAK02;ZmWAKL03;wakl3
 - **Gene Name:** wall-associated receptor kinase-like3
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ leaf,grain,resistance,grain yield,yield,resistant,grain protein ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,grain,resistance,grain yield,yield,resistant,grain protein
 
 ## Sequences:

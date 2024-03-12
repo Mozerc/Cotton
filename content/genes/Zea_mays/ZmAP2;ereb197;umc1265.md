@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb068520]()
 - **Gene Symbol:** ZmAP2;ereb197;umc1265
 - **Gene Name:** AP2-EREBP-transcription factor 197
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC100280414](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280414)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

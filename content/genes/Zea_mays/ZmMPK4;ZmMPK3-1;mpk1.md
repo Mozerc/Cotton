@@ -10,7 +10,7 @@ tags: [ temperature,stress,tolerance,stress tolerance,sugar,reactive oxygen spec
 - **Gene ID:**	[Zm00001eb397190]()
 - **Gene Symbol:** ZmMPK4;ZmMPK3-1;mpk1
 - **Gene Name:** MAP kinase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ temperature,stress,tolerance,stress tolerance,sugar,reactive oxygen spec
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 temperature,stress,tolerance,stress tolerance,sugar,reactive oxygen species,catalase
 
 ## Sequences:

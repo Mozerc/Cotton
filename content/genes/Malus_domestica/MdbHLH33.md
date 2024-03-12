@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdbHLH33
 - **Gene Name:** Malus domestica basic helix-loop-helix 33
-- **Genome Version:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:** [DQ266451](https://www.ncbi.nlm.nih.gov/gene/?term=DQ266451)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

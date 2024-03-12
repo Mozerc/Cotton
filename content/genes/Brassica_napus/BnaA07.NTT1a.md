@@ -10,7 +10,7 @@ tags: [ growth,starch,homeostasis,plant growth ]
 - **Gene ID:**	[BnaA07g38360D]()
 - **Gene Symbol:** BnaA07.NTT1a
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ growth,starch,homeostasis,plant growth ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 growth,starch,homeostasis,plant growth
 
 ## Sequences:

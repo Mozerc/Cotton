@@ -3,14 +3,14 @@ description: calcium dependent protein kinase32 ; Zm00001eb107190 ; Zea mays
 meta_title:
 title: ZmCPK37;ZmCBL3
 categories: [Zea mays]
-tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane, aba  ]
+tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb107190]()
 - **Gene Symbol:** ZmCPK37;ZmCBL3;ZmCDPK37;ZmCDPK7;cdpk32
 - **Gene Name:** calcium dependent protein kinase32
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,8 +32,10 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane, 
 - **NCBI ID:** [LOC100280693](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280693)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane, aba 
+## Orthologs:
+
+## Keywords:
+drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane
 
 ## Sequences:
 - **CDS Sequence:**

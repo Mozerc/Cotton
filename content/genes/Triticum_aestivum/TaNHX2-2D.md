@@ -10,7 +10,7 @@ tags: [ stress,potassium,osmotic stress ]
 - **Gene ID:**	[TraesCS2D02G123000]()
 - **Gene Symbol:** TaNHX2-2D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stress,potassium,osmotic stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,potassium,osmotic stress
 
 ## Sequences:

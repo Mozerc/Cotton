@@ -10,7 +10,7 @@ tags: [ protoplasts ]
 - **Gene ID:**	[Zm00001eb312870]()
 - **Gene Symbol:** ZmWRKY76;wrky53
 - **Gene Name:** WRKY-transcription factor 53
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ protoplasts ]
 - **NCBI ID:** [LOC100147737](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100147737)
 - **UniProt accessions:** [B1Q040](https://www.uniprot.org/uniprotkb/B1Q040/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 protoplasts
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ stress,yield,adaptability ]
 - **Gene ID:**	[Glyma.02g022000]()
 - **Gene Symbol:** GmPLP1
 - **Gene Name:** 
-- **Genome Version:** [reference genome Wm82.a2.v1]()
+- **Genome:** [reference genome Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,yield,adaptability ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,yield,adaptability
 
 ## Sequences:

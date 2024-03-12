@@ -10,7 +10,7 @@ tags: [ resistance,disease,disease resistance,pathogen,pathogen resistance ]
 - **Gene ID:**	[Solyc08g065610]()
 - **Gene Symbol:** SlVPE3
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance,disease,disease resistance,pathogen,pathogen resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,disease,disease resistance,pathogen,pathogen resistance
 
 ## Sequences:

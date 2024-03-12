@@ -10,7 +10,7 @@ tags: [ grain,grain number,grain yield,yield,grain weight,heading time ]
 - **Gene ID:**	[TraesCS3B02G162000]()
 - **Gene Symbol:** FT-B2
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,grain number,grain yield,yield,grain weight,heading time ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain number,grain yield,yield,grain weight,heading time
 
 ## Sequences:

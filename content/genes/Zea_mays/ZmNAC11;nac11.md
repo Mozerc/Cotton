@@ -10,13 +10,13 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb015570]()
 - **Gene Symbol:** ZmNAC11;nac11
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmNAC11** and ZmNAC29, activate ZmEXPB15 expression. Accordingly, these two TFs also promote kernel size and weight through nucellus elimination regulation.
-   - ZmEXPB15 acts genetically with **ZmNAC11** and ZmNAC29 to control kernel weight.
-   - Mutations in **ZmNAC11** and ZmNAC29 cause similar kernel defects to zmexpb15.
+   - **Zm**nac11**** and ZmNAC29, activate ZmEXPB15 expression. Accordingly, these two TFs also promote kernel size and weight through nucellus elimination regulation.
+   - ZmEXPB15 acts genetically with **Zm**nac11**** and ZmNAC29 to control kernel weight.
+   - Mutations in **Zm**nac11**** and ZmNAC29 cause similar kernel defects to zmexpb15.
 
 ## Literature:
    - [A NAC-EXPANSIN module enhances maize kernel size by controlling nucellus elimination.]( https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-33513-4](https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36175574](https://pubmed.ncbi.nlm.nih.gov/36175574/)
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

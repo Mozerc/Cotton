@@ -3,14 +3,14 @@ description: Glyma.19G198600 ; Glycine max
 meta_title:
 title: GmSYP24
 categories: [Glycine max]
-tags: [ drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tolerance, aba ,stomata ]
+tags: [ drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tolerance,stomata ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.19G198600]()
 - **Gene Symbol:** GmSYP24
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm4.ann1]()
+- **Genome:** [glyma.Wm82.gnm4.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tole
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tolerance, aba ,stomata
+## Orthologs:
+
+## Keywords:
+drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tolerance,stomata
 
 ## Sequences:
 - **CDS Sequence:**

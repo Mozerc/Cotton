@@ -10,7 +10,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
 - **Gene ID:**	[Zm00001eb149240]()
 - **Gene Symbol:** ZmLAC9;ZmAOA;ZmLAC11
 - **Gene Name:** ZmLACCASE9
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,salt,tolerance,salt tolerance,cell wall,vascular development,lignin,secondary cell wall
 
 ## Sequences:

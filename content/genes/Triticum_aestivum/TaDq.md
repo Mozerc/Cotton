@@ -10,7 +10,7 @@ tags: [ development,plant development,floral,inflorescence,height,plant height,i
 - **Gene ID:**	[TraesCS5D02G486600]()
 - **Gene Symbol:** TaDq
 - **Gene Name:** 
-- **Genome Version:** [RefSeqv1.1]()
+- **Genome:** [RefSeqv1.1]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,plant development,floral,inflorescence,height,plant height,i
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,plant development,floral,inflorescence,height,plant height,inflorescence development
 
 ## Sequences:

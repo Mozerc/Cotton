@@ -3,14 +3,14 @@ description: Solyc03g098200 ; Solanum lycopersicum
 meta_title:
 title: SlHD8
 categories: [Solanum lycopersicum]
-tags: [ ja, ja  ]
+tags: [ ja ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc03g098200]()
 - **Gene Symbol:** SlHD8
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ ja, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja, ja 
+## Orthologs:
+
+## Keywords:
+ja
 
 ## Sequences:
 - **CDS Sequence:**

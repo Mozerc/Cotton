@@ -10,7 +10,7 @@ tags: [ auxin,floral ]
 - **Gene ID:**	[Csa7G067350 ]()
 - **Gene Symbol:** CsDFB1
 - **Gene Name:** DEFORMED FLORAL BUD1
-- **Genome Version:** [Cucumber (Chinese Long) v2 Genome]()
+- **Genome:** [Cucumber (Chinese Long) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ auxin,floral ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin,floral
 
 ## Sequences:

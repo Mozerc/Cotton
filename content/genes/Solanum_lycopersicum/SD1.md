@@ -10,7 +10,7 @@ tags: [ stem,development,kinase,protein kinase ]
 - **Gene ID:**	[Solyc09g082510]()
 - **Gene Symbol:** SD1
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ stem,development,kinase,protein kinase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,development,kinase,protein kinase
 
 ## Sequences:

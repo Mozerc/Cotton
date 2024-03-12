@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,stress,gibberellin,signal transduction,h
 - **Gene ID:**	[Zm00001eb283860]()
 - **Gene Symbol:** ZmGA2ox;ZmGA2ox6;ga2ox6
 - **Gene Name:** gibberellin 2-oxidase6
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,leaf senescence,senescence,stress,gibberellin,signal transduction,h
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,leaf senescence,senescence,stress,gibberellin,signal transduction,heat stress
 
 ## Sequences:

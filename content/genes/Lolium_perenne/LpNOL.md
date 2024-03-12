@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** LpNOL
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Lolium perenne*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ leaf,leaf senescence,senescence ]
 - **NCBI ID:** [KX686493](https://www.ncbi.nlm.nih.gov/gene/?term=KX686493)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 leaf,leaf senescence,senescence
 
 ## Sequences:

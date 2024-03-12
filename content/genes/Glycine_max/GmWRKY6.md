@@ -10,7 +10,7 @@ tags: [ tolerance,breeding,phosphorus ]
 - **Gene ID:**	[Glyma.15G110300.1]()
 - **Gene Symbol:** GmWRKY6
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ tolerance,breeding,phosphorus ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,breeding,phosphorus
 
 ## Sequences:

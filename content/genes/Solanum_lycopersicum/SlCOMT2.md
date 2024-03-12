@@ -10,7 +10,7 @@ tags: [ melatonin,melatonin biosynthesis,methyltransferase ]
 - **Gene ID:**	[Solyc10g85830]()
 - **Gene Symbol:** SlCOMT2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ melatonin,melatonin biosynthesis,methyltransferase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 melatonin,melatonin biosynthesis,methyltransferase
 
 ## Sequences:

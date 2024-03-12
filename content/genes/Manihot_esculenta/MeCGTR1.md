@@ -10,7 +10,7 @@ tags: [ transporter ]
 - **Gene ID:**	[Manes.17G021100]()
 - **Gene Symbol:** MeCGTR1
 - **Gene Name:** 
-- **Genome Version:** [Manihot esculenta, v8.1]()
+- **Genome:** [Manihot esculenta, v8.1]()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ transporter ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transporter
 
 ## Sequences:

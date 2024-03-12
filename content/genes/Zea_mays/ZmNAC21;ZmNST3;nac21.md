@@ -3,14 +3,14 @@ description: NAC-transcription factor 21 ; Zm00001eb269810 ; Zea mays
 meta_title:
 title: ZmNAC21;ZmNST3
 categories: [Zea mays]
-tags: [ resistance,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,lodging,lodging resistance,drought resistance ]
+tags: [ resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,lodging,lodging resistance,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb269810]()
 - **Gene Symbol:** ZmNAC21;ZmNST3;nac21
 - **Gene Name:** NAC-transcription factor 21
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ resistance,drought,stress,drought stress,drought stress ,tolerance,droug
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,lodging,lodging resistance,drought resistance
+## Orthologs:
+
+## Keywords:
+resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,lodging,lodging resistance,drought resistance
 
 ## Sequences:
 - **CDS Sequence:**

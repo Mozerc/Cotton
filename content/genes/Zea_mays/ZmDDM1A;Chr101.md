@@ -10,11 +10,11 @@ tags: [ development,embryo,cell proliferation,embryo development ]
 - **Gene ID:**	[Zm00001eb117870]()
 - **Gene Symbol:** ZmDDM1A;CHR101
 - **Gene Name:** chromatin complex subunit A 101
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Chr101/Chr106 double mutant caused embryo lethality with abnormalities in cell proliferation from the early stage of kernel development.
+   - **CHR101**/Chr106 double mutant caused embryo lethality with abnormalities in cell proliferation from the early stage of kernel development.
 
 ## Literature:
    - [Maize decrease in DNA methylation 1 targets RNA-directed DNA methylation on active chromatin.]( https://academic.oup.com/plcell/article/33/7/2183/6199447?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab098](https://academic.oup.com/plcell/article/33/7/2183/6199447?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33779761](https://pubmed.ncbi.nlm.nih.gov/33779761/)
@@ -26,7 +26,9 @@ tags: [ development,embryo,cell proliferation,embryo development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,embryo,cell proliferation,embryo development
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ leaf,architecture,plant architecture,leaf angle ]
 - **Gene ID:**	[Zm00001eb378590]()
 - **Gene Symbol:** ZmSCL28;gras42
 - **Gene Name:** SCARECROW-LIKE 28;GRAS-transcription factor 42
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,architecture,plant architecture,leaf angle ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,architecture,plant architecture,leaf angle
 
 ## Sequences:

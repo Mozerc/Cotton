@@ -10,7 +10,7 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[SoyZH13_11G141200/Glyma.U034500]()
 - **Gene Symbol:** PRR3a;Tof11
 - **Gene Name:** Time of Flowering 11
-- **Genome Version:** [glyma.Zh13.gnm1.ann1]()
+- **Genome:** [glyma.Zh13.gnm1.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

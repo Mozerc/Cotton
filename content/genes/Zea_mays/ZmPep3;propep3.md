@@ -10,7 +10,7 @@ tags: [ mature leaves,jasmonate,defense ]
 - **Gene ID:**	[Zm00001d002138]()
 - **Gene Symbol:** ZmPep3;propep3
 - **Gene Name:** precursor elicitor peptide3
-- **Genome Version:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ mature leaves,jasmonate,defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 mature leaves,jasmonate,defense
 
 ## Sequences:

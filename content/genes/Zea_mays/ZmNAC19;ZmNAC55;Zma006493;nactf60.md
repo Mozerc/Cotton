@@ -3,14 +3,14 @@ description: NAC-transcription factor 60 ; Zm00001eb212120 ; Zea mays
 meta_title:
 title: ZmNAC19;ZmNAC55
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,salt,tolerance,aba,drought tolerance,salt tolerance,salt stress,stress tolerance,breeding,salt sensitivity, aba ,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity ]
+tags: [ drought,stress,drought stress,salt,tolerance,aba,drought tolerance,salt tolerance,salt stress,stress tolerance,breeding,salt sensitivity,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb212120]()
 - **Gene Symbol:** ZmNAC19;ZmNAC55;Zma006493;nactf60
 - **Gene Name:** NAC-transcription factor 60
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,salt,tolerance,aba,drought
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,salt,tolerance,aba,drought tolerance,salt tolerance,salt stress,stress tolerance,breeding,salt sensitivity, aba ,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,salt,tolerance,aba,drought tolerance,salt tolerance,salt stress,stress tolerance,breeding,salt sensitivity,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity
 
 ## Sequences:
 - **CDS Sequence:**

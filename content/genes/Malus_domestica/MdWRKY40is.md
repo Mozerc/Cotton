@@ -10,7 +10,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[MD15G1039500]()
 - **Gene Symbol:** MdWRKY40is
 - **Gene Name:** 
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:** [LOC103442002](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103442002)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

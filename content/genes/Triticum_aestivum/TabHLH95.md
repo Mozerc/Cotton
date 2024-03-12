@@ -10,7 +10,7 @@ tags: [ grain,starch,nucleus,grain weight,grain protein ]
 - **Gene ID:**	[TraesCS6A02G114100]()
 - **Gene Symbol:** TabHLH95
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -30,7 +30,9 @@ tags: [ grain,starch,nucleus,grain weight,grain protein ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,starch,nucleus,grain weight,grain protein
 
 ## Sequences:

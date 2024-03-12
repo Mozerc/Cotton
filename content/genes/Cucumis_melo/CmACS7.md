@@ -10,7 +10,7 @@ tags: [ cell division,ethylene,cell expansion,ethylene production ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CmACS7
 - **Gene Name:** 
-- **Genome Version:** [Melon (Charmono) v1.1]()
+- **Genome:** [Melon (Charmono) v1.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cell division,ethylene,cell expansion,ethylene production ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cell division,ethylene,cell expansion,ethylene production
 
 ## Sequences:

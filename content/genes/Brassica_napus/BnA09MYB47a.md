@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[ZY821040006.1]()
 - **Gene Symbol:** BnA09MYB47a
 - **Gene Name:** 
-- **Genome Version:** [ZY821 reference genome]()
+- **Genome:** [ZY821 reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

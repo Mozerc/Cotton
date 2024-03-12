@@ -10,7 +10,7 @@ tags: [ resistance,defense,salicylic acid,homeostasis,detoxification ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** VvNAC72
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Vitis vinifera*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,defense,salicylic acid,homeostasis,detoxification ]
 - **NCBI ID:** [XM_002284632](https://www.ncbi.nlm.nih.gov/gene/?term=XM_002284632)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,defense,salicylic acid,homeostasis,detoxification
 
 ## Sequences:

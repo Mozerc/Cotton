@@ -26,7 +26,10 @@ tags: [ defense ]
 - **NCBI ID:** [XM_019394677.1](https://www.ncbi.nlm.nih.gov/gene/?term=XM_019394677.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 defense
 
 ## Sequences:

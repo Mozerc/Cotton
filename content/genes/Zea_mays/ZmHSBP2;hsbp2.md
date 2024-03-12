@@ -10,13 +10,13 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress ]
 - **Gene ID:**	[Zm00001eb380410]()
 - **Gene Symbol:** ZmHSBP2;hsbp2
 - **Gene Name:** HEAT SHOCK BINDING PROTEIN 2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - ZmHSFA2 and **ZmHSBP2** regulate raffinose biosynthesis and plant heat stress tolerance in maize.
-   - The ZmHSFA2 and **ZmHSBP2** proteins work together to positively or negatively, respectively, regulate raffinose biosynthesis and plant heat stress tolerance.
-   - **ZmHSBP2** physically interacts with ZmHSFA2 and antagonistically modulates raffinose biosynthesis and plant tolerance of heat stress.
+   - ZmHSFA2 and **Zm**hsbp2**** regulate raffinose biosynthesis and plant heat stress tolerance in maize.
+   - The ZmHSFA2 and **Zm**hsbp2**** proteins work together to positively or negatively, respectively, regulate raffinose biosynthesis and plant heat stress tolerance.
+   - **Zm**hsbp2**** physically interacts with ZmHSFA2 and antagonistically modulates raffinose biosynthesis and plant tolerance of heat stress.
 
 ## Literature:
    - [Maize HSFA2 and HSBP2 antagonistically modulate raffinose biosynthesis and heat tolerance in Arabidopsis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14434](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31180156](https://pubmed.ncbi.nlm.nih.gov/31180156/)
@@ -28,7 +28,9 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,tolerance,stress tolerance,heat tolerance,heat stress
 
 ## Sequences:

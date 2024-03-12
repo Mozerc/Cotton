@@ -10,7 +10,7 @@ tags: [ ga, ga ,dwarf ]
 - **Gene ID:**	[Cla015407]()
 - **Gene Symbol:** Cldf
 - **Gene Name:** 
-- **Genome Version:** [latermelon database 97103 V1 (http://cucurbitgenomics.org/organism/1)]()
+- **Genome:** [latermelon database 97103 V1 (http://cucurbitgenomics.org/organism/1)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ ga, ga ,dwarf ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ga, ga ,dwarf
 
 ## Sequences:

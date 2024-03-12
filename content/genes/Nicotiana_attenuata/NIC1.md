@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [ MZ541068](https://www.ncbi.nlm.nih.gov/gene/?term= MZ541068)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

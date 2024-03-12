@@ -3,14 +3,14 @@ description: GRMZM2G024530 ; Zea mays
 meta_title:
 title: ZmPTF1
 categories: [Zea mays]
-tags: [ root,growth,development,drought,tolerance,aba,drought tolerance,root development,root growth,abscisic acid,lateral root, aba ,root number,lateral root number ]
+tags: [ root,growth,development,drought,tolerance,aba,drought tolerance,root development,root growth,abscisic acid,lateral root,root number,lateral root number ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G024530]()
 - **Gene Symbol:** ZmPTF1
 - **Gene Name:** 
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ root,growth,development,drought,tolerance,aba,drought tolerance,root dev
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-root,growth,development,drought,tolerance,aba,drought tolerance,root development,root growth,abscisic acid,lateral root, aba ,root number,lateral root number
+## Orthologs:
+
+## Keywords:
+root,growth,development,drought,tolerance,aba,drought tolerance,root development,root growth,abscisic acid,lateral root,root number,lateral root number
 
 ## Sequences:
 - **CDS Sequence:**

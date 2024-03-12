@@ -3,14 +3,14 @@ description: Zm00001eb203780 ; Zea mays
 meta_title:
 title: ZmTGL
 categories: [Zea mays]
-tags: [ mitochondria,sa, sa  ]
+tags: [ mitochondria,sa ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb203780]()
 - **Gene Symbol:** ZmTGL
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,8 +29,10 @@ tags: [ mitochondria,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-mitochondria,sa, sa 
+## Orthologs:
+
+## Keywords:
+mitochondria,sa
 
 ## Sequences:
 - **CDS Sequence:**

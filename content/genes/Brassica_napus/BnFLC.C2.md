@@ -10,7 +10,7 @@ tags: [ breeding,flowering time,flowering ]
 - **Gene ID:**	[BnaC02g00490D]()
 - **Gene Symbol:** BnFLC.C2
 - **Gene Name:** 
-- **Genome Version:** [B. napus reference genome Darmor v4.1]()
+- **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ breeding,flowering time,flowering ]
 - **NCBI ID:** [KY964573](https://www.ncbi.nlm.nih.gov/gene/?term=KY964573)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 breeding,flowering time,flowering
 
 ## Sequences:

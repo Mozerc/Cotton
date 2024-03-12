@@ -10,7 +10,7 @@ tags: [ transcription factor,ethylene ]
 - **Gene ID:**	[Solyc02g082670]()
 - **Gene Symbol:** SlWOX13
 - **Gene Name:** 
-- **Genome Version:** [reference tomato genome SL4.0]()
+- **Genome:** [reference tomato genome SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,ethylene ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,ethylene
 
 ## Sequences:

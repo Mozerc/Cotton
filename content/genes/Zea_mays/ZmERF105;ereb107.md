@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance,transcription activator ]
 - **Gene ID:**	[Zm00001eb249320]()
 - **Gene Symbol:** ZmERF105;ereb107
 - **Gene Name:** AP2-EREBP-transcription factor 107
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ transcription factor,resistance,transcription activator ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance,transcription activator
 
 ## Sequences:

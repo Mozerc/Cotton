@@ -10,7 +10,7 @@ tags: [ resistance,cold,glucanase ]
 - **Gene ID:**	[MD12G1190700]()
 - **Gene Symbol:** MdMRLK2
 - **Gene Name:** Malus domestica FERONIA receptor-like kinase 2
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ resistance,cold,glucanase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,cold,glucanase
 
 ## Sequences:

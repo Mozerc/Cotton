@@ -3,14 +3,14 @@ description: Glyma.10g011300 ; Glycine max
 meta_title:
 title: GmWRKY54
 categories: [Glycine max]
-tags: [ drought,stress,drought stress,drought stress ,photosynthesis,tolerance,yield,drought tolerance,stress tolerance,stomatal ]
+tags: [ drought,stress,drought stress,photosynthesis,tolerance,yield,drought tolerance,stress tolerance,stomatal ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.10g011300]()
 - **Gene Symbol:** GmWRKY54
 - **Gene Name:** 
-- **Genome Version:** [Wm82.a2.v1]()
+- **Genome:** [Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,photosynthesis,tolerance,y
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,photosynthesis,tolerance,yield,drought tolerance,stress tolerance,stomatal
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,photosynthesis,tolerance,yield,drought tolerance,stress tolerance,stomatal
 
 ## Sequences:
 - **CDS Sequence:**

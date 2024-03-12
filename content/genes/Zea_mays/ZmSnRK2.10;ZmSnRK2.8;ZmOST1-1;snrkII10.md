@@ -3,14 +3,14 @@ description: SnRK2 serine threonine kinase10 ; Zm00001eb219160 ; Zea mays
 meta_title:
 title: ZmSnRK2.10;ZmSnRK2.8
 categories: [Zea mays]
-tags: [ development,grain,plant development,seed,grain filling,aba,flowering time,seed development, aba ,flowering,seed phenotype,seed filling ]
+tags: [ development,grain,plant development,seed,grain filling,aba,flowering time,seed development,flowering,seed phenotype,seed filling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb219160]()
 - **Gene Symbol:** ZmSnRK2.10;ZmSnRK2.8;ZmOST1-1;snrkII10
 - **Gene Name:** SnRK2 serine threonine kinase10
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ development,grain,plant development,seed,grain filling,aba,flowering tim
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-development,grain,plant development,seed,grain filling,aba,flowering time,seed development, aba ,flowering,seed phenotype,seed filling
+## Orthologs:
+
+## Keywords:
+development,grain,plant development,seed,grain filling,aba,flowering time,seed development,flowering,seed phenotype,seed filling
 
 ## Sequences:
 - **CDS Sequence:**

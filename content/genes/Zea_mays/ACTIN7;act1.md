@@ -1,16 +1,16 @@
 ---
-description: Zm00001eb348450 ; Zea mays
+description: actin1 ; Zm00001eb348450 ; Zea mays
 meta_title:
 title: ACTIN7;act1
 categories: [Zea mays]
-tags: [ stress,salt,salt stress,height,plant height ]
+tags: [ drought,stress,drought stress,salt,cold stress,salt stress,cold,height,plant height ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb348450]()
 - **Gene Symbol:** ACTIN7;act1
-- **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Gene Name:** actin1
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -23,11 +23,13 @@ tags: [ stress,salt,salt stress,height,plant height ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100282267](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282267)
+- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stress,salt,salt stress,height,plant height
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,salt,cold stress,salt stress,cold,height,plant height
 
 ## Sequences:
 - **CDS Sequence:**

@@ -3,14 +3,14 @@ description: Glyma.19G260900 ; Glycine max
 meta_title:
 title: LHY2a
 categories: [Glycine max]
-tags: [ ga, ga ,height,plant height,flowering time,flowering ]
+tags: [ ga,height,plant height,flowering time,flowering ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.19G260900]()
 - **Gene Symbol:** LHY2a
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ ga, ga ,height,plant height,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ga, ga ,height,plant height,flowering time,flowering
+## Orthologs:
+
+## Keywords:
+ga,height,plant height,flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

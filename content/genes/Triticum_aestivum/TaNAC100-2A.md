@@ -10,7 +10,7 @@ tags: [ seed,starch,seed weight,height,heading date,plant height,seed size ]
 - **Gene ID:**	[TraesCS2A02G338300]()
 - **Gene Symbol:** TaNAC100-2A
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ seed,starch,seed weight,height,heading date,plant height,seed size ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 seed,starch,seed weight,height,heading date,plant height,seed size
 
 ## Sequences:

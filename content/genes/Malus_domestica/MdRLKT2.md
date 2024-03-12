@@ -10,7 +10,7 @@ tags: [ kinase,resistance,immunity,pathogen,receptor kinase,pathogen resistance 
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdRLKT2
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ kinase,resistance,immunity,pathogen,receptor kinase,pathogen resistance 
 - **NCBI ID:** [LOC103455179](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103455179)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 kinase,resistance,immunity,pathogen,receptor kinase,pathogen resistance
 
 ## Sequences:

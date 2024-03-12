@@ -10,7 +10,7 @@ tags: [ chloroplast,development,chloroplast development ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsGLK2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ chloroplast,development,chloroplast development ]
 - **NCBI ID:** [MZ093620](https://www.ncbi.nlm.nih.gov/gene/?term=MZ093620)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 chloroplast,development,chloroplast development
 
 ## Sequences:

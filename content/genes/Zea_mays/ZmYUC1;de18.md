@@ -10,7 +10,7 @@ tags: [ development,auxin,seed,yield,endosperm,seed weight,seed size,seed develo
 - **Gene ID:**	[Zm00001eb409250]()
 - **Gene Symbol:** ZmYUC1;de18
 - **Gene Name:** defective18
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -31,7 +31,9 @@ tags: [ development,auxin,seed,yield,endosperm,seed weight,seed size,seed develo
 - **NCBI ID:** [100037821](https://www.ncbi.nlm.nih.gov/gene/?term=100037821)
 - **UniProt accessions:** [K7TFF5](https://www.uniprot.org/uniprotkb/K7TFF5/entry)&nbsp;,&nbsp;[A0A1D6IV45](https://www.uniprot.org/uniprotkb/A0A1D6IV45/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,auxin,seed,yield,endosperm,seed weight,seed size,seed development,endosperm development
 
 ## Sequences:

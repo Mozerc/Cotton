@@ -10,7 +10,7 @@ tags: [ grain,height,plant height,grain shape,phytohormone ]
 - **Gene ID:**	[TraesCS1D02G020000]()
 - **Gene Symbol:** TaACTIN7-D;TaACT7-D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ grain,height,plant height,grain shape,phytohormone ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,height,plant height,grain shape,phytohormone
 
 ## Sequences:

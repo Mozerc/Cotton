@@ -10,7 +10,7 @@ tags: [ ubiquitin,ubiquitin e3 ligase ]
 - **Gene ID:**	[Glyma.16G175300]()
 - **Gene Symbol:** GmUGT2
 - **Gene Name:** 
-- **Genome Version:** [Phytozome database (Glycine max Wm82.a2.v1)]()
+- **Genome:** [Phytozome database (Glycine max Wm82.a2.v1)]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

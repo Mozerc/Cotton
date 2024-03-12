@@ -10,7 +10,7 @@ tags: [ atpase,transporter,plasma membrane,mycorrhizal symbiosis,am symbiosis,sy
 - **Gene ID:**	[Zj.jz011205017]()
 - **Gene Symbol:** ZjHAK2
 - **Gene Name:** 
-- **Genome Version:** [“Junzao” reference genome]()
+- **Genome:** [“Junzao” reference genome]()
 - **Species:** *Ziziphus jujuba*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ atpase,transporter,plasma membrane,mycorrhizal symbiosis,am symbiosis,sy
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 atpase,transporter,plasma membrane,mycorrhizal symbiosis,am symbiosis,symbiosis
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ nitrate ]
 - **Gene ID:**	[MDP0000662999]()
 - **Gene Symbol:** MdCIbHLH1
 - **Gene Name:** Malus domestica Cold-induced bHLH1
-- **Genome Version:** [Malus × domestica GDDH13 v1.1]()
+- **Genome:** [Malus × domestica GDDH13 v1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ nitrate ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrate
 
 ## Sequences:

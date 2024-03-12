@@ -10,7 +10,7 @@ tags: [ development,spikelet,tiller,inflorescence,architecture,inflorescence arc
 - **Gene ID:**	[TraesCS4D02G040100]()
 - **Gene Symbol:** TaTB1-4D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,spikelet,tiller,inflorescence,architecture,inflorescence arc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,spikelet,tiller,inflorescence,architecture,inflorescence architecture,spikelet development,inflorescence development
 
 ## Sequences:

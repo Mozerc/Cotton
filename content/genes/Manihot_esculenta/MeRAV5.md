@@ -10,7 +10,7 @@ tags: [ immunity,plant immunity ]
 - **Gene ID:**	[Me.06G036900]()
 - **Gene Symbol:** MeRAV5
 - **Gene Name:** 
-- **Genome Version:** [cassava database of Phytozome v10.3(http://www.phytozome.net/cassava.php)]()
+- **Genome:** [cassava database of Phytozome v10.3(http://www.phytozome.net/cassava.php)]()
 - **Species:** *Manihot esculenta*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ immunity,plant immunity ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 immunity,plant immunity
 
 ## Sequences:

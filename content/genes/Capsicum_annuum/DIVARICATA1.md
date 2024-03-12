@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[CA12g06700]()
 - **Gene Symbol:** DIVARICATA1
 - **Gene Name:** 
-- **Genome Version:** [Pepper Genome Database version 1.55]()
+- **Genome:** [Pepper Genome Database version 1.55]()
 - **Species:** *Capsicum annuum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

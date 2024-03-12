@@ -3,14 +3,14 @@ description: Solyc05g012500 ; Solanum lycopersicum
 meta_title:
 title: SlWRKY57
 categories: [Solanum lycopersicum]
-tags: [ stress,ja,salt,tolerance,salt tolerance,salt stress,stress tolerance,phytohormone, ja  ]
+tags: [ stress,ja,salt,tolerance,salt tolerance,salt stress,stress tolerance,phytohormone ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc05g012500]()
 - **Gene Symbol:** SlWRKY57
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ stress,ja,salt,tolerance,salt tolerance,salt stress,stress tolerance,phy
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stress,ja,salt,tolerance,salt tolerance,salt stress,stress tolerance,phytohormone, ja 
+## Orthologs:
+
+## Keywords:
+stress,ja,salt,tolerance,salt tolerance,salt stress,stress tolerance,phytohormone
 
 ## Sequences:
 - **CDS Sequence:**

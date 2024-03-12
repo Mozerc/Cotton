@@ -10,7 +10,7 @@ tags: [ drought,starch,drought response ]
 - **Gene ID:**	[Pt3g009520]()
 - **Gene Symbol:** PtrBAM3
 - **Gene Name:** 
-- **Genome Version:** [Poncirus trifoliata v1.0]()
+- **Genome:** [Poncirus trifoliata v1.0]()
 - **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,starch,drought response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,starch,drought response
 
 ## Sequences:

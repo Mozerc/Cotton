@@ -10,7 +10,7 @@ tags: [ breeding ]
 - **Gene ID:**	[FvH4_1g27460]()
 - **Gene Symbol:** RAP
 - **Gene Name:** Reduced Anthocyanins in Petioles
-- **Genome Version:** [F. vesca reference genome V4.0]()
+- **Genome:** [F. vesca reference genome V4.0]()
 - **Species:** *Fragaria vesca*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 breeding
 
 ## Sequences:

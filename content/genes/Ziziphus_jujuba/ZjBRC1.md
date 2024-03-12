@@ -10,7 +10,7 @@ tags: [ transcription factor,auxin,callus ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** ZjBRC1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Ziziphus jujuba*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ transcription factor,auxin,callus ]
 - **NCBI ID:** [LOC107418855](https://www.ncbi.nlm.nih.gov/gene/?term=LOC107418855)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcription factor,auxin,callus
 
 ## Sequences:

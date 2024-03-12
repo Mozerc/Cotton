@@ -3,14 +3,14 @@ description: TraesCS5D02G142100 ; Triticum aestivum
 meta_title:
 title: TaTAP46
 categories: [Triticum aestivum]
-tags: [ drought,tolerance,aba,drought tolerance, aba ,drought response ]
+tags: [ drought,tolerance,aba,drought tolerance,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G142100]()
 - **Gene Symbol:** TaTAP46
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,tolerance,aba,drought tolerance, aba ,drought response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,tolerance,aba,drought tolerance, aba ,drought response
+## Orthologs:
+
+## Keywords:
+drought,tolerance,aba,drought tolerance,drought response
 
 ## Sequences:
 - **CDS Sequence:**

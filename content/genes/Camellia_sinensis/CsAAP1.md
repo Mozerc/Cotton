@@ -10,7 +10,7 @@ tags: [ root ]
 - **Gene ID:**	[TEA031577.1]()
 - **Gene Symbol:** CsAAP1
 - **Gene Name:** 
-- **Genome Version:** [TeaPGDB V1.0 since 2020]()
+- **Genome:** [TeaPGDB V1.0 since 2020]()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root ]
 - **NCBI ID:** [XM_028248385](https://www.ncbi.nlm.nih.gov/gene/?term=XM_028248385)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root
 
 ## Sequences:

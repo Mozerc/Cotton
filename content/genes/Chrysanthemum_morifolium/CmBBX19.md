@@ -10,7 +10,7 @@ tags: [ drought,tolerance,aba,drought tolerance,cell wall,cellulose,signaling pa
 - **Gene ID:**	[UN68402]()
 - **Gene Symbol:** CmBBX19
 - **Gene Name:** 
-- **Genome Version:** [Chrysanthemum genome v2.0]()
+- **Genome:** [Chrysanthemum genome v2.0]()
 - **Species:** *Chrysanthemum morifolium*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ drought,tolerance,aba,drought tolerance,cell wall,cellulose,signaling pa
 - **NCBI ID:** [KP963930](https://www.ncbi.nlm.nih.gov/gene/?term=KP963930)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,tolerance,aba,drought tolerance,cell wall,cellulose,signaling pathway gene, aba 
 
 ## Sequences:

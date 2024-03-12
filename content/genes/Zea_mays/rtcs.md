@@ -10,7 +10,7 @@ tags: [ root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,pr
 - **Gene ID:**	[Zm00001eb003920]()
 - **Gene Symbol:** rtcs
 - **Gene Name:** rootless concerning crown and seminal roots1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,pr
 - **NCBI ID:** [LOC100101548](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100101548)
 - **UniProt accessions:** [A5H448](https://www.uniprot.org/uniprotkb/A5H448/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,primary root,flavonoid biosynthesis
 
 ## Sequences:

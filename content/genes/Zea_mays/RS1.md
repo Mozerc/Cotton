@@ -10,11 +10,11 @@ tags: [ leaf,sheath ]
 - **Gene ID:**	[Zm00001eb299420]()
 - **Gene Symbol:** RS1
 - **Gene Name:** Rough sheath1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The Rs1 mutant phenotype is characterized by a disorganized ligular region and the presence of thick, sheath-like tissue at the base of the blade.
+   - The **RS1** mutant phenotype is characterized by a disorganized ligular region and the presence of thick, sheath-like tissue at the base of the blade.
    - The affected domain of Rsl mutant leaves has many attributes of sheath tissue; it is thick, rigid and paler green than the blade.
    - Rsl mutants alter cellular identity and organization in leaf tissues.
 
@@ -27,7 +27,9 @@ tags: [ leaf,sheath ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,sheath
 
 ## Sequences:

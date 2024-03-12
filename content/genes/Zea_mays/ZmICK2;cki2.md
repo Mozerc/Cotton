@@ -10,7 +10,7 @@ tags: [ stem ]
 - **Gene ID:**	[Zm00001eb221920]()
 - **Gene Symbol:** ZmICK2;cki2
 - **Gene Name:** cyclin-dependent kinase inhibitor2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ stem ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem
 
 ## Sequences:

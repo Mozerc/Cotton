@@ -10,7 +10,7 @@ tags: [ stress,cold stress,cold ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** PtrMYC2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ stress,cold stress,cold ]
 - **NCBI ID:** [MT919252](https://www.ncbi.nlm.nih.gov/gene/?term=MT919252)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stress,cold stress,cold
 
 ## Sequences:

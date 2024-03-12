@@ -10,7 +10,7 @@ tags: [ nucleus,cytokinin,cytokinin response,cytosol ]
 - **Gene ID:**	[Zm00001eb362820]()
 - **Gene Symbol:** ZmRR4;gpm84;crr4
 - **Gene Name:** cytokinin response regulator4
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ nucleus,cytokinin,cytokinin response,cytosol ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nucleus,cytokinin,cytokinin response,cytosol
 
 ## Sequences:

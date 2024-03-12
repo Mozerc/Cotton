@@ -10,7 +10,7 @@ tags: [ development,auxin,drought,tolerance,drought tolerance,auxin biosynthesis
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlMYB99
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ development,auxin,drought,tolerance,drought tolerance,auxin biosynthesis
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,auxin,drought,tolerance,drought tolerance,auxin biosynthesis,abscisic acid,abscisic acid biosynthesis
 
 ## Sequences:

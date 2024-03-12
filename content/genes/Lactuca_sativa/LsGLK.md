@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[LG4_347011]()
 - **Gene Symbol:** LsGLK
 - **Gene Name:** 
-- **Genome Version:** [Lsat_Salinas_v8]()
+- **Genome:** [Lsat_Salinas_v8]()
 - **Species:** *Lactuca sativa*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [  ]
 - **NCBI ID:** [MZ254626](https://www.ncbi.nlm.nih.gov/gene/?term=MZ254626)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

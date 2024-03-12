@@ -10,12 +10,12 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
 - **Gene ID:**	[Zm00001eb221050]()
 - **Gene Symbol:** Smk11
 - **Gene Name:** small kernel11
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - **Smk11** encodes a mitochondria-localized tetratricopeptide repeat protein. Disruption of **Smk11** severely affected the assembly and activity of mitochondrial complex IV, leading to delayed plant growth and seed development.
-   - SMK11 serves as an accessory assembly factor required for the normal assembly of subunits into complex IV, which will accelerate the elucidation of the assembly of complex IV in plant mitochondria.
+   - **Smk11** serves as an accessory assembly factor required for the normal assembly of subunits into complex IV, which will accelerate the elucidation of the assembly of complex IV in plant mitochondria.
    - **Smk11** is constitutively expressed and encodes a mitochondrial-localized TPR domain-containing protein.
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,plant development,seed,mitochondria,plant growth,seed development,seed growth
 
 ## Sequences:

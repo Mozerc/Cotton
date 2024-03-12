@@ -10,13 +10,13 @@ tags: [  ]
 - **Gene ID:**	[Glyma.10G186500]()
 - **Gene Symbol:** GmPHT1;4
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
    - Soybean Nodules Harbor Multiple PHR and PHT1 Homologs.
-   - Among these four **GmPHT1**s, **GmPHT1**;1 and **GmPHT1**;**4** were reported to function in nodules.
-   - **GmPHT1**;**4** is expressed in nonfixing regions of nodules.
+   - Among these four **GmPHT1**s, **GmPHT1**;1 and **GmPHT1**;4 were reported to function in nodules.
+   - **GmPHT1**;4 is expressed in nonfixing regions of nodules.
 
 ## Literature:
    - [Spatial Divergence of PHR-PHT1 Modules Maintains Phosphorus Homeostasis in Soybean Nodules.]( https://academic.oup.com/plphys/article/184/1/236/6117800?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.01209](https://academic.oup.com/plphys/article/184/1/236/6117800?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32680974](https://pubmed.ncbi.nlm.nih.gov/32680974/)
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

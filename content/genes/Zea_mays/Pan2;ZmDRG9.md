@@ -10,13 +10,13 @@ tags: [ stomatal ]
 - **Gene ID:**	[Zm00001eb117610]()
 - **Gene Symbol:** Pan2;ZmDRG9
 - **Gene Name:** PANGLOSS2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Stomatal closure in maize is mediated by subsidiary cells and the PAN2 receptor.
+   - Stomatal closure in maize is mediated by subsidiary cells and the **Pan2** receptor.
    - **Pan2** participate in defines polarization in divisions of subsidiary mother cells at guard cells
-   - PAN2 acts downstream of Ca2+ in maize to promote stomatal closure. This is in contrast to GHR1, which acts upstream of Ca2+, and suggests the pathways could be differently wired.
+   - **Pan2** acts downstream of Ca2+ in maize to promote stomatal closure. This is in contrast to GHR1, which acts upstream of Ca2+, and suggests the pathways could be differently wired.
 
 ## Literature:
    - [Stomatal closure in maize is mediated by subsidiary cells and the PAN2 receptor.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19379](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37936339](https://pubmed.ncbi.nlm.nih.gov/37936339/)
@@ -28,7 +28,9 @@ tags: [ stomatal ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stomatal
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ flavonoid,flavonoid biosynthesis ]
 - **Gene ID:**	[TEA023633]()
 - **Gene Symbol:** CsHSFA2
 - **Gene Name:** Camellia sinensis Heat stress factors A2
-- **Genome Version:** [TeaPGDB V1.0 since 2020]()
+- **Genome:** [TeaPGDB V1.0 since 2020]()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ flavonoid,flavonoid biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flavonoid,flavonoid biosynthesis
 
 ## Sequences:

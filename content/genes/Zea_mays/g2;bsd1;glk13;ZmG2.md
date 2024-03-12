@@ -10,7 +10,7 @@ tags: [ drought,photosynthesis,tolerance,aba,drought tolerance,stomatal, aba ,dr
 - **Gene ID:**	[Zm00001eb118900]()
 - **Gene Symbol:** g2;bsd1;glk13;ZmG2
 - **Gene Name:** golden plant2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ drought,photosynthesis,tolerance,aba,drought tolerance,stomatal, aba ,dr
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,photosynthesis,tolerance,aba,drought tolerance,stomatal, aba ,drought response
 
 ## Sequences:

@@ -10,12 +10,12 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb048110]()
 - **Gene Symbol:** ZmBz2;bz2;ZmHSP10;ZmGST10
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - ZmC1, ZmIn1, ZmDFR, ZmBz1 and **ZmBz2** were not detected in HiII embryos, whereas all the nine genes were actively expressed in purple transgenic embryos 
-   - ZmBz1, **ZmBz2**, ZmC1 and ZmR2 are four genes involved in anthocyanin synthesis.
+   - ZmC1, ZmIn1, ZmDFR, ZmBz1 and **Zm**bz2**** were not detected in HiII embryos, whereas all the nine genes were actively expressed in purple transgenic embryos 
+   - ZmBz1, **Zm**bz2****, ZmC1 and ZmR2 are four genes involved in anthocyanin synthesis.
 
 ## Literature:
    - [Engineering of &#x27;Purple Embryo Maize&#x27; with a multigene expression system derived from a bidirectional promoter and self-cleaving 2A peptides.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12883](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29337409](https://pubmed.ncbi.nlm.nih.gov/29337409/)
@@ -27,7 +27,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

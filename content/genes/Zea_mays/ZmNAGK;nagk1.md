@@ -3,14 +3,14 @@ description: N-acetylglutamate kinase1 ; Zm00001eb074610 ; Zea mays
 meta_title:
 title: ZmNAGK;nagk1
 categories: [Zea mays]
-tags: [ stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba ,stress response,drought stress response,drought response ]
+tags: [ stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb074610]()
 - **Gene Symbol:** ZmNAGK;nagk1
 - **Gene Name:** N-acetylglutamate kinase1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,dr
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba ,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

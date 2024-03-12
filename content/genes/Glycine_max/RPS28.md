@@ -10,7 +10,7 @@ tags: [ down-regulated genes,quality,yield,breeding,flowering time,flowering ]
 - **Gene ID:**	[Glyma.19G203300]()
 - **Gene Symbol:** RPS28
 - **Gene Name:** 40S RIBOSOMAL PROTEIN SMALL SUBUNIT S28
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ down-regulated genes,quality,yield,breeding,flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 down-regulated genes,quality,yield,breeding,flowering time,flowering
 
 ## Sequences:

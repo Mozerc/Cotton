@@ -10,7 +10,7 @@ tags: [ leaf,growth,fertility,floral,floral organ ]
 - **Gene ID:**	[Solyc03g118770]()
 - **Gene Symbol:** SlLAM1
 - **Gene Name:** SlWOX1
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ leaf,growth,fertility,floral,floral organ ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,growth,fertility,floral,floral organ
 
 ## Sequences:

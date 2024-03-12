@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[GRMZM2G151223]()
 - **Gene Symbol:** ZmHK1
 - **Gene Name:** Z. mays Histidine Kinase1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [NM_001111389](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001111389)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

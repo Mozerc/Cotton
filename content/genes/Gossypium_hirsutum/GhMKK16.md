@@ -10,7 +10,7 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,aba,drought tole
 - **Gene ID:**	[Gh_D11G0703]()
 - **Gene Symbol:** GhMKK16
 - **Gene Name:** 
-- **Genome Version:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,aba,drought tole
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance,stomatal, aba 
 
 ## Sequences:

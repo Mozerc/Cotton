@@ -3,14 +3,14 @@ description: mitogen-activated protein kinase 11 ; Solyc07g062080 ; Solanum lyco
 meta_title:
 title: SlMAPK11
 categories: [Solanum lycopersicum]
-tags: [ seed,seed germination,aba, aba  ]
+tags: [ seed,seed germination,aba ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc07g062080]()
 - **Gene Symbol:** SlMAPK11
 - **Gene Name:** mitogen-activated protein kinase 11
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ seed,seed germination,aba, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-seed,seed germination,aba, aba 
+## Orthologs:
+
+## Keywords:
+seed,seed germination,aba
 
 ## Sequences:
 - **CDS Sequence:**

@@ -10,7 +10,7 @@ tags: [ breeding ]
 - **Gene ID:**	[CsGy5G023910]()
 - **Gene Symbol:** CsCRC
 - **Gene Name:** CRABS CLAW
-- **Genome Version:** [Cucumber (Gy14) v2 Genome]()
+- **Genome:** [Cucumber (Gy14) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ breeding ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 breeding
 
 ## Sequences:

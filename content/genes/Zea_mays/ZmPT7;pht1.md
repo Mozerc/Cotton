@@ -10,7 +10,7 @@ tags: [ growth,phosphate ]
 - **Gene ID:**	[Zm00001eb222510]()
 - **Gene Symbol:** ZmPT7;pht1
 - **Gene Name:** phosphate transporter protein1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ growth,phosphate ]
 - **NCBI ID:** [NM_001111799](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001111799)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,phosphate
 
 ## Sequences:

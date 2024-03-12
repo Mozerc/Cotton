@@ -10,7 +10,7 @@ tags: [ photosynthesis,architecture,plant architecture ]
 - **Gene ID:**	[LG4_398401]()
 - **Gene Symbol:** LsNRL4
 - **Gene Name:** 
-- **Genome Version:** [Lsat_Salinas_v8]()
+- **Genome:** [Lsat_Salinas_v8]()
 - **Species:** *Lactuca sativa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ photosynthesis,architecture,plant architecture ]
 - **NCBI ID:** [LG4_398401](https://www.ncbi.nlm.nih.gov/gene/?term=LG4_398401)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 photosynthesis,architecture,plant architecture
 
 ## Sequences:

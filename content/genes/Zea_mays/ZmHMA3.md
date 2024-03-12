@@ -10,7 +10,7 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal ]
 - **Gene ID:**	[Zm00001eb095020]()
 - **Gene Symbol:** ZmHMA3
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal
 
 ## Sequences:

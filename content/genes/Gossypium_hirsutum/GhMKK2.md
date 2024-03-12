@@ -10,7 +10,7 @@ tags: [ resistance,flavonoid,flavonoid biosynthesis ]
 - **Gene ID:**	[CotAD_23706]()
 - **Gene Symbol:** GhMKK2
 - **Gene Name:** 
-- **Genome Version:** [Gossypium hirsutum (AD1) 'TM-1' genome CGP-BGI_v1(AD1_BGI database; downloaded from www.cottongen.org)]()
+- **Genome:** [Gossypium hirsutum (AD1) 'TM-1' genome CGP-BGI_v1(AD1_BGI database; downloaded from www.cottongen.org)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance,flavonoid,flavonoid biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,flavonoid,flavonoid biosynthesis
 
 ## Sequences:

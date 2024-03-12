@@ -10,7 +10,7 @@ tags: [ auxin,cell division,cell elongation,auxin transport,height,plant height,
 - **Gene ID:**	[Zm00001eb212620]()
 - **Gene Symbol:** ZmPP2Ac-2
 - **Gene Name:** prh28 - protein phosphatase homolog28
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ auxin,cell division,cell elongation,auxin transport,height,plant height,
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 auxin,cell division,cell elongation,auxin transport,height,plant height,phosphatase,as transport
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ grain,ubiquitin,ubiquitin e3 ligase ]
 - **Gene ID:**	[Seita.9G123200]()
 - **Gene Symbol:** SGD1
 - **Gene Name:** small grain and dwarf1
-- **Genome Version:** [Setaria italica v2.2]()
+- **Genome:** [Setaria italica v2.2]()
 - **Species:** *Setaria italica*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ grain,ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 grain,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

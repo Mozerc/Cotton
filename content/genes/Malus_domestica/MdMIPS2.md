@@ -10,7 +10,7 @@ tags: [ cell death,programmed cell death ]
 - **Gene ID:**	[MDP0000207103]()
 - **Gene Symbol:** MdMIPS2
 - **Gene Name:** Malus domestica the rate-limiting gene of myo-inositol biosynthesis
-- **Genome Version:** [Apple Genome Database v1.0]()
+- **Genome:** [Apple Genome Database v1.0]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ cell death,programmed cell death ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 cell death,programmed cell death
 
 ## Sequences:

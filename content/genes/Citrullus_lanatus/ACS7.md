@@ -10,7 +10,7 @@ tags: [ stem,root,growth,stress,ethylene,root elongation,meristem,root growth,pl
 - **Gene ID:**	[Cla97C03G066100]()
 - **Gene Symbol:** ACS7
 - **Gene Name:** carboxylate synthase 7
-- **Genome Version:** [Citrullus lanatus (Watermelon (97103) v2)]()
+- **Genome:** [Citrullus lanatus (Watermelon (97103) v2)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ stem,root,growth,stress,ethylene,root elongation,meristem,root growth,pl
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 stem,root,growth,stress,ethylene,root elongation,meristem,root growth,plant growth,flowering,primary root,root meristem
 
 ## Sequences:

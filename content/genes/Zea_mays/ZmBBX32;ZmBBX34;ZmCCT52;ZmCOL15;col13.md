@@ -10,7 +10,7 @@ tags: [ stress,abiotic stress ]
 - **Gene ID:**	[Zm00001eb389540]()
 - **Gene Symbol:** ZmBBX32;ZmBBX34;ZmCCT52;ZmCOL15;col13
 - **Gene Name:** C2C2-CO-like-transcription factor 13
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -18,7 +18,7 @@ tags: [ stress,abiotic stress ]
    - These results indicate that BBXs evolved independently after the divergence of monocots and dicots.
 
 ## Literature:
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2095311922001691)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.08.091](https://www.sciencedirect.com/science/article/pii/S2095311922001691)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [Identification, evolution, expression and protein interaction analysis of genes encoding B-box zinc-finger proteins in maize]( https://www.sciencedirect.com/science/article/pii/S2095311922001691)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.08.091](https://www.sciencedirect.com/science/article/pii/S2095311922001691)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -26,7 +26,9 @@ tags: [ stress,abiotic stress ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,abiotic stress
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[Solyc08g076930]()
 - **Gene Symbol:** MYC2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome (GCF_000188115.4)]()
+- **Genome:** [tomato genome (GCF_000188115.4)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance
 
 ## Sequences:

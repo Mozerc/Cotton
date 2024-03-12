@@ -3,14 +3,14 @@ description: tasselseed5 ; Zm00001eb169710 ; Zea mays
 meta_title:
 title: Ts5;ZmCYP94B1
 categories: [Zea mays]
-tags: [ ja, ja  ]
+tags: [ ja ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb169710]()
 - **Gene Symbol:** Ts5;ZmCYP94B1;CYP94B3a
 - **Gene Name:** tasselseed5
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ ja, ja  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-ja, ja 
+## Orthologs:
+
+## Keywords:
+ja
 
 ## Sequences:
 - **CDS Sequence:**

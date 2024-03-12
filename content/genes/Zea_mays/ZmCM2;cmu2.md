@@ -3,18 +3,18 @@ description: chorismate mutase2 ; Zm00001eb234080 ; Zea mays
 meta_title:
 title: ZmCM2;cmu2
 categories: [Zea mays]
-tags: [ salicylic acid,sa, sa  ]
+tags: [ salicylic acid,sa ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb234080]()
 - **Gene Symbol:** ZmCM2;cmu2
 - **Gene Name:** chorismate mutase2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - ZmCm2 is predicted to function in the production of prephenate from chorismate that is also a precursor for salicylic acid (SA). Interaction of Vag2 with ZmCm2 may alter the SA level in the host. Although no significant differences in SA level of wild-type and vag2 deletion mutant-colonized leaves and ears could be observed, expression of the SA indicator genes PR1 and PR5 was induced in tissues colonized with vag2 deletion strains.
+   - **ZmCM2** is predicted to function in the production of prephenate from chorismate that is also a precursor for salicylic acid (SA). Interaction of Vag2 with **ZmCM2** may alter the SA level in the host. Although no significant differences in SA level of wild-type and vag2 deletion mutant-colonized leaves and ears could be observed, expression of the SA indicator genes PR1 and PR5 was induced in tissues colonized with vag2 deletion strains.
    - We identified the cytoplasmic maize chorismate mutase **ZmCM2** by yeast two-hybrid screening as a possible interaction partner of Vag2.
    - The binding of Vag2 to **ZmCM2** inhibits the back reaction of the **ZmCM2**-catalyzed interconversion of chorismate and prephenate, thus contributing to fungal virulence by lowering the plant SA-induced defenses.
 
@@ -27,8 +27,10 @@ tags: [ salicylic acid,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-salicylic acid,sa, sa 
+## Orthologs:
+
+## Keywords:
+salicylic acid,sa
 
 ## Sequences:
 - **CDS Sequence:**

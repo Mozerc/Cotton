@@ -10,7 +10,7 @@ tags: [ resistance,defence,defence response ]
 - **Gene ID:**	[TraesCS4B02G120400]()
 - **Gene Symbol:** TaCIPK14-4B
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ resistance,defence,defence response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,defence,defence response
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ transcription factor,nucleus ]
 - **Gene ID:**	[Solyc05g012020]()
 - **Gene Symbol:** RIN-MC
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,nucleus ]
 - **NCBI ID:** [AF448523](https://www.ncbi.nlm.nih.gov/gene/?term=AF448523)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,nucleus
 
 ## Sequences:

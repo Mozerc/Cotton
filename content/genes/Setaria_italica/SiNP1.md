@@ -10,7 +10,7 @@ tags: [ pollen,sterility,heterosis,male sterility ]
 - **Gene ID:**	[Seita.9G347800]()
 - **Gene Symbol:** SiNP1
 - **Gene Name:** 
-- **Genome Version:** [Setaria italica v2.2]()
+- **Genome:** [Setaria italica v2.2]()
 - **Species:** *Setaria italica*
 
 ## Functional Description:
@@ -25,7 +25,10 @@ tags: [ pollen,sterility,heterosis,male sterility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 pollen,sterility,heterosis,male sterility
 
 ## Sequences:

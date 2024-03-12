@@ -1,21 +1,21 @@
 ---
 description: AP2-EREBP-transcription factor 97 ; Zm00001eb071190 ; Zea mays
 meta_title:
-title: ereb97;ERF4
+title: ERF4;ERF7
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,ethylene,melatonin,stress response,ethylene response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,ethylene,melatonin,stress response,ethylene response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071190]()
-- **Gene Symbol:** ereb97;ERF4;ERF7
+- **Gene Symbol:** ERF4;ERF7;ereb97
 - **Gene Name:** AP2-EREBP-transcription factor 97
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Regulates hormone signaling-related genes, especially ethylene response factors **ERF4**.
-   - the mechanism of exogenous melatonin alleviating drought stress in maize roots
+   - The mechanism of exogenous melatonin alleviating drought stress in maize roots
    - Mechanism of **ERF4** involved in exogenous melatonin alleviating drought stress in maize roots.
 
 ## Literature:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,ethylene,melatonin,stress 
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,ethylene,melatonin,stress response,ethylene response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,ethylene,melatonin,stress response,ethylene response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

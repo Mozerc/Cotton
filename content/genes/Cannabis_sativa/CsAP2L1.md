@@ -10,7 +10,7 @@ tags: [ transcriptional activator,transcriptional repressor ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsAP2L1
 - **Gene Name:** CsAP2-Like1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cannabis Sativa*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ transcriptional activator,transcriptional repressor ]
 - **NCBI ID:** [XM_030640449](https://www.ncbi.nlm.nih.gov/gene/?term=XM_030640449)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 transcriptional activator,transcriptional repressor
 
 ## Sequences:

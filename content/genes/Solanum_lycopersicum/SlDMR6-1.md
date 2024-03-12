@@ -3,14 +3,14 @@ description: Solyc03g080190.3 ; Solanum lycopersicum
 meta_title:
 title: SlDMR6-1
 categories: [Solanum lycopersicum]
-tags: [ vegetative,pathogen,sa, sa  ]
+tags: [ vegetative,pathogen,sa ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc03g080190.3]()
 - **Gene Symbol:** SlDMR6-1
 - **Gene Name:** 
-- **Genome Version:** [reference tomato genome SL4.0]()
+- **Genome:** [reference tomato genome SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ vegetative,pathogen,sa, sa  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-vegetative,pathogen,sa, sa 
+## Orthologs:
+
+## Keywords:
+vegetative,pathogen,sa
 
 ## Sequences:
 - **CDS Sequence:**

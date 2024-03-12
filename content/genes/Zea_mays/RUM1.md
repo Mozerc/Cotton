@@ -10,13 +10,13 @@ tags: [ root,development,auxin,root development,iaa,signal transduction,vascular
 - **Gene ID:**	[GRMZM2G037368]()
 - **Gene Symbol:** RUM1
 - **Gene Name:** ROOTLESS WITH UNDETECTABLE MERISTEMS 1
-- **Genome Version:** [B73 RefGen_v3]()
+- **Genome:** [B73 RefGen_v3]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize primary roots.
+   - The Aux/IAA gene **RUM1** involved in seminal and lateral root formation controls vascular patterning in maize primary roots.
    - Revealed the specific regulation of auxin signal transduction components by **RUM1** and novel functions of **RUM1** in vascular development.
-   - The rum1 mutant displays enhanced lignification of aberrant pith cells.
+   - The **RUM1** mutant displays enhanced lignification of aberrant pith cells.
 
 ## Literature:
    - [The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize (Zea mays L.) primary roots.]( https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru249](https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24928984](https://pubmed.ncbi.nlm.nih.gov/24928984/)
@@ -27,7 +27,9 @@ tags: [ root,development,auxin,root development,iaa,signal transduction,vascular
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 root,development,auxin,root development,iaa,signal transduction,vascular development,lateral root,primary root
 
 ## Sequences:

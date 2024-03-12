@@ -10,7 +10,7 @@ tags: [ transcription factor,development,fertility,pollen,anther,sterility,polle
 - **Gene ID:**	[Zm00001d048337]()
 - **Gene Symbol:** ZmMs25;ZmFAR1
 - **Gene Name:** male sterile25
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,development,fertility,pollen,anther,sterility,polle
 - **NCBI ID:** [LOC103639542](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103639542)
 - **UniProt accessions:** [A0A1D6PJD1](https://www.uniprot.org/uniprotkb/A0A1D6PJD1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,development,fertility,pollen,anther,sterility,pollen development,anther development,male sterility,cutin,male fertility,plastid,pollen fertility
 
 ## Sequences:

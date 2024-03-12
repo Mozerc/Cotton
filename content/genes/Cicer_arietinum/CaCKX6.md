@@ -10,7 +10,7 @@ tags: [ root,shoot,drought,tolerance,drought tolerance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CaCKX6
 - **Gene Name:** 
-- **Genome Version:** [CaGAv1.0]()
+- **Genome:** [CaGAv1.0]()
 - **Species:** *Cicer arietinum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ root,shoot,drought,tolerance,drought tolerance ]
 - **NCBI ID:** [XP_00451481.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP_00451481.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 root,shoot,drought,tolerance,drought tolerance
 
 ## Sequences:

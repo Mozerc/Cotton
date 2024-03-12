@@ -10,7 +10,7 @@ tags: [ strigolactone,phosphorus ]
 - **Gene ID:**	[Solyc09g083280]()
 - **Gene Symbol:** SlIAA23
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ strigolactone,phosphorus ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 strigolactone,phosphorus
 
 ## Sequences:

@@ -10,13 +10,13 @@ tags: [ architecture,breeding,height,plant height,flowering time,plant architect
 - **Gene ID:**	[Zm00001eb057490]()
 - **Gene Symbol:** ZmPHYC1
 - **Gene Name:** phytochromeC1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - Double knockout mutants of **ZmPHYC1** and ZmPHYC2 created using the CRISPR/Cas9 technology display a moderate early-flowering phenotype under long-day conditions, whereas ZmPHYC2 overexpression plants exhibit a moderately reduced plant height and ear height.
    - **ZmPHYC1** and ZmPHYC2 can be used as potential targets for genetic engineering of maize to improve flowering time and plant architecture suitable for high-density planting.
-   - zmphyC1 zmphyC2 double knockout mutants display an early-flowering phenotype under LD conditions.
+   - **ZmPHYC1** zmphyC2 double knockout mutants display an early-flowering phenotype under LD conditions.
    - we examined the expression patterns of **ZmPHYC1** and ZmPHYC2 and found that **ZmPHYC1**, but not ZmPHYC2, is highly expressed in leaves and is regulated by the circadian clock.
    - Together, these results provided new insight into the function of ZmPHYCs and guidance for breeding high-density tolerant maize cultivars.
 
@@ -32,7 +32,9 @@ tags: [ architecture,breeding,height,plant height,flowering time,plant architect
 - **NCBI ID:** [103644014](https://www.ncbi.nlm.nih.gov/gene/?term=103644014)
 - **UniProt accessions:** [A0A1D6L4T3](https://www.uniprot.org/uniprotkb/A0A1D6L4T3/entry)&nbsp;,&nbsp;[A0A1D6L4T4](https://www.uniprot.org/uniprotkb/A0A1D6L4T4/entry)&nbsp;,&nbsp;[Q6XFQ1](https://www.uniprot.org/uniprotkb/Q6XFQ1/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 architecture,breeding,height,plant height,flowering time,plant architecture,flowering
 
 ## Sequences:

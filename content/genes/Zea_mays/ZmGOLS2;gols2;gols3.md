@@ -10,12 +10,12 @@ tags: [ stress,heat stress,protoplasts ]
 - **Gene ID:**	[Zm00001eb395600]()
 - **Gene Symbol:** ZmGOLS2;gols2;gols3
 - **Gene Name:** GALACTINOL SYNTHASE2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - ZmHSFA2 regulates the expression of **ZmGOLS2**, and its activity is enhanced by heat stress.
-   - ZmHSFA2 upregulates the expression of the endogenous **ZmGOLS2** and the Rluc controlled by the **ZmGOLS2** promoter in maize protoplasts.
+   - ZmHSFA2 regulates the expression of **Zm**gols2****, and its activity is enhanced by heat stress.
+   - ZmHSFA2 upregulates the expression of the endogenous **Zm**gols2**** and the Rluc controlled by the **Zm**gols2**** promoter in maize protoplasts.
 
 ## Literature:
    - [Maize HSFA2 and HSBP2 antagonistically modulate raffinose biosynthesis and heat tolerance in Arabidopsis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14434](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31180156](https://pubmed.ncbi.nlm.nih.gov/31180156/)
@@ -27,7 +27,9 @@ tags: [ stress,heat stress,protoplasts ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,heat stress,protoplasts
 
 ## Sequences:

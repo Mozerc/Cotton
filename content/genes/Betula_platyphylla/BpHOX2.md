@@ -10,7 +10,7 @@ tags: [ reactive oxygen species ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** BpHOX2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Betula platyphylla*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ reactive oxygen species ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 reactive oxygen species
 
 ## Sequences:

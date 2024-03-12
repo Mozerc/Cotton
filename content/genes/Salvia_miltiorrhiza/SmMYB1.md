@@ -26,6 +26,9 @@ tags: [ transcription factor ]
 - **NCBI ID:** [MN400427](https://www.ncbi.nlm.nih.gov/gene/?term=MN400427)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
+## Orthologs:
+
+
 ## Keywords:
 transcription factor
 

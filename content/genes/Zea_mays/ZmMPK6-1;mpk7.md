@@ -10,7 +10,7 @@ tags: [ resistance,defense ]
 - **Gene ID:**	[Zm00001eb270940]()
 - **Gene Symbol:** ZmMPK6-1;mpk7
 - **Gene Name:** MAP kinase7
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -19,7 +19,7 @@ tags: [ resistance,defense ]
    - **ZmMPK6-1** can interact with ZmERF061 which enhanced the transcriptional activation activity of ZmERF061.
 
 ## Literature:
-   - [NA]( https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1080/17429145.2023.2261772](https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[NA](https://pubmed.ncbi.nlm.nih.gov/NA/)
+   - [ZmMPK6-1 positively regulates maize resistance to E. turcicum through enhancing ZmERF061 activity]( https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1080/17429145.2023.2261772](https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
@@ -27,7 +27,9 @@ tags: [ resistance,defense ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,defense
 
 ## Sequences:

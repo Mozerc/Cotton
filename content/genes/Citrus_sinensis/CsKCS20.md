@@ -10,7 +10,7 @@ tags: [ wax biosynthesis ]
 - **Gene ID:**	[Cs9g07970.1]()
 - **Gene Symbol:** CsKCS20
 - **Gene Name:** 
-- **Genome Version:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
+- **Genome:** [reference genome of sweet orange (http://citrus.hzau.edu.cn/orange/)]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ wax biosynthesis ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 wax biosynthesis
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ ethylene ]
 - **Gene ID:**	[Gh_D09G1474]()
 - **Gene Symbol:** GhXB38D
 - **Gene Name:** 
-- **Genome Version:** [reference genome sequence for G. hirsutum ZJU v2.1(https://www.cottongen.org/data/download/genome_tetraploid/AD1)]()
+- **Genome:** [reference genome sequence for G. hirsutum ZJU v2.1(https://www.cottongen.org/data/download/genome_tetraploid/AD1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ ethylene ]
 - **NCBI ID:** [XP_016671180](https://www.ncbi.nlm.nih.gov/gene/?term=XP_016671180)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 ethylene
 
 ## Sequences:

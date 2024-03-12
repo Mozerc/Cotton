@@ -10,7 +10,7 @@ tags: [ iaa,sugar,signaling pathway gene,iaa signaling ]
 - **Gene ID:**	[Cla97C05G096220]()
 - **Gene Symbol:** ClGH3.6
 - **Gene Name:** 
-- **Genome Version:** [Citrullus lanatus (Watermelon (97103) v2)]()
+- **Genome:** [Citrullus lanatus (Watermelon (97103) v2)]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ iaa,sugar,signaling pathway gene,iaa signaling ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 iaa,sugar,signaling pathway gene,iaa signaling
 
 ## Sequences:

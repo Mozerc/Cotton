@@ -3,14 +3,14 @@ description: acid phosphatase-regulating gene1 ; Zm00001eb388200 ; Zea mays
 meta_title:
 title: ZmAPRG;arpg1
 categories: [Zea mays]
-tags: [ leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,node, pi ,phosphate starvation,protein phosphatase ]
+tags: [ leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,node,phosphate starvation,protein phosphatase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb388200]()
 - **Gene Symbol:** ZmAPRG;arpg1
 - **Gene Name:** acid phosphatase-regulating gene1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,nod
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,node, pi ,phosphate starvation,protein phosphatase
+## Orthologs:
+
+## Keywords:
+leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,node,phosphate starvation,protein phosphatase
 
 ## Sequences:
 - **CDS Sequence:**

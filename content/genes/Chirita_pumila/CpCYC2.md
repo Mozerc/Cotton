@@ -10,7 +10,7 @@ tags: [ floral ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CpCYC2
 - **Gene Name:** Chirita pumila CYCLOIDEA2
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Chirita pumila*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ floral ]
 - **NCBI ID:** [OQ515464](https://www.ncbi.nlm.nih.gov/gene/?term=OQ515464)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 floral
 
 ## Sequences:

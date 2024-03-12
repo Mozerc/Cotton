@@ -10,7 +10,7 @@ tags: [ stem,grain,drought,grain yield,yield ]
 - **Gene ID:**	[Glyma.01G097000]()
 - **Gene Symbol:** GmPYR1
 - **Gene Name:** 
-- **Genome Version:** [reference genome Wm82.a2.v1]()
+- **Genome:** [reference genome Wm82.a2.v1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stem,grain,drought,grain yield,yield ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stem,grain,drought,grain yield,yield
 
 ## Sequences:

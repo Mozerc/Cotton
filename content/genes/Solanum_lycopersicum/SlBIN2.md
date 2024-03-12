@@ -3,14 +3,14 @@ description: Solyc07g055200 ; Solanum lycopersicum
 meta_title:
 title: SlBIN2
 categories: [Solanum lycopersicum]
-tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling,ethylene, br  ]
+tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling,ethylene ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc07g055200]()
 - **Gene Symbol:** SlBIN2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling,ethylene, br  
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-brassinosteroid,br,br signaling,brassinosteroid signaling,ethylene, br 
+## Orthologs:
+
+## Keywords:
+brassinosteroid,br,br signaling,brassinosteroid signaling,ethylene
 
 ## Sequences:
 - **CDS Sequence:**

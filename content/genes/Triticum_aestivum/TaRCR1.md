@@ -10,7 +10,7 @@ tags: [ resistance,pathogen,defence,defence response,pathogen resistance ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** TaRCR1
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ resistance,pathogen,defence,defence response,pathogen resistance ]
 - **NCBI ID:** [AK335348;KU161103](https://www.ncbi.nlm.nih.gov/gene/?term=AK335348;KU161103)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 resistance,pathogen,defence,defence response,pathogen resistance
 
 ## Sequences:

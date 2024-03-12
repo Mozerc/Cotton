@@ -10,7 +10,7 @@ tags: [ transcription factor,resistance ]
 - **Gene ID:**	[Zm00001eb111680]()
 - **Gene Symbol:** ZmEIL2
 - **Gene Name:** EIL-transcription factor 2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ transcription factor,resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,resistance
 
 ## Sequences:

@@ -3,14 +3,14 @@ description: phosphate transporter protein7 ; Zm00001eb038730 ; Zea mays
 meta_title:
 title: ZmPT3;pht7
 categories: [Zea mays]
-tags: [ resistance,disease,disease resistance,pi, pi  ]
+tags: [ resistance,disease,disease resistance,pi ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb038730]()
 - **Gene Symbol:** ZmPT3;pht7
 - **Gene Name:** phosphate transporter protein7
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ resistance,disease,disease resistance,pi, pi  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,disease,disease resistance,pi, pi 
+## Orthologs:
+
+## Keywords:
+resistance,disease,disease resistance,pi
 
 ## Sequences:
 - **CDS Sequence:**

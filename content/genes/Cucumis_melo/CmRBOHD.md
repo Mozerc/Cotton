@@ -10,7 +10,7 @@ tags: [ leaf,leaf senescence,senescence,stress,aba,melatonin, aba  ]
 - **Gene ID:**	[MELO3C026754]()
 - **Gene Symbol:** CmRBOHD
 - **Gene Name:** respiratory burst oxidase homolog D
-- **Genome Version:** [Melon (DHL92) v3.6.1]()
+- **Genome:** [Melon (DHL92) v3.6.1]()
 - **Species:** *Cucumis melo*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ leaf,leaf senescence,senescence,stress,aba,melatonin, aba  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 leaf,leaf senescence,senescence,stress,aba,melatonin, aba 
 
 ## Sequences:

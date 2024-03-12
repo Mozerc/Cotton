@@ -10,11 +10,11 @@ tags: [ flowering ]
 - **Gene ID:**	[Solyc06g054310]()
 - **Gene Symbol:** SlFAF3;4b
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
-   - The other members of the SlFAF gene family, SlFAF1/2b, **SlFAF3**/4a and **SlFAF3**/**4b**, are negative regulators of tomato flowering and faf1/2b, faf3/4a and faf3/**4b** single mutants all display early flowering.
+   - The other members of the SlFAF gene family, SlFAF1/2b, **SlFAF3**/4a and **SlFAF3**/4b, are negative regulators of tomato flowering and faf1/2b, faf3/4a and faf3/4b single mutants all display early flowering.
 
 ## Literature:
    - [CRISPR/Cas9-mediated mutations of FANTASTIC FOUR gene family for creating early flowering mutants in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14223](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37942846](https://pubmed.ncbi.nlm.nih.gov/37942846/)
@@ -26,7 +26,9 @@ tags: [ flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering
 
 ## Sequences:

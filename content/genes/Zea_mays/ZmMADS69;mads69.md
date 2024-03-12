@@ -10,13 +10,13 @@ tags: [ flowering time,flowering ]
 - **Gene ID:**	[Zm00001eb143080]()
 - **Gene Symbol:** ZmMADS69;mads69
 - **Gene Name:** MADS-transcription factor 69
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - **ZmMADS69** and Rap2.7 map within well-characterized QTLs of flowering time suggesting that allelic variations at these genes control part of the diversity of flowering time of temperate maize.
-   - **ZmMADS69** functions as a flowering activator through the ZmRap2.7-ZCN8 regulatory module and contributes to maize flowering time adaptation.
-   - Population genetic analyses showed that **ZmMADS69** was a target of selection and may have played an important role as maize spread from the tropics to temperate zones. Our findings provide important insights into the regulation and adaptation of flowering time.
+   - **Zm**mads69**** and Rap2.7 map within well-characterized QTLs of flowering time suggesting that allelic variations at these genes control part of the diversity of flowering time of temperate maize.
+   - **Zm**mads69**** functions as a flowering activator through the ZmRap2.7-ZCN8 regulatory module and contributes to maize flowering time adaptation.
+   - Population genetic analyses showed that **Zm**mads69**** was a target of selection and may have played an important role as maize spread from the tropics to temperate zones. Our findings provide important insights into the regulation and adaptation of flowering time.
 
 ## Literature:
    - [Maize adaptation across temperate climates was obtained via expression of two florigen genes.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008882)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1008882](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008882)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32673315](https://pubmed.ncbi.nlm.nih.gov/32673315/)
@@ -29,7 +29,9 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 flowering time,flowering
 
 ## Sequences:

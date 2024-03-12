@@ -10,7 +10,7 @@ tags: [ xylem,cytokinin ]
 - **Gene ID:**	[Potri.009G010800]()
 - **Gene Symbol:** LOG1
 - **Gene Name:** LONELY GUY 1
-- **Genome Version:** [Populus trichocarpa genome]()
+- **Genome:** [Populus trichocarpa genome]()
 - **Species:** *Populus trichocarpa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ xylem,cytokinin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 xylem,cytokinin
 
 ## Sequences:

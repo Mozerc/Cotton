@@ -10,7 +10,7 @@ tags: [ grain,grain yield,yield,grain weight ]
 - **Gene ID:**	[Zm00001eb388050]()
 - **Gene Symbol:** ZmKL9;ZmbZIP60;bzip60
 - **Gene Name:** bZIP transcription factor60
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -32,7 +32,9 @@ tags: [ grain,grain yield,yield,grain weight ]
 - **NCBI ID:** [100280552](https://www.ncbi.nlm.nih.gov/gene/?term=100280552)
 - **UniProt accessions:** [C4J6L7](https://www.uniprot.org/uniprotkb/C4J6L7/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 grain,grain yield,yield,grain weight
 
 ## Sequences:

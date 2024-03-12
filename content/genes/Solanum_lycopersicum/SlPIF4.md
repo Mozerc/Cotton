@@ -3,14 +3,14 @@ description: PHYTOCHROME-INTERACTING TRANSCRIPTION 4 ; Solyc07g043580 ; Solanum 
 meta_title:
 title: SlPIF4
 categories: [Solanum lycopersicum]
-tags: [ temperature,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,ga, ga ,low-temperature ]
+tags: [ temperature,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,ga,low-temperature ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc07g043580]()
 - **Gene Symbol:** SlPIF4
 - **Gene Name:** PHYTOCHROME-INTERACTING TRANSCRIPTION 4
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ temperature,stress,tolerance,cold tolerance,cold stress,cold,stress tole
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-temperature,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,ga, ga ,low-temperature
+## Orthologs:
+
+## Keywords:
+temperature,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,ga,low-temperature
 
 ## Sequences:
 - **CDS Sequence:**

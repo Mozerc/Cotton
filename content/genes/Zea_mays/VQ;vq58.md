@@ -3,14 +3,14 @@ description: VQ motif-transcription factor58 ; Zm00001eb405310 ; Zea mays
 meta_title:
 title: VQ;vq58
 categories: [Zea mays]
-tags: [ drought,stress,drought stress,drought stress ,abiotic stress,osmotic stress ]
+tags: [ drought,stress,drought stress,abiotic stress,osmotic stress ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb405310]()
 - **Gene Symbol:** VQ;vq58
 - **Gene Name:** VQ motif-transcription factor58
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,8 +26,10 @@ tags: [ drought,stress,drought stress,drought stress ,abiotic stress,osmotic str
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,abiotic stress,osmotic stress
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,abiotic stress,osmotic stress
 
 ## Sequences:
 - **CDS Sequence:**

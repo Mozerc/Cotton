@@ -10,7 +10,7 @@ tags: [ growth,down-regulated genes,cell wall,plant growth,cellulose,cell elonga
 - **Gene ID:**	[Solyc07g043390]()
 - **Gene Symbol:** CslG2
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ growth,down-regulated genes,cell wall,plant growth,cellulose,cell elonga
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,down-regulated genes,cell wall,plant growth,cellulose,cell elongation,cell wall synthesis
 
 ## Sequences:

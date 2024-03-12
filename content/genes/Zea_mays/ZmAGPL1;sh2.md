@@ -10,7 +10,7 @@ tags: [ starch,cytoplasm,starch biosynthesis,pyrophosphorylase ]
 - **Gene ID:**	[Zm00001eb159060]()
 - **Gene Symbol:** ZmAGPL1;sh2
 - **Gene Name:** shrunken2
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ starch,cytoplasm,starch biosynthesis,pyrophosphorylase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 starch,cytoplasm,starch biosynthesis,pyrophosphorylase
 
 ## Sequences:

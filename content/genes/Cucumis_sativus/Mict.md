@@ -10,7 +10,7 @@ tags: [ development,cell division,cell elongation,flavonoid,flavonoid metabolism
 - **Gene ID:**	[]()
 - **Gene Symbol:** Mict
 - **Gene Name:** Micro-trichome
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ development,cell division,cell elongation,flavonoid,flavonoid metabolism
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,cell division,cell elongation,flavonoid,flavonoid metabolism
 
 ## Sequences:

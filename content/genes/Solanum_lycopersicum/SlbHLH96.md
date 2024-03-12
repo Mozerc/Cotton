@@ -10,7 +10,7 @@ tags: [ transcription factor,drought,tolerance,drought tolerance,transcription r
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlbHLH96
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,drought,tolerance,drought tolerance,transcription r
 - **NCBI ID:** [XP 004250857.1](https://www.ncbi.nlm.nih.gov/gene/?term=XP 004250857.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,drought,tolerance,drought tolerance,transcription regulator
 
 ## Sequences:

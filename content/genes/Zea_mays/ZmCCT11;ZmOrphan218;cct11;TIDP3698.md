@@ -10,11 +10,11 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb092230]()
 - **Gene Symbol:** ZmCCT11;ZmOrphan218;cct11;TIDP3698
 - **Gene Name:** CO CO-LIKE TIMING OF CAB1 protein domain11
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - Maize Mesocotyl Elongation Control Gene University **ZmCCT11**.
+   - Maize Mesocotyl Elongation Control Gene University **Zm**cct11****.
 
 ## Literature:
    - [New insights into light spectral quality inhibits the plasticity elongation of maize mesocotyl and coleoptile during seed germination.]( https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1152399](https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37008499](https://pubmed.ncbi.nlm.nih.gov/37008499/)
@@ -25,7 +25,9 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:

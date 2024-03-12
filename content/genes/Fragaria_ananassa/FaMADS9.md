@@ -10,7 +10,7 @@ tags: [ auxin,abscisic acid,cuticle,cuticle formation ]
 - **Gene ID:**	[FvH4_6g46420]()
 - **Gene Symbol:** FaMADS9
 - **Gene Name:** 
-- **Genome Version:** [FAN (F. x ananassa)]()
+- **Genome:** [FAN (F. x ananassa)]()
 - **Species:** *Fragaria ananassa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ auxin,abscisic acid,cuticle,cuticle formation ]
 - **NCBI ID:** [ AF484683](https://www.ncbi.nlm.nih.gov/gene/?term= AF484683)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin,abscisic acid,cuticle,cuticle formation
 
 ## Sequences:

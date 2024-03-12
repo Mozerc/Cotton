@@ -3,14 +3,14 @@ description: MD15G1043200 ; Malus domestica
 meta_title:
 title: MdVQ37
 categories: [Malus domestica]
-tags: [ transcription factor,stress,salicylic acid,homeostasis,sa, sa ,heat stress,thermotolerance ]
+tags: [ transcription factor,stress,salicylic acid,homeostasis,sa,heat stress,thermotolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[MD15G1043200]()
 - **Gene Symbol:** MdVQ37
 - **Gene Name:** 
-- **Genome Version:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
 - **Species:** *Malus domestica*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ transcription factor,stress,salicylic acid,homeostasis,sa, sa ,heat stre
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-transcription factor,stress,salicylic acid,homeostasis,sa, sa ,heat stress,thermotolerance
+## Orthologs:
+
+## Keywords:
+transcription factor,stress,salicylic acid,homeostasis,sa,heat stress,thermotolerance
 
 ## Sequences:
 - **CDS Sequence:**

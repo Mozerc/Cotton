@@ -10,12 +10,12 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
 - **Gene ID:**	[Zm00001eb088950]()
 - **Gene Symbol:** ZmYUC4
 - **Gene Name:** 
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
    - ZmYUC2 and **ZmYUC4** in regulating gravitropic response of the brace root and lodging resistance in maize.
-   - The Zmyuc4 single mutant and the Zmyuc2/4 double mutant display obviously enhanced root lodging resistance.
+   - The **ZmYUC4** single mutant and the Zmyuc2/4 double mutant display obviously enhanced root lodging resistance.
    - ZmYUC2 and **ZmYUC4** are preferentially expressed in the root tips.
 
 ## Literature:
@@ -28,7 +28,9 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 gravitropic response,root,resistance,lodging,lodging resistance
 
 ## Sequences:

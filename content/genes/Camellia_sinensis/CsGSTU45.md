@@ -10,7 +10,7 @@ tags: [ resistance,jasmonate,disease,disease resistance,signaling pathway gene ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** CsGSTU45
 - **Gene Name:** 
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Camellia sinensis*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ resistance,jasmonate,disease,disease resistance,signaling pathway gene ]
 - **NCBI ID:** [OQ731690](https://www.ncbi.nlm.nih.gov/gene/?term=OQ731690)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance,jasmonate,disease,disease resistance,signaling pathway gene
 
 ## Sequences:

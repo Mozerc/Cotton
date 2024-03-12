@@ -3,14 +3,14 @@ description: TraesCS4D02G191200 ; Triticum aestivum
 meta_title:
 title: TaPYL4-4D
 categories: [Triticum aestivum]
-tags: [ kinase,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance,protein kinase,osmotic tolerance, aba ,receptor kinase,stress response,drought stress response,osmotic stress,drought response ]
+tags: [ kinase,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,protein kinase,osmotic tolerance,receptor kinase,stress response,drought stress response,osmotic stress,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G191200]()
 - **Gene Symbol:** TaPYL4-4D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ kinase,drought,stress,drought stress,drought stress ,tolerance,aba,droug
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-kinase,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance,protein kinase,osmotic tolerance, aba ,receptor kinase,stress response,drought stress response,osmotic stress,drought response
+## Orthologs:
+
+## Keywords:
+kinase,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,protein kinase,osmotic tolerance,receptor kinase,stress response,drought stress response,osmotic stress,drought response
 
 ## Sequences:
 - **CDS Sequence:**

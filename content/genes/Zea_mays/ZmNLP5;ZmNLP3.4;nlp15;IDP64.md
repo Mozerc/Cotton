@@ -10,7 +10,7 @@ tags: [ nitrogen,transcription factor,root ]
 - **Gene ID:**	[Zm00001eb231720]()
 - **Gene Symbol:** ZmNLP5;ZmNLP3.4;nlp15;IDP64
 - **Gene Name:** NLP-transcription factor 15
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -29,7 +29,9 @@ tags: [ nitrogen,transcription factor,root ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 nitrogen,transcription factor,root
 
 ## Sequences:

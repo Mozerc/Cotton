@@ -10,7 +10,7 @@ tags: [ cytokinin,glycosyltransferase ]
 - **Gene ID:**	[Potri.014G111900]()
 - **Gene Symbol:** PtoWRKY42
 - **Gene Name:** 
-- **Genome Version:** [P. trichocarpa genome (v.3.0)]()
+- **Genome:** [P. trichocarpa genome (v.3.0)]()
 - **Species:** *Populus tomentosa*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ cytokinin,glycosyltransferase ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 cytokinin,glycosyltransferase
 
 ## Sequences:

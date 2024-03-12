@@ -3,14 +3,14 @@ description: Glyma.17G047300 ; Glycine max
 meta_title:
 title: GmTDN1
 categories: [Glycine max]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,yield,drought tolerance,stress tolerance ]
+tags: [ drought,stress,drought stress,tolerance,yield,drought tolerance,stress tolerance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.17G047300]()
 - **Gene Symbol:** GmTDN1
 - **Gene Name:** 
-- **Genome Version:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [glyma.Wm82.gnm2.ann1]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,yield,drought to
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,yield,drought tolerance,stress tolerance
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,yield,drought tolerance,stress tolerance
 
 ## Sequences:
 - **CDS Sequence:**

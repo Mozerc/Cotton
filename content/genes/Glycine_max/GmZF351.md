@@ -3,14 +3,14 @@ description: Glyma.06g290100 ; Glycine max
 meta_title:
 title: GmZF351
 categories: [Glycine max]
-tags: [ drought,stress,drought stress,drought stress ,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,zinc,stomata ]
+tags: [ drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,zinc,stomata ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.06g290100]()
 - **Gene Symbol:** GmZF351
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -28,8 +28,10 @@ tags: [ drought,stress,drought stress,drought stress ,salt,tolerance,drought tol
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,zinc,stomata
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,zinc,stomata
 
 ## Sequences:
 - **CDS Sequence:**

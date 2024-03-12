@@ -26,7 +26,10 @@ tags: [ growth ]
 - **NCBI ID:** [KP058663](https://www.ncbi.nlm.nih.gov/gene/?term=KP058663)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Keyword:
+## Orthologs:
+
+
+## Keywords:
 growth
 
 ## Sequences:

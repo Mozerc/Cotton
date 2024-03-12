@@ -10,7 +10,7 @@ tags: [ fertility,male fertility ]
 - **Gene ID:**	[Zm00001eb208200]()
 - **Gene Symbol:** bHLH51;ZmbHLH51
 - **Gene Name:** bHLH-transcription factor 51
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ fertility,male fertility ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 fertility,male fertility
 
 ## Sequences:

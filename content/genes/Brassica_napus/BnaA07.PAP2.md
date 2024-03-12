@@ -10,7 +10,7 @@ tags: [ flower,nucleus ]
 - **Gene ID:**	[BnaA07G0287000ZS]()
 - **Gene Symbol:** BnaA07.PAP2
 - **Gene Name:** 
-- **Genome Version:** [reference genome ZS11]()
+- **Genome:** [reference genome ZS11]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -28,7 +28,10 @@ tags: [ flower,nucleus ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 flower,nucleus
 
 ## Sequences:

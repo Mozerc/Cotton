@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[ClCG04G006480]()
 - **Gene Symbol:** ClWPRb
 - **Gene Name:** 
-- **Genome Version:** [Citrullus lanatus (Watermelon (Charleston Gray))]()
+- **Genome:** [Citrullus lanatus (Watermelon (Charleston Gray))]()
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ yield,biomass,sugar ]
 - **Gene ID:**	[Pavir.8KG099900]()
 - **Gene Symbol:** PvSPL7
 - **Gene Name:** 
-- **Genome Version:** [Panicum virgatum v4.1]()
+- **Genome:** [Panicum virgatum v4.1]()
 - **Species:** *Panicum virgatum*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ yield,biomass,sugar ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 yield,biomass,sugar
 
 ## Sequences:

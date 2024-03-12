@@ -10,7 +10,7 @@ tags: [ leaf,grain,grain length,grain yield,yield,architecture,plant architectur
 - **Gene ID:**	[TraesCS3A02G336500]()
 - **Gene Symbol:** TaGAMYB3
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ leaf,grain,grain length,grain yield,yield,architecture,plant architectur
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,grain,grain length,grain yield,yield,architecture,plant architecture
 
 ## Sequences:

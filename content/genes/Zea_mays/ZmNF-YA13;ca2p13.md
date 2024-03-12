@@ -10,7 +10,7 @@ tags: [ transcription factor,auxin,seed,yield,endosperm,seed weight,seed size ]
 - **Gene ID:**	[Zm00001eb256650]()
 - **Gene Symbol:** ZmNF-YA13;ca2p13
 - **Gene Name:** CCAAT-HAP2-transcription factor 213
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ transcription factor,auxin,seed,yield,endosperm,seed weight,seed size ]
 - **NCBI ID:** [LOC100282696](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282696)
 - **UniProt accessions:** [A0A1D6HLV3](https://www.uniprot.org/uniprotkb/A0A1D6HLV3/entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 transcription factor,auxin,seed,yield,endosperm,seed weight,seed size
 
 ## Sequences:

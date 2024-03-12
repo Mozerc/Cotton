@@ -10,7 +10,7 @@ tags: [ auxin ]
 - **Gene ID:**	[Glyma.19G206800]()
 - **Gene Symbol:** GmTIR1C
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 genome]()
+- **Genome:** [Williams 82 genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [ auxin ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 auxin
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [ aba,abscisic acid, aba ,dormancy ]
 - **Gene ID:**	[BnaA06g12320D]()
 - **Gene Symbol:** BnaMFT.6a
 - **Gene Name:** 
-- **Genome Version:** [B. napus ‘ZS11’ reference genome]()
+- **Genome:** [B. napus ‘ZS11’ reference genome]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ aba,abscisic acid, aba ,dormancy ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 aba,abscisic acid, aba ,dormancy
 
 ## Sequences:

@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Acc18653.1]()
 - **Gene Symbol:** AceGGP3
 - **Gene Name:** 
-- **Genome Version:** [Actinidia chinensis (Red5)]()
+- **Genome:** [Actinidia chinensis (Red5)]()
 - **Species:** *Actinidia chinensis*
 
 ## Functional Description:
@@ -27,7 +27,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

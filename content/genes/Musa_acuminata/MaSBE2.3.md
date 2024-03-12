@@ -10,7 +10,7 @@ tags: [ development,starch ]
 - **Gene ID:**	[Ma06_t09160.1]()
 - **Gene Symbol:** MaSBE2.3
 - **Gene Name:** 
-- **Genome Version:** [banana A-genome databases]()
+- **Genome:** [banana A-genome databases]()
 - **Species:** *Musa acuminata*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ development,starch ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 development,starch
 
 ## Sequences:

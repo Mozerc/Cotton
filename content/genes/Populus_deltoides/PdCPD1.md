@@ -10,7 +10,7 @@ tags: [ br, br  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** PdCPD1
 - **Gene Name:** Populus CONSTITUTIVE PHOTOMORPHOGENIC DWARF 1
-- **Genome Version:** []()
+- **Genome:** []()
 - **Species:** *Populus deltoides*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ br, br  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 br, br 
 
 ## Sequences:

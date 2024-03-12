@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[BnaA09g39570D]()
 - **Gene Symbol:** OLEA9
 - **Gene Name:** 
-- **Genome Version:** [B. napus ‘Darmor-bzh’ reference genome (version 4.1)]()
+- **Genome:** [B. napus ‘Darmor-bzh’ reference genome (version 4.1)]()
 - **Species:** *Brassica napus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

@@ -1,21 +1,21 @@
 ---
 description: ramosa1 ; Zm00001eb312340 ; Zea mays
 meta_title:
-title: ra1
+title: Ra1
 categories: [Zea mays]
 tags: [ development,spikelet,meristem,spikelet meristem,inflorescence,spikelet development,transcriptional repressor,inflorescence development ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb312340]()
-- **Gene Symbol:** ra1
+- **Gene Symbol:** Ra1
 - **Gene Name:** ramosa1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
-   - REL2/RA1 transcriptional repressor complex antagonizes the formation of indeterminate branches during maize inflorescence development.
-   - Despite genetic and expression analysis that place both RA2 and RA3 genes upstream of RA1 in regulating spikelet-pair meristem identity and fate.
+   - REL2/**Ra1** transcriptional repressor complex antagonizes the formation of indeterminate branches during maize inflorescence development.
+   - Despite genetic and expression analysis that place both RA2 and RA3 genes upstream of **Ra1** in regulating spikelet-pair meristem identity and fate.
 
 ## Literature:
    - [The control of axillary meristem fate in the maize ramosa pathway.]( https://journals.biologists.com/dev/article/137/17/2849/43810/The-control-of-axillary-meristem-fate-in-the-maize)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.051748](https://journals.biologists.com/dev/article/137/17/2849/43810/The-control-of-axillary-meristem-fate-in-the-maize)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20699296](https://pubmed.ncbi.nlm.nih.gov/20699296/)
@@ -26,7 +26,9 @@ tags: [ development,spikelet,meristem,spikelet meristem,inflorescence,spikelet d
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,spikelet,meristem,spikelet meristem,inflorescence,spikelet development,transcriptional repressor,inflorescence development
 
 ## Sequences:

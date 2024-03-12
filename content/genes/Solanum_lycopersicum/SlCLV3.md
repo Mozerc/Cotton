@@ -3,14 +3,14 @@ description: Solyc11g071380 ; Solanum lycopersicum
 meta_title:
 title: SlCLV3
 categories: [Solanum lycopersicum]
-tags: [ auxin,ga, ga  ]
+tags: [ auxin,ga ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc11g071380]()
 - **Gene Symbol:** SlCLV3
 - **Gene Name:** 
-- **Genome Version:** [tomato reference genome (Solanum lycopersicum ITAG3.2)]()
+- **Genome:** [tomato reference genome (Solanum lycopersicum ITAG3.2)]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ auxin,ga, ga  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-auxin,ga, ga 
+## Orthologs:
+
+## Keywords:
+auxin,ga
 
 ## Sequences:
 - **CDS Sequence:**

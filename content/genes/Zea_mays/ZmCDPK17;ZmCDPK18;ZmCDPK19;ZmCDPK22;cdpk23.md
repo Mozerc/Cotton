@@ -10,7 +10,7 @@ tags: [ growth,development,stress,abiotic stress,signal transduction ]
 - **Gene ID:**	[Zm00001eb312910]()
 - **Gene Symbol:** ZmCDPK17;ZmCDPK18;ZmCDPK19;ZmCDPK22;cdpk23
 - **Gene Name:** calcium dependent protein kinase23
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ growth,development,stress,abiotic stress,signal transduction ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 growth,development,stress,abiotic stress,signal transduction
 
 ## Sequences:

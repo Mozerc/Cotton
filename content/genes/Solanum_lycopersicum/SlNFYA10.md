@@ -10,7 +10,7 @@ tags: [ stress,oxidative stress,oxidative ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** SlNFYA10
 - **Gene Name:** 
-- **Genome Version:** [Tomato Genome version SL4.0]()
+- **Genome:** [Tomato Genome version SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -26,7 +26,9 @@ tags: [ stress,oxidative stress,oxidative ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 stress,oxidative stress,oxidative
 
 ## Sequences:

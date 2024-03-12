@@ -10,7 +10,7 @@ tags: [ leaf,development,leaf development,transcription regulator ]
 - **Gene ID:**	[Solyc03g063140]()
 - **Gene Symbol:** SlAS2
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ leaf,development,leaf development,transcription regulator ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 leaf,development,leaf development,transcription regulator
 
 ## Sequences:

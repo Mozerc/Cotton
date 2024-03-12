@@ -10,7 +10,7 @@ tags: [ resistance ]
 - **Gene ID:**	[CsGy5G016190]()
 - **Gene Symbol:** CsLRR1
 - **Gene Name:** 
-- **Genome Version:** [Cucumber (Gy14) v2 Genome]()
+- **Genome:** [Cucumber (Gy14) v2 Genome]()
 - **Species:** *Cucumis sativus*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 resistance
 
 ## Sequences:

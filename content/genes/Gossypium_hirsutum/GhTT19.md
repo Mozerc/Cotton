@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[GH_A07G0814]()
 - **Gene Symbol:** GhTT19
 - **Gene Name:** 
-- **Genome Version:** [G. hirsutum L. acc. TM-1 (http://cotton.zju.edu.cn/)]()
+- **Genome:** [G. hirsutum L. acc. TM-1 (http://cotton.zju.edu.cn/)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [  ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 
 
 ## Sequences:

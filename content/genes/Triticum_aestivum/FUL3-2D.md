@@ -10,7 +10,7 @@ tags: [ development,spikelet,plant development,height,plant height,spikelet deve
 - **Gene ID:**	[TraesCS2D02G181400]()
 - **Gene Symbol:** FUL3-2D
 - **Gene Name:** 
-- **Genome Version:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0]()
 - **Species:** *Triticum aestivum*
 
 ## Functional Description:
@@ -27,7 +27,9 @@ tags: [ development,spikelet,plant development,height,plant height,spikelet deve
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 development,spikelet,plant development,height,plant height,spikelet development,flowering
 
 ## Sequences:

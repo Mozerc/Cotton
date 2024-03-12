@@ -10,7 +10,7 @@ tags: [ drought,photosynthesis,tolerance,drought tolerance ]
 - **Gene ID:**	[Zm00001eb013450]()
 - **Gene Symbol:** ZmPP2C26;ZmPP8;ZmOrphan42;ZmPP2C02;ZmPP2C06;prh25
 - **Gene Name:** protein phosphatase homolog25
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [ drought,photosynthesis,tolerance,drought tolerance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 drought,photosynthesis,tolerance,drought tolerance
 
 ## Sequences:

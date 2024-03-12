@@ -10,7 +10,7 @@ tags: [ tillering,tiller ]
 - **Gene ID:**	[Pavir.Ia00838/Pavir.9NG142700]()
 - **Gene Symbol:** Pvtb1a
 - **Gene Name:** 
-- **Genome Version:** [Panicum virgatum v4.1(Panicum virgatum v1.0, DOE-JGI, http://phytozome.jgi.doe.gov/)]()
+- **Genome:** [Panicum virgatum v4.1(Panicum virgatum v1.0, DOE-JGI, http://phytozome.jgi.doe.gov/)]()
 - **Species:** *Panicum virgatum*
 
 ## Functional Description:
@@ -26,7 +26,10 @@ tags: [ tillering,tiller ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+
+## Keywords:
 tillering,tiller
 
 ## Sequences:

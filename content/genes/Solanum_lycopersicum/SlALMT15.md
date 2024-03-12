@@ -3,14 +3,14 @@ description: Solyc11g068970 ; Solanum lycopersicum
 meta_title:
 title: SlALMT15
 categories: [Solanum lycopersicum]
-tags: [ drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stomata ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stomata ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Solyc11g068970]()
 - **Gene Symbol:** SlALMT15
 - **Gene Name:** 
-- **Genome Version:** [tomato genome sequence SL4.0]()
+- **Genome:** [tomato genome sequence SL4.0]()
 - **Species:** *Solanum lycopersicum*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,stomata
+## Orthologs:
+
+## Keywords:
+drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stomata
 
 ## Sequences:
 - **CDS Sequence:**

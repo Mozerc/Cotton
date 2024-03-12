@@ -3,14 +3,14 @@ description: Glyma.07G171200 ; Glycine max
 meta_title:
 title: GmDRF2
 categories: [Glycine max]
-tags: [ resistance,drought,stress,drought stress,drought stress ,reactive oxygen species,drought resistance,stress response,drought stress response,drought response ]
+tags: [ resistance,drought,stress,drought stress,reactive oxygen species,drought resistance,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.07G171200]()
 - **Gene Symbol:** GmDRF2
 - **Gene Name:** 
-- **Genome Version:** [Williams 82 (Wm82) reference genome]()
+- **Genome:** [Williams 82 (Wm82) reference genome]()
 - **Species:** *Glycine max*
 
 ## Functional Description:
@@ -27,8 +27,10 @@ tags: [ resistance,drought,stress,drought stress,drought stress ,reactive oxygen
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
-resistance,drought,stress,drought stress,drought stress ,reactive oxygen species,drought resistance,stress response,drought stress response,drought response
+## Orthologs:
+
+## Keywords:
+resistance,drought,stress,drought stress,reactive oxygen species,drought resistance,stress response,drought stress response,drought response
 
 ## Sequences:
 - **CDS Sequence:**

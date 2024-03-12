@@ -10,7 +10,7 @@ tags: [  ]
 - **Gene ID:**	[Zm00001eb428470]()
 - **Gene Symbol:** Ven1;hyd3
 - **Gene Name:** Vitreous endosperm 1
-- **Genome Version:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
 - **Species:** *Zea mays*
 
 ## Functional Description:
@@ -28,7 +28,9 @@ tags: [  ]
 - **NCBI ID:** [LOC732825](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732825)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Related Phenotypes:
+## Orthologs:
+
+## Keywords:
 
 
 ## Sequences:
