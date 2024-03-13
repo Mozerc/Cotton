@@ -125,14 +125,14 @@ title: SPECIES
         font-size: 1em; /* 设置默认字体大小 */
     }
     img {
-        max-width: 100%;
+        max-width: 80%;
         height: auto;
         width=100mm;
         height=100mm;
         }
      @media (max-width: 600px) {
         th, td {
-            font-size: 0.1em; /* 在小屏幕上设置较小的字体大小 */
+            font-size: 0.5em; /* 在小屏幕上设置较小的字体大小 */
         }
     }
 
