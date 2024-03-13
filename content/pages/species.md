@@ -106,3 +106,61 @@ title: SPECIES
 | <img src="Vitis_amurensis.jpg" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href="/categories/vitis-amurensis/" style="font-size: 18px; vertical-align: middle;"><em>Vitis amurensis</em></a> | Amur grape | eudicotyledons | [103351](https://www.uniprot.org/taxonomy/103351) | <a href="/categories/vitis-amurensis/" style="font-size: 18px; vertical-align: middle;">2</a> |
 | <img src="Zanthoxylum_bungeanum.jpg" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href="/categories/zanthoxylum-bungeanum/" style="font-size: 18px; vertical-align: middle;"><em>Zanthoxylum bungeanum</em></a> | Sichuan Pepper | eudicotyledons | [328401](https://www.uniprot.org/taxonomy/328401) | <a href="/categories/zanthoxylum-bungeanum/" style="font-size: 18px; vertical-align: middle;">1</a> |
 | <img src="Lolium_rigidium.jpg" width="100mm" height="100mm" style="margin-top: 0px; margin-bottom: 0px;"/> <a href="/categories/lolium-rigidium/" style="font-size: 18px; vertical-align: middle;"><em>Lolium rigidium</em></a> | Annual ryegrass | Liliopsida | [89674](https://www.uniprot.org/taxonomy/89674) | <a href="/categories/lolium-rigidium/" style="font-size: 18px; vertical-align: middle;">1</a> |
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>响应式表格</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    th, td {
+        padding: 0px;
+        text-align: left;
+        font-size: 1em; /* 设置默认字体大小 */
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+        width=100mm;
+        height=100mm;
+        }
+     @media (max-width: 600px) {
+        th, td {
+            font-size: 0.1em; /* 在小屏幕上设置较小的字体大小 */
+        }
+    }
+
+</style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr>
+            <th>Scientific Name</th>
+            <th>Common Name</th>
+            <th>Classification</th>
+            <th>TaxonID</th>
+            <th>Gene Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/categories/zea-mays/"><img src="Arabidopsis_thaliana.png" alt="拟南芥" style="margin-top: 0px; margin-bottom: 0px;"/>Arabidopsis thaliana</a></td>
+            <td>Mouse-ear cress</td>
+            <td>eudicotyledons</td>
+            <td><a href="https://www.uniprot.org/taxonomy/3702">3702</a></td>
+            <td><a href="/categories/zea-mays/">3000</a></td>
+        </tr>
+        <!-- 其他行在此添加 -->
+    </tbody>
+</table>
+
+</body>
+</html>
