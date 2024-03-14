@@ -28,7 +28,7 @@ tags: [ phloem,flowering,vernalization ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 phloem,flowering,vernalization
 
 ## Sequences:

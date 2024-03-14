@@ -29,7 +29,7 @@ tags: [ jasmonate,defense,salicylic acid,wounding,methyl jasmonate ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 jasmonate,defense,salicylic acid,wounding,methyl jasmonate
 
 ## Sequences:

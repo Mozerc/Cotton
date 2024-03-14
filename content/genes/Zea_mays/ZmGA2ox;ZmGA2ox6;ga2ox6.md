@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,stress,gibberellin,signal transduction,h
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,stress,gibberellin,signal transduction,heat stress
 
 ## Sequences:

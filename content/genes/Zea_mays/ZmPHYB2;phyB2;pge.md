@@ -29,7 +29,7 @@ tags: [ height,plant height,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 height,plant height,flowering time,flowering
 
 ## Sequences:

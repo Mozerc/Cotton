@@ -29,7 +29,7 @@ tags: [ height,plant height,lignin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 height,plant height,lignin
 
 ## Sequences:

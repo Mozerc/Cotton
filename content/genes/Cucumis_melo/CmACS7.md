@@ -29,7 +29,7 @@ tags: [ cell division,ethylene,cell expansion,ethylene production ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell division,ethylene,cell expansion,ethylene production
 
 ## Sequences:

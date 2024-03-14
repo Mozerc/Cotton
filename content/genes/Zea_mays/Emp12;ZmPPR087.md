@@ -29,7 +29,7 @@ tags: [ development,mitochondria,embryo,endosperm,endosperm development,embryo d
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,mitochondria,embryo,endosperm,endosperm development,embryo development
 
 ## Sequences:

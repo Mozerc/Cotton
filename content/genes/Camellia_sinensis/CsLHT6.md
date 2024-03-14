@@ -31,7 +31,7 @@ tags: [ nitrogen,as transport ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 nitrogen,as transport
 
 ## Sequences:

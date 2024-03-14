@@ -28,7 +28,7 @@ tags: [ development,meristem,inflorescence,inflorescence development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,meristem,inflorescence,inflorescence development
 
 ## Sequences:

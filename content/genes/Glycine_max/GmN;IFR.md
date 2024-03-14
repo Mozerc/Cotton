@@ -27,7 +27,7 @@ tags: [ defense,insect ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 defense,insect
 
 ## Sequences:

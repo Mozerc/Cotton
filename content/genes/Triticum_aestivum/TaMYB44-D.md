@@ -29,7 +29,7 @@ tags: [ starch,starch biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,starch biosynthesis
 
 ## Sequences:

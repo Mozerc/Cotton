@@ -28,7 +28,7 @@ tags: [ leaf,cell division,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,cell division,leaf angle
 
 ## Sequences:

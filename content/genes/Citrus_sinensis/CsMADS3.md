@@ -29,7 +29,7 @@ tags: [ chlorophyll,calli ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 chlorophyll,calli
 
 ## Sequences:

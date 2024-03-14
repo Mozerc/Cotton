@@ -31,7 +31,7 @@ tags: [ stress,defense response,defense,tolerance,insect,biotic stress,stress to
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,defense response,defense,tolerance,insect,biotic stress,stress tolerance,pathogen,jasmonic,jasmonic acid,stress response
 
 ## Sequences:

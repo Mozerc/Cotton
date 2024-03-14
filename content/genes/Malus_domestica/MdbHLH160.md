@@ -30,7 +30,7 @@ tags: [ transcription factor,drought,tolerance,aba,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,drought,tolerance,aba,drought tolerance
 
 ## Sequences:

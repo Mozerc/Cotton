@@ -29,7 +29,7 @@ tags: [ iron ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 iron
 
 ## Sequences:

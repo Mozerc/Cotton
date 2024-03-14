@@ -28,7 +28,7 @@ tags: [ stress,chilling,chilling stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,chilling,chilling stress
 
 ## Sequences:

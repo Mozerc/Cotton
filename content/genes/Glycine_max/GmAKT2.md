@@ -28,7 +28,7 @@ tags: [ resistance,potassium ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,potassium
 
 ## Sequences:

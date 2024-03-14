@@ -29,7 +29,7 @@ tags: [ growth,development,stress,abiotic stress,signal transduction ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,stress,abiotic stress,signal transduction
 
 ## Sequences:

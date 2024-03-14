@@ -29,7 +29,7 @@ tags: [ nucleus,pcd ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 nucleus,pcd
 
 ## Sequences:

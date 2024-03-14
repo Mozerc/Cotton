@@ -29,7 +29,7 @@ tags: [ leaf,internode length,leaf size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,internode length,leaf size
 
 ## Sequences:

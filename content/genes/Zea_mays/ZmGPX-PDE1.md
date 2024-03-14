@@ -30,7 +30,7 @@ tags: [ phosphate,pi ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 phosphate,pi
 
 ## Sequences:

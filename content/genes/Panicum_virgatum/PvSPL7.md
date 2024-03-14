@@ -30,7 +30,7 @@ tags: [ yield,biomass,sugar ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 yield,biomass,sugar
 
 ## Sequences:

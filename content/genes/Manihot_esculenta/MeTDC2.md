@@ -29,7 +29,7 @@ tags: [ melatonin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 melatonin
 
 ## Sequences:

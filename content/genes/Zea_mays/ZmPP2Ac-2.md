@@ -29,7 +29,7 @@ tags: [ auxin,cell division,cell elongation,auxin transport,height,plant height,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,cell division,cell elongation,auxin transport,height,plant height,phosphatase,as transport
 
 ## Sequences:

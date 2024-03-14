@@ -29,7 +29,7 @@ tags: [ root,growth,br,br signaling,root growth, br  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,growth,br,br signaling,root growth, br 
 
 ## Sequences:

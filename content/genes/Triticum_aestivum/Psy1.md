@@ -27,7 +27,7 @@ tags: [ grain,endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,endosperm
 
 ## Sequences:

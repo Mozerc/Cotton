@@ -30,7 +30,7 @@ tags: [ br,actin protein ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 br,actin protein
 
 ## Sequences:

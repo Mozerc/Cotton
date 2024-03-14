@@ -29,7 +29,7 @@ tags: [ stress,seed,seed germination,aba,ga ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,seed,seed germination,aba,ga
 
 ## Sequences:

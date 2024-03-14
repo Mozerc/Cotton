@@ -28,7 +28,7 @@ tags: [ grain,resistance,grain yield,grain quality,quality,yield,breeding,flower
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,resistance,grain yield,grain quality,quality,yield,breeding,flowering time,flowering
 
 ## Sequences:

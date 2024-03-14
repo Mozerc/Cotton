@@ -29,7 +29,7 @@ tags: [ auxin,seed ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,seed
 
 ## Sequences:

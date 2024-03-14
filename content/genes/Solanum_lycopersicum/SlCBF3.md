@@ -29,7 +29,7 @@ tags: [ stress,ja,tolerance,cold tolerance,cold stress,aba,cold,stress tolerance
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,ja,tolerance,cold tolerance,cold stress,aba,cold,stress tolerance,stress response,ja signalling
 
 ## Sequences:

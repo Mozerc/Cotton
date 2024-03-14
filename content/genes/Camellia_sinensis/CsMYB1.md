@@ -31,7 +31,7 @@ tags: [ development,plant development,domestication ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,plant development,domestication
 
 ## Sequences:

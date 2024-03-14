@@ -30,7 +30,7 @@ tags: [ drought,salt,tolerance,drought tolerance,salt tolerance,sterile,flowerin
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,salt,tolerance,drought tolerance,salt tolerance,sterile,flowering
 
 ## Sequences:

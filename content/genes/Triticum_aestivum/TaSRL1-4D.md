@@ -30,7 +30,7 @@ tags: [ root,growth,auxin,root growth,auxin transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,auxin,root growth,auxin transport
 
 ## Sequences:

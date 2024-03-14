@@ -32,7 +32,7 @@ tags: [ grain,grain size,stress,grain number,seed,grain yield,yield,seed size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain size,stress,grain number,seed,grain yield,yield,seed size
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ resistance,stress,disease,disease resistance,stress response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,disease,disease resistance,stress response
 
 ## Sequences:

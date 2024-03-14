@@ -31,7 +31,7 @@ tags: [ development,spikelet,floral,meristem,spikelet meristem,inflorescence,flo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,spikelet,floral,meristem,spikelet meristem,inflorescence,floral meristem,floral organ,spikelet development,inflorescence development
 
 ## Sequences:

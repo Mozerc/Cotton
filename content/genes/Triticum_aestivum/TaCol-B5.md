@@ -29,7 +29,7 @@ tags: [ tillering,kinase,grain,shoot,tiller,grain yield,yield,architecture,prote
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tillering,kinase,grain,shoot,tiller,grain yield,yield,architecture,protein kinase,grain protein,shoot architecture
 
 ## Sequences:

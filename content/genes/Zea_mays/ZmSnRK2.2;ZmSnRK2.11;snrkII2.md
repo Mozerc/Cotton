@@ -29,7 +29,7 @@ tags: [ kinase,aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,aba
 
 ## Sequences:

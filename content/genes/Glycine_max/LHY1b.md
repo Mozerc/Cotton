@@ -31,7 +31,7 @@ tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,flowering time,flo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,aba,drought tolerance,abscisic acid,flowering time,flowering
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ dehydrogenase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 dehydrogenase
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ transcription factor,growth,stress,tolerance,vegetative,stress tolerance
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,stress,tolerance,vegetative,stress tolerance,flowering,stress response,heat tolerance,heat stress,heat stress response
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ reactive oxygen species ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 reactive oxygen species
 
 ## Sequences:

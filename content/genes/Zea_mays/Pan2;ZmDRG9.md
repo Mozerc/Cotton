@@ -30,7 +30,7 @@ tags: [ stomatal ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stomatal
 
 ## Sequences:

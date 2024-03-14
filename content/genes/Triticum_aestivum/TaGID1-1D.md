@@ -28,7 +28,7 @@ tags: [ growth,plant growth,height,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,plant growth,height,plant height
 
 ## Sequences:

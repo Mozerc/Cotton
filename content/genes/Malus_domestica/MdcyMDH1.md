@@ -30,7 +30,7 @@ tags: [ cytoplasm,sucrose,phosphate,sucrose synthase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cytoplasm,sucrose,phosphate,sucrose synthase
 
 ## Sequences:

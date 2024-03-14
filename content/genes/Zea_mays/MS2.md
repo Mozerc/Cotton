@@ -29,7 +29,7 @@ tags: [ development,pollen,anther,pollen development,transporter,cuticle,anther 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,pollen,anther,pollen development,transporter,cuticle,anther development
 
 ## Sequences:

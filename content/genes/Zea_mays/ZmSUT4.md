@@ -28,7 +28,7 @@ tags: [ embryo,endosperm,sucrose,sucrose transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 embryo,endosperm,sucrose,sucrose transport
 
 ## Sequences:

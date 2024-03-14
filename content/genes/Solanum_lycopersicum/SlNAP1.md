@@ -28,7 +28,7 @@ tags: [ resistance,stress,defense response,defense,yield,breeding,stress respons
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,defense response,defense,yield,breeding,stress response
 
 ## Sequences:

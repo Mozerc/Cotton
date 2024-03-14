@@ -31,7 +31,7 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,kinase,tiller,down-regulated genes,map-based cloning,tiller number,tiller bud outgrowth
 
 ## Sequences:

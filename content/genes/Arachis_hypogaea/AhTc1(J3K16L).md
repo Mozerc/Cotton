@@ -29,7 +29,7 @@ tags: [ transcription factor,breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,breeding
 
 ## Sequences:

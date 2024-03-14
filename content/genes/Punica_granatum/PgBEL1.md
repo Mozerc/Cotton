@@ -29,7 +29,7 @@ tags: [ development,seed,ovule,seed development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,seed,ovule,seed development
 
 ## Sequences:

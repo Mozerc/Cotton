@@ -30,7 +30,7 @@ tags: [ kinase,drought,stress,drought stress,tolerance,aba,drought tolerance,str
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,protein kinase,osmotic tolerance,receptor kinase,stress response,drought stress response,osmotic stress,drought response
 
 ## Sequences:

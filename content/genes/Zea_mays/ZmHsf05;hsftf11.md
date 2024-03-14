@@ -29,7 +29,7 @@ tags: [ transcription factor,seedlings,stress,heat stress,thermotolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,seedlings,stress,heat stress,thermotolerance
 
 ## Sequences:

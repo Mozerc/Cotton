@@ -31,7 +31,7 @@ tags: [ shoot,auxin,branching,auxin transport ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 shoot,auxin,branching,auxin transport
 
 ## Sequences:

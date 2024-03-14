@@ -29,7 +29,7 @@ tags: [ grain,grain length,floral,floral organ ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain length,floral,floral organ
 
 ## Sequences:

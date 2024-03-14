@@ -29,7 +29,7 @@ tags: [ nitrogen,plasma membrane,phosphate,phosphorus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,plasma membrane,phosphate,phosphorus
 
 ## Sequences:

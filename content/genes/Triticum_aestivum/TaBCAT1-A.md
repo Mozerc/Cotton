@@ -30,7 +30,7 @@ tags: [ stem,defense,sa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,defense,sa
 
 ## Sequences:

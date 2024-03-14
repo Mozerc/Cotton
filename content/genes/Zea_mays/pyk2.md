@@ -29,7 +29,7 @@ tags: [ root,shoot,root number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,root number
 
 ## Sequences:

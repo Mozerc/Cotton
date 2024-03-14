@@ -28,7 +28,7 @@ tags: [ gibberellin,ethylene,gibberellin biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 gibberellin,ethylene,gibberellin biosynthesis
 
 ## Sequences:

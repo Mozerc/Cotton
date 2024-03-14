@@ -31,7 +31,7 @@ tags: [ grain,drought,grain yield,tolerance,yield,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,drought,grain yield,tolerance,yield,drought tolerance
 
 ## Sequences:

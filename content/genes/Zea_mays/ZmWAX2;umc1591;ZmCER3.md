@@ -31,7 +31,7 @@ tags: [ resistance,seed,breeding,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,seed,breeding,resistant
 
 ## Sequences:

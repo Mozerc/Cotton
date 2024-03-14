@@ -28,7 +28,7 @@ tags: [ jasmonate,defense ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 jasmonate,defense
 
 ## Sequences:

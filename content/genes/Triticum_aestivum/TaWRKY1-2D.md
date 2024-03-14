@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,tolerance,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought resistance
 
 ## Sequences:

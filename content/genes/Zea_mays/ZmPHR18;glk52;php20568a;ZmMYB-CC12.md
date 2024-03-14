@@ -27,7 +27,7 @@ tags: [ phosphorus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 phosphorus
 
 ## Sequences:

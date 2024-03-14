@@ -33,7 +33,7 @@ tags: [ leaf,auxin,auxin response,leaf shape,sugar,dehydrogenase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,auxin,auxin response,leaf shape,sugar,dehydrogenase
 
 ## Sequences:

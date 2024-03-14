@@ -31,7 +31,7 @@ tags: [ seedlings,growth,drought,stress,drought stress,tolerance,drought toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,growth,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,plant growth,stomatal,biomass,stomatal density,water loss
 
 ## Sequences:

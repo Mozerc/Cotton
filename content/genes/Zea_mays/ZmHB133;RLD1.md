@@ -30,7 +30,7 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,auxin,root development,root growth,branching,vascular development,phytohormone
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ nitrogen,development,iron ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,development,iron
 
 ## Sequences:

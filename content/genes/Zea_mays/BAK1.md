@@ -28,7 +28,7 @@ tags: [ brassinosteroid,auxin,gibberellin,auxin biosynthesis,cellulose,auxin tra
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 brassinosteroid,auxin,gibberellin,auxin biosynthesis,cellulose,auxin transport,height,plant height,brassinosteroid biosynthesis,gibberellin biosynthesis
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth
 
 ## Sequences:

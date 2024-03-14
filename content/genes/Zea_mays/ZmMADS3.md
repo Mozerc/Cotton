@@ -30,7 +30,7 @@ tags: [ stem,development,spikelet,plant development,flower,vegetative,spikelet n
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,development,spikelet,plant development,flower,vegetative,spikelet number,embryo,somatic embryogenesis,height,plant height,flower development,spikelet development,node,embryo development
 
 ## Sequences:

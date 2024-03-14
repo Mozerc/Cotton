@@ -29,7 +29,7 @@ tags: [ leaf,growth,cell division ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,growth,cell division
 
 ## Sequences:

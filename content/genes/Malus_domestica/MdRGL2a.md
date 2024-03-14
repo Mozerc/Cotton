@@ -28,7 +28,7 @@ tags: [ transcription activator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription activator
 
 ## Sequences:

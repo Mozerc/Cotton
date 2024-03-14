@@ -29,7 +29,7 @@ tags: [ nitrogen,leaf,nitrate ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,leaf,nitrate
 
 ## Sequences:

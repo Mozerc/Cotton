@@ -30,7 +30,7 @@ tags: [ stress,potassium,osmotic stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,potassium,osmotic stress
 
 ## Sequences:

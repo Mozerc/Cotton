@@ -29,7 +29,7 @@ tags: [ quality ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 quality
 
 ## Sequences:

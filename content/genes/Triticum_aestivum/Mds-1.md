@@ -29,7 +29,7 @@ tags: [ development,resistance,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,resistance,resistant
 
 ## Sequences:

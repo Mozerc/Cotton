@@ -29,7 +29,7 @@ tags: [ aba,sucrose, aba ,aba biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 aba,sucrose, aba ,aba biosynthesis
 
 ## Sequences:

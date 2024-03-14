@@ -28,7 +28,7 @@ tags: [ fertility,jasmonate,male fertility ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,jasmonate,male fertility
 
 ## Sequences:

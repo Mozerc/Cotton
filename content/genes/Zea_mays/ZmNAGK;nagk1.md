@@ -29,7 +29,7 @@ tags: [ stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,to
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stress response,drought stress response,drought response
 
 ## Sequences:

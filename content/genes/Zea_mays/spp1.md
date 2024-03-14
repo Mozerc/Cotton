@@ -28,7 +28,7 @@ tags: [ grain,pollen,grain filling,pericarp,pollen tube elongation,pollen germin
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,pollen,grain filling,pericarp,pollen tube elongation,pollen germination
 
 ## Sequences:

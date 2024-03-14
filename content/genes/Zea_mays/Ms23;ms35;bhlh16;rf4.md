@@ -29,7 +29,7 @@ tags: [ development,anther,sterility,tapetum,anther development,cell proliferati
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,anther,sterility,tapetum,anther development,cell proliferation
 
 ## Sequences:

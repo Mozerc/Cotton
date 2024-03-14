@@ -29,7 +29,7 @@ tags: [ seedlings ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seedlings
 
 ## Sequences:

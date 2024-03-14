@@ -31,7 +31,7 @@ tags: [ stress,salt,salt stress,transcriptional regulator,node ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,salt,salt stress,transcriptional regulator,node
 
 ## Sequences:

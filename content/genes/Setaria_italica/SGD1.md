@@ -29,7 +29,7 @@ tags: [ grain,ubiquitin,ubiquitin e3 ligase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 grain,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

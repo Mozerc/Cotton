@@ -29,7 +29,7 @@ tags: [ down-regulated genes,quality,yield,breeding,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 down-regulated genes,quality,yield,breeding,flowering time,flowering
 
 ## Sequences:

@@ -36,7 +36,7 @@ tags: [ growth,development,grain,grain length,brassinosteroid,seed,map-based clo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,grain,grain length,brassinosteroid,seed,map-based cloning,nucleus,cell division,grain weight,seed weight,resistant,seed development,internode length,grain width,grain growth,seed growth,grain protein,seed length,internode development
 
 ## Sequences:

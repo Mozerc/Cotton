@@ -29,7 +29,7 @@ tags: [ resistance,phosphorus ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,phosphorus
 
 ## Sequences:

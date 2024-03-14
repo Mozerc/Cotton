@@ -27,7 +27,7 @@ tags: [ salicylic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salicylic acid
 
 ## Sequences:

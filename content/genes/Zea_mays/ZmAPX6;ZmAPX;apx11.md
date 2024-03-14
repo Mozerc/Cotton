@@ -28,7 +28,7 @@ tags: [ oxidative,reactive oxygen species ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 oxidative,reactive oxygen species
 
 ## Sequences:

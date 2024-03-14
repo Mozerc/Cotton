@@ -29,7 +29,7 @@ tags: [ drought,photosynthesis,tolerance,aba,drought tolerance,stomatal,drought 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,photosynthesis,tolerance,aba,drought tolerance,stomatal,drought response
 
 ## Sequences:

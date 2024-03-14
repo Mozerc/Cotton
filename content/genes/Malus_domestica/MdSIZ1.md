@@ -28,7 +28,7 @@ tags: [ transcription factor,cuticle,ubiquitin,ubiquitin e3 ligase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,cuticle,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

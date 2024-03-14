@@ -29,7 +29,7 @@ tags: [ growth,development,grain,grain size,resistance,plant development,panicle
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,grain,grain size,resistance,plant development,panicle,tiller,stress,seedling,grain number,tolerance,abiotic stress,biotic stress,stress tolerance,architecture,panicle size,plant growth,height,plant height,grain shape,plant architecture,panicle architecture,tiller number,panicle development,grain growth,seedling growth,heading time
 
 ## Sequences:

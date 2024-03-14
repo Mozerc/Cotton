@@ -30,7 +30,7 @@ tags: [ grain,endosperm,crown ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,endosperm,crown
 
 ## Sequences:

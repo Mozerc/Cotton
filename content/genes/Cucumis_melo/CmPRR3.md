@@ -31,7 +31,7 @@ tags: [ seedlings,stress,tolerance,cold tolerance,cold stress,cold,stress tolera
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seedlings,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress response
 
 ## Sequences:

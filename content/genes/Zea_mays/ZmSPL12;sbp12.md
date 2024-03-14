@@ -36,7 +36,7 @@ tags: [ grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,plant height,ga biosynthesis
 
 ## Sequences:

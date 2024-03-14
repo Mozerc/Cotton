@@ -30,7 +30,7 @@ tags: [ transcription factor,development,fertility,pollen,anther,sterility,polle
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,fertility,pollen,anther,sterility,pollen development,anther development,male sterility,cutin,male fertility,plastid,pollen fertility
 
 ## Sequences:

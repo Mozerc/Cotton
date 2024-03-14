@@ -30,7 +30,7 @@ tags: [ resistance,seedling,ga,lodging,lodging resistance,height,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,seedling,ga,lodging,lodging resistance,height,plant height
 
 ## Sequences:

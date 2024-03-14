@@ -30,7 +30,7 @@ tags: [ growth,pollen ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,pollen
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ development,plant development,floral,inflorescence,height,plant height,i
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,floral,inflorescence,height,plant height,inflorescence development
 
 ## Sequences:

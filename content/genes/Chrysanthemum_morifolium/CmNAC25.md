@@ -31,7 +31,7 @@ tags: [ flower,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flower,flowering
 
 ## Sequences:

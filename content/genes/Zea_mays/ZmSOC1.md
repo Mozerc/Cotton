@@ -29,7 +29,7 @@ tags: [ growth,seed,quality,reproductive,plant growth,height,plant height,flower
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,seed,quality,reproductive,plant growth,height,plant height,flowering,reproductive growth,seed growth
 
 ## Sequences:

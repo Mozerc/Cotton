@@ -31,7 +31,7 @@ tags: [ seed,transporter ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,transporter
 
 ## Sequences:

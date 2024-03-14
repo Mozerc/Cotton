@@ -30,7 +30,7 @@ tags: [ drought,aba, aba ,phosphatase,protein phosphatase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,aba, aba ,phosphatase,protein phosphatase
 
 ## Sequences:

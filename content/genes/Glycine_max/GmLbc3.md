@@ -28,7 +28,7 @@ tags: [ nitrogen,development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,development
 
 ## Sequences:

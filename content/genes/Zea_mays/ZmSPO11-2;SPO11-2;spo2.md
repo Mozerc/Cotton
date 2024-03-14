@@ -29,7 +29,7 @@ tags: [ sterility,meiotic,male sterility,meiotic recombination,female sterility,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 sterility,meiotic,male sterility,meiotic recombination,female sterility,recombination
 
 ## Sequences:

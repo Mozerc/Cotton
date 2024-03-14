@@ -30,7 +30,7 @@ tags: [ temperature,fertility,sterility,stress,male sterility,male fertility,flo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,fertility,sterility,stress,male sterility,male fertility,flowering,thermotolerance
 
 ## Sequences:

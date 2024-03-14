@@ -30,7 +30,7 @@ tags: [ strigolactone,phosphorus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 strigolactone,phosphorus
 
 ## Sequences:

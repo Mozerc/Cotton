@@ -30,7 +30,7 @@ tags: [ sugar,plasma membrane,sugar transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 sugar,plasma membrane,sugar transport
 
 ## Sequences:

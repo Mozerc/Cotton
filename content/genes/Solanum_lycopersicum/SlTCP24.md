@@ -30,7 +30,7 @@ tags: [ leaf,development,leaf development,plant development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,plant development
 
 ## Sequences:

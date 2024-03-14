@@ -30,7 +30,7 @@ tags: [ sugar,flowering time,flowering,heading time ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 sugar,flowering time,flowering,heading time
 
 ## Sequences:

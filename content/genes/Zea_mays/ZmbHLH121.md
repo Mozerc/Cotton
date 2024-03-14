@@ -29,7 +29,7 @@ tags: [ grain,grain size,grain yield,yield,cell death,cell wall,grain weight,tra
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain size,grain yield,yield,cell death,cell wall,grain weight,transcription activator
 
 ## Sequences:

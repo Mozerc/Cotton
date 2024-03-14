@@ -29,7 +29,7 @@ tags: [ cellulose,phloem ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cellulose,phloem
 
 ## Sequences:

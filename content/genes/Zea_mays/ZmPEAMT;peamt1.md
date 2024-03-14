@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,oxidative stress,salt,oxidative,cold stres
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,oxidative stress,salt,oxidative,cold stress,abiotic stress,salt stress,cold,methyltransferase,drought and oxidative stress
 
 ## Sequences:

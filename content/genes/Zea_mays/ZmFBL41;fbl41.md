@@ -30,7 +30,7 @@ tags: [ leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resi
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resistance
 
 ## Sequences:

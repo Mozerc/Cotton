@@ -29,7 +29,7 @@ tags: [ transcription factor,growth,development,pollen,pollen development,stamen
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,development,pollen,pollen development,stamen
 
 ## Sequences:

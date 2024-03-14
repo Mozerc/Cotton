@@ -28,7 +28,7 @@ tags: [ root,growth,root growth,cell wall,cellulose,root hair ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,root growth,cell wall,cellulose,root hair
 
 ## Sequences:

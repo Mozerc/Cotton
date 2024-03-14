@@ -29,7 +29,7 @@ tags: [ grain,wax biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,wax biosynthesis
 
 ## Sequences:

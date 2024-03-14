@@ -28,7 +28,7 @@ tags: [ seed,seed germination,aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,seed germination,aba
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ auxin,homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,homeostasis
 
 ## Sequences:

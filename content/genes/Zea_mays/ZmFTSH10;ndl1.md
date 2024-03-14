@@ -29,7 +29,7 @@ tags: [ development,auxin,plant development,reproductive,reproductive developmen
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,plant development,reproductive,reproductive development
 
 ## Sequences:

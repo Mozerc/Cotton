@@ -28,7 +28,7 @@ tags: [ leaf,growth,cell division,cell elongation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,growth,cell division,cell elongation
 
 ## Sequences:

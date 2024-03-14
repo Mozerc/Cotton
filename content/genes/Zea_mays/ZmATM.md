@@ -29,7 +29,7 @@ tags: [ kinase,fertility,cell cycle,dna repair,meiotic ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,fertility,cell cycle,dna repair,meiotic
 
 ## Sequences:

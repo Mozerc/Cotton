@@ -29,7 +29,7 @@ tags: [ development,floral,meristem,floral meristem,ovule ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,floral,meristem,floral meristem,ovule
 
 ## Sequences:

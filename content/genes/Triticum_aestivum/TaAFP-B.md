@@ -29,7 +29,7 @@ tags: [ seed,seed germination,aba,embryo,dormancy,seed dormancy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,seed germination,aba,embryo,dormancy,seed dormancy
 
 ## Sequences:

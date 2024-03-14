@@ -31,7 +31,7 @@ tags: [ root,growth,grain,drought,grain yield,yield,aba,root growth,grain growth
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,grain,drought,grain yield,yield,aba,root growth,grain growth
 
 ## Sequences:

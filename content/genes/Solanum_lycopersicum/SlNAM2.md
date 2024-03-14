@@ -28,7 +28,7 @@ tags: [ chloroplast,quality ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chloroplast,quality
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ salt,lignin,casparian strip ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,lignin,casparian strip
 
 ## Sequences:

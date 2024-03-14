@@ -28,7 +28,7 @@ tags: [ shoot,branching,dormancy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot,branching,dormancy
 
 ## Sequences:

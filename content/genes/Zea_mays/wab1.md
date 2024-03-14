@@ -28,7 +28,7 @@ tags: [ leaf,architecture,leaf shape,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,architecture,leaf shape,leaf angle
 
 ## Sequences:

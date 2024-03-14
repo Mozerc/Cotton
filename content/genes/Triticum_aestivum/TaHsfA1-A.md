@@ -30,7 +30,7 @@ tags: [ thermotolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 thermotolerance
 
 ## Sequences:

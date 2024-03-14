@@ -29,7 +29,7 @@ tags: [ nucleus,transcriptional activator ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 nucleus,transcriptional activator
 
 ## Sequences:

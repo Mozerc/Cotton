@@ -28,7 +28,7 @@ tags: [ pollen,sterility,heterosis,male sterility ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 pollen,sterility,heterosis,male sterility
 
 ## Sequences:

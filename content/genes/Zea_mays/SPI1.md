@@ -29,7 +29,7 @@ tags: [ development,auxin,inflorescence,auxin biosynthesis,height,inflorescence 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,inflorescence,auxin biosynthesis,height,inflorescence development
 
 ## Sequences:

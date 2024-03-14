@@ -29,7 +29,7 @@ tags: [ drought,tolerance,drought tolerance,cuticle,wax biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,drought tolerance,cuticle,wax biosynthesis
 
 ## Sequences:

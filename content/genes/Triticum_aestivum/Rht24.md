@@ -30,7 +30,7 @@ tags: [ grain,grain yield,gibberellin,yield,breeding,height,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain yield,gibberellin,yield,breeding,height,plant height
 
 ## Sequences:

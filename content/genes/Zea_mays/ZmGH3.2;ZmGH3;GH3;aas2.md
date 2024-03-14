@@ -29,7 +29,7 @@ tags: [ auxin,seedling,iaa,embryo,protoplasts ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,seedling,iaa,embryo,protoplasts
 
 ## Sequences:

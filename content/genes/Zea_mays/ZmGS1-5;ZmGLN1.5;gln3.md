@@ -29,7 +29,7 @@ tags: [ leaf,stem,root,shoot,pollen,seedling,embryo,cytosol ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stem,root,shoot,pollen,seedling,embryo,cytosol
 
 ## Sequences:

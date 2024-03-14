@@ -29,7 +29,7 @@ tags: [ starch,branching,endosperm,amylose content ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,branching,endosperm,amylose content
 
 ## Sequences:

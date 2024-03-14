@@ -27,7 +27,7 @@ tags: [ embryo ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 embryo
 
 ## Sequences:

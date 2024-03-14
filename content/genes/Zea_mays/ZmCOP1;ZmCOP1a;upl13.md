@@ -29,7 +29,7 @@ tags: [ seedlings,architecture,height,plant height,signal transduction,plant arc
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,architecture,height,plant height,signal transduction,plant architecture,secondary metabolism,as transport
 
 ## Sequences:

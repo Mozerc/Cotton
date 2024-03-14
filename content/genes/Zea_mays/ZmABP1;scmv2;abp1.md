@@ -30,7 +30,7 @@ tags: [ auxin,resistance,disease,disease resistance,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,resistance,disease,disease resistance,resistant
 
 ## Sequences:

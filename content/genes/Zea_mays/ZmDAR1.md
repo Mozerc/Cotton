@@ -30,7 +30,7 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain number,starch,grain yield,yield,grain weight,endosperm,sugar,endosperm development
 
 ## Sequences:

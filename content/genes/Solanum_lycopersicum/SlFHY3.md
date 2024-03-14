@@ -30,7 +30,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,phosph
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,phosphate,phosphate signaling
 
 ## Sequences:

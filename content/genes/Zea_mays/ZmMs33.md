@@ -30,7 +30,7 @@ tags: [ development,anther,sterility,stress,ja,anther development,male sterility
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,anther,sterility,stress,ja,anther development,male sterility,stress response
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ auxin,iaa,secondary metabolism ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,iaa,secondary metabolism
 
 ## Sequences:

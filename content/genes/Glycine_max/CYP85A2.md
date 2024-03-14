@@ -30,7 +30,7 @@ tags: [ yield,architecture ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 yield,architecture
 
 ## Sequences:

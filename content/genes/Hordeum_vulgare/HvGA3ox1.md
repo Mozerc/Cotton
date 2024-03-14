@@ -29,7 +29,7 @@ tags: [ seed,dormancy,seed dormancy ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,dormancy,seed dormancy
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ sa, sa  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 sa, sa 
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ drought,tolerance,drought tolerance,al tolerance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,drought tolerance,al tolerance
 
 ## Sequences:

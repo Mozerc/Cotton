@@ -28,7 +28,7 @@ tags: [ cell division,cell cycle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell division,cell cycle
 
 ## Sequences:

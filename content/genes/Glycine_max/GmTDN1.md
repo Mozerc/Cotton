@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,tolerance,yield,drought tolerance,stress t
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,tolerance,yield,drought tolerance,stress tolerance
 
 ## Sequences:

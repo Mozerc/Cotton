@@ -29,7 +29,7 @@ tags: [ transcription factor,xylem,root,nitrate,xylem parenchyma ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,xylem,root,nitrate,xylem parenchyma
 
 ## Sequences:

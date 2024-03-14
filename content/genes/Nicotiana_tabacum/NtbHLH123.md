@@ -29,7 +29,7 @@ tags: [ stress,salt,salt stress,stress response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,salt,salt stress,stress response
 
 ## Sequences:

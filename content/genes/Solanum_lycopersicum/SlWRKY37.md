@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,ja,jasmonic,jasmoni
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,transcription factor,senescence,ja,jasmonic,jasmonic acid
 
 ## Sequences:

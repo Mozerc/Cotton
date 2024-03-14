@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,immunity,transcription regulator,plant i
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,immunity,transcription regulator,plant immunity
 
 ## Sequences:

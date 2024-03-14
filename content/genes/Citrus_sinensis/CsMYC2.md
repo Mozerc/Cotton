@@ -29,7 +29,7 @@ tags: [ carotene ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 carotene
 
 ## Sequences:

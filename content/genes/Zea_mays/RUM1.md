@@ -29,7 +29,7 @@ tags: [ root,development,auxin,root development,iaa,signal transduction,vascular
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,auxin,root development,iaa,signal transduction,vascular development,lateral root,primary root
 
 ## Sequences:

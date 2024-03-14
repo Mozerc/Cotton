@@ -30,7 +30,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,aba,drought tolerance
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,aba biosynthesis,drought resistance
 
 ## Sequences:

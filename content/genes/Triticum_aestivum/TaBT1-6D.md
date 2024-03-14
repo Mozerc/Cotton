@@ -30,7 +30,7 @@ tags: [ grain,grain size,starch,grain yield,yield,breeding,grain weight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain size,starch,grain yield,yield,breeding,grain weight
 
 ## Sequences:

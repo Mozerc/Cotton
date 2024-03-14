@@ -29,7 +29,7 @@ tags: [ root,growth,development,resistance,plant development,stress,abiotic stre
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,resistance,plant development,stress,abiotic stress,aba,root development,root growth,plant growth
 
 ## Sequences:

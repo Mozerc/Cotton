@@ -29,7 +29,7 @@ tags: [ cell death ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell death
 
 ## Sequences:

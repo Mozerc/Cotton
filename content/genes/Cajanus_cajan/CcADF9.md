@@ -29,7 +29,7 @@ tags: [ salt,salt sensitivity ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 salt,salt sensitivity
 
 ## Sequences:

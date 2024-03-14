@@ -29,7 +29,7 @@ tags: [ transcription factor,chloroplast,homeostasis,transporter,zinc,plasma mem
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,chloroplast,homeostasis,transporter,zinc,plasma membrane
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ root,shoot,drought,tolerance,drought tolerance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,shoot,drought,tolerance,drought tolerance
 
 ## Sequences:

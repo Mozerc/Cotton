@@ -30,7 +30,7 @@ tags: [ seedlings,root,drought,tolerance,drought tolerance,lateral root,root num
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,root,drought,tolerance,drought tolerance,lateral root,root number,lateral root number
 
 ## Sequences:

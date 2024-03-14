@@ -29,7 +29,7 @@ tags: [ defense response,defense ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 defense response,defense
 
 ## Sequences:

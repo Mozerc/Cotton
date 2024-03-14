@@ -29,7 +29,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeos
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeostasis
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ growth,pollen,pollen formation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,pollen,pollen formation
 
 ## Sequences:

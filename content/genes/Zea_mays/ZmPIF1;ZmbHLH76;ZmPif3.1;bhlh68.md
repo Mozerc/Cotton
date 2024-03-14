@@ -30,7 +30,7 @@ tags: [ grain,drought,grain yield,tolerance,yield,drought tolerance,breeding,sto
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,drought,grain yield,tolerance,yield,drought tolerance,breeding,stomatal,resistant,grain protein
 
 ## Sequences:

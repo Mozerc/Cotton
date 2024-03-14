@@ -29,7 +29,7 @@ tags: [ kinase,protein kinase,phosphatase,dehydrogenase,protein phosphatase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,protein kinase,phosphatase,dehydrogenase,protein phosphatase
 
 ## Sequences:

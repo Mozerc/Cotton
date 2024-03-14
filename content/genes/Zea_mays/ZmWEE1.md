@@ -29,7 +29,7 @@ tags: [ growth,kinase,nucleus,cell division,plant growth,cell elongation,height,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,kinase,nucleus,cell division,plant growth,cell elongation,height,plant height
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ root,growth,development,grain,plant development,stress,grain yield,toler
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,grain,plant development,stress,grain yield,tolerance,yield,root development,stress tolerance,architecture,root growth,plant growth,lateral root,plant architecture,primary root,phosphate,phosphatase,grain growth,grain protein,pi,root architecture,protein phosphatase,root system architecture
 
 ## Sequences:

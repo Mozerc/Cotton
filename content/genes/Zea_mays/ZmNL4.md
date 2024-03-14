@@ -34,7 +34,7 @@ tags: [ leaf,map-based cloning,cell division,architecture,breeding,cell wall,pla
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,map-based cloning,cell division,architecture,breeding,cell wall,plant architecture,leaf size
 
 ## Sequences:

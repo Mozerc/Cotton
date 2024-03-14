@@ -32,7 +32,7 @@ tags: [ growth,grain,auxin,grain yield,yield,plant growth,grain weight,cell prol
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,grain,auxin,grain yield,yield,plant growth,grain weight,cell proliferation,grain growth
 
 ## Sequences:

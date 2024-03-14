@@ -29,7 +29,7 @@ tags: [ kinase,br,br signaling,cell cycle, br ,cell expansion ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 kinase,br,br signaling,cell cycle, br ,cell expansion
 
 ## Sequences:

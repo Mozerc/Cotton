@@ -30,7 +30,7 @@ tags: [ nitrogen,temperature,drought,stress,drought stress,salt,tolerance,abioti
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,temperature,drought,stress,drought stress,salt,tolerance,abiotic stress,drought tolerance,salt tolerance,salt stress,stress tolerance,stress response,drought stress response,autophagy,drought response,abiotic stress response
 
 ## Sequences:

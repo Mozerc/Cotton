@@ -29,7 +29,7 @@ tags: [ growth,development,grain,grain size,embryo,grain growth,embryo developme
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,grain,grain size,embryo,grain growth,embryo development
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ development,grain ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain
 
 ## Sequences:

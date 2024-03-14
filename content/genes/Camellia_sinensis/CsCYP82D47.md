@@ -31,7 +31,7 @@ tags: [ resistance,ja,ja biosynthesis, ja  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,ja,ja biosynthesis, ja 
 
 ## Sequences:

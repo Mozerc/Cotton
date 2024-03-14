@@ -29,7 +29,7 @@ tags: [ growth,development,resistance,plant development,stress,ja,blight,oxidati
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,resistance,plant development,stress,ja,blight,oxidative stress,oxidative,plant growth,cellular proliferation,ja signaling,cellular activities
 
 ## Sequences:

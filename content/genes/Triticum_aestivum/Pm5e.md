@@ -31,7 +31,7 @@ tags: [ resistance,cell death ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,cell death
 
 ## Sequences:

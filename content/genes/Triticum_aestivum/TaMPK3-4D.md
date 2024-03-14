@@ -30,7 +30,7 @@ tags: [ growth,resistance,drought,tolerance,aba,vegetative,drought tolerance,dro
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,resistance,drought,tolerance,aba,vegetative,drought tolerance,drought resistance,drought sensitivity,aba sensitivity
 
 ## Sequences:

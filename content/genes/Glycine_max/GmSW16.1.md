@@ -30,7 +30,7 @@ tags: [ domestication,seed,seed weight,seed size,transcription regulator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 domestication,seed,seed weight,seed size,transcription regulator
 
 ## Sequences:

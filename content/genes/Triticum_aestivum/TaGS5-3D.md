@@ -27,7 +27,7 @@ tags: [ grain,grain weight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain weight
 
 ## Sequences:

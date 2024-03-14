@@ -28,7 +28,7 @@ tags: [ resistance,defense ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,defense
 
 ## Sequences:

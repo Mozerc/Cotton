@@ -29,7 +29,7 @@ tags: [ resistance,cell wall,lignin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,cell wall,lignin
 
 ## Sequences:

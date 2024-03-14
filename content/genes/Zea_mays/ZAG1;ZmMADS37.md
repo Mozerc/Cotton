@@ -29,7 +29,7 @@ tags: [ floral,stamen ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 floral,stamen
 
 ## Sequences:

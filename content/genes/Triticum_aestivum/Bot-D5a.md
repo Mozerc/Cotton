@@ -27,7 +27,7 @@ tags: [ tolerance,boron ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,boron
 
 ## Sequences:

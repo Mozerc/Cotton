@@ -30,7 +30,7 @@ tags: [ leaf,chloroplast,development,leaf development,seedling,leaf color,chloro
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,chloroplast,development,leaf development,seedling,leaf color,chloroplast development,chloroplast biogenesis
 
 ## Sequences:

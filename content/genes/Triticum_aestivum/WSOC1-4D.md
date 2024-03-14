@@ -29,7 +29,7 @@ tags: [ seedling,gibberellin,flowering,vernalization ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedling,gibberellin,flowering,vernalization
 
 ## Sequences:

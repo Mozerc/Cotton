@@ -30,7 +30,7 @@ tags: [ stress,oxidative stress,tolerance,oxidative,abiotic stress,stress tolera
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,oxidative stress,tolerance,oxidative,abiotic stress,stress tolerance
 
 ## Sequences:

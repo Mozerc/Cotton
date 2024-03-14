@@ -29,7 +29,7 @@ tags: [ chloroplast,development,chloroplast development,plastid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chloroplast,development,chloroplast development,plastid
 
 ## Sequences:

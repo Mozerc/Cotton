@@ -28,7 +28,7 @@ tags: [ development,starch,endosperm,endosperm development,pyrophosphorylase,sta
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,starch,endosperm,endosperm development,pyrophosphorylase,starch accumulation
 
 ## Sequences:

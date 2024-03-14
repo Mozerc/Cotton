@@ -29,7 +29,7 @@ tags: [ cell elongation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell elongation
 
 ## Sequences:

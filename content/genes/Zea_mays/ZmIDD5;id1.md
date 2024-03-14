@@ -29,7 +29,7 @@ tags: [ transcription factor,growth,vegetative,zinc,transcriptional regulator,tr
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,vegetative,zinc,transcriptional regulator,transcription regulator,flowering
 
 ## Sequences:

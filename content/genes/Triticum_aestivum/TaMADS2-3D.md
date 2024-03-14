@@ -31,7 +31,7 @@ tags: [ root,growth,stress,vegetative,architecture,root growth,pi,root architect
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,stress,vegetative,architecture,root growth,pi,root architecture
 
 ## Sequences:

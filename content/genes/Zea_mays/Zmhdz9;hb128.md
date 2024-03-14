@@ -29,7 +29,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,aba,abscis
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,drought,stress,drought stress,aba,abscisic acid,lignin,drought resistance
 
 ## Sequences:

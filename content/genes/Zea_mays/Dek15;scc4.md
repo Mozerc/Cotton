@@ -29,7 +29,7 @@ tags: [ development,embryo,endosperm,cell cycle,endosperm development,embryo dev
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,embryo,endosperm,cell cycle,endosperm development,embryo development
 
 ## Sequences:

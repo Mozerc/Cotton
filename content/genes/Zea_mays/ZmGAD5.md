@@ -30,7 +30,7 @@ tags: [ growth,development,ga,ga biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,ga,ga biosynthesis
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ pericarp ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 pericarp
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ floral,transcription regulator,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 floral,transcription regulator,flowering
 
 ## Sequences:

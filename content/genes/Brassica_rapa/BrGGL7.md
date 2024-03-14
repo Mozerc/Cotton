@@ -31,7 +31,7 @@ tags: [ pollen,sterility,sterile,male sterility,pollen formation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 pollen,sterility,sterile,male sterility,pollen formation
 
 ## Sequences:

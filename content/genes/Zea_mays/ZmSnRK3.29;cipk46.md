@@ -28,7 +28,7 @@ tags: [ kinase,aba,protein kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,aba,protein kinase
 
 ## Sequences:

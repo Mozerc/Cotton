@@ -29,7 +29,7 @@ tags: [ leaf,chloroplast,development,leaf development,chloroplast development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,chloroplast,development,leaf development,chloroplast development
 
 ## Sequences:

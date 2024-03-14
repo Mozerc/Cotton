@@ -29,7 +29,7 @@ tags: [ drought,domestication,tolerance,yield,drought tolerance,drought response
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,domestication,tolerance,yield,drought tolerance,drought response
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ salicylic acid,sa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salicylic acid,sa
 
 ## Sequences:

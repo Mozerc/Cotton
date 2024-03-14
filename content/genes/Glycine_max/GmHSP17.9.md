@@ -28,7 +28,7 @@ tags: [ nitrogen,growth,seed,yield,plant growth,seed weight,seed growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,growth,seed,yield,plant growth,seed weight,seed growth
 
 ## Sequences:

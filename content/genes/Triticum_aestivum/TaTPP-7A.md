@@ -32,7 +32,7 @@ tags: [ temperature,development,grain,domestication,starch,grain quality,quality
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,development,grain,domestication,starch,grain quality,quality,grain filling,aba,breeding,endosperm,sugar,sucrose,endosperm development,amylose content
 
 ## Sequences:

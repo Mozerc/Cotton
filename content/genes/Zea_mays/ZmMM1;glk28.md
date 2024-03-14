@@ -31,7 +31,7 @@ tags: [ resistance,disease,disease resistance,immunity,cell death,breeding,broad
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance,immunity,cell death,breeding,broad-spectrum disease resistance,transcription regulator,plant immunity
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ root,stress,tolerance,stress tolerance,al tolerance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,stress,tolerance,stress tolerance,al tolerance
 
 ## Sequences:

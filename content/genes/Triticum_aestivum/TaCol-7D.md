@@ -27,7 +27,7 @@ tags: [ grain,grain yield,yield,architecture ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain yield,yield,architecture
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ flower,cytoplasm,carotene ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flower,cytoplasm,carotene
 
 ## Sequences:

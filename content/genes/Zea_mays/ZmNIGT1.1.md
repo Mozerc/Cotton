@@ -29,7 +29,7 @@ tags: [ nitrogen,stress,phosphorus,pi,pi uptake ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,stress,phosphorus,pi,pi uptake
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ nitrogen,root,growth,root growth,plant growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,root,growth,root growth,plant growth
 
 ## Sequences:

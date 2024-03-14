@@ -29,7 +29,7 @@ tags: [ leaf,root,development,leaf development,auxin,plant development,domestica
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,development,leaf development,auxin,plant development,domestication,yield,root development,architecture,auxin transport,height,plant height,plant architecture,leaf angle,root architecture
 
 ## Sequences:

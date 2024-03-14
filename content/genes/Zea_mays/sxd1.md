@@ -28,7 +28,7 @@ tags: [ leaf,chloroplast,nucleus,cell death,sucrose ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,chloroplast,nucleus,cell death,sucrose
 
 ## Sequences:

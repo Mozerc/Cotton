@@ -29,7 +29,7 @@ tags: [ resistance,drought,stress,drought stress,disease,disease resistance,defe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,stress,drought stress,disease,disease resistance,defense response,defense,tolerance,aba,drought tolerance,stress tolerance,drought resistance,stress response,drought stress response,antioxidant defense,drought response
 
 ## Sequences:

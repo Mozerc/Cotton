@@ -30,7 +30,7 @@ tags: [ seedling,salinity,tolerance,reproductive,reactive oxygen species ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedling,salinity,tolerance,reproductive,reactive oxygen species
 
 ## Sequences:

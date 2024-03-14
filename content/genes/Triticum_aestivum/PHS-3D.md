@@ -28,7 +28,7 @@ tags: [ grain,resistance,aba,aba biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,resistance,aba,aba biosynthesis
 
 ## Sequences:

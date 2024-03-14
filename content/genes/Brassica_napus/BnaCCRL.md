@@ -29,7 +29,7 @@ tags: [ development,seed,seed development,lignin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,seed,seed development,lignin
 
 ## Sequences:

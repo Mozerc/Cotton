@@ -30,7 +30,7 @@ tags: [ calli ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 calli
 
 ## Sequences:

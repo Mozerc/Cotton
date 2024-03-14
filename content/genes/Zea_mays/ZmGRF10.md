@@ -29,7 +29,7 @@ tags: [ leaf,homeostasis,height,plant height,cell proliferation,leaf size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,homeostasis,height,plant height,cell proliferation,leaf size
 
 ## Sequences:

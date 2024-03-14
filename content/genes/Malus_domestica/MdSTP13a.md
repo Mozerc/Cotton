@@ -28,7 +28,7 @@ tags: [ growth,pollen,sugar ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,pollen,sugar
 
 ## Sequences:

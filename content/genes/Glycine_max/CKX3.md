@@ -29,7 +29,7 @@ tags: [ yield,cytokinin,dehydrogenase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 yield,cytokinin,dehydrogenase
 
 ## Sequences:

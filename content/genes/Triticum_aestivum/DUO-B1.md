@@ -29,7 +29,7 @@ tags: [ grain,grain number,grain yield,yield,cell division,inflorescence,archite
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain number,grain yield,yield,cell division,inflorescence,architecture,inflorescence architecture,breeding
 
 ## Sequences:

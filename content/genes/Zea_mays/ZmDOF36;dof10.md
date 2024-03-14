@@ -29,7 +29,7 @@ tags: [ transcription factor,starch,endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,starch,endosperm
 
 ## Sequences:

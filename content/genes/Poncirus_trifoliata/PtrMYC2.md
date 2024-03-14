@@ -29,7 +29,7 @@ tags: [ stress,cold stress,cold ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,cold stress,cold
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ resistance,drought,stress,drought stress,reactive oxygen species,drought
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,stress,drought stress,reactive oxygen species,drought resistance,stress response,drought stress response,drought response
 
 ## Sequences:

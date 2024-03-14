@@ -29,7 +29,7 @@ tags: [ development,starch,endosperm,phytohormone,endosperm development,starch b
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,starch,endosperm,phytohormone,endosperm development,starch biosynthesis,starch accumulation
 
 ## Sequences:

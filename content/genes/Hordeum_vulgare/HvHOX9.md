@@ -29,7 +29,7 @@ tags: [ root,tolerance,al tolerance,cell wall,detoxification ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,tolerance,al tolerance,cell wall,detoxification
 
 ## Sequences:

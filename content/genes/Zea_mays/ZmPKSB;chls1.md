@@ -34,7 +34,7 @@ tags: [ pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax bios
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax biosynthesis,pollen formation,cuticle formation
 
 ## Sequences:

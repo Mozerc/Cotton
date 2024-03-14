@@ -31,7 +31,7 @@ tags: [ root,development,tolerance,root development,phosphorus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,tolerance,root development,phosphorus
 
 ## Sequences:

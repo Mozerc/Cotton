@@ -29,7 +29,7 @@ tags: [ growth,resistance,stress,stems,ja,oxidative stress,oxidative,abiotic str
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,resistance,stress,stems,ja,oxidative stress,oxidative,abiotic stress,plant growth,signaling pathway gene,ja signaling
 
 ## Sequences:

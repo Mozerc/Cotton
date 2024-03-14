@@ -29,7 +29,7 @@ tags: [ sa,defence,defence response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 sa,defence,defence response
 
 ## Sequences:

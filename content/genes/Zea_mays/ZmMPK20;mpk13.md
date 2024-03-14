@@ -30,7 +30,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotoleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotolerance
 
 ## Sequences:

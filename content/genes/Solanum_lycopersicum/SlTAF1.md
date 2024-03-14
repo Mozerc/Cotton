@@ -30,7 +30,7 @@ tags: [ transcription factor,growth,stress,salinity,salt,tolerance,salt toleranc
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,stress,salinity,salt,tolerance,salt tolerance,salt stress,stress tolerance,plant growth,salinity stress,transcription regulator,stress response
 
 ## Sequences:

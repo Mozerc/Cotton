@@ -30,7 +30,7 @@ tags: [ auxin,quality,auxin response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,quality,auxin response
 
 ## Sequences:

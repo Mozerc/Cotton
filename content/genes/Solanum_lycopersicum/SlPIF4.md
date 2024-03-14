@@ -30,7 +30,7 @@ tags: [ temperature,stress,tolerance,cold tolerance,cold stress,cold,stress tole
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,ga,low-temperature
 
 ## Sequences:

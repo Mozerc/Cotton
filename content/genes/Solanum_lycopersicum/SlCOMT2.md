@@ -30,7 +30,7 @@ tags: [ melatonin,melatonin biosynthesis,methyltransferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 melatonin,melatonin biosynthesis,methyltransferase
 
 ## Sequences:

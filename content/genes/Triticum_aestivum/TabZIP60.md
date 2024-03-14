@@ -31,7 +31,7 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root growth,grain growth,seedling growth
 
 ## Sequences:

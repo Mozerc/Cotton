@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,ethylene,phosphatase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,ethylene,phosphatase
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ growth,cuticle,fatty acid biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,cuticle,fatty acid biosynthesis
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ kinase,resistance,protein kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,resistance,protein kinase
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,senescence,stress,aba,melatonin, aba  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,stress,aba,melatonin, aba 
 
 ## Sequences:

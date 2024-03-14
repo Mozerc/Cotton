@@ -31,7 +31,7 @@ tags: [ leaf,transcription factor,growth,architecture,plant growth,plant archite
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,growth,architecture,plant growth,plant architecture
 
 ## Sequences:

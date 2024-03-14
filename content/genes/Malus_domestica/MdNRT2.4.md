@@ -28,7 +28,7 @@ tags: [ transporter,nitrate,nitrate transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transporter,nitrate,nitrate transporter
 
 ## Sequences:

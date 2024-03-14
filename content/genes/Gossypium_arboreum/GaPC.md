@@ -29,7 +29,7 @@ tags: [ flavone ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flavone
 
 ## Sequences:

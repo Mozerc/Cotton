@@ -29,7 +29,7 @@ tags: [ leaf,root,development,leaf development,root development,meristem,endospe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,development,leaf development,root development,meristem,endosperm,root apical meristem,endosperm development,root meristem
 
 ## Sequences:

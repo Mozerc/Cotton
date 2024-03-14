@@ -29,7 +29,7 @@ tags: [ seedlings,root,stress,seedling,tolerance,nucleus,stress tolerance,archit
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,root,stress,seedling,tolerance,nucleus,stress tolerance,architecture,root architecture,root system architecture
 
 ## Sequences:

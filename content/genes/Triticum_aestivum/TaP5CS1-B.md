@@ -29,7 +29,7 @@ tags: [ development,drought,stress,drought stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,drought,stress,drought stress
 
 ## Sequences:

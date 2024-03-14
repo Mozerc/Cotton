@@ -28,7 +28,7 @@ tags: [ salt,tolerance,aba,salt tolerance,catalase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,tolerance,aba,salt tolerance,catalase
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ grain,grain length,grain yield,gibberellin,yield,height,plant height,int
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain length,grain yield,gibberellin,yield,height,plant height,internode length
 
 ## Sequences:

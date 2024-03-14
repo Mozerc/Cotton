@@ -30,7 +30,7 @@ tags: [ leaf,transcription factor,chloroplast,growth,development,leaf developmen
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,chloroplast,growth,development,leaf development,sheath,photosynthesis,zinc,chloroplast development,chlorophyll
 
 ## Sequences:

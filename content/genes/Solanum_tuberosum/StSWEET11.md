@@ -29,7 +29,7 @@ tags: [ sucrose,sucrose transport ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 sucrose,sucrose transport
 
 ## Sequences:

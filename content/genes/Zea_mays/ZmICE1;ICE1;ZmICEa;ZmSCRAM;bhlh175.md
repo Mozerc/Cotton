@@ -32,7 +32,7 @@ tags: [ stress,seedling,tolerance,cold tolerance,cold stress,cold,stress toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,seedling,tolerance,cold tolerance,cold stress,cold,stress tolerance,transcriptional regulator,transcription regulator,transcriptional activator,transcription activator
 
 ## Sequences:

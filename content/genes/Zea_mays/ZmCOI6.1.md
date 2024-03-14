@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,salinity,cold stress,abiotic stress,salicy
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,salinity,cold stress,abiotic stress,salicylic acid,cold,salinity stress,abscisic acid
 
 ## Sequences:

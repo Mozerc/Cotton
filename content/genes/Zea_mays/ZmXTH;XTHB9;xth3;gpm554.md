@@ -29,7 +29,7 @@ tags: [ tolerance,aluminum,al tolerance,cell wall,aluminum tolerance,hydrolase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,aluminum,al tolerance,cell wall,aluminum tolerance,hydrolase
 
 ## Sequences:

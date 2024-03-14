@@ -29,7 +29,7 @@ tags: [ fertility ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 fertility
 
 ## Sequences:

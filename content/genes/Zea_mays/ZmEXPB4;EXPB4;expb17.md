@@ -29,7 +29,7 @@ tags: [ root,growth,development,down-regulated genes,root development,root growt
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,down-regulated genes,root development,root growth,cell wall
 
 ## Sequences:

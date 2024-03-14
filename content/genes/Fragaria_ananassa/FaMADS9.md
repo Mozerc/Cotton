@@ -29,7 +29,7 @@ tags: [ auxin,abscisic acid,cuticle,cuticle formation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,abscisic acid,cuticle,cuticle formation
 
 ## Sequences:

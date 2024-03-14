@@ -29,7 +29,7 @@ tags: [ resistance,calcium ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,calcium
 
 ## Sequences:

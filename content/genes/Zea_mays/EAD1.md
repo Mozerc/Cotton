@@ -30,7 +30,7 @@ tags: [ xylem,development,grain,grain yield,yield,inflorescence,transporter,alum
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 xylem,development,grain,grain yield,yield,inflorescence,transporter,aluminum,plasma membrane,inflorescence development
 
 ## Sequences:

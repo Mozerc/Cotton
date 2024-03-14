@@ -28,7 +28,7 @@ tags: [ leaf ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf
 
 ## Sequences:

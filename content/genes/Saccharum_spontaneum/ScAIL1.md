@@ -29,7 +29,7 @@ tags: [ growth,development,resistance,blight,bacterial blight,blast,blast resist
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,development,resistance,blight,bacterial blight,blast,blast resistance
 
 ## Sequences:

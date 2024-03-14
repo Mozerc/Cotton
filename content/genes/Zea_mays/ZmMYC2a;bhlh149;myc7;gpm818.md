@@ -28,7 +28,7 @@ tags: [ resistance,jasmonate,ja,ja signaling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,jasmonate,ja,ja signaling
 
 ## Sequences:

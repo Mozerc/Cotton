@@ -29,7 +29,7 @@ tags: [ root,seed,root elongation,lateral root,epidermis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,seed,root elongation,lateral root,epidermis
 
 ## Sequences:

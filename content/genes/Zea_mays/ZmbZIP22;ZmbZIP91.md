@@ -30,7 +30,7 @@ tags: [ transcription factor,development,endosperm,endosperm development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,endosperm,endosperm development
 
 ## Sequences:

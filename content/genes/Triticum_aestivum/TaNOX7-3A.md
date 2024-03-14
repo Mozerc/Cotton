@@ -29,7 +29,7 @@ tags: [ development,plant development,fertility,drought,tolerance,drought tolera
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,fertility,drought,tolerance,drought tolerance
 
 ## Sequences:

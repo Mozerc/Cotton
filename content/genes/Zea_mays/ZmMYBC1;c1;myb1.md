@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,stress,flavonoid,transcriptional activat
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,stress,flavonoid,transcriptional activator,heat stress,myb transcriptional activator
 
 ## Sequences:

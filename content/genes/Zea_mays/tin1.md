@@ -31,7 +31,7 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tillering,tiller,tiller number,tiller bud outgrowth
 
 ## Sequences:

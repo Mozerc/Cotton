@@ -29,7 +29,7 @@ tags: [ leaf,cuticle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,cuticle
 
 ## Sequences:

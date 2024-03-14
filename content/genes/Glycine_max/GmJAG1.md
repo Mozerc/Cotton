@@ -29,7 +29,7 @@ tags: [ yield ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 yield
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ flavonoid ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flavonoid
 
 ## Sequences:

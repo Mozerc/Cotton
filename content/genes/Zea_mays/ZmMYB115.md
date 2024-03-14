@@ -30,7 +30,7 @@ tags: [ starch,endosperm,starch biosynthesis,amylose content ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,endosperm,starch biosynthesis,amylose content
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ grain,grain yield,ja,yield,sucrose,ja biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain yield,ja,yield,sucrose,ja biosynthesis
 
 ## Sequences:

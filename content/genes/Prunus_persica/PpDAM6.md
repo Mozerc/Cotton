@@ -29,7 +29,7 @@ tags: [ dormancy ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 dormancy
 
 ## Sequences:

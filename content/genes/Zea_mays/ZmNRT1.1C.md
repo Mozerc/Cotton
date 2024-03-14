@@ -28,7 +28,7 @@ tags: [ growth,seedling,seedling growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,seedling,seedling growth
 
 ## Sequences:

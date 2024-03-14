@@ -29,7 +29,7 @@ tags: [ auxin,height,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,height,plant height
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ development,grain,grain size,grain yield,yield,cell division,breeding,ce
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain size,grain yield,yield,cell division,breeding,cell cycle
 
 ## Sequences:

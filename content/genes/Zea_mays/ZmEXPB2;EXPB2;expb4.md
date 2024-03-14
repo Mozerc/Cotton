@@ -29,7 +29,7 @@ tags: [ growth,stress,salt,salt stress,plant growth,cell elongation,stress respo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,stress,salt,salt stress,plant growth,cell elongation,stress response
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ stress,yield,adaptability ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,yield,adaptability
 
 ## Sequences:

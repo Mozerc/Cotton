@@ -29,7 +29,7 @@ tags: [ temperature,resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,resistance
 
 ## Sequences:

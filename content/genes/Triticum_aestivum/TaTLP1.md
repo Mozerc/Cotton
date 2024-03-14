@@ -31,7 +31,7 @@ tags: [ root,resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,resistance
 
 ## Sequences:

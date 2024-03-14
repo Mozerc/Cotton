@@ -28,7 +28,7 @@ tags: [ transcription factor,senescence,grain,zinc,iron,grain protein content,gr
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,senescence,grain,zinc,iron,grain protein content,grain protein
 
 ## Sequences:

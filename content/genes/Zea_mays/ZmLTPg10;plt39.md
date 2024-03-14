@@ -29,7 +29,7 @@ tags: [ fertility,stress,abiotic stress,biotic stress,male fertility,stress resp
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,stress,abiotic stress,biotic stress,male fertility,stress response,as transport,abiotic stress response
 
 ## Sequences:

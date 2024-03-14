@@ -29,7 +29,7 @@ tags: [ growth,stress,nucleus,abiotic stress,cytoplasm,plant growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,stress,nucleus,abiotic stress,cytoplasm,plant growth
 
 ## Sequences:

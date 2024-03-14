@@ -29,7 +29,7 @@ tags: [ resistance,disease,disease resistance,oxidative ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance,oxidative
 
 ## Sequences:

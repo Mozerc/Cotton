@@ -29,7 +29,7 @@ tags: [ ja,immunity,ja signaling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja,immunity,ja signaling
 
 ## Sequences:

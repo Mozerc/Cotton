@@ -30,7 +30,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
 
 ## Sequences:

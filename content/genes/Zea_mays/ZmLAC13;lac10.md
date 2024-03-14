@@ -28,7 +28,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,breeding,metal transport,co
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,tolerance,stress tolerance,breeding,metal transport,copper,lignin,heavy metal,glycoprotein
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ salt,tolerance,salt tolerance,homeostasis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 salt,tolerance,salt tolerance,homeostasis
 
 ## Sequences:

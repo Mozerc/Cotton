@@ -30,7 +30,7 @@ tags: [ transcription factor,homeostasis,breeding,flowering time,transcription r
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,homeostasis,breeding,flowering time,transcription regulator,flowering,phosphorus
 
 ## Sequences:

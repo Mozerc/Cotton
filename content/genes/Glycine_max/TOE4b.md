@@ -28,7 +28,7 @@ tags: [ grain,grain length,grain number,grain yield,yield,architecture,internode
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain length,grain number,grain yield,yield,architecture,internode length,plant architecture,flowering
 
 ## Sequences:

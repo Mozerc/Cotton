@@ -29,7 +29,7 @@ tags: [ tillering,development,inflorescence,branching,inflorescence development 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tillering,development,inflorescence,branching,inflorescence development
 
 ## Sequences:

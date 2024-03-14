@@ -29,7 +29,7 @@ tags: [ callus,callus formation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 callus,callus formation
 
 ## Sequences:

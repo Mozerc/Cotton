@@ -32,7 +32,7 @@ tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmon
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmonic acid,ja biosynthesis
 
 ## Sequences:

@@ -32,7 +32,7 @@ tags: [ transcription factor,pollen,anther,cuticle,cutin,pollen exine formation,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,pollen,anther,cuticle,cutin,pollen exine formation,wax biosynthesis,pollen formation,cuticle formation
 
 ## Sequences:

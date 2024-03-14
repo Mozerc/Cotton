@@ -29,7 +29,7 @@ tags: [ transcription factor,root,development,root development,root hair ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,root,development,root development,root hair
 
 ## Sequences:

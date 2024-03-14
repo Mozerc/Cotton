@@ -29,7 +29,7 @@ tags: [ transcription factor,cell division,cell elongation,height,plant height,i
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,cell division,cell elongation,height,plant height,internode length,internode elongation,node
 
 ## Sequences:

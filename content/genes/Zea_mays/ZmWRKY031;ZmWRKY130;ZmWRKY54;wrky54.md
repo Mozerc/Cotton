@@ -28,7 +28,7 @@ tags: [ transcription factor,sugar,sugar transport,as transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,sugar,sugar transport,as transport
 
 ## Sequences:

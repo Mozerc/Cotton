@@ -30,7 +30,7 @@ tags: [ seed,mitochondria ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,mitochondria
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ leaf,development,leaf development,iaa,flavonoid,iaa biosynthesis,flavono
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,iaa,flavonoid,iaa biosynthesis,flavonoid biosynthesis
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ leaf,stem ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stem
 
 ## Sequences:

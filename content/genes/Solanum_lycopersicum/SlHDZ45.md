@@ -28,7 +28,7 @@ tags: [ resistance,ethylene,jasmonic,jasmonic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,ethylene,jasmonic,jasmonic acid
 
 ## Sequences:

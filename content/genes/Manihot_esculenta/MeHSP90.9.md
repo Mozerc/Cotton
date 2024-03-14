@@ -29,7 +29,7 @@ tags: [ auxin,immunity,auxin biosynthesis,sa, sa ,plant immunity ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,immunity,auxin biosynthesis,sa, sa ,plant immunity
 
 ## Sequences:

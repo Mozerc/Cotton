@@ -31,7 +31,7 @@ tags: [ development,quality,breeding,cell wall,cell elongation,cell wall synthes
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,quality,breeding,cell wall,cell elongation,cell wall synthesis,secondary cell wall
 
 ## Sequences:

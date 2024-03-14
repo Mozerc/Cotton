@@ -29,7 +29,7 @@ tags: [ leaf,resistance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,resistance
 
 ## Sequences:

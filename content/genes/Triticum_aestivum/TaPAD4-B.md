@@ -29,7 +29,7 @@ tags: [ resistance,sa,acetyltransferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,sa,acetyltransferase
 
 ## Sequences:

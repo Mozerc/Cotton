@@ -29,7 +29,7 @@ tags: [ jasmonate,defense response,defense,jasmonate response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 jasmonate,defense response,defense,jasmonate response
 
 ## Sequences:

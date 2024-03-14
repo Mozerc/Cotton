@@ -29,7 +29,7 @@ tags: [ development,ethylene,ethylene response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,ethylene,ethylene response
 
 ## Sequences:

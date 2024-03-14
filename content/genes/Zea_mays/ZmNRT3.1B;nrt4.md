@@ -29,7 +29,7 @@ tags: [ nitrogen,aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,aba
 
 ## Sequences:

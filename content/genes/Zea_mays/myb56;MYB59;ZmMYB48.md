@@ -30,7 +30,7 @@ tags: [ seedlings,drought,stress,drought stress,drought stress ,tolerance,aba,dr
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seedlings,drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance, aba 
 
 ## Sequences:

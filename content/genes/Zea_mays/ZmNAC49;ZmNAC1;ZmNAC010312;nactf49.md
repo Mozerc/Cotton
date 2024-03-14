@@ -29,7 +29,7 @@ tags: [ transcription factor,stress,oxidative stress,tolerance,oxidative,stress 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stress,oxidative stress,tolerance,oxidative,stress tolerance
 
 ## Sequences:

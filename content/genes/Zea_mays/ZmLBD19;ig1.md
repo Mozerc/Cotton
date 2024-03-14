@@ -29,7 +29,7 @@ tags: [ development,embryo,transcriptional regulator,female gametophyte developm
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,embryo,transcriptional regulator,female gametophyte development,embryo development
 
 ## Sequences:

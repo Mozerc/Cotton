@@ -31,7 +31,7 @@ tags: [ cell division,cell expansion ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell division,cell expansion
 
 ## Sequences:

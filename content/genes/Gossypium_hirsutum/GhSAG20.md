@@ -29,7 +29,7 @@ tags: [ leaf,leaf senescence,senescence ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence
 
 ## Sequences:

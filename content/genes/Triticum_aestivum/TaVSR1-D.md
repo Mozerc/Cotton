@@ -28,7 +28,7 @@ tags: [ root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stre
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stress tolerance,architecture,root growth,grain growth,root architecture
 
 ## Sequences:

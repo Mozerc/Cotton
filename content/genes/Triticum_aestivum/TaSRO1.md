@@ -30,7 +30,7 @@ tags: [ growth,stress,mitochondria,salinity,yield,salinity stress,stress respons
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,stress,mitochondria,salinity,yield,salinity stress,stress response
 
 ## Sequences:

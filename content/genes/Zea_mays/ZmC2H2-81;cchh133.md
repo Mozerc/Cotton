@@ -29,7 +29,7 @@ tags: [ seedlings,temperature,resistance,stress,cold stress,cold,low-temperature
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,temperature,resistance,stress,cold stress,cold,low-temperature
 
 ## Sequences:

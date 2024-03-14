@@ -30,7 +30,7 @@ tags: [ development,pollen,anther,pollen development,anther development,pollen t
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,pollen,anther,pollen development,anther development,pollen tube elongation
 
 ## Sequences:

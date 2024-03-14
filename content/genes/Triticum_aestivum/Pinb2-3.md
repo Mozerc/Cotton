@@ -29,7 +29,7 @@ tags: [ grain ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain
 
 ## Sequences:

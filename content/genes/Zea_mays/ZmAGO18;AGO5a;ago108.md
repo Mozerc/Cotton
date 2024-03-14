@@ -29,7 +29,7 @@ tags: [ leaf,resistance,seedling,blight,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,resistance,seedling,blight,resistant
 
 ## Sequences:

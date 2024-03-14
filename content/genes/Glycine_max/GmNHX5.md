@@ -30,7 +30,7 @@ tags: [ seedlings,stress,salt,tolerance,salt tolerance,salt stress,stress tolera
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,stress,salt,tolerance,salt tolerance,salt stress,stress tolerance
 
 ## Sequences:

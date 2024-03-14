@@ -29,7 +29,7 @@ tags: [ stem,resistance,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,resistance,resistant
 
 ## Sequences:

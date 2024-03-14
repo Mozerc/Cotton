@@ -30,7 +30,7 @@ tags: [ stress,ja,salt,tolerance,salt tolerance,salt stress,stress tolerance,phy
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,ja,salt,tolerance,salt tolerance,salt stress,stress tolerance,phytohormone
 
 ## Sequences:

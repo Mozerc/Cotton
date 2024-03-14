@@ -28,7 +28,7 @@ tags: [ transcription factor,sheath,zinc ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,sheath,zinc
 
 ## Sequences:

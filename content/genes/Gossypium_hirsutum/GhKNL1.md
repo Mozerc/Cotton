@@ -31,7 +31,7 @@ tags: [ cell wall,ubiquitin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell wall,ubiquitin
 
 ## Sequences:

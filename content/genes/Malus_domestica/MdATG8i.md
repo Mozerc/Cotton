@@ -30,7 +30,7 @@ tags: [ resistance,plastid,autophagy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,plastid,autophagy
 
 ## Sequences:

@@ -34,7 +34,7 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,kinase,drought,tolerance,drought tolerance,root elongation,protein kinase,calcium,root hair,root length
 
 ## Sequences:

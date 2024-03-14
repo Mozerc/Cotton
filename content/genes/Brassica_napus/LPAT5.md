@@ -29,7 +29,7 @@ tags: [ oil bodies ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 oil bodies
 
 ## Sequences:

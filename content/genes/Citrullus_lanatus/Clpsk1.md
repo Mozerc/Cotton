@@ -29,7 +29,7 @@ tags: [ seedlings,resistance,resistant ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seedlings,resistance,resistant
 
 ## Sequences:

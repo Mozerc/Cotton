@@ -30,7 +30,7 @@ tags: [ development,cell wall,secondary cell wall ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,cell wall,secondary cell wall
 
 ## Sequences:

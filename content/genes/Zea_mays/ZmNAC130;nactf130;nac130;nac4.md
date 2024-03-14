@@ -29,7 +29,7 @@ tags: [ starch,endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,endosperm
 
 ## Sequences:

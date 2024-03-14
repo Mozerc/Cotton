@@ -29,7 +29,7 @@ tags: [ grain,grain yield,grain filling,yield,aba,endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain yield,grain filling,yield,aba,endosperm
 
 ## Sequences:

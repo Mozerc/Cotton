@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,ubiquitin,ubiquitin e3 ligase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

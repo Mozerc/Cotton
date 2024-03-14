@@ -29,7 +29,7 @@ tags: [ cell division,cell wall,organ size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell division,cell wall,organ size
 
 ## Sequences:

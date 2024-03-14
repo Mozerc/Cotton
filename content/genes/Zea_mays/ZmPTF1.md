@@ -29,7 +29,7 @@ tags: [ root,growth,development,drought,tolerance,aba,drought tolerance,root dev
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,drought,tolerance,aba,drought tolerance,root development,root growth,abscisic acid,lateral root,root number,lateral root number
 
 ## Sequences:

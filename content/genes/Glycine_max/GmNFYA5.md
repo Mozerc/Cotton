@@ -28,7 +28,7 @@ tags: [ drought,tolerance,aba,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,aba,drought tolerance
 
 ## Sequences:

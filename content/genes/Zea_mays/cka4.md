@@ -28,7 +28,7 @@ tags: [ growth,development,plant development,plant growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,plant development,plant growth
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ drought ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ resistance,lignin,lignin biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,lignin,lignin biosynthesis
 
 ## Sequences:

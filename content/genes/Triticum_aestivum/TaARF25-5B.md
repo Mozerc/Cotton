@@ -28,7 +28,7 @@ tags: [ development,grain,grain size,auxin,auxin response,grain weight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain size,auxin,auxin response,grain weight
 
 ## Sequences:

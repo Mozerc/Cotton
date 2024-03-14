@@ -31,7 +31,7 @@ tags: [ iaa,sugar,signaling pathway gene,iaa signaling ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 iaa,sugar,signaling pathway gene,iaa signaling
 
 ## Sequences:

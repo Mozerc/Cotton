@@ -30,7 +30,7 @@ tags: [ development,pollen,stress,tolerance,pollen development,stress tolerance,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,pollen,stress,tolerance,pollen development,stress tolerance,homeostasis,meiosis,sugar,resistant,meiotic,heat tolerance,heat stress,sugar homeostasis
 
 ## Sequences:

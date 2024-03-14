@@ -31,7 +31,7 @@ tags: [ development,anther,sterility,map-based cloning,sterile,anther developmen
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,anther,sterility,map-based cloning,sterile,anther development,male sterility
 
 ## Sequences:

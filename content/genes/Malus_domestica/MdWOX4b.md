@@ -28,7 +28,7 @@ tags: [ rooting ability ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 rooting ability
 
 ## Sequences:

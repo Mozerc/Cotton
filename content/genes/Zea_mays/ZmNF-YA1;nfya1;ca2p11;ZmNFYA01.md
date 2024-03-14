@@ -30,7 +30,7 @@ tags: [ root,growth,development,plant development,drought,stress,drought stress,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,plant development,drought,stress,drought stress,salt,tolerance,abiotic stress,drought tolerance,root development,salt tolerance,salt stress,stress tolerance,root growth,plant growth,transcription regulator
 
 ## Sequences:

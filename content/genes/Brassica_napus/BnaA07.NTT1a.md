@@ -31,7 +31,7 @@ tags: [ growth,starch,homeostasis,plant growth ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,starch,homeostasis,plant growth
 
 ## Sequences:

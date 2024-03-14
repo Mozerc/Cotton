@@ -30,7 +30,7 @@ tags: [ aba,ethylene ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 aba,ethylene
 
 ## Sequences:

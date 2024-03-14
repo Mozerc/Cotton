@@ -29,7 +29,7 @@ tags: [ dwarf ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 dwarf
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ fe ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fe
 
 ## Sequences:

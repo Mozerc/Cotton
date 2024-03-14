@@ -31,7 +31,7 @@ tags: [ transcription factor,transcription activator,calli ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,transcription activator,calli
 
 ## Sequences:

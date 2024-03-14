@@ -30,7 +30,7 @@ tags: [ transcription factor,aba,aba sensitivity ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,aba,aba sensitivity
 
 ## Sequences:

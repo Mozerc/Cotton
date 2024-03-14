@@ -30,7 +30,7 @@ tags: [ development,seed,yield,seed development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,yield,seed development
 
 ## Sequences:

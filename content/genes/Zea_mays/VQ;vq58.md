@@ -28,7 +28,7 @@ tags: [ drought,stress,drought stress,abiotic stress,osmotic stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,abiotic stress,osmotic stress
 
 ## Sequences:

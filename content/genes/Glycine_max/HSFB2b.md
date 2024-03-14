@@ -30,7 +30,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,flavon
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,flavonoid,stress response,heat tolerance,heat stress,heat stress response,flavonoid biosynthesis
 
 ## Sequences:

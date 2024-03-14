@@ -29,7 +29,7 @@ tags: [ ja,jasmonic,jasmonic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja,jasmonic,jasmonic acid
 
 ## Sequences:

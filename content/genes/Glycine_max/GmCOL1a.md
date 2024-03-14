@@ -32,7 +32,7 @@ tags: [ drought,salt,tolerance,drought tolerance,salt tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,salt,tolerance,drought tolerance,salt tolerance
 
 ## Sequences:

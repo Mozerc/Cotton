@@ -30,7 +30,7 @@ tags: [ transcription factor,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,ja biosynthesis,ja signaling
 
 ## Sequences:

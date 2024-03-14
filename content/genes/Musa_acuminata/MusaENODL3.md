@@ -30,7 +30,7 @@ tags: [ resistance,disease,disease resistance,resistant ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance,resistant
 
 ## Sequences:

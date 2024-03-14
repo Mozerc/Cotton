@@ -28,7 +28,7 @@ tags: [ root,seedling,root elongation,lateral root,primary root,root length,late
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,seedling,root elongation,lateral root,primary root,root length,lateral root length
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ immunity,sa, sa ,immunity signalling ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 immunity,sa, sa ,immunity signalling
 
 ## Sequences:

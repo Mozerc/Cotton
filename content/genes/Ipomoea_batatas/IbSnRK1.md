@@ -29,7 +29,7 @@ tags: [ drought,salt,tolerance,cold tolerance,aba,drought tolerance,salt toleran
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,salt,tolerance,cold tolerance,aba,drought tolerance,salt tolerance,cold,stomatal,signaling pathway gene, aba 
 
 ## Sequences:

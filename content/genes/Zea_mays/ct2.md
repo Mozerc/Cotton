@@ -28,7 +28,7 @@ tags: [ leaf,development,leaf development,shoot,meristem,leaf angle,shoot merist
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,shoot,meristem,leaf angle,shoot meristem
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ transcription factor,grain ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,grain
 
 ## Sequences:

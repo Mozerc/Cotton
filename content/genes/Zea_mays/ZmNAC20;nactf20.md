@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,aba,stomat
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,drought,stress,drought stress,aba,stomatal,drought resistance
 
 ## Sequences:

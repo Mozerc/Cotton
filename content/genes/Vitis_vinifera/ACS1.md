@@ -30,7 +30,7 @@ tags: [ salt,tolerance,ethylene,salt tolerance,melatonin,melatonin biosynthesis 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 salt,tolerance,ethylene,salt tolerance,melatonin,melatonin biosynthesis
 
 ## Sequences:

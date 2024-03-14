@@ -27,7 +27,7 @@ tags: [ leaf,transcription factor,leaf shape,dwarf,leaf size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,leaf shape,dwarf,leaf size
 
 ## Sequences:

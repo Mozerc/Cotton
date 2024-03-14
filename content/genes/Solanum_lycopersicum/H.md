@@ -30,7 +30,7 @@ tags: [ transcription factor,ja ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,ja
 
 ## Sequences:

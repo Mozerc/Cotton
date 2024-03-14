@@ -30,7 +30,7 @@ tags: [ leaf,development,leaf development,transcription regulator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,transcription regulator
 
 ## Sequences:

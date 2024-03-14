@@ -28,7 +28,7 @@ tags: [ stress,tolerance,stress tolerance,breeding,heat tolerance,heat stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,stress tolerance,breeding,heat tolerance,heat stress
 
 ## Sequences:

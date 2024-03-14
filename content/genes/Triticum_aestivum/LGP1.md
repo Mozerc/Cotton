@@ -29,7 +29,7 @@ tags: [ seed,endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,endosperm
 
 ## Sequences:

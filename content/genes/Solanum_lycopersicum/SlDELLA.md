@@ -30,7 +30,7 @@ tags: [ resistance,ga,ga biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,ga,ga biosynthesis
 
 ## Sequences:

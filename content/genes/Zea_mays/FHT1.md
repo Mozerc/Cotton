@@ -29,7 +29,7 @@ tags: [ domestication,flavonoid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 domestication,flavonoid
 
 ## Sequences:

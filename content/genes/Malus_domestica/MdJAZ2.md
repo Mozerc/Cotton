@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,ja,ja signaling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,ja,ja signaling
 
 ## Sequences:

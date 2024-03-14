@@ -29,7 +29,7 @@ tags: [ root,epidermis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,epidermis
 
 ## Sequences:

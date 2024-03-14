@@ -31,7 +31,7 @@ tags: [ stress,pathogen,stress response,heat stress,heat stress response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,pathogen,stress response,heat stress,heat stress response
 
 ## Sequences:

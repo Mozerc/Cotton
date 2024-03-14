@@ -30,7 +30,7 @@ tags: [ leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasm
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasma membrane,leaf angle
 
 ## Sequences:

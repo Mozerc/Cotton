@@ -28,7 +28,7 @@ tags: [ flowering time,internode length,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flowering time,internode length,flowering
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ cell wall,sucrose ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell wall,sucrose
 
 ## Sequences:

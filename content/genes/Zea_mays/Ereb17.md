@@ -29,7 +29,7 @@ tags: [ transcription factor,starch,transporter,sugar,sucrose,sucrose transporte
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,starch,transporter,sugar,sucrose,sucrose transporter
 
 ## Sequences:

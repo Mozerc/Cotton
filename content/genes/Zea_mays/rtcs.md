@@ -31,7 +31,7 @@ tags: [ root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,pr
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,primary root,flavonoid biosynthesis
 
 ## Sequences:

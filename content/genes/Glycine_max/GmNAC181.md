@@ -31,7 +31,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,node ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,node
 
 ## Sequences:

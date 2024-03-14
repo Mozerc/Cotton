@@ -29,7 +29,7 @@ tags: [ transcription factor,lignin,lignin biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,lignin,lignin biosynthesis
 
 ## Sequences:

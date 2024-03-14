@@ -30,7 +30,7 @@ tags: [ leaf,root,growth,development,grain,leaf development,plant development,gr
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,growth,development,grain,leaf development,plant development,grain number,grain yield,yield,root development,root growth,plant growth,height,plant height,flowering time,leaf angle,flowering,grain growth,root number
 
 ## Sequences:

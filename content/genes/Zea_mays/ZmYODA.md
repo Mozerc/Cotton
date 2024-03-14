@@ -30,7 +30,7 @@ tags: [ development,kinase,endosperm,signaling pathway gene,endosperm developmen
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,kinase,endosperm,signaling pathway gene,endosperm development
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ root,resistance,tolerance,root elongation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,resistance,tolerance,root elongation
 
 ## Sequences:

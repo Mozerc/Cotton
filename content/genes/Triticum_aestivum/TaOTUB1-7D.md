@@ -28,7 +28,7 @@ tags: [ tiller,tiller number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tiller,tiller number
 
 ## Sequences:

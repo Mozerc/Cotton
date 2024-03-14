@@ -29,7 +29,7 @@ tags: [ transcription factor,development,zinc ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,zinc
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ stress,resistant,stress response,saline stress ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,resistant,stress response,saline stress
 
 ## Sequences:

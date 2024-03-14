@@ -31,7 +31,7 @@ tags: [ auxin,auxin response,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,auxin response,flowering
 
 ## Sequences:

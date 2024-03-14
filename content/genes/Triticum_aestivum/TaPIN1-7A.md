@@ -30,7 +30,7 @@ tags: [ grain,auxin,tiller,grain number,grain yield,yield,tiller number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,auxin,tiller,grain number,grain yield,yield,tiller number
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ stem,grain,drought,grain yield,yield ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,grain,drought,grain yield,yield
 
 ## Sequences:

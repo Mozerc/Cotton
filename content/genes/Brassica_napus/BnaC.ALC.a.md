@@ -31,7 +31,7 @@ tags: [ development,resistance,seed,seed development,shattering,seed shattering 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,resistance,seed,seed development,shattering,seed shattering
 
 ## Sequences:

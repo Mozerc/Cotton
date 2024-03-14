@@ -30,7 +30,7 @@ tags: [ development,fertility,pollen,pollen development,male fertility,pollen fe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,fertility,pollen,pollen development,male fertility,pollen fertility
 
 ## Sequences:

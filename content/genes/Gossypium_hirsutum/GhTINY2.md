@@ -29,7 +29,7 @@ tags: [ growth,br,br signaling,immunity, br ,sa, sa  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,br,br signaling,immunity, br ,sa, sa 
 
 ## Sequences:

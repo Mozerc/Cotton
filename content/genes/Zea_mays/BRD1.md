@@ -28,7 +28,7 @@ tags: [ brassinosteroid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 brassinosteroid
 
 ## Sequences:

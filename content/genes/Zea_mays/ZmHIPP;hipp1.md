@@ -32,7 +32,7 @@ tags: [ tolerance,cell wall ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,cell wall
 
 ## Sequences:

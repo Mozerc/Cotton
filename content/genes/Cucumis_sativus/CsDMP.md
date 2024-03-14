@@ -30,7 +30,7 @@ tags: [ pollen,seed,seed germination,pollen germination ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 pollen,seed,seed germination,pollen germination
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ transcription factor,resistance,ja,jasmonic,jasmonic acid,ja biosynthesi
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,ja,jasmonic,jasmonic acid,ja biosynthesis,defence,defence response
 
 ## Sequences:

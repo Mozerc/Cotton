@@ -29,7 +29,7 @@ tags: [ stress,domestication,abiotic stress,biotic stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,domestication,abiotic stress,biotic stress
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion mimic
 
 ## Sequences:

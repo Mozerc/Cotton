@@ -31,7 +31,7 @@ tags: [ resistance,insect,insect resistance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,insect,insect resistance
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ growth,down-regulated genes,cell wall,plant growth,cellulose,cell elonga
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,down-regulated genes,cell wall,plant growth,cellulose,cell elongation,cell wall synthesis
 
 ## Sequences:

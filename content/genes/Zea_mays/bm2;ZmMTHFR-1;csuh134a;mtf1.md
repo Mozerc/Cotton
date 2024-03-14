@@ -30,7 +30,7 @@ tags: [ lignin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 lignin
 
 ## Sequences:

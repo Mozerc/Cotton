@@ -31,7 +31,7 @@ tags: [ development,ubiquitin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,ubiquitin
 
 ## Sequences:

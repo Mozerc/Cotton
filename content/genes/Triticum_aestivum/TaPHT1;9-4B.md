@@ -29,7 +29,7 @@ tags: [ growth,transporter,plant growth,transcriptional regulator,phosphate,pi,p
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,transporter,plant growth,transcriptional regulator,phosphate,pi,pi uptake
 
 ## Sequences:

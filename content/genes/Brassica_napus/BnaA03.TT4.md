@@ -29,7 +29,7 @@ tags: [ seed,flavonoid,flavonoid metabolism ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,flavonoid,flavonoid metabolism
 
 ## Sequences:

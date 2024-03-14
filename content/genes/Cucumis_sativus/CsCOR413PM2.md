@@ -31,7 +31,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,stress response
 
 ## Sequences:

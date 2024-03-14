@@ -31,7 +31,7 @@ tags: [ kinase,drought,stress,drought stress,drought stress ,aba,abscisic acid, 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 kinase,drought,stress,drought stress,drought stress ,aba,abscisic acid, aba ,stress response,drought stress response,drought response
 
 ## Sequences:

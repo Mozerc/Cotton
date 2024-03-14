@@ -30,7 +30,7 @@ tags: [ development,seed,cell wall,endosperm,sugar,seed development,endosperm de
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,cell wall,endosperm,sugar,seed development,endosperm development,seed filling
 
 ## Sequences:

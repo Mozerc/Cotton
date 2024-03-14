@@ -28,7 +28,7 @@ tags: [ growth,pollen,pollen wall,cell wall ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,pollen,pollen wall,cell wall
 
 ## Sequences:

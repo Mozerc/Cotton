@@ -29,7 +29,7 @@ tags: [ transporter,endosperm,manganese,iron,fe ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transporter,endosperm,manganese,iron,fe
 
 ## Sequences:

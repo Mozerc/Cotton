@@ -28,7 +28,7 @@ tags: [ stem,growth,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,growth,flowering time,flowering
 
 ## Sequences:

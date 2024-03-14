@@ -30,7 +30,7 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal
 
 ## Sequences:

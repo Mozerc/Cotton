@@ -28,7 +28,7 @@ tags: [ development,auxin,ja,auxin biosynthesis,ovule,ja biosynthesis,ja signali
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,ja,auxin biosynthesis,ovule,ja biosynthesis,ja signaling
 
 ## Sequences:

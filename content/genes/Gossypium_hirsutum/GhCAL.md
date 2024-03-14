@@ -29,7 +29,7 @@ tags: [ breeding,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 breeding,flowering
 
 ## Sequences:

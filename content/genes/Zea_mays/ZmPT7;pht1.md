@@ -30,7 +30,7 @@ tags: [ growth,phosphate ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,phosphate
 
 ## Sequences:

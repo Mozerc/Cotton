@@ -29,7 +29,7 @@ tags: [ stem,cell death,architecture,programmed cell death ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,cell death,architecture,programmed cell death
 
 ## Sequences:

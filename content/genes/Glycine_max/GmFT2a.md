@@ -27,7 +27,7 @@ tags: [ flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flowering
 
 ## Sequences:

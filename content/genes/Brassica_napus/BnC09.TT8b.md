@@ -29,7 +29,7 @@ tags: [ seed,seed phenotype ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,seed phenotype
 
 ## Sequences:

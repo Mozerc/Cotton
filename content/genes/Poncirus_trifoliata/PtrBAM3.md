@@ -29,7 +29,7 @@ tags: [ drought,starch,drought response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,starch,drought response
 
 ## Sequences:

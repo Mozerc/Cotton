@@ -28,7 +28,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,heat t
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,heat tolerance,heat stress
 
 ## Sequences:

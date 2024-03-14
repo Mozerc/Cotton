@@ -29,7 +29,7 @@ tags: [ stress,tolerance,stress tolerance,breeding,chilling,chilling stress,crow
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,stress tolerance,breeding,chilling,chilling stress,crown,chilling tolerance,stress response,heat tolerance,heat stress,heat stress response
 
 ## Sequences:

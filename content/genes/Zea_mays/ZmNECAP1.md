@@ -29,7 +29,7 @@ tags: [ leaf,transcriptional activator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcriptional activator
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ stem,cell cycle ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stem,cell cycle
 
 ## Sequences:

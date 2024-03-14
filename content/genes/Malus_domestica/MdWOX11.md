@@ -28,7 +28,7 @@ tags: [ nitrogen,cytokinin,cytokinin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,cytokinin,cytokinin response
 
 ## Sequences:

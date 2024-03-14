@@ -29,7 +29,7 @@ tags: [ growth,cytokinin,plant growth,cytokinin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,cytokinin,plant growth,cytokinin response
 
 ## Sequences:

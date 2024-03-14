@@ -28,7 +28,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stress response,drought stress response,drought response
 
 ## Sequences:

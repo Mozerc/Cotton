@@ -29,7 +29,7 @@ tags: [ leaf,growth,development,kinase,leaf development,inflorescence,branching,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,growth,development,kinase,leaf development,inflorescence,branching,leaf angle,inflorescence development,leaf patterning,narrow leaf
 
 ## Sequences:

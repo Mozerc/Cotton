@@ -28,7 +28,7 @@ tags: [ kinase,seed,protein kinase,dormancy,seed dormancy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,seed,protein kinase,dormancy,seed dormancy
 
 ## Sequences:

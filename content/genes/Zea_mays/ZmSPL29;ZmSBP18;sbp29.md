@@ -32,7 +32,7 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloem,flowering time,shoot apical meristem,flowering,shoot meristem
 
 ## Sequences:

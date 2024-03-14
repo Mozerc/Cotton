@@ -31,7 +31,7 @@ tags: [ stem,development,resistance,disease,disease resistance,blight,broad-spec
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stem,development,resistance,disease,disease resistance,blight,broad-spectrum disease resistance,blight disease,disease development
 
 ## Sequences:

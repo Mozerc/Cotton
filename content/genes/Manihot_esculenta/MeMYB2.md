@@ -29,7 +29,7 @@ tags: [ chilling ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 chilling
 
 ## Sequences:

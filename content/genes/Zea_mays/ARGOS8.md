@@ -29,7 +29,7 @@ tags: [ grain,drought,stress,drought stress,grain yield,yield,ethylene,drought s
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,drought,stress,drought stress,grain yield,yield,ethylene,drought sensitivity
 
 ## Sequences:

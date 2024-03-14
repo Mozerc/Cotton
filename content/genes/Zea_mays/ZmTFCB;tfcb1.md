@@ -32,7 +32,7 @@ tags: [ growth,development,cell division,reproductive,homeostasis,embryo,endospe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,cell division,reproductive,homeostasis,embryo,endosperm,reproductive development,reproductive growth,endosperm development,cytosol,embryo development,tubulin
 
 ## Sequences:

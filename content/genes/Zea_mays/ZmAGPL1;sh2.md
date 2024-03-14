@@ -28,7 +28,7 @@ tags: [ starch,cytoplasm,starch biosynthesis,pyrophosphorylase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,cytoplasm,starch biosynthesis,pyrophosphorylase
 
 ## Sequences:

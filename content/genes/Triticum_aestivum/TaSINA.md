@@ -29,7 +29,7 @@ tags: [ growth,development,grain,plant development,stress,grain number,plant gro
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,grain,plant development,stress,grain number,plant growth,grain weight,biomass,grain growth,heat stress
 
 ## Sequences:

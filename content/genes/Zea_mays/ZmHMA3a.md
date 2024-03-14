@@ -30,7 +30,7 @@ tags: [ leaf,transporter,cadmium,heavy metal ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transporter,cadmium,heavy metal
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,ethylene,melatonin,stress response,ethylen
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,ethylene,melatonin,stress response,ethylene response,drought stress response,drought response
 
 ## Sequences:

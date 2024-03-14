@@ -29,7 +29,7 @@ tags: [ cell division ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell division
 
 ## Sequences:

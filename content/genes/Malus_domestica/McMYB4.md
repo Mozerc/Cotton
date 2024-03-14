@@ -31,7 +31,7 @@ tags: [ temperature,growth,auxin,resistance,auxin response,auxin biosynthesis,li
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,growth,auxin,resistance,auxin response,auxin biosynthesis,lignin,lignin biosynthesis
 
 ## Sequences:

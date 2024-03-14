@@ -29,7 +29,7 @@ tags: [ secondary metabolism ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 secondary metabolism
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ auxin,resistance,auxin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,resistance,auxin response
 
 ## Sequences:

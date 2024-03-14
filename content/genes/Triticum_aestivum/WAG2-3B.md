@@ -28,7 +28,7 @@ tags: [ development,spikelet,spikelet development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,spikelet,spikelet development
 
 ## Sequences:

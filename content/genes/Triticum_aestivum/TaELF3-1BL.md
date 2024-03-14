@@ -29,7 +29,7 @@ tags: [ breeding,heading date,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 breeding,heading date,flowering
 
 ## Sequences:

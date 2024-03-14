@@ -29,7 +29,7 @@ tags: [ aba,abscisic acid, aba ,dormancy ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 aba,abscisic acid, aba ,dormancy
 
 ## Sequences:

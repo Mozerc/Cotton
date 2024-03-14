@@ -28,7 +28,7 @@ tags: [ glycosyltransferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 glycosyltransferase
 
 ## Sequences:

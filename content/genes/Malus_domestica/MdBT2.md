@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,senescence,temperature,growth,development,leaf deve
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,temperature,growth,development,leaf development,drought,tolerance,aba,drought tolerance,homeostasis,low-temperature,fe,fe homeostasis,fe accumulation
 
 ## Sequences:

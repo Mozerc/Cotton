@@ -30,7 +30,7 @@ tags: [ transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transporter
 
 ## Sequences:

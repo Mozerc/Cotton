@@ -30,7 +30,7 @@ tags: [ stress,tolerance,stress tolerance,chilling,chilling stress,chilling tole
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,stress tolerance,chilling,chilling stress,chilling tolerance,detoxification
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ senescence,domestication,homeostasis,phosphate,pi,pi homeostasis,pi sign
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 senescence,domestication,homeostasis,phosphate,pi,pi homeostasis,pi signaling,phosphate starvation,phosphate starvation signaling,phosphate starvation response,phosphate signaling,phosphate homeostasis
 
 ## Sequences:

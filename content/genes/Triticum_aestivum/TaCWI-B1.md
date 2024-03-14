@@ -30,7 +30,7 @@ tags: [ resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance
 
 ## Sequences:

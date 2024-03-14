@@ -29,7 +29,7 @@ tags: [ root,development,root development,root elongation,root initiation,merist
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,development,root development,root elongation,root initiation,meristem,lateral root,root meristem
 
 ## Sequences:

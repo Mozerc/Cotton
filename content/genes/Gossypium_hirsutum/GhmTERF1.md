@@ -30,7 +30,7 @@ tags: [ transcription factor,development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ temperature,resistance,stress,cold stress,aba,cold,low-temperature, aba 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 temperature,resistance,stress,cold stress,aba,cold,low-temperature, aba ,stress response
 
 ## Sequences:

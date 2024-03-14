@@ -30,7 +30,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot,salt,tolerance,salt tolerance,homeostasis
 
 ## Sequences:

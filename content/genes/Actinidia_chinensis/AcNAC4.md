@@ -29,7 +29,7 @@ tags: [ transcription regulator ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription regulator
 
 ## Sequences:

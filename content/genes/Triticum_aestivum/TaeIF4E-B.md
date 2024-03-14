@@ -28,7 +28,7 @@ tags: [ resistance,yield ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,yield
 
 ## Sequences:

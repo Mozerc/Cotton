@@ -28,7 +28,7 @@ tags: [ stem,root,auxin,auxin transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,root,auxin,auxin transport
 
 ## Sequences:

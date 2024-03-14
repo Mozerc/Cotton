@@ -28,7 +28,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,home
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,drought,tolerance,drought tolerance,homeostasis,drought resistance
 
 ## Sequences:

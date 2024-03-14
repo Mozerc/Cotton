@@ -28,7 +28,7 @@ tags: [ heading date ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 heading date
 
 ## Sequences:

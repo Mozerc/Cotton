@@ -29,7 +29,7 @@ tags: [ transcription factor,growth,seedling,seed,seed germination,cell division
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,seedling,seed,seed germination,cell division,aba,cell wall,plant growth,cell elongation,cell cycle,height,plant height,internode elongation,seed growth,seedling growth
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ pollen ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 pollen
 
 ## Sequences:

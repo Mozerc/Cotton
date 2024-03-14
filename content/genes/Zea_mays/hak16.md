@@ -27,7 +27,7 @@ tags: [ potassium,transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 potassium,transporter
 
 ## Sequences:

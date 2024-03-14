@@ -29,7 +29,7 @@ tags: [ ethylene,cytokinin,ethylene response,cytokinin response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ethylene,cytokinin,ethylene response,cytokinin response
 
 ## Sequences:

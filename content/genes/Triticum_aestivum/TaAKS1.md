@@ -31,7 +31,7 @@ tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,aba biosynthesis,a
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,aba,drought tolerance,abscisic acid,aba biosynthesis,abscisic acid biosynthesis
 
 ## Sequences:

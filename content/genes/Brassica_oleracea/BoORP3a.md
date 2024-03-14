@@ -31,7 +31,7 @@ tags: [ nucleus ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 nucleus
 
 ## Sequences:

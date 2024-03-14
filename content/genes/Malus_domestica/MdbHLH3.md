@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,root,quality,ethyle
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,transcription factor,senescence,root,quality,ethylene,ethylene production
 
 ## Sequences:

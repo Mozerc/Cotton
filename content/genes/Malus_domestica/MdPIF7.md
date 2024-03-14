@@ -28,7 +28,7 @@ tags: [ growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth
 
 ## Sequences:

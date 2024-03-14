@@ -30,7 +30,7 @@ tags: [ ga, ga ,cell elongation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ga, ga ,cell elongation
 
 ## Sequences:

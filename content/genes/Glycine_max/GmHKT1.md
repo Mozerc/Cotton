@@ -29,7 +29,7 @@ tags: [ seedlings,stress,salt,nucleus,salt stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,stress,salt,nucleus,salt stress
 
 ## Sequences:

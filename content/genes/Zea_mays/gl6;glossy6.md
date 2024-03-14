@@ -30,7 +30,7 @@ tags: [ drought,seedling,tolerance,drought tolerance,cuticle,plasma membrane,cut
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,seedling,tolerance,drought tolerance,cuticle,plasma membrane,cuticular wax biosynthesis,wax biosynthesis
 
 ## Sequences:

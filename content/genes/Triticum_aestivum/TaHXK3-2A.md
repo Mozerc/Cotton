@@ -30,7 +30,7 @@ tags: [ leaf,seedlings,development,leaf development,drought,tolerance,drought to
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,seedlings,development,leaf development,drought,tolerance,drought tolerance,stomatal,leaf size,stomatal development
 
 ## Sequences:

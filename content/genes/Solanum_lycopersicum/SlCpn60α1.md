@@ -30,7 +30,7 @@ tags: [ mitochondria,photosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 mitochondria,photosynthesis
 
 ## Sequences:

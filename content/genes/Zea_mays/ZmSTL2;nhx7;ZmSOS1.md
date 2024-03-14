@@ -29,7 +29,7 @@ tags: [ salt ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt
 
 ## Sequences:

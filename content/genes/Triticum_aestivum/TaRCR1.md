@@ -31,7 +31,7 @@ tags: [ resistance,pathogen,defence,defence response,pathogen resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,pathogen,defence,defence response,pathogen resistance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ resistance,cell death,viral resistance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,cell death,viral resistance
 
 ## Sequences:

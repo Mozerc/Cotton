@@ -29,7 +29,7 @@ tags: [ root,drought,stress,drought stress,down-regulated genes,tolerance,nucleu
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,drought,stress,drought stress,down-regulated genes,tolerance,nucleus,drought tolerance,stress tolerance
 
 ## Sequences:

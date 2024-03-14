@@ -29,7 +29,7 @@ tags: [ spikelet,floral,meristem,spikelet meristem,floral meristem,floral merist
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 spikelet,floral,meristem,spikelet meristem,floral meristem,floral meristem determinacy
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ tillering,aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tillering,aba
 
 ## Sequences:

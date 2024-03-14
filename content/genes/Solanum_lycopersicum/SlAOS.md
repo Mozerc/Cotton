@@ -30,7 +30,7 @@ tags: [ ja,tolerance,cold tolerance,cold ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja,tolerance,cold tolerance,cold
 
 ## Sequences:

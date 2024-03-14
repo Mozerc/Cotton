@@ -30,7 +30,7 @@ tags: [ temperature,kinase,stress,tolerance,stress tolerance,protein kinase,stre
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,kinase,stress,tolerance,stress tolerance,protein kinase,stress response,high-temperature tolerance
 
 ## Sequences:

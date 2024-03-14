@@ -28,7 +28,7 @@ tags: [ stem,floral,ga,height,plant height,flowering time,flowering,node ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,floral,ga,height,plant height,flowering time,flowering,node
 
 ## Sequences:

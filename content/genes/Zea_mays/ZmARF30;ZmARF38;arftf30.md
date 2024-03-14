@@ -29,7 +29,7 @@ tags: [ auxin,resistance,defense response,defense,auxin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,resistance,defense response,defense,auxin response
 
 ## Sequences:

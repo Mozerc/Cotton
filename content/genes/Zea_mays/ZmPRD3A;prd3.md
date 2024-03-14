@@ -29,7 +29,7 @@ tags: [ meiosis,meiotic ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 meiosis,meiotic
 
 ## Sequences:

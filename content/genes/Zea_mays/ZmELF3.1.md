@@ -30,7 +30,7 @@ tags: [ branching,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 branching,flowering
 
 ## Sequences:

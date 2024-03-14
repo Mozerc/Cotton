@@ -31,7 +31,7 @@ tags: [ leaf,grain,resistance,grain yield,yield,resistant,grain protein ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,grain,resistance,grain yield,yield,resistant,grain protein
 
 ## Sequences:

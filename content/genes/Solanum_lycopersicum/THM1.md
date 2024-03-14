@@ -29,7 +29,7 @@ tags: [ transcription factor,ja,transcription regulator,ja signaling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,ja,transcription regulator,ja signaling
 
 ## Sequences:

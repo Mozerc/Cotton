@@ -28,7 +28,7 @@ tags: [ development,spikelet,meristem,spikelet meristem,inflorescence,spikelet d
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,spikelet,meristem,spikelet meristem,inflorescence,spikelet development,transcriptional repressor,inflorescence development
 
 ## Sequences:

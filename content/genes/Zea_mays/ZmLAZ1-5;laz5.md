@@ -28,7 +28,7 @@ tags: [ growth,development,stress,cold stress,cold,stress response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,stress,cold stress,cold,stress response
 
 ## Sequences:

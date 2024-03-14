@@ -30,7 +30,7 @@ tags: [ defense,tolerance,salicylic acid,cell death,programmed cell death ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 defense,tolerance,salicylic acid,cell death,programmed cell death
 
 ## Sequences:

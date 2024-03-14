@@ -31,7 +31,7 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,aba,drought tole
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,drought stress ,tolerance,aba,drought tolerance,stress tolerance,stomatal, aba 
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ nitrogen,biomass ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,biomass
 
 ## Sequences:

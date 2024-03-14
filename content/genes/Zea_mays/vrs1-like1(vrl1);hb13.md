@@ -30,7 +30,7 @@ tags: [ growth,floral ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,floral
 
 ## Sequences:

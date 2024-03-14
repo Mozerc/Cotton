@@ -28,7 +28,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,cell w
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,cell wall,osmotic tolerance,osmotic stress,secondary cell wall
 
 ## Sequences:

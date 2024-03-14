@@ -29,7 +29,7 @@ tags: [ seed,starch,seed weight,height,heading date,plant height,seed size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,starch,seed weight,height,heading date,plant height,seed size
 
 ## Sequences:

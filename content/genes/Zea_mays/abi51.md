@@ -28,7 +28,7 @@ tags: [ stem,sugar,sugar transport,dormancy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,sugar,sugar transport,dormancy
 
 ## Sequences:

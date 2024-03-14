@@ -31,7 +31,7 @@ tags: [ seed,alkaline tolerance,seed germination,tolerance,sugar ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,alkaline tolerance,seed germination,tolerance,sugar
 
 ## Sequences:

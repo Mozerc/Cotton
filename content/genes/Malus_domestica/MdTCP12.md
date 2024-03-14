@@ -28,7 +28,7 @@ tags: [ shoot,cytokinin,branching ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot,cytokinin,branching
 
 ## Sequences:

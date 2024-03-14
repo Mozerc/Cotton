@@ -34,7 +34,7 @@ tags: [ resistance,disease,disease resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance
 
 ## Sequences:

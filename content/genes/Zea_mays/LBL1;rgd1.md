@@ -30,7 +30,7 @@ tags: [ leaf,root,growth,development,leaf development,auxin,cell division,crown 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,growth,development,leaf development,auxin,cell division,crown root development,root development,meristem,root growth,auxin response,cell cycle,crown,crown root,lateral root,leaf size,root meristem,root number,root meristem size,leaf patterning,lateral root number
 
 ## Sequences:

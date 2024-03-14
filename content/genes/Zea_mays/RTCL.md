@@ -28,7 +28,7 @@ tags: [ root,shoot,auxin,root initiation,auxin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,auxin,root initiation,auxin response
 
 ## Sequences:

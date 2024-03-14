@@ -29,7 +29,7 @@ tags: [ mature leaves,jasmonate,defense ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 mature leaves,jasmonate,defense
 
 ## Sequences:

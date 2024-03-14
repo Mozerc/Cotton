@@ -29,7 +29,7 @@ tags: [ growth,stress,stems,tolerance,stress tolerance,inflorescence,plant growt
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,stress,stems,tolerance,stress tolerance,inflorescence,plant growth
 
 ## Sequences:

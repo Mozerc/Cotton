@@ -32,7 +32,7 @@ tags: [ grain,starch,nucleus,grain weight,grain protein ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,starch,nucleus,grain weight,grain protein
 
 ## Sequences:

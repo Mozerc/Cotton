@@ -31,7 +31,7 @@ tags: [ development,flower,flower development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,flower,flower development
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ stress,ethylene,signal transduction,phytohormone,heat stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,ethylene,signal transduction,phytohormone,heat stress
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ transcription factor,development,ovule ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,ovule
 
 ## Sequences:

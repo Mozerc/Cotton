@@ -31,7 +31,7 @@ tags: [ transcription factor,fe ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,fe
 
 ## Sequences:

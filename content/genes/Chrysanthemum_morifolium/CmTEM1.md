@@ -31,7 +31,7 @@ tags: [ ethylene,floral,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ethylene,floral,flowering
 
 ## Sequences:

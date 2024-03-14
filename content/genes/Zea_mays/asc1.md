@@ -28,7 +28,7 @@ tags: [ stomatal,height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stomatal,height
 
 ## Sequences:

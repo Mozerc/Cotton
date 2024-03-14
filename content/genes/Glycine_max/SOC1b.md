@@ -30,7 +30,7 @@ tags: [ stem,growth,shoot,floral,flowering time,flowering,node ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,growth,shoot,floral,flowering time,flowering,node
 
 ## Sequences:

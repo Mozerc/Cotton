@@ -29,7 +29,7 @@ tags: [ growth,resistance,drought,stress,drought stress,down-regulated genes,sal
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,resistance,drought,stress,drought stress,down-regulated genes,salinity,cold stress,cold,plant growth,salinity stress,drought resistance,heat stress
 
 ## Sequences:

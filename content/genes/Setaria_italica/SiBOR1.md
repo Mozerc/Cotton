@@ -29,7 +29,7 @@ tags: [ development,grain,panicle,grain yield,yield,panicle development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,grain,panicle,grain yield,yield,panicle development
 
 ## Sequences:

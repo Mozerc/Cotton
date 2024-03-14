@@ -28,7 +28,7 @@ tags: [ stress,ja,cold stress,cold,ja biosynthesis,stress response, ja  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,ja,cold stress,cold,ja biosynthesis,stress response, ja 
 
 ## Sequences:

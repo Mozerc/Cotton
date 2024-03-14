@@ -28,7 +28,7 @@ tags: [ mature leaves,sucrose ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 mature leaves,sucrose
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ development,stress,homeostasis,transporter,phosphate,stress response,pho
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,stress,homeostasis,transporter,phosphate,stress response,phosphorus,pi,pi homeostasis,phosphate homeostasis
 
 ## Sequences:

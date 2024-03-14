@@ -28,7 +28,7 @@ tags: [ fe,calli ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fe,calli
 
 ## Sequences:

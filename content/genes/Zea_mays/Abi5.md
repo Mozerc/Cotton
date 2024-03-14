@@ -29,7 +29,7 @@ tags: [ transcription factor,stem,seed,aba,inflorescence,sugar,sugar transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stem,seed,aba,inflorescence,sugar,sugar transport
 
 ## Sequences:

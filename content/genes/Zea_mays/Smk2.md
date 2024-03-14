@@ -30,7 +30,7 @@ tags: [ cytosol ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cytosol
 
 ## Sequences:

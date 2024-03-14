@@ -28,7 +28,7 @@ tags: [ ja ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja
 
 ## Sequences:

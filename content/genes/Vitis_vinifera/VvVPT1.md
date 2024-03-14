@@ -31,7 +31,7 @@ tags: [ sugar,phosphate,sugar transport,phosphate transport ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 sugar,phosphate,sugar transport,phosphate transport
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ xylem,cytokinin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 xylem,cytokinin
 
 ## Sequences:

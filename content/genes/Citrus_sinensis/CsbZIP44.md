@@ -29,7 +29,7 @@ tags: [ aba, aba ,aba biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 aba, aba ,aba biosynthesis
 
 ## Sequences:

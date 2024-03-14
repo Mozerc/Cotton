@@ -31,7 +31,7 @@ tags: [ homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthes
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthesis
 
 ## Sequences:

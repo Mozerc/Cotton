@@ -30,7 +30,7 @@ tags: [ breeding,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 breeding,flowering time,flowering
 
 ## Sequences:

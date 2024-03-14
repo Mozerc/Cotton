@@ -30,7 +30,7 @@ tags: [ leaf,sheath,height,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,sheath,height,plant height
 
 ## Sequences:

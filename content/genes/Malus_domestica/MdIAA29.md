@@ -30,7 +30,7 @@ tags: [ auxin,auxin biosynthesis,transcriptional repressor ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,auxin biosynthesis,transcriptional repressor
 
 ## Sequences:

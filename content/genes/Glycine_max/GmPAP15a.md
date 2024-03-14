@@ -30,7 +30,7 @@ tags: [ root,glycosylation,phosphatase,pi ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,glycosylation,phosphatase,pi
 
 ## Sequences:

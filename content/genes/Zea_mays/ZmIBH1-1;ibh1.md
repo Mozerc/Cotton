@@ -29,7 +29,7 @@ tags: [ development,plant development,architecture,cell wall,plant architecture 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,architecture,cell wall,plant architecture
 
 ## Sequences:

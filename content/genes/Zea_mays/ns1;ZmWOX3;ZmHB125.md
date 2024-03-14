@@ -28,7 +28,7 @@ tags: [ shoot,sheath,homeobox gene ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot,sheath,homeobox gene
 
 ## Sequences:

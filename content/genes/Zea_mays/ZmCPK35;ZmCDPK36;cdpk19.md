@@ -34,7 +34,7 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane
 
 ## Sequences:

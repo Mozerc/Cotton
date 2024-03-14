@@ -28,7 +28,7 @@ tags: [ quality,yield,breeding ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 quality,yield,breeding
 
 ## Sequences:

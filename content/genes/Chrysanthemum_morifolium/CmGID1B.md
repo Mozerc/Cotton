@@ -29,7 +29,7 @@ tags: [ ga, ga  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ga, ga 
 
 ## Sequences:

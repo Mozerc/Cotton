@@ -29,7 +29,7 @@ tags: [ development,seed,endosperm,seed development,endosperm development,seed f
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,endosperm,seed development,endosperm development,seed filling
 
 ## Sequences:

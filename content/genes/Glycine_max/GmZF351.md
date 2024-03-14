@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,salt,tolerance,drought tolerance,salt tole
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,zinc,stomata
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ cellulose ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cellulose
 
 ## Sequences:

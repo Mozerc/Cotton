@@ -30,7 +30,7 @@ tags: [ resistance,disease,disease resistance,ja,defense response,defense,sa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance,ja,defense response,defense,sa
 
 ## Sequences:

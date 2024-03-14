@@ -30,7 +30,7 @@ tags: [ development,grain,pollen,starch,pollen development,endosperm,endosperm d
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,pollen,starch,pollen development,endosperm,endosperm development
 
 ## Sequences:

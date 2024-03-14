@@ -29,7 +29,7 @@ tags: [ kinase,nucleus,aba,protein kinase,pi ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,nucleus,aba,protein kinase,pi
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ root,stress,yield,architecture,biomass,height,plant height,plant archite
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,stress,yield,architecture,biomass,height,plant height,plant architecture,stress response,phosphorus,root architecture
 
 ## Sequences:

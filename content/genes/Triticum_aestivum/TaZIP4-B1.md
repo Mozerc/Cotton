@@ -27,7 +27,7 @@ tags: [ crossover,synapsis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 crossover,synapsis
 
 ## Sequences:

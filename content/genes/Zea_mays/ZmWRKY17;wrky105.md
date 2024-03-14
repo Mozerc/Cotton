@@ -29,7 +29,7 @@ tags: [ transcription factor,growth,stress,seedling,seed,salt,seed germination,t
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,stress,seedling,seed,salt,seed germination,tolerance,aba,salt tolerance,salt stress,stress tolerance,salt sensitivity,seed growth,seedling growth,aba sensitivity
 
 ## Sequences:

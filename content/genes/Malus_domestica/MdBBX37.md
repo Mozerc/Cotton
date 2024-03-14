@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,aba,ethylene,abscisic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,aba,ethylene,abscisic acid
 
 ## Sequences:

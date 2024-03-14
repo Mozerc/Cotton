@@ -28,7 +28,7 @@ tags: [ cell division,floral,meristem,inflorescence,architecture,inflorescence a
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell division,floral,meristem,inflorescence,architecture,inflorescence architecture,floral meristem
 
 ## Sequences:

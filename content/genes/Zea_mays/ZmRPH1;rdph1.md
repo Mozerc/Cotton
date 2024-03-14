@@ -34,7 +34,7 @@ tags: [ seedlings,growth,fertility,yield,plant growth,cell elongation,height,pla
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,growth,fertility,yield,plant growth,cell elongation,height,plant height,flowering time,flowering
 
 ## Sequences:

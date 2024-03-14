@@ -29,7 +29,7 @@ tags: [ shoot,resistant ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 shoot,resistant
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ flowering,ubiquitin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flowering,ubiquitin
 
 ## Sequences:

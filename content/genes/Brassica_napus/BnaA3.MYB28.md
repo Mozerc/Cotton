@@ -31,7 +31,7 @@ tags: [ leaf,seed,breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,seed,breeding
 
 ## Sequences:

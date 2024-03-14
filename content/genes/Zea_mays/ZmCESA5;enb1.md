@@ -30,7 +30,7 @@ tags: [ cell wall,cellulose,endosperm,cell wall synthesis,sucrose,sucrose supply
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell wall,cellulose,endosperm,cell wall synthesis,sucrose,sucrose supply,sucrose synthase
 
 ## Sequences:

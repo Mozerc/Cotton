@@ -29,7 +29,7 @@ tags: [ leaf,development,leaf development,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,leaf angle
 
 ## Sequences:

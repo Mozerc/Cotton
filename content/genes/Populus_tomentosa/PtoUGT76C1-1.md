@@ -29,7 +29,7 @@ tags: [ cytokinin,glycosyltransferase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cytokinin,glycosyltransferase
 
 ## Sequences:

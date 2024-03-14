@@ -29,7 +29,7 @@ tags: [ stem,lignin,lignin biosynthesis,stem strength ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stem,lignin,lignin biosynthesis,stem strength
 
 ## Sequences:

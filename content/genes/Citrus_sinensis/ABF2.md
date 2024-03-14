@@ -31,7 +31,7 @@ tags: [ development,auxin,aba,cell wall,auxin biosynthesis,auxin transport,chlor
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,auxin,aba,cell wall,auxin biosynthesis,auxin transport,chlorophyll,sucrose, aba ,aba biosynthesis,sucrose transport
 
 ## Sequences:

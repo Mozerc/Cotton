@@ -30,7 +30,7 @@ tags: [ transcription factor,aba,sugar ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,aba,sugar
 
 ## Sequences:

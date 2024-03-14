@@ -31,7 +31,7 @@ tags: [ development,pollen,anther,sterility,stress,tapetum,pollen development,an
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,pollen,anther,sterility,stress,tapetum,pollen development,anther development,male sterility
 
 ## Sequences:

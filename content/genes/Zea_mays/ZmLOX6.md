@@ -36,7 +36,7 @@ tags: [ nitrogen,development,grain,drought,stress,drought stress,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,development,grain,drought,stress,drought stress,flowering
 
 ## Sequences:

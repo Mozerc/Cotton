@@ -29,7 +29,7 @@ tags: [ nitrate,symbiosis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 nitrate,symbiosis
 
 ## Sequences:

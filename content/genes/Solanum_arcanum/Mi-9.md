@@ -29,7 +29,7 @@ tags: [ resistance,breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,breeding
 
 ## Sequences:

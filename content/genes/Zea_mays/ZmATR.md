@@ -30,7 +30,7 @@ tags: [ stress,stress response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,stress response
 
 ## Sequences:

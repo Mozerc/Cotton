@@ -30,7 +30,7 @@ tags: [ development,seed,mitochondria,embryo,endosperm,seed weight,seed size,per
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,mitochondria,embryo,endosperm,seed weight,seed size,pericarp,seed development,endosperm development,embryo development
 
 ## Sequences:

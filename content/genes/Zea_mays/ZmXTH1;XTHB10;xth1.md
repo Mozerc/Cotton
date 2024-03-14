@@ -29,7 +29,7 @@ tags: [ root,root elongation,cell wall,cell elongation,glycosylation,glucanase,h
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,root elongation,cell wall,cell elongation,glycosylation,glucanase,hydrolase
 
 ## Sequences:

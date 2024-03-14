@@ -28,7 +28,7 @@ tags: [ growth,kinase,pathogen,plasma membrane,receptor kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,kinase,pathogen,plasma membrane,receptor kinase
 
 ## Sequences:

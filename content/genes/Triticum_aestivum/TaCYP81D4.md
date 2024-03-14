@@ -28,7 +28,7 @@ tags: [ salinity,tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salinity,tolerance
 
 ## Sequences:

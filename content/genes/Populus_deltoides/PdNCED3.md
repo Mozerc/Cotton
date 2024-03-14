@@ -29,7 +29,7 @@ tags: [ root,aba,abscisic acid, aba  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,aba,abscisic acid, aba 
 
 ## Sequences:

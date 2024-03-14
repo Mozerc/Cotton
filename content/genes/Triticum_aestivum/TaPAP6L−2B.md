@@ -29,7 +29,7 @@ tags: [ ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid
 
 ## Sequences:

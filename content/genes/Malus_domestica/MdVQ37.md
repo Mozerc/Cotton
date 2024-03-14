@@ -30,7 +30,7 @@ tags: [ transcription factor,stress,salicylic acid,homeostasis,sa,heat stress,th
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stress,salicylic acid,homeostasis,sa,heat stress,thermotolerance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ salinity ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 salinity
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ development,seed,embryo,endosperm,seed development,endosperm development
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,embryo,endosperm,seed development,endosperm development,embryo development
 
 ## Sequences:

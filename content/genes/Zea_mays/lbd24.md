@@ -27,7 +27,7 @@ tags: [ root,lateral root ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,lateral root
 
 ## Sequences:

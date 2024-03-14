@@ -29,7 +29,7 @@ tags: [ seedlings,kinase,stems,aba,salicylic acid,abscisic acid,protein kinase,s
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,kinase,stems,aba,salicylic acid,abscisic acid,protein kinase,sa
 
 ## Sequences:

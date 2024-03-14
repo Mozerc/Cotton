@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,ja,ja signalling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,ja,ja signalling
 
 ## Sequences:

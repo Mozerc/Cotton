@@ -30,7 +30,7 @@ tags: [ sugar ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 sugar
 
 ## Sequences:

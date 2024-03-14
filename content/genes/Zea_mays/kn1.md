@@ -28,7 +28,7 @@ tags: [ cytokinin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cytokinin
 
 ## Sequences:

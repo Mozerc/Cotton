@@ -29,7 +29,7 @@ tags: [ kinase,potassium,cytoplasm,protein kinase,plasma membrane ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,potassium,cytoplasm,protein kinase,plasma membrane
 
 ## Sequences:

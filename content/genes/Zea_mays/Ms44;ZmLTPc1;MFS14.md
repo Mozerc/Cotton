@@ -30,7 +30,7 @@ tags: [ nitrogen,development,fertility,pollen,sterility,seed,pollen development,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,development,fertility,pollen,sterility,seed,pollen development,sterile,seed development,male sterility,male fertility,hybrid sterility,pollen fertility
 
 ## Sequences:

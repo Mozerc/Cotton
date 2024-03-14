@@ -30,7 +30,7 @@ tags: [ jasmonate,jasmonate response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 jasmonate,jasmonate response
 
 ## Sequences:

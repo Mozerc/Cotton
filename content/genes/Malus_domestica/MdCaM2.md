@@ -28,7 +28,7 @@ tags: [ signal transduction,calcium ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 signal transduction,calcium
 
 ## Sequences:

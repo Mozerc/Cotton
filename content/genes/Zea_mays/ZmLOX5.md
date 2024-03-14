@@ -30,7 +30,7 @@ tags: [ ja,defense,aba,insect,wounding,ja signaling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja,defense,aba,insect,wounding,ja signaling
 
 ## Sequences:

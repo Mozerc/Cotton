@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,defense response,defense,tolerance,abiotic
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,defense response,defense,tolerance,abiotic stress,drought tolerance,stress tolerance,cell death,zinc,flowering,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:

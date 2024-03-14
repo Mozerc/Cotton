@@ -29,7 +29,7 @@ tags: [ leaf,leaf patterning ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf patterning
 
 ## Sequences:

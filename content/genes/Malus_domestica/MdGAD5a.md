@@ -28,7 +28,7 @@ tags: [ aminobutyric acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 aminobutyric acid
 
 ## Sequences:

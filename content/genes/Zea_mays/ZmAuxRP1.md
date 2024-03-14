@@ -30,7 +30,7 @@ tags: [ stem,root,growth,grain,resistance,defense,pathogen,iaa,root growth,iaa b
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,root,growth,grain,resistance,defense,pathogen,iaa,root growth,iaa biosynthesis,grain growth,pathogen resistance
 
 ## Sequences:

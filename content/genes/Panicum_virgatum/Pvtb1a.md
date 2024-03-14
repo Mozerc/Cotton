@@ -29,7 +29,7 @@ tags: [ tillering,tiller ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 tillering,tiller
 
 ## Sequences:

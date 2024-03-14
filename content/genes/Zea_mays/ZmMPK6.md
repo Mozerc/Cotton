@@ -32,7 +32,7 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,jasmonic acid,wounding,insect resistance
 
 ## Sequences:

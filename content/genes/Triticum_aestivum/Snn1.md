@@ -28,7 +28,7 @@ tags: [ cell death,pathogen,programmed cell death ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell death,pathogen,programmed cell death
 
 ## Sequences:

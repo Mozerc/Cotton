@@ -30,7 +30,7 @@ tags: [ development,grain,grain length,awn,photosynthesis,cytokinin,cell elongat
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain length,awn,photosynthesis,cytokinin,cell elongation,grain weight,cell proliferation
 
 ## Sequences:

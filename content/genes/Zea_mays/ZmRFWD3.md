@@ -30,7 +30,7 @@ tags: [ nitrogen,development,endosperm,endosperm development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,development,endosperm,endosperm development
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ transcription factor,spikelet,fertility,spikelet number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,spikelet,fertility,spikelet number
 
 ## Sequences:

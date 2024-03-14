@@ -28,7 +28,7 @@ tags: [ stress,cold stress,abiotic stress,cold,stress response,heat stress,heat 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,cold stress,abiotic stress,cold,stress response,heat stress,heat stress response,abiotic stress response
 
 ## Sequences:

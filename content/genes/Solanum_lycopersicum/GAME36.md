@@ -30,7 +30,7 @@ tags: [ domestication,breeding,detoxification ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 domestication,breeding,detoxification
 
 ## Sequences:

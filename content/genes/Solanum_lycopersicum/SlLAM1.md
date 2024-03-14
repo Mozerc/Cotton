@@ -28,7 +28,7 @@ tags: [ leaf,growth,fertility,floral,floral organ ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,growth,fertility,floral,floral organ
 
 ## Sequences:

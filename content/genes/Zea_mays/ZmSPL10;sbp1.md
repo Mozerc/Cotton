@@ -30,7 +30,7 @@ tags: [ leaf,auxin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,auxin
 
 ## Sequences:

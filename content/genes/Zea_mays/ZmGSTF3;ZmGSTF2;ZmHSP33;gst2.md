@@ -28,7 +28,7 @@ tags: [ stress,tolerance,stress tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,stress tolerance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ development,yield,sucrose ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,yield,sucrose
 
 ## Sequences:

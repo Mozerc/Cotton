@@ -31,7 +31,7 @@ tags: [ heading date,ubiquitin,ubiquitin e3 ligase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 heading date,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

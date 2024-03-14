@@ -30,7 +30,7 @@ tags: [ photosynthesis,ethylene,ethylene production ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 photosynthesis,ethylene,ethylene production
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ kinase,resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,resistance
 
 ## Sequences:

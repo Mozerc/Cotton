@@ -29,7 +29,7 @@ tags: [ transcription factor,development,seed,starch,transcription regulator,see
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,seed,starch,transcription regulator,seed development,starch biosynthesis
 
 ## Sequences:

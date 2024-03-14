@@ -29,7 +29,7 @@ tags: [ leaf,transcription factor,drought,stress,drought stress,salt,tolerance,d
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,water loss,transcriptional activator,transcription activator
 
 ## Sequences:

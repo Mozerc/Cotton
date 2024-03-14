@@ -29,7 +29,7 @@ tags: [ stress,salt,salt stress,homeostasis,calcium ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,salt,salt stress,homeostasis,calcium
 
 ## Sequences:

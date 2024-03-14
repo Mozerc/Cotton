@@ -29,7 +29,7 @@ tags: [ nitrogen,drought,stress,drought stress,salt,abiotic stress,salt stress,s
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,drought,stress,drought stress,salt,abiotic stress,salt stress,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:

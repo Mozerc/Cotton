@@ -30,7 +30,7 @@ tags: [ chlorophyll,plastid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chlorophyll,plastid
 
 ## Sequences:

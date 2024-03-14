@@ -29,7 +29,7 @@ tags: [ cell cycle,phosphatase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell cycle,phosphatase
 
 ## Sequences:

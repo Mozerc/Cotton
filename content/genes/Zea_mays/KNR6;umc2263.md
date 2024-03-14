@@ -27,7 +27,7 @@ tags: [ inflorescence ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 inflorescence
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ shoot ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 shoot
 
 ## Sequences:

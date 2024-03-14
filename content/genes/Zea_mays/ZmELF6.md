@@ -29,7 +29,7 @@ tags: [ salt,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,flowering
 
 ## Sequences:

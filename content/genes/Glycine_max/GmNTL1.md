@@ -30,7 +30,7 @@ tags: [ transcription factor,stress,salt,tolerance,yield,salt tolerance,salt str
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stress,salt,tolerance,yield,salt tolerance,salt stress,stress tolerance
 
 ## Sequences:

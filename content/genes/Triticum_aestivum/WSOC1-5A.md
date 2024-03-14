@@ -29,7 +29,7 @@ tags: [ flowering,vernalization ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flowering,vernalization
 
 ## Sequences:

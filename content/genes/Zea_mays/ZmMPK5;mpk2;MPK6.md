@@ -29,7 +29,7 @@ tags: [ stress,oxidative stress,tolerance,oxidative,stress tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,oxidative stress,tolerance,oxidative,stress tolerance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ kinase,resistance,disease,disease resistance,yield,broad-spectrum diseas
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,resistance,disease,disease resistance,yield,broad-spectrum disease resistance,receptor kinase
 
 ## Sequences:

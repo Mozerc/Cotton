@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ chloroplast,growth,development,plant development,seed,plant growth,chlor
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 chloroplast,growth,development,plant development,seed,plant growth,chloroplast development,seed development,seed growth
 
 ## Sequences:

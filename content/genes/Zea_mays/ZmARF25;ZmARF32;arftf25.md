@@ -29,7 +29,7 @@ tags: [ leaf,development,leaf development,heterosis,cell proliferation,cellular 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,heterosis,cell proliferation,cellular proliferation,organ size,leaf size
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ seed,quality ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,quality
 
 ## Sequences:

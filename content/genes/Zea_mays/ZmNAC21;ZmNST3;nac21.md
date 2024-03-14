@@ -29,7 +29,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,drought tolerance,str
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,lodging,lodging resistance,drought resistance
 
 ## Sequences:

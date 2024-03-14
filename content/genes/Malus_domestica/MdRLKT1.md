@@ -30,7 +30,7 @@ tags: [ kinase,resistance,immunity,pathogen,receptor kinase,pathogen resistance 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,resistance,immunity,pathogen,receptor kinase,pathogen resistance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ transcription factor,auxin,seed,auxin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,auxin,seed,auxin response
 
 ## Sequences:

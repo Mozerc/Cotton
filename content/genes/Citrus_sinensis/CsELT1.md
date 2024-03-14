@@ -28,7 +28,7 @@ tags: [ plastid,triacylglycerol ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 plastid,triacylglycerol
 
 ## Sequences:

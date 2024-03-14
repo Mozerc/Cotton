@@ -30,7 +30,7 @@ tags: [ salt,zinc,ga,dwarf,height,plant height,ga biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,zinc,ga,dwarf,height,plant height,ga biosynthesis
 
 ## Sequences:

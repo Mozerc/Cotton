@@ -28,7 +28,7 @@ tags: [ stress,heat stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,heat stress
 
 ## Sequences:

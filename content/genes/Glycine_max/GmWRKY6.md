@@ -29,7 +29,7 @@ tags: [ tolerance,breeding,phosphorus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,breeding,phosphorus
 
 ## Sequences:

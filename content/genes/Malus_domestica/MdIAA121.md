@@ -30,7 +30,7 @@ tags: [ auxin,auxin biosynthesis,signal transduction ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,auxin biosynthesis,signal transduction
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ transcription factor,auxin,seed,yield,endosperm,seed weight,seed size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,auxin,seed,yield,endosperm,seed weight,seed size
 
 ## Sequences:

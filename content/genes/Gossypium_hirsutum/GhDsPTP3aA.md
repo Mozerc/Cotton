@@ -31,7 +31,7 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,salinity,salt,tolerance,salt tolerance,salt stress,stress tolerance,salinity stress,stress response,phosphatase,protein phosphatase
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ homeostasis,plastid ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 homeostasis,plastid
 
 ## Sequences:

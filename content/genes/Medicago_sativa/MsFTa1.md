@@ -29,7 +29,7 @@ tags: [ leaf,stem,architecture,biomass,plant architecture,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,stem,architecture,biomass,plant architecture,flowering
 
 ## Sequences:

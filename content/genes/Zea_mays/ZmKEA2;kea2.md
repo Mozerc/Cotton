@@ -28,7 +28,7 @@ tags: [ salt,tolerance,salt tolerance,breeding ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,tolerance,salt tolerance,breeding
 
 ## Sequences:

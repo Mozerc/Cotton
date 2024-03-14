@@ -34,7 +34,7 @@ tags: [ submergence,development,stress,tolerance,nucleus,ethylene,stress toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 submergence,development,stress,tolerance,nucleus,ethylene,stress tolerance,homeostasis,reactive oxygen species,submergence tolerance,ethylene homeostasis
 
 ## Sequences:

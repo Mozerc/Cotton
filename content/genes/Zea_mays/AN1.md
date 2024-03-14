@@ -28,7 +28,7 @@ tags: [ root,anther,gibberellin,ga,ga biosynthetic,root number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,anther,gibberellin,ga,ga biosynthetic,root number
 
 ## Sequences:

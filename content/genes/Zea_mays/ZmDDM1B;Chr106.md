@@ -28,7 +28,7 @@ tags: [ development,embryo,cell proliferation,embryo development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,embryo,cell proliferation,embryo development
 
 ## Sequences:

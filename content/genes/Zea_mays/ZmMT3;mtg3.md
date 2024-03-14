@@ -31,7 +31,7 @@ tags: [ immunity,cell death,plant immunity ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 immunity,cell death,plant immunity
 
 ## Sequences:

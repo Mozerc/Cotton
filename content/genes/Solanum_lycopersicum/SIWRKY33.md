@@ -29,7 +29,7 @@ tags: [ resistance,cold ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,cold
 
 ## Sequences:

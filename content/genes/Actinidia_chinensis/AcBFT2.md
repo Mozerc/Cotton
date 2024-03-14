@@ -30,7 +30,7 @@ tags: [ flowering,dormancy ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flowering,dormancy
 
 ## Sequences:

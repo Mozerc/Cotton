@@ -29,7 +29,7 @@ tags: [ development,floral,meristem,floral meristem,floral meristem determinacy 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,floral,meristem,floral meristem,floral meristem determinacy
 
 ## Sequences:

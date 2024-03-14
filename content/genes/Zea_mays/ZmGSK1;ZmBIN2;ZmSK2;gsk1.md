@@ -29,7 +29,7 @@ tags: [ leaf,development,kinase,leaf development,endosperm,protein kinase,endosp
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,kinase,leaf development,endosperm,protein kinase,endosperm development
 
 ## Sequences:

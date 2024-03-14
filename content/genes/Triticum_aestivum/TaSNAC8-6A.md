@@ -30,7 +30,7 @@ tags: [ auxin,drought,seedling,tolerance,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,drought,seedling,tolerance,drought tolerance
 
 ## Sequences:

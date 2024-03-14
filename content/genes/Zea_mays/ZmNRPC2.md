@@ -29,7 +29,7 @@ tags: [ transcription factor,development,cell proliferation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,cell proliferation
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ fertility,male fertility ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 fertility,male fertility
 
 ## Sequences:

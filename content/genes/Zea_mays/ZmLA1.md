@@ -29,7 +29,7 @@ tags: [ shoot gravitropism,development,shoot,auxin,inflorescence,auxin response,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot gravitropism,development,shoot,auxin,inflorescence,auxin response,auxin transport,inflorescence development
 
 ## Sequences:

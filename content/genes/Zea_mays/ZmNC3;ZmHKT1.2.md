@@ -34,7 +34,7 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,shoot,salt,tolerance,salt tolerance,transporter
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ flowering,transcriptional activator,transcription activator ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flowering,transcriptional activator,transcription activator
 
 ## Sequences:

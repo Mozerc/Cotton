@@ -30,7 +30,7 @@ tags: [ gibberellin,transporter,plasma membrane,sucrose,flowering,gibberellin bi
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 gibberellin,transporter,plasma membrane,sucrose,flowering,gibberellin biosynthesis,sucrose transporter,sucrose transport
 
 ## Sequences:

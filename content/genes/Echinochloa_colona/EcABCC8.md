@@ -29,7 +29,7 @@ tags: [ transporter,plasma membrane ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transporter,plasma membrane
 
 ## Sequences:

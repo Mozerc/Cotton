@@ -29,7 +29,7 @@ tags: [ tolerance,transporter,metal transport,as transport,co transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,transporter,metal transport,as transport,co transport
 
 ## Sequences:

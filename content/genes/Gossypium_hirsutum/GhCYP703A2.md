@@ -29,7 +29,7 @@ tags: [ fertility,sterile,heterosis,male fertility ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 fertility,sterile,heterosis,male fertility
 
 ## Sequences:

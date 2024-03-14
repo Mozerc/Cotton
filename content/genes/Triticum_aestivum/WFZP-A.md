@@ -31,7 +31,7 @@ tags: [ spikelet,awn ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 spikelet,awn
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ transcription factor,stress,tolerance,stress tolerance,osmotic tolerance
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stress,tolerance,stress tolerance,osmotic tolerance,stress response,osmotic stress
 
 ## Sequences:

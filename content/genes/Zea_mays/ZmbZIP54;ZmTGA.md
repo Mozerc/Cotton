@@ -31,7 +31,7 @@ tags: [ seedling,tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedling,tolerance
 
 ## Sequences:

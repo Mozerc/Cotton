@@ -34,7 +34,7 @@ tags: [ resistance,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,heat tolerance,heat stress,acetyltransferase
 
 ## Sequences:

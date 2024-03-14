@@ -29,7 +29,7 @@ tags: [ growth,development,seed,quality,endosperm,seed development,endosperm dev
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,seed,quality,endosperm,seed development,endosperm development,seed growth
 
 ## Sequences:

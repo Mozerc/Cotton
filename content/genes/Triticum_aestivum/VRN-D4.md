@@ -28,7 +28,7 @@ tags: [ growth,vernalization ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,vernalization
 
 ## Sequences:

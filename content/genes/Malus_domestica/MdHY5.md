@@ -28,7 +28,7 @@ tags: [ growth,transcriptional regulator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,transcriptional regulator
 
 ## Sequences:

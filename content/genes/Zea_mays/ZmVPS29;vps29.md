@@ -35,7 +35,7 @@ tags: [ development,auxin,plant development,domestication,yield,homeostasis,bree
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,plant development,domestication,yield,homeostasis,breeding,auxin biosynthesis,auxin transport,as transport
 
 ## Sequences:

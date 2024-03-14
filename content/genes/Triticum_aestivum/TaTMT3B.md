@@ -29,7 +29,7 @@ tags: [ growth,grain,resistance,grain yield,yield,transporter,plant growth,heigh
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,grain,resistance,grain yield,yield,transporter,plant growth,height,plant height,grain growth
 
 ## Sequences:

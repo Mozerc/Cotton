@@ -29,7 +29,7 @@ tags: [ leaf,sheath,cytokinin,leaf patterning ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,sheath,cytokinin,leaf patterning
 
 ## Sequences:

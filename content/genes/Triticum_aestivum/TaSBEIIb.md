@@ -28,7 +28,7 @@ tags: [ starch,quality,breeding ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,quality,breeding
 
 ## Sequences:

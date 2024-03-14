@@ -30,7 +30,7 @@ tags: [ photosynthesis,transporter,stomatal ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 photosynthesis,transporter,stomatal
 
 ## Sequences:

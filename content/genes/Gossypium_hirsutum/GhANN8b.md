@@ -31,7 +31,7 @@ tags: [ salinity,salt,tolerance,salt tolerance,calcium,phosphatase,protein phosp
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 salinity,salt,tolerance,salt tolerance,calcium,phosphatase,protein phosphatase
 
 ## Sequences:

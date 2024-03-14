@@ -30,7 +30,7 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,drought tolerance,drought sensitivity,cuticular wax formation
 
 ## Sequences:

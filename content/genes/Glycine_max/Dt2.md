@@ -28,7 +28,7 @@ tags: [ branching ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 branching
 
 ## Sequences:

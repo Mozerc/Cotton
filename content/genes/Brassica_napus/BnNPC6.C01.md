@@ -31,7 +31,7 @@ tags: [ seed,yield ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,yield
 
 ## Sequences:

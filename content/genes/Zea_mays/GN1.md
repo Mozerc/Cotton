@@ -30,7 +30,7 @@ tags: [ leaf,development,leaf development,sheath,floral,leaf shape,homeobox gene
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,sheath,floral,leaf shape,homeobox gene,internode development
 
 ## Sequences:

@@ -32,7 +32,7 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynthesis,embryo,endosperm,endosperm development,photosystem,embryo development
 
 ## Sequences:

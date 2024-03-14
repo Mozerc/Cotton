@@ -28,7 +28,7 @@ tags: [ development,cuticle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,cuticle
 
 ## Sequences:

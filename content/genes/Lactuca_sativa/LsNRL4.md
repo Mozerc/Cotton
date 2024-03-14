@@ -29,7 +29,7 @@ tags: [ photosynthesis,architecture,plant architecture ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 photosynthesis,architecture,plant architecture
 
 ## Sequences:

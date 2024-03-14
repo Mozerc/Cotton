@@ -28,7 +28,7 @@ tags: [ resistance,ja,defense,reactive oxygen species,sa, sa , ja ,ja signaling 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,ja,defense,reactive oxygen species,sa, sa , ja ,ja signaling
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ architecture,breeding,plant architecture ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 architecture,breeding,plant architecture
 
 ## Sequences:

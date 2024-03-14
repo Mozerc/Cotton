@@ -32,7 +32,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance,breeding ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,salt,tolerance,salt tolerance,breeding
 
 ## Sequences:

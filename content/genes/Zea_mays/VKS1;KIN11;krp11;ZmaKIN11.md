@@ -30,7 +30,7 @@ tags: [ development,yield,mitosis,endosperm,endosperm development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,yield,mitosis,endosperm,endosperm development
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ salt,tolerance,aba,salt tolerance, aba  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 salt,tolerance,aba,salt tolerance, aba 
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ grain,grain protein ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain protein
 
 ## Sequences:

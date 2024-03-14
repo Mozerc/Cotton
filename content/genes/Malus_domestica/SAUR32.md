@@ -30,7 +30,7 @@ tags: [ root,fe ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,fe
 
 ## Sequences:

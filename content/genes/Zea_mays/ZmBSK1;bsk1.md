@@ -32,7 +32,7 @@ tags: [ kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought stress,defense,oxidative stress,tolerance,oxidative,drought tolerance,stress tolerance,antioxidant defense,drought and oxidative stress
 
 ## Sequences:

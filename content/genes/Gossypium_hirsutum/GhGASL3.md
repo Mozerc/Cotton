@@ -29,7 +29,7 @@ tags: [ breeding,fe ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 breeding,fe
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ auxin,ethylene,auxin response,auxin biosynthesis,transcriptional regulat
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,ethylene,auxin response,auxin biosynthesis,transcriptional regulator,ethylene response,transcriptional repressor
 
 ## Sequences:

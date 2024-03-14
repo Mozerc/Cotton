@@ -28,7 +28,7 @@ tags: [ transcription factor,atpase,transporter,aluminum ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,atpase,transporter,aluminum
 
 ## Sequences:

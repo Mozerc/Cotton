@@ -30,7 +30,7 @@ tags: [ resistance,ja,cell division,insect,cell expansion,insect resistance,pest
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,ja,cell division,insect,cell expansion,insect resistance,pest,ja signalling
 
 ## Sequences:

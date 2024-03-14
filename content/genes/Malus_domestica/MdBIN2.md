@@ -28,7 +28,7 @@ tags: [ kinase,brassinosteroid,protein kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,brassinosteroid,protein kinase
 
 ## Sequences:

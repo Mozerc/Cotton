@@ -28,7 +28,7 @@ tags: [ auxin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin
 
 ## Sequences:

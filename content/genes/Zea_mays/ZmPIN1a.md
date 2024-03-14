@@ -31,7 +31,7 @@ tags: [ root,auxin,architecture,auxin transport,height,plant height,nitrate,plan
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,auxin,architecture,auxin transport,height,plant height,nitrate,plant architecture,root architecture
 
 ## Sequences:

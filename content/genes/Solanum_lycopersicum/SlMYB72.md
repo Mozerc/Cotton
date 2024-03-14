@@ -28,7 +28,7 @@ tags: [ flavonoid,chlorophyll,flavonoid metabolism ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flavonoid,chlorophyll,flavonoid metabolism
 
 ## Sequences:

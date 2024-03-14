@@ -29,7 +29,7 @@ tags: [ development,plant development,fertility,pollen,anther,stress,seed,seed g
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,fertility,pollen,anther,stress,seed,seed germination,pollen development,vegetative,anther development,seed development,male fertility,stress response,pollen fertility,pollen germination
 
 ## Sequences:

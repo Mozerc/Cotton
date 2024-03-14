@@ -29,7 +29,7 @@ tags: [ homeostasis,transporter,fe,fe homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 homeostasis,transporter,fe,fe homeostasis
 
 ## Sequences:

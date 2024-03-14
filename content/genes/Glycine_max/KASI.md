@@ -29,7 +29,7 @@ tags: [ chloroplast,development,seed,embryo,chloroplast development,seed develop
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chloroplast,development,seed,embryo,chloroplast development,seed development,sucrose,embryo development,seed filling
 
 ## Sequences:

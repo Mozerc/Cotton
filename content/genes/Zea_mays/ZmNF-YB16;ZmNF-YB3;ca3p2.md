@@ -29,7 +29,7 @@ tags: [ temperature,drought,stress,drought stress,breeding,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,drought,stress,drought stress,breeding,resistant
 
 ## Sequences:

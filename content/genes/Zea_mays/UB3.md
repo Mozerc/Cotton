@@ -30,7 +30,7 @@ tags: [ development,inflorescence,inflorescence development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,inflorescence,inflorescence development
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ immunity,cell death,transcription regulator,plant immunity ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 immunity,cell death,transcription regulator,plant immunity
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wal
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wall,seed growth
 
 ## Sequences:

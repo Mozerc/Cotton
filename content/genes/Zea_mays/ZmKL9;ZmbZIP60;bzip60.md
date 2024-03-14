@@ -34,7 +34,7 @@ tags: [ grain,grain yield,yield,grain weight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain yield,yield,grain weight
 
 ## Sequences:

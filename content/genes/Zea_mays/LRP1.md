@@ -29,7 +29,7 @@ tags: [ root,development,auxin,crown root development,root development,crown roo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,auxin,crown root development,root development,crown root initiation,root initiation,signal transduction,crown,crown root,lateral root
 
 ## Sequences:

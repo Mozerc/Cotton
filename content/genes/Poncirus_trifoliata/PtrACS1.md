@@ -29,7 +29,7 @@ tags: [ tolerance,cold tolerance,ethylene,cold ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 tolerance,cold tolerance,ethylene,cold
 
 ## Sequences:

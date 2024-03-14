@@ -31,7 +31,7 @@ tags: [ growth,tiller,domestication,branching,tiller number,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,tiller,domestication,branching,tiller number,flowering
 
 ## Sequences:

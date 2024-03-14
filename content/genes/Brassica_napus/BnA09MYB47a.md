@@ -29,7 +29,7 @@ tags: [  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 
 
 ## Sequences:

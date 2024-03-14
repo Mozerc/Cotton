@@ -29,7 +29,7 @@ tags: [ transporter,sugar,sucrose,sucrose transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transporter,sugar,sucrose,sucrose transporter
 
 ## Sequences:

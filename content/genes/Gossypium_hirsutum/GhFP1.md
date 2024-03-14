@@ -29,7 +29,7 @@ tags: [ br, br  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 br, br 
 
 ## Sequences:

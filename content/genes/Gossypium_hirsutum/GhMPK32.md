@@ -31,7 +31,7 @@ tags: [ kinase,drought,tolerance,aba,drought tolerance, aba ,drought response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 kinase,drought,tolerance,aba,drought tolerance, aba ,drought response
 
 ## Sequences:

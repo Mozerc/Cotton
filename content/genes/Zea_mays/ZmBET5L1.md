@@ -30,7 +30,7 @@ tags: [ root,growth,auxin,stress,seedling,tolerance,stress tolerance,root growth
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,auxin,stress,seedling,tolerance,stress tolerance,root growth,auxin transport,osmotic tolerance,primary root,seedling growth,osmotic stress
 
 ## Sequences:

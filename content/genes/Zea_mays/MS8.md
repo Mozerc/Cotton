@@ -29,7 +29,7 @@ tags: [ pollen,sterility,sterile,tapetal,male sterility ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 pollen,sterility,sterile,tapetal,male sterility
 
 ## Sequences:

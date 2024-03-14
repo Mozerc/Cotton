@@ -28,7 +28,7 @@ tags: [ ubiquitin,ubiquitin e3 ligase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ seedlings,stress,tolerance,stress tolerance,cell wall ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,stress,tolerance,stress tolerance,cell wall
 
 ## Sequences:

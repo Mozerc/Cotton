@@ -31,7 +31,7 @@ tags: [ resistance,homeostasis,cell wall ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,homeostasis,cell wall
 
 ## Sequences:

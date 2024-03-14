@@ -30,7 +30,7 @@ tags: [ leaf,resistant,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,resistant,leaf angle
 
 ## Sequences:

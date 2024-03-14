@@ -29,7 +29,7 @@ tags: [ growth,development,plant development,plant growth,transcriptional regula
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,plant development,plant growth,transcriptional regulator,phosphate,pi,pi uptake
 
 ## Sequences:

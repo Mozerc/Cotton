@@ -29,7 +29,7 @@ tags: [ development,flower,flower development,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,flower,flower development,flowering
 
 ## Sequences:

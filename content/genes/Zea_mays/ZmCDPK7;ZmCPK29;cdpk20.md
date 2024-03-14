@@ -30,7 +30,7 @@ tags: [ kinase,stress,tolerance,stress tolerance,protein kinase,calcium,plasma m
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,stress,tolerance,stress tolerance,protein kinase,calcium,plasma membrane,heat tolerance,heat stress
 
 ## Sequences:

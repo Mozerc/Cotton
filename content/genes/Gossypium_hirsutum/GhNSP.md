@@ -29,7 +29,7 @@ tags: [ pollen,pollen exine formation,pollen formation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 pollen,pollen exine formation,pollen formation
 
 ## Sequences:

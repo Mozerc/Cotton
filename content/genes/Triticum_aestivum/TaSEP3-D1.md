@@ -28,7 +28,7 @@ tags: [ development,plant development,height,heading date,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,height,heading date,plant height
 
 ## Sequences:

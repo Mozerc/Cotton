@@ -30,7 +30,7 @@ tags: [ yield,breeding,pericarp ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 yield,breeding,pericarp
 
 ## Sequences:

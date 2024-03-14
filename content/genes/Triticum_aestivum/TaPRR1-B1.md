@@ -29,7 +29,7 @@ tags: [ grain,grain weight,height,heading date,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain weight,height,heading date,plant height
 
 ## Sequences:

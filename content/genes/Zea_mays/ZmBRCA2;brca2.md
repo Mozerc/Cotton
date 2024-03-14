@@ -31,7 +31,7 @@ tags: [ dna repair,meiotic ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 dna repair,meiotic
 
 ## Sequences:

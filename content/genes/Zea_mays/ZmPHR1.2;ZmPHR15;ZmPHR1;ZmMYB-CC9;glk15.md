@@ -30,7 +30,7 @@ tags: [ nitrogen,transporter,phosphate,phosphorus,amino acid transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,transporter,phosphate,phosphorus,amino acid transporter
 
 ## Sequences:

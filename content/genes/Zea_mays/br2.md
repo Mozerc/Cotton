@@ -29,7 +29,7 @@ tags: [ auxin,meristem,auxin transport,intercalary meristem,internode elongation
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,meristem,auxin transport,intercalary meristem,internode elongation,node
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ salt,yield,sugar,photosystem ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,yield,sugar,photosystem
 
 ## Sequences:

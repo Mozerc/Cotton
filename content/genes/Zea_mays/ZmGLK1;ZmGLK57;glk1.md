@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,sheath,photosynthesis,tolerance,drought to
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,sheath,photosynthesis,tolerance,drought tolerance,stress tolerance,stomatal
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ transcription factor,development,anther,sterility,anther development,mal
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,anther,sterility,anther development,male sterility
 
 ## Sequences:

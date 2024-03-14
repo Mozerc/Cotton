@@ -30,7 +30,7 @@ tags: [ transcription factor,quality,transcriptional regulator,transcription reg
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,quality,transcriptional regulator,transcription regulator,nutritional quality
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ growth,resistance,plant growth,thermotolerance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,resistance,plant growth,thermotolerance
 
 ## Sequences:

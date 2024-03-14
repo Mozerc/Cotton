@@ -28,7 +28,7 @@ tags: [ seedlings,chloroplast,development,endosperm,abscisic acid,chloroplast de
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,chloroplast,development,endosperm,abscisic acid,chloroplast development,flavonoid,endosperm development
 
 ## Sequences:

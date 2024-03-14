@@ -31,7 +31,7 @@ tags: [ development,kinase,cytoplasm,phosphate,dehydrogenase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,kinase,cytoplasm,phosphate,dehydrogenase
 
 ## Sequences:

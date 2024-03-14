@@ -27,7 +27,7 @@ tags: [ root,development,shoot,root development,calli ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,shoot,root development,calli
 
 ## Sequences:

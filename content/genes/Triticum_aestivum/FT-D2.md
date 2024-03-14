@@ -29,7 +29,7 @@ tags: [ grain,grain number,grain yield,yield,grain weight,heading time ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain number,grain yield,yield,grain weight,heading time
 
 ## Sequences:

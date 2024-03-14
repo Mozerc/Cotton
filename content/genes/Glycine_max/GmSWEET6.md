@@ -31,7 +31,7 @@ tags: [ sugar,mycorrhizal symbiosis,sucrose,am symbiosis,symbiosis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 sugar,mycorrhizal symbiosis,sucrose,am symbiosis,symbiosis
 
 ## Sequences:

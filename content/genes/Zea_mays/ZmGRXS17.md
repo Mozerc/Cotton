@@ -29,7 +29,7 @@ tags: [ grain,stress,grain yield,yield,stress response,heat stress,heat stress r
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,stress,grain yield,yield,stress response,heat stress,heat stress response,thermotolerance
 
 ## Sequences:

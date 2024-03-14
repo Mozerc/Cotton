@@ -29,7 +29,7 @@ tags: [ organ size ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 organ size
 
 ## Sequences:

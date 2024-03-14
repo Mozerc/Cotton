@@ -29,7 +29,7 @@ tags: [ stems ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stems
 
 ## Sequences:

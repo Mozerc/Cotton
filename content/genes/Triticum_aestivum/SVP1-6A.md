@@ -30,7 +30,7 @@ tags: [ development,spikelet,plant development,height,plant height,spikelet deve
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,spikelet,plant development,height,plant height,spikelet development,flowering
 
 ## Sequences:

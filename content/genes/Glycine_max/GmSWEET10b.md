@@ -28,7 +28,7 @@ tags: [ domestication,seed,quality,yield ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 domestication,seed,quality,yield
 
 ## Sequences:

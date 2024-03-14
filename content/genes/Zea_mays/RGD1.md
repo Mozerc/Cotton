@@ -29,7 +29,7 @@ tags: [ root,development,auxin,root development,auxin biosynthesis,auxin transpo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,auxin,root development,auxin biosynthesis,auxin transport,lateral root
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ development,breeding,peduncle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,breeding,peduncle
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ spikelet,panicle,spikelet number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 spikelet,panicle,spikelet number
 
 ## Sequences:

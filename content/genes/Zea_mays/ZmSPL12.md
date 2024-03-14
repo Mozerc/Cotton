@@ -28,7 +28,7 @@ tags: [ resistance,lodging,lodging resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,lodging,lodging resistance
 
 ## Sequences:

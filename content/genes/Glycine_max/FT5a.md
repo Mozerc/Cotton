@@ -31,7 +31,7 @@ tags: [ shoot,yield,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot,yield,flowering time,flowering
 
 ## Sequences:

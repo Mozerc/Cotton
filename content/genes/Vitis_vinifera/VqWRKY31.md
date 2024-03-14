@@ -31,7 +31,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,defense,salic
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,disease,disease resistance,defense,salicylic acid,resistant
 
 ## Sequences:

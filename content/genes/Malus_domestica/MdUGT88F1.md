@@ -30,7 +30,7 @@ tags: [ resistance,glucosyltransferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,glucosyltransferase
 
 ## Sequences:

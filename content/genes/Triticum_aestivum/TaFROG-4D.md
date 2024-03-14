@@ -30,7 +30,7 @@ tags: [ leaf,resistance,stress,disease,disease resistance,biotic stress,sucrose 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,resistance,stress,disease,disease resistance,biotic stress,sucrose
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ stem,development,plant development,drought,stress,drought stress,seedlin
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,development,plant development,drought,stress,drought stress,seedling,inflorescence,stress response,drought stress response,drought response,inflorescence development
 
 ## Sequences:

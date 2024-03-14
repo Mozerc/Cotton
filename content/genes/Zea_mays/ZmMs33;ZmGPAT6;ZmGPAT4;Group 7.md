@@ -29,7 +29,7 @@ tags: [ development,anther,stress,oxidative stress,oxidative,sterile,anther deve
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,anther,stress,oxidative stress,oxidative,sterile,anther development,reactive oxygen species,phosphate
 
 ## Sequences:

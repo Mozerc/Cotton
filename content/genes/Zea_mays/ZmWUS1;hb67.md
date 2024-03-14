@@ -30,7 +30,7 @@ tags: [ stem,meristem,inflorescence ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,meristem,inflorescence
 
 ## Sequences:

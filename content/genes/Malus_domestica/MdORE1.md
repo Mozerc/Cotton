@@ -28,7 +28,7 @@ tags: [ root,adventitious root,adventitious root formation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,adventitious root,adventitious root formation
 
 ## Sequences:

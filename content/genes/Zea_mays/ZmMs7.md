@@ -30,7 +30,7 @@ tags: [ transcription factor,anther,sterility,seed,sterile,male sterility,hybrid
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,anther,sterility,seed,sterile,male sterility,hybrid sterility
 
 ## Sequences:

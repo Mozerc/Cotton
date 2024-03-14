@@ -30,7 +30,7 @@ tags: [ kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,prot
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,protein kinase,calcium
 
 ## Sequences:

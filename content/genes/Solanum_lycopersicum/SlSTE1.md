@@ -30,7 +30,7 @@ tags: [ stress,oxidative stress,salt,tolerance,oxidative,aba,salt tolerance,salt
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,oxidative stress,salt,tolerance,oxidative,aba,salt tolerance,salt stress,stress tolerance,homeostasis,abscisic acid,chlorophyll,reactive oxygen species
 
 ## Sequences:

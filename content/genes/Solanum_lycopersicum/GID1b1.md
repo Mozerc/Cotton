@@ -28,7 +28,7 @@ tags: [ ga ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ga
 
 ## Sequences:

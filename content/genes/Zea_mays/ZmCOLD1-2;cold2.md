@@ -28,7 +28,7 @@ tags: [ stem,root,shoot,meristem,root apical meristem,shoot apical meristem,prim
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,root,shoot,meristem,root apical meristem,shoot apical meristem,primary root,root meristem,shoot meristem
 
 ## Sequences:

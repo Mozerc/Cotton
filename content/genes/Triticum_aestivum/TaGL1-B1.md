@@ -30,7 +30,7 @@ tags: [ grain,grain length,grain yield,yield,chlorophyll ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain length,grain yield,yield,chlorophyll
 
 ## Sequences:

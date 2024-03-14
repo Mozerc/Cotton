@@ -28,7 +28,7 @@ tags: [ transporter,iron ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transporter,iron
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ tolerance,transporter,plasma membrane,callus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,transporter,plasma membrane,callus
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ kinase,grain,br,br signaling,drought,grain quality,quality,tolerance,dro
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,grain,br,br signaling,drought,grain quality,quality,tolerance,drought tolerance,dwarf,cell elongation,grain weight,phosphate,phosphate signaling
 
 ## Sequences:

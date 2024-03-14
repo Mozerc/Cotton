@@ -28,7 +28,7 @@ tags: [ stress,quality,abiotic stress,breeding,phosphatase,protein phosphatase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,quality,abiotic stress,breeding,phosphatase,protein phosphatase
 
 ## Sequences:

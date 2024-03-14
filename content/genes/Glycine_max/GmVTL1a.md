@@ -28,7 +28,7 @@ tags: [ nitrogen,iron,symbiosis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,iron,symbiosis
 
 ## Sequences:

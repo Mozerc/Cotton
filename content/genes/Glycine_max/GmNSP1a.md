@@ -30,7 +30,7 @@ tags: [ development,stress,salt,salt stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,stress,salt,salt stress
 
 ## Sequences:

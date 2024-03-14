@@ -27,7 +27,7 @@ tags: [ leaf,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf angle
 
 ## Sequences:

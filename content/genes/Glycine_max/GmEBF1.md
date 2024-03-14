@@ -31,7 +31,7 @@ tags: [ root,stress,stress response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,stress,stress response
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ transcription factor,nucleus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,nucleus
 
 ## Sequences:

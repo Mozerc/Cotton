@@ -29,7 +29,7 @@ tags: [ ga, ga ,ga biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ga, ga ,ga biosynthesis
 
 ## Sequences:

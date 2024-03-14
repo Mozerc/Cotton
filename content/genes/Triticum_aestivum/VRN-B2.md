@@ -28,7 +28,7 @@ tags: [ temperature,flower,flowering,vernalization ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,flower,flowering,vernalization
 
 ## Sequences:

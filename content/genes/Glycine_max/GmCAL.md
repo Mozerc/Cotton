@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,transcription regulator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,transcription regulator
 
 ## Sequences:

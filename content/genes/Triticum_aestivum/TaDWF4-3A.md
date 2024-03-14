@@ -29,7 +29,7 @@ tags: [ nitrogen,growth,br,yield,plant growth,biomass,biomass production ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,growth,br,yield,plant growth,biomass,biomass production
 
 ## Sequences:

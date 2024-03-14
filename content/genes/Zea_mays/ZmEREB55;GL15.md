@@ -30,7 +30,7 @@ tags: [ vegetative,height,plant height,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 vegetative,height,plant height,flowering time,flowering
 
 ## Sequences:

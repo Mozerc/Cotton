@@ -28,7 +28,7 @@ tags: [ homeostasis,fe,fe homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 homeostasis,fe,fe homeostasis
 
 ## Sequences:

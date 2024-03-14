@@ -29,7 +29,7 @@ tags: [ auxin,ethylene,auxin biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,ethylene,auxin biosynthesis
 
 ## Sequences:

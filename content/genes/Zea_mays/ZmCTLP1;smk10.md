@@ -31,7 +31,7 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,homeostasis,endosperm,endosperm development
 
 ## Sequences:

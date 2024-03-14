@@ -30,7 +30,7 @@ tags: [ resistance,salt,tolerance,salt tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,salt,tolerance,salt tolerance
 
 ## Sequences:

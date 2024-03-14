@@ -29,7 +29,7 @@ tags: [ seed,yield,biomass,nitrate ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,yield,biomass,nitrate
 
 ## Sequences:

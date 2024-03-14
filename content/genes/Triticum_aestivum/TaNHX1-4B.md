@@ -30,7 +30,7 @@ tags: [ nitrogen,growth,stress,salinity,salt,salt stress,salinity stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,growth,stress,salinity,salt,salt stress,salinity stress
 
 ## Sequences:

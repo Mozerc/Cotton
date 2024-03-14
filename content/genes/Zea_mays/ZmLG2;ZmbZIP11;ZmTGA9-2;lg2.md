@@ -30,7 +30,7 @@ tags: [ leaf,stem,shoot,vegetative,reproductive,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stem,shoot,vegetative,reproductive,leaf angle
 
 ## Sequences:

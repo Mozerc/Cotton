@@ -29,7 +29,7 @@ tags: [ xylem,root,shoot,domestication,salt,tolerance,salt tolerance,homeostasis
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 xylem,root,shoot,domestication,salt,tolerance,salt tolerance,homeostasis,transporter,amino acid transporter
 
 ## Sequences:

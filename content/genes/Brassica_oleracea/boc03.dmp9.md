@@ -31,7 +31,7 @@ tags: [ flower,pollen,seed ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flower,pollen,seed
 
 ## Sequences:

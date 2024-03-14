@@ -30,7 +30,7 @@ tags: [ ja,phytohormone ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja,phytohormone
 
 ## Sequences:

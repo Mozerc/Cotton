@@ -29,7 +29,7 @@ tags: [ growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja biosynthesis
 
 ## Sequences:

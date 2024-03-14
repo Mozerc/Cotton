@@ -29,7 +29,7 @@ tags: [ transcription factor,resistance,transcription activator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,transcription activator
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ tolerance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 tolerance
 
 ## Sequences:

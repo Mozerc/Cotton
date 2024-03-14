@@ -31,7 +31,7 @@ tags: [ transcriptional activator,transcription activator ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcriptional activator,transcription activator
 
 ## Sequences:

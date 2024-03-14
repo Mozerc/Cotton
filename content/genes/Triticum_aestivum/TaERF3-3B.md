@@ -29,7 +29,7 @@ tags: [ development,grain,grain size,grain weight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain size,grain weight
 
 ## Sequences:

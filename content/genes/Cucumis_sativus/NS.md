@@ -31,7 +31,7 @@ tags: [ auxin,transporter ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,transporter
 
 ## Sequences:

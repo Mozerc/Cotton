@@ -30,7 +30,7 @@ tags: [ auxin,auxin transport,as transport ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,auxin transport,as transport
 
 ## Sequences:

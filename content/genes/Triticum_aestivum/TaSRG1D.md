@@ -28,7 +28,7 @@ tags: [ cadmium,cadmium accumulation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cadmium,cadmium accumulation
 
 ## Sequences:

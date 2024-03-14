@@ -29,7 +29,7 @@ tags: [ drought,tolerance,aba,drought tolerance,cell wall,cellulose,signaling pa
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,aba,drought tolerance,cell wall,cellulose,signaling pathway gene, aba 
 
 ## Sequences:

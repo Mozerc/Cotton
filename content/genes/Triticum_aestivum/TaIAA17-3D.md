@@ -28,7 +28,7 @@ tags: [ auxin,tiller,tiller angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,tiller,tiller angle
 
 ## Sequences:

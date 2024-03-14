@@ -29,7 +29,7 @@ tags: [ stress,cell wall,cellulose,chilling,chilling stress ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,cell wall,cellulose,chilling,chilling stress
 
 ## Sequences:

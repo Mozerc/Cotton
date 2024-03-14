@@ -29,7 +29,7 @@ tags: [ temperature,stress,stems,oxidative stress,tolerance,oxidative,aba,stress
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,stress,stems,oxidative stress,tolerance,oxidative,aba,stress tolerance,abscisic acid,osmotic tolerance,low-temperature,osmotic stress,dehydrogenase
 
 ## Sequences:

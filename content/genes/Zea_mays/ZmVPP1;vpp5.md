@@ -32,7 +32,7 @@ tags: [ root,growth,development,drought,photosynthesis,tolerance,drought toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,drought,photosynthesis,tolerance,drought tolerance,root development,root growth
 
 ## Sequences:

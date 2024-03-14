@@ -28,7 +28,7 @@ tags: [ seed,breeding,seed weight,seed size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,breeding,seed weight,seed size
 
 ## Sequences:

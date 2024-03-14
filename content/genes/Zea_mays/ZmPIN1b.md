@@ -28,7 +28,7 @@ tags: [ root,architecture,height,plant height,plant architecture,root architectu
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,architecture,height,plant height,plant architecture,root architecture
 
 ## Sequences:

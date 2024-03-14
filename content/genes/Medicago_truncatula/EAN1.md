@@ -29,7 +29,7 @@ tags: [ transcription factor,tapetum,tapetum degeneration,sterile ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,tapetum,tapetum degeneration,sterile
 
 ## Sequences:

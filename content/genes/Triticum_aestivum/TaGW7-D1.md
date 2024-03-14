@@ -28,7 +28,7 @@ tags: [ grain,grain length,grain size,grain number,grain weight,grain width ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain length,grain size,grain number,grain weight,grain width
 
 ## Sequences:

@@ -34,7 +34,7 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance
 
 ## Sequences:

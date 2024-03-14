@@ -31,7 +31,7 @@ tags: [ sugar,phosphorus,pi,sugar transport, pi ,pi signaling,pi uptake ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 sugar,phosphorus,pi,sugar transport, pi ,pi signaling,pi uptake
 
 ## Sequences:

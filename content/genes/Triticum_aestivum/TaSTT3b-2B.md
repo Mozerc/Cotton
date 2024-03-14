@@ -31,7 +31,7 @@ tags: [ grain,grain size,resistance,defense,immunity,innate immunity,grain weigh
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain size,resistance,defense,immunity,innate immunity,grain weight,plant immunity
 
 ## Sequences:

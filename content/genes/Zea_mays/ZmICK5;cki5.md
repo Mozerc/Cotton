@@ -29,7 +29,7 @@ tags: [ leaf,stem,anther,seed,nucleus,endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stem,anther,seed,nucleus,endosperm
 
 ## Sequences:

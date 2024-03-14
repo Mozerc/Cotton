@@ -29,7 +29,7 @@ tags: [ disease,aba, aba  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 disease,aba, aba 
 
 ## Sequences:

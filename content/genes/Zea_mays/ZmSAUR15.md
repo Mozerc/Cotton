@@ -30,7 +30,7 @@ tags: [ cell division,iaa,embryo,callus,cell expansion,iaa biosynthesis,callus f
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell division,iaa,embryo,callus,cell expansion,iaa biosynthesis,callus formation
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ leaf,seedlings,drought,stress,drought stress,tolerance,drought tolerance
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,seedlings,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ resistance,ja,defense,ja signaling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,ja,defense,ja signaling
 
 ## Sequences:

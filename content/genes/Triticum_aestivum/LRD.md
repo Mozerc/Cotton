@@ -30,7 +30,7 @@ tags: [ root,growth,stress,yield,root growth,stomatal ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,stress,yield,root growth,stomatal
 
 ## Sequences:

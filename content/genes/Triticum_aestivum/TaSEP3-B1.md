@@ -29,7 +29,7 @@ tags: [ floral,height,heading date,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 floral,height,heading date,plant height
 
 ## Sequences:

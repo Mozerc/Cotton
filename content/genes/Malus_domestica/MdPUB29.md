@@ -30,7 +30,7 @@ tags: [ quality,ethylene,ubiquitin,ubiquitin e3 ligase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 quality,ethylene,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

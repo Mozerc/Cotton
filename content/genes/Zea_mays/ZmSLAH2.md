@@ -31,7 +31,7 @@ tags: [ root,growth,resistance,stress,root growth,stress response,al resistance 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,resistance,stress,root growth,stress response,al resistance
 
 ## Sequences:

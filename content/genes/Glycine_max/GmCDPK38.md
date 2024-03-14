@@ -30,7 +30,7 @@ tags: [ resistance,calcium,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,calcium,flowering time,flowering
 
 ## Sequences:

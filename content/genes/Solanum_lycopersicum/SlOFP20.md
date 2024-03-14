@@ -29,7 +29,7 @@ tags: [ development,br,br signaling,flower,pollen,pollen development,floral,ga,f
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,br,br signaling,flower,pollen,pollen development,floral,ga,floral organ,flower development
 
 ## Sequences:

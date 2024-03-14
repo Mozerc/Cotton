@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,stress,abscisic acid,phytohormone,heat s
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,stress,abscisic acid,phytohormone,heat stress
 
 ## Sequences:

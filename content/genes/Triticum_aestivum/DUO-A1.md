@@ -27,7 +27,7 @@ tags: [ grain,grain number,inflorescence,architecture,inflorescence architecture
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain number,inflorescence,architecture,inflorescence architecture
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 breeding
 
 ## Sequences:

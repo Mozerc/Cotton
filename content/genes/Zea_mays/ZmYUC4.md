@@ -30,7 +30,7 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 gravitropic response,root,resistance,lodging,lodging resistance
 
 ## Sequences:

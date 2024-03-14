@@ -29,7 +29,7 @@ tags: [ development,plant development,seedling,height,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,seedling,height,plant height
 
 ## Sequences:

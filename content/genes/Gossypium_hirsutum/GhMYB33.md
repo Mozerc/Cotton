@@ -31,7 +31,7 @@ tags: [ growth,resistance,defense,plant growth,height,plant height ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,resistance,defense,plant growth,height,plant height
 
 ## Sequences:

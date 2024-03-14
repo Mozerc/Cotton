@@ -31,7 +31,7 @@ tags: [ resistance,cold,glucanase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,cold,glucanase
 
 ## Sequences:

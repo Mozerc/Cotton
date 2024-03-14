@@ -28,7 +28,7 @@ tags: [ transcription factor,auxin,iaa,auxin response,auxin transport,transcript
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,auxin,iaa,auxin response,auxin transport,transcriptional repressor,as transport
 
 ## Sequences:

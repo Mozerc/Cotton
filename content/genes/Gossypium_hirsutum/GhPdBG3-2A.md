@@ -30,7 +30,7 @@ tags: [ glucanase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 glucanase
 
 ## Sequences:

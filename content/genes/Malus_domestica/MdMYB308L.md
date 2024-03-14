@@ -28,7 +28,7 @@ tags: [ tolerance,cold tolerance,cold ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,cold tolerance,cold
 
 ## Sequences:

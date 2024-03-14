@@ -29,7 +29,7 @@ tags: [ resistance,blight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,blight
 
 ## Sequences:

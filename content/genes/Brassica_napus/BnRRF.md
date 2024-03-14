@@ -29,7 +29,7 @@ tags: [ seed,seed weight ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,seed weight
 
 ## Sequences:

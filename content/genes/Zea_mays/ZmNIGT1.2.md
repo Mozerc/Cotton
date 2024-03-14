@@ -30,7 +30,7 @@ tags: [ transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation
 
 ## Sequences:

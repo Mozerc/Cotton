@@ -32,7 +32,7 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endosperm development,plastid,embryo development
 
 ## Sequences:

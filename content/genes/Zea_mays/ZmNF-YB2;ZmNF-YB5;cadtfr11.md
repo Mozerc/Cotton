@@ -29,7 +29,7 @@ tags: [ leaf,temperature,resistance,drought,stress,drought stress,stems,photosyn
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,temperature,resistance,drought,stress,drought stress,stems,photosynthesis,tolerance,drought tolerance,stress tolerance,stomatal,chlorophyll,chlorophyll content,drought resistance
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ tolerance,cold tolerance,cold,photosystem ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,cold tolerance,cold,photosystem
 
 ## Sequences:

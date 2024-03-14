@@ -28,7 +28,7 @@ tags: [ glycosylation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 glycosylation
 
 ## Sequences:

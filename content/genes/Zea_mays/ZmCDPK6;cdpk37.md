@@ -29,7 +29,7 @@ tags: [ kinase,stress,tolerance,abiotic stress,stress tolerance,protein kinase,c
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,stress,tolerance,abiotic stress,stress tolerance,protein kinase,calcium,stress response,calcium signaling,abiotic stress response
 
 ## Sequences:

@@ -32,7 +32,7 @@ tags: [ kinase,grain,grain length,grain number,grain yield,yield,meristem,inflor
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,grain,grain length,grain number,grain yield,yield,meristem,inflorescence,protein kinase,grain protein
 
 ## Sequences:

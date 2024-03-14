@@ -28,7 +28,7 @@ tags: [ aba,glycosyltransferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 aba,glycosyltransferase
 
 ## Sequences:

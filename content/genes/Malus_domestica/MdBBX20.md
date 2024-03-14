@@ -30,7 +30,7 @@ tags: [ transcription factor,temperature,zinc,calli ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,temperature,zinc,calli
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ growth,seed,starch,seed germination,ethylene,embryo,seed growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,seed,starch,seed germination,ethylene,embryo,seed growth
 
 ## Sequences:

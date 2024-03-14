@@ -29,7 +29,7 @@ tags: [ transcription factor,seed,seed germination,aba,dormancy,seed dormancy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,seed,seed germination,aba,dormancy,seed dormancy
 
 ## Sequences:

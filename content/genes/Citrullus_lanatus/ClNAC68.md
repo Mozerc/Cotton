@@ -31,7 +31,7 @@ tags: [ transcription factor,development,seed,sugar,seed development,sucrose,tra
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,seed,sugar,seed development,sucrose,transcriptional repressor
 
 ## Sequences:

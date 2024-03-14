@@ -31,7 +31,7 @@ tags: [ leaf,breeding,height,heading date,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,breeding,height,heading date,plant height
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ leaf,leaf shape ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf shape
 
 ## Sequences:

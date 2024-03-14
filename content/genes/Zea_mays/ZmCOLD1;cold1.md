@@ -29,7 +29,7 @@ tags: [ tolerance,aba,iaa,chilling,chilling tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,aba,iaa,chilling,chilling tolerance
 
 ## Sequences:

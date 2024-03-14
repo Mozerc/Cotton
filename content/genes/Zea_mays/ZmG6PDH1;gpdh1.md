@@ -29,7 +29,7 @@ tags: [ resistance,stress,oxidative stress,tolerance,cold tolerance,oxidative,co
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,oxidative stress,tolerance,cold tolerance,oxidative,cold stress,cold,stress tolerance,phosphate,dehydrogenase
 
 ## Sequences:

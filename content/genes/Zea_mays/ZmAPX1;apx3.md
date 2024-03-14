@@ -33,7 +33,7 @@ tags: [ leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathw
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathway gene,ja biosynthesis,ja signaling,plant defense signaling
 
 ## Sequences:

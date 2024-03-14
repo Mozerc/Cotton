@@ -29,7 +29,7 @@ tags: [ development,shoot,floral,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,shoot,floral,flowering
 
 ## Sequences:

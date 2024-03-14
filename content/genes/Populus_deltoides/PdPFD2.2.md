@@ -29,7 +29,7 @@ tags: [ biomass,biomass production ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 biomass,biomass production
 
 ## Sequences:

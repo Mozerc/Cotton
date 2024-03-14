@@ -29,7 +29,7 @@ tags: [ development,spikelet,tiller,inflorescence,architecture,inflorescence arc
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,spikelet,tiller,inflorescence,architecture,inflorescence architecture,spikelet development,inflorescence development
 
 ## Sequences:

@@ -32,7 +32,7 @@ tags: [ root,development,root development,root elongation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,root development,root elongation
 
 ## Sequences:

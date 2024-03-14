@@ -29,7 +29,7 @@ tags: [ grain,grain length,resistance,seedling,grain number,disease,disease resi
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain length,resistance,seedling,grain number,disease,disease resistance,ja,defense,aba,dwarf,sa
 
 ## Sequences:

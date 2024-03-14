@@ -32,7 +32,7 @@ tags: [ auxin,tiller,yield,architecture,plant architecture,tiller angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,tiller,yield,architecture,plant architecture,tiller angle
 
 ## Sequences:

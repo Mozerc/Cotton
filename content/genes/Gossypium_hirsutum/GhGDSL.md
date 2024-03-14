@@ -30,7 +30,7 @@ tags: [ quality,hydrolase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 quality,hydrolase
 
 ## Sequences:

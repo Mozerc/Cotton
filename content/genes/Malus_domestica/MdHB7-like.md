@@ -30,7 +30,7 @@ tags: [ salt,tolerance,salt tolerance,autophagy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,tolerance,salt tolerance,autophagy
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ root,development,seedling,salt,tolerance,root development,salt tolerance
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,seedling,salt,tolerance,root development,salt tolerance
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ resistance,jasmonate,disease,disease resistance,signaling pathway gene ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,jasmonate,disease,disease resistance,signaling pathway gene
 
 ## Sequences:

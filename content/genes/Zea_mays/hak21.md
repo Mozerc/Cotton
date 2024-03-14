@@ -27,7 +27,7 @@ tags: [ xylem,homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 xylem,homeostasis
 
 ## Sequences:

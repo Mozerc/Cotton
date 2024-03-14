@@ -30,7 +30,7 @@ tags: [ drought,salinity,tolerance,aba,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,salinity,tolerance,aba,drought tolerance
 
 ## Sequences:

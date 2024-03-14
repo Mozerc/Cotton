@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,stress,salt,nucleus,salt stress,cell wal
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,stress,salt,nucleus,salt stress,cell wall,osmotic stress,secondary cell wall
 
 ## Sequences:

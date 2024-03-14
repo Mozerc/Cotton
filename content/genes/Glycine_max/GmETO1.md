@@ -28,7 +28,7 @@ tags: [ tolerance,pi ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,pi
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ transcription factor,development,spikelet,inflorescence,spikelet develop
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,spikelet,inflorescence,spikelet development,inflorescence development
 
 ## Sequences:

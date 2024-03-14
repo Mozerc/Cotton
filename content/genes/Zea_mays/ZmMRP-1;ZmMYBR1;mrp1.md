@@ -29,7 +29,7 @@ tags: [ endosperm,transcriptional activator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 endosperm,transcriptional activator
 
 ## Sequences:

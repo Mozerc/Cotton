@@ -28,7 +28,7 @@ tags: [ temperature,tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,tolerance
 
 ## Sequences:

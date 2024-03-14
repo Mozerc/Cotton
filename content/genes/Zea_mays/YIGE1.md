@@ -32,7 +32,7 @@ tags: [ development,grain,grain size,auxin,grain number,grain yield,yield,merist
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain size,auxin,grain number,grain yield,yield,meristem,inflorescence,sugar,grain protein,inflorescence development
 
 ## Sequences:

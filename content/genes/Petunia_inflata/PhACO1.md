@@ -29,7 +29,7 @@ tags: [ flower,quality ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flower,quality
 
 ## Sequences:

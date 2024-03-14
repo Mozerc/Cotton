@@ -29,7 +29,7 @@ tags: [ transcription factor,development,grain,seed,grain filling,embryo,endospe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,grain,seed,grain filling,embryo,endosperm,seed development,endosperm development,embryo development,seed filling
 
 ## Sequences:

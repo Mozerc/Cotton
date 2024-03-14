@@ -28,7 +28,7 @@ tags: [ methyltransferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 methyltransferase
 
 ## Sequences:

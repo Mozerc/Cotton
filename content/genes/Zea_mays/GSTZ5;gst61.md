@@ -28,7 +28,7 @@ tags: [ detoxification ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 detoxification
 
 ## Sequences:

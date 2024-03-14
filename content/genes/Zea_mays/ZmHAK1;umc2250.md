@@ -29,7 +29,7 @@ tags: [ homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 homeostasis
 
 ## Sequences:

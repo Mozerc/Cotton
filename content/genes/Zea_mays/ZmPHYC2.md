@@ -34,7 +34,7 @@ tags: [ architecture,breeding,height,plant height,flowering time,plant architect
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 architecture,breeding,height,plant height,flowering time,plant architecture,flowering
 
 ## Sequences:

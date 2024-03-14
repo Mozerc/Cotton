@@ -28,7 +28,7 @@ tags: [ development,seed,embryo,seed development,female gametophyte development,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,embryo,seed development,female gametophyte development,embryo development
 
 ## Sequences:

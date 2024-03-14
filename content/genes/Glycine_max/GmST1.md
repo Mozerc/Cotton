@@ -28,7 +28,7 @@ tags: [ resistance,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,resistant
 
 ## Sequences:

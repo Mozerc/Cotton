@@ -30,7 +30,7 @@ tags: [ iron,fe ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 iron,fe
 
 ## Sequences:

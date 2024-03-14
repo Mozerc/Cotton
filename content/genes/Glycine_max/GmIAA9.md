@@ -28,7 +28,7 @@ tags: [ yield,breeding ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 yield,breeding
 
 ## Sequences:

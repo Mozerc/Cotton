@@ -29,7 +29,7 @@ tags: [ development,cuticular wax biosynthesis,wax biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,cuticular wax biosynthesis,wax biosynthesis
 
 ## Sequences:

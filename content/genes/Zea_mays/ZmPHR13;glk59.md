@@ -29,7 +29,7 @@ tags: [ leaf,stress,phosphate,stress response,pi,phosphate starvation,phosphate 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stress,phosphate,stress response,pi,phosphate starvation,phosphate starvation response
 
 ## Sequences:

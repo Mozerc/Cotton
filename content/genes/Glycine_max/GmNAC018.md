@@ -28,7 +28,7 @@ tags: [ senescence ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 senescence
 
 ## Sequences:

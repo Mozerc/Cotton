@@ -29,7 +29,7 @@ tags: [ development,pollen,anther,stress,pollen development,cold stress,abiotic 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,pollen,anther,stress,pollen development,cold stress,abiotic stress,cold,anther development,stress response,abiotic stress response
 
 ## Sequences:

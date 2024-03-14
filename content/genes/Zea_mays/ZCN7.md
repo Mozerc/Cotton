@@ -30,7 +30,7 @@ tags: [ spikelet,spikelet number,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 spikelet,spikelet number,flowering time,flowering
 
 ## Sequences:

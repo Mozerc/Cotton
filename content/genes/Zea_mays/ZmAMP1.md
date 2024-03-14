@@ -29,7 +29,7 @@ tags: [ leaf,breeding,internode length,leaf size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,breeding,internode length,leaf size
 
 ## Sequences:

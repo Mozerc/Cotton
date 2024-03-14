@@ -28,7 +28,7 @@ tags: [ salt,cold ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,cold
 
 ## Sequences:

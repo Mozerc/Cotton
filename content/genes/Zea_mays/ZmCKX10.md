@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,auxin,cytokinin,auxin response,cytokinin
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,auxin,cytokinin,auxin response,cytokinin response,dehydrogenase
 
 ## Sequences:

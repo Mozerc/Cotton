@@ -29,7 +29,7 @@ tags: [ leaf,tillering,development,leaf development,tiller ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,tillering,development,leaf development,tiller
 
 ## Sequences:

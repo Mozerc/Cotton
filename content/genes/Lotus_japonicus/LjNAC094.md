@@ -31,7 +31,7 @@ tags: [ senescence,nitrate ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 senescence,nitrate
 
 ## Sequences:

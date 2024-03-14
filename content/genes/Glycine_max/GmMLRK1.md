@@ -30,7 +30,7 @@ tags: [ kinase,resistance,resistant,receptor kinase,malectin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,resistance,resistant,receptor kinase,malectin
 
 ## Sequences:

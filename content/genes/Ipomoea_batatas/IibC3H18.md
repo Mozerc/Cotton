@@ -29,7 +29,7 @@ tags: [ resistance,stress,tolerance,abiotic stress,stress tolerance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,tolerance,abiotic stress,stress tolerance
 
 ## Sequences:

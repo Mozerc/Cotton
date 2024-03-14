@@ -29,7 +29,7 @@ tags: [ tolerance,cold tolerance,ethylene,cold,homeostasis,ethylene homeostasis 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 tolerance,cold tolerance,ethylene,cold,homeostasis,ethylene homeostasis
 
 ## Sequences:

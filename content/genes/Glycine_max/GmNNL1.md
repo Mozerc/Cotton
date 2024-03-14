@@ -30,7 +30,7 @@ tags: [ root,immunity,r protein,root hair,root number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,immunity,r protein,root hair,root number
 
 ## Sequences:

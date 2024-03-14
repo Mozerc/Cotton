@@ -29,7 +29,7 @@ tags: [ kinase,pathogen,jasmonic,jasmonic acid,protein kinase,receptor kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,pathogen,jasmonic,jasmonic acid,protein kinase,receptor kinase
 
 ## Sequences:

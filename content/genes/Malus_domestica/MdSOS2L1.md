@@ -28,7 +28,7 @@ tags: [ tolerance,cadmium,cadmium tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,cadmium,cadmium tolerance
 
 ## Sequences:

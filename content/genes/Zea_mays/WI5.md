@@ -30,7 +30,7 @@ tags: [ xylem,growth,drought,stress,drought stress,cell wall,plant growth,cell w
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 xylem,growth,drought,stress,drought stress,cell wall,plant growth,cell wall synthesis,stress response,drought stress response,secondary cell wall,drought response
 
 ## Sequences:

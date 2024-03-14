@@ -29,7 +29,7 @@ tags: [ grain,stems,grain yield,grain filling,yield,grain protein ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,stems,grain yield,grain filling,yield,grain protein
 
 ## Sequences:

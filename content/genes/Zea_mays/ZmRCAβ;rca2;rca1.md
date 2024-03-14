@@ -29,7 +29,7 @@ tags: [ grain,grain yield,yield ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain yield,yield
 
 ## Sequences:

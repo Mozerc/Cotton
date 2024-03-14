@@ -28,7 +28,7 @@ tags: [ tolerance,cold tolerance,aba,cold,breeding,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,cold tolerance,aba,cold,breeding,resistant
 
 ## Sequences:

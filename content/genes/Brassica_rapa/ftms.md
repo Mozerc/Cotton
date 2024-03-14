@@ -31,7 +31,7 @@ tags: [ development,sterile ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,sterile
 
 ## Sequences:

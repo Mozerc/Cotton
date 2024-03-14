@@ -31,7 +31,7 @@ tags: [ ga, ga ,dwarf ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ga, ga ,dwarf
 
 ## Sequences:

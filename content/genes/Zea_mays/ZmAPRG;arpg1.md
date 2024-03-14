@@ -29,7 +29,7 @@ tags: [ leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,nod
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,node,phosphate starvation,protein phosphatase
 
 ## Sequences:

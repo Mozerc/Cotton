@@ -32,7 +32,7 @@ tags: [ protoplasts ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 protoplasts
 
 ## Sequences:

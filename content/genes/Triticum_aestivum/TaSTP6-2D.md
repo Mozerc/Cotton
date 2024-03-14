@@ -30,7 +30,7 @@ tags: [ aba,transporter,sugar ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 aba,transporter,sugar
 
 ## Sequences:

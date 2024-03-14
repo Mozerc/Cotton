@@ -30,7 +30,7 @@ tags: [ chloroplast,photosynthesis,photosystem ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chloroplast,photosynthesis,photosystem
 
 ## Sequences:

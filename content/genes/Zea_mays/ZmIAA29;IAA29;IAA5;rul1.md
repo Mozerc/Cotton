@@ -29,7 +29,7 @@ tags: [ transcription factor,development,iaa,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,iaa,flowering time,flowering
 
 ## Sequences:

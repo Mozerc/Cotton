@@ -30,7 +30,7 @@ tags: [ chloroplast,sugar ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chloroplast,sugar
 
 ## Sequences:

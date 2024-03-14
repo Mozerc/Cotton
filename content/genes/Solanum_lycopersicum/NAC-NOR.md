@@ -28,7 +28,7 @@ tags: [ demethylation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 demethylation
 
 ## Sequences:

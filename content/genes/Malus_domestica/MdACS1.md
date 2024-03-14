@@ -30,7 +30,7 @@ tags: [ ethylene,ethylene production ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ethylene,ethylene production
 
 ## Sequences:

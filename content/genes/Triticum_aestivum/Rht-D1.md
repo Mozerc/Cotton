@@ -27,7 +27,7 @@ tags: [ gibberellin,height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 gibberellin,height
 
 ## Sequences:

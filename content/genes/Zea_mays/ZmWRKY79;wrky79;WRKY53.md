@@ -29,7 +29,7 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,abiotic str
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,drought,stress,drought stress,tolerance,abiotic stress,aba,drought tolerance,stress tolerance,pathogen,transcription regulator,aba biosynthesis,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:

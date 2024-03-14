@@ -29,7 +29,7 @@ tags: [ transcription factor,senescence,shattering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,senescence,shattering
 
 ## Sequences:

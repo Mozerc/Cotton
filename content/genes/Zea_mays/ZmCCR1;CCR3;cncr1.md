@@ -29,7 +29,7 @@ tags: [ growth,development,plant development,drought,plant growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,plant development,drought,plant growth
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ drought,tolerance,nucleus,drought tolerance,reactive oxygen species ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,nucleus,drought tolerance,reactive oxygen species
 
 ## Sequences:

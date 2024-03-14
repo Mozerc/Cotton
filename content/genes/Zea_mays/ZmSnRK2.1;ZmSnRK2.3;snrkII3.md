@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,salt,cold stress,abiotic stress,salt stres
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,salt,cold stress,abiotic stress,salt stress,cold
 
 ## Sequences:

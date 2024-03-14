@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,drought stress ,aba, aba ,stress response,
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,drought stress ,aba, aba ,stress response,drought stress response,drought response
 
 ## Sequences:

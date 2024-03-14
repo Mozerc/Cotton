@@ -29,7 +29,7 @@ tags: [ growth,tolerance,cold tolerance,cold ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,tolerance,cold tolerance,cold
 
 ## Sequences:

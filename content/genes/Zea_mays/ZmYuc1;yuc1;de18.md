@@ -29,7 +29,7 @@ tags: [ development,auxin,iaa,auxin biosynthesis,endosperm,endosperm development
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,iaa,auxin biosynthesis,endosperm,endosperm development,iaa biosynthesis
 
 ## Sequences:

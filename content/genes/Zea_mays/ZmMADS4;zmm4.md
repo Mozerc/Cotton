@@ -32,7 +32,7 @@ tags: [ leaf,shoot,floral,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,shoot,floral,flowering
 
 ## Sequences:

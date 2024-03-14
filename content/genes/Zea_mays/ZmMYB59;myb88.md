@@ -29,7 +29,7 @@ tags: [ seed,seed germination,nucleus,gibberellin,ga ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,seed germination,nucleus,gibberellin,ga
 
 ## Sequences:

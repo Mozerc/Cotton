@@ -30,7 +30,7 @@ tags: [ development,cell wall,cell wall synthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,cell wall,cell wall synthesis
 
 ## Sequences:

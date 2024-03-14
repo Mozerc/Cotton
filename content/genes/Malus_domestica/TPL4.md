@@ -30,7 +30,7 @@ tags: [ ethylene,transcriptional repressor,ethylene production ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ethylene,transcriptional repressor,ethylene production
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ resistance,stress,salt,salt stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,salt,salt stress
 
 ## Sequences:

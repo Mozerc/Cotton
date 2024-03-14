@@ -29,7 +29,7 @@ tags: [ resistance,disease,disease resistance,breeding ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance,breeding
 
 ## Sequences:

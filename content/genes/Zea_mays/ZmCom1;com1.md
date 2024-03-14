@@ -29,7 +29,7 @@ tags: [ growth,vegetative,meiotic,meiotic recombination,recombination ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,vegetative,meiotic,meiotic recombination,recombination
 
 ## Sequences:

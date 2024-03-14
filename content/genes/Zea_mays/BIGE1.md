@@ -29,7 +29,7 @@ tags: [ growth,development,embryo,endosperm,endosperm development,embryo develop
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,embryo,endosperm,endosperm development,embryo development
 
 ## Sequences:

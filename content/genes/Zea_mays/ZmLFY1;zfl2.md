@@ -29,7 +29,7 @@ tags: [ vegetative,floral,inflorescence,reproductive,architecture,inflorescence 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 vegetative,floral,inflorescence,reproductive,architecture,inflorescence architecture,branching,floral organ,flowering time,flowering,organ identity
 
 ## Sequences:

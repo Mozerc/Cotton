@@ -31,7 +31,7 @@ tags: [ floral ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 floral
 
 ## Sequences:

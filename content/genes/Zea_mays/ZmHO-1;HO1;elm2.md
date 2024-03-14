@@ -29,7 +29,7 @@ tags: [ root,development,root development,cell cycle,lateral root ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,root development,cell cycle,lateral root
 
 ## Sequences:

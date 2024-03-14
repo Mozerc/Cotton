@@ -29,7 +29,7 @@ tags: [ seed,shattering,seed shattering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,shattering,seed shattering
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ growth,grain,grain yield,yield,vegetative,reproductive,reproductive grow
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,grain,grain yield,yield,vegetative,reproductive,reproductive growth,grain growth
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ kinase,seed,architecture,seed size,cell proliferation,plant architecture
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,seed,architecture,seed size,cell proliferation,plant architecture,organ size,receptor kinase,cell expansion
 
 ## Sequences:

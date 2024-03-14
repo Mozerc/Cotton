@@ -30,7 +30,7 @@ tags: [ meiotic,meiotic recombination,recombination ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 meiotic,meiotic recombination,recombination
 
 ## Sequences:

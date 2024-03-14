@@ -29,7 +29,7 @@ tags: [ br,ethylene,ethylene production ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 br,ethylene,ethylene production
 
 ## Sequences:

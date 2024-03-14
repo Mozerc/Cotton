@@ -28,7 +28,7 @@ tags: [ starch ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch
 
 ## Sequences:

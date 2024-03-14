@@ -30,7 +30,7 @@ tags: [ growth,drought,stress,drought stress,photosynthesis,tolerance,yield,abio
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,drought,stress,drought stress,photosynthesis,tolerance,yield,abiotic stress,drought tolerance,stress tolerance,plant growth
 
 ## Sequences:

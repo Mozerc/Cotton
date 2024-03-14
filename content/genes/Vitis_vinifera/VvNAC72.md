@@ -29,7 +29,7 @@ tags: [ resistance,defense,salicylic acid,homeostasis,detoxification ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,defense,salicylic acid,homeostasis,detoxification
 
 ## Sequences:

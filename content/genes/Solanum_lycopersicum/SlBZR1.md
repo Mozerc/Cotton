@@ -30,7 +30,7 @@ tags: [ brassinosteroid,br,br signaling,brassinosteroid signaling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 brassinosteroid,br,br signaling,brassinosteroid signaling
 
 ## Sequences:

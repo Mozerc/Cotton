@@ -29,7 +29,7 @@ tags: [ development,grain,grain size,seed,grain yield,yield,grain weight,seed we
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain size,seed,grain yield,yield,grain weight,seed weight,seed size,seed development
 
 ## Sequences:

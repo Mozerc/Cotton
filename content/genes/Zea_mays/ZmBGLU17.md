@@ -31,7 +31,7 @@ tags: [ resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resis
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resistance
 
 ## Sequences:

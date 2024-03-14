@@ -29,7 +29,7 @@ tags: [ development,grain,plant development,seed,grain filling,aba,flowering tim
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,plant development,seed,grain filling,aba,flowering time,seed development,flowering,seed phenotype,seed filling
 
 ## Sequences:

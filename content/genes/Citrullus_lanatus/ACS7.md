@@ -14,7 +14,7 @@ tags: [ stem,root,growth,stress,ethylene,root elongation,meristem,root growth,pl
 - **Species:** *Citrullus lanatus*
 
 ## Functional Description:
-   - An allelic variant in the **ACS7** gene promotes primary root growth in watermelon。
+   - An allelic variant in the **ACS7** gene promotes primary root growth in watermelon.
    - The **ACS7** expression and ethylene levels in the primary root tips suggested that ethylene is a negative regulator of root elongation in watermelon.
    - **ACS7** has been associated with plant stress responses , flowering , root growth , vascular meristem activity, and stem elongation.
 
@@ -31,7 +31,7 @@ tags: [ stem,root,growth,stress,ethylene,root elongation,meristem,root growth,pl
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stem,root,growth,stress,ethylene,root elongation,meristem,root growth,plant growth,flowering,primary root,root meristem
 
 ## Sequences:

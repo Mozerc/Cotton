@@ -34,7 +34,7 @@ tags: [ br,cell elongation,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 br,cell elongation,resistant
 
 ## Sequences:

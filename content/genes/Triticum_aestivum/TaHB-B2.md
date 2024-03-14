@@ -32,7 +32,7 @@ tags: [ leaf,development,spikelet,grain,leaf development,inflorescence,branching
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,spikelet,grain,leaf development,inflorescence,branching,vascular development,resistant,spikelet development,grain protein content,grain protein,inflorescence development
 
 ## Sequences:

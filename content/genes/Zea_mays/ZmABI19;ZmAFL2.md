@@ -34,7 +34,7 @@ tags: [ development,grain,plant development,seed,starch,grain filling,embryo,end
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,plant development,seed,starch,grain filling,embryo,endosperm,signal transduction,seed development,sucrose,endosperm development,embryo development,seed filling,starch accumulation
 
 ## Sequences:

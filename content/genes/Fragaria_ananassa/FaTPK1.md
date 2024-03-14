@@ -30,7 +30,7 @@ tags: [ development,quality,potassium ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,quality,potassium
 
 ## Sequences:

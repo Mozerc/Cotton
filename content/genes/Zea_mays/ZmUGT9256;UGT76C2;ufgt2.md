@@ -29,7 +29,7 @@ tags: [ stress,abiotic stress,secondary metabolism,glycosyltransferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,abiotic stress,secondary metabolism,glycosyltransferase
 
 ## Sequences:

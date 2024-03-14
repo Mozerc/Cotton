@@ -31,7 +31,7 @@ tags: [ nitrogen,growth,br,photosynthesis,yield,plant growth,biomass,biomass pro
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,growth,br,photosynthesis,yield,plant growth,biomass,biomass production
 
 ## Sequences:

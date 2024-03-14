@@ -30,7 +30,7 @@ tags: [ transcription factor,secondary metabolism ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,secondary metabolism
 
 ## Sequences:

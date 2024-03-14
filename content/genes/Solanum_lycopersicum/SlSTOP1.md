@@ -28,7 +28,7 @@ tags: [ stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress
 
 ## Sequences:

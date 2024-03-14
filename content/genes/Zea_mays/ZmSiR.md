@@ -30,7 +30,7 @@ tags: [ leaf,seedling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,seedling
 
 ## Sequences:

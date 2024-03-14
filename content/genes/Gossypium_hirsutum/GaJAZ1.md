@@ -29,7 +29,7 @@ tags: [ stress,ja,defense,salt,tolerance,salt tolerance,salt stress,stress toler
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,ja,defense,salt,tolerance,salt tolerance,salt stress,stress tolerance,ja biosynthesis, ja ,ja signaling
 
 ## Sequences:

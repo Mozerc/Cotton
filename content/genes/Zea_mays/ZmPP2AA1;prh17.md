@@ -29,7 +29,7 @@ tags: [ root,growth,development,tolerance,root development,root growth,lateral r
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,tolerance,root development,root growth,lateral root,primary root,phosphatase,pi,protein phosphatase
 
 ## Sequences:

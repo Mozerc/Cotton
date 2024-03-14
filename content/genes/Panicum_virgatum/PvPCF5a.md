@@ -29,7 +29,7 @@ tags: [ salt,tolerance,ethylene,salt tolerance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 salt,tolerance,ethylene,salt tolerance
 
 ## Sequences:

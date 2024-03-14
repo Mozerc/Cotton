@@ -29,7 +29,7 @@ tags: [ salt,potassium,homeostasis,transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 salt,potassium,homeostasis,transporter
 
 ## Sequences:

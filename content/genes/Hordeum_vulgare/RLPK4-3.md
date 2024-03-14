@@ -29,7 +29,7 @@ tags: [ kinase,stress,salinity,salt,salt stress,salinity stress,receptor kinase 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 kinase,stress,salinity,salt,salt stress,salinity stress,receptor kinase
 
 ## Sequences:

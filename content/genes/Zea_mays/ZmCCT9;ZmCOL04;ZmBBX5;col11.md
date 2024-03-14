@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,floral,flowering time,flowering,drought sensitivity,stress response,drought stress response,drought response
 
 ## Sequences:

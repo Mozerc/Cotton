@@ -31,7 +31,7 @@ tags: [ seed,seed germination,aba,seed weight,cell cycle,seed size, aba  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,seed germination,aba,seed weight,cell cycle,seed size, aba 
 
 ## Sequences:

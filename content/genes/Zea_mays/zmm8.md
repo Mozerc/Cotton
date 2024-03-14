@@ -29,7 +29,7 @@ tags: [ development,spikelet,plant development,spikelet development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,spikelet,plant development,spikelet development
 
 ## Sequences:

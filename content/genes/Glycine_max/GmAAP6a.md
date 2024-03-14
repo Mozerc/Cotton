@@ -28,7 +28,7 @@ tags: [ nitrogen,stress,seed,quality,tolerance,stress tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,stress,seed,quality,tolerance,stress tolerance
 
 ## Sequences:

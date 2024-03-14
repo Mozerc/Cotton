@@ -28,7 +28,7 @@ tags: [ seed,yield,seed weight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,yield,seed weight
 
 ## Sequences:

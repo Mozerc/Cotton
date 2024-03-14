@@ -28,7 +28,7 @@ tags: [ transcription factor,cell wall ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,cell wall
 
 ## Sequences:

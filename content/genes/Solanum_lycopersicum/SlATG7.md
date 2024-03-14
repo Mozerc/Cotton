@@ -28,7 +28,7 @@ tags: [ development,pollen,anther,tapetum,pollen development,anther development,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,pollen,anther,tapetum,pollen development,anther development,autophagy,tapetum degradation
 
 ## Sequences:

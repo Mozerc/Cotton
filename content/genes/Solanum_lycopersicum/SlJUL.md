@@ -28,7 +28,7 @@ tags: [ yield,phloem,sucrose,sucrose transport ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 yield,phloem,sucrose,sucrose transport
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ root,shoot,stress,salt,cytokinin,salt stress,transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,stress,salt,cytokinin,salt stress,transporter
 
 ## Sequences:

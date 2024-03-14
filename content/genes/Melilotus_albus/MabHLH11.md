@@ -29,7 +29,7 @@ tags: [ glucosyltransferase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 glucosyltransferase
 
 ## Sequences:

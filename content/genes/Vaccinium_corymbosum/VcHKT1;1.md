@@ -29,7 +29,7 @@ tags: [ leaf,breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,breeding
 
 ## Sequences:

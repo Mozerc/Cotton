@@ -28,7 +28,7 @@ tags: [ kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase
 
 ## Sequences:

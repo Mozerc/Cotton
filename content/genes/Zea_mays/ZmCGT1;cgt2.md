@@ -34,7 +34,7 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 quality,nutritional quality,glycosyltransferase,flavone
 
 ## Sequences:

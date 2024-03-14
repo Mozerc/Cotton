@@ -29,7 +29,7 @@ tags: [ quality,breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 quality,breeding
 
 ## Sequences:

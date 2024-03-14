@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,oxidative stress,tolerance,oxidative,droug
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,oxidative stress,tolerance,oxidative,drought tolerance,stress tolerance,signal transduction,sugar,lignin,drought and oxidative stress
 
 ## Sequences:

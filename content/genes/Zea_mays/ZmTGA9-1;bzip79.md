@@ -29,7 +29,7 @@ tags: [ fertility,pollen,anther,sterility,male sterility,male fertility,pollen f
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,pollen,anther,sterility,male sterility,male fertility,pollen fertility
 
 ## Sequences:

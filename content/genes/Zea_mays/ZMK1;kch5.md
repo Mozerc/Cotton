@@ -29,7 +29,7 @@ tags: [ kinase,homeostasis,protein kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,homeostasis,protein kinase
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,drought stress ,stress response,drought st
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,drought stress ,stress response,drought stress response,drought response
 
 ## Sequences:

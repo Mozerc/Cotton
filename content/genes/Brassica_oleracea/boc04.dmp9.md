@@ -30,7 +30,7 @@ tags: [ flower,pollen ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flower,pollen
 
 ## Sequences:

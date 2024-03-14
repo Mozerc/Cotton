@@ -31,7 +31,7 @@ tags: [ development,seed,seed development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,seed,seed development
 
 ## Sequences:

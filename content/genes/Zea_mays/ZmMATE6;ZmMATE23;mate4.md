@@ -29,7 +29,7 @@ tags: [ root,resistance,resistant,al resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,resistance,resistant,al resistance
 
 ## Sequences:

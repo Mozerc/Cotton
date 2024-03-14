@@ -28,7 +28,7 @@ tags: [ development,auxin,iaa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,iaa
 
 ## Sequences:

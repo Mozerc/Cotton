@@ -30,7 +30,7 @@ tags: [ transcription factor,flavonoid,transcription regulator,flavonoid biosynt
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,flavonoid,transcription regulator,flavonoid biosynthesis
 
 ## Sequences:

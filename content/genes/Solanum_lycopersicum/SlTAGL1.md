@@ -29,7 +29,7 @@ tags: [ transcription factor,resistance,flavonoid,flavonoid biosynthesis,flavono
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,flavonoid,flavonoid biosynthesis,flavonoid metabolism
 
 ## Sequences:

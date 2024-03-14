@@ -29,7 +29,7 @@ tags: [ cytoplasm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cytoplasm
 
 ## Sequences:

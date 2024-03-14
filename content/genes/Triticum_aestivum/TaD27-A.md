@@ -29,7 +29,7 @@ tags: [ architecture,plant architecture ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 architecture,plant architecture
 
 ## Sequences:

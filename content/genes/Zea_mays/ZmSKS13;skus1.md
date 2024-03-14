@@ -30,7 +30,7 @@ tags: [ development,homeostasis,reactive oxygen species ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,homeostasis,reactive oxygen species
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ seed,photosynthesis,yield,photosystem ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,photosynthesis,yield,photosystem
 
 ## Sequences:

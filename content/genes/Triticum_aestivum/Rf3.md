@@ -30,7 +30,7 @@ tags: [ fertility,pollen,sterility,male sterility,male fertility,pollen fertilit
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,pollen,sterility,male sterility,male fertility,pollen fertility,pollen formation
 
 ## Sequences:

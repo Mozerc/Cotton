@@ -29,7 +29,7 @@ tags: [ leaf,auxin,leaf shape ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,auxin,leaf shape
 
 ## Sequences:

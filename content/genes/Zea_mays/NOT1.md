@@ -29,7 +29,7 @@ tags: [ stem,development,architecture ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,development,architecture
 
 ## Sequences:

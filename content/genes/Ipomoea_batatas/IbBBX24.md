@@ -29,7 +29,7 @@ tags: [ resistance,ja,yield,pathogen,ja biosynthesis, ja ,ja signaling,pathogen 
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,ja,yield,pathogen,ja biosynthesis, ja ,ja signaling,pathogen resistance
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ nitrate ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrate
 
 ## Sequences:

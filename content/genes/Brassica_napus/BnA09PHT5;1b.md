@@ -31,7 +31,7 @@ tags: [ seed,yield,floral,pi, pi  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,yield,floral,pi, pi 
 
 ## Sequences:

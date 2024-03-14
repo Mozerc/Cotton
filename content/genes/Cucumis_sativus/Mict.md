@@ -31,7 +31,7 @@ tags: [ development,cell division,cell elongation,flavonoid,flavonoid metabolism
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,cell division,cell elongation,flavonoid,flavonoid metabolism
 
 ## Sequences:

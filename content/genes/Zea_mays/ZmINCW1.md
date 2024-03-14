@@ -31,7 +31,7 @@ tags: [ development,grain,grain size,seed,grain weight,seed weight,seed size,see
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain size,seed,grain weight,seed weight,seed size,seed development,grain protein
 
 ## Sequences:

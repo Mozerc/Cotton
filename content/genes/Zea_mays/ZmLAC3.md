@@ -30,7 +30,7 @@ tags: [ nitrogen,root,homeostasis,casparian strip ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,root,homeostasis,casparian strip
 
 ## Sequences:

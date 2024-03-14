@@ -28,7 +28,7 @@ tags: [ auxin,signal transduction ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,signal transduction
 
 ## Sequences:

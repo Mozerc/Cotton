@@ -29,7 +29,7 @@ tags: [ development,drought,tolerance,drought tolerance,drought sensitivity ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,drought,tolerance,drought tolerance,drought sensitivity
 
 ## Sequences:

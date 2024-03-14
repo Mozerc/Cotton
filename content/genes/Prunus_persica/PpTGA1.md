@@ -31,7 +31,7 @@ tags: [ kinase,resistance,pathogen,defence,aminobutyric acid,pathogen resistance
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 kinase,resistance,pathogen,defence,aminobutyric acid,pathogen resistance
 
 ## Sequences:

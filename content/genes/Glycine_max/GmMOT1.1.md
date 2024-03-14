@@ -30,7 +30,7 @@ tags: [ seed,yield,iaa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,yield,iaa
 
 ## Sequences:

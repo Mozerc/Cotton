@@ -28,7 +28,7 @@ tags: [ seed,seed size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,seed size
 
 ## Sequences:

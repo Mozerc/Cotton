@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,defense response,defense,gibberellin,cold 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,defense response,defense,gibberellin,cold stress,aba,cold,stress response,drought stress response,drought response
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ drought,stress,drought stress,drought stress ,defense response,defense,a
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,drought stress ,defense response,defense,aba, aba ,stress response,drought stress response,drought response
 
 ## Sequences:

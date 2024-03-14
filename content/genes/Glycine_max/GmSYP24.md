@@ -30,7 +30,7 @@ tags: [ drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tole
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tolerance,stomata
 
 ## Sequences:

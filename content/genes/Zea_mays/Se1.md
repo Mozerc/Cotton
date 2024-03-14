@@ -30,7 +30,7 @@ tags: [ starch,quality,endosperm,starch biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,quality,endosperm,starch biosynthesis
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ immunity,pathogen,pamp-triggered immunity,chitin signaling ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 immunity,pathogen,pamp-triggered immunity,chitin signaling
 
 ## Sequences:

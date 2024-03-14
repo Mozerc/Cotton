@@ -29,7 +29,7 @@ tags: [ transcription factor,seedlings,growth,cuticle,transcription regulator,wa
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,seedlings,growth,cuticle,transcription regulator,wax biosynthesis
 
 ## Sequences:

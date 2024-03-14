@@ -31,7 +31,7 @@ tags: [ domestication ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 domestication
 
 ## Sequences:

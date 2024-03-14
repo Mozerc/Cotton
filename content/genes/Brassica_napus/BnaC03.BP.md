@@ -29,7 +29,7 @@ tags: [ architecture,dwarf,plant architecture ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 architecture,dwarf,plant architecture
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ brassinosteroid,drought,tolerance,yield,drought tolerance,architecture,p
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 brassinosteroid,drought,tolerance,yield,drought tolerance,architecture,plant architecture
 
 ## Sequences:

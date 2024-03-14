@@ -28,7 +28,7 @@ tags: [ resistance,disease,disease resistance,insect,insect resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance,insect,insect resistance
 
 ## Sequences:

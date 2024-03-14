@@ -29,7 +29,7 @@ tags: [ stem,root,kinase,drought,stress,drought stress,salt,tolerance,drought to
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,root,kinase,drought,stress,drought stress,salt,tolerance,drought tolerance,salt tolerance,salt stress,stress tolerance,protein kinase,stress response,drought stress response,drought response
 
 ## Sequences:

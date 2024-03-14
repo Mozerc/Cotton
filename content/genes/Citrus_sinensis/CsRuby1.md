@@ -29,7 +29,7 @@ tags: [ cold ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cold
 
 ## Sequences:

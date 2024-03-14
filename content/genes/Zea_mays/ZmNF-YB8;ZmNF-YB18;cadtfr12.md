@@ -28,7 +28,7 @@ tags: [ transcription factor,drought,stress,drought stress,stress response,droug
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,drought,stress,drought stress,stress response,drought stress response,drought response
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ resistance,nucleus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,nucleus
 
 ## Sequences:

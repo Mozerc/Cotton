@@ -30,7 +30,7 @@ tags: [ root,growth,root growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,root growth
 
 ## Sequences:

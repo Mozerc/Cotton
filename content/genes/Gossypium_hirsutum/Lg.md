@@ -31,7 +31,7 @@ tags: [ cell wall,cell wall synthesis,secondary cell wall ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell wall,cell wall synthesis,secondary cell wall
 
 ## Sequences:

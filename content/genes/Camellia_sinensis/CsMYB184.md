@@ -31,7 +31,7 @@ tags: [ root,development,root development,root initiation,root hair ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,development,root development,root initiation,root hair
 
 ## Sequences:

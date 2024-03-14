@@ -30,7 +30,7 @@ tags: [ resistance,aluminum,aluminum resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,aluminum,aluminum resistance
 
 ## Sequences:

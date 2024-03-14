@@ -30,7 +30,7 @@ tags: [ cell wall,stomatal,stomatal density ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell wall,stomatal,stomatal density
 
 ## Sequences:

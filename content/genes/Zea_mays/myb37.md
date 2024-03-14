@@ -27,7 +27,7 @@ tags: [ sheath ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 sheath
 
 ## Sequences:

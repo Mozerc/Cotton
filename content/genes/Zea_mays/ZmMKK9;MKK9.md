@@ -29,7 +29,7 @@ tags: [ leaf,temperature,stomatal,water loss,thermotolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,temperature,stomatal,water loss,thermotolerance
 
 ## Sequences:

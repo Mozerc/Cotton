@@ -31,7 +31,7 @@ tags: [ vegetative,reproductive,breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 vegetative,reproductive,breeding
 
 ## Sequences:

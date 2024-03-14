@@ -28,7 +28,7 @@ tags: [ xylem,growth,development,plant development,plant growth,phloem ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 xylem,growth,development,plant development,plant growth,phloem
 
 ## Sequences:

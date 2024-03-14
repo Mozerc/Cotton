@@ -29,7 +29,7 @@ tags: [ transcription factor,development,flower,flower development,transcription
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,flower,flower development,transcription regulator
 
 ## Sequences:

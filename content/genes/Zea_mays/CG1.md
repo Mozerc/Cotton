@@ -29,7 +29,7 @@ tags: [ leaf,root,development,leaf development,vegetative,root development,root 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,development,leaf development,vegetative,root development,root initiation,floral,architecture,root architecture,root number
 
 ## Sequences:

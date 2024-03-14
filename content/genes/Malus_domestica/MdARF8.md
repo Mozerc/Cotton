@@ -28,7 +28,7 @@ tags: [ root,auxin,auxin response,adventitious root,adventitious root formation 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,auxin,auxin response,adventitious root,adventitious root formation
 
 ## Sequences:

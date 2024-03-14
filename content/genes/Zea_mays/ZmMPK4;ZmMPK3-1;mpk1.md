@@ -29,7 +29,7 @@ tags: [ temperature,stress,tolerance,stress tolerance,sugar,reactive oxygen spec
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,stress,tolerance,stress tolerance,sugar,reactive oxygen species,catalase
 
 ## Sequences:

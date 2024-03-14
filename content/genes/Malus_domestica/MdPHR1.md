@@ -28,7 +28,7 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription regulator,ubiquitin,ubiquitin e3 ligase
 
 ## Sequences:

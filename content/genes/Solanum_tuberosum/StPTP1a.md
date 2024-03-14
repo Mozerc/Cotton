@@ -29,7 +29,7 @@ tags: [ immunity,sa, sa  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 immunity,sa, sa 
 
 ## Sequences:

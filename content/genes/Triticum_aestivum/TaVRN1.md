@@ -28,7 +28,7 @@ tags: [ cold,floral ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cold,floral
 
 ## Sequences:

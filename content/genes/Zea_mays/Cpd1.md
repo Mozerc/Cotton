@@ -30,7 +30,7 @@ tags: [ development,plant development,phloem ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,phloem
 
 ## Sequences:

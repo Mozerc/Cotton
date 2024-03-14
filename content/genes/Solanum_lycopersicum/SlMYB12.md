@@ -30,7 +30,7 @@ tags: [ flavonoid,protoplasts,flavonoid biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flavonoid,protoplasts,flavonoid biosynthesis
 
 ## Sequences:

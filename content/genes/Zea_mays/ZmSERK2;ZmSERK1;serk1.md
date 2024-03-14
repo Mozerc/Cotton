@@ -28,7 +28,7 @@ tags: [ leaf,leaf senescence,senescence,stress,phytohormone,heat stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,stress,phytohormone,heat stress
 
 ## Sequences:

@@ -32,7 +32,7 @@ tags: [ nitrogen,root,growth,resistance,stress,root growth,nitrate,al resistance
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,root,growth,resistance,stress,root growth,nitrate,al resistance
 
 ## Sequences:

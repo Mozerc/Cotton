@@ -30,7 +30,7 @@ tags: [ nitrogen,seed ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,seed
 
 ## Sequences:

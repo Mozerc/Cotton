@@ -29,7 +29,7 @@ tags: [ kinase,drought,stress,drought stress,defense,tolerance,aba,drought toler
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,drought,stress,drought stress,defense,tolerance,aba,drought tolerance,stress tolerance,protein kinase,calcium,plasma membrane,antioxidant defense
 
 ## Sequences:

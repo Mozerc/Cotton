@@ -28,7 +28,7 @@ tags: [ defense,sa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 defense,sa
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ development,starch ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,starch
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ development,grain,grain length,flower,grain yield,yield,ethylene,meriste
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,grain,grain length,flower,grain yield,yield,ethylene,meristem,flower development,ethylene production
 
 ## Sequences:

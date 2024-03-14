@@ -29,7 +29,7 @@ tags: [ floral,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 floral,flowering time,flowering
 
 ## Sequences:

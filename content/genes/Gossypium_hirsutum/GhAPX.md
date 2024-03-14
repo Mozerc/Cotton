@@ -10,7 +10,7 @@ tags: [ stress ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhAPX
 - **Gene Name:** 
-- **Genome:** [Cotton Genome Database (https://www.cottongen.org/)]()
+- **Genome:** [Cotton Genome Database]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Description:
@@ -29,7 +29,7 @@ tags: [ stress ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress
 
 ## Sequences:

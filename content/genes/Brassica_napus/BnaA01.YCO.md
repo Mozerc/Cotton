@@ -29,7 +29,7 @@ tags: [ seedlings,chloroplast,down-regulated genes,photosynthesis,plastid,chloro
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seedlings,chloroplast,down-regulated genes,photosynthesis,plastid,chloroplast biogenesis
 
 ## Sequences:

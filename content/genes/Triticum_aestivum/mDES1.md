@@ -29,7 +29,7 @@ tags: [ stem,disease,cell division,pcd ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,disease,cell division,pcd
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ leaf,dehydrogenase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,dehydrogenase
 
 ## Sequences:

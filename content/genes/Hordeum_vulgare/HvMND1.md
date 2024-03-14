@@ -29,7 +29,7 @@ tags: [ senescence,growth,reproductive,plant growth,reproductive growth ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 senescence,growth,reproductive,plant growth,reproductive growth
 
 ## Sequences:

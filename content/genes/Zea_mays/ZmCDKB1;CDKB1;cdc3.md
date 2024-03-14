@@ -29,7 +29,7 @@ tags: [ cell cycle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell cycle
 
 ## Sequences:

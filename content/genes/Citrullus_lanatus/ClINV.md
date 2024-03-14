@@ -31,7 +31,7 @@ tags: [ iaa,sugar,sucrose ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 iaa,sugar,sucrose
 
 ## Sequences:

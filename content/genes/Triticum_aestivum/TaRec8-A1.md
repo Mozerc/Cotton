@@ -28,7 +28,7 @@ tags: [ meiosis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 meiosis
 
 ## Sequences:

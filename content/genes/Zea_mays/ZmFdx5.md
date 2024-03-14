@@ -30,7 +30,7 @@ tags: [ development,stress,tolerance,stress tolerance,stress response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,stress,tolerance,stress tolerance,stress response
 
 ## Sequences:

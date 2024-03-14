@@ -30,7 +30,7 @@ tags: [ fertility,pollen,breeding,sterile,heterosis,pollen fertility ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,pollen,breeding,sterile,heterosis,pollen fertility
 
 ## Sequences:

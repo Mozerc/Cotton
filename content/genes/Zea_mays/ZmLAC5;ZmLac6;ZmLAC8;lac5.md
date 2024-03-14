@@ -29,7 +29,7 @@ tags: [ resistance,lodging,lodging resistance,lignin,lignin biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,lodging,lodging resistance,lignin,lignin biosynthesis
 
 ## Sequences:

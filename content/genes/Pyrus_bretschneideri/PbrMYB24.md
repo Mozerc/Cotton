@@ -29,7 +29,7 @@ tags: [ cellulose,lignin ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cellulose,lignin
 
 ## Sequences:

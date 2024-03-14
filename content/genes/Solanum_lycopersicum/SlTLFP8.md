@@ -28,7 +28,7 @@ tags: [ photosynthesis,yield,stomatal,biomass,stomata,stomatal density ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 photosynthesis,yield,stomatal,biomass,stomata,stomatal density
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ resistance,tolerance,cold tolerance,cold ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,tolerance,cold tolerance,cold
 
 ## Sequences:

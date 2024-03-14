@@ -29,7 +29,7 @@ tags: [ stress,tolerance,stress tolerance,aluminum,nitrate,aluminum tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,stress tolerance,aluminum,nitrate,aluminum tolerance
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ seedlings,tolerance,cold tolerance,cold ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,tolerance,cold tolerance,cold
 
 ## Sequences:

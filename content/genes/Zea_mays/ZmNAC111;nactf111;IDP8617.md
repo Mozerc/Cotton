@@ -27,7 +27,7 @@ tags: [ drought,drought response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,drought response
 
 ## Sequences:

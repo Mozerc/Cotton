@@ -30,7 +30,7 @@ tags: [ drought,tolerance,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,drought tolerance
 
 ## Sequences:

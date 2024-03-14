@@ -29,7 +29,7 @@ tags: [ transcription factor,growth,drought,tolerance,drought tolerance,plant gr
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,drought,tolerance,drought tolerance,plant growth,heat tolerance
 
 ## Sequences:

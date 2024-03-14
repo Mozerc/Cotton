@@ -30,7 +30,7 @@ tags: [ development,drought,tolerance,drought tolerance,breeding,melatonin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,drought,tolerance,drought tolerance,breeding,melatonin
 
 ## Sequences:

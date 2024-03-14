@@ -30,7 +30,7 @@ tags: [ leaf,stem,root,sheath,cell wall,flowering,secondary cell wall ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stem,root,sheath,cell wall,flowering,secondary cell wall
 
 ## Sequences:

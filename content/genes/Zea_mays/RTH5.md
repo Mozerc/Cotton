@@ -31,7 +31,7 @@ tags: [ root,root elongation,root initiation,primary root,root hair,root length,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,root elongation,root initiation,primary root,root hair,root length,root epidermal cells
 
 ## Sequences:

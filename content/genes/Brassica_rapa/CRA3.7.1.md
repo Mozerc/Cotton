@@ -29,7 +29,7 @@ tags: [ resistant ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistant
 
 ## Sequences:

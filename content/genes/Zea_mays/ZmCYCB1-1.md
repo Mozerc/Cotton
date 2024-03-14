@@ -30,7 +30,7 @@ tags: [ growth,seed,yield,plumule,embryo,seed weight,seed size,seed growth,seed 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,seed,yield,plumule,embryo,seed weight,seed size,seed growth,seed length
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ kinase,resistance,drought,stress,drought stress,tolerance,aba,drought to
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,resistance,drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,stomatal,abscisic acid,signal transduction,drought resistance,stress response,drought stress response,drought response
 
 ## Sequences:

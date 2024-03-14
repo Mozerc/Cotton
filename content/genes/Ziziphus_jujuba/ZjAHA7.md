@@ -29,7 +29,7 @@ tags: [ atpase,transporter,plasma membrane,mycorrhizal symbiosis,am symbiosis,sy
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 atpase,transporter,plasma membrane,mycorrhizal symbiosis,am symbiosis,symbiosis
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ transcription factor,grain,domestication ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,grain,domestication
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ resistance,pathogen,pathogen resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,pathogen,pathogen resistance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ inflorescence,jasmonic,jasmonic acid,plastid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 inflorescence,jasmonic,jasmonic acid,plastid
 
 ## Sequences:

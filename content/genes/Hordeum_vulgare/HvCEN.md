@@ -29,7 +29,7 @@ tags: [ shoot,cytokinin,floral,cell cycle,cellular activities ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 shoot,cytokinin,floral,cell cycle,cellular activities
 
 ## Sequences:

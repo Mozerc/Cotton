@@ -31,7 +31,7 @@ tags: [ ja,ja biosynthesis, ja  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ja,ja biosynthesis, ja 
 
 ## Sequences:

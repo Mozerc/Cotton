@@ -31,7 +31,7 @@ tags: [ chloroplast,drought,stress,drought stress,photosynthesis,tolerance,aba,d
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chloroplast,drought,stress,drought stress,photosynthesis,tolerance,aba,drought tolerance,stress tolerance,acetyltransferase
 
 ## Sequences:

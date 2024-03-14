@@ -30,7 +30,7 @@ tags: [ leaf,development,leaf development,cytokinin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,cytokinin
 
 ## Sequences:

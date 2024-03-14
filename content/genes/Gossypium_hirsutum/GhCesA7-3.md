@@ -30,7 +30,7 @@ tags: [ development,cellulose ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,cellulose
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ drought,stress,drought stress,drought stress ,seed,tolerance,drought tol
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,drought stress ,seed,tolerance,drought tolerance,stress tolerance,seed size
 
 ## Sequences:

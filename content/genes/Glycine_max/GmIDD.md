@@ -28,7 +28,7 @@ tags: [ transcription factor,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,flowering time,flowering
 
 ## Sequences:

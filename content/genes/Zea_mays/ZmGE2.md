@@ -30,7 +30,7 @@ tags: [ grain,breeding,embryo,endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,breeding,embryo,endosperm
 
 ## Sequences:

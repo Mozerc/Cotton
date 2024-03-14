@@ -31,7 +31,7 @@ tags: [ stem,growth,flower,meristem ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stem,growth,flower,meristem
 
 ## Sequences:

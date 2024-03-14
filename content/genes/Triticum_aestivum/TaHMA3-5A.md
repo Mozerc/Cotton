@@ -28,7 +28,7 @@ tags: [ grain,transporter,cadmium,cadmium accumulation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,transporter,cadmium,cadmium accumulation
 
 ## Sequences:

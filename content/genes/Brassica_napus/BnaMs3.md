@@ -29,7 +29,7 @@ tags: [ breeding,sterile ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 breeding,sterile
 
 ## Sequences:

@@ -27,7 +27,7 @@ tags: [ defense,salicylic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 defense,salicylic acid
 
 ## Sequences:

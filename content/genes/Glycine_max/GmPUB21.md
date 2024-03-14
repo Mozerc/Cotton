@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,salinity,tolerance,aba,drought tolerance,s
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,salinity,tolerance,aba,drought tolerance,stress tolerance,salinity stress,stress response,drought stress response,drought response
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ nucleus,cytokinin,cytokinin response,cytosol ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nucleus,cytokinin,cytokinin response,cytosol
 
 ## Sequences:

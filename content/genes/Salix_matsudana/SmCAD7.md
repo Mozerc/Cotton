@@ -29,7 +29,7 @@ tags: [ tolerance,lignin,calli ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 tolerance,lignin,calli
 
 ## Sequences:

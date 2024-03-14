@@ -29,7 +29,7 @@ tags: [ grain,resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,resistance
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ transcription factor,ethylene,stomatal,abscisic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,ethylene,stomatal,abscisic acid
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ stress,atpase,tolerance,stress tolerance,plasma membrane ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,atpase,tolerance,stress tolerance,plasma membrane
 
 ## Sequences:

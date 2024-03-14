@@ -31,7 +31,7 @@ tags: [ development,breeding ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,breeding
 
 ## Sequences:

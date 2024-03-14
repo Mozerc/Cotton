@@ -28,7 +28,7 @@ tags: [ transcription factor,cytoplasm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,cytoplasm
 
 ## Sequences:

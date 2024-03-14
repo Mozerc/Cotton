@@ -29,7 +29,7 @@ tags: [ stress,heat stress,protoplasts ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,heat stress,protoplasts
 
 ## Sequences:

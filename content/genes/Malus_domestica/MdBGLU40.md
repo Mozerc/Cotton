@@ -28,7 +28,7 @@ tags: [ transcription factor,resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ grain,starch,grain filling,aba,ethylene,grain weight,endosperm,aba biosy
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,starch,grain filling,aba,ethylene,grain weight,endosperm,aba biosynthesis,starch biosynthesis,grain protein
 
 ## Sequences:

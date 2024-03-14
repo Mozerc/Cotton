@@ -29,7 +29,7 @@ tags: [ stress,alkaline stress,stress response,saline stress ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,alkaline stress,stress response,saline stress
 
 ## Sequences:

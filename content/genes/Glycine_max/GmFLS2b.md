@@ -28,7 +28,7 @@ tags: [ resistance,viral resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,viral resistance
 
 ## Sequences:

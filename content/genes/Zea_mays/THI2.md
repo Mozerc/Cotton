@@ -29,7 +29,7 @@ tags: [ development,shoot,inflorescence,inflorescence development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,shoot,inflorescence,inflorescence development
 
 ## Sequences:

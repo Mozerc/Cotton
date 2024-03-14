@@ -29,7 +29,7 @@ tags: [ resistance,ja,defense,jasmonic,jasmonic acid,signaling pathway gene,ja b
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,ja,defense,jasmonic,jasmonic acid,signaling pathway gene,ja biosynthesis,ja signaling
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ leaf,auxin,architecture,transporter,auxin transport,plant architecture,l
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,auxin,architecture,transporter,auxin transport,plant architecture,leaf angle
 
 ## Sequences:

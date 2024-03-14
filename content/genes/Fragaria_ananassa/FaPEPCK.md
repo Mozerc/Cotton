@@ -31,7 +31,7 @@ tags: [ development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development
 
 ## Sequences:

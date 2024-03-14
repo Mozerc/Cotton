@@ -30,7 +30,7 @@ tags: [ leaf,architecture,plant architecture,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,architecture,plant architecture,leaf angle
 
 ## Sequences:

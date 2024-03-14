@@ -31,7 +31,7 @@ tags: [ resistance,stress ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,stress
 
 ## Sequences:

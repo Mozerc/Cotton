@@ -29,7 +29,7 @@ tags: [ growth,development,br,br signaling,seedling,seedling growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,br,br signaling,seedling,seedling growth
 
 ## Sequences:

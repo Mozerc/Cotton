@@ -30,7 +30,7 @@ tags: [ transcription factor,ethylene ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,ethylene
 
 ## Sequences:

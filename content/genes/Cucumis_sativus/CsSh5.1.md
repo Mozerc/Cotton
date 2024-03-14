@@ -31,7 +31,7 @@ tags: [ temperature ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 temperature
 
 ## Sequences:

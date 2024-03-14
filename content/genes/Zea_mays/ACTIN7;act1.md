@@ -28,7 +28,7 @@ tags: [ drought,stress,drought stress,salt,cold stress,salt stress,cold,height,p
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,salt,cold stress,salt stress,cold,height,plant height
 
 ## Sequences:

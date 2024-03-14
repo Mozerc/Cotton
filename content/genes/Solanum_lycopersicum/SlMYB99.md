@@ -28,7 +28,7 @@ tags: [ development,auxin,drought,tolerance,drought tolerance,auxin biosynthesis
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,drought,tolerance,drought tolerance,auxin biosynthesis,abscisic acid,abscisic acid biosynthesis
 
 ## Sequences:

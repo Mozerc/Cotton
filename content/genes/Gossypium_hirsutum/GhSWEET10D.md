@@ -30,7 +30,7 @@ tags: [ shoot,transporter,flowering time,sucrose,flowering,sucrose transporter ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 shoot,transporter,flowering time,sucrose,flowering,sucrose transporter
 
 ## Sequences:

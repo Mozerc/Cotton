@@ -33,7 +33,7 @@ tags: [ development,auxin,seed,yield,endosperm,seed weight,seed size,seed develo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,seed,yield,endosperm,seed weight,seed size,seed development,endosperm development
 
 ## Sequences:

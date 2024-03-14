@@ -30,7 +30,7 @@ tags: [ leaf,brassinosteroid,architecture,leaf angle ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,brassinosteroid,architecture,leaf angle
 
 ## Sequences:

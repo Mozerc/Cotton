@@ -28,7 +28,7 @@ tags: [ heading date,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 heading date,flowering
 
 ## Sequences:

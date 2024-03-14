@@ -28,7 +28,7 @@ tags: [ stress,abiotic stress,stress response,abiotic stress response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,abiotic stress,stress response,abiotic stress response
 
 ## Sequences:

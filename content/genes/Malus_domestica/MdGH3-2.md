@@ -30,7 +30,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,drought tolerance,str
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,drought resistance,am symbiosis,symbiosis,am colonization
 
 ## Sequences:

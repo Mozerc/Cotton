@@ -28,7 +28,7 @@ tags: [ flower,aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flower,aba
 
 ## Sequences:

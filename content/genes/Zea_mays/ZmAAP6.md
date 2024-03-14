@@ -30,7 +30,7 @@ tags: [ quality,endosperm,nutritional quality ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 quality,endosperm,nutritional quality
 
 ## Sequences:

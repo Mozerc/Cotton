@@ -29,7 +29,7 @@ tags: [ gibberellin,vegetative,ga,ga biosynthetic,ga biosynthesis,gibberellin bi
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 gibberellin,vegetative,ga,ga biosynthetic,ga biosynthesis,gibberellin biosynthesis
 
 ## Sequences:

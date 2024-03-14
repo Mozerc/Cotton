@@ -30,7 +30,7 @@ tags: [ stem,growth,shoot,domestication,floral,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,growth,shoot,domestication,floral,flowering
 
 ## Sequences:

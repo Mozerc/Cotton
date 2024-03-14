@@ -28,7 +28,7 @@ tags: [ root,seedling,lateral root ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,seedling,lateral root
 
 ## Sequences:

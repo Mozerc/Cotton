@@ -29,7 +29,7 @@ tags: [ root,shoot,stress,abiotic stress,architecture,plant architecture,water l
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,stress,abiotic stress,architecture,plant architecture,water loss,stress response,node,root architecture,shoot architecture,abiotic stress response
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ cell death,meristem,axillary meristem,programmed cell death ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell death,meristem,axillary meristem,programmed cell death
 
 ## Sequences:

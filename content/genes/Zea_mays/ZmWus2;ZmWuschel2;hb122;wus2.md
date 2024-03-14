@@ -29,7 +29,7 @@ tags: [ shoot,somatic embryogenesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot,somatic embryogenesis
 
 ## Sequences:

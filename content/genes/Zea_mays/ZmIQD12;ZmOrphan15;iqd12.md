@@ -28,7 +28,7 @@ tags: [ drought,stress,drought stress,embryo ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,embryo
 
 ## Sequences:

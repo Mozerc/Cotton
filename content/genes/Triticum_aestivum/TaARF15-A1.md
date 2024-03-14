@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,senescence,auxin,auxin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,auxin,auxin response
 
 ## Sequences:

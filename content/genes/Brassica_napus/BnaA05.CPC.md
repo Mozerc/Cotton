@@ -31,7 +31,7 @@ tags: [ root,development,root development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,development,root development
 
 ## Sequences:

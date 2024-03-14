@@ -32,7 +32,7 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,amino acid transpo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,atpase,transporter,cadmium,cadmium accumulation,amino acid transporter,heavy metal
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ flower,nucleus ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flower,nucleus
 
 ## Sequences:

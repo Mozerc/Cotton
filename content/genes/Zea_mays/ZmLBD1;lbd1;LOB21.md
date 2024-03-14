@@ -28,7 +28,7 @@ tags: [ root,development,stress,root development,callus,phosphorus,callus format
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,stress,root development,callus,phosphorus,callus formation
 
 ## Sequences:

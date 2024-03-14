@@ -28,7 +28,7 @@ tags: [ seedlings,root,growth,drought,tolerance,drought tolerance,root growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,root,growth,drought,tolerance,drought tolerance,root growth
 
 ## Sequences:

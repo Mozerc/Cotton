@@ -29,7 +29,7 @@ tags: [ seed,seed-setting ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,seed-setting
 
 ## Sequences:

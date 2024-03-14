@@ -30,7 +30,7 @@ tags: [ transcription factor,fertility,endosperm,height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,fertility,endosperm,height
 
 ## Sequences:

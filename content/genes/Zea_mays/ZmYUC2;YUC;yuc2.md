@@ -30,7 +30,7 @@ tags: [ gravitropic response,root,auxin,resistance,breeding,auxin response,auxin
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 gravitropic response,root,auxin,resistance,breeding,auxin response,auxin biosynthesis,lodging,lodging resistance,resistant
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ temperature,stress,tolerance,stress tolerance,high-temperature tolerance
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 temperature,stress,tolerance,stress tolerance,high-temperature tolerance
 
 ## Sequences:

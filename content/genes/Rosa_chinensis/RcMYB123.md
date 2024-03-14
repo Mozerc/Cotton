@@ -29,7 +29,7 @@ tags: [ ja,immunity, ja  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ja,immunity, ja 
 
 ## Sequences:

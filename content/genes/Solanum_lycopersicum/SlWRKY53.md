@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,senescence,chlorophyll,transcription regulator ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,chlorophyll,transcription regulator
 
 ## Sequences:

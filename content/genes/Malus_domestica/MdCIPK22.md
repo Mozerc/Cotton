@@ -30,7 +30,7 @@ tags: [ aba,aba sensitivity ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 aba,aba sensitivity
 
 ## Sequences:

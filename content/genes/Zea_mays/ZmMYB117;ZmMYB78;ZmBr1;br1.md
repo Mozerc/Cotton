@@ -29,7 +29,7 @@ tags: [ cell wall,cell elongation,cell cycle,internode elongation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell wall,cell elongation,cell cycle,internode elongation
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ resistance,drought,stress,drought stress,drought resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,stress,drought stress,drought resistance
 
 ## Sequences:

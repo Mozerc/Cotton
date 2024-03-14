@@ -29,7 +29,7 @@ tags: [ development,auxin,vegetative,meristem,inflorescence,reproductive,auxin b
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,vegetative,meristem,inflorescence,reproductive,auxin biosynthesis,reproductive development,tryptophan aminotransferase,axillary meristem,inflorescence development
 
 ## Sequences:

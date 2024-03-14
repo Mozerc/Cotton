@@ -30,7 +30,7 @@ tags: [ resistance,drought,lignin,lignin biosynthesis,drought resistance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,lignin,lignin biosynthesis,drought resistance
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ transcription factor,growth,auxin,auxin biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,growth,auxin,auxin biosynthesis
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ lignin,lignin biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 lignin,lignin biosynthesis
 
 ## Sequences:

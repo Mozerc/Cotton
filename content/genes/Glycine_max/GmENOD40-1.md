@@ -30,7 +30,7 @@ tags: [ signaling pathway gene ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 signaling pathway gene
 
 ## Sequences:

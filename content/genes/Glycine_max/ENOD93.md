@@ -30,7 +30,7 @@ tags: [ ethylene,iron,ethylene response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ethylene,iron,ethylene response
 
 ## Sequences:

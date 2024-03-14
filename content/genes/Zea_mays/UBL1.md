@@ -30,7 +30,7 @@ tags: [ development,seedling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seedling
 
 ## Sequences:

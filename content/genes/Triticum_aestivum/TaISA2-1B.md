@@ -28,7 +28,7 @@ tags: [ starch,phosphate ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,phosphate
 
 ## Sequences:

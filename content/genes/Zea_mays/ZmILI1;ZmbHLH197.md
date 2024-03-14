@@ -33,7 +33,7 @@ tags: [ leaf,transcription factor,development,leaf development,transcription reg
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,development,leaf development,transcription regulator,leaf angle
 
 ## Sequences:

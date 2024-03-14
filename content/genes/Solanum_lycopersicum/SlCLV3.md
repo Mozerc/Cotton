@@ -29,7 +29,7 @@ tags: [ auxin,ga ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,ga
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ melatonin,methyltransferase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 melatonin,methyltransferase
 
 ## Sequences:

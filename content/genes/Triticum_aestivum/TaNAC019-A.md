@@ -29,7 +29,7 @@ tags: [ starch,quality,starch accumulation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 starch,quality,starch accumulation
 
 ## Sequences:

@@ -34,7 +34,7 @@ tags: [ drought,stress,drought stress,aba,stomatal ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,aba,stomatal
 
 ## Sequences:

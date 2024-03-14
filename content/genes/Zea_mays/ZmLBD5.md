@@ -30,7 +30,7 @@ tags: [ growth,resistance,drought,seedling,tolerance,drought tolerance,breeding,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,resistance,drought,seedling,tolerance,drought tolerance,breeding,abscisic acid,drought resistance,seedling growth
 
 ## Sequences:

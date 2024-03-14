@@ -30,7 +30,7 @@ tags: [ stress,tolerance,aba,stress tolerance,sugar,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,aba,stress tolerance,sugar,flowering time,flowering
 
 ## Sequences:

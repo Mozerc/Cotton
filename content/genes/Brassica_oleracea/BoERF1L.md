@@ -31,7 +31,7 @@ tags: [ fertility,ethylene,male fertility,ethylene response ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 fertility,ethylene,male fertility,ethylene response
 
 ## Sequences:

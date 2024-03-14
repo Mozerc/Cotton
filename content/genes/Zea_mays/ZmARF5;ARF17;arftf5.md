@@ -28,7 +28,7 @@ tags: [ auxin,seed,seed germination,auxin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 auxin,seed,seed germination,auxin response
 
 ## Sequences:

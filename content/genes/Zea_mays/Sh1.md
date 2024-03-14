@@ -34,7 +34,7 @@ tags: [ seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase
 
 ## Sequences:

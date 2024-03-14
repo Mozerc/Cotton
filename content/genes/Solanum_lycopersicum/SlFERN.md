@@ -28,7 +28,7 @@ tags: [ r protein ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 r protein
 
 ## Sequences:

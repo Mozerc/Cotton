@@ -27,7 +27,7 @@ tags: [ leaf,stomata,epidermis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stomata,epidermis
 
 ## Sequences:

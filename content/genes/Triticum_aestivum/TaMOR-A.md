@@ -31,7 +31,7 @@ tags: [ root,grain,auxin,grain yield,yield,root initiation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,grain,auxin,grain yield,yield,root initiation
 
 ## Sequences:

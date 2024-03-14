@@ -29,7 +29,7 @@ tags: [ stem,cell wall,secondary cell wall,stem strength ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stem,cell wall,secondary cell wall,stem strength
 
 ## Sequences:

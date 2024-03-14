@@ -29,7 +29,7 @@ tags: [ seedlings,resistance,homeostasis,dwarf,resistant ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,resistance,homeostasis,dwarf,resistant
 
 ## Sequences:

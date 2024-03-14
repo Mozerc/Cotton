@@ -30,7 +30,7 @@ tags: [ seedlings,development,resistance,drought,stress,drought stress,salinity,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seedlings,development,resistance,drought,stress,drought stress,salinity,tolerance,drought tolerance,stress tolerance,breeding,salinity stress,drought resistance
 
 ## Sequences:

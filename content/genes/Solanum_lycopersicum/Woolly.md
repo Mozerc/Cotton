@@ -28,7 +28,7 @@ tags: [ cuticular wax biosynthesis,wax biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cuticular wax biosynthesis,wax biosynthesis
 
 ## Sequences:

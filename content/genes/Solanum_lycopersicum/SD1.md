@@ -30,7 +30,7 @@ tags: [ stem,development,kinase,protein kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,development,kinase,protein kinase
 
 ## Sequences:

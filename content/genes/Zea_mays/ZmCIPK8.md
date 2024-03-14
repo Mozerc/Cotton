@@ -29,7 +29,7 @@ tags: [ kinase,drought,stress,drought stress,abiotic stress,protein kinase,stres
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,drought,stress,drought stress,abiotic stress,protein kinase,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:

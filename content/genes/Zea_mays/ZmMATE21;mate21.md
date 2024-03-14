@@ -28,7 +28,7 @@ tags: [ detoxification,herbicide ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 detoxification,herbicide
 
 ## Sequences:

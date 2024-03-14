@@ -34,7 +34,7 @@ tags: [ leaf,transcription factor,brassinosteroid,domestication,transcription re
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,brassinosteroid,domestication,transcription regulator,leaf angle
 
 ## Sequences:

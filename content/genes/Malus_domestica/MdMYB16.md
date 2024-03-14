@@ -30,7 +30,7 @@ tags: [ homeostasis,lignin,lignin biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 homeostasis,lignin,lignin biosynthesis
 
 ## Sequences:

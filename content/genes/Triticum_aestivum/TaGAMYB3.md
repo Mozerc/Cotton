@@ -29,7 +29,7 @@ tags: [ leaf,grain,grain length,grain yield,yield,architecture,plant architectur
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,grain,grain length,grain yield,yield,architecture,plant architecture
 
 ## Sequences:

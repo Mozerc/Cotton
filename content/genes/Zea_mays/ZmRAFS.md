@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,salinity,tolerance,cold tolerance,cold str
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,salinity,tolerance,cold tolerance,cold stress,drought tolerance,cold,stress tolerance,salinity stress,sucrose,heat tolerance,heat stress
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ temperature,low-temperature ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,low-temperature
 
 ## Sequences:

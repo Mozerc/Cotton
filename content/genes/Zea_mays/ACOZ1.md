@@ -29,7 +29,7 @@ tags: [ meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination
 
 ## Sequences:

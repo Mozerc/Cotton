@@ -31,7 +31,7 @@ tags: [ drought,tolerance,aba,drought tolerance,stomatal,drought response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,aba,drought tolerance,stomatal,drought response
 
 ## Sequences:

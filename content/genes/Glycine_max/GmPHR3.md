@@ -29,7 +29,7 @@ tags: [ stress,transporter,stress response,phosphorus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,transporter,stress response,phosphorus
 
 ## Sequences:

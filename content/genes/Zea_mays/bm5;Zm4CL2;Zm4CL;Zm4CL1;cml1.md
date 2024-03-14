@@ -29,7 +29,7 @@ tags: [ cell wall,lignin,lignin biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell wall,lignin,lignin biosynthesis
 
 ## Sequences:

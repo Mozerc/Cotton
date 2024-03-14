@@ -29,7 +29,7 @@ tags: [ seed,vegetative ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,vegetative
 
 ## Sequences:

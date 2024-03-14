@@ -29,7 +29,7 @@ tags: [ homeostasis,iron,iron homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 homeostasis,iron,iron homeostasis
 
 ## Sequences:

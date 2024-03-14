@@ -31,7 +31,7 @@ tags: [ development,auxin,ga ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,auxin,ga
 
 ## Sequences:

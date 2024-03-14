@@ -29,7 +29,7 @@ tags: [ tiller,stems,tiller number,tiller bud outgrowth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tiller,stems,tiller number,tiller bud outgrowth
 
 ## Sequences:

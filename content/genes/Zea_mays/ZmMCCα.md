@@ -30,7 +30,7 @@ tags: [ seed,mitochondria,tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,mitochondria,tolerance
 
 ## Sequences:

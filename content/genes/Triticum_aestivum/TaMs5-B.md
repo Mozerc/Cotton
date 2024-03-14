@@ -28,7 +28,7 @@ tags: [ sterility,male sterility ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 sterility,male sterility
 
 ## Sequences:

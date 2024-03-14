@@ -29,7 +29,7 @@ tags: [ melatonin,melatonin biosynthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 melatonin,melatonin biosynthesis
 
 ## Sequences:

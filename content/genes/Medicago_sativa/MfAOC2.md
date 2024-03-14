@@ -29,7 +29,7 @@ tags: [ resistance,ja,defense,tolerance,cold tolerance,cold,pathogen,ja biosynth
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,ja,defense,tolerance,cold tolerance,cold,pathogen,ja biosynthesis, ja ,antioxidant defense,pathogen resistance
 
 ## Sequences:

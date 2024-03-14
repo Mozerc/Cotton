@@ -28,7 +28,7 @@ tags: [ grain,blight ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,blight
 
 ## Sequences:

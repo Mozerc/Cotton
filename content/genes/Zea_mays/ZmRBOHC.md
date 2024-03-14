@@ -30,7 +30,7 @@ tags: [ resistance,drought,stomatal,drought resistance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,drought,stomatal,drought resistance
 
 ## Sequences:

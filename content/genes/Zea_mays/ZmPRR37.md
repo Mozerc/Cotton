@@ -31,7 +31,7 @@ tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,fl
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,flowering,stress response
 
 ## Sequences:

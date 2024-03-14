@@ -29,7 +29,7 @@ tags: [ cell wall ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 cell wall
 
 ## Sequences:

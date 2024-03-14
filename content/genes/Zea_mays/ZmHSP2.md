@@ -29,7 +29,7 @@ tags: [ tolerance,cold tolerance,cold,breeding ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 tolerance,cold tolerance,cold,breeding
 
 ## Sequences:

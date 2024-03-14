@@ -29,7 +29,7 @@ tags: [ immunity,plant immunity ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 immunity,plant immunity
 
 ## Sequences:

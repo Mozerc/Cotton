@@ -31,7 +31,7 @@ tags: [ root,growth,stress,tolerance,abiotic stress,aba,stress tolerance,root gr
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 root,growth,stress,tolerance,abiotic stress,aba,stress tolerance,root growth,abscisic acid,adventitious root, aba 
 
 ## Sequences:

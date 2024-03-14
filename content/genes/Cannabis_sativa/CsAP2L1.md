@@ -31,7 +31,7 @@ tags: [ transcriptional activator,transcriptional repressor ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcriptional activator,transcriptional repressor
 
 ## Sequences:

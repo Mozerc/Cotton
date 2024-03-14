@@ -30,7 +30,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,salt,tolerance,salt tolerance,cell wall,vascular development,lignin,secondary cell wall
 
 ## Sequences:

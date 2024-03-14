@@ -29,7 +29,7 @@ tags: [ kinase,defense response,defense,protein kinase,receptor kinase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 kinase,defense response,defense,protein kinase,receptor kinase
 
 ## Sequences:

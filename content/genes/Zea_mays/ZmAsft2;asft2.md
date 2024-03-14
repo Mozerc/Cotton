@@ -28,7 +28,7 @@ tags: [ cell wall,stomatal,cellulose,stomatal density ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 cell wall,stomatal,cellulose,stomatal density
 
 ## Sequences:

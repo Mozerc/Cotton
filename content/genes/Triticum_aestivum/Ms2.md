@@ -30,7 +30,7 @@ tags: [ anther,sterility,male sterility ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 anther,sterility,male sterility
 
 ## Sequences:

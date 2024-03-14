@@ -29,7 +29,7 @@ tags: [ drought,seedling,tolerance,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,seedling,tolerance,drought tolerance
 
 ## Sequences:

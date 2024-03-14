@@ -30,7 +30,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,ethylene,cold,stress toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,cold tolerance,cold stress,ethylene,cold,stress tolerance
 
 ## Sequences:

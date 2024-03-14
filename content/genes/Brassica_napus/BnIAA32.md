@@ -28,7 +28,7 @@ tags: [ iaa ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 iaa
 
 ## Sequences:

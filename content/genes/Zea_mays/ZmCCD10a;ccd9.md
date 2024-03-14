@@ -30,7 +30,7 @@ tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,tolerance,biomass,phosphate,phosphorus,pi
 
 ## Sequences:

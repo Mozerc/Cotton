@@ -29,7 +29,7 @@ tags: [ grain,grain length,grain size,panicle,grain number,grain yield,yield,pan
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,grain length,grain size,panicle,grain number,grain yield,yield,panicle size,grain weight,ubiquitin,panicle length
 
 ## Sequences:

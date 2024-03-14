@@ -32,7 +32,7 @@ tags: [ development,seed,nucleus,endosperm,seed development,endosperm developmen
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,nucleus,endosperm,seed development,endosperm development,helicase
 
 ## Sequences:

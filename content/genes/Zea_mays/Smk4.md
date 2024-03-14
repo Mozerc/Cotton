@@ -30,7 +30,7 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,plant development,seed,mitochondria,plant growth,seed development,seed growth
 
 ## Sequences:

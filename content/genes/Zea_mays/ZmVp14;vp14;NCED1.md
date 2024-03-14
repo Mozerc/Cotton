@@ -29,7 +29,7 @@ tags: [ leaf,stress,salinity,aba,salinity stress,stomatal,aba biosynthesis,osmot
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stress,salinity,aba,salinity stress,stomatal,aba biosynthesis,osmotic stress
 
 ## Sequences:

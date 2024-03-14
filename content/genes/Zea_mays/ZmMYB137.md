@@ -28,7 +28,7 @@ tags: [ drought,stress,drought stress,pi ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,pi
 
 ## Sequences:

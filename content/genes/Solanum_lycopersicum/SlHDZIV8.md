@@ -30,7 +30,7 @@ tags: [ transcription factor,epidermal cell morphogenesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,epidermal cell morphogenesis
 
 ## Sequences:

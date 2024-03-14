@@ -28,7 +28,7 @@ tags: [ stress,oxidative stress,oxidative ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,oxidative stress,oxidative
 
 ## Sequences:

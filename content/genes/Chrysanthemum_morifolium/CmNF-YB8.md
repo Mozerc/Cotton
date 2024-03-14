@@ -29,7 +29,7 @@ tags: [ leaf,resistance,drought,stomatal,cuticle,drought resistance,epidermis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,resistance,drought,stomatal,cuticle,drought resistance,epidermis
 
 ## Sequences:

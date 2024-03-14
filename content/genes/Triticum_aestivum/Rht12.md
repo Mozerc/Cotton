@@ -29,7 +29,7 @@ tags: [ stem,ga,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,ga,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation
 
 ## Sequences:

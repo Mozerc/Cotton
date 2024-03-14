@@ -29,7 +29,7 @@ tags: [ development,seed,cell wall,seed development,cell wall synthesis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,cell wall,seed development,cell wall synthesis
 
 ## Sequences:

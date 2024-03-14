@@ -29,7 +29,7 @@ tags: [ ja,sa,defence,defence response,ja signalling ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ja,sa,defence,defence response,ja signalling
 
 ## Sequences:

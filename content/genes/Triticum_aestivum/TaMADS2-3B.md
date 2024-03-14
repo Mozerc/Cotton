@@ -27,7 +27,7 @@ tags: [ transcription factor,phosphate,phosphate starvation ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,phosphate,phosphate starvation
 
 ## Sequences:

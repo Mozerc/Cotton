@@ -29,7 +29,7 @@ tags: [ stem,root,auxin,ja,jasmonic,jasmonic acid ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stem,root,auxin,ja,jasmonic,jasmonic acid
 
 ## Sequences:

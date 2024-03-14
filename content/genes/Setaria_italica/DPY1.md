@@ -29,7 +29,7 @@ tags: [ leaf,br,br signaling, br  ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 leaf,br,br signaling, br 
 
 ## Sequences:

@@ -31,7 +31,7 @@ tags: [ wax biosynthesis ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 wax biosynthesis
 
 ## Sequences:

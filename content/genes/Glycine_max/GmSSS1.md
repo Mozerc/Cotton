@@ -30,7 +30,7 @@ tags: [ seed,seed weight,o-glcnac transferase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,seed weight,o-glcnac transferase
 
 ## Sequences:

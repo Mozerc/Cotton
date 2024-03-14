@@ -31,7 +31,7 @@ tags: [ transcription factor,development,breeding,embryo,embryo development ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,breeding,embryo,embryo development
 
 ## Sequences:

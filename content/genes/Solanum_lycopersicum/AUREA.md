@@ -28,7 +28,7 @@ tags: [ leaf,stems ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stems
 
 ## Sequences:

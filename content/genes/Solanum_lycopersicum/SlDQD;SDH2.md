@@ -29,7 +29,7 @@ tags: [ resistance,flavonoid,flavonoid biosynthesis,flavonoid metabolism ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,flavonoid,flavonoid biosynthesis,flavonoid metabolism
 
 ## Sequences:

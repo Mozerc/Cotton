@@ -29,7 +29,7 @@ tags: [ seed,yield,architecture,plant architecture,flowering ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 seed,yield,architecture,plant architecture,flowering
 
 ## Sequences:

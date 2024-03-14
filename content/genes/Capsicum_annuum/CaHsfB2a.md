@@ -28,7 +28,7 @@ tags: [ tolerance,immunity,plant immunity ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 tolerance,immunity,plant immunity
 
 ## Sequences:

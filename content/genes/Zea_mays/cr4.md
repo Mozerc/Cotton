@@ -28,7 +28,7 @@ tags: [ leaf,development,kinase,leaf development,shoot,receptor kinase,epidermis
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,kinase,leaf development,shoot,receptor kinase,epidermis
 
 ## Sequences:

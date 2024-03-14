@@ -30,7 +30,7 @@ tags: [ drought,photosynthesis,tolerance,drought tolerance ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,photosynthesis,tolerance,drought tolerance
 
 ## Sequences:

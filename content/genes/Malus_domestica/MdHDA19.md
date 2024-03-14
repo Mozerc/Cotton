@@ -28,7 +28,7 @@ tags: [ ethylene,ethylene response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ethylene,ethylene response
 
 ## Sequences:

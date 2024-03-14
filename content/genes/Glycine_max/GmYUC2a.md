@@ -30,7 +30,7 @@ tags: [ root,growth,development,auxin,root development,root growth,auxin biosynt
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,auxin,root development,root growth,auxin biosynthesis
 
 ## Sequences:

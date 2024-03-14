@@ -29,7 +29,7 @@ tags: [ flavonoid,flavonoid biosynthesis,flavone ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 flavonoid,flavonoid biosynthesis,flavone
 
 ## Sequences:

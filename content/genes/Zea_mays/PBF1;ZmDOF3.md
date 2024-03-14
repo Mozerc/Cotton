@@ -31,7 +31,7 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,transcription factor,development,starch,endosperm,endosperm development,starch biosynthesis,starch accumulation
 
 ## Sequences:

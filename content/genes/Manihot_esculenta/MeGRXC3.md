@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,drought stress ,homeostasis,stomatal,catal
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,drought stress ,homeostasis,stomatal,catalase
 
 ## Sequences:

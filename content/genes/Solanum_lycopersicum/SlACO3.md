@@ -30,7 +30,7 @@ tags: [ ethylene ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ethylene
 
 ## Sequences:

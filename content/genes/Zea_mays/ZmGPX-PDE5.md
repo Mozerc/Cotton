@@ -29,7 +29,7 @@ tags: [ phosphate ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 phosphate
 
 ## Sequences:

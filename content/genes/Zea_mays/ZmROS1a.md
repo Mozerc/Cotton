@@ -30,7 +30,7 @@ tags: [ endosperm ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 endosperm
 
 ## Sequences:

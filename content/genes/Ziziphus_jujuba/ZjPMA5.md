@@ -29,7 +29,7 @@ tags: [ stress,atpase,salt,salt stress,plasma membrane ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,atpase,salt,salt stress,plasma membrane
 
 ## Sequences:

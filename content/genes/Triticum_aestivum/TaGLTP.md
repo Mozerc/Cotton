@@ -29,7 +29,7 @@ tags: [ ubiquitin ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 ubiquitin
 
 ## Sequences:

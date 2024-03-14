@@ -31,7 +31,7 @@ tags: [ nitrogen,transcription factor,root ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,transcription factor,root
 
 ## Sequences:

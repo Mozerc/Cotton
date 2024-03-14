@@ -29,7 +29,7 @@ tags: [ drought,tolerance,drought tolerance,breeding,catalase ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,tolerance,drought tolerance,breeding,catalase
 
 ## Sequences:

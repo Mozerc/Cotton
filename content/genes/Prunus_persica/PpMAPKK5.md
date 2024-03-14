@@ -31,7 +31,7 @@ tags: [ development,resistance,disease,disease resistance,salicylic acid,cell de
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,resistance,disease,disease resistance,salicylic acid,cell death,r protein,sa, sa ,disease development
 
 ## Sequences:

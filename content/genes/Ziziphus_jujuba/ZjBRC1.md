@@ -29,7 +29,7 @@ tags: [ transcription factor,auxin,callus ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,auxin,callus
 
 ## Sequences:

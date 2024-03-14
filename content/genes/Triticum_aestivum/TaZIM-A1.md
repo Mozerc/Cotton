@@ -29,7 +29,7 @@ tags: [ heading date,flowering time,flowering,heading time ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 heading date,flowering time,flowering,heading time
 
 ## Sequences:

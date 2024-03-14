@@ -29,7 +29,7 @@ tags: [ leaf,transcription factor,root,kinase,stress,nucleus,aba,embryo,protein 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,root,kinase,stress,nucleus,aba,embryo,protein kinase,osmotic stress
 
 ## Sequences:

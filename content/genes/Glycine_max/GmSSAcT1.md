@@ -28,7 +28,7 @@ tags: [ breeding,detoxification ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 breeding,detoxification
 
 ## Sequences:

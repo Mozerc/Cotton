@@ -28,7 +28,7 @@ tags: [ temperature,stress,abiotic stress,stress response,abiotic stress respons
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 temperature,stress,abiotic stress,stress response,abiotic stress response
 
 ## Sequences:

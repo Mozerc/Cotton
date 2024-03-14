@@ -30,7 +30,7 @@ tags: [ xylem,development,drought,stress,drought stress,breeding,cell wall,flowe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 xylem,development,drought,stress,drought stress,breeding,cell wall,flowering,heat stress
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ growth,development,auxin,mitochondria,inflorescence,inflorescence develo
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,auxin,mitochondria,inflorescence,inflorescence development
 
 ## Sequences:

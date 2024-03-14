@@ -28,7 +28,7 @@ tags: [ growth,development,plant development,stress,plant growth,stress response
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,plant development,stress,plant growth,stress response,phosphatase,protein phosphatase
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ atpase,callus ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 atpase,callus
 
 ## Sequences:

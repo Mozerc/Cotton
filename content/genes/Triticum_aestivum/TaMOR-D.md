@@ -32,7 +32,7 @@ tags: [ root,development,grain,auxin,grain yield,yield,root development,root ini
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,development,grain,auxin,grain yield,yield,root development,root initiation,lateral root
 
 ## Sequences:

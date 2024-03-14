@@ -29,7 +29,7 @@ tags: [ aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 aba
 
 ## Sequences:

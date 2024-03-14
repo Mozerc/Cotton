@@ -28,7 +28,7 @@ tags: [ architecture,height,plant height,flowering time,plant architecture,flowe
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 architecture,height,plant height,flowering time,plant architecture,flowering
 
 ## Sequences:

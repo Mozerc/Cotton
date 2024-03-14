@@ -34,7 +34,7 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,transcriptional regulator,transcription regulator,stress response
 
 ## Sequences:

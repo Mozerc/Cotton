@@ -30,7 +30,7 @@ tags: [ development,shoot,meristem,branching,shoot apical meristem,axillary meri
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,shoot,meristem,branching,shoot apical meristem,axillary meristem,homeobox gene,shoot meristem
 
 ## Sequences:

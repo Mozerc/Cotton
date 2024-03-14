@@ -29,7 +29,7 @@ tags: [ fertility,homeostasis,male fertility,autophagy ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,homeostasis,male fertility,autophagy
 
 ## Sequences:

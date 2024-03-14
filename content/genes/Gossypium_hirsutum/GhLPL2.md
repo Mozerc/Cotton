@@ -29,7 +29,7 @@ tags: [ growth,resistance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,resistance
 
 ## Sequences:

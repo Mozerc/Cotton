@@ -31,7 +31,7 @@ tags: [ flowering time,flowering,vernalization ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 flowering time,flowering,vernalization
 
 ## Sequences:

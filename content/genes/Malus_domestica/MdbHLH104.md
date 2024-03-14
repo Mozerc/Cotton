@@ -30,7 +30,7 @@ tags: [ atpase,homeostasis,plasma membrane,iron,fe,iron homeostasis,fe homeostas
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 atpase,homeostasis,plasma membrane,iron,fe,iron homeostasis,fe homeostasis
 
 ## Sequences:

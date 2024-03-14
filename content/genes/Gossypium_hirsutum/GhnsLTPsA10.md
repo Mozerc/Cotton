@@ -31,7 +31,7 @@ tags: [ resistance,stress,disease,disease resistance,insect,pathogen,insect resi
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,disease,disease resistance,insect,pathogen,insect resistance,pathogen resistance
 
 ## Sequences:

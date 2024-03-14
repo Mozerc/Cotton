@@ -30,7 +30,7 @@ tags: [ nitrogen,root,growth,development,auxin,plant development,seed,root devel
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,root,growth,development,auxin,plant development,seed,root development,root elongation,breeding,root growth,auxin response,plant growth,auxin transport,seed weight,height,plant height,seed size,sugar,vascular development,seed development,nitrate,root length,seed growth,sugar transport,seed length
 
 ## Sequences:

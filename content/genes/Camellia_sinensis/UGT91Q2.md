@@ -31,7 +31,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,glucos
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,glucosyltransferase
 
 ## Sequences:

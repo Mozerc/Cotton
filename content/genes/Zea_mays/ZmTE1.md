@@ -29,7 +29,7 @@ tags: [ growth,cell division,meristem,plant growth,cell elongation,height,plant 
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,cell division,meristem,plant growth,cell elongation,height,plant height,intercalary meristem,internode elongation
 
 ## Sequences:

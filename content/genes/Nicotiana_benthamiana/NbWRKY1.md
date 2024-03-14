@@ -29,7 +29,7 @@ tags: [ transcription factor,dwarf ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,dwarf
 
 ## Sequences:

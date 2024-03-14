@@ -31,7 +31,7 @@ tags: [ development,auxin,fertility,sterility,reproductive,cell wall,reproductiv
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 development,auxin,fertility,sterility,reproductive,cell wall,reproductive development,female sterility,carpel differentiation
 
 ## Sequences:

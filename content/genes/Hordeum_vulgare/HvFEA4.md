@@ -29,7 +29,7 @@ tags: [ transcription factor,development,reproductive,reproductive development,p
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,development,reproductive,reproductive development,phytohormone
 
 ## Sequences:

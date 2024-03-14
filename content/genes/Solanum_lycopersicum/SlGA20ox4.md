@@ -30,7 +30,7 @@ tags: [ dwarf,height,plant height ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 dwarf,height,plant height
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ stress,tolerance,stress tolerance,stress response,heat tolerance,heat st
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,tolerance,stress tolerance,stress response,heat tolerance,heat stress,heat stress response
 
 ## Sequences:

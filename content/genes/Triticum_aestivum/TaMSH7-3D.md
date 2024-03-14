@@ -29,7 +29,7 @@ tags: [ fertility,pollen,meiotic,meiotic recombination,pollen fertility,recombin
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,pollen,meiotic,meiotic recombination,pollen fertility,recombination
 
 ## Sequences:

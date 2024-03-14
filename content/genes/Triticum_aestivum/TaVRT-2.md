@@ -28,7 +28,7 @@ tags: [ floral,flowering,vernalization ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 floral,flowering,vernalization
 
 ## Sequences:

@@ -28,7 +28,7 @@ tags: [ leaf,stress,aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,stress,aba
 
 ## Sequences:

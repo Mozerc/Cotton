@@ -30,7 +30,7 @@ tags: [ fertility,pollen,anther,sterility,tapetum,tapetum degeneration,cuticle,m
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 fertility,pollen,anther,sterility,tapetum,tapetum degeneration,cuticle,male sterility,male fertility,pollen fertility,pollen exine formation,pollen formation,cuticle formation
 
 ## Sequences:

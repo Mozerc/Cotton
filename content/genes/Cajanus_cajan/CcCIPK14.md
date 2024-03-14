@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,drought stress ,tolerance,drought toleranc
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,drought stress ,tolerance,drought tolerance,stress tolerance,flavonoid,flavonoid biosynthesis
 
 ## Sequences:

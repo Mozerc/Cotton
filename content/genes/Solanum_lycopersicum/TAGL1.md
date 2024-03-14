@@ -30,7 +30,7 @@ tags: [ transcription factor,chloroplast,development,chloroplast development,pla
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,chloroplast,development,chloroplast development,plastid
 
 ## Sequences:

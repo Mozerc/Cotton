@@ -32,7 +32,7 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,transcription factor,development,leaf development,leaf patterning
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ pollen,anther,transporter,cuticle,tapetal,pcd,pollen exine formation,pol
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 pollen,anther,transporter,cuticle,tapetal,pcd,pollen exine formation,pollen formation,cuticle formation
 
 ## Sequences:

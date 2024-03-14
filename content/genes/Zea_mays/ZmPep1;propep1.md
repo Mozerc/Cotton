@@ -29,7 +29,7 @@ tags: [ leaf,resistance,disease,disease resistance,blight,immunity,innate immuni
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,resistance,disease,disease resistance,blight,immunity,innate immunity,blight disease
 
 ## Sequences:

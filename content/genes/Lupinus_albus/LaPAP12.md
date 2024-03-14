@@ -29,7 +29,7 @@ tags: [ growth,plant growth ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 growth,plant growth
 
 ## Sequences:

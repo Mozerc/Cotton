@@ -32,7 +32,7 @@ tags: [ pollen,seed,plasma membrane ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 pollen,seed,plasma membrane
 
 ## Sequences:

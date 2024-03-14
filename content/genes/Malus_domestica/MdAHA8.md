@@ -30,7 +30,7 @@ tags: [ atpase,homeostasis,fe,fe homeostasis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 atpase,homeostasis,fe,fe homeostasis
 
 ## Sequences:

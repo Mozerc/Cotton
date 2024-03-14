@@ -30,7 +30,7 @@ tags: [ resistance,defense,sa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,defense,sa
 
 ## Sequences:

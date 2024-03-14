@@ -30,7 +30,7 @@ tags: [ shoot,flowering time,flowering ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 shoot,flowering time,flowering
 
 ## Sequences:

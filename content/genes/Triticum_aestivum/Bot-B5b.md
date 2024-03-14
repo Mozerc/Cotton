@@ -27,7 +27,7 @@ tags: [ transporter,boron transporter,boron ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transporter,boron transporter,boron
 
 ## Sequences:

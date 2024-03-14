@@ -29,7 +29,7 @@ tags: [ transcription factor,stress,cold stress,cold,stress response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stress,cold stress,cold,stress response
 
 ## Sequences:

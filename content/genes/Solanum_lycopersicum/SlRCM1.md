@@ -30,7 +30,7 @@ tags: [ chloroplast,development,chloroplast development,chlorophyll ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 chloroplast,development,chloroplast development,chlorophyll
 
 ## Sequences:

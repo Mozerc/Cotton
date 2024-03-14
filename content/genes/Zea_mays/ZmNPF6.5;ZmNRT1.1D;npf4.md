@@ -28,7 +28,7 @@ tags: [ root,shoot,nitrate ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,nitrate
 
 ## Sequences:

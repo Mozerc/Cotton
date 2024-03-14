@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,breeding,dwar
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,resistance,disease,disease resistance,breeding,dwarf
 
 ## Sequences:

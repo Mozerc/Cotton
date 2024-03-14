@@ -28,7 +28,7 @@ tags: [ root,growth,root growth,plant growth,sugar,epidermis ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,root growth,plant growth,sugar,epidermis
 
 ## Sequences:

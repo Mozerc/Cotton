@@ -30,7 +30,7 @@ tags: [ development,plant development,seedling,ethylene ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,plant development,seedling,ethylene
 
 ## Sequences:

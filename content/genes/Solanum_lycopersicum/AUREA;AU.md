@@ -30,7 +30,7 @@ tags: [ leaf,root,stems,chlorophyll,adventitious root,adventitious root formatio
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,root,stems,chlorophyll,adventitious root,adventitious root formation
 
 ## Sequences:

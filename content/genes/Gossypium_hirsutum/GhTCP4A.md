@@ -29,7 +29,7 @@ tags: [ transcription factor,cell elongation ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 transcription factor,cell elongation
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ root,growth,root initiation,root growth,root hair ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,root initiation,root growth,root hair
 
 ## Sequences:

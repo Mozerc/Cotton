@@ -32,7 +32,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,stomatal,water loss,stress response,drought stress response,protoplasts,drought response
 
 ## Sequences:

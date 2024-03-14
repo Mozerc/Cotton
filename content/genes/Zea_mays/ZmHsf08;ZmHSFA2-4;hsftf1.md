@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,salt,aba,salt stress,abscisic acid,salt se
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 drought,stress,drought stress,salt,aba,salt stress,abscisic acid,salt sensitivity,reactive oxygen species,drought sensitivity,stress response,drought stress response,drought response,aba sensitivity
 
 ## Sequences:

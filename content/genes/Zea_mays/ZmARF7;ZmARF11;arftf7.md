@@ -28,7 +28,7 @@ tags: [ transcription factor,auxin,auxin response ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,auxin,auxin response
 
 ## Sequences:

@@ -30,7 +30,7 @@ tags: [ stress,photosynthesis,photosystem,stress response,heat stress,heat stres
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 stress,photosynthesis,photosystem,stress response,heat stress,heat stress response,thermotolerance
 
 ## Sequences:

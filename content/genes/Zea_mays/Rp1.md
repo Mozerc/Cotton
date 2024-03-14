@@ -28,7 +28,7 @@ tags: [ resistance,disease,disease resistance,meiotic ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,disease,disease resistance,meiotic
 
 ## Sequences:

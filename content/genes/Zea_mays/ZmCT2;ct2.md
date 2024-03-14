@@ -29,7 +29,7 @@ tags: [ leaf,development,spikelet,leaf development,shoot,meristem,spikelet meris
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,spikelet,leaf development,shoot,meristem,spikelet meristem,inflorescence,spikelet number,spikelet development,leaf angle,inflorescence development,shoot meristem
 
 ## Sequences:

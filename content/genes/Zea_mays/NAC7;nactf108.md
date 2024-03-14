@@ -35,7 +35,7 @@ tags: [ nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynth
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynthesis,yield,vegetative,reproductive,biomass,phosphate
 
 ## Sequences:

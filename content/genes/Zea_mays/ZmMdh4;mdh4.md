@@ -37,7 +37,7 @@ tags: [ development,starch,mitochondria,endosperm,endosperm development,starch a
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,starch,mitochondria,endosperm,endosperm development,starch accumulation
 
 ## Sequences:

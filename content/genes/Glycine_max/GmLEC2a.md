@@ -31,7 +31,7 @@ tags: [ seed,starch,transporter ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,starch,transporter
 
 ## Sequences:

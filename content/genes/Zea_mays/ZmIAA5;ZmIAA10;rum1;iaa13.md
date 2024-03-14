@@ -29,7 +29,7 @@ tags: [ root,growth,development,seedling,root development,root growth,height,lat
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,growth,development,seedling,root development,root growth,height,lateral root,root length,seedling growth,root number,lateral root number,lateral root length
 
 ## Sequences:

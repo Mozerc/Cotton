@@ -29,7 +29,7 @@ tags: [ resistance,stress,transporter,stress response,al resistance ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,transporter,stress response,al resistance
 
 ## Sequences:

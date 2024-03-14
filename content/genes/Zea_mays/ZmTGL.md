@@ -31,7 +31,7 @@ tags: [ mitochondria,sa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 mitochondria,sa
 
 ## Sequences:

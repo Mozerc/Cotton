@@ -30,7 +30,7 @@ tags: [ development,flower,pollen,pollen development,pollen wall,cell wall,signa
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,flower,pollen,pollen development,pollen wall,cell wall,signal transduction,flower development,pollen formation
 
 ## Sequences:

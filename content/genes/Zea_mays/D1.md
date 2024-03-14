@@ -29,7 +29,7 @@ tags: [ root,gibberellin,ga,root number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,gibberellin,ga,root number
 
 ## Sequences:

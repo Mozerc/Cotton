@@ -30,7 +30,7 @@ tags: [ resistance,stress,abiotic stress,aba ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 resistance,stress,abiotic stress,aba
 
 ## Sequences:

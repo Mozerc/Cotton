@@ -33,7 +33,7 @@ tags: [ embryo,somatic embryogenesis,callus,homeobox gene ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 embryo,somatic embryogenesis,callus,homeobox gene
 
 ## Sequences:

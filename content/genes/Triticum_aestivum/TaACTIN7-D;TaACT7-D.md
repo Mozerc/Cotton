@@ -29,7 +29,7 @@ tags: [ grain,height,plant height,grain shape,phytohormone ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 grain,height,plant height,grain shape,phytohormone
 
 ## Sequences:

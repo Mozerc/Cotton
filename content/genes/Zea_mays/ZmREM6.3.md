@@ -29,7 +29,7 @@ tags: [ leaf,development,leaf development,resistance,disease,disease resistance,
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,development,leaf development,resistance,disease,disease resistance,blight,blight disease,disease development
 
 ## Sequences:

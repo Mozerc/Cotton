@@ -29,7 +29,7 @@ tags: [ ethylene,sucrose,phosphate,ethylene production,sucrose synthase ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 ethylene,sucrose,phosphate,ethylene production,sucrose synthase
 
 ## Sequences:

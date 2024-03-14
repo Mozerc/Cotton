@@ -27,7 +27,7 @@ tags: [ root,root number ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,root number
 
 ## Sequences:

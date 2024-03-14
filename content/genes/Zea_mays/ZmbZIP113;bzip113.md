@@ -34,7 +34,7 @@ tags: [ transcription factor,stem,temperature,sugar,resistant,sucrose,low-temper
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 transcription factor,stem,temperature,sugar,resistant,sucrose,low-temperature,sugar transport,sucrose transport
 
 ## Sequences:

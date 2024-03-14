@@ -28,7 +28,7 @@ tags: [ root,stress,root elongation,architecture,root architecture ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,stress,root elongation,architecture,root architecture
 
 ## Sequences:

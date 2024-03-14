@@ -32,7 +32,7 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeostasis,biomass,root length
 
 ## Sequences:

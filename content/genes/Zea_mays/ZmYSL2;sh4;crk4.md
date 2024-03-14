@@ -32,7 +32,7 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,starch,homeostasis,transporter,metal transport,embryo,endosperm,plasma membrane,endosperm development,fe,fe homeostasis,fe accumulation,embryo development,starch accumulation
 
 ## Sequences:

@@ -29,7 +29,7 @@ tags: [ growth,development,seedling,seedling growth ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 growth,development,seedling,seedling growth
 
 ## Sequences:

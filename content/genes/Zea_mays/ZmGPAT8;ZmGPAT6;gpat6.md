@@ -29,7 +29,7 @@ tags: [ development,seed,cold,seed development ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 development,seed,cold,seed development
 
 ## Sequences:

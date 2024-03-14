@@ -29,7 +29,7 @@ tags: [ auxin,floral ]
 ## Orthologs:
 
 
-## Keywords:
+## Function-related keywords:
 auxin,floral
 
 ## Sequences:

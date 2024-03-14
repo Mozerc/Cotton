@@ -30,7 +30,7 @@ tags: [ root,vegetative,inflorescence,reproductive,architecture,inflorescence ar
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 root,vegetative,inflorescence,reproductive,architecture,inflorescence architecture,root architecture
 
 ## Sequences:

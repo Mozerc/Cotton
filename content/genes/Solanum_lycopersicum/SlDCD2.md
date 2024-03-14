@@ -30,7 +30,7 @@ tags: [ leaf,leaf senescence,senescence,ethylene,chlorophyll,ethylene production
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 leaf,leaf senescence,senescence,ethylene,chlorophyll,ethylene production
 
 ## Sequences:

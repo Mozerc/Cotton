@@ -28,7 +28,7 @@ tags: [ vegetative,pathogen,sa ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 vegetative,pathogen,sa
 
 ## Sequences:

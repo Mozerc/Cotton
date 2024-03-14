@@ -28,7 +28,7 @@ tags: [ seed,seed weight,seed size,cell proliferation,organ size ]
 
 ## Orthologs:
 
-## Keywords:
+## Function-related keywords:
 seed,seed weight,seed size,cell proliferation,organ size
 
 ## Sequences:
