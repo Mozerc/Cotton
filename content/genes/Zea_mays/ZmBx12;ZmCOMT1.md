@@ -7,16 +7,19 @@ tags: [ drought,tolerance,drought tolerance ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb018630]()
+- **Gene ID:**	[Zm00001eb018630](https://www.maizegdb.org/gene_center/gene/Zm00001eb018630)
 - **Gene Symbol:** ZmBx12;ZmCOMT1
 - **Gene Name:** benzoxazinone synthesis12
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Comprehensive genetic and molecular studies reveal the roles and mechanisms of two hub genes,**ZmBx12** and ZmGLK44, in regulating maize metabolite biosynthesis and drought tolerance.
    - **ZmBx12** and ZmGLK44, for their role in regulating benzoxazinoids and tryptophan biosynthesis as well as maize drought tolerance via comprehensive genetic and molecular methods.
    - We further verified two hub candidate genes,**ZmBx12** and ZmGLK44, for their role in regulating benzoxazinoids and tryptophan biosynthesis as well as maize drought tolerance via comprehensive genetic and molecular methods. Our results provide novel insights into the genetic bases of metabolome-mediated drought adaptation in a crop.
+
+## Function-related keywords:
+[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
    - [Genomic basis underlying the metabolome-mediated drought adaptation of maize.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-021-02481-1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34488839](https://pubmed.ncbi.nlm.nih.gov/34488839/)
@@ -29,9 +32,6 @@ tags: [ drought,tolerance,drought tolerance ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-drought,tolerance,drought tolerance
 
 ## Sequences:
 - **CDS Sequence:**

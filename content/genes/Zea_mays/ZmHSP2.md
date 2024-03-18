@@ -7,15 +7,18 @@ tags: [ tolerance,cold tolerance,cold,breeding ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb002790]()
+- **Gene ID:**	[Zm00001eb002790](https://www.maizegdb.org/gene_center/gene/Zm00001eb002790)
 - **Gene Symbol:** ZmHSP2
 - **Gene Name:** 
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The key cold tolerance genes **ZmHSP2** and ZmPDIL2-2 were derived from related wild materials.
    - **ZmHSP2** by molecular genetic methods, and to develop molecular markers for marker-assisted selection breeding to expand the resource pool of germplasm for cold tolerance.
+
+## Function-related keywords:
+[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
    - [QTL Mapping and a Transcriptome Integrative Analysis Uncover the Candidate Genes That Control the Cold Tolerance of Maize Introgression Lines at the Seedling Stage.]( https://www.mdpi.com/1422-0067/24/3/2629)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032629](https://www.mdpi.com/1422-0067/24/3/2629)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768951](https://pubmed.ncbi.nlm.nih.gov/36768951/)
@@ -28,9 +31,6 @@ tags: [ tolerance,cold tolerance,cold,breeding ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-tolerance,cold tolerance,cold,breeding
 
 ## Sequences:
 - **CDS Sequence:**

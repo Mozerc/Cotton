@@ -7,17 +7,20 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb248990]()
+- **Gene ID:**	[Zm00001eb248990](https://www.maizegdb.org/gene_center/gene/Zm00001eb248990)
 - **Gene Symbol:** ZmYSL2;sh4;crk4
 - **Gene Name:** shrunken4
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Our study demonstrated that **ZmYSL2** had a pivotal role in mediating Fe distribution within the kernel and kernel development in maize.
    - We characterized a novel small kernel mutant yellow stripe like 2 (ysl2) in maize (Zea mays). **ZmYSL2** was predominantly expressed in developing endosperm and was found to encode a plasma membrane-localized metal–nicotianamine (NA) transporter **ZmYSL2**.
    - Analysis of transporter activity revealed **ZmYSL2**-mediated Fe transport from endosperm to embryo during kernel development. Dysfunction of **ZmYSL2** resulted in the imbalance of Fe homeostasis and abnormality of protein accumulation and starch deposition in the kernel.
    - Collectively, our study demonstrated that **ZmYSL2** had a pivotal role in mediating Fe distribution within the kernel and kernel development in maize.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[metal-transport](/tags/metal-transport/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[fe](/tags/fe/)&nbsp;,&nbsp;[fe-homeostasis](/tags/fe-homeostasis/)&nbsp;,&nbsp;[fe-accumulation](/tags/fe-accumulation/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [Maize YSL2 is required for iron distribution and development in kernels.]( https://academic.oup.com/jxb/article/71/19/5896/5873978?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa332](https://academic.oup.com/jxb/article/71/19/5896/5873978?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32687576](https://pubmed.ncbi.nlm.nih.gov/32687576/)
@@ -31,9 +34,6 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,starch,homeostasis,transporter,metal transport,embryo,endosperm,plasma membrane,endosperm development,fe,fe homeostasis,fe accumulation,embryo development,starch accumulation
 
 ## Sequences:
 - **CDS Sequence:**

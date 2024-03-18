@@ -7,18 +7,21 @@ tags: [ resistance,disease,disease resistance ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb190920]()
+- **Gene ID:**	[Zm00001eb190920](https://www.maizegdb.org/gene_center/gene/Zm00001eb190920)
 - **Gene Symbol:** ZmNANMT;ZmCOMT2;ZmCOMT13;nanmt1
 - **Gene Name:** nicotinate N-methyltransferase1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmNANMT** plays a negative role in the NLR protein Rp1-D21-mediated HR in maize and overexpression of **ZmNANMT** partially overcomes the autoimmune phenotypes conferred by Rp1-D21.
    - **ZmNANMT** confers multiple disease resistance without agronomic penalty in maize.
    - **ZmNANMT** is a susceptibility gene in response to multiple diseases in maize.
    - We previously identified that maize **ZmNANMT** suppressed the hypersensitive response (HR) mediated by the auto-active nucleotide-binding, leucine-rich repeat (NLR) protein Rp1-D21 when they were transiently co-expressed in Nicotiana benthamiana.
    - These results indicated that **ZmNANMT** plays a negative role in the NLR protein Rp1-D21-mediated HR in maize and overexpression of **ZmNANMT** partially overcomes the autoimmune phenotypes conferred by Rp1-D21.
+
+## Function-related keywords:
+[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)
 
 ## Literature:
    - [Genome editing of the susceptibility gene ZmNANMT confers multiple disease resistance without agronomic penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14078](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37254611](https://pubmed.ncbi.nlm.nih.gov/37254611/)
@@ -33,9 +36,6 @@ tags: [ resistance,disease,disease resistance ]
 - **UniProt accessions:** [A0A3L6F1Z0](https://www.uniprot.org/uniprotkb/A0A3L6F1Z0/entry)&nbsp;,&nbsp;[B6TG62](https://www.uniprot.org/uniprotkb/B6TG62/entry)&nbsp;,&nbsp;[C0HEH4](https://www.uniprot.org/uniprotkb/C0HEH4/entry)&nbsp;,&nbsp;[Q6VWE9](https://www.uniprot.org/uniprotkb/Q6VWE9/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-resistance,disease,disease resistance
 
 ## Sequences:
 - **CDS Sequence:**

@@ -7,16 +7,19 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb088950]()
+- **Gene ID:**	[Zm00001eb088950](https://www.maizegdb.org/gene_center/gene/Zm00001eb088950)
 - **Gene Symbol:** ZmYUC4
 - **Gene Name:** 
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - ZmYUC2 and **ZmYUC4** in regulating gravitropic response of the brace root and lodging resistance in maize.
    - The **ZmYUC4** single mutant and the Zmyuc2/4 double mutant display obviously enhanced root lodging resistance.
    - ZmYUC2 and **ZmYUC4** are preferentially expressed in the root tips.
+
+## Function-related keywords:
+[gravitropic-response](/tags/gravitropic-response/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)
 
 ## Literature:
    - [Local auxin biosynthesis regulates brace root angle and lodging resistance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18733](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36636793](https://pubmed.ncbi.nlm.nih.gov/36636793/)
@@ -29,9 +32,6 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-gravitropic response,root,resistance,lodging,lodging resistance
 
 ## Sequences:
 - **CDS Sequence:**

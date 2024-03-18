@@ -7,18 +7,21 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb066570]()
+- **Gene ID:**	[Zm00001eb066570](https://www.maizegdb.org/gene_center/gene/Zm00001eb066570)
 - **Gene Symbol:** ZmRR1;ZmOrphan186;ZmCip1;crr1
 - **Gene Name:** cytokinin response regulator1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Transcriptome analysis indicates that **ZmRR1** positively regulates the expression of ZmDREB1 and Cellulose synthase (CesA) genes to enhance chilling tolerance.
    - Here, we demonstrate that natural variation in the type-A Response Regulator 1 (**ZmRR1**) gene leads to differences in chilling tolerance among maize inbred lines. Association analysis reveals that InDel-35 of **ZmRR1**, encoding a protein harboring a mitogen-activated protein kinase (MPK) phosphorylation residue, is strongly associated with chilling tolerance.
    - **ZmRR1** positively regulates maize chilling tolerance.
    - Identification of a favorable allele of **ZmRR1** with enhanced chilling tolerance.
    - **ZmRR1** regulates chilling tolerance by modulating the expression of ZmDREB1s and ZmCesAs.
+
+## Function-related keywords:
+[kinase](/tags/kinase/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)
 
 ## Literature:
    - [Natural variation in a type-A response regulator confers maize chilling tolerance.]( https://www.nature.com/articles/s41467-021-25001-y#Sec28)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-25001-y](https://www.nature.com/articles/s41467-021-25001-y#Sec28)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34354054](https://pubmed.ncbi.nlm.nih.gov/34354054/)
@@ -33,9 +36,6 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
 - **UniProt accessions:** [Q9ZQW0](https://www.uniprot.org/uniprotkb/Q9ZQW0/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance
 
 ## Sequences:
 - **CDS Sequence:**

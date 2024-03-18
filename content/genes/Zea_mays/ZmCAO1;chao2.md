@@ -7,18 +7,21 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb362510]()
+- **Gene ID:**	[Zm00001eb362510](https://www.maizegdb.org/gene_center/gene/Zm00001eb362510)
 - **Gene Symbol:** ZmCAO1;chao2
 - **Gene Name:** chlorophyllide a oxygenase2
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - These results demonstrate the pleiotropy of **ZmCAO1** function in photosynthesis, grain yield, and waterlogging tolerance in maize.
    - Our findings confirm that the **ZmCAO1** plays a key role in Chl b biosynthesis, grain yield, and waterlogging tolerance in maize.
    - Mutation of **ZmCAO1** alters the metabolic flux of the Chl biosynthesis pathway.
    - **ZmCAO1** regulates photosystem, light-harvesting, and the development of endosperm and embryo.
    - The mutation of **ZmCAO1** decreases waterlogging tolerance in maize.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[chl-biosynthesis](/tags/chl-biosynthesis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [A chlorophyll a oxygenase 1 gene ZmCAO1 contributes to grain yield and waterlogging tolerance in maize.]( https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab059](https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33571996](https://pubmed.ncbi.nlm.nih.gov/33571996/)
@@ -31,9 +34,6 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynthesis,embryo,endosperm,endosperm development,photosystem,embryo development
 
 ## Sequences:
 - **CDS Sequence:**

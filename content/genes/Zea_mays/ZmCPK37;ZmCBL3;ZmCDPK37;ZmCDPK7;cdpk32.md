@@ -7,18 +7,21 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb107190]()
+- **Gene ID:**	[Zm00001eb107190](https://www.maizegdb.org/gene_center/gene/Zm00001eb107190)
 - **Gene Symbol:** ZmCPK37;ZmCBL3;ZmCDPK37;ZmCDPK7;cdpk32
 - **Gene Name:** calcium dependent protein kinase32
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The maize inbred and hybrid lines overexpressing ZmCPK35 and **ZmCPK37** exhibited enhanced tolerance and increased yield under drought conditions.
    - Overexpression of ZmCPK35 and **ZmCPK37** increased S-type anion currents in guard cells and promoted stomatal closure in responses to ABA and Ca2+, which improved maize drought tolerance.
    - ZmSLAC1 activated by ZmCPK35 and **ZmCPK37** was able to mediate both NO3- and Cl- currents.
    - We found that two Ca2+-dependent protein kinases ZmCPK35 and **ZmCPK37** were expressed in maize guard cells and localized on the plasma membrane.
    - Mutation of ZmSLAC1 and **ZmCPK37** impaired ABA-activated S-type anion currents in maize guard cells, while the S-type anion currents were increased in the guard cells of ZmCPK35- and **ZmCPK37**-overexpression lines. Electrophysiological characterization in maize guard cells and Xenopus oocytes indicated that ZmCPK35 and **ZmCPK37** could activate ZmSLAC1-mediated Cl- and NO3- currents.
+
+## Function-related keywords:
+[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
    - [Two calcium-dependent protein kinases enhance maize drought tolerance by activating anion channel ZmSLAC1 in guard cells.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13701](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34498364](https://pubmed.ncbi.nlm.nih.gov/34498364/)
@@ -33,9 +36,6 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane
 
 ## Sequences:
 - **CDS Sequence:**

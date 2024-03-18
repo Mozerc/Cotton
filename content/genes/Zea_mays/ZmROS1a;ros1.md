@@ -7,16 +7,19 @@ tags: [ transcription factor,fertility,endosperm,height ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb289030]()
+- **Gene ID:**	[Zm00001eb289030](https://www.maizegdb.org/gene_center/gene/Zm00001eb289030)
 - **Gene Symbol:** ZmROS1a;ros1
 - **Gene Name:** repressor of silencing1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Here we investigated the function of two genes (**Zm**ros1**a** and Zm**ros1**b, abbreviated as **Zm**ros1**a**b) encoding DNA demethylases in maize. We found that **Zm**ros1**a**b preferentially target regions with regulatory function in gene expression. **Zm**ros1**a**b is important for the proper expression of genes in endosperm, including imprinted genes.
-   - We showed that the regulation of **Zm**ros1**a**b on gene expression is partly dependent on DNA methylation-sensitive binding of transcription factor. Our results suggest a critical role and a possible mechanism of **Zm**ros1**a**b in regulating gene expression in maize kernel.
-   - In the homozygous mutant, expression of both the **Zm**ros1**a** and Zm**ros1**b gene was significantly reduced. Phenotypic analysis revealed that the double mutant had reduced height and flowered later than the wild-type. The double mutant is viable and produces ears with normal to slightly reduced fertility. Overall, the phenotype of the single mutants is relatively subtle compared to double mutant, suggesting functional redundancy of these two genes.
+## Functional Descriptions:
+   - Here we investigated the function of two genes (**ZmROS1a** and ZmROS1b, abbreviated as **ZmROS1a**b) encoding DNA demethylases in maize. We found that **ZmROS1a**b preferentially target regions with regulatory function in gene expression. **ZmROS1a**b is important for the proper expression of genes in endosperm, including imprinted genes.
+   - We showed that the regulation of **ZmROS1a**b on gene expression is partly dependent on DNA methylation-sensitive binding of transcription factor. Our results suggest a critical role and a possible mechanism of **ZmROS1a**b in regulating gene expression in maize kernel.
+   - In the homozygous mutant, expression of both the **ZmROS1a** and ZmROS1b gene was significantly reduced. Phenotypic analysis revealed that the double mutant had reduced height and flowered later than the wild-type. The double mutant is viable and produces ears with normal to slightly reduced fertility. Overall, the phenotype of the single mutants is relatively subtle compared to double mutant, suggesting functional redundancy of these two genes.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[height](/tags/height/)
 
 ## Literature:
    - [DNA demethylation affects imprinted gene expression in maize endosperm.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-022-02641-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35264226](https://pubmed.ncbi.nlm.nih.gov/35264226/)
@@ -29,9 +32,6 @@ tags: [ transcription factor,fertility,endosperm,height ]
 - **UniProt accessions:** [A0A1D6M565](https://www.uniprot.org/uniprotkb/A0A1D6M565/entry)&nbsp;,&nbsp;[A0A1D6M566](https://www.uniprot.org/uniprotkb/A0A1D6M566/entry)&nbsp;,&nbsp;[A0A1D6M567](https://www.uniprot.org/uniprotkb/A0A1D6M567/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-transcription factor,fertility,endosperm,height
 
 ## Sequences:
 - **CDS Sequence:**

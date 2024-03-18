@@ -7,16 +7,19 @@ tags: [ development,homeostasis,reactive oxygen species ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb149770]()
+- **Gene ID:**	[Zm00001eb149770](https://www.maizegdb.org/gene_center/gene/Zm00001eb149770)
 - **Gene Symbol:** ZmSKS13;skus1
 - **Gene Name:** skewed root growth similar1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Our results thus demonstrate that **ZmSKS13** is a novel regulator that plays a crucial role in kernel development in maize through the modulation of ROS homeostasis.
    - **ZmSKS13** loss of function led to overaccumulation of reactive oxygen species (ROS) and severe DNA damage in the nucellus and BETL and PC layer cells, and exogenous antioxidants significantly alleviated the defects of the mutant kernels.
    - These results implied that the upregulated expression of NADPH oxidase genes caused by **ZmSKS13** null mutation might contribute to the increase of NADPH oxidase activity and thus the excessive accumulation of ROS in dek-zk1 kernels.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
 
 ## Literature:
    - [ZmSKS13, a cupredoxin domain-containing protein, is required for maize kernel development via modulation of redox homeostasis.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16988)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16988](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16988)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33034042](https://pubmed.ncbi.nlm.nih.gov/33034042/)
@@ -29,9 +32,6 @@ tags: [ development,homeostasis,reactive oxygen species ]
 - **UniProt accessions:** [C0P2K2](https://www.uniprot.org/uniprotkb/C0P2K2/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,homeostasis,reactive oxygen species
 
 ## Sequences:
 - **CDS Sequence:**

@@ -7,18 +7,21 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb417810]()
+- **Gene ID:**	[Zm00001eb417810](https://www.maizegdb.org/gene_center/gene/Zm00001eb417810)
 - **Gene Symbol:** ZmMPK6
 - **Gene Name:** MAP kinase6
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmMPK6** and ethylene signalling negatively regulate the accumulation of anti-insect metabolites DIMBOA and DIMBOA-Glc in maize inbred line A188.
    - **ZmMPK6** and ethylene pathway are novel repressors of DIMBOA/DIMBOA-Glc and provide new insight into the regulatory mechanisms underlying these two pathways.
    - Silencing **ZmMPK6** in maize A188 compromised simulated herbivory-induced ethylene levels but not those of jasmonic acid or salicylic acid, and the **ZmMPK6**-silenced plants exhibited elevated DIMBOA/DIMBOA-Glc and insect resistance.
    - Transcriptome analysis revealed that **ZmMPK6** might meditate the transcription of BX1 by controlling a MYB transcription factor that is likely to be located in the ethylene signalling pathway and, furthermore, **ZmMPK6** and ethylene signalling also specifically and commonly regulate the transcription of other benzoxazinoid biosynthetic genes.
    - **ZmMPK6** was rapidly activated by wounding and simulated herbivory.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[wounding](/tags/wounding/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)
 
 ## Literature:
    - [ZmMPK6 and ethylene signalling negatively regulate the accumulation of anti-insect metabolites DIMBOA and DIMBOA-Glc in maize inbred line A188.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16974](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32996127](https://pubmed.ncbi.nlm.nih.gov/32996127/)
@@ -31,9 +34,6 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,jasmonic acid,wounding,insect resistance
 
 ## Sequences:
 - **CDS Sequence:**

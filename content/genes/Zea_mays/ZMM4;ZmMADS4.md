@@ -7,16 +7,19 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb057540]()
+- **Gene ID:**	[Zm00001eb057540](https://www.maizegdb.org/gene_center/gene/Zm00001eb057540)
 - **Gene Symbol:** ZMM4;ZmMADS4
 - **Gene Name:** Zea mays MADS-box gene 4
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - We then developed a gene regulatory model of flowering time in maize using ZmNF-YC2, ZmNF-YA3, ZmAP2, **ZMM4**, and other key genes.
    - Thus ZmNF-YA3 negatively regulates the transcription of ZmAP2. Finally, ZmAP2 suppresses the expression of **ZMM4** to regulate flowering time in maize.
    - We developed a gene regulatory model of maize flowering time using ZmNF-YC2, ZmNF-YA3, ZmAP2, **ZMM4**, and other key genes.
+
+## Function-related keywords:
+[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Identification of ZmNF-YC2 and its regulatory network for maize flowering time.]( https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab364](https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34338753](https://pubmed.ncbi.nlm.nih.gov/34338753/)
@@ -30,9 +33,6 @@ tags: [ flowering time,flowering ]
 - **UniProt accessions:** [Q84V71](https://www.uniprot.org/uniprotkb/Q84V71/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

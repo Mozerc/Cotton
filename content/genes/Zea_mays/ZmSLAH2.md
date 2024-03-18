@@ -7,17 +7,20 @@ tags: [ root,growth,resistance,stress,root growth,stress response,al resistance 
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb358580]()
+- **Gene ID:**	[Zm00001eb358580](https://www.maizegdb.org/gene_center/gene/Zm00001eb358580)
 - **Gene Symbol:** ZmSLAH2
 - **Gene Name:** 
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmSLAH2** in maize and AtSLAH1 in Arabidopsis are essential for the regulation of citrate exudation and NO3−-promoted Al resistance, with ZmMYB81 directly targeting the **ZmSLAH2** promoter to activate its activity.
    - A potential involvement of ZmMYB81 in regulating **ZmSLAH2** expression, citrate exudation and NO3−-promoted Al resistance in maize.
    - Transcriptional profiling analysis reveals the potential involvement of **ZmSLAH2** in NO3–-promoted Al resistance in maize.
    - **ZmSLAH2** may play a crucial role in NO3–-induced citrate exudation, consequently influencing root growth in response to Al stress.
+
+## Function-related keywords:
+[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[al-resistance](/tags/al-resistance/)
 
 ## Literature:
    - [Nitrate improves aluminium resistance through SLAH-mediated citrate exudation from roots.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14688](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37574955](https://pubmed.ncbi.nlm.nih.gov/37574955/)
@@ -30,9 +33,6 @@ tags: [ root,growth,resistance,stress,root growth,stress response,al resistance 
 - **UniProt accessions:** [K7V3L5](https://www.uniprot.org/uniprotkb/K7V3L5/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-root,growth,resistance,stress,root growth,stress response,al resistance
 
 ## Sequences:
 - **CDS Sequence:**

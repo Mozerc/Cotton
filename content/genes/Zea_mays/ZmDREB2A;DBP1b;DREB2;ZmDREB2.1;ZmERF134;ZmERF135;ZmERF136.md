@@ -7,15 +7,18 @@ tags: [ drought,drought response ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb347600]()
+- **Gene ID:**	[Zm00001eb347600](https://www.maizegdb.org/gene_center/gene/Zm00001eb347600)
 - **Gene Symbol:** ZmDREB2A;DBP1b;DREB2;ZmDREB2.1;ZmERF134;ZmERF135;ZmERF136
 - **Gene Name:** 
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - **Zm**DREB2**A** is a drought response gene.
-   - we found that ZmbHLH124T-ORG could directly bind the cis-acting elements in **Zm**DREB2**A** promoter to enhance its expression.
+## Functional Descriptions:
+   - **ZmDREB2A** is a drought response gene.
+   - we found that ZmbHLH124T-ORG could directly bind the cis-acting elements in **ZmDREB2A** promoter to enhance its expression.
+
+## Function-related keywords:
+[drought](/tags/drought/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Tasselseed5 encodes a cytochrome C oxidase that functions in sex determination by affecting jasmonate catabolism in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12826](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31087765](https://pubmed.ncbi.nlm.nih.gov/31087765/)
@@ -28,9 +31,6 @@ tags: [ drought,drought response ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-drought,drought response
 
 ## Sequences:
 - **CDS Sequence:**

@@ -7,19 +7,22 @@ tags: [ nitrogen,development,grain,drought,stress,drought stress,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb067710]()
+- **Gene ID:**	[Zm00001eb067710](https://www.maizegdb.org/gene_center/gene/Zm00001eb067710)
 - **Gene Symbol:** ZmLOX6
 - **Gene Name:** lipoxygenase6
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The overexpressed **ZmLOX6** was remobilized from the leaves like other major proteins during grain development.
    - **ZmLOX6** gene under the control of the mesophyll cell-specific pZmPEPC promoter significantly outyielded their nontransgenic sibs under drought stress imposed at flowering in multi-location, multi-year field trials.
    - Hybrids overexpressing **ZmLOX6** outperformed control hybrids under managed drought stress.
    - Nitrogen supplementation selectively induced a mesophyll lipoxygenase (**ZmLOX6**), which was targeted to chloroplasts by a novel N-terminal transit peptide of 62 amino acids.
    - The overexpressed **ZmLOX6** was remobilized from the leaves like other major proteins during grain development.
    - Evaluated in the field over locations and years, transgenic hybrids overexpressing **ZmLOX6** in the mesophyll cells significantly outyielded nontransgenic sibs under managed drought stress imposed at flowering.
+
+## Function-related keywords:
+[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A vegetative storage protein improves drought tolerance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13720)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13720](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13720)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34614273](https://pubmed.ncbi.nlm.nih.gov/34614273/)
@@ -35,9 +38,6 @@ tags: [ nitrogen,development,grain,drought,stress,drought stress,flowering ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-nitrogen,development,grain,drought,stress,drought stress,flowering
 
 ## Sequences:
 - **CDS Sequence:**

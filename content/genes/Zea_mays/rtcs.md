@@ -1,22 +1,25 @@
 ---
 description: rootless concerning crown and seminal roots1 ; Zm00001eb003920 ; Zea mays
 meta_title:
-title: rtcs
+title: Rtcs
 categories: [Zea mays]
 tags: [ root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,primary root,flavonoid biosynthesis ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb003920]()
-- **Gene Symbol:** rtcs
+- **Gene ID:**	[Zm00001eb003920](https://www.maizegdb.org/gene_center/gene/Zm00001eb003920)
+- **Gene Symbol:** Rtcs
 - **Gene Name:** rootless concerning crown and seminal roots1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Two candidate genes (rootless concerning crown and seminal roots, **rtcs** and Zm00001d012781) involved in auxin signaling and flavonoid biosynthesis were identified by co-expression network analysis.
-   - The maize **rtcs** mutant forms a primary root with lateral roots but lacks seminal and crown roots.
-   - The **rtcs** gene, which encodes a LATERAL ORGAN BOUNDARIES (LOB) domain protein, is an auxin-responsive gene.
+## Functional Descriptions:
+   - Two candidate genes (rootless concerning crown and seminal roots, **Rtcs** and Zm00001d012781) involved in auxin signaling and flavonoid biosynthesis were identified by co-expression network analysis.
+   - The maize **Rtcs** mutant forms a primary root with lateral roots but lacks seminal and crown roots.
+   - The **Rtcs** gene, which encodes a LATERAL ORGAN BOUNDARIES (LOB) domain protein, is an auxin-responsive gene.
+
+## Function-related keywords:
+[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
 
 ## Literature:
    - [Integrating transcriptome, co-expression and QTL-seq analysis reveals that primary root growth in maize is regulated via flavonoid biosynthesis and auxin signal transduction.]( https://academic.oup.com/jxb/article/72/13/4773/6257224?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab177](https://academic.oup.com/jxb/article/72/13/4773/6257224?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33909071](https://pubmed.ncbi.nlm.nih.gov/33909071/)
@@ -30,9 +33,6 @@ tags: [ root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,pr
 - **UniProt accessions:** [A5H448](https://www.uniprot.org/uniprotkb/A5H448/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,primary root,flavonoid biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

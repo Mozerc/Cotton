@@ -7,17 +7,20 @@ tags: [ leaf,shoot,floral,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb057540]()
+- **Gene ID:**	[Zm00001eb057540](https://www.maizegdb.org/gene_center/gene/Zm00001eb057540)
 - **Gene Symbol:** ZmMADS4;zmm4
 - **Gene Name:** Zea mays MADS4
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - We show that dlf1 promotes maize floral transition by directly activating **ZmMADS4** and ZmMADS67 in the shoot apex, providing novel insights into the mechanism of maize floral transition.
-   - **zmm4** (**ZmMADS4**) was reported to act genetically downstream of dlf1 with its overexpression inducing early flowering and reverting the mutant phenotype of dlf1 to wild-type
+   - ZMM4 (**ZmMADS4**) was reported to act genetically downstream of dlf1 with its overexpression inducing early flowering and reverting the mutant phenotype of dlf1 to wild-type
    - **ZmMADS4** and ZmMADS67, were further verified and found to function as positive regulators of maize flowering.
    - Knocking out **ZmMADS4** and ZmMADS67 both increased leaf number and delayed flowering, indicating that they promote the floral transition.
+
+## Function-related keywords:
+[leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32579713](https://pubmed.ncbi.nlm.nih.gov/32579713/)
@@ -31,9 +34,6 @@ tags: [ leaf,shoot,floral,flowering ]
 - **UniProt accessions:** [Q84V71](https://www.uniprot.org/uniprotkb/Q84V71/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-leaf,shoot,floral,flowering
 
 ## Sequences:
 - **CDS Sequence:**

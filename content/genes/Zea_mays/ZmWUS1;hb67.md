@@ -7,16 +7,19 @@ tags: [ stem,meristem,inflorescence ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb067310]()
+- **Gene ID:**	[Zm00001eb067310](https://www.maizegdb.org/gene_center/gene/Zm00001eb067310)
 - **Gene Symbol:** ZmWUS1;hb67
 - **Gene Name:** Homeobox-transcription factor 67
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Structural variation at the maize WUSCHEL1 locus alters stem cell organization in inflorescences.
    - These findings establish **ZmWUS1** as an essential meristem size regulator in maize and highlight the striking effect of cis-regulatory variation on a key developmental program.
    - Ectopic expression of **ZmWUS1** causes major architectural rearrangements of inflorescence meristems and mis-regulation of key stem cell regulators.
+
+## Function-related keywords:
+[stem](/tags/stem/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)
 
 ## Literature:
    - [Structural variation at the maize WUSCHEL1 locus alters stem cell organization in inflorescences.]( https://www.nature.com/articles/s41467-021-22699-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-22699-8](https://www.nature.com/articles/s41467-021-22699-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33888716](https://pubmed.ncbi.nlm.nih.gov/33888716/)
@@ -29,9 +32,6 @@ tags: [ stem,meristem,inflorescence ]
 - **UniProt accessions:** [A0AAS5](https://www.uniprot.org/uniprotkb/A0AAS5/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-stem,meristem,inflorescence
 
 ## Sequences:
 - **CDS Sequence:**

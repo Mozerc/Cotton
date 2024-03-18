@@ -7,18 +7,21 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb176680]()
+- **Gene ID:**	[Zm00001eb176680](https://www.maizegdb.org/gene_center/gene/Zm00001eb176680)
 - **Gene Symbol:** bZIP68;ABI5;ZmABF3;ZmbZIP33
 - **Gene Name:** bZIP-transcription factor 68
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The transcription factor **bZIP68**, a negative regulator of the cold-stress response.
    - The transcription factor **bZIP68** negatively regulates cold tolerance in maize.
    - Here, we identified **bZIP68**, a basic leucine zipper (bZIP) transcription factor, as a negative regulator of cold tolerance in maize.
    - Transcriptome analysis revealed that **bZIP68** represses the cold-induced expression of DREB1 transcription factor genes. The stability and transcriptional activity of **bZIP68** are controlled by its phosphorylation at the conserved Ser250 residue under cold stress.
    - The stability and transcriptional activity of **bZIP68** are controlled by its phosphorylation at the conserved Ser250 residue under cold stress.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [The transcription factor bZIP68 negatively regulates cold tolerance in maize.]( https://academic.oup.com/plcell/article/34/8/2833/6584020?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac137](https://academic.oup.com/plcell/article/34/8/2833/6584020?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35543494](https://pubmed.ncbi.nlm.nih.gov/35543494/)
@@ -33,9 +36,6 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 - **UniProt accessions:** [B4FIX1](https://www.uniprot.org/uniprotkb/B4FIX1/entry)&nbsp;,&nbsp;[B4FRB4](https://www.uniprot.org/uniprotkb/B4FRB4/entry)&nbsp;,&nbsp;[A0A3L6F7L4](https://www.uniprot.org/uniprotkb/A0A3L6F7L4/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-transcription factor,stress,tolerance,cold tolerance,cold stress,cold,stress tolerance,transcriptional regulator,transcription regulator,stress response
 
 ## Sequences:
 - **CDS Sequence:**

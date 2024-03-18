@@ -7,17 +7,20 @@ tags: [ leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion 
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb003760]()
+- **Gene ID:**	[Zm00001eb003760](https://www.maizegdb.org/gene_center/gene/Zm00001eb003760)
 - **Gene Symbol:** LLS1
 - **Gene Name:** LETHAL LEAF SPOT1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **LLS1** was found to be induced by both biotic and abiotic stresses. Transcriptomics analysis showed that genes involved in defense responses and secondary metabolite biosynthesis were mildly activated in leaves of the les30 mutant without lesions.
    - Mutation of ACCELERATED CELL DEATH 1 (ACD1) in Arabidopsis and LETHAL LEAF SPOT1 (**LLS1**) in maize, which both encode pheophorbide a oxidase (PAO) that converts pheophorbide a to red chlorophyll catabolites, leads to lesion-mimic phenotypes.
    - **LLS1** is known to encode a critical enzyme for chlorophyll degradation.
    - Perturbation of the biosynthesis of JA, SA, and their derivatives is probably responsible for the MDR conferred by the **LLS1**/les30 mutation.
+
+## Function-related keywords:
+[leaf](/tags/leaf/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[chlorophyll](/tags/chlorophyll/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[lesion](/tags/lesion/)&nbsp;,&nbsp;[lesion-mimic](/tags/lesion-mimic/)
 
 ## Literature:
    - [Underlying mechanism of accelerated cell death and multiple disease resistance in a maize lethal leaf spot 1 allele.]( https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac116](https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35303096](https://pubmed.ncbi.nlm.nih.gov/35303096/)
@@ -30,9 +33,6 @@ tags: [ leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion 
 - **UniProt accessions:** [A0A1D6JNJ8](https://www.uniprot.org/uniprotkb/A0A1D6JNJ8/entry)&nbsp;,&nbsp;[A0A1D6JNJ9](https://www.uniprot.org/uniprotkb/A0A1D6JNJ9/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion mimic
 
 ## Sequences:
 - **CDS Sequence:**

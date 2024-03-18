@@ -7,19 +7,22 @@ tags: [ grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb233320]()
+- **Gene ID:**	[Zm00001eb233320](https://www.maizegdb.org/gene_center/gene/Zm00001eb233320)
 - **Gene Symbol:** ZmSPL12;sbp12
 - **Gene Name:** SBP-transcription factor 12
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Overexpression of **ZmSPL12** confers enhanced lodging resistance through transcriptional regulation of D1 in maize.
    - **ZmSPL12** could mimic the function of ‘Green Revolution’ genes to confer reduced plant height and increased lodging resistance, thus facilitating high-density planting and increased yield in maize.
    - Overexpression **ZmSPL12** enhances maize grain yield under high planting densities in the field in Hainan.
    - Overexpression **ZmSPL12** enhances maize lodging resistance under high planting densities.
    - These results support the notion that **ZmSPL12** acts upstream of D1 to regulate GA biosynthesis, thus plant height and ear height.
    - **ZmSPL12** could mimic the function of ‘Green Revolution’ genes to confer reduced plant height and increased lodging resistance, thus facilitating high-density planting and increased yield in maize.
+
+## Function-related keywords:
+[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)
 
 ## Literature:
    - [Overexpression of ZmSPL12 confers enhanced lodging resistance through transcriptional regulation of D1 in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13787)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13787](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13787)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35150020](https://pubmed.ncbi.nlm.nih.gov/35150020/)
@@ -35,9 +38,6 @@ tags: [ grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,
 - **UniProt accessions:** [B4F8H7](https://www.uniprot.org/uniprotkb/B4F8H7/entry)&nbsp;,&nbsp;[A0A1D6H1N7](https://www.uniprot.org/uniprotkb/A0A1D6H1N7/entry)&nbsp;,&nbsp;[A0A1D6H1N9](https://www.uniprot.org/uniprotkb/A0A1D6H1N9/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,plant height,ga biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

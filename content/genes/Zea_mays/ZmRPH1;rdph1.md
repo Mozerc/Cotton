@@ -7,18 +7,21 @@ tags: [ seedlings,growth,fertility,yield,plant growth,cell elongation,height,pla
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb007470]()
+- **Gene ID:**	[Zm00001eb007470](https://www.maizegdb.org/gene_center/gene/Zm00001eb007470)
 - **Gene Symbol:** ZmRPH1;rdph1
 - **Gene Name:** Reducing Plant Height 1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Maize **ZmRPH1** encodes a microtubule-associated protein that controls plant and ear height,these data suggest a general role for **ZmRPH1** in the control of polar cell growth in maize.
    - **ZmRPH1** overexpression also led to shorter roots with reduced cell length in maize seedlings. These data suggest a general role for **ZmRPH1** in the control of polar cell growth in maize.
    - **ZmRPH1** modulates cell elongation by regulating the cortical microtubule orientation.
    - **ZmRPH1** overexpression significantly reduced the frequency of cells with transverse microtubules in OX1 and OX2 hypocotyls (approximately 30%) compared to the control (>60%). Overall, the above results indicated that **ZmRPH1** modulates cell elongation by regulating the cortical microtubule orientation.
    - **ZmRPH1** overexpression would affect maize yield and found that **ZmRPH1** overexpression had no obvious impact on flowering time and fertility.
+
+## Function-related keywords:
+[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Maize ZmRPH1 encodes a microtubule-associated protein that controls plant and ear height.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13292)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13292](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13292)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31696605](https://pubmed.ncbi.nlm.nih.gov/31696605/)
@@ -33,9 +36,6 @@ tags: [ seedlings,growth,fertility,yield,plant growth,cell elongation,height,pla
 - **UniProt accessions:** [A0A1D6JRP3](https://www.uniprot.org/uniprotkb/A0A1D6JRP3/entry)&nbsp;,&nbsp;[A0A1D6JRN6](https://www.uniprot.org/uniprotkb/A0A1D6JRN6/entry)&nbsp;,&nbsp;[A0A1D6JRN8](https://www.uniprot.org/uniprotkb/A0A1D6JRN8/entry)&nbsp;,&nbsp;[A0A1D6JRP1](https://www.uniprot.org/uniprotkb/A0A1D6JRP1/entry)&nbsp;,&nbsp;[A0A1D6JRP4](https://www.uniprot.org/uniprotkb/A0A1D6JRP4/entry)&nbsp;,&nbsp;[C0PAQ8](https://www.uniprot.org/uniprotkb/C0PAQ8/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-seedlings,growth,fertility,yield,plant growth,cell elongation,height,plant height,flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

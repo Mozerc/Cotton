@@ -7,18 +7,21 @@ tags: [ kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought 
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb402560]()
+- **Gene ID:**	[Zm00001eb402560](https://www.maizegdb.org/gene_center/gene/Zm00001eb402560)
 - **Gene Symbol:** ZmBSK1;bsk1
 - **Gene Name:** brassinosteroid-signaling kinase 1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Our results reveal an important role for **Zm**bsk1**** in drought tolerance and suggest a direct regulatory mode of **Zm**bsk1**** phosphorylating ZmCCaMK.
-   - **Zm**bsk1****-mediated phosphorylation of ZmCCaMK plays an important role in regulating the tolerance of maize plants to drought stress.
-   - **Zm**bsk1**** positively regulates the antioxidant defense system to protect maize plants from oxidative damage under drought stress.
-   - Here we find that drought treatment can enhance the phosphorylation activity of brassinosteroid-signaling kinase 1 (**Zm**bsk1****) in maize (Zea mays).
-   - Drought stress enhances not only the interaction between **Zm**bsk1**** and ZmCCaMK but also the phosphorylation of Ser-67 in ZmCCaMK by **Zm**bsk1****.
+## Functional Descriptions:
+   - Our results reveal an important role for **ZmBSK1** in drought tolerance and suggest a direct regulatory mode of **ZmBSK1** phosphorylating ZmCCaMK.
+   - **ZmBSK1**-mediated phosphorylation of ZmCCaMK plays an important role in regulating the tolerance of maize plants to drought stress.
+   - **ZmBSK1** positively regulates the antioxidant defense system to protect maize plants from oxidative damage under drought stress.
+   - Here we find that drought treatment can enhance the phosphorylation activity of brassinosteroid-signaling kinase 1 (**ZmBSK1**) in maize (Zea mays).
+   - Drought stress enhances not only the interaction between **ZmBSK1** and ZmCCaMK but also the phosphorylation of Ser-67 in ZmCCaMK by **ZmBSK1**.
+
+## Function-related keywords:
+[kinase](/tags/kinase/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
 
 ## Literature:
    - [BRASSINOSTEROID-SIGNALING KINASE 1 phosphorylating CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE functions in drought tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17403](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33864702](https://pubmed.ncbi.nlm.nih.gov/33864702/)
@@ -31,9 +34,6 @@ tags: [ kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought 
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought stress,defense,oxidative stress,tolerance,oxidative,drought tolerance,stress tolerance,antioxidant defense,drought and oxidative stress
 
 ## Sequences:
 - **CDS Sequence:**

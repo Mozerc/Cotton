@@ -7,17 +7,20 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb353250]()
+- **Gene ID:**	[Zm00001eb353250](https://www.maizegdb.org/gene_center/gene/Zm00001eb353250)
 - **Gene Symbol:** Zcn8;pebp8
 - **Gene Name:** phosphatidylethanolamine-binding protein8
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Map-based cloning and association mapping revealed that Tin8, corresponding to **Zcn8** encoding a phosphatidylethanolamine-binding-related kinase, is down-regulated in transcription, which results in decreased tiller number.
    - Our results support the existence of a complex gene regulatory network for the outgrowth of the tiller bud in maize, in which **Zcn8** controls 13 tiller-related genes, including four genes for hormonal responses. In particular, **Zcn8** represses Gt1, D14, and Tru1 through the interaction with Tb1.
    - The promoter element in the **Zcn8** promoter repressed **Zcn8** transcription and thus decreased tiller number in maize
    - Our dual-luciferase assays further revealed that the signals of Gt1 and D14 were repressed again when the effectors **Zcn8** and Tb1 were co-introduced in comparison to when only the effector **Zcn8** was introduced. These results suggested that **Zcn8**, encoding a PEBP kinase, might repress the downstream genes Gt1 and D14 via the key transcription factor Tb1.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)
 
 ## Literature:
    - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
@@ -30,9 +33,6 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
 - **UniProt accessions:** [A9LLY2](https://www.uniprot.org/uniprotkb/A9LLY2/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-transcription factor,kinase,tiller,down-regulated genes,map-based cloning,tiller number,tiller bud outgrowth
 
 ## Sequences:
 - **CDS Sequence:**

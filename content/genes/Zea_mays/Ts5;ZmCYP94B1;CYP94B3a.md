@@ -7,16 +7,19 @@ tags: [ ja ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb169710]()
+- **Gene ID:**	[Zm00001eb169710](https://www.maizegdb.org/gene_center/gene/Zm00001eb169710)
 - **Gene Symbol:** Ts5;ZmCYP94B1;CYP94B3a
 - **Gene Name:** tasselseed5
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Tasselseed5 (**Ts5**), is similar to that of ts2. Here, we positionally cloned the underlying gene of **Ts5** and characterized its function.
    - **Ts5** mutant phenotype results from the disruption of this peak in tassels during sex determination.
    - GRMZM2G177668 is the candidate **Ts5** gene, encoding a JA-Ile hydroxylase.
+
+## Function-related keywords:
+[ja](/tags/ja/)
 
 ## Literature:
    - [Tasselseed5 encodes a cytochrome C oxidase that functions in sex determination by affecting jasmonate catabolism in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12826](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31087765](https://pubmed.ncbi.nlm.nih.gov/31087765/)
@@ -29,9 +32,6 @@ tags: [ ja ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-ja
 
 ## Sequences:
 - **CDS Sequence:**

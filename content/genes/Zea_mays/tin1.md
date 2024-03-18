@@ -7,17 +7,20 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb300220]()
+- **Gene ID:**	[Zm00001eb300220](https://www.maizegdb.org/gene_center/gene/Zm00001eb300220)
 - **Gene Symbol:** tin1
 - **Gene Name:** tiller number 1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **tin1** is involved in multiple pathways, directly represses two tiller-related genes, gt1 and Laba1/An-2, and interacts with three TOPLESS proteins to regulate the outgrowth of tiller buds. Our results support that maize **tin1**, derived from a standing variation in wild progenitor teosinte population, determines tillering retention during maize diversification.
    - Our results support that maize **tin1**, derived from a standing variation in wild progenitor teosinte population, determines tillering retention during maize diversification.
    - **tin1** is a major QTL for tiller number in maize.
    - Maize **tin1** controls the outgrowth of the tiller bud.
+
+## Function-related keywords:
+[tillering](/tags/tillering/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)
 
 ## Literature:
    - [The tin1 gene retains the function of promoting tillering in maize.]( https://www.nature.com/articles/s41467-019-13425-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-019-13425-6](https://www.nature.com/articles/s41467-019-13425-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31811145](https://pubmed.ncbi.nlm.nih.gov/31811145/)
@@ -30,9 +33,6 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
 - **UniProt accessions:** [A0A1D6HSJ8](https://www.uniprot.org/uniprotkb/A0A1D6HSJ8/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-tillering,tiller,tiller number,tiller bud outgrowth
 
 ## Sequences:
 - **CDS Sequence:**

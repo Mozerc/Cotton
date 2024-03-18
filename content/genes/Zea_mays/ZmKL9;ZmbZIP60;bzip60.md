@@ -7,18 +7,21 @@ tags: [ grain,grain yield,yield,grain weight ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb388050]()
+- **Gene ID:**	[Zm00001eb388050](https://www.maizegdb.org/gene_center/gene/Zm00001eb388050)
 - **Gene Symbol:** ZmKL9;ZmbZIP60;bzip60
 - **Gene Name:** bZIP transcription factor60
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Overexpression of **ZmKL9** increases maize hybrid hundred kernel weight.
    - **ZmKL9** is the causal gene underlying qKL9 and positively controls kernel and ear yield in maize.
    - **ZmKL9** can positively affect the grain and ear yield of maize in different genetic backgrounds.
    - The TE1 in the **ZmKL9** 5′ UTR is a key polymorphism that influences the transcriptional output of **ZmKL9**.
    - The overexpression of the **ZmKL9** can positively affect the grain and ear yield of maize in different genetic backgrounds.
+
+## Function-related keywords:
+[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
 
 ## Literature:
    - [Overexpression of ZmKL9 increases maize hybrid hundred kernel weight.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13957](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36331355](https://pubmed.ncbi.nlm.nih.gov/36331355/)
@@ -33,9 +36,6 @@ tags: [ grain,grain yield,yield,grain weight ]
 - **UniProt accessions:** [C4J6L7](https://www.uniprot.org/uniprotkb/C4J6L7/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-grain,grain yield,yield,grain weight
 
 ## Sequences:
 - **CDS Sequence:**

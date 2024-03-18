@@ -7,19 +7,22 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,drought tol
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb284130]()
+- **Gene ID:**	[Zm00001eb284130](https://www.maizegdb.org/gene_center/gene/Zm00001eb284130)
 - **Gene Symbol:** ZmbHLH124
 - **Gene Name:** bHLH-transcription factor 124
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmbHLH124** identified in maize recombinant inbred lines contributes to drought tolerance in crops.
    - **ZmbHLH124** in RIL73, named as **ZmbHLH124**T-ORG which origins from PH4CV and encodes a bHLH type transcription factor, was specifically up-regulated during drought stress.
    - We found that **ZmbHLH124**T-ORG could directly bind the cis-acting elements in ZmDREB2A promoter to enhance its expression.
    - The intact **ZmbHLH124**T-ORG contributed to drought tolerance in maize germplasm T-ORG.
    - **ZmbHLH124** can improve drought tolerance during reproductive stages.
    - We identified a substitution in **ZmbHLH124** that produced an early stop codon in sensitive lines (**ZmbHLH124**S-ORG). Overexpression of **ZmbHLH124**T-ORG, but not **ZmbHLH124**S-ORG, in maize and rice enhanced plant drought tolerance and up-regulated the expression of drought-responsive genes.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)
 
 ## Literature:
    - [ZmbHLH124 identified in maize recombinant inbred lines contributes to drought tolerance in crops.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13637)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13637](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13637)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34031958](https://pubmed.ncbi.nlm.nih.gov/34031958/)
@@ -33,9 +36,6 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,drought tol
 - **UniProt accessions:** [K7UR97](https://www.uniprot.org/uniprotkb/K7UR97/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-transcription factor,drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,reproductive
 
 ## Sequences:
 - **CDS Sequence:**

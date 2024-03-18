@@ -7,17 +7,20 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb065890]()
+- **Gene ID:**	[Zm00001eb065890](https://www.maizegdb.org/gene_center/gene/Zm00001eb065890)
 - **Gene Symbol:** ZmCTLP1;smk10
 - **Gene Name:** choline transporter-like protein 1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmCTLP1** is required for the maintenance of lipid homeostasis and the basal endosperm transfer layer in maize kernels.
    - **ZmCTLP1**-mediated choline transport affects kernel development, highlighting its important role in lipid homeostasis, wall in-growth formation and PD development in transfer cells.
    - Loss of **ZmCTLP1** function alters the expression of key kernel development genes.
    - **ZmCTLP1** is required for the normal expression of Mn1 and other nutrient transporters.
+
+## Function-related keywords:
+[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [ZmCTLP1 is required for the maintenance of lipid homeostasis and the basal endosperm transfer layer in maize kernels.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17754](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34559890](https://pubmed.ncbi.nlm.nih.gov/34559890/)
@@ -30,9 +33,6 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 - **UniProt accessions:** [A0A1D6DSZ7](https://www.uniprot.org/uniprotkb/A0A1D6DSZ7/entry)&nbsp;,&nbsp;[A0A1D6DSZ8](https://www.uniprot.org/uniprotkb/A0A1D6DSZ8/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-growth,development,homeostasis,endosperm,endosperm development
 
 ## Sequences:
 - **CDS Sequence:**

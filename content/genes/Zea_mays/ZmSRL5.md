@@ -7,16 +7,19 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb008140]()
+- **Gene ID:**	[Zm00001eb008140](https://www.maizegdb.org/gene_center/gene/Zm00001eb008140)
 - **Gene Symbol:** ZmSRL5
 - **Gene Name:** semi-rolled leaf5
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmSRL5** is involved in drought tolerance by maintaining cuticular wax structure in maize
    - **ZmSRL5** is required for the structure formation of the cuticular wax and could increase the drought tolerance by maintaining the proper cuticular wax structure in maize.
    - The mutation of **ZmSRL5** resulted in the disordered cuticular wax morphology and distribution, which caused increased cuticular permeability and sensitivity to drought.
+
+## Function-related keywords:
+[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[cuticular-wax-formation](/tags/cuticular-wax-formation/)
 
 ## Literature:
    - [ZmSRL5 is involved in drought tolerance by maintaining cuticular wax structure in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12982 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32965083](https://pubmed.ncbi.nlm.nih.gov/32965083/)
@@ -29,9 +32,6 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 - **UniProt accessions:** [A0A1D6JSF7](https://www.uniprot.org/uniprotkb/A0A1D6JSF7/entry)&nbsp;,&nbsp;[C0HIK3](https://www.uniprot.org/uniprotkb/C0HIK3/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-drought,tolerance,drought tolerance,drought sensitivity,cuticular wax formation
 
 ## Sequences:
 - **CDS Sequence:**

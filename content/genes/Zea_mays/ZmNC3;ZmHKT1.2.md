@@ -7,18 +7,21 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb071370]()
+- **Gene ID:**	[Zm00001eb071370](https://www.maizegdb.org/gene_center/gene/Zm00001eb071370)
 - **Gene Symbol:** ZmNC3;ZmHKT1.2
 - **Gene Name:** Na+ content3
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Here, we show that a HKT1 family gene **ZmNC3** (Zea mays L. Na+ Content 3; designated **ZmHKT1.2**) confers natural variability in shoot-Na+ accumulation and salt tolerance in maize.
+## Functional Descriptions:
+   - Here, we show that a HKT1 family gene ZmNC3 (Zea mays L. Na+ Content 3; designated **ZmHKT1.2**) confers natural variability in shoot-Na+ accumulation and salt tolerance in maize.
    - **ZmNC3** confers natural diversity of Na+ content under salt conditions in maize.
    - **ZmNC3** encodes an Na+-preferring ion transporter.
-   - HKT1 family gene **ZmNC3** (Zea mays L. Na+ Content 3; designated **ZmHKT1.2**) confers natural variability in Na+ accumulation in the shoots of salt-grown maize seedlings.
-   - Taken together, **ZmNC3**/**ZmHKT1.2** was identified as an important QTL promoting shoot Na+ exclusion, and its favourable allele provides an effective tool for developing salt-tolerant maize varieties.
+   - HKT1 family gene ZmNC3 (Zea mays L. Na+ Content 3; designated **ZmHKT1.2**) confers natural variability in Na+ accumulation in the shoots of salt-grown maize seedlings.
+   - Taken together, ZmNC3/**ZmHKT1.2** was identified as an important QTL promoting shoot Na+ exclusion, and its favourable allele provides an effective tool for developing salt-tolerant maize varieties.
+
+## Function-related keywords:
+[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
    - [A teosinte-derived allele of an HKT1 family sodium transporter improves salt tolerance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13927)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13927](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13927)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36114820](https://pubmed.ncbi.nlm.nih.gov/36114820/)
@@ -33,9 +36,6 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
 - **UniProt accessions:** [A0A1D6E031](https://www.uniprot.org/uniprotkb/A0A1D6E031/entry)&nbsp;,&nbsp;[A0A3L6G3L6](https://www.uniprot.org/uniprotkb/A0A3L6G3L6/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-seedlings,shoot,salt,tolerance,salt tolerance,transporter
 
 ## Sequences:
 - **CDS Sequence:**

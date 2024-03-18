@@ -7,18 +7,21 @@ tags: [ seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb374090]()
+- **Gene ID:**	[Zm00001eb374090](https://www.maizegdb.org/gene_center/gene/Zm00001eb374090)
 - **Gene Symbol:** Sh1
 - **Gene Name:** shrunken1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The **Sh1** gene is highly expressed in the endosperm and contributes maximum SUS activity in this storage organ.
    - **Sh1**, is highly expressed after 10 DAP, when endosperm filling begins.
    - Oen1 was determined to encode Shrunken1 (**Sh1**), a sucrose synthase (SUS, EC 2.4.1.13). Maize contains three SUS-encoding genes (**Sh1**, Sus1, and Sus2) with **Sh1** contributing predominantly to the endosperm.
    - Sus1 and Sus2 promoters had a much stronger O2 transactivation than **Sh1**, consistent with their transcript reduction in o2 endosperm.
    - Although sus1 and sus2 alone or in combination had no perceptible phenotype, either of them could dramatically enhance seed opacity and cavity in **Sh1**, indicating that transactivation of Sus1 and Sus2 by O2 supplements SUS-mediated endosperm filling in maize.
+
+## Function-related keywords:
+[seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[sucrose-synthase](/tags/sucrose-synthase/)
 
 ## Literature:
    - [Transactivation of Sus1 and Sus2 by Opaque2 is an essential supplement to sucrose synthase-mediated endosperm filling in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13349)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13349](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13349)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32004404](https://pubmed.ncbi.nlm.nih.gov/32004404/)
@@ -33,9 +36,6 @@ tags: [ seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase ]
 - **UniProt accessions:** [K7VDR8](https://www.uniprot.org/uniprotkb/K7VDR8/entry)&nbsp;,&nbsp;[A0A1D6NT56](https://www.uniprot.org/uniprotkb/A0A1D6NT56/entry)&nbsp;,&nbsp;[A0A1D6NT44](https://www.uniprot.org/uniprotkb/A0A1D6NT44/entry)&nbsp;,&nbsp;[A0A1D6NT50](https://www.uniprot.org/uniprotkb/A0A1D6NT50/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase
 
 ## Sequences:
 - **CDS Sequence:**

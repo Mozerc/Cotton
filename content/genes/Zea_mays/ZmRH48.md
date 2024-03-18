@@ -7,18 +7,21 @@ tags: [ development,seed,nucleus,endosperm,seed development,endosperm developmen
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb259260]()
+- **Gene ID:**	[Zm00001eb259260](https://www.maizegdb.org/gene_center/gene/Zm00001eb259260)
 - **Gene Symbol:** ZmRH48
 - **Gene Name:** DEAD-box RNA helicase 48
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The DEAD-box RNA helicase **ZmRH48** is required for the splicing of multiple mitochondrial introns, mitochondrial complex biosynthesis, and seed development in maize.
    - These results suggest that **ZmRH48** is likely a component of a splicing complex and is critical for mitochondrial complex biosynthesis and seed development.
    - **ZmRH48** is a nucleus-encoded, mitochondrion-targeted DEAD-box RNA helicase.
    - Seed development is arrested in the **ZmRH48** mutants.
    - Embryogenesis and endosperm development are severely arrested in the **ZmRH48** mutants
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[helicase](/tags/helicase/)
 
 ## Literature:
    - [The DEAD-box RNA helicase ZmRH48 is required for the splicing of multiple mitochondrial introns, mitochondrial complex biosynthesis, and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13558](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37594235](https://pubmed.ncbi.nlm.nih.gov/37594235/)
@@ -31,9 +34,6 @@ tags: [ development,seed,nucleus,endosperm,seed development,endosperm developmen
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,seed,nucleus,endosperm,seed development,endosperm development,helicase
 
 ## Sequences:
 - **CDS Sequence:**

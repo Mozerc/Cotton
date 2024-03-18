@@ -7,17 +7,20 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,amino acid transpo
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb095020]()
+- **Gene ID:**	[Zm00001eb095020](https://www.maizegdb.org/gene_center/gene/Zm00001eb095020)
 - **Gene Symbol:** ZmHMA32;hma3;ZmHMA;ZmHMA3a;IDP7895
 - **Gene Name:** heavy metal ATPase3
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Natural variations in the P-type ATPase heavy metal transporter gene Zm**hma3** control cadmium accumulation in maize grains.
-   - The candidate gene Zm**hma3** was identified by fine mapping and encodes a tonoplast-localized heavy metal P-type ATPase transporter. An ethyl methane sulfonate mutant analysis and an allelism test confirmed that Zm**hma3** influences maize grain Cd accumulation.
-   - A transposon in intron 1 of Zm**hma3** is responsible for the abnormal amino acid sequence in Mo17. Based on the natural sequence variations in the Zm**hma3** gene of diverse maize lines, four PCR-based molecular markers were developed, and these were successfully used to distinguish five haplotypes with different grain Cd contents in the GWAS panel and to predict grain Cd contents of widely used maize inbred lines and hybrids.
-   - Zm**hma3** encodes a tonoplast-localized P1B-type HMA transporter. According to the sequence variations of Zm**hma3**, four PCR-based molecular markers were developed that can predict and well differentiate between high Cd accumulation and low Cd accumulation maize inbred lines and hybrids.
+## Functional Descriptions:
+   - Natural variations in the P-type ATPase heavy metal transporter gene **ZmHMA**3 control cadmium accumulation in maize grains.
+   - The candidate gene **ZmHMA**3 was identified by fine mapping and encodes a tonoplast-localized heavy metal P-type ATPase transporter. An ethyl methane sulfonate mutant analysis and an allelism test confirmed that **ZmHMA**3 influences maize grain Cd accumulation.
+   - A transposon in intron 1 of **ZmHMA**3 is responsible for the abnormal amino acid sequence in Mo17. Based on the natural sequence variations in the **ZmHMA**3 gene of diverse maize lines, four PCR-based molecular markers were developed, and these were successfully used to distinguish five haplotypes with different grain Cd contents in the GWAS panel and to predict grain Cd contents of widely used maize inbred lines and hybrids.
+   - **ZmHMA**3 encodes a tonoplast-localized P1B-type HMA transporter. According to the sequence variations of **ZmHMA**3, four PCR-based molecular markers were developed that can predict and well differentiate between high Cd accumulation and low Cd accumulation maize inbred lines and hybrids.
+
+## Function-related keywords:
+[grain](/tags/grain/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)&nbsp;,&nbsp;[heavy-metal](/tags/heavy-metal/)
 
 ## Literature:
    - [Natural variations in the P-type ATPase heavy metal transporter gene ZmHMA3 control cadmium accumulation in maize grains.]( https://academic.oup.com/jxb/article/72/18/6230/6291825?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab254](https://academic.oup.com/jxb/article/72/18/6230/6291825?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34235535](https://pubmed.ncbi.nlm.nih.gov/34235535/)
@@ -31,9 +34,6 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,amino acid transpo
 - **UniProt accessions:** [A0A3L6FW78](https://www.uniprot.org/uniprotkb/A0A3L6FW78/entry)&nbsp;,&nbsp;[A0A1D6EL09](https://www.uniprot.org/uniprotkb/A0A1D6EL09/entry)&nbsp;,&nbsp;[A0A3L6FV53](https://www.uniprot.org/uniprotkb/A0A3L6FV53/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-grain,atpase,transporter,cadmium,cadmium accumulation,amino acid transporter,heavy metal
 
 ## Sequences:
 - **CDS Sequence:**

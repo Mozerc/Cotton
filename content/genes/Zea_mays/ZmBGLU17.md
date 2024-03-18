@@ -1,23 +1,27 @@
 ---
-description: Zm00001eb054240 ; Zea mays
+description: beta-glucosidase17 ; Zm00001eb054240 ; Zea mays
 meta_title:
 title: ZmBGLU17
 categories: [Zea mays]
-tags: [ resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resistance ]
+tags: [ growth,resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resistance ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb054240]()
+- **Gene ID:**	[Zm00001eb054240](https://www.maizegdb.org/gene_center/gene/Zm00001eb054240)
 - **Gene Symbol:** ZmBGLU17
-- **Gene Name:** 
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Gene Name:** beta-glucosidase17
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmBGLU17** confers resistance to both pathogens and insect pests in maize without a yield penalty, by fine-tuning the accumulation of lignin and DIMBOA.
    - A β-glucosidase **ZmBGLU17** was identified as a resistance gene against Pythium aphanidermatum, one of the causal agents of corn stalk rot, by genome-wide association analysis.
    - **ZmBGLU17** is significantly associated with Pythium stalk rot resistance.
    - **ZmBGLU17** confers resistance to both pathogen and herbivorous insect without yield penalty
+   - **ZmBGLU17** overexpression lines exhibited normal growth and yield phenotype in the field.
+
+## Function-related keywords:
+[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [A dual-subcellular localized β-glucosidase confers pathogen and insect resistance without a yield penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14242](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38012865](https://pubmed.ncbi.nlm.nih.gov/38012865/)
@@ -26,13 +30,10 @@ tags: [ resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resis
    - [PBJ | 中国农大朱旺升团队解析 β-葡萄糖苷酶ZmBGLU17 赋予玉米病虫害抗性的作用机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247560132&idx=1&sn=a0508e0f9b77f6c10e4fb34e844b2570&chksm=17dd0c9b00e10063d4fc7632619cc06c29d034a77affad22367d7960340866eadd33da74473f&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:** [LOC103643865](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643865)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-resistance,yield,insect,pathogen,lignin,insect resistance,pathogen resistance
 
 ## Sequences:
 - **CDS Sequence:**

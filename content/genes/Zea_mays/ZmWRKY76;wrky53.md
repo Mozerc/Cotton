@@ -7,18 +7,21 @@ tags: [ protoplasts ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb312870]()
+- **Gene ID:**	[Zm00001eb312870](https://www.maizegdb.org/gene_center/gene/Zm00001eb312870)
 - **Gene Symbol:** ZmWRKY76;wrky53
 - **Gene Name:** WRKY-transcription factor 53
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The two complexes can both activate the promoters of transcriptional repressors (**ZmWRKY76** and ZmBT2), and the promoters of PLASTOCHRON group genes can be repressed by **ZmWRKY76** and ZmBT2 in maize protoplasts. 
    - **ZmWRKY76** and ZmBT2, which repress the expression of cytochrome P450 family members in PLASTOCHRON branch.
    - **ZmWRKY76** and ZmBT2, which can repress the expression of cytochrome P450 family members.
    - These results indicate that **ZmWRKY76** and **ZmWRKY76** are nuclear-localized transcriptional repressors.
    - These data indicate that **ZmWRKY76** and ZmBT2 repress the expression of PLA cluster genes in maize protoplasts.
+
+## Function-related keywords:
+[protoplasts](/tags/protoplasts/)
 
 ## Literature:
    - [Maize transcription factor ZmNF-YC13 regulates plant architecture.]( https://academic.oup.com/jxb/article/72/13/4757/6217802?login=true#266701139)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab157](https://academic.oup.com/jxb/article/72/13/4757/6217802?login=true#266701139)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33831218](https://pubmed.ncbi.nlm.nih.gov/33831218/)
@@ -31,9 +34,6 @@ tags: [ protoplasts ]
 - **UniProt accessions:** [B1Q040](https://www.uniprot.org/uniprotkb/B1Q040/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-protoplasts
 
 ## Sequences:
 - **CDS Sequence:**

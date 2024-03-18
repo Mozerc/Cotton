@@ -7,18 +7,21 @@ tags: [ pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax bios
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb305800]()
+- **Gene ID:**	[Zm00001eb305800](https://www.maizegdb.org/gene_center/gene/Zm00001eb305800)
 - **Gene Symbol:** ZmPKSB;chls1
 - **Gene Name:** chalcone synthase1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The causal gene (**ZmPKSB**) of pksb mutant encoded an endoplasmic reticulum (ER)-localized polyketide synthase (PKS) with catalytic activities to malonyl-CoA and midchain-fatty acyl-CoA to generate triketide and tetraketide α-pyrone.
    - The ZmMYB84-**ZmPKSB** regulatory module controlled a trade-off between anther cuticle and pollen exine formation by altering expression of a series of genes related to biosynthesis and transport of sporopollenin.
    - **ZmPKSB** functions as a polyketide synthase with its enzymatic activities dependent on a catalytic triad.
    - **ZmPKSB** is an active polyketide synthase with its enzymatic activities dependent on a catalytic triad and can use fatty acyl-CoA esters as starter substrates to produce triketide and tetraketide α-pyrone.
    - The ZmMYB84-**ZmPKSB** regulatory module controlled a trade-off between anther cuticle and pollen exine formation by altering expression of a series of genes related to biosynthesis and transport of sporopollenin, cutin and wax.
+
+## Function-related keywords:
+[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
 
 ## Literature:
    - [The ZmMYB84-ZmPKSB regulatory module controls male fertility through modulating anther cuticle-pollen exine trade-off in maize anthers.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13911](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070225](https://pubmed.ncbi.nlm.nih.gov/36070225/)
@@ -33,9 +36,6 @@ tags: [ pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax bios
 - **UniProt accessions:** [B4G105](https://www.uniprot.org/uniprotkb/B4G105/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax biosynthesis,pollen formation,cuticle formation
 
 ## Sequences:
 - **CDS Sequence:**

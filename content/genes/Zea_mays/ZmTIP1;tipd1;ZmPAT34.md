@@ -7,18 +7,21 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb386990]()
+- **Gene ID:**	[Zm00001eb386990](https://www.maizegdb.org/gene_center/gene/Zm00001eb386990)
 - **Gene Symbol:** ZmTIP1;tipd1;ZmPAT34
 - **Gene Name:** tip growth defective1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Genetic variation in **ZmTIP1** contributes to root hair elongation and drought tolerance in maize.
    - Here, we report on comprehensive genetic and functional analysis, indicating that **ZmTIP1**, which encodes a functional S-acyltransferase, plays a positive role in regulating the length of root hairs and the level of drought tolerance in maize.
    - We show that enhancing **ZmTIP1** expression in transgenic Arabidopsis and maize increased root hair length, as well as plant tolerance to water deficit.
    - A calcium-dependent protein kinase, ZmCPK9, was identified as a substrate protein of **ZmTIP1**, and **ZmTIP1**-mediated palmitoylation of two cysteine residues facilitated the ZmCPK9 PM association.
    - The results of this research enrich our knowledge about **ZmTIP1**-mediated protein S-acylation modifications in relation to the regulation of root hair elongation and drought tolerance.
+
+## Function-related keywords:
+[root](/tags/root/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
    - [Genetic variation in ZmTIP1 contributes to root hair elongation and drought tolerance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13290)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13290](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13290)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31692165](https://pubmed.ncbi.nlm.nih.gov/31692165/)
@@ -33,9 +36,6 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
 - **UniProt accessions:** [K7WAN1](https://www.uniprot.org/uniprotkb/K7WAN1/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-root,kinase,drought,tolerance,drought tolerance,root elongation,protein kinase,calcium,root hair,root length
 
 ## Sequences:
 - **CDS Sequence:**

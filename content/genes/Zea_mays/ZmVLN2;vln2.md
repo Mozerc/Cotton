@@ -7,17 +7,20 @@ tags: [ development,breeding,peduncle ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb362860]()
+- **Gene ID:**	[Zm00001eb362860](https://www.maizegdb.org/gene_center/gene/Zm00001eb362860)
 - **Gene Symbol:** ZmVLN2;vln2
 - **Gene Name:** villin-like2
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - **Zm**vln2**** is the candidate gene in qPVB55 that affects maize VB development.
-   - **Zm**vln2**** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
-   - A comparison of the PVB-related traits of the **Zm**vln2**** mutant and the **Zm**vln2**** wild-type revealed the **Zm**vln2**** mutant had a significantly smaller peduncle diameter, but there were no significant differences in LEH and LNEH.
-   - Natural variations in **Zm**vln2**** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
+## Functional Descriptions:
+   - **ZmVLN2** is the candidate gene in qPVB55 that affects maize VB development.
+   - **ZmVLN2** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
+   - A comparison of the PVB-related traits of the **ZmVLN2** mutant and the **ZmVLN2** wild-type revealed the **ZmVLN2** mutant had a significantly smaller peduncle diameter, but there were no significant differences in LEH and LNEH.
+   - Natural variations in **ZmVLN2** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[peduncle](/tags/peduncle/)
 
 ## Literature:
    - [Dissection of the genetic architecture of peduncle vascular bundle-related traits in maize by a genome-wide association study.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13782](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35080335](https://pubmed.ncbi.nlm.nih.gov/35080335/)
@@ -30,9 +33,6 @@ tags: [ development,breeding,peduncle ]
 - **UniProt accessions:** [B8A0C4](https://www.uniprot.org/uniprotkb/B8A0C4/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,breeding,peduncle
 
 ## Sequences:
 - **CDS Sequence:**

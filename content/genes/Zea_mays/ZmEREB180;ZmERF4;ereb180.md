@@ -7,18 +7,21 @@ tags: [ submergence,development,stress,tolerance,nucleus,ethylene,stress toleran
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb006180]()
+- **Gene ID:**	[Zm00001eb006180](https://www.maizegdb.org/gene_center/gene/Zm00001eb006180)
 - **Gene Symbol:** ZmEREB180;ZmERF4;ereb180
 - **Gene Name:** AP2-EREBP-transcription factor 180
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Here, a candidate gene association analysis of the ZmERFVII gene family showed that a waterlogging-responsive gene, **Zm**ereb180****, was tightly associated with waterlogging tolerance.
-   - **Zm**ereb180**** expression specifically responded to waterlogging and was up-regulated by ethylene; in addition, its gene product localized to the nucleus. Variations in the 5ʹ-untranslated region (5ʹ-UTR) and mRNA abundance of this gene under waterlogging conditions were significantly associated with survival rate (SR).
-   - Ectopic expression of **Zm**ereb180**** in Arabidopsis increased the SR after submergence stress, and overexpression of **Zm**ereb180**** in maize also enhanced the SR after long-term waterlogging stress, apparently through enhanced formation of adventitious roots (ARs) and regulation of antioxidant levels.
-   - Transcriptomic assays of the transgenic maize line under normal and waterlogged conditions further provided evidence that **Zm**ereb180**** regulated AR development and reactive oxygen species homeostasis.
-   - Functional analysis showed that **Zm**ereb180**** plays a positive role in maize waterlogging tolerance, seemingly by promoting the formation of adventitious roots and coordinating ROS homeostasis.
+## Functional Descriptions:
+   - Here, a candidate gene association analysis of the ZmERFVII gene family showed that a waterlogging-responsive gene, **ZmEREB180**, was tightly associated with waterlogging tolerance.
+   - **ZmEREB180** expression specifically responded to waterlogging and was up-regulated by ethylene; in addition, its gene product localized to the nucleus. Variations in the 5ʹ-untranslated region (5ʹ-UTR) and mRNA abundance of this gene under waterlogging conditions were significantly associated with survival rate (SR).
+   - Ectopic expression of **ZmEREB180** in Arabidopsis increased the SR after submergence stress, and overexpression of **ZmEREB180** in maize also enhanced the SR after long-term waterlogging stress, apparently through enhanced formation of adventitious roots (ARs) and regulation of antioxidant levels.
+   - Transcriptomic assays of the transgenic maize line under normal and waterlogged conditions further provided evidence that **ZmEREB180** regulated AR development and reactive oxygen species homeostasis.
+   - Functional analysis showed that **ZmEREB180** plays a positive role in maize waterlogging tolerance, seemingly by promoting the formation of adventitious roots and coordinating ROS homeostasis.
+
+## Function-related keywords:
+[submergence](/tags/submergence/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[submergence-tolerance](/tags/submergence-tolerance/)&nbsp;,&nbsp;[ethylene-homeostasis](/tags/ethylene-homeostasis/)
 
 ## Literature:
    - [A group VII ethylene response factor gene, ZmEREB180, coordinates waterlogging tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13140](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31033158](https://pubmed.ncbi.nlm.nih.gov/31033158/)
@@ -33,9 +36,6 @@ tags: [ submergence,development,stress,tolerance,nucleus,ethylene,stress toleran
 - **UniProt accessions:** [B4FQB2](https://www.uniprot.org/uniprotkb/B4FQB2/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-submergence,development,stress,tolerance,nucleus,ethylene,stress tolerance,homeostasis,reactive oxygen species,submergence tolerance,ethylene homeostasis
 
 ## Sequences:
 - **CDS Sequence:**

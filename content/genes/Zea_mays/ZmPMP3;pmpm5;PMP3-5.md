@@ -7,17 +7,20 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001d022264]()
+- **Gene ID:**	[Zm00001d022264](https://www.maizegdb.org/gene_center/gene/Zm00001d022264)
 - **Gene Symbol:** ZmPMP3;pmpm5;PMP3-5
 - **Gene Name:** proteolipid membrane potential regulator5
-- **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - By comparing the biomass of three CRISPR/Cas9 mutants of ZmCLCg and one **ZmPMP3** EMS mutant with their wild-type plants under salt stress, the salt tolerance function of candidate genes ZmCLCg and **ZmPMP3** were confirmed.
    - The expression levels of ZmCLCg (GRMZM2G071119) and **ZmPMP3** (GRMZM2G477325) in shoot of B73 under salt stress were analysed. Results showed that ZmCLCg and **ZmPMP3** were responsive to salt stress in B73.
    - The biomass of the **ZmPMP3** mutant and its wild type was determined under control and salt treatment. We observed that the **ZmPMP3** mutant showed significantly decreased root length, root fresh weight, shoot length and shoot fresh weight than the wild type under 100 mm NaCl condition.
    - The **ZmPMP3** (GRMZM2G477325) was reported to regulate ion homeostasis in yeast mutant under salt stress.
+
+## Function-related keywords:
+[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
    - [Molecular dissection of maize seedling salt tolerance using a genome-wide association analysis method.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13607)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13607](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13607)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33934485](https://pubmed.ncbi.nlm.nih.gov/33934485/)
@@ -31,9 +34,6 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 - **UniProt accessions:** [B4FFP9](https://www.uniprot.org/uniprotkb/B4FFP9/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeostasis,biomass,root length
 
 ## Sequences:
 - **CDS Sequence:**

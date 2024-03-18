@@ -7,18 +7,21 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb413100]()
+- **Gene ID:**	[Zm00001eb413100](https://www.maizegdb.org/gene_center/gene/Zm00001eb413100)
 - **Gene Symbol:** ZmNF-YC2;ca5p5
 - **Gene Name:** CCAAT-HAP5-transcription factor 55
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Identification of **ZmNF-YC2** and its regulatory network for maize flowering time
    - We then developed a gene regulatory model of flowering time in maize using **ZmNF-YC2**, ZmNF-YA3, ZmAP2, ZMM4, and other key genes.
    - Cascading regulation of flowering time by **ZmNF-YC2**.
    - **ZmNF-YC2** regulates other flowering time-associated genes.
    - **ZmNF-YC2** regulates flowering time in maize under LD conditions.
+
+## Function-related keywords:
+[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Identification of ZmNF-YC2 and its regulatory network for maize flowering time.]( https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab364](https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34338753](https://pubmed.ncbi.nlm.nih.gov/34338753/)
@@ -31,9 +34,6 @@ tags: [ flowering time,flowering ]
 - **UniProt accessions:** [B4FWZ1](https://www.uniprot.org/uniprotkb/B4FWZ1/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

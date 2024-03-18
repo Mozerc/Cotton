@@ -7,20 +7,23 @@ tags: [ development,starch,mitochondria,endosperm,endosperm development,starch a
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb045790]()
+- **Gene ID:**	[Zm00001eb045790](https://www.maizegdb.org/gene_center/gene/Zm00001eb045790)
 - **Gene Symbol:** ZmMdh4;mdh4
 - **Gene Name:** malate dehydrogenase4
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - **Zm**mdh4**** regulates the balance between mitochondrial respiration and glycolysis, ATP production and endosperm development, through a yet unknown feedback regulatory mechanism in mitochondria.
-   - A regulatory model of **Zm**mdh4**** on storage reserve accumulation in maize.
-   - **Zm**mdh4**** predominantly catalyzes the conversion from OAA to malate.
-   - **Zm**mdh4**** affects starch and zein synthesis in the endosperm.
+## Functional Descriptions:
+   - **ZmMdh4** regulates the balance between mitochondrial respiration and glycolysis, ATP production and endosperm development, through a yet unknown feedback regulatory mechanism in mitochondria.
+   - A regulatory model of **ZmMdh4** on storage reserve accumulation in maize.
+   - **ZmMdh4** predominantly catalyzes the conversion from OAA to malate.
+   - **ZmMdh4** affects starch and zein synthesis in the endosperm.
    - Here, we characterized a novel naturally occurring maize **mdh4**-1 mutant, which produces small, opaque kernels and exhibits reduced starch but enhanced lysine content.
-   - Enzymatic assays demonstrated that **Zm**mdh4**** predominantly catalyses the conversion from OAA to malate.
-   - Knocking down **Zm**mdh4**** in vivo led to a substantial metabolic shift towards glycolysis and a dramatic disruption in the activity of the mitochondrial complex I, which was correlated with transcriptomic alterations.
+   - Enzymatic assays demonstrated that **ZmMdh4** predominantly catalyses the conversion from OAA to malate.
+   - Knocking down **ZmMdh4** in vivo led to a substantial metabolic shift towards glycolysis and a dramatic disruption in the activity of the mitochondrial complex I, which was correlated with transcriptomic alterations.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [Cytosolic malate dehydrogenase 4 modulates cellular energetics and storage reserve accumulation in maize endosperm.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13416)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13416](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13416)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32436613](https://pubmed.ncbi.nlm.nih.gov/32436613/)
@@ -36,9 +39,6 @@ tags: [ development,starch,mitochondria,endosperm,endosperm development,starch a
 - **UniProt accessions:** [Q08062](https://www.uniprot.org/uniprotkb/Q08062/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,starch,mitochondria,endosperm,endosperm development,starch accumulation
 
 ## Sequences:
 - **CDS Sequence:**

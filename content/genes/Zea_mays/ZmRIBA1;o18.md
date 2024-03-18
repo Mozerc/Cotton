@@ -7,18 +7,21 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb244650]()
+- **Gene ID:**	[Zm00001eb244650](https://www.maizegdb.org/gene_center/gene/Zm00001eb244650)
 - **Gene Symbol:** ZmRIBA1;o18
 - **Gene Name:** opaque18
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - **o18** encodes a rate-limiting bifunctional enzyme **ZmRIBA1**, targeted to plastid where to initiate riboflavin biosynthesis.
+## Functional Descriptions:
+   - O18 encodes a rate-limiting bifunctional enzyme **ZmRIBA1**, targeted to plastid where to initiate riboflavin biosynthesis.
    - Substantiate a key role of riboflavin in coordinating cellular energy and cell cycle to modulate maize endosperm development.
    - Overexpression of **o18** increases riboflavin production and confers osmotic tolerance.
    - Here, we report a novel maize (Zea mays L.) opaque mutant **o18**, which displays an increase in lysine accumulation, but impaired endosperm filling and embryo development.
    - Loss of function of **o18** specifically disrupts respiratory complexes I and II, but also decreases SDH1 flavinylation, and in turn shifts the mitochondrial tricarboxylic acid (TCA) cycle to glycolysis.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[plastid](/tags/plastid/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [Riboflavin integrates cellular energetics and cell cycle to regulate maize seed development.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13826](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35426230](https://pubmed.ncbi.nlm.nih.gov/35426230/)
@@ -31,9 +34,6 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endosperm development,plastid,embryo development
 
 ## Sequences:
 - **CDS Sequence:**

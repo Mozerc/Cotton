@@ -7,16 +7,19 @@ tags: [ salt,lignin,casparian strip ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb056600]()
+- **Gene ID:**	[Zm00001eb056600](https://www.maizegdb.org/gene_center/gene/Zm00001eb056600)
 - **Gene Symbol:** ZmSTL1;stl1
 - **Gene Name:** Salt-Tolerant Locus 1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - **Zm**stl1**** encodes a dirigent protein (termed ZmESBL) localized to the Casparian strip (CS) domain. Mutants lacking ZmESBL display impaired lignin deposition at endodermal CS domain which leads to a defective CS barrier.
-   - **Zm**stl1**** encodes a dirigent family protein designated as ZmESBL, which likely regulates the formation of endodermal Casparian strip (CS) by mediating the lignin deposition at the endodermal CS domain.
-   - **Zm**stl1**** underlies the salt hypersensitivity of CIMBL45.
+## Functional Descriptions:
+   - **ZmSTL1** encodes a dirigent protein (termed ZmESBL) localized to the Casparian strip (CS) domain. Mutants lacking ZmESBL display impaired lignin deposition at endodermal CS domain which leads to a defective CS barrier.
+   - **ZmSTL1** encodes a dirigent family protein designated as ZmESBL, which likely regulates the formation of endodermal Casparian strip (CS) by mediating the lignin deposition at the endodermal CS domain.
+   - **ZmSTL1** underlies the salt hypersensitivity of CIMBL45.
+
+## Function-related keywords:
+[salt](/tags/salt/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[casparian-strip](/tags/casparian-strip/)
 
 ## Literature:
    - [A dirigent family protein confers variation of Casparian strip thickness and salt tolerance in maize.]( https://www.nature.com/articles/s41467-022-29809-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-29809-0](https://www.nature.com/articles/s41467-022-29809-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35468878](https://pubmed.ncbi.nlm.nih.gov/35468878/)
@@ -29,9 +32,6 @@ tags: [ salt,lignin,casparian strip ]
 - **UniProt accessions:** [A0A1D6L3I8](https://www.uniprot.org/uniprotkb/A0A1D6L3I8/entry)&nbsp;,&nbsp;[A0A317YBZ7](https://www.uniprot.org/uniprotkb/A0A317YBZ7/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-salt,lignin,casparian strip
 
 ## Sequences:
 - **CDS Sequence:**

@@ -7,18 +7,21 @@ tags: [ development,auxin,seed,yield,endosperm,seed weight,seed size,seed develo
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb409250]()
+- **Gene ID:**	[Zm00001eb409250](https://www.maizegdb.org/gene_center/gene/Zm00001eb409250)
 - **Gene Symbol:** ZmYUC1;de18
 - **Gene Name:** defective18
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - miR169o and ZmNF-YA13 act in concert to coordinate the expression of **ZmYUC1** that determines seed size and weight in maize kernels.
    - We demonstrate that ZmNF-YA13 regulates the expression of the auxin biosynthetic gene **ZmYUC1**, which modulates auxin levels in the early developing seeds and determines the number of endosperm cells, thereby governing maize seed size and ultimately yield.
    - ZmNF-YA13 activates the transcription of maize auxin synthesis gene **ZmYUC1**.
    - Except for **ZmYUC1**, the expression levels of other auxin synthesis genes were extremely low, suggestive of a key role of **ZmYUC1** in auxin synthesis at such an early stage of seed development.
    - Significant upregulation in **ZmYUC1** in NF-YA13 OE plants and downregulation in miR169o OE were verified by qPCR in 5 DAP kernels.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [miR169o and ZmNF-YA13 act in concert to coordinate the expression of ZmYUC1 that determines seed size and weight in maize kernels.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18317)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18317](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18317)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35713356](https://pubmed.ncbi.nlm.nih.gov/35713356/)
@@ -32,9 +35,6 @@ tags: [ development,auxin,seed,yield,endosperm,seed weight,seed size,seed develo
 - **UniProt accessions:** [K7TFF5](https://www.uniprot.org/uniprotkb/K7TFF5/entry)&nbsp;,&nbsp;[A0A1D6IV45](https://www.uniprot.org/uniprotkb/A0A1D6IV45/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,auxin,seed,yield,endosperm,seed weight,seed size,seed development,endosperm development
 
 ## Sequences:
 - **CDS Sequence:**

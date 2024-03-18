@@ -7,18 +7,21 @@ tags: [ br,cell elongation,resistant ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb384820]()
+- **Gene ID:**	[Zm00001eb384820](https://www.maizegdb.org/gene_center/gene/Zm00001eb384820)
 - **Gene Symbol:** ZmBZR1;ZmBES1;BZR1-1;ZmBZR3;bzr1
 - **Gene Name:** BZR-transcription factor 1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Impressively, the expression of the BR-resistant 1 gene (**Zm**bzr1****/Zm00001d046305) belonging to the turquoise module was negatively correlated with diameter and perimeter (r<−0.75).
-   - The expression trends of ZmD1 and **Zm**bzr1**** were complementary in maize stalks at the ES and MS.
-   - Many crucial cell elongation regulatory genes, including Cytochrome P450 D1 (ZmD1) and Brassinzole-resistant 1 (**Zm**bzr1****), were identified as hub genes in the elongated stalk network.
-   - The gene expression of **Zm**bzr1**** was upregulated in the zmd1 mutant, as predicted by our analysis that the expression trends of ZmD1 and **Zm**bzr1**** were complementary in maize stalks.
-   - Our previous study also indicated that overexpression of **Zm**bzr1**** in transgenic Arabidopsis plants leads to a significant increase in plant size.
+## Functional Descriptions:
+   - Impressively, the expression of the BR-resistant 1 gene (**ZmBZR1**/Zm00001d046305) belonging to the turquoise module was negatively correlated with diameter and perimeter (r<−0.75).
+   - The expression trends of ZmD1 and **ZmBZR1** were complementary in maize stalks at the ES and MS.
+   - Many crucial cell elongation regulatory genes, including Cytochrome P450 D1 (ZmD1) and Brassinzole-resistant 1 (**ZmBZR1**), were identified as hub genes in the elongated stalk network.
+   - The gene expression of **ZmBZR1** was upregulated in the zmd1 mutant, as predicted by our analysis that the expression trends of ZmD1 and **ZmBZR1** were complementary in maize stalks.
+   - Our previous study also indicated that overexpression of **ZmBZR1** in transgenic Arabidopsis plants leads to a significant increase in plant size.
+
+## Function-related keywords:
+[br](/tags/br/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
    - [A spatiotemporal transcriptomic network dynamically modulates stalk development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13909](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070002](https://pubmed.ncbi.nlm.nih.gov/36070002/)
@@ -33,9 +36,6 @@ tags: [ br,cell elongation,resistant ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-br,cell elongation,resistant
 
 ## Sequences:
 - **CDS Sequence:**

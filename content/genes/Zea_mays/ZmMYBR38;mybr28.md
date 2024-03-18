@@ -7,15 +7,18 @@ tags: [ drought,domestication,tolerance,yield,drought tolerance,drought response
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb243450]()
+- **Gene ID:**	[Zm00001eb243450](https://www.maizegdb.org/gene_center/gene/Zm00001eb243450)
 - **Gene Symbol:** ZmMYBR38;mybr28
 - **Gene Name:** MYB-related-transcription factor 28
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmMYBR38**, a target of DRESH8-derived small interfering RNAs, revealed a transposable element-mediated inverted repeats (TE-IR)-derived sRNA- and gene-regulatory network that balances plant drought tolerance with yield-related traits. A genome-wide scan revealed that TE-IRs associate with drought response and yield-related traits that were positively selected and expanded during maize domestication.
    - Demonstrating that **ZmMYBR38** plays conserved and positive roles in the regulation of plant drought tolerance.
+
+## Function-related keywords:
+[drought](/tags/drought/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize.]( https://www.nature.com/articles/s41587-022-01470-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41587-022-01470-4](https://www.nature.com/articles/s41587-022-01470-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36229611](https://pubmed.ncbi.nlm.nih.gov/36229611/)
@@ -28,9 +31,6 @@ tags: [ drought,domestication,tolerance,yield,drought tolerance,drought response
 - **UniProt accessions:** [A0A1D6HA97](https://www.uniprot.org/uniprotkb/A0A1D6HA97/entry)&nbsp;,&nbsp;[A0A1D6HA98](https://www.uniprot.org/uniprotkb/A0A1D6HA98/entry)&nbsp;,&nbsp;[A0A1X8EUP5](https://www.uniprot.org/uniprotkb/A0A1X8EUP5/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-drought,domestication,tolerance,yield,drought tolerance,drought response
 
 ## Sequences:
 - **CDS Sequence:**

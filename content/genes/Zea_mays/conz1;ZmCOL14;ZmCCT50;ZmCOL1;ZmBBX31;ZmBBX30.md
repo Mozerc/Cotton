@@ -7,18 +7,21 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb380460]()
+- **Gene ID:**	[Zm00001eb380460](https://www.maizegdb.org/gene_center/gene/Zm00001eb380460)
 - **Gene Symbol:** conz1;ZmCOL14;ZmCCT50;ZmCOL1;ZmBBX31;ZmBBX30
 - **Gene Name:** constans1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Identified constans of Zea mays1 (**conz1**), a maize CONSTANS homologue, that exhibited distinct diurnal expression patterns under varied photoperiods.
    - A maize CONSTANS-like gene, **conz1**, exhibits distinct diurnal expression patterns in varied photoperiods.
    - A single nucleotide polymorphism in **conz1** enhances maize adaptation to higher latitudes.
    - Zea mays1 (**conz1**), a maize CONSTANS homologue, that exhibited distinct diurnal expression patterns under varied photoperiods. However, how **conz1** contributes to maize flowering time variation and adaptation remains largely unknown.
    - As **conz1** was underneath of the peak of qPR9 and the **conz1** KO plants tended to exhibit similar effect patterns to the qPR9 NILs under varied photoperiods, **conz1** was considered the causative gene underlying qPR9.
+
+## Function-related keywords:
+[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A single nucleotide polymorphism in conz1 enhances maize adaptation to higher latitudes.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14148](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37558498](https://pubmed.ncbi.nlm.nih.gov/37558498/)
@@ -32,9 +35,6 @@ tags: [ flowering time,flowering ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

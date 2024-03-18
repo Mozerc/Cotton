@@ -7,17 +7,20 @@ tags: [ resistance,disease,disease resistance,immunity,cell death,breeding,broad
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb298990]()
+- **Gene ID:**	[Zm00001eb298990](https://www.maizegdb.org/gene_center/gene/Zm00001eb298990)
 - **Gene Symbol:** ZmMM1;glk28
 - **Gene Name:** Mexicana lesion mimic 1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The successful isolation of the **ZmMM1** resistance gene will help not only in developing broad-spectrum and durable disease resistance but also in understanding the molecular mechanisms underlying MDR.
    - **ZmMM1** acts as a transcription repressor and negatively regulates the transcription of specific target genes, including **ZmMM1**-target gene 3 (ZmMT3), which functions as a negative regulator of plant immunity and associated cell death.
    - The teosinte allele of the **ZmMM1** gene has great potential for breeding.
    - In summary, the teosinte allele of **ZmMM1** is a good resource for improving maize resistance against NLB, GLS, and SCR.
+
+## Function-related keywords:
+[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[broad-spectrum-disease-resistance](/tags/broad-spectrum-disease-resistance/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
 
 ## Literature:
    - [A teosinte-derived allele of a MYB transcription repressor confers multiple disease resistance in maize.]( https://www.sciencedirect.com/science/article/pii/S1674205221002744?via%3Dihub#bib3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2021.07.008](https://www.sciencedirect.com/science/article/pii/S1674205221002744?via%3Dihub#bib3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34271176](https://pubmed.ncbi.nlm.nih.gov/34271176/)
@@ -30,9 +33,6 @@ tags: [ resistance,disease,disease resistance,immunity,cell death,breeding,broad
 - **UniProt accessions:** [A0A1D6HRM9](https://www.uniprot.org/uniprotkb/A0A1D6HRM9/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-resistance,disease,disease resistance,immunity,cell death,breeding,broad-spectrum disease resistance,transcription regulator,plant immunity
 
 ## Sequences:
 - **CDS Sequence:**

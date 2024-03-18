@@ -7,16 +7,19 @@ tags: [ stem,root,growth,grain,resistance,defense,pathogen,iaa,root growth,iaa b
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb053610]()
+- **Gene ID:**	[Zm00001eb053610](https://www.maizegdb.org/gene_center/gene/Zm00001eb053610)
 - **Gene Symbol:** ZmAuxRP1
 - **Gene Name:** 
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmAuxRP1**, which can significantly improve the resistance of maize to stem rot, is also effective against ear and grain rot.
    - **ZmAuxRP1** responded quickly to pathogen challenge with a rapid yet transient reduction in expression that led to arrested root growth but enhanced resistance to Gibberella stalk rot and Fusarium ear rot.
    - **ZmAuxRP1** was shown to promote the biosynthesis of indole-3-acetic acid (IAA), while suppressing the formation of benzoxazinoid defense compounds.
+
+## Function-related keywords:
+[stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [The Auxin-Regulated Protein ZmAuxRP1 Coordinates the Balance between Root Growth and Stalk Rot Disease Resistance in Maize.]( https://www.sciencedirect.com/science/article/pii/S1674205218303101?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2018.10.005](https://www.sciencedirect.com/science/article/pii/S1674205218303101?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30853061](https://pubmed.ncbi.nlm.nih.gov/30853061/)
@@ -29,9 +32,6 @@ tags: [ stem,root,growth,grain,resistance,defense,pathogen,iaa,root growth,iaa b
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-stem,root,growth,grain,resistance,defense,pathogen,iaa,root growth,iaa biosynthesis,grain growth,pathogen resistance
 
 ## Sequences:
 - **CDS Sequence:**

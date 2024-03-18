@@ -1,37 +1,39 @@
 ---
-description: RAMOSA3 ; GRMZM2G014729 ; Zea mays
+description: RAMOSA3 ; Zm00001eb327910 ; Zea mays
 meta_title:
 title: RA3
 categories: [Zea mays]
-tags: [ cell death,meristem,axillary meristem,programmed cell death ]
+tags: [ development,cell death,floral,meristem,floral meristem,branching,axillary meristem,programmed cell death,floral meristem determinacy ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[GRMZM2G014729]()
+- **Gene ID:**	[Zm00001eb327910](https://www.maizegdb.org/gene_center/gene/Zm00001eb327910)
 - **Gene Symbol:** RA3
 - **Gene Name:** RAMOSA3
-- **Genome:** [B73 RefGen_v3]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - gt1 and **RA3**, which together regulate carpel suppression, meristem determinacy, and axillary meristem suppression.
-   - **RA3** Mutants Have a Carpel Suppression Phenotype and **RA3** Colocalizes with GT1 in Carpel Nuclei.
+## Functional Descriptions:
+   - GT1 and **RA3**, which together regulate carpel suppression, meristem determinacy, and axillary meristem suppression.
+   - GT1 Suppresses **RA3** Tassel and Ear Branching.
    - GT1 and **RA3** Regulate Genes Predicted to Mediate Programmed Cell Death.
+   - Dissection of floral development revealed that **RA3** single mutants have partially derepressed carpels, whereas gt1;**RA3** double mutants have completely derepressed carpels.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[axillary-meristem](/tags/axillary-meristem/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[floral-meristem-determinacy](/tags/floral-meristem-determinacy/)
 
 ## Literature:
    - [Recruitment of an ancient branching program to suppress carpel development in maize flowers.]( https://www.pnas.org/doi/full/10.1073/pnas.2115871119)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2115871119](https://www.pnas.org/doi/full/10.1073/pnas.2115871119)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34996873](https://pubmed.ncbi.nlm.nih.gov/34996873/)
+   - [Zmhdz9, an HD-Zip transcription factor, promotes drought stress resistance in maize by modulating ABA and lignin accumulation.]( https://www.sciencedirect.com/science/article/pii/S0141813023057483?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2023.128849](https://www.sciencedirect.com/science/article/pii/S0141813023057483?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38113999](https://pubmed.ncbi.nlm.nih.gov/38113999/)
 
 ## Related News:
    - [PNAS | 两个经典的发育相关基因（GT1/RA3）通过控制营养分枝来抑制玉米的心皮发育](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247523618&idx=1&sn=15700373dd729a59fb1a4a6eb7ea0911&chksm=ce903077f9e7b96163cccaaa43b9a3a6c459323f4877472489bc1c68524935e006ab749d198a&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:** [732774](https://www.ncbi.nlm.nih.gov/gene/?term=732774)
+- **UniProt accessions:** [Q1W5S8](https://www.uniprot.org/uniprotkb/Q1W5S8/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-cell death,meristem,axillary meristem,programmed cell death
 
 ## Sequences:
 - **CDS Sequence:**

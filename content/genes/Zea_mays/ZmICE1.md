@@ -3,19 +3,23 @@ description: GRMZM25173534 ; Zea mays
 meta_title:
 title: ZmICE1
 categories: [Zea mays]
-tags: [ transcription factor,stress,cold stress,cold,stress response ]
+tags: [ transcription factor,stress,cold stress,cold,stomatal,stress response ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[GRMZM25173534]()
+- **Gene ID:**	[GRMZM25173534](https://www.maizegdb.org/gene_center/gene/GRMZM25173534)
 - **Gene Symbol:** ZmICE1
 - **Gene Name:** 
-- **Genome:** [B73 RefGen_v3]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
+   - As AtYODA acts as a molecular switch in stomatal differentiation and O11 interacts with **ZmICE1** and directly regulates ZmYoda, we speculated that **ZmICE1** might also be involved in regulating ZmYoda.
    - **ZmICE1** Coordinates Regulation of Stress Response Genes and ZmYoda with O11.
    - **ZmICE1**, a key transcription factor associated with cold stress response.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [OPAQUE11 Is a Central Hub of the Regulatory Network for Maize Endosperm Development and Nutrient Metabolism.]( https://academic.oup.com/plcell/article/30/2/375/6099111?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00616](https://academic.oup.com/plcell/article/30/2/375/6099111?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29436476](https://pubmed.ncbi.nlm.nih.gov/29436476/)
@@ -28,9 +32,6 @@ tags: [ transcription factor,stress,cold stress,cold,stress response ]
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-transcription factor,stress,cold stress,cold,stress response
 
 ## Sequences:
 - **CDS Sequence:**

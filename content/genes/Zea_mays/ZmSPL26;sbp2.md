@@ -7,16 +7,19 @@ tags: [ leaf,auxin ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb206830]()
+- **Gene ID:**	[Zm00001eb206830](https://www.maizegdb.org/gene_center/gene/Zm00001eb206830)
 - **Gene Symbol:** ZmSPL26;sbp2
 - **Gene Name:** SBP-domain protein2
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - We report that three homologous ZmSPL transcription factors, ZmSPL10, ZmSPL14 and **ZmSPL26**, act in concert to promote epidermal hair fate on maize leaf.
    - ZmSPL10/14/26 play a key role in promoting epidermal hair fate on maize leaves.
    - ZmSPL10/14/26 play a critical role in specifying the cell fate of the precursor cells of trichome on the maize leaf, possibly through targeting ZmWOX3A and auxin-related genes.
+
+## Function-related keywords:
+[leaf](/tags/leaf/)&nbsp;,&nbsp;[auxin](/tags/auxin/)
 
 ## Literature:
    - [ZmSPL10/14/26 are required for epidermal hair cell fate specification on maize leaf.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17293)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17293](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17293)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33626179](https://pubmed.ncbi.nlm.nih.gov/33626179/)
@@ -29,9 +32,6 @@ tags: [ leaf,auxin ]
 - **UniProt accessions:** [B4FG20](https://www.uniprot.org/uniprotkb/B4FG20/entry)&nbsp;,&nbsp;[Q9SM18](https://www.uniprot.org/uniprotkb/Q9SM18/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-leaf,auxin
 
 ## Sequences:
 - **CDS Sequence:**

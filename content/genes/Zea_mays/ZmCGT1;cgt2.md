@@ -7,18 +7,21 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb280950]()
+- **Gene ID:**	[Zm00001eb280950](https://www.maizegdb.org/gene_center/gene/Zm00001eb280950)
 - **Gene Symbol:** ZmCGT1;cgt2
 - **Gene Name:** C-glucosyl transferase2
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Natural variation of **ZmCGT1** is responsible for isoorientin accumulation in maize silk.
    - **ZmCGT1**, which plays an important role in isoorientin biosynthesis, providing insights into the genetic basis of the natural variation in isoorientin levels in maize silk.
    - The **ZmCGT1** protein was characterized as a 2-hydroxyflavanone C-glycosyltransferase that can C-glycosylate 2-hydroxyflavanone to form flavone-C-glycoside after dehydration.
    - **ZmCGT1** overexpression increased isoorientin levels and RNA interference-mediated **ZmCGT1** knockdown decreased accumulation of isoorientin in maize silk.
    - The identified favorable CG allele of **ZmCGT1** may be further used for genetic improvement of nutritional quality in maize.
+
+## Function-related keywords:
+[quality](/tags/quality/)&nbsp;,&nbsp;[nutritional-quality](/tags/nutritional-quality/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)&nbsp;,&nbsp;[flavone](/tags/flavone/)
 
 ## Literature:
    - [Natural variation of ZmCGT1 is responsible for isoorientin accumulation in maize silk.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15549](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34695260](https://pubmed.ncbi.nlm.nih.gov/34695260/)
@@ -33,9 +36,6 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
 - **UniProt accessions:** [K7V1F2](https://www.uniprot.org/uniprotkb/K7V1F2/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-quality,nutritional quality,glycosyltransferase,flavone
 
 ## Sequences:
 - **CDS Sequence:**
