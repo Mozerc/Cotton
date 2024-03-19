@@ -31,7 +31,7 @@ tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi,carotene,carotene a
    - [Plant Physiol | 中国农业大学李学贤课题组揭示玉米响应低磷新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247496513&idx=2&sn=8bf37814592a87fce7269835a58edc82&chksm=fd736926ca04e03087b49a21db4e387a674754f9f5e9d6d0ac412ae72b4339758b03df1f8693&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100286117](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100286117)
+- **NCBI ID:**  [LOC100286117](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100286117)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

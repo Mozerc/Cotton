@@ -30,7 +30,7 @@ tags: [ development,stress,seed,tolerance,stress tolerance,seed development,heat
    - [Plant J. | 西北农林科技大学赵天永组揭示玉米中棉子糖生物合成和热胁迫耐受性的调控机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247491044&idx=2&sn=60785dabcef24aacdae6506e2c338e83&chksm=fd708783ca070e95ab4c7d2bc5ae266388979ac9ea9e7854d251a464a97f7a098b7489f48b64&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC606405](https://www.ncbi.nlm.nih.gov/gene/?term=LOC606405)
+- **NCBI ID:**  [LOC606405](https://www.ncbi.nlm.nih.gov/gene/?term=LOC606405)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

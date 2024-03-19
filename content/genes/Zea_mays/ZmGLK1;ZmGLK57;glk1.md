@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,sheath,photosynthesis,tolerance,abiotic st
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC541882](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541882)
+- **NCBI ID:**  [LOC541882](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541882)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

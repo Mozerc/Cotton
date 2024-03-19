@@ -7,15 +7,18 @@ tags: [ jasmonate,defense ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb087540]()
+- **Gene ID:**	[Zm00001eb087540](https://www.maizegdb.org/gene_center/gene/Zm00001eb087540)
 - **Gene Symbol:** ZmJAZ10;TIFY14;zim8
 - **Gene Name:** ZIM-transcription factor 8
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmJAZ10** encodes a Jasmonate ZIM-domain protein.
    - The JAZs’ role in maize defense.
+
+## Function-related keywords:
+[jasmonate](/tags/jasmonate/)&nbsp;,&nbsp;[defense](/tags/defense/)
 
 ## Literature:
    - [Key Genes in the JAZ Signaling Pathway Are Up-Regulated Faster and More Abundantly in Caterpillar-Resistant Maize.]( https://link.springer.com/article/10.1007/s10886-021-01342-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10886-021-01342-2](https://link.springer.com/article/10.1007/s10886-021-01342-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34982368](https://pubmed.ncbi.nlm.nih.gov/34982368/)
@@ -23,13 +26,10 @@ tags: [ jasmonate,defense ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [103648809](https://www.ncbi.nlm.nih.gov/gene/?term=103648809)
+- **UniProt accessions:** [A0A096SXJ4](https://www.uniprot.org/uniprotkb/A0A096SXJ4/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-jasmonate,defense
 
 ## Sequences:
 - **CDS Sequence:**

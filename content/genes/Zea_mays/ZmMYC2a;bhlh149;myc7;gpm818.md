@@ -29,7 +29,7 @@ tags: [ transcription factor,resistance,jasmonate,ja,ja biosynthesis,ja signalin
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC541694](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541694)
+- **NCBI ID:**  [LOC541694](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541694)
 - **UniProt accessions:** [A0A1D6K972](https://www.uniprot.org/uniprotkb/A0A1D6K972/entry)
 
 ## Orthologs:

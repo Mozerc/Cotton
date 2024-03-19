@@ -7,16 +7,20 @@ tags: [ endosperm,transcriptional activator ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb354390]()
+- **Gene ID:**	[Zm00001eb354390](https://www.maizegdb.org/gene_center/gene/Zm00001eb354390)
 - **Gene Symbol:** ZmMRP-1;ZmMYBR1;mrp1
 - **Gene Name:** Myb related protein1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The promoter of **ZmMRP-1**, a maize transfer cell-specific transcriptional activator, is induced at solute exchange surfaces and responds to transport demands.
    - **ZmMRP-1** is a maize (Zea mays) endosperm transfer cell-specific transcriptional activator that plays a central role in the regulatory pathways controlling transfer cell differentiation and function.
    - The existence of a positive correlation between the activity of the **ZmMRP-1** promoter and sink strength was confirmed in the tobacco plants.
+   - **ZmMRP-1** transforms aleurone cells into endosperm transfer cells and required to maintain transfer cell phenotype.
+
+## Function-related keywords:
+[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
 
 ## Literature:
    - [The promoter of ZmMRP-1, a maize transfer cell-specific transcriptional activator, is induced at solute exchange surfaces and responds to transport demands.]( https://link.springer.com/article/10.1007/s00425-008-0823-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-008-0823-0](https://link.springer.com/article/10.1007/s00425-008-0823-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18830706](https://pubmed.ncbi.nlm.nih.gov/18830706/)
@@ -24,13 +28,10 @@ tags: [ endosperm,transcriptional activator ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [LOC103635903](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635903)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-endosperm,transcriptional activator
 
 ## Sequences:
 - **CDS Sequence:**

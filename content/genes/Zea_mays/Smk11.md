@@ -30,7 +30,7 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
    - [Plant Physiol | 中国农科院作科所刘允军课题组揭示玉米SMK11参与线粒体复合物IV组装的分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247525490&idx=2&sn=54bbceae714c50dbb24c8150b17e97ce&chksm=fd73fe15ca047703665093fde8f624b9b9f152f3c87ae34e58a18a0595b5923d5ee0e2746042&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [100192003](https://www.ncbi.nlm.nih.gov/gene/?term=100192003)
+- **NCBI ID:**  [100192003](https://www.ncbi.nlm.nih.gov/gene/?term=100192003)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

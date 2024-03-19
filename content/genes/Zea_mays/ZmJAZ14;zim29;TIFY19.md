@@ -29,7 +29,7 @@ tags: [  ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC103626248](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103626248)
+- **NCBI ID:**  [LOC103626248](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103626248)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

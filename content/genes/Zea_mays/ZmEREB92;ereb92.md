@@ -31,7 +31,7 @@ tags: [ temperature,growth,seed,starch,seed germination,ethylene,cold,plant grow
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100280582](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280582)
+- **NCBI ID:**  [LOC100280582](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280582)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

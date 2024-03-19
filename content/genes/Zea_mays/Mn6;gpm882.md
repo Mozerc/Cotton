@@ -32,7 +32,7 @@ tags: [ development,seed,cell wall,endosperm,seed size,seed development,cell wal
    - [中国农业大学研究团队发现内质网信号肽酶Mn6在玉米籽粒发育过程中起关键作用](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247501305&idx=2&sn=b3b69b522c58ed19f87bdf1c26153386&chksm=fd735f9eca04d688abef50639b81cd8b31bfd3553ea237800ad5ddc7d4beb9becbfd8881e45a&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100273903](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273903)
+- **NCBI ID:**  [LOC100273903](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273903)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

@@ -7,15 +7,18 @@ tags: [  ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb289070]()
+- **Gene ID:**	[Zm00001eb289070](https://www.maizegdb.org/gene_center/gene/Zm00001eb289070)
 - **Gene Symbol:** ZmTLP7;tubtf10
 - **Gene Name:** TUB-transcription factor 10
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - The expression of **ZmTLP7** decreased in response to all abiotic stresses examined, which may be related to its function in plant adaptation to environmental changes.
    - Two ZmTLP sequences (**ZmTLP7** and ZmTLP11) have two well-conserved TLP domains at their C-termini. 
+
+## Function-related keywords:
+[](/tags//)
 
 ## Literature:
    - [Genome-wide identification and comprehensive analysis of tubby-like protein gene family in multiple crops.]( https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1093944](https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36589128](https://pubmed.ncbi.nlm.nih.gov/36589128/)
@@ -23,13 +26,10 @@ tags: [  ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [LOC103630411](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103630411)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-
 
 ## Sequences:
 - **CDS Sequence:**

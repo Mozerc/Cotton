@@ -31,7 +31,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotoleran
    - [Plant Physiol | 山东大学张伟课题组揭示高温诱导玉米气孔开放的调控新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247530638&idx=3&sn=5285931b1ee12cdf5b1c2ee5879951ef&chksm=d79ab4fbbb8ba6192a73a7490c84c4b5b650b26ec04202ccc8a17315adef2682f4f0271cca71&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100272290](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272290)
+- **NCBI ID:**  [LOC100272290](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272290)
 - **UniProt accessions:** [A0A1D6JU48](https://www.uniprot.org/uniprotkb/A0A1D6JU48/entry)
 
 ## Orthologs:

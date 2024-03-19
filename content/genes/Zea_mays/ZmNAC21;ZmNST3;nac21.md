@@ -29,7 +29,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,drought tolerance,str
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC103629433](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103629433)
+- **NCBI ID:**  [LOC103629433](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103629433)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

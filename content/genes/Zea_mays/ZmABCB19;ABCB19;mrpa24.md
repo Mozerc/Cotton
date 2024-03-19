@@ -27,7 +27,7 @@ tags: [ stem,root,auxin,dwarf,auxin transport,as transport ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC103627277](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627277)
+- **NCBI ID:**  [LOC103627277](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627277)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

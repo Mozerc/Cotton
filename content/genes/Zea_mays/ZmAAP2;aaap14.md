@@ -29,7 +29,7 @@ tags: [ nitrogen,transporter,plasma membrane,phosphate,phosphorus,amino acid tra
    - [中国农业大学李学贤教授课题组揭示玉米雌穗响应低磷的生理与分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247505433&idx=2&sn=b12b5f193a93a2407723dcc8114ee7d1&chksm=fd734c7eca04c5689f8f5b20ad174ad672ec47c3a892036b08253f926e14e3713afe6ac69d53&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100383966](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383966)
+- **NCBI ID:**  [LOC100383966](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383966)
 - **UniProt accessions:** [A0A1D6EH27](https://www.uniprot.org/uniprotkb/A0A1D6EH27/entry)&nbsp;,&nbsp;[A0A1D6MYN7](https://www.uniprot.org/uniprotkb/A0A1D6MYN7/entry)&nbsp;,&nbsp;[A0A3L6FZU9](https://www.uniprot.org/uniprotkb/A0A3L6FZU9/entry)
 
 ## Orthologs:

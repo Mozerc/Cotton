@@ -30,7 +30,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
    - [Plant Physiol | 中国农科院作科所李文学团队揭示玉米盐胁迫响应调控新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247526231&idx=4&sn=c48ba074ef43674346e9cb60528aa181&chksm=fcf48ca0b899158d7246076fa9d5a65d5dba7b5ed913a1c7c45b50c6e1e21cf5bd326d579126&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100282094](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282094)
+- **NCBI ID:**  [LOC100282094](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282094)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

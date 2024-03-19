@@ -31,7 +31,7 @@ tags: [ leaf,root,starch,quality,endosperm,starch biosynthesis ]
    - [PNAS | 影响玉米胚乳淀粉代谢的一个基因](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247492594&idx=2&sn=8f7cd2266424d24ea3795457fcd4f86d&chksm=fd737995ca04f0837103e6c5e4442fdf5b89fe97f160fedc880763769b52c824415e3d510ed4&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [103648177](https://www.ncbi.nlm.nih.gov/gene/?term=103648177)
+- **NCBI ID:**  [103648177](https://www.ncbi.nlm.nih.gov/gene/?term=103648177)
 - **UniProt accessions:** [A0A1D6F7U7](https://www.uniprot.org/uniprotkb/A0A1D6F7U7/entry)
 
 ## Orthologs:

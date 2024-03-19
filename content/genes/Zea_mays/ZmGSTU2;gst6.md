@@ -7,16 +7,19 @@ tags: [  ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb300120]()
+- **Gene ID:**	[Zm00001eb300120](https://www.maizegdb.org/gene_center/gene/Zm00001eb300120)
 - **Gene Symbol:** ZmGSTU2;gst6
 - **Gene Name:** glutathione transferase6
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Expression of a ZmGSTU1-**ZmGSTU2** chimera in the chloroplasts of tobacco resulted in the accumulation of the harderoporphyrin(ogen)-glutathione conjugate observed in the expression studies in bacteria.
    - The closely related **ZmGSTU2** also catalyzed the S-glutathionylation of HPgen in vitro but was much less effective in disrupting heme synthesis in vivo.
    - **ZmGSTU2** encodes a glutathione S-transferase subunit VI.
+
+## Function-related keywords:
+[](/tags//)
 
 ## Literature:
    - [Binding and glutathione conjugation of porphyrinogens by plant glutathione transferases.]( https://www.sciencedirect.com/science/article/pii/S0021925820596828?via%3Dihub#cesec30)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1074/jbc.M802026200](https://www.sciencedirect.com/science/article/pii/S0021925820596828?via%3Dihub#cesec30)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18492666](https://pubmed.ncbi.nlm.nih.gov/18492666/)
@@ -24,13 +27,10 @@ tags: [  ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [LOC541991](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541991)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-
 
 ## Sequences:
 - **CDS Sequence:**

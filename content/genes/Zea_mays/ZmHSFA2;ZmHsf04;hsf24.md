@@ -30,7 +30,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
    - [Plant J. | 西北农林科技大学赵天永组揭示玉米中棉子糖生物合成和热胁迫耐受性的调控机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247491044&idx=2&sn=60785dabcef24aacdae6506e2c338e83&chksm=fd708783ca070e95ab4c7d2bc5ae266388979ac9ea9e7854d251a464a97f7a098b7489f48b64&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100280736](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280736)
+- **NCBI ID:**  [LOC100280736](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280736)
 - **UniProt accessions:** [A0A060D206](https://www.uniprot.org/uniprotkb/A0A060D206/entry)
 
 ## Orthologs:

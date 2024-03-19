@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,photosynthesis,tolerance,abiotic stress,ab
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC542493](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542493)
+- **NCBI ID:**  [LOC542493](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542493)
 - **UniProt accessions:** [P26216](https://www.uniprot.org/uniprotkb/P26216/entry)
 
 ## Orthologs:

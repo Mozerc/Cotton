@@ -7,15 +7,18 @@ tags: [ resistance,disease,disease resistance,pi ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb038730]()
+- **Gene ID:**	[Zm00001eb038730](https://www.maizegdb.org/gene_center/gene/Zm00001eb038730)
 - **Gene Symbol:** ZmPT3;pht7
 - **Gene Name:** phosphate transporter protein7
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - The functional differences between the ZmPTs 2 and 3 for their Pi regulation despite having similar expression profiles in different plant parts.
+## Functional Descriptions:
+   - The functional differences between the ZmPT2 and **ZmPT3** for their Pi regulation despite having similar expression profiles in different plant parts.
    - Zm00001d031875(**pht7**) candidate gene for white spot disease resistance.
+
+## Function-related keywords:
+[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[pi](/tags/pi/)
 
 ## Literature:
    - [Expression analysis of phosphate induced genes in contrasting maize genotypes for phosphorus use efficiency.]( https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1590/1519-6984.261797](https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36350935](https://pubmed.ncbi.nlm.nih.gov/36350935/)
@@ -24,13 +27,10 @@ tags: [ resistance,disease,disease resistance,pi ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [732717](https://www.ncbi.nlm.nih.gov/gene/?term=732717)
+- **UniProt accessions:** [A0A1D6KLZ4](https://www.uniprot.org/uniprotkb/A0A1D6KLZ4/entry)&nbsp;,&nbsp;[A0A317YEI4](https://www.uniprot.org/uniprotkb/A0A317YEI4/entry)&nbsp;,&nbsp;[Q49B44](https://www.uniprot.org/uniprotkb/Q49B44/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-resistance,disease,disease resistance,pi
 
 ## Sequences:
 - **CDS Sequence:**

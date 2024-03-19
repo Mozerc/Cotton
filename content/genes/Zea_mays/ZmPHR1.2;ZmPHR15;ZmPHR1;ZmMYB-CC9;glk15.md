@@ -28,7 +28,7 @@ tags: [ nitrogen,transporter,phosphate,phosphorus,amino acid transporter ]
    - [中国农业大学李学贤教授课题组揭示玉米雌穗响应低磷的生理与分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247505433&idx=2&sn=b12b5f193a93a2407723dcc8114ee7d1&chksm=fd734c7eca04c5689f8f5b20ad174ad672ec47c3a892036b08253f926e14e3713afe6ac69d53&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100285165](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285165)
+- **NCBI ID:**  [LOC100285165](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285165)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

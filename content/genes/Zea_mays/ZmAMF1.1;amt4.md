@@ -7,16 +7,19 @@ tags: [ nitrogen,growth ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb076780]()
+- **Gene ID:**	[Zm00001eb076780](https://www.maizegdb.org/gene_center/gene/Zm00001eb076780)
 - **Gene Symbol:** ZmAMF1.1;amt4
 - **Gene Name:** ammonium transporter4
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - **ZmAMF1.1** and ZmAMF1.2 expression was similar in all the organs independent of the growth stage.
    - **ZmAMF1.1** and ZmAMF1.2 presented different responses to nitrogen.
-   - ZmAMF1.2, on the other hand, did not present any significant response to nitrogen starvation but the transcript levels decreased after resupply.
+   - Only ZmNPF6.2, ZmNRT2.5 and **ZmAMF1.1** responded significantly to a period of nitrogen starvation.
+
+## Function-related keywords:
+[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)
 
 ## Literature:
    - [Tissue and nitrogen-linked expression profiles of ammonium and nitrate transporters in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1768-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31109290](https://pubmed.ncbi.nlm.nih.gov/31109290/)
@@ -24,13 +27,10 @@ tags: [ nitrogen,growth ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [LOC100285732](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285732)
+- **UniProt accessions:** [A0A1D6E5R1](https://www.uniprot.org/uniprotkb/A0A1D6E5R1/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-nitrogen,growth
 
 ## Sequences:
 - **CDS Sequence:**

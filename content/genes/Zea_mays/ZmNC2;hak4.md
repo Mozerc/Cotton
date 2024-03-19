@@ -28,7 +28,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
    - [中国农业大学蒋才富课题组发现第三类具有抗盐生理功能的Na+选择性离子转运蛋白](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247493306&idx=2&sn=02c4a322e4cf9cb49c3c83b0ccf6056f&chksm=fd737cddca04f5cbf7cf1b7be6dfd4a8cc7702e962678095eabfa7109e5bd807762c5bbeb927&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [103653279](https://www.ncbi.nlm.nih.gov/gene/?term=103653279)
+- **NCBI ID:**  [103653279](https://www.ncbi.nlm.nih.gov/gene/?term=103653279)
 - **UniProt accessions:** [A0A1D6PZ98UniProt_accessions:](https://www.uniprot.org/uniprotkb/A0A1D6PZ98UniProt_accessions:/entry)
 
 ## Orthologs:

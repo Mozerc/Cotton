@@ -3,20 +3,25 @@ description: WRKY-transcription factor 79 ; Zm00001eb310270 ; Zea mays
 meta_title:
 title: ZmWRKY79;wrky79
 categories: [Zea mays]
-tags: [ transcription factor,drought,stress,drought stress,tolerance,abiotic stress,aba,drought tolerance,stress tolerance,pathogen,transcription regulator,aba biosynthesis,stress response,drought stress response,drought response,abiotic stress response ]
+tags: [ transcription factor,drought,stress,drought stress,tolerance,abiotic stress,aba,drought tolerance,stress tolerance,pathogen,transcription regulator,phytohormone,aba biosynthesis,stress response,drought stress response,drought response,abiotic stress response ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb310270]()
+- **Gene ID:**	[Zm00001eb310270](https://www.maizegdb.org/gene_center/gene/Zm00001eb310270)
 - **Gene Symbol:** ZmWRKY79;wrky79;WRKY53
 - **Gene Name:** WRKY-transcription factor 79
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
-   - Maize WRKY Transcription Factor **Zm**wrky79**** Positively Regulates Drought Tolerance through Elevating ABA Biosynthesis.
-   - **Zm**wrky79**** was identified as the regulator of maize phytoalexin biosynthesis with inducible expression under different elicitation.
-   - This study substantiates the role of **Zm**wrky79**** in the drought-tolerance mechanism through regulating ABA biosynthesis, suggesting its broad functions not only as the regulator in phytoalexin biosynthesis against pathogen infection but also playing the positive role in abiotic stress response, which provides a WRKY candidate gene to improve drought tolerance for maize and other crop plants.
+## Functional Descriptions:
+   - Maize WRKY Transcription Factor **ZmWRKY79** Positively Regulates Drought Tolerance through Elevating ABA Biosynthesis.
+   - **ZmWRKY79** was identified as the regulator of maize phytoalexin biosynthesis with inducible expression under different elicitation.
+   - This study substantiates the role of **ZmWRKY79** in the drought-tolerance mechanism through regulating ABA biosynthesis, suggesting its broad functions not only as the regulator in phytoalexin biosynthesis against pathogen infection but also playing the positive role in abiotic stress response, which provides a WRKY candidate gene to improve drought tolerance for maize and other crop plants.
+   - **ZmWRKY79** regulates phytoalexin biosynthetic gene expression.
+   - **ZmWRKY79** potential master regulator in stress response through involvement in phytohormone metabolism or signaling and ROS scavenging.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
    - [Maize WRKY Transcription Factor ZmWRKY79 Positively Regulates Drought Tolerance through Elevating ABA Biosynthesis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8468953/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms221810080](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8468953/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34576244](https://pubmed.ncbi.nlm.nih.gov/34576244/)
@@ -24,13 +29,10 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,abiotic str
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [LOC100193434](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193434)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-transcription factor,drought,stress,drought stress,tolerance,abiotic stress,aba,drought tolerance,stress tolerance,pathogen,transcription regulator,aba biosynthesis,stress response,drought stress response,drought response,abiotic stress response
 
 ## Sequences:
 - **CDS Sequence:**

@@ -30,7 +30,7 @@ tags: [ transcription factor,xylem,development,drought,stress,drought stress,bre
    - [PNAS | 玉米中一个与高温和干旱胁迫相关的关键转录因子](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247497710&idx=1&sn=1fb9a54d2001b998468bfb6741afb8bd&chksm=fd736d89ca04e49f600bc3ac6549ec0cb2996133e3b286eeee2d75062292bf800dab8647a128&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [100281519](https://www.ncbi.nlm.nih.gov/gene/?term=100281519)
+- **NCBI ID:**  [100281519](https://www.ncbi.nlm.nih.gov/gene/?term=100281519)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

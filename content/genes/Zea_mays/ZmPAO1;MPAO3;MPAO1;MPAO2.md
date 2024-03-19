@@ -31,7 +31,7 @@ tags: [ development,defense ]
    - [Plant Physiol. | 中国农业大学周涛团队在玉米中首次鉴定到抗玉米褪绿斑驳病毒的microRNA](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247517356&idx=3&sn=bf9cd80c1b0f56b25b9f6a0c28106832&chksm=fd731ecbca0497dd1836b2f99d660f7ed9b29908350d385c1e38a35a6e586eede3636cf5fe99&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC541983](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541983)
+- **NCBI ID:**  [LOC541983](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541983)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

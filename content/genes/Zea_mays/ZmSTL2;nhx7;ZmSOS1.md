@@ -31,7 +31,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance ]
    - [中国农业大学蒋才富团队揭示玉米SOS途径的耐盐功能及其介导玉米耐盐性自然变异的分子基础](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247518941&idx=1&sn=310ce54f5a42f715e2e632199f44f745&chksm=fd7310baca0499ac0bd7aff1ea111aeb5b8de61adee5dec152bb42b43fae3f1f34e66f1edb4d&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100383969](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383969)
+- **NCBI ID:**  [LOC100383969](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383969)
 - **UniProt accessions:** [A0A1D6KH70](https://www.uniprot.org/uniprotkb/A0A1D6KH70/entry)&nbsp;,&nbsp;[A0A1D6KH71](https://www.uniprot.org/uniprotkb/A0A1D6KH71/entry)
 
 ## Orthologs:

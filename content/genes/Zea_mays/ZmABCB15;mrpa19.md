@@ -30,7 +30,7 @@ tags: [ seedlings,stem,root,auxin,resistance,homeostasis,transporter,dwarf,auxin
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [103655210](https://www.ncbi.nlm.nih.gov/gene/?term=103655210)
+- **NCBI ID:**  [103655210](https://www.ncbi.nlm.nih.gov/gene/?term=103655210)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

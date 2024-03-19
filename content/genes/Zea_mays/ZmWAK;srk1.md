@@ -27,7 +27,7 @@ tags: [ kinase,resistance ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100304375](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100304375)
+- **NCBI ID:**  [LOC100304375](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100304375)
 - **UniProt accessions:** [A0A0A7ENC7](https://www.uniprot.org/uniprotkb/A0A0A7ENC7/entry)
 
 ## Orthologs:

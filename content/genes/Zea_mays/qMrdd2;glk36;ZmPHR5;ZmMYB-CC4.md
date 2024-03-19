@@ -3,7 +3,7 @@ description: G2-like-transcription factor 36 ; Zm00001eb071920 ; Zea mays
 meta_title:
 title: QMrdd2;glk36
 categories: [Zea mays]
-tags: [ transcription factor,resistance,ja,jasmonic,jasmonic acid,ja biosynthesis,defence,defence response ]
+tags: [ transcription factor,resistance,disease,disease resistance,ja,dwarf,jasmonic,jasmonic acid,ja biosynthesis,defence,defence response ]
 ---
 
 ## Gene Details:
@@ -14,11 +14,13 @@ tags: [ transcription factor,resistance,ja,jasmonic,jasmonic acid,ja biosynthesi
 - **Species:** *Zea mays*
 
 ## Functional Descriptions:
+   - Here we report fine mapping and cloning of a previously reported major quantitative trait locus (QTL) (**QMrdd2**) for RBSDV resistance in maize.
    - **QMrdd2** encodes a G2-like transcription factor named ZmGLK36 that promotes resistance to RBSDV by enhancing jasmonic acid (JA) biosynthesis and JA-mediated defence response.
    - Major quantitative trait locus (QTL) (**QMrdd2**) for RBSDV resistance in maize.
+   - Represents **QMrdd2** a QTL associated with maize rough dwarf disease resistance.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)
 
 ## Literature:
    - [A transcription factor ZmGLK36 confers broad resistance to maize rough dwarf disease in cereal crops.]( https://www.nature.com/articles/s41477-023-01514-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01514-w](https://www.nature.com/articles/s41477-023-01514-w)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709955](https://pubmed.ncbi.nlm.nih.gov/37709955/)
@@ -26,8 +28,8 @@ tags: [ transcription factor,resistance,ja,jasmonic,jasmonic acid,ja biosynthesi
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [LOC100281611](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281611)
+- **UniProt accessions:** [A0A1D6E0Q9](https://www.uniprot.org/uniprotkb/A0A1D6E0Q9/entry)&nbsp;,&nbsp;[A0A1D6E0R0](https://www.uniprot.org/uniprotkb/A0A1D6E0R0/entry)
 
 ## Orthologs:
 

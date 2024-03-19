@@ -7,16 +7,19 @@ tags: [  ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb279580]()
+- **Gene ID:**	[Zm00001eb279580](https://www.maizegdb.org/gene_center/gene/Zm00001eb279580)
 - **Gene Symbol:** ZmTCP21;tcptf1;tcptf10
 - **Gene Name:** TCP-transcription factor 10
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - These results indicate that ZmTCP proteins bind to TBS motifs and exhibit sensitivity to methylated TBS in vitro.
    - EMSA showed that four GST-ZmTCP proteins (ZmPCF1, **ZmTCP21**, Zm00001d018806, and ZmTCP10) tested preferred to bind unmethylated TBS fragments.
    - ZmTCP proteins bind to TBS motifs and exhibit sensitivity to methylated TBS in vitro.
+
+## Function-related keywords:
+[](/tags//)
 
 ## Literature:
    - [An epigenetic basis of inbreeding depression in maize.]( https://www.science.org/doi/10.1126/sciadv.abg5442)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/sciadv.abg5442](https://www.science.org/doi/10.1126/sciadv.abg5442)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34452913](https://pubmed.ncbi.nlm.nih.gov/34452913/)
@@ -24,13 +27,10 @@ tags: [  ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [LOC100279595](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279595)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-
 
 ## Sequences:
 - **CDS Sequence:**

@@ -32,7 +32,7 @@ tags: [ transcription factor,stem,temperature,sugar,resistant,sucrose,low-temper
    - [TAG | 四川农业大学唐祈林团队鉴定玉米渐渗系萌芽期耐冷关键基因](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247527512&idx=2&sn=ab483fb7fc0576c05bf7a40497f316e7&chksm=fc6f48d7b49bd4fb936064cf6512cf90b9561119a1677a734e67b0b3cadb11a1f1f001886b53&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100192007](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192007)
+- **NCBI ID:**  [LOC100192007](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192007)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

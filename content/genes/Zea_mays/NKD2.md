@@ -31,7 +31,7 @@ tags: [ development,starch,endosperm,endosperm development ]
    - [Plant Cell最新研究揭示转录因子在玉米胚乳发育中的调控新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247487904&idx=1&sn=c07466057e0469d91e2fd2eb9976fe21&chksm=fd708bc7ca0702d15acb1c5ffd89e7558f5603d4d17ec3b2c89414810cfbc5bdc52e5e14e27b&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100304401](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100304401)
+- **NCBI ID:**  [LOC100304401](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100304401)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

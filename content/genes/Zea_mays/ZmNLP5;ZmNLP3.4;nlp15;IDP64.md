@@ -31,7 +31,7 @@ tags: [ nitrogen,transcription factor,root ]
    - [Plant Journal | 江苏农科院资源所赵涵课题组揭示转录因子ZmNLP5参与调控玉米氮响应的分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247493242&idx=1&sn=ffb151716ba22a1a24acaaeb11cd258b&chksm=fd737c1dca04f50bef3219942a5d694eee0cbdcf510fba981f13f1868fa2f15dd6ef1e9adce8&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC100383982](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383982)
+- **NCBI ID:**  [LOC100383982](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383982)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

@@ -7,15 +7,19 @@ tags: [ grain,pollen,grain filling,pericarp,pollen tube elongation,pollen germin
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Zm00001eb351280]()
+- **Gene ID:**	[Zm00001eb351280](https://www.maizegdb.org/gene_center/gene/Zm00001eb351280)
 - **Gene Symbol:** Spp1
 - **Gene Name:** sucrose-phosphatase1
-- **Genome:** [Zm-B73-REFERENCE-NAM-5.0]()
+- **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
-## Functional Description:
+## Functional Descriptions:
    - Suppressor of pericarp pigmentation 1 (**Spp1**), a novel gene involved in phlobaphene accumulation in maize (Zea mays L.) pericarps.
-   - Homozygous seeds of these **Spp1** alleles showed a classic shrunken1 kernel phenotype, indicating that **Spp1** has an essential role for normal grain filling. In vitro pollen germination test showed approximately 50% of pollens obtained from heterozygous **Spp1**-d1 plants elongated pollen tubes, suggesting that **Spp1** is required for pollen tube elongation.
+   - Homozygous seeds of these **Spp1** alleles showed a classic shrunken1 kernel phenotype, indicating that **Spp1** has an essential role for normal grain filling.
+   - In vitro pollen germination test showed approximately 50% of pollens obtained from heterozygous **Spp1**-d1 plants elongated pollen tubes, suggesting that **Spp1** is required for pollen tube elongation.
+
+## Function-related keywords:
+[grain](/tags/grain/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[pollen-tube-elongation](/tags/pollen-tube-elongation/)&nbsp;,&nbsp;[pollen-germination](/tags/pollen-germination/)
 
 ## Literature:
    - [Suppressor of pericarp pigmentation 1 (spp1), a novel gene involved in phlobaphene accumulation in maize (Zea mays L.) pericarps]( https://www.researchgate.net/publication/234396049_Suppressor_of_pericarp_pigmentation_1_spp1_a_novel_gene_involved_in_phlobaphene_accumulation_in_maize_Zea_mays_L_pericarps)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://www.researchgate.net/publication/234396049_Suppressor_of_pericarp_pigmentation_1_spp1_a_novel_gene_involved_in_phlobaphene_accumulation_in_maize_Zea_mays_L_pericarps)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -23,13 +27,10 @@ tags: [ grain,pollen,grain filling,pericarp,pollen tube elongation,pollen germin
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [LOC541868](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541868)
+- **UniProt accessions:** [Q9FQ11](https://www.uniprot.org/uniprotkb/Q9FQ11/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-grain,pollen,grain filling,pericarp,pollen tube elongation,pollen germination
 
 ## Sequences:
 - **CDS Sequence:**
