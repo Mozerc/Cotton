@@ -1,7 +1,7 @@
 ---
 description: lorelei-like glycosylphosphatidylinositol-anchor1 ; Zm00001eb078280 ; Zea mays
 meta_title:
-title: ZmLLG1;lorelei-like glycosylphosphatidylinositol-anchor1
+title: ZmLLG1
 categories: [Zea mays]
 tags: [ growth,pollen,pollen wall,cell wall ]
 ---
