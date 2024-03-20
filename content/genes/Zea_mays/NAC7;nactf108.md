@@ -22,7 +22,7 @@ tags: [ nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynth
    - We further determined the putative target of **NAC7** and provided a logical extension for the role of **NAC7** in regulating resource allocation from vegetative source to reproductive sink tissues.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)
 
 ## Literature:
    - [Identification and characterization of a novel stay-green QTL that increases yield in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13139)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13139](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13139)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31033139](https://pubmed.ncbi.nlm.nih.gov/31033139/)
@@ -36,7 +36,7 @@ tags: [ nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynth
 - **NCBI ID:** [103650490](https://www.ncbi.nlm.nih.gov/gene/?term=103650490)
 - **UniProt accessions:** [A0A1D6MWC7](https://www.uniprot.org/uniprotkb/A0A1D6MWC7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

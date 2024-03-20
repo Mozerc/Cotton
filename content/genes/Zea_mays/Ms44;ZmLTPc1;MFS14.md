@@ -22,7 +22,7 @@ tags: [ nitrogen,growth,development,fertility,pollen,sterility,seed,tapetum,poll
    - **Ms44** signal peptide cleavage results in a disruption of pollen development leading to dominant male sterility in maize.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
 
 ## Literature:
    - [A single point mutation in Ms44 results in dominant male sterility and improves nitrogen use efficiency in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12689)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12689](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12689)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28055137](https://pubmed.ncbi.nlm.nih.gov/28055137/)
@@ -36,7 +36,7 @@ tags: [ nitrogen,growth,development,fertility,pollen,sterility,seed,tapetum,poll
 - **NCBI ID:** [LOC542404](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542404)
 - **UniProt accessions:** [Q01900](https://www.uniprot.org/uniprotkb/Q01900/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

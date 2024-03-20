@@ -18,7 +18,7 @@ tags: [ flowering ]
    - The CONSTANS, CONSTANS-LIKE, TOC1 (CCT) genes ZmCCT9 and ZmCCT10, ZmCONSTANS-LIKE 3, and the PSEUDORESPONSE REGULATOR (PRR) genes ZmPRR37a and **ZmPRR73**, thus alleviating their inhibition, allowing florigen gene expression and promoting flowering.
 
 ## Function-related keywords:
-[flowering](/tags/flowering/)
+- [flowering](/tags/flowering/)
 
 ## Literature:
    - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://academic.oup.com/plcell/article/35/1/369/6730753?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://academic.oup.com/plcell/article/35/1/369/6730753?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
@@ -30,7 +30,7 @@ tags: [ flowering ]
 - **NCBI ID:** [LOC100280240](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280240)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

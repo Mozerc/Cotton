@@ -19,7 +19,7 @@ tags: [ development,spikelet,plant development,spikelet development ]
    - Our observations suggest that during spikelet development **ZMM8** and ZMM14 work as selector genes which are involved in distinguishing the upper from the lower floret.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
 
 ## Literature:
    - [Expression of MADS box genes ZMM8 and ZMM14 during inflorescence development of Zea mays discriminates between the upper and the lower floret of each spikelet.]( https://link.springer.com/article/10.1007/s004270050271)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s004270050271](https://link.springer.com/article/10.1007/s004270050271)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10370124](https://pubmed.ncbi.nlm.nih.gov/10370124/)
@@ -32,7 +32,7 @@ tags: [ development,spikelet,plant development,spikelet development ]
 - **NCBI ID:**  [LOC541985](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541985)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

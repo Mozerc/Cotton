@@ -20,7 +20,7 @@ tags: [ leaf,transcriptional activator ]
    - **ZmNECAP1** might recruit and/or enhance the transactivator activity of Sts2, as the interaction with **ZmNECAP1** enhances the transcriptional activation level of BD-Sts2 in yeast.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
 
 ## Literature:
    - [A transcriptional activator effector of Ustilago maydis regulates hyperplasia in maize during pathogen-induced tumor formation.]( https://www.nature.com/articles/s41467-023-42522-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-42522-w](https://www.nature.com/articles/s41467-023-42522-w)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37872143](https://pubmed.ncbi.nlm.nih.gov/37872143/)
@@ -32,7 +32,7 @@ tags: [ leaf,transcriptional activator ]
 - **NCBI ID:** [LOC100192009](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192009)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

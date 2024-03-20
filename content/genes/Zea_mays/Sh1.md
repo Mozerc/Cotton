@@ -21,7 +21,7 @@ tags: [ seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase ]
    - Although sus1 and sus2 alone or in combination had no perceptible phenotype, either of them could dramatically enhance seed opacity and cavity in **Sh1**, indicating that transactivation of Sus1 and Sus2 by O2 supplements SUS-mediated endosperm filling in maize.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[sucrose-synthase](/tags/sucrose-synthase/)
+- [seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[sucrose-synthase](/tags/sucrose-synthase/)
 
 ## Literature:
    - [Transactivation of Sus1 and Sus2 by Opaque2 is an essential supplement to sucrose synthase-mediated endosperm filling in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13349)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13349](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13349)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32004404](https://pubmed.ncbi.nlm.nih.gov/32004404/)
@@ -35,7 +35,7 @@ tags: [ seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase ]
 - **NCBI ID:** [542365](https://www.ncbi.nlm.nih.gov/gene/?term=542365)
 - **UniProt accessions:** [K7VDR8](https://www.uniprot.org/uniprotkb/K7VDR8/entry)&nbsp;,&nbsp;[A0A1D6NT56](https://www.uniprot.org/uniprotkb/A0A1D6NT56/entry)&nbsp;,&nbsp;[A0A1D6NT44](https://www.uniprot.org/uniprotkb/A0A1D6NT44/entry)&nbsp;,&nbsp;[A0A1D6NT50](https://www.uniprot.org/uniprotkb/A0A1D6NT50/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

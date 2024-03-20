@@ -22,7 +22,7 @@ tags: [ xylem,development,grain,grain yield,map-based cloning,yield,inflorescenc
    - mutants have strikingly shorter ears mutants have strikingly shorter ears.
 
 ## Function-related keywords:
-[xylem](/tags/xylem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[aluminum](/tags/aluminum/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [xylem](/tags/xylem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[aluminum](/tags/aluminum/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [EAR APICAL DEGENERATION1 regulates maize ear development by maintaining malate supply for apical inflorescence.]( https://academic.oup.com/plcell/article/34/6/2222/6549528?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac093](https://academic.oup.com/plcell/article/34/6/2222/6549528?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35294020](https://pubmed.ncbi.nlm.nih.gov/35294020/)
@@ -34,7 +34,7 @@ tags: [ xylem,development,grain,grain yield,map-based cloning,yield,inflorescenc
 - **NCBI ID:** [LOC103627532](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627532)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

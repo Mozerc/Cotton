@@ -21,7 +21,7 @@ tags: [ cytokinin ]
    - Missense Mutations in the Maize CK Receptor **ZmHK1** Underlie the Hsf1 Phenotype.
 
 ## Function-related keywords:
-[cytokinin](/tags/cytokinin/)
+- [cytokinin](/tags/cytokinin/)
 
 ## Literature:
    - [The Maize Hairy Sheath Frayed1 (Hsf1) Mutation Alters Leaf Patterning through Increased Cytokinin Signaling.]( https://academic.oup.com/plcell/article/32/5/1501/6115706?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00677](https://academic.oup.com/plcell/article/32/5/1501/6115706?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32205456](https://pubmed.ncbi.nlm.nih.gov/32205456/)
@@ -33,7 +33,7 @@ tags: [ cytokinin ]
 - **NCBI ID:** [NM_001111389	541634](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001111389	541634)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ growth,development ]
    - **Mwp1** affected the Angle size of maize leaves.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)
 
 ## Literature:
    - [The maize milkweed pod1 mutant reveals a mechanism to modify organ morphology.]( https://onlinelibrary.wiley.com/doi/full/10.1002/dvg.20622)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/dvg.20622](https://onlinelibrary.wiley.com/doi/full/10.1002/dvg.20622)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20213690](https://pubmed.ncbi.nlm.nih.gov/20213690/)
@@ -33,7 +33,7 @@ tags: [ growth,development ]
 - **NCBI ID:** [LOC100280930](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280930)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

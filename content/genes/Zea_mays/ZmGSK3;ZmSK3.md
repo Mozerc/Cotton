@@ -19,7 +19,7 @@ tags: [ kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,prot
    - Furthermore, the Ca2+ sensors ZmSOS3 and ZmSOS3-like calcium binding protein 8 (ZmSCaBP8) activate ZmSOS2 to maintain Na+/K+ homeostasis under salt stress and may participate in the regulation of ZmSOS2 by **ZmSK3** and ZmSK4. These findings discover the regulation of the maize SOS pathway and provide important gene targets for breeding salt-tolerant maize.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[calcium](/tags/calcium/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[calcium](/tags/calcium/)
 
 ## Literature:
    - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
@@ -31,7 +31,7 @@ tags: [ kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,prot
 - **NCBI ID:** [LOC100283610](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283610)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

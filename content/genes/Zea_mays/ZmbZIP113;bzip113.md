@@ -21,7 +21,7 @@ tags: [ transcription factor,stem,temperature,sugar,resistant,sucrose,low-temper
    - This suggests that the **bzip113** and ABI51 transcription factors could be involved in the regulation of transport, including sugar transport, in the top internode of the stem.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[low-temperature](/tags/low-temperature/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[low-temperature](/tags/low-temperature/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)
 
 ## Literature:
    - [QTL-seq and transcriptomic integrative analyses reveal two positively regulated genes that control the low-temperature germination ability of MTP-maize introgression lines.]( https://link.springer.com/article/10.1007/s00122-023-04362-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04362-6](https://link.springer.com/article/10.1007/s00122-023-04362-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37093290](https://pubmed.ncbi.nlm.nih.gov/37093290/)
@@ -35,7 +35,7 @@ tags: [ transcription factor,stem,temperature,sugar,resistant,sucrose,low-temper
 - **NCBI ID:**  [LOC100192007](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192007)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ development,seed,mitochondria,embryo,endosperm,seed weight,seed size,per
    - **Emp11** affects complex I by modulating the intron splicing of nad1 in maize mitochondria.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [EMPTY PERICARP11 serves as a factor for splicing of mitochondrial nad1 intron and is required to ensure proper seed development in maize.]( https://academic.oup.com/jxb/article/68/16/4571/4316138?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erx212](https://academic.oup.com/jxb/article/68/16/4571/4316138?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28981788](https://pubmed.ncbi.nlm.nih.gov/28981788/)
@@ -33,7 +33,7 @@ tags: [ development,seed,mitochondria,embryo,endosperm,seed weight,seed size,per
 - **NCBI ID:** [LOC103654325](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103654325)
 - **UniProt accessions:** [A0A1D6QHB6](https://www.uniprot.org/uniprotkb/A0A1D6QHB6/entry)&nbsp;,&nbsp;[A0A3L6EY76](https://www.uniprot.org/uniprotkb/A0A3L6EY76/entry)&nbsp;,&nbsp;[A0A3L6F8A8](https://www.uniprot.org/uniprotkb/A0A3L6F8A8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

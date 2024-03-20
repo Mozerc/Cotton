@@ -20,7 +20,7 @@ tags: [ fertility,pollen,anther,sterility,male sterility,male fertility,pollen f
    - ZmTGA9-1/-2/-3 resulted in male sterility with different kinds of anther and pollen defects.
 
 ## Function-related keywords:
-[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
+- [fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
 
 ## Literature:
    - [CRISPR/Cas9-based discovery of maize transcription factors regulating male sterility and their functional conservation in plants.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13590)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13590](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13590)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33772993](https://pubmed.ncbi.nlm.nih.gov/33772993/)
@@ -32,7 +32,7 @@ tags: [ fertility,pollen,anther,sterility,male sterility,male fertility,pollen f
 - **NCBI ID:** [LOC103636459](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103636459)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

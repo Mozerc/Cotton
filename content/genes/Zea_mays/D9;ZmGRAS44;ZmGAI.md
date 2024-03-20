@@ -23,7 +23,7 @@ tags: [ development,plant development,pollen,anther,sterility,pollen development
    - This is consistent with D8 and **D9** mutants which are known to have reduced anther exertion causing varying degrees of male sterility in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Maize DELLA proteins dwarf plant8 and dwarf plant9 as modulators of plant development.]( https://academic.oup.com/pcp/article/51/11/1854/1852338?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcq153](https://academic.oup.com/pcp/article/51/11/1854/1852338?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20937610](https://pubmed.ncbi.nlm.nih.gov/20937610/)
@@ -36,7 +36,7 @@ tags: [ development,plant development,pollen,anther,sterility,pollen development
 - **NCBI ID:** [LOC100127531](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127531)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

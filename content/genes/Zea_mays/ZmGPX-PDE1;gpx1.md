@@ -21,7 +21,7 @@ tags: [ leaf,leaf senescence,senescence,phosphate,phosphorus,pi,phosphate starva
    - **ZmGPX-PDE1** was upregulated during leaf senescence, and more remarkably, loss of **ZmGPX-PDE1** in maize compromised the remobilization of phosphorus from senescing leaves to young leaves, resulting in a stay-green phenotype under phosphate starvation.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
 
 ## Literature:
    - [Identification of two glycerophosphodiester phosphodiesterase genes in maize leaf phosphorus remobilization]( https://www.sciencedirect.com/science/article/pii/S2214514120300799)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.05.004](https://www.sciencedirect.com/science/article/pii/S2214514120300799)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -34,7 +34,7 @@ tags: [ leaf,leaf senescence,senescence,phosphate,phosphorus,pi,phosphate starva
 - **NCBI ID:** [100191201](https://www.ncbi.nlm.nih.gov/gene/?term=100191201)
 - **UniProt accessions:** [B4F7Z4](https://www.uniprot.org/uniprotkb/B4F7Z4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

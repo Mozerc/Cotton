@@ -21,7 +21,7 @@ tags: [ sterile ]
    - **ZMM16** mutants have a sterile tassel silky ear phenotype.
 
 ## Function-related keywords:
-[sterile](/tags/sterile/)
+- [sterile](/tags/sterile/)
 
 ## Literature:
    - [The Maize PI/GLO Ortholog Zmm16/sterile tassel silky ear1 Interacts with the Zygomorphy and Sex Determination Pathways in Flower Development.]( https://academic.oup.com/plcell/article/27/11/3081/6096682)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.15.00679](https://academic.oup.com/plcell/article/27/11/3081/6096682)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26518212](https://pubmed.ncbi.nlm.nih.gov/26518212/)
@@ -32,7 +32,7 @@ tags: [ sterile ]
 - **NCBI ID:**  [LOC542019](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542019)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

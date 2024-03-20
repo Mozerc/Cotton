@@ -19,7 +19,7 @@ tags: [ growth,development,seedling,seedling growth ]
    - **ZmFdC2** mutant is seedling-lethal, which is contrast to the wild type-like phenotype the the Arabidopsis AtFdC1 mutant and an moderate effect on rice growth of OsFdC2 mutation, implying more crucial roles of FdC2 in maize development.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
    - [ZmFdC2 Encoding a Ferredoxin Protein With C-Terminus Extension Is Indispensable for Maize Growth.]( https://muhendisi.com/grow-protein-c-terminal)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2021.646359](https://muhendisi.com/grow-protein-c-terminal)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33968104](https://pubmed.ncbi.nlm.nih.gov/33968104/)
@@ -30,7 +30,7 @@ tags: [ growth,development,seedling,seedling growth ]
 - **NCBI ID:**  [LOC103625981](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103625981)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

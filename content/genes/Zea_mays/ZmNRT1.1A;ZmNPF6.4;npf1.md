@@ -22,7 +22,7 @@ tags: [ root,resistance,stress,tolerance,root elongation,stress tolerance,transp
    - **ZmNRT1.1A** encodes a low-affinity nitrate transporter with efflux activity; switches to a high-affinity chloride selective transporter, when supplied chloride.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[aluminum](/tags/aluminum/)&nbsp;,&nbsp;[al-tolerance](/tags/al-tolerance/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[nitrate-transporter](/tags/nitrate-transporter/)&nbsp;,&nbsp;[al-resistance](/tags/al-resistance/)&nbsp;,&nbsp;[aluminum-resistance](/tags/aluminum-resistance/)&nbsp;,&nbsp;[aluminum-tolerance](/tags/aluminum-tolerance/)
+- [root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[aluminum](/tags/aluminum/)&nbsp;,&nbsp;[al-tolerance](/tags/al-tolerance/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[nitrate-transporter](/tags/nitrate-transporter/)&nbsp;,&nbsp;[al-resistance](/tags/al-resistance/)&nbsp;,&nbsp;[aluminum-resistance](/tags/aluminum-resistance/)&nbsp;,&nbsp;[aluminum-tolerance](/tags/aluminum-tolerance/)
 
 ## Literature:
    - [Nitrate improves aluminium resistance through SLAH-mediated citrate exudation from roots.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14688](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37574955](https://pubmed.ncbi.nlm.nih.gov/37574955/)
@@ -34,7 +34,7 @@ tags: [ root,resistance,stress,tolerance,root elongation,stress tolerance,transp
 - **NCBI ID:** [LOC100279242](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279242)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

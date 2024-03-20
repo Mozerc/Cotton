@@ -19,7 +19,7 @@ tags: [ stem,meristem,inflorescence ]
    - Ectopic expression of **ZmWUS1** causes major architectural rearrangements of inflorescence meristems and mis-regulation of key stem cell regulators.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)
+- [stem](/tags/stem/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)
 
 ## Literature:
    - [Structural variation at the maize WUSCHEL1 locus alters stem cell organization in inflorescences.]( https://www.nature.com/articles/s41467-021-22699-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-22699-8](https://www.nature.com/articles/s41467-021-22699-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33888716](https://pubmed.ncbi.nlm.nih.gov/33888716/)
@@ -31,7 +31,7 @@ tags: [ stem,meristem,inflorescence ]
 - **NCBI ID:** [LOC100037786](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037786)
 - **UniProt accessions:** [A0AAS5](https://www.uniprot.org/uniprotkb/A0AAS5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

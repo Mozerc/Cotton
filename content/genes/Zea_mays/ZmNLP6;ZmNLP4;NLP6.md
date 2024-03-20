@@ -19,7 +19,7 @@ tags: [ flowering time,flowering ]
    - One Mukiller deletion takes out large portions of three genes (including **NLP6**, amyb4 and acm1) as well as this gene. The plants are homozygous viable, although the plants have a distinct phenotype, including delayed flowering time and somewhat "stumpy" looking tassels.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
@@ -30,7 +30,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:**  [103649534](https://www.ncbi.nlm.nih.gov/gene/?term=103649534)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

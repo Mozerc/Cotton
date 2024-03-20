@@ -21,7 +21,7 @@ tags: [ root,growth,stress,root growth,stress response,root length ]
    - **ZmATR** plays a predominant role in the response to DSBs, whereas ZmATM shows a minor role.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
    - [Maize ATR safeguards genome stability during kernel development to prevent early endosperm endocycle onset and cell death.]( https://academic.oup.com/plcell/article/33/8/2662/6292123?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab158](https://academic.oup.com/plcell/article/33/8/2662/6292123?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34086963](https://pubmed.ncbi.nlm.nih.gov/34086963/)
@@ -34,7 +34,7 @@ tags: [ root,growth,stress,root growth,stress response,root length ]
 - **NCBI ID:** [103626462](https://www.ncbi.nlm.nih.gov/gene/?term=103626462)
 - **UniProt accessions:** [A0A1D6GWH9](https://www.uniprot.org/uniprotkb/A0A1D6GWH9/entry)&nbsp;,&nbsp;[A0A1D6GWI1](https://www.uniprot.org/uniprotkb/A0A1D6GWI1/entry)&nbsp;,&nbsp;[A0A1D6GWI2](https://www.uniprot.org/uniprotkb/A0A1D6GWI2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

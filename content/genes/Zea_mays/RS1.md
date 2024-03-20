@@ -21,7 +21,7 @@ tags: [ leaf,sheath,cell proliferation,cellular proliferation ]
    - Rsl mutants alter cellular identity and organization in leaf tissues.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)
 
 ## Literature:
    - [Genetic analysis of Rough sheath1 developmental mutants of maize.]( https://academic.oup.com/genetics/article/136/1/295/6012255?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/genetics/136.1.295](https://academic.oup.com/genetics/article/136/1/295/6012255?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[8138166](https://pubmed.ncbi.nlm.nih.gov/8138166/)
@@ -34,7 +34,7 @@ tags: [ leaf,sheath,cell proliferation,cellular proliferation ]
 - **NCBI ID:** [LOC542255](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542255)
 - **UniProt accessions:** [Q41853](https://www.uniprot.org/uniprotkb/Q41853/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

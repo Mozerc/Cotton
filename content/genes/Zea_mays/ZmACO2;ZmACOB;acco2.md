@@ -21,7 +21,7 @@ tags: [ development,grain,grain length,flower,grain yield,yield,ethylene,meriste
    - **ZmACO2** is the candidate gene of qEL7 and negatively affects yield-related traits.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[ethylene-production](/tags/ethylene-production/)
+- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[ethylene-production](/tags/ethylene-production/)
 
 ## Literature:
    - [An ethylene biosynthesis enzyme controls quantitative variation in maize ear length and kernel yield.]( https://www.nature.com/articles/s41467-021-26123-z#Sec2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-26123-z](https://www.nature.com/articles/s41467-021-26123-z#Sec2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34611160](https://pubmed.ncbi.nlm.nih.gov/34611160/)
@@ -33,7 +33,7 @@ tags: [ development,grain,grain length,flower,grain yield,yield,ethylene,meriste
 - **NCBI ID:** [LOC100382364](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382364)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

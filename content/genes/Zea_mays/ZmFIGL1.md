@@ -19,7 +19,7 @@ tags: [ meiotic,meiotic recombination,recombination ]
    - The positive regulation of **ZmFIGL1** on meiotic HR is likely through stabilizing RAD15/DMC1 filaments
 
 ## Function-related keywords:
-[meiotic](/tags/meiotic/)&nbsp;,&nbsp;[meiotic-recombination](/tags/meiotic-recombination/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
+- [meiotic](/tags/meiotic/)&nbsp;,&nbsp;[meiotic-recombination](/tags/meiotic-recombination/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
 
 ## Literature:
    - [FIGL1 coordinates with dosage-sensitive BRCA2 in modulating meiotic recombination in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13541](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37293848](https://pubmed.ncbi.nlm.nih.gov/37293848/)
@@ -31,7 +31,7 @@ tags: [ meiotic,meiotic recombination,recombination ]
 - **NCBI ID:** [LOC100193153](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193153)
 - **UniProt accessions:** [A0A1D6MTY5](https://www.uniprot.org/uniprotkb/A0A1D6MTY5/entry)&nbsp;,&nbsp;[A0A1D6MTZ1](https://www.uniprot.org/uniprotkb/A0A1D6MTZ1/entry)&nbsp;,&nbsp;[A0A1D6MU11](https://www.uniprot.org/uniprotkb/A0A1D6MU11/entry)&nbsp;,&nbsp;[B4FE01](https://www.uniprot.org/uniprotkb/B4FE01/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

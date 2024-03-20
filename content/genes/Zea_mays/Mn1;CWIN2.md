@@ -21,7 +21,7 @@ tags: [ development,seed,cell wall,endosperm,sugar,seed development,sucrose,endo
    - The **Mn1** mutant is a typical Mn mutant and provided the earliest genetic demonstration of the role of cell wall invertase in seed filling.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)
 
 ## Literature:
    - [Miniature Seed6, encoding an endoplasmic reticulum signal peptidase, is critical in seed development.]( https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiaa060](https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33793873](https://pubmed.ncbi.nlm.nih.gov/33793873/)
@@ -34,7 +34,7 @@ tags: [ development,seed,cell wall,endosperm,sugar,seed development,sucrose,endo
 - **NCBI ID:**  [LOC542590](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542590)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

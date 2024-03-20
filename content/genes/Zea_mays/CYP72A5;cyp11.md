@@ -18,7 +18,7 @@ tags: [  ]
    - **CYP72A5** encodes a cytochrome P-450 CYP72.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Transcriptomic analysis of maize uncovers putative genes involved in metabolic detoxification under four safeners treatment.]( https://www.sciencedirect.com/science/article/pii/S004835752300130X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pestbp.2023.105465](https://www.sciencedirect.com/science/article/pii/S004835752300130X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37532342](https://pubmed.ncbi.nlm.nih.gov/37532342/)
@@ -29,7 +29,7 @@ tags: [  ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

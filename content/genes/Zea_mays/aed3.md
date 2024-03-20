@@ -19,7 +19,7 @@ tags: [ resistance ]
    - **Aed3** may be involved in the systemic acquired resistance against fungal invasion; expression increases during infection with Ustilago maydis.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)
+- [resistance](/tags/resistance/)
 
 ## Literature:
    - [Digging for Stress-Responsive Cell Wall Proteins for Developing Stress-Resistant Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2020.576385/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.576385](https://www.frontiersin.org/articles/10.3389/fpls.2020.576385/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33101346](https://pubmed.ncbi.nlm.nih.gov/33101346/)
@@ -30,7 +30,7 @@ tags: [ resistance ]
 - **NCBI ID:**  [LOC100192462](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192462)
 - **UniProt accessions:** [B4FMW6](https://www.uniprot.org/uniprotkb/B4FMW6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

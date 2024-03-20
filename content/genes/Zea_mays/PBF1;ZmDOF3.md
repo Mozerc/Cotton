@@ -20,7 +20,7 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
    - Loss of **PBF1** altered accumulation of starch and proteins in endosperm. Under different N conditions, **PBF1** protein levels remained stable but **PBF1** bound different sets of target genes, especially genes related to the biosynthesis and accumulation of N and C storage products.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [Nitrogen-dependent binding of the transcription factor PBF1 contributes to the balance of protein and carbohydrate storage in maize endosperm.]( https://academic.oup.com/plcell/article/35/1/409/6759374?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac302](https://academic.oup.com/plcell/article/35/1/409/6759374?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36222567](https://pubmed.ncbi.nlm.nih.gov/36222567/)
@@ -32,7 +32,7 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
 - **NCBI ID:** [542353](https://www.ncbi.nlm.nih.gov/gene/?term=542353)
 - **UniProt accessions:** [A0A1D6EJU8](https://www.uniprot.org/uniprotkb/A0A1D6EJU8/entry)&nbsp;,&nbsp;[A0A1D6EJX0](https://www.uniprot.org/uniprotkb/A0A1D6EJX0/entry)&nbsp;,&nbsp;[A0A1D6EJT9](https://www.uniprot.org/uniprotkb/A0A1D6EJT9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

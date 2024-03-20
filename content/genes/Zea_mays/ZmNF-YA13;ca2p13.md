@@ -19,7 +19,7 @@ tags: [ transcription factor,auxin,seed,yield,endosperm,seed weight,seed size ]
    - **ZmNF-YA13** regulates the expression of the auxin biosynthetic gene ZmYUC1, which modulates auxin levels in the early developing seeds and determines the number of endosperm cells, thereby governing maize seed size and ultimately yield.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)
 
 ## Literature:
    - [miR169o and ZmNF-YA13 act in concert to coordinate the expression of ZmYUC1 that determines seed size and weight in maize kernels.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18317)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18317](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18317)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35713356](https://pubmed.ncbi.nlm.nih.gov/35713356/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,auxin,seed,yield,endosperm,seed weight,seed size ]
 - **NCBI ID:** [LOC100282696](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282696)
 - **UniProt accessions:** [A0A1D6HLV3](https://www.uniprot.org/uniprotkb/A0A1D6HLV3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ development,plant development,anther,sterility,gibberellin,dwarf,height,
    - This is consistent with **D8** and D9 mutants which are known to have reduced anther exertion causing varying degrees of male sterility in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)
+- [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)
 
 ## Literature:
    - [Maize DELLA proteins dwarf plant8 and dwarf plant9 as modulators of plant development.]( https://academic.oup.com/pcp/article/51/11/1854/1852338?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcq153](https://academic.oup.com/pcp/article/51/11/1854/1852338?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20937610](https://pubmed.ncbi.nlm.nih.gov/20937610/)
@@ -34,7 +34,7 @@ tags: [ development,plant development,anther,sterility,gibberellin,dwarf,height,
 - **NCBI ID:** [LOC100191728](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191728)
 - **UniProt accessions:** [Q9ST48](https://www.uniprot.org/uniprotkb/Q9ST48/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

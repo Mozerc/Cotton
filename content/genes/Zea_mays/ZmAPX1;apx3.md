@@ -22,7 +22,7 @@ tags: [ leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathw
    - Taken together, these results suggest that the enhanced resistance against SCLB conferred by **ZmAPX1** might be mediated by JA signaling.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[plant-defense-signaling](/tags/plant-defense-signaling/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[plant-defense-signaling](/tags/plant-defense-signaling/)
 
 ## Literature:
    - [Ascorbate peroxidase 1 confers resistance to southern corn leaf blight in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13254)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13254](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13254)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35319160](https://pubmed.ncbi.nlm.nih.gov/35319160/)
@@ -34,7 +34,7 @@ tags: [ leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathw
 - **NCBI ID:** [LOC100285887](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285887)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ transcription factor,development,grain,grain size,seed,starch,grain fill
    - **ZmABI19** directly regulates multiple key grain filling TFs including O2, Prolamine-box binding factor 1, ZmbZIP22, NAC130, and Opaque11 in the endosperm and Viviparous1 in the embryo.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [The B3 domain-containing transcription factor ZmABI19 coordinates expression of key factors required for maize seed development and grain filling.]( https://academic.oup.com/plcell/article/33/1/104/5998674?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koaa008](https://academic.oup.com/plcell/article/33/1/104/5998674?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33751093](https://pubmed.ncbi.nlm.nih.gov/33751093/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,development,grain,grain size,seed,starch,grain fill
 - **NCBI ID:** [LOC103636228](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103636228)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

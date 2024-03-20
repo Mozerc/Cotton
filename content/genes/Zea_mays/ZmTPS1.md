@@ -21,7 +21,7 @@ tags: [ terpenoid biosynthesis ]
    - Given the role of **ZmTPS1** in catalyzing the formation of linalool, we speculate that **ZmTPS1** may play an important role in regulating the divergence in linalool between teosinte and tropical maize.
 
 ## Function-related keywords:
-[terpenoid-biosynthesis](/tags/terpenoid-biosynthesis/)
+- [terpenoid-biosynthesis](/tags/terpenoid-biosynthesis/)
 
 ## Literature:
    - [Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and Its Wild Ancestor, Teosinte.]( https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00111](https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31227559](https://pubmed.ncbi.nlm.nih.gov/31227559/)
@@ -36,7 +36,7 @@ tags: [ terpenoid biosynthesis ]
 - **NCBI ID:** [541974](https://www.ncbi.nlm.nih.gov/gene/?term=541974)
 - **UniProt accessions:** [Q84ZW8](https://www.uniprot.org/uniprotkb/Q84ZW8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

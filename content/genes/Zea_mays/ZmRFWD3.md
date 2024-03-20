@@ -22,7 +22,7 @@ tags: [ nitrogen,development,seed,endosperm,seed development,ubiquitin,endosperm
    - **ZmRFWD3** mutant decrease zein transcription and seed nutrient reserves.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)
 
 ## Literature:
    - [A SnRK1-ZmRFWD3-Opaque2 Signaling Axis Regulates Diurnal Nitrogen Accumulation in Maize Seeds.]( https://academic.oup.com/plcell/article/32/9/2823/6115678?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00352](https://academic.oup.com/plcell/article/32/9/2823/6115678?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32699171](https://pubmed.ncbi.nlm.nih.gov/32699171/)
@@ -34,7 +34,7 @@ tags: [ nitrogen,development,seed,endosperm,seed development,ubiquitin,endosperm
 - **NCBI ID:** [LOC100194370](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100194370)
 - **UniProt accessions:** [B4FIG1](https://www.uniprot.org/uniprotkb/B4FIG1/entry)&nbsp;,&nbsp;[A0A1D6JKM4](https://www.uniprot.org/uniprotkb/A0A1D6JKM4/entry)&nbsp;,&nbsp;[A0A1D6JKM6](https://www.uniprot.org/uniprotkb/A0A1D6JKM6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

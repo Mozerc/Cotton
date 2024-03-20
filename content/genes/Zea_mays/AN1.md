@@ -21,7 +21,7 @@ tags: [ root,development,plant development,anther,gibberellin,root development,g
    - DNA gel blot analysis indicated that **AN1** is a single-copy gene that lies entirely within the deletion of the **AN1**-bz2-6923 mutant.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[ga-biosynthetic](/tags/ga-biosynthetic/)&nbsp;,&nbsp;[plant-stature](/tags/plant-stature/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
+- [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[ga-biosynthetic](/tags/ga-biosynthetic/)&nbsp;,&nbsp;[plant-stature](/tags/plant-stature/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
    - [Cloning and characterization of the maize An1 gene.]( https://academic.oup.com/plcell/article/7/1/75/5984881?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.7.1.75](https://academic.oup.com/plcell/article/7/1/75/5984881?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[7696880](https://pubmed.ncbi.nlm.nih.gov/7696880/)
@@ -33,7 +33,7 @@ tags: [ root,development,plant development,anther,gibberellin,root development,g
 - **NCBI ID:** [542253](https://www.ncbi.nlm.nih.gov/gene/?term=542253)
 - **UniProt accessions:** [Q41771](https://www.uniprot.org/uniprotkb/Q41771/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

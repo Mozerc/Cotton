@@ -21,7 +21,7 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
    - Loss of function of **o18** specifically disrupts respiratory complexes I and II, but also decreases SDH1 flavinylation, and in turn shifts the mitochondrial tricarboxylic acid (TCA) cycle to glycolysis.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[plastid](/tags/plastid/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[plastid](/tags/plastid/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [Riboflavin integrates cellular energetics and cell cycle to regulate maize seed development.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13826](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35426230](https://pubmed.ncbi.nlm.nih.gov/35426230/)
@@ -33,7 +33,7 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 - **NCBI ID:** [100304324](https://www.ncbi.nlm.nih.gov/gene/?term=100304324)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ seedlings,drought,stress,drought stress,tolerance,aba,drought tolerance,
    - **ZmMYB48** identified to play important roles in regulating stomatal closure and drought tolerance.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
 
 ## Literature:
    - [Brassinolide can improve drought tolerance of maize seedlings under drought stress: By inducing the photosynthetic performance, antioxidant capacity and ZmMYB gene expression of maize seedlings]( https://link.springer.com/article/10.1007/s42729-022-00796-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s42729-022-00796-x](https://link.springer.com/article/10.1007/s42729-022-00796-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ seedlings,drought,stress,drought stress,tolerance,aba,drought tolerance,
 - **NCBI ID:**  [100194394](https://www.ncbi.nlm.nih.gov/gene/?term=100194394)
 - **UniProt accessions:** [B6TH07](https://www.uniprot.org/uniprotkb/B6TH07/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

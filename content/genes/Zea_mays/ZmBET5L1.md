@@ -19,7 +19,7 @@ tags: [ root,growth,auxin,stress,seedling,tolerance,stress tolerance,root growth
    - **ZmBET5L1**, a predicted tethering factor for Blocked Early in Transport 5 (BET5), is involved in vesicle trafficking to inhibit cell size and primary root growth, and decrease osmotic stress tolerance in maize seedling roots, possibly by influencing auxin re-distribution.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
 
 ## Literature:
    - [ZmBET5L1 inhibits primary root growth and decreases osmotic stress tolerance by mediating vesicle aggregation and tethering in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14517)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14517](https://onlinelibrary.wiley.com/doi/10.1111/pce.14517)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36515184](https://pubmed.ncbi.nlm.nih.gov/36515184/)
@@ -32,7 +32,7 @@ tags: [ root,growth,auxin,stress,seedling,tolerance,stress tolerance,root growth
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

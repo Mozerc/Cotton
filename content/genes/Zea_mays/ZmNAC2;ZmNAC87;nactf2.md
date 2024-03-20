@@ -19,7 +19,7 @@ tags: [ transcription factor,stress,tolerance,stress tolerance,osmotic tolerance
    - **ZmNAC2** enhances osmotic stress tolerance by regulating multiple physiological processes and molecular mechanisms.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
 
 ## Literature:
    - [Maize transcription factor ZmNAC2 enhances osmotic stress tolerance in transgenic Arabidopsis.]( https://www.sciencedirect.com/science/article/abs/pii/S0176161723000421?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jplph.2023.153948](https://www.sciencedirect.com/science/article/abs/pii/S0176161723000421?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36812721](https://pubmed.ncbi.nlm.nih.gov/36812721/)
@@ -30,7 +30,7 @@ tags: [ transcription factor,stress,tolerance,stress tolerance,osmotic tolerance
 - **NCBI ID:**  [LOC107403159](https://www.ncbi.nlm.nih.gov/gene/?term=LOC107403159)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ drought ]
    - We detected the expression of **ZmAAO3-1** and ZmAAO3-5 in silenced maize plants under normal and drought conditions. The results showed that the expression of AAO3 genes was increased in GFP plants with drought treatment, while the induction was compromised in W79-VIGS plants.
 
 ## Function-related keywords:
-[drought](/tags/drought/)
+- [drought](/tags/drought/)
 
 ## Literature:
    - [Maize WRKY Transcription Factor ZmWRKY79 Positively Regulates Drought Tolerance through Elevating ABA Biosynthesis.]( https://www.mdpi.com/1422-0067/22/18/10080)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms221810080](https://www.mdpi.com/1422-0067/22/18/10080)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34576244](https://pubmed.ncbi.nlm.nih.gov/34576244/)
@@ -30,7 +30,7 @@ tags: [ drought ]
 - **NCBI ID:**  [LOC103644157](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103644157)
 - **UniProt accessions:** [A0A1D6L748](https://www.uniprot.org/uniprotkb/A0A1D6L748/entry)&nbsp;,&nbsp;[A0A1D6L750](https://www.uniprot.org/uniprotkb/A0A1D6L750/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

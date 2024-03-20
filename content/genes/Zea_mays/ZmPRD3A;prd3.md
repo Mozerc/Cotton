@@ -19,7 +19,7 @@ tags: [ meiosis,meiotic ]
    - These results indicate that **ZmPRD3A** is essential for maize meiosis and that ZmPRD3B is not sufficiently expressed to complement **ZmPRD3A**-1 mutation despite **ZmPRD3A**/ZmPRD3B high homology.
 
 ## Function-related keywords:
-[meiosis](/tags/meiosis/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)
+- [meiosis](/tags/meiosis/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)
 
 ## Literature:
    - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
@@ -30,7 +30,7 @@ tags: [ meiosis,meiotic ]
 - **NCBI ID:**  [100192912](https://www.ncbi.nlm.nih.gov/gene/?term=100192912)
 - **UniProt accessions:** [A0A804UL20](https://www.uniprot.org/uniprotkb/A0A804UL20/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

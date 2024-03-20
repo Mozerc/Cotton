@@ -21,7 +21,7 @@ tags: [ development,auxin,seed,yield,endosperm,seed weight,seed size,seed develo
    - Significant upregulation in **ZmYUC1** in NF-YA13 OE plants and downregulation in miR169o OE were verified by qPCR in 5 DAP kernels.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [miR169o and ZmNF-YA13 act in concert to coordinate the expression of ZmYUC1 that determines seed size and weight in maize kernels.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18317)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18317](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18317)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35713356](https://pubmed.ncbi.nlm.nih.gov/35713356/)
@@ -34,7 +34,7 @@ tags: [ development,auxin,seed,yield,endosperm,seed weight,seed size,seed develo
 - **NCBI ID:** [100037821](https://www.ncbi.nlm.nih.gov/gene/?term=100037821)
 - **UniProt accessions:** [K7TFF5](https://www.uniprot.org/uniprotkb/K7TFF5/entry)&nbsp;,&nbsp;[A0A1D6IV45](https://www.uniprot.org/uniprotkb/A0A1D6IV45/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

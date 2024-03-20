@@ -20,7 +20,7 @@ tags: [ root,root elongation,root initiation,primary root,root hair,root length,
    - The **RTH5** protein is localized in epidermal cells of the primary root.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[root-epidermal-cells](/tags/root-epidermal-cells/)
+- [root](/tags/root/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[root-epidermal-cells](/tags/root-epidermal-cells/)
 
 ## Literature:
    - [Roothairless5, which functions in maize (Zea mays L.) root hair initiation and elongation encodes a monocot-specific NADPH oxidase.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.12578)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.12578](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12578)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24902980](https://pubmed.ncbi.nlm.nih.gov/24902980/)
@@ -32,7 +32,7 @@ tags: [ root,root elongation,root initiation,primary root,root hair,root length,
 - **NCBI ID:** [778438](https://www.ncbi.nlm.nih.gov/gene/?term=778438)
 - **UniProt accessions:** [Q0MRQ8](https://www.uniprot.org/uniprotkb/Q0MRQ8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

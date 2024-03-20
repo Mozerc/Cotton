@@ -23,7 +23,7 @@ tags: [ senescence,map-based cloning,salt,photosynthesis,tolerance,salt toleranc
    - **ZmSWEET1b** encodes a functional glucose transporter expressed in subsidiary cells; mutants result in reduced stomatal opening positive regulator of salt tolerance.
 
 ## Function-related keywords:
-[senescence](/tags/senescence/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
+- [senescence](/tags/senescence/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
 
 ## Literature:
    - [A Subsidiary Cell-Localized Glucose Transporter Promotes Stomatal Conductance and Photosynthesis.]( https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00736](https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30996077](https://pubmed.ncbi.nlm.nih.gov/30996077/)
@@ -35,7 +35,7 @@ tags: [ senescence,map-based cloning,salt,photosynthesis,tolerance,salt toleranc
 - **NCBI ID:** [LOC100281296](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281296)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ transcription factor,development,spikelet,vegetative,inflorescence,steri
    - **TU1** proteins are nuclearly localized in specific cells at the base of spikelet pair meristems.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [Pod corn is caused by rearrangement at the Tunicate1 locus.]( https://academic.oup.com/plcell/article/24/7/2733/6100853?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.112.100537](https://academic.oup.com/plcell/article/24/7/2733/6100853?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22829149](https://pubmed.ncbi.nlm.nih.gov/22829149/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,development,spikelet,vegetative,inflorescence,steri
 - **NCBI ID:** [542033](https://www.ncbi.nlm.nih.gov/gene/?term=542033)
 - **UniProt accessions:** [C0HGC3](https://www.uniprot.org/uniprotkb/C0HGC3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

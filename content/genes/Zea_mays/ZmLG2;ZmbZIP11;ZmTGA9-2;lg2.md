@@ -20,7 +20,7 @@ tags: [ leaf,stem,shoot,vegetative,reproductive,leaf angle ]
    - In the liguleless1 mutant, ligule and auricle are missing, leaves are upright.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Characterization of regulatory modules controlling leaf angle in maize.]( https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac308](https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35758633](https://pubmed.ncbi.nlm.nih.gov/35758633/)
@@ -35,7 +35,7 @@ tags: [ leaf,stem,shoot,vegetative,reproductive,leaf angle ]
 - **NCBI ID:** [LOC541670](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541670)
 - **UniProt accessions:** [O49067](https://www.uniprot.org/uniprotkb/O49067/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ nitrogen,growth,plant growth,nitrate ]
    - **ZmNRT1.1B** modulates high-affinity NO3− uptake and signalling in planta.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
    - [ZmNRT1.1B (ZmNPF6.6) determines nitrogen use efficiency via regulation of nitrate transport and signalling in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14185](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37786281](https://pubmed.ncbi.nlm.nih.gov/37786281/)
@@ -33,7 +33,7 @@ tags: [ nitrogen,growth,plant growth,nitrate ]
 - **NCBI ID:** [LOC103637664](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103637664)
 - **UniProt accessions:** [A0A096SQP7](https://www.uniprot.org/uniprotkb/A0A096SQP7/entry)&nbsp;,&nbsp;[A0A317Y8A8](https://www.uniprot.org/uniprotkb/A0A317Y8A8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

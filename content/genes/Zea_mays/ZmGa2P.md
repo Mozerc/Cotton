@@ -22,7 +22,7 @@ tags: [ growth,pollen,reproductive,breeding,reproductive growth ]
    - **ZmGa2P** candidate gene of the male determinant of Ga2.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)
 
 ## Literature:
    - [A pair of non-Mendelian genes at the Ga2 locus confer unilateral cross-incompatibility in maize.]( https://www.nature.com/articles/s41467-022-29729-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-29729-z](https://www.nature.com/articles/s41467-022-29729-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35422051](https://pubmed.ncbi.nlm.nih.gov/35422051/)
@@ -34,7 +34,7 @@ tags: [ growth,pollen,reproductive,breeding,reproductive growth ]
 - **NCBI ID:** [LOC111589225](https://www.ncbi.nlm.nih.gov/gene/?term=LOC111589225)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

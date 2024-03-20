@@ -20,7 +20,7 @@ tags: [ seed,alkaline tolerance,seed germination,tolerance,sugar ]
    - **ZmAGA1** Is Translationally Induced and Capable of Hydrolyzing Galactinol and RFOs during Seed Imbibition.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[alkaline-tolerance](/tags/alkaline-tolerance/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[sugar](/tags/sugar/)
+- [seed](/tags/seed/)&nbsp;,&nbsp;[alkaline-tolerance](/tags/alkaline-tolerance/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[sugar](/tags/sugar/)
 
 ## Literature:
    - [ZmAGA1 Hydrolyzes RFOs Late during the Lag Phase of Seed Germination, Shifting Sugar Metabolism toward Seed Germination Over Seed Aging Tolerance.]( https://pubs.acs.org/doi/10.1021/acs.jafc.1c03677#)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1021/acs.jafc.1c03677](https://pubs.acs.org/doi/10.1021/acs.jafc.1c03677#)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34553917](https://pubmed.ncbi.nlm.nih.gov/34553917/)
@@ -32,7 +32,7 @@ tags: [ seed,alkaline tolerance,seed germination,tolerance,sugar ]
 - **NCBI ID:** [LOC606463](https://www.ncbi.nlm.nih.gov/gene/?term=LOC606463)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

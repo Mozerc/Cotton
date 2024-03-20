@@ -18,7 +18,7 @@ tags: [ height,flowering time,flowering ]
    - **acco35** (1-aminocyclopropane-1-carboxylate oxidase35, GRMZM2G052422) for tassel branch number.
 
 ## Function-related keywords:
-[height](/tags/height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [height](/tags/height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [CUBIC: an atlas of genetic architecture promises directed maize improvement.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-020-1930-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31980033](https://pubmed.ncbi.nlm.nih.gov/31980033/)
@@ -29,7 +29,7 @@ tags: [ height,flowering time,flowering ]
 - **NCBI ID:**  [100191321](https://www.ncbi.nlm.nih.gov/gene/?term=100191321)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

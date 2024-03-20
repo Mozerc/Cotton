@@ -20,7 +20,7 @@ tags: [ resistant ]
    - Recessive susceptibility to nicosulfuron (Accent) and mesotrione herbicides,dominant **ben1** resistant, with Ben2.
 
 ## Function-related keywords:
-[resistant](/tags/resistant/)
+- [resistant](/tags/resistant/)
 
 ## Literature:
    - [Rapid identification of a candidate nicosulfuron sensitivity gene (Nss) in maize (Zea mays L.) via combining bulked segregant analysis and RNA-seq.]( https://link.springer.com/article/10.1007/s00122-019-03282-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-019-03282-8](https://link.springer.com/article/10.1007/s00122-019-03282-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30652203](https://pubmed.ncbi.nlm.nih.gov/30652203/)
@@ -31,7 +31,7 @@ tags: [ resistant ]
 - **NCBI ID:**  [LOC103625869](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103625869)
 - **UniProt accessions:** [P21569](https://www.uniprot.org/uniprotkb/P21569/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

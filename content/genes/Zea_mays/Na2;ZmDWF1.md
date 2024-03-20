@@ -23,7 +23,7 @@ tags: [ leaf,br,leaf angle ]
    - Overexpression of **ZmDWF1** resulted in enlarged LA, indicating that **ZmDWF1** is a positive regulator of LA in maize, and the regulatory framework of **ZmDWF1** was created based on the results from RNA-Sequencing and yeast-two hybrid (Y2H) screening analysis.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
@@ -35,7 +35,7 @@ tags: [ leaf,br,leaf angle ]
 - **NCBI ID:** [LOC542549](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542549)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

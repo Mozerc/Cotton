@@ -21,7 +21,7 @@ tags: [ development,pollen,anther,map-based cloning,pollen development,transport
    - **MS2** gene from the maize male sterile2 mutant using map-based cloning and determined that it encodes an ABCG transporter.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[cutin](/tags/cutin/)
+- [development](/tags/development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[cutin](/tags/cutin/)
 
 ## Literature:
    - [Maize MS2 encodes an ATP-binding cassette transporter that is essential for anther development]( https://www.sciencedirect.com/science/article/pii/S2214514121000696)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.04.001](https://www.sciencedirect.com/science/article/pii/S2214514121000696)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ development,pollen,anther,map-based cloning,pollen development,transport
 - **NCBI ID:** [100285145](https://www.ncbi.nlm.nih.gov/gene/?term=100285145)
 - **UniProt accessions:** [A0A1D6P382](https://www.uniprot.org/uniprotkb/A0A1D6P382/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

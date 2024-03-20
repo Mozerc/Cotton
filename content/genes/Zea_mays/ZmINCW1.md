@@ -22,7 +22,7 @@ tags: [ development,grain,grain size,seed,grain weight,seed weight,seed size,see
    - Overexpression of Maize **ZmINCW1** in Arabidopsis Can Increase Seed Weight
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [The Conserved and Unique Genetic Architecture of Kernel Size and Weight in Maize and Rice.]( https://academic.oup.com/plphys/article/175/2/774/6116795?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.17.00708](https://academic.oup.com/plphys/article/175/2/774/6116795?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28811335](https://pubmed.ncbi.nlm.nih.gov/28811335/)
@@ -35,7 +35,7 @@ tags: [ development,grain,grain size,seed,grain weight,seed weight,seed size,see
 - **NCBI ID:** [542314](https://www.ncbi.nlm.nih.gov/gene/?term=542314)
 - **UniProt accessions:** [P49174](https://www.uniprot.org/uniprotkb/P49174/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

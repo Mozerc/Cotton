@@ -18,7 +18,7 @@ tags: [ drought,stress,drought stress,pi ]
    - ZmMYB genes related to drought stress in maize.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[pi](/tags/pi/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[pi](/tags/pi/)
 
 ## Literature:
    - [Systematic analysis of differentially expressed ZmMYB genes related to drought stress in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8212317/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s12298-021-01013-2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8212317/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34177148](https://pubmed.ncbi.nlm.nih.gov/34177148/)
@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,pi ]
 - **NCBI ID:** [100193925](https://www.ncbi.nlm.nih.gov/gene/?term=100193925)
 - **UniProt accessions:** [B4FGS5](https://www.uniprot.org/uniprotkb/B4FGS5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ nitrogen,leaf,root,homeostasis,casparian strip ]
    - Effects of **ZmLAC3** overexpression on Casparian strip formation in roots, and mineral element profiles in ear leaves of field-grown maize.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[casparian-strip](/tags/casparian-strip/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[casparian-strip](/tags/casparian-strip/)
 
 ## Literature:
    - [Nitrogen supply affects ion homeostasis by modifying root Casparian strip formation through the miR528-LAC3 module in maize]( https://www.sciencedirect.com/science/article/pii/S2590346223000512?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100553](https://www.sciencedirect.com/science/article/pii/S2590346223000512?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ nitrogen,leaf,root,homeostasis,casparian strip ]
 - **NCBI ID:** [732787](https://www.ncbi.nlm.nih.gov/gene/?term=732787)
 - **UniProt accessions:** [C0P789](https://www.uniprot.org/uniprotkb/C0P789/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

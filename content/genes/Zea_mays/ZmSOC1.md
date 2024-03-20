@@ -21,7 +21,7 @@ tags: [ transcription factor,growth,seed,quality,yield,reproductive,zinc,plant g
    - Effect of **ZmSOC1** expression on seed quality.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
 
 ## Literature:
    - [Expression of a maize SOC1 gene enhances soybean yield potential through modulating plant growth and flowering.]( https://www.nature.com/articles/s41598-021-92215-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-021-92215-x](https://www.nature.com/articles/s41598-021-92215-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34140602](https://pubmed.ncbi.nlm.nih.gov/34140602/)
@@ -32,7 +32,7 @@ tags: [ transcription factor,growth,seed,quality,yield,reproductive,zinc,plant g
 - **NCBI ID:** [LOC542042](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542042)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

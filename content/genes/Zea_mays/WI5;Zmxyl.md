@@ -22,7 +22,7 @@ tags: [ leaf,xylem,growth,drought,stress,drought stress,map-based cloning,cell w
    - **WI5** functions in the formation of the secondary cell wall and plays an essential role in increasing the thickness of the internode xylem required for efficient water transport, thereby helping plants develop normally under high transpiration and water-stress conditions.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[xylem](/tags/xylem/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[xylem](/tags/xylem/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Maize WI5 encodes an endo-1,4-β-xylanase required for secondary cell wall synthesis and water transport in xylem.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12923)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12923](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12923)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32129568](https://pubmed.ncbi.nlm.nih.gov/32129568/)
@@ -34,7 +34,7 @@ tags: [ leaf,xylem,growth,drought,stress,drought stress,map-based cloning,cell w
 - **NCBI ID:** [103625996](https://www.ncbi.nlm.nih.gov/gene/?term=103625996)
 - **UniProt accessions:** [A0A1D6GKL1](https://www.uniprot.org/uniprotkb/A0A1D6GKL1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

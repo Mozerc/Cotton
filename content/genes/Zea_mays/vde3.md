@@ -19,7 +19,7 @@ tags: [ methyltransferase ]
    - **Vde3** is similar to S-adenosyl-L-methionine-dependent methyltransferase domain-containing protein of A. thaliana.
 
 ## Function-related keywords:
-[methyltransferase](/tags/methyltransferase/)
+- [methyltransferase](/tags/methyltransferase/)
 
 ## Literature:
    - [Genetic Diversity and Molecular Evolution of a Violaxanthin De-epoxidase Gene in Maize]( https://www.frontiersin.org/articles/10.3389/fgene.2016.00131/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fgene.2016.00131](https://www.frontiersin.org/articles/10.3389/fgene.2016.00131/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -30,7 +30,7 @@ tags: [ methyltransferase ]
 - **NCBI ID:**  [LOC100381876](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100381876)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

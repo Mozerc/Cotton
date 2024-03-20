@@ -18,7 +18,7 @@ tags: [ drought,stress,drought stress ]
    - **ZmNF-YB7** may play an important role in drought and rewatering treatments.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)
 
 ## Literature:
    - [Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1159955](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37265635](https://pubmed.ncbi.nlm.nih.gov/37265635/)
@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress ]
 - **NCBI ID:**  [103632093](https://www.ncbi.nlm.nih.gov/gene/?term=103632093)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

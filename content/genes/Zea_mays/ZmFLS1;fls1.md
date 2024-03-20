@@ -20,7 +20,7 @@ tags: [  ]
    - **ZmFLS1** partially complements the flavonol deficiency of the Arabidopsis fls1 mutant.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Evolution and expression of tandem duplicated maize flavonol synthase genes.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2012.00101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22654889](https://pubmed.ncbi.nlm.nih.gov/22654889/)
@@ -31,7 +31,7 @@ tags: [  ]
 - **NCBI ID:**  [100272992](https://www.ncbi.nlm.nih.gov/gene/?term=100272992)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

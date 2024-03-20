@@ -19,7 +19,7 @@ tags: [ transcription factor,growth,drought,tolerance,drought tolerance,plant gr
    - The highest proportion of conformations were the random coil and α-helix with an average of 90.51%. Among these two typical conformations, **ZmTH02.1** had the highest percentage of 97.11%, and ZmTH09.1 had the lowest percentage, occupying 81.53%.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)
 
 ## Literature:
    - [Identification and analysis of differentially expressed trihelix genes in maize (Zea mays) under abiotic stresses.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158769/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.15312](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158769/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37151290](https://pubmed.ncbi.nlm.nih.gov/37151290/)
@@ -30,7 +30,7 @@ tags: [ transcription factor,growth,drought,tolerance,drought tolerance,plant gr
 - **NCBI ID:**  [LOC100277445](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100277445)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

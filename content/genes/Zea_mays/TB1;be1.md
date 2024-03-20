@@ -19,7 +19,7 @@ tags: [ domestication ]
    - Gene mapping and sequence alignment suggested that TEOSINTE BRANCHED1 (**TB1**) was the candidate gene of BE1. Further verification showed that a be1-specific 31 bp deletion at the downstream of BE1 led to statistically reduced expression of this gene in the immature ear, which serves as the potential causal reason for the branched ears of be1.
 
 ## Function-related keywords:
-[domestication](/tags/domestication/)
+- [domestication](/tags/domestication/)
 
 ## Literature:
    - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
@@ -32,7 +32,7 @@ tags: [ domestication ]
 - **NCBI ID:** [LOC103643875](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643875)
 - **UniProt accessions:** [A0A1D6L1J8](https://www.uniprot.org/uniprotkb/A0A1D6L1J8/entry)&nbsp;,&nbsp;[A0A317Y2T9](https://www.uniprot.org/uniprotkb/A0A317Y2T9/entry)&nbsp;,&nbsp;[Q93WI2](https://www.uniprot.org/uniprotkb/Q93WI2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

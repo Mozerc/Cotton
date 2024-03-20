@@ -21,7 +21,7 @@ tags: [ grain,grain yield,yield,grain weight ]
    - The overexpression of the **ZmKL9** can positively affect the grain and ear yield of maize in different genetic backgrounds.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
 
 ## Literature:
    - [Overexpression of ZmKL9 increases maize hybrid hundred kernel weight.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13957](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36331355](https://pubmed.ncbi.nlm.nih.gov/36331355/)
@@ -35,7 +35,7 @@ tags: [ grain,grain yield,yield,grain weight ]
 - **NCBI ID:** [100280552](https://www.ncbi.nlm.nih.gov/gene/?term=100280552)
 - **UniProt accessions:** [C4J6L7](https://www.uniprot.org/uniprotkb/C4J6L7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

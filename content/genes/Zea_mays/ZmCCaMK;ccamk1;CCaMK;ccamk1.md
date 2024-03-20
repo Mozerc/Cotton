@@ -19,7 +19,7 @@ tags: [ kinase,drought,stress,drought stress,defense,tolerance,aba,drought toler
    - In maize, **ZmCCaMK** phosphorylating NAC84 regulates ABA-induced antioxidant defense and drought stress.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)
 
 ## Literature:
    - [BRASSINOSTEROID-SIGNALING KINASE 1 phosphorylating CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE functions in drought tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17403](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33864702](https://pubmed.ncbi.nlm.nih.gov/33864702/)
@@ -30,7 +30,7 @@ tags: [ kinase,drought,stress,drought stress,defense,tolerance,aba,drought toler
 - **NCBI ID:**  [LOC732824](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732824)
 - **UniProt accessions:** [A0A3L6D7Y3](https://www.uniprot.org/uniprotkb/A0A3L6D7Y3/entry)&nbsp;,&nbsp;[A0A3L6DAL1](https://www.uniprot.org/uniprotkb/A0A3L6DAL1/entry)&nbsp;,&nbsp;[A0A3L6F372](https://www.uniprot.org/uniprotkb/A0A3L6F372/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

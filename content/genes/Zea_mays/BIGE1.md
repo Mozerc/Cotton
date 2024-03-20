@@ -22,7 +22,7 @@ tags: [ leaf,root,growth,development,leaf development,root development,root init
    - **BIGE1** encodes a trans-Golgi-associated multidrug- and-toxin-extrusion (MATE) transporter implicated in regulation of organ initiation and size.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[organ-size](/tags/organ-size/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[organ-size](/tags/organ-size/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [Conserved Functions of the MATE Transporter BIG EMBRYO1 in Regulation of Lateral Organ Size and Initiation Rate.]( https://academic.oup.com/plcell/article/27/8/2288/6096688?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.15.00290](https://academic.oup.com/plcell/article/27/8/2288/6096688?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26276834](https://pubmed.ncbi.nlm.nih.gov/26276834/)
@@ -34,7 +34,7 @@ tags: [ leaf,root,growth,development,leaf development,root development,root init
 - **NCBI ID:** [100279305](https://www.ncbi.nlm.nih.gov/gene/?term=100279305)
 - **UniProt accessions:** [B7ZXG0](https://www.uniprot.org/uniprotkb/B7ZXG0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

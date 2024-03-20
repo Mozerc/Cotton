@@ -21,7 +21,7 @@ tags: [ vegetative,height,plant height,flowering time,flowering ]
    - Our analyses of the haplotype profiles of several SVs in 137 ILs revealed their contribution to the altered expression patterns and phenotypic differentiation, including the SVs in **GL15** for kernel row number, SVs in the promoter of ZmPHYB2 for flowering time, and SVs in ZmPYL10 for plant height and ear height.
 
 ## Function-related keywords:
-[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [vegetative](/tags/vegetative/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Gene expression and expression quantitative trait loci analyses uncover natural variations underlying the improvement of important agronomic traits during modern maize breeding.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16260)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16260](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16260)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37186341](https://pubmed.ncbi.nlm.nih.gov/37186341/)
@@ -35,7 +35,7 @@ tags: [ vegetative,height,plant height,flowering time,flowering ]
 - **NCBI ID:** [LOC732805](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732805)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

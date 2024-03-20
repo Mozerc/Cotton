@@ -21,7 +21,7 @@ tags: [ development,cell wall,cellulose,endosperm,cell wall synthesis,sucrose,en
    - **ENB1** enhances sucrose supply to the endosperm and contributes to a PE in the kernel.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[sucrose-supply](/tags/sucrose-supply/)&nbsp;,&nbsp;[sucrose-synthase](/tags/sucrose-synthase/)
+- [development](/tags/development/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[sucrose-supply](/tags/sucrose-supply/)&nbsp;,&nbsp;[sucrose-synthase](/tags/sucrose-synthase/)
 
 ## Literature:
    - [ENB1 encodes a cellulose synthase 5 that directs synthesis of cell wall ingrowths in maize basal endosperm transfer cells.]( https://academic.oup.com/plcell/article/34/3/1054/6478293?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab312](https://academic.oup.com/plcell/article/34/3/1054/6478293?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34935984](https://pubmed.ncbi.nlm.nih.gov/34935984/)
@@ -33,7 +33,7 @@ tags: [ development,cell wall,cellulose,endosperm,cell wall synthesis,sucrose,en
 - **NCBI ID:** [LOC541803](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541803)
 - **UniProt accessions:** [A0A1D6L8J6](https://www.uniprot.org/uniprotkb/A0A1D6L8J6/entry)&nbsp;,&nbsp;[A0A1D6L8J7](https://www.uniprot.org/uniprotkb/A0A1D6L8J7/entry)&nbsp;,&nbsp;[A0A1D6L8K4](https://www.uniprot.org/uniprotkb/A0A1D6L8K4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

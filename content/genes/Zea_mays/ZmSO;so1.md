@@ -22,7 +22,7 @@ tags: [ seedlings,resistance,drought,stress,drought stress,tolerance,aba,drought
    - Correlation of **ZmSO** expression with maize drought tolerance.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Genetic variation in ZmSO contributes to ABA response and drought tolerance in maize seedlings]( https://www.sciencedirect.com/science/article/pii/S2214514123000156)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.02.004](https://www.sciencedirect.com/science/article/pii/S2214514123000156)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -34,7 +34,7 @@ tags: [ seedlings,resistance,drought,stress,drought stress,tolerance,aba,drought
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

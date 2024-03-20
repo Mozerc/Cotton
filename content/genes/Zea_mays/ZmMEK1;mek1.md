@@ -20,7 +20,7 @@ tags: [ seedlings,kinase,mature leaves,stems,aba,salicylic acid,abscisic acid,pr
    - **mek1** transcript levels are most abundant in primary roots and coleoptiles of maize seedlings and exist in lower levels in mature stems and leaves.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[mature-leaves](/tags/mature-leaves/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[sa](/tags/sa/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[mature-leaves](/tags/mature-leaves/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[sa](/tags/sa/)
 
 ## Literature:
    - [Maize ZmMEK1 is a single-copy gene.]( https://link.springer.com/article/10.1007/s11033-011-1057-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-011-1057-y](https://link.springer.com/article/10.1007/s11033-011-1057-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21691709](https://pubmed.ncbi.nlm.nih.gov/21691709/)
@@ -31,7 +31,7 @@ tags: [ seedlings,kinase,mature leaves,stems,aba,salicylic acid,abscisic acid,pr
 - **NCBI ID:**  [LOC542356](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542356)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

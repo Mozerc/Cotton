@@ -21,7 +21,7 @@ tags: [ flowering time,flowering ]
    - **ZmNF-YC2** regulates flowering time in maize under LD conditions.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Identification of ZmNF-YC2 and its regulatory network for maize flowering time.]( https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab364](https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34338753](https://pubmed.ncbi.nlm.nih.gov/34338753/)
@@ -33,7 +33,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC100273685](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273685)
 - **UniProt accessions:** [B4FWZ1](https://www.uniprot.org/uniprotkb/B4FWZ1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

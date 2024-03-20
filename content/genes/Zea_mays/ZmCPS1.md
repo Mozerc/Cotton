@@ -19,7 +19,7 @@ tags: [ chloroplast,sugar ]
    - **ZmCPS1** is a candidate gene involved in the regulation of sugar content and agronomic traits of straw.
 
 ## Function-related keywords:
-[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[sugar](/tags/sugar/)
+- [chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[sugar](/tags/sugar/)
 
 ## Literature:
    - [Introducing selective agrochemical manipulation of gibberellin metabolism into a cereal crop.]( https://www.nature.com/articles/s41477-019-0582-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0582-x](https://www.nature.com/articles/s41477-019-0582-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32015514](https://pubmed.ncbi.nlm.nih.gov/32015514/)
@@ -31,7 +31,7 @@ tags: [ chloroplast,sugar ]
 - **NCBI ID:** [LOC103644288](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103644288)
 - **UniProt accessions:** [A0A1D6LAG9](https://www.uniprot.org/uniprotkb/A0A1D6LAG9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

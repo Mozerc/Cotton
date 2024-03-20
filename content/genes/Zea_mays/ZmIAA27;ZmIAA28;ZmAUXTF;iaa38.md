@@ -18,7 +18,7 @@ tags: [ auxin ]
    - **ZmIAA27** similar to Arabidopsis auxin-responsive protein IAA27.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)
+- [auxin](/tags/auxin/)
 
 ## Literature:
    - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
@@ -29,7 +29,7 @@ tags: [ auxin ]
 - **NCBI ID:**  [LOC100274569](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100274569)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

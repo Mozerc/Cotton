@@ -21,7 +21,7 @@ tags: [ development,auxin,homeostasis,height ]
    - The Maize PIN Gene Family of Auxin Transporters.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[height](/tags/height/)
+- [development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[height](/tags/height/)
 
 ## Literature:
    - [The Maize PIN Gene Family of Auxin Transporters.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355596/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2012.00016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355596/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22639639](https://pubmed.ncbi.nlm.nih.gov/22639639/)
@@ -34,7 +34,7 @@ tags: [ development,auxin,homeostasis,height ]
 - **NCBI ID:** [LOC100281763](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281763)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ leaf,growth,grain,shoot,grain number,grain yield,yield,vegetative,floral
    - **ZMM28**, alters vegetative and reproductive growth parameters and significantly enhances yield in large-scale field trials conducted over multiple years.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
 
 ## Literature:
    - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32579713](https://pubmed.ncbi.nlm.nih.gov/32579713/)
@@ -37,7 +37,7 @@ tags: [ leaf,growth,grain,shoot,grain number,grain yield,yield,vegetative,floral
 - **NCBI ID:** [542045](https://www.ncbi.nlm.nih.gov/gene/?term=542045)
 - **UniProt accessions:** [C0PA60](https://www.uniprot.org/uniprotkb/C0PA60/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

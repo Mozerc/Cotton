@@ -20,7 +20,7 @@ tags: [ development,cell death,floral,meristem,floral meristem,branching,axillar
    - Dissection of floral development revealed that ra3 single mutants have partially derepressed carpels, whereas **GT1**;ra3 double mutants have completely derepressed carpels.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[axillary-meristem](/tags/axillary-meristem/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[floral-meristem-determinacy](/tags/floral-meristem-determinacy/)
+- [development](/tags/development/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[axillary-meristem](/tags/axillary-meristem/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[floral-meristem-determinacy](/tags/floral-meristem-determinacy/)
 
 ## Literature:
    - [Recruitment of an ancient branching program to suppress carpel development in maize flowers.]( https://www.pnas.org/doi/full/10.1073/pnas.2115871119)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2115871119](https://www.pnas.org/doi/full/10.1073/pnas.2115871119)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34996873](https://pubmed.ncbi.nlm.nih.gov/34996873/)
@@ -33,7 +33,7 @@ tags: [ development,cell death,floral,meristem,floral meristem,branching,axillar
 - **NCBI ID:** [100274482](https://www.ncbi.nlm.nih.gov/gene/?term=100274482)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

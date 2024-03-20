@@ -20,7 +20,7 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
    - Collectively, our study demonstrated that **ZmYSL2** had a pivotal role in mediating Fe distribution within the kernel and kernel development in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[metal-transport](/tags/metal-transport/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[fe](/tags/fe/)&nbsp;,&nbsp;[fe-homeostasis](/tags/fe-homeostasis/)&nbsp;,&nbsp;[fe-accumulation](/tags/fe-accumulation/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[metal-transport](/tags/metal-transport/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[fe](/tags/fe/)&nbsp;,&nbsp;[fe-homeostasis](/tags/fe-homeostasis/)&nbsp;,&nbsp;[fe-accumulation](/tags/fe-accumulation/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [Maize YSL2 is required for iron distribution and development in kernels.]( https://academic.oup.com/jxb/article/71/19/5896/5873978?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa332](https://academic.oup.com/jxb/article/71/19/5896/5873978?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32687576](https://pubmed.ncbi.nlm.nih.gov/32687576/)
@@ -33,7 +33,7 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
 - **NCBI ID:** [LOC103627488](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627488)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

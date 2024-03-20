@@ -20,7 +20,7 @@ tags: [ leaf,seedling ]
    - Enzymatic activity of sulfite reductase from Zea mays (**ZmSiR**) in plant leaf extracts of SNP69C and SNP69G genotypes at the seedling stage.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[seedling](/tags/seedling/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[seedling](/tags/seedling/)
 
 ## Literature:
    - [A natural single-nucleotide polymorphism variant in sulfite reductase influences sulfur assimilation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17616)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17616](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17616)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34254312](https://pubmed.ncbi.nlm.nih.gov/34254312/)
@@ -33,7 +33,7 @@ tags: [ leaf,seedling ]
 - **NCBI ID:** [542221](https://www.ncbi.nlm.nih.gov/gene/?term=542221)
 - **UniProt accessions:** [A0A1D6M7L9](https://www.uniprot.org/uniprotkb/A0A1D6M7L9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation
    - **NIGT1.2** Positively Modulates Pi Uptake during Pi Starvation.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)
 
 ## Literature:
    - [The Transcription Factor NIGT1.2 Modulates Both Phosphate Uptake and Nitrate Influx during Phosphate Starvation in Arabidopsis and Maize.]( https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00361](https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32958562](https://pubmed.ncbi.nlm.nih.gov/32958562/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation
 - **NCBI ID:** [AT1G68670	LOC100216751](https://www.ncbi.nlm.nih.gov/gene/?term=AT1G68670	LOC100216751)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

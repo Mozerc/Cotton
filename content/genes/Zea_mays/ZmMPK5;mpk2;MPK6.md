@@ -20,7 +20,7 @@ tags: [ brassinosteroid,brassinosteroid signaling,stress,defense,oxidative stres
    - **ZmMPK5** haves functions in brassinosteroid signaling in antioxidant defense.
 
 ## Function-related keywords:
-[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)
+- [brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)
 
 ## Literature:
    - [ZmMPK5 phosphorylates ZmNAC49 to enhance oxidative stress tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17761](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618923](https://pubmed.ncbi.nlm.nih.gov/34618923/)
@@ -31,7 +31,7 @@ tags: [ brassinosteroid,brassinosteroid signaling,stress,defense,oxidative stres
 - **NCBI ID:**  [AB016802.1	LOC541618](https://www.ncbi.nlm.nih.gov/gene/?term=AB016802.1	LOC541618)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ transporter,cell wall,sucrose,sucrose transporter ]
    - The presence of ZmSWEET11 and 13b (Clade III) in the maternal tissue (facilitating sucrose efflux to the apoplasm) and **ZmSTP3** and ZmSWEET4c (Clade II) in the BETL (for the uptake of hexoses) indicated that sucrose is likely degraded at the maternal–filial interface.
 
 ## Function-related keywords:
-[transporter](/tags/transporter/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
+- [transporter](/tags/transporter/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
    - [A transcriptional landscape underlying sugar import for grain set in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35020972](https://pubmed.ncbi.nlm.nih.gov/35020972/)
@@ -33,7 +33,7 @@ tags: [ transporter,cell wall,sucrose,sucrose transporter ]
 - **NCBI ID:** [100281200](https://www.ncbi.nlm.nih.gov/gene/?term=100281200)
 - **UniProt accessions:** [B8A122](https://www.uniprot.org/uniprotkb/B8A122/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

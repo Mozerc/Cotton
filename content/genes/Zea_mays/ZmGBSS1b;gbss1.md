@@ -20,7 +20,7 @@ tags: [ grain,starch,glycosyltransferase ]
    - **ZmGBSS1b**, ZmHB41, and ZmXYL4 may also play key roles in C metabolism and the transport of carbohydrate/N assimilates, affecting grain production in response to N availability.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)
 
 ## Literature:
    - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
@@ -32,7 +32,7 @@ tags: [ grain,starch,glycosyltransferase ]
 - **NCBI ID:**  [LOC100125638](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100125638)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

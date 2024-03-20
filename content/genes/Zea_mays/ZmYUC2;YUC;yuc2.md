@@ -22,7 +22,7 @@ tags: [ gravitropic response,root,auxin,resistance,cytoplasm,breeding,auxin resp
    - **ZmYUC2** plays a critical role in regulating the postembryonic root system and thus root lodging resistance in maize.
 
 ## Function-related keywords:
-[gravitropic-response](/tags/gravitropic-response/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+- [gravitropic-response](/tags/gravitropic-response/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
    - [Local auxin biosynthesis regulates brace root angle and lodging resistance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18733](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36636793](https://pubmed.ncbi.nlm.nih.gov/36636793/)
@@ -34,7 +34,7 @@ tags: [ gravitropic response,root,auxin,resistance,cytoplasm,breeding,auxin resp
 - **NCBI ID:** [LOC100281570](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281570)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

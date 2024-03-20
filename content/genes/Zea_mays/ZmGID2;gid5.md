@@ -21,7 +21,7 @@ tags: [ leaf,development,leaf development,architecture,vascular development ]
    - Knockdown of **ZmGID2** also resulted in a large leaf inclination.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)
 
 ## Literature:
    - [SDG128 is involved in maize leaf inclination.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15527)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15527](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15527)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34612535](https://pubmed.ncbi.nlm.nih.gov/34612535/)
@@ -33,7 +33,7 @@ tags: [ leaf,development,leaf development,architecture,vascular development ]
 - **NCBI ID:** [100283034](https://www.ncbi.nlm.nih.gov/gene/?term=100283034)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

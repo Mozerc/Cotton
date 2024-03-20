@@ -19,7 +19,7 @@ tags: [ root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,pr
    - The **Rtcs** gene, which encodes a LATERAL ORGAN BOUNDARIES (LOB) domain protein, is an auxin-responsive gene.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
+- [root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
 
 ## Literature:
    - [Integrating transcriptome, co-expression and QTL-seq analysis reveals that primary root growth in maize is regulated via flavonoid biosynthesis and auxin signal transduction.]( https://academic.oup.com/jxb/article/72/13/4773/6257224?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab177](https://academic.oup.com/jxb/article/72/13/4773/6257224?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33909071](https://pubmed.ncbi.nlm.nih.gov/33909071/)
@@ -32,7 +32,7 @@ tags: [ root,auxin,auxin biosynthesis,crown,crown root,flavonoid,lateral root,pr
 - **NCBI ID:** [LOC100101548](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100101548)
 - **UniProt accessions:** [A5H448](https://www.uniprot.org/uniprotkb/A5H448/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

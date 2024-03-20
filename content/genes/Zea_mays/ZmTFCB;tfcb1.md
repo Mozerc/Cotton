@@ -21,7 +21,7 @@ tags: [ growth,development,cell division,reproductive,homeostasis,embryo,endospe
    -  **ZmTFCB** is required for cell division and cell growth through modulating MT homeostasis, an evolutionarily conserved machinery with some species-specific divergence.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[reproductive-development](/tags/reproductive-development/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[cytosol](/tags/cytosol/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[tubulin](/tags/tubulin/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[reproductive-development](/tags/reproductive-development/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[cytosol](/tags/cytosol/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[tubulin](/tags/tubulin/)
 
 ## Literature:
    - [Maize tubulin folding cofactor B is required for cell division and cell growth through modulating microtubule homeostasis.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18839)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18839](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18839)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36843261](https://pubmed.ncbi.nlm.nih.gov/36843261/)
@@ -33,7 +33,7 @@ tags: [ growth,development,cell division,reproductive,homeostasis,embryo,endospe
 - **NCBI ID:** [100193227](https://www.ncbi.nlm.nih.gov/gene/?term=100193227)
 - **UniProt accessions:** [A0A096S3I6](https://www.uniprot.org/uniprotkb/A0A096S3I6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

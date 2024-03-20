@@ -21,7 +21,7 @@ tags: [  ]
    - Mutations in ZmNAC11 and **ZmNAC29** cause similar kernel defects to zmexpb15.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [A NAC-EXPANSIN module enhances maize kernel size by controlling nucellus elimination.]( https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-33513-4](https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36175574](https://pubmed.ncbi.nlm.nih.gov/36175574/)
@@ -33,7 +33,7 @@ tags: [  ]
 - **NCBI ID:** [LOC100281341](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281341)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

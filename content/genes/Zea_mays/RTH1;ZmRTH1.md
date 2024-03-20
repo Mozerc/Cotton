@@ -20,7 +20,7 @@ tags: [ root,growth,development,plant development,root development,root elongati
    - The preferential accumulation in the **RTH1** mutant proteome of a negative regulator of the cell cycle (a prohibitin) may at least partially explain the delayed development and flowering of the **RTH1** mutant.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)
 
 ## Literature:
    - [The roothairless1 gene of maize encodes a homolog of sec3, which is involved in polar exocytosis.]( https://academic.oup.com/plphys/article/138/3/1637/6103129?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.105.062174](https://academic.oup.com/plphys/article/138/3/1637/6103129?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[15980192](https://pubmed.ncbi.nlm.nih.gov/15980192/)
@@ -32,7 +32,7 @@ tags: [ root,growth,development,plant development,root development,root elongati
 - **NCBI ID:** [100502100](https://www.ncbi.nlm.nih.gov/gene/?term=100502100)
 - **UniProt accessions:** [Q5YLM3](https://www.uniprot.org/uniprotkb/Q5YLM3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

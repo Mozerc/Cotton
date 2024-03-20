@@ -19,7 +19,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeos
    - **ZmHSP90** enhanced the expression levels of NtSOS1, NtHKT1, and NtNHX1 as compared to those in the salt treatment, causing the maintenance of Na+ and K+ homeostasis, suggesting that high expression of **ZmHSP90** was conducive to regulate Na+ transporters to maintain K+/Na+ balanced in tobacco.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)
 
 ## Literature:
    - [Maize ZmHSP90 plays a role in acclimation to salt stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557940/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.15819](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557940/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37810777](https://pubmed.ncbi.nlm.nih.gov/37810777/)
@@ -30,7 +30,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeos
 - **NCBI ID:**  [LOC100279926](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279926)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

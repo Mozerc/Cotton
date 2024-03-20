@@ -19,7 +19,7 @@ tags: [ development,grain,plant development,seed,grain filling,aba,flowering tim
    - **ZmSnRK2.10** was highly expressed during the development of kernel, especially in the 10 DAP (days after pollination) and 24 DAP of kernel development, the stage of which is very important for grain filling and seed maturation.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)
+- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)
 
 ## Literature:
    - [Genome-wide identification of ZmSnRK2 genes and functional analysis of ZmSnRK2.10 in ABA signaling pathway in maize (Zea mays L).]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03064-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-021-03064-9](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03064-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34210268](https://pubmed.ncbi.nlm.nih.gov/34210268/)
@@ -31,7 +31,7 @@ tags: [ development,grain,plant development,seed,grain filling,aba,flowering tim
 - **NCBI ID:**  [LOC100191972](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191972)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

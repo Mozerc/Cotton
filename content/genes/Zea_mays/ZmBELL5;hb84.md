@@ -18,7 +18,7 @@ tags: [  ]
    - **ZmBELL5** was putatived POX domain/homeobox DNA-binding domain family protein
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19192)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19192](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19192)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37583092](https://pubmed.ncbi.nlm.nih.gov/37583092/)
@@ -29,7 +29,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100192481](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192481)
 - **UniProt accessions:** [B4FBI0](https://www.uniprot.org/uniprotkb/B4FBI0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

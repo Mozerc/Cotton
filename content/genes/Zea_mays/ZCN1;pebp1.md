@@ -20,7 +20,7 @@ tags: [ spikelet,meristem,spikelet meristem,inflorescence,spikelet number,flower
    - Tassel and ear traits of **ZCN1** to -6 transgenic maize plants.
 
 ## Function-related keywords:
-[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [spikelet](/tags/spikelet/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Concerted modification of flowering time and inflorescence architecture by ectopic expression of TFL1-like genes in maize.]( https://academic.oup.com/plphys/article/153/1/238/6108346?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.110.154211](https://academic.oup.com/plphys/article/153/1/238/6108346?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20200067](https://pubmed.ncbi.nlm.nih.gov/20200067/)
@@ -33,7 +33,7 @@ tags: [ spikelet,meristem,spikelet meristem,inflorescence,spikelet number,flower
 - **NCBI ID:** [LOC100037785](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037785)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ transcription factor,development,endosperm,endosperm development ]
    - **ZmbZIP22** Is an Endosperm-Specific Transcription Factor.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [The ZmbZIP22 Transcription Factor Regulates 27-kD γ-Zein Gene Transcription during Maize Endosperm Development.]( https://academic.oup.com/plcell/article/30/10/2402/6099373?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00422](https://academic.oup.com/plcell/article/30/10/2402/6099373?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30242039](https://pubmed.ncbi.nlm.nih.gov/30242039/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,development,endosperm,endosperm development ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
    - **ZmLAC9**-overexpressing transgenic maize showed that miR408 is important in controlling secondary cell wall development and salt tolerance in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
+- [development](/tags/development/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
 
 ## Literature:
    - [MicroRNA408 negatively regulates salt tolerance by affecting secondary cell wall development in maize.]( https://academic.oup.com/plphys/article/192/2/1569/7067771?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad135](https://academic.oup.com/plphys/article/192/2/1569/7067771?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36864608](https://pubmed.ncbi.nlm.nih.gov/36864608/)
@@ -33,7 +33,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
 - **NCBI ID:**  [LOC100282094](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282094)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

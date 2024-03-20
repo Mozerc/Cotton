@@ -22,7 +22,7 @@ tags: [ development,kinase,spikelet,plant development,seed,vegetative,floral,mer
    - **Td1** maps in the vicinity of quantitative trait loci that affect seed row number, spikelet density and plant height.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[stamen](/tags/stamen/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[stamen-number](/tags/stamen-number/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[stamen](/tags/stamen/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[stamen-number](/tags/stamen-number/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [thick tassel dwarf1 encodes a putative maize ortholog of the Arabidopsis CLAVATA1 leucine-rich repeat receptor-like kinase.]( https://journals.biologists.com/dev/article/132/6/1235/43322/thick-tassel-dwarf1-encodes-a-putative-maize)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.01671](https://journals.biologists.com/dev/article/132/6/1235/43322/thick-tassel-dwarf1-encodes-a-putative-maize)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[15716347](https://pubmed.ncbi.nlm.nih.gov/15716347/)
@@ -35,7 +35,7 @@ tags: [ development,kinase,spikelet,plant development,seed,vegetative,floral,mer
 - **NCBI ID:** [LOC103626458](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103626458)
 - **UniProt accessions:** [P0DL10](https://www.uniprot.org/uniprotkb/P0DL10/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

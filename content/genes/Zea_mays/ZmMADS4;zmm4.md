@@ -20,7 +20,7 @@ tags: [ leaf,shoot,floral,flowering ]
    - Knocking out **ZmMADS4** and ZmMADS67 both increased leaf number and delayed flowering, indicating that they promote the floral transition.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32579713](https://pubmed.ncbi.nlm.nih.gov/32579713/)
@@ -33,7 +33,7 @@ tags: [ leaf,shoot,floral,flowering ]
 - **NCBI ID:** [542041](https://www.ncbi.nlm.nih.gov/gene/?term=542041)
 - **UniProt accessions:** [Q84V71](https://www.uniprot.org/uniprotkb/Q84V71/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

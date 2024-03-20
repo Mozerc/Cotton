@@ -21,7 +21,7 @@ tags: [ resistance,drought,stress,drought stress,domestication,breeding,drought 
    - Introduction of the **ZmSRO1d**-R allele into modern maize cultivars would contribute to food security under drought stress caused by global climate change.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
    - [Natural variations of ZmSRO1d modulate the trade-off between drought resistance and yield by affecting ZmRBOHC-mediated stomatal ROS production in maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00272-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205222002726%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.08.009](https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00272-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205222002726%3Fshowall%3Dtrue)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36045577](https://pubmed.ncbi.nlm.nih.gov/36045577/)
@@ -33,7 +33,7 @@ tags: [ resistance,drought,stress,drought stress,domestication,breeding,drought 
 - **NCBI ID:** [100279545](https://www.ncbi.nlm.nih.gov/gene/?term=100279545)
 - **UniProt accessions:** [A0A1D6PFL0](https://www.uniprot.org/uniprotkb/A0A1D6PFL0/entry)&nbsp;,&nbsp;[B7ZYN8](https://www.uniprot.org/uniprotkb/B7ZYN8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

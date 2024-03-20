@@ -19,7 +19,7 @@ tags: [ leaf,transcription factor,drought,stress,drought stress,salt,tolerance,d
    - Heterologous overexpression of **ZmbZIP72** improved drought and partial salt tolerance of transgenic Arabidopsis plants, as determined by physiological analyses of leaf water loss, electrolyte leakage, proline content, and survival rate under stress.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)
 
 ## Literature:
    - [Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.]( https://link.springer.com/article/10.1007/s00425-011-1496-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-011-1496-7](https://link.springer.com/article/10.1007/s00425-011-1496-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21866346](https://pubmed.ncbi.nlm.nih.gov/21866346/)
@@ -30,7 +30,7 @@ tags: [ leaf,transcription factor,drought,stress,drought stress,salt,tolerance,d
 - **NCBI ID:**  [HQ328839](https://www.ncbi.nlm.nih.gov/gene/?term=HQ328839)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ seedlings ]
    - **ZmCER8** mutant seedlings displayed a typical glossy phenotype.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)
+- [seedlings](/tags/seedlings/)
 
 ## Literature:
    - [Co-expression analysis aids in the identification of genes in the cuticular wax pathway in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14140)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14140](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14140)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30375131](https://pubmed.ncbi.nlm.nih.gov/30375131/)
@@ -32,7 +32,7 @@ tags: [ seedlings ]
 - **NCBI ID:** [100279270](https://www.ncbi.nlm.nih.gov/gene/?term=100279270)
 - **UniProt accessions:** [B7ZX64](https://www.uniprot.org/uniprotkb/B7ZX64/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

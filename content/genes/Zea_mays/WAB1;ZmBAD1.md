@@ -22,7 +22,7 @@ tags: [ leaf,inflorescence,architecture,inflorescence architecture,leaf shape,le
    - **WAB1** recessive mutants showed extremely acute tassel branch angles accompanied by a significant reduction in the size of the pulvinus compared with normal plants.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
    - [Gene regulatory interactions at lateral organ boundaries in maize.]( https://journals.biologists.com/dev/article/141/23/4590/46517/Gene-regulatory-interactions-at-lateral-organ)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.111955](https://journals.biologists.com/dev/article/141/23/4590/46517/Gene-regulatory-interactions-at-lateral-organ)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25359728](https://pubmed.ncbi.nlm.nih.gov/25359728/)
@@ -35,7 +35,7 @@ tags: [ leaf,inflorescence,architecture,inflorescence architecture,leaf shape,le
 - **NCBI ID:** [LOC100191175](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191175)
 - **UniProt accessions:** [B4F7W2](https://www.uniprot.org/uniprotkb/B4F7W2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ root,root endodermis ]
    - **ZmSCR** mRNA expresses in endodermis and quiescent center of root, influencing radial pattern.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[root-endodermis](/tags/root-endodermis/)
+- [root](/tags/root/)&nbsp;,&nbsp;[root-endodermis](/tags/root-endodermis/)
 
 ## Literature:
    - [Molecular analysis of the SCARECROW gene in maize reveals a common basis for radial patterning in diverse meristems.]( https://academic.oup.com/plcell/article/12/8/1307/6008891?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.12.8.1307](https://academic.oup.com/plcell/article/12/8/1307/6008891?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10948251](https://pubmed.ncbi.nlm.nih.gov/10948251/)
@@ -34,7 +34,7 @@ tags: [ root,root endodermis ]
 - **NCBI ID:** [100382261](https://www.ncbi.nlm.nih.gov/gene/?term=100382261)
 - **UniProt accessions:** [Q9FUZ7](https://www.uniprot.org/uniprotkb/Q9FUZ7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

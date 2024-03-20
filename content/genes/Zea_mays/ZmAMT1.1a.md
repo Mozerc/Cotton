@@ -22,7 +22,7 @@ tags: [ root,epidermis ]
    - In mycorrhizal roots, ZmAMT3;1 transcripts and proteins are upregulated, thus inducing the Myc-N pathway, while the protein abundance and activity of the epidermis-expressed **ZmAMT1.1a**/ZmAMT1;3 responsible for Root-N pathway are suppressed. Under greenhouse and field conditions, the ZmAMT3;1-mediated Myc-N pathway contributes significantly to plant overall N acquisition.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[epidermis](/tags/epidermis/)
+- [root](/tags/root/)&nbsp;,&nbsp;[epidermis](/tags/epidermis/)
 
 ## Literature:
    - [The mycorrhiza-specific ammonium transporter ZmAMT3;1 mediates mycorrhiza-dependent nitrogen uptake in maize roots.]( https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac225](https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35880836](https://pubmed.ncbi.nlm.nih.gov/35880836/)
@@ -37,7 +37,7 @@ tags: [ root,epidermis ]
 - **NCBI ID:** [100272903](https://www.ncbi.nlm.nih.gov/gene/?term=100272903)
 - **UniProt accessions:** [B4FRK2 ](https://www.uniprot.org/uniprotkb/B4FRK2 /entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

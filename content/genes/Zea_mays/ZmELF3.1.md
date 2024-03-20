@@ -22,7 +22,7 @@ tags: [ branching,flowering time,flowering ]
    - **ZmELF3.1** targeted region of interest associated with flowering time.
 
 ## Function-related keywords:
-[branching](/tags/branching/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [branching](/tags/branching/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [ZmELF3.1 integrates the RA2-TSH4 module to repress maize tassel branching.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19329)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19329](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19329)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37858961](https://pubmed.ncbi.nlm.nih.gov/37858961/)
@@ -35,7 +35,7 @@ tags: [ branching,flowering time,flowering ]
 - **NCBI ID:** [LOC100383534](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383534)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

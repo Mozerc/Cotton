@@ -19,7 +19,7 @@ tags: [ growth,cuticle,fatty acid biosynthesis ]
    - The inferred role of **ZmGL2** is to control the chain lengths of unsaturated hydrocarbons.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[fatty-acid-biosynthesis](/tags/fatty-acid-biosynthesis/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[fatty-acid-biosynthesis](/tags/fatty-acid-biosynthesis/)
 
 ## Literature:
    - [Roles of the MYB94/FUSED LEAVES1 (ZmFDL1) and GLOSSY2 (ZmGL2) genes in cuticle biosynthesis and potential impacts on Fusarium verticillioides growth on maize silks.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10399752/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1228394](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10399752/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37546274](https://pubmed.ncbi.nlm.nih.gov/37546274/)
@@ -30,7 +30,7 @@ tags: [ growth,cuticle,fatty acid biosynthesis ]
 - **NCBI ID:**  [LOC103645956](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103645956)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

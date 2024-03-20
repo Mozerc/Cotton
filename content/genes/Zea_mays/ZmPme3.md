@@ -22,7 +22,7 @@ tags: [  ]
    - **ZmPme3** is a candidate gene for ga1.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [A Pectin Methylesterase ZmPme3 Is Expressed in Gametophyte factor1-s (Ga1-s) Silks and Maps to that Locus in Maize (Zea mays L.).]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01926](https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29170674](https://pubmed.ncbi.nlm.nih.gov/29170674/)
@@ -33,7 +33,7 @@ tags: [  ]
 - **NCBI ID:** [103655090](https://www.ncbi.nlm.nih.gov/gene/?term=103655090)
 - **UniProt accessions:** [A0A1D6PR69](https://www.uniprot.org/uniprotkb/A0A1D6PR69/entry)&nbsp;,&nbsp;[A0A3L6F0W6](https://www.uniprot.org/uniprotkb/A0A3L6F0W6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

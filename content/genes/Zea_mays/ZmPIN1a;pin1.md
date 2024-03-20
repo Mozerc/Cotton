@@ -21,7 +21,7 @@ tags: [ root,auxin,architecture,auxin transport,height,plant height,nitrate,plan
    - **ZmPIN1a** and ZmPIN1b modified maize root architecture and plant height.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)
+- [root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)
 
 ## Literature:
    - [Auxin efflux carrier ZmPIN1a modulates auxin reallocation involved in nitrate-mediated root formation.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-023-04087-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-023-04087-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-023-04087-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36737696](https://pubmed.ncbi.nlm.nih.gov/36737696/)
@@ -34,7 +34,7 @@ tags: [ root,auxin,architecture,auxin transport,height,plant height,nitrate,plan
 - **NCBI ID:** [103637824](https://www.ncbi.nlm.nih.gov/gene/?term=103637824)
 - **UniProt accessions:** [Q0MWY2](https://www.uniprot.org/uniprotkb/Q0MWY2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

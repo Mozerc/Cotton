@@ -19,7 +19,7 @@ tags: [ ja,immunity,ja signaling ]
    - Suggesting that the interaction between **ZmCOI1a** and ZmJAZs is likely ligand concentration-dependent.
 
 ## Function-related keywords:
-[ja](/tags/ja/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
+- [ja](/tags/ja/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
    - [Genome-Wide Characterization of Jasmonates Signaling Components Reveals the Essential Role of ZmCOI1a-ZmJAZ15 Action Module in Regulating Maize Immunity to Gibberella Stalk Rot.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms22020870](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33467172](https://pubmed.ncbi.nlm.nih.gov/33467172/)
@@ -31,7 +31,7 @@ tags: [ ja,immunity,ja signaling ]
 - **NCBI ID:**  [LOC100281510](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281510)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

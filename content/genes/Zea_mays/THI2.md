@@ -22,7 +22,7 @@ tags: [ leaf,development,leaf development,shoot,meristem,inflorescence,shoot api
    - **THI2** in flowers and leaves but not in roots.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
 
 ## Literature:
    - [The Thiamine Biosynthesis Gene THI1 Promotes Nodule Growth and Seed Maturation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.01254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27702844](https://pubmed.ncbi.nlm.nih.gov/27702844/)
@@ -34,7 +34,7 @@ tags: [ leaf,development,leaf development,shoot,meristem,inflorescence,shoot api
 - **NCBI ID:** [542715](https://www.ncbi.nlm.nih.gov/gene/?term=542715)
 - **UniProt accessions:** [Q41739](https://www.uniprot.org/uniprotkb/Q41739/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

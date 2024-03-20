@@ -19,7 +19,7 @@ tags: [ stem,root,kinase,drought,stress,drought stress,salt,tolerance,drought to
    - **ZmCDPK38** gene was expressed in a tissue-specific manner, which showed high expression level in maize leaves and less mRNA accumulation in stem, root, ear and tassel.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Expression Characteristics and Bioinformatics Analysis of ZmCDPK38Gene in Maize]( http://www.xjnykx.com/CN/10.6048/j.issn.1001-4330.2021.01.006)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.6048/j.issn.1001-4330.2021.01.006](http://www.xjnykx.com/CN/10.6048/j.issn.1001-4330.2021.01.006)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -30,7 +30,7 @@ tags: [ stem,root,kinase,drought,stress,drought stress,salt,tolerance,drought to
 - **NCBI ID:**  [LOC100284681](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284681)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

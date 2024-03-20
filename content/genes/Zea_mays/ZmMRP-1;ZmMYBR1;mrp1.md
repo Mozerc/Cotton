@@ -20,7 +20,7 @@ tags: [ endosperm,transcriptional activator ]
    - **ZmMRP-1** transforms aleurone cells into endosperm transfer cells and required to maintain transfer cell phenotype.
 
 ## Function-related keywords:
-[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
+- [endosperm](/tags/endosperm/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
 
 ## Literature:
    - [The promoter of ZmMRP-1, a maize transfer cell-specific transcriptional activator, is induced at solute exchange surfaces and responds to transport demands.]( https://link.springer.com/article/10.1007/s00425-008-0823-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-008-0823-0](https://link.springer.com/article/10.1007/s00425-008-0823-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18830706](https://pubmed.ncbi.nlm.nih.gov/18830706/)
@@ -31,7 +31,7 @@ tags: [ endosperm,transcriptional activator ]
 - **NCBI ID:**  [LOC103635903](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635903)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resi
    - **ZmFBL41** mutants have greater resistance to Rhizoctonia solani; rice overexpressing **ZmFBL41** showed elevated susceptibility to R. solani.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[r-protein](/tags/r-protein/)&nbsp;,&nbsp;[sheath-blight](/tags/sheath-blight/)&nbsp;,&nbsp;[sheath-blight-resistance](/tags/sheath-blight-resistance/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[r-protein](/tags/r-protein/)&nbsp;,&nbsp;[sheath-blight](/tags/sheath-blight/)&nbsp;,&nbsp;[sheath-blight-resistance](/tags/sheath-blight-resistance/)
 
 ## Literature:
    - [Natural variation in ZmFBL41 confers banded leaf and sheath blight resistance in maize.]( https://www.nature.com/articles/s41588-019-0503-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0503-y](https://www.nature.com/articles/s41588-019-0503-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31570888](https://pubmed.ncbi.nlm.nih.gov/31570888/)
@@ -33,7 +33,7 @@ tags: [ leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resi
 - **NCBI ID:** [LOC100285680](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285680)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

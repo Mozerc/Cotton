@@ -21,7 +21,7 @@ tags: [ br,cell elongation,resistant ]
    - Our previous study also indicated that overexpression of **ZmBZR1** in transgenic Arabidopsis plants leads to a significant increase in plant size.
 
 ## Function-related keywords:
-[br](/tags/br/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+- [br](/tags/br/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
    - [A spatiotemporal transcriptomic network dynamically modulates stalk development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13909](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070002](https://pubmed.ncbi.nlm.nih.gov/36070002/)
@@ -35,7 +35,7 @@ tags: [ br,cell elongation,resistant ]
 - **NCBI ID:** [100216929](https://www.ncbi.nlm.nih.gov/gene/?term=100216929)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

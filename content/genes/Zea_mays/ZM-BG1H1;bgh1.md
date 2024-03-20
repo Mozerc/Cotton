@@ -20,7 +20,7 @@ tags: [ grain,grain number,grain yield,yield,plasma membrane,grain protein ]
    - We report that overexpression of the **ZM-BG1H1** homolog does increase maize grain yield across a range of field environments, demonstrating that BG1 homologs may improve yield across multiple crops.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [Maize BIG GRAIN1 homolog overexpression increases maize grain yield.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13392)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13392](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13392)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32356392](https://pubmed.ncbi.nlm.nih.gov/32356392/)
@@ -32,7 +32,7 @@ tags: [ grain,grain number,grain yield,yield,plasma membrane,grain protein ]
 - **NCBI ID:** [100277616](https://www.ncbi.nlm.nih.gov/gene/?term=100277616)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

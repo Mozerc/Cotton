@@ -20,7 +20,7 @@ tags: [ nitrogen,biomass ]
    - **ZmSBT3** functions as a negative regulator of mucilage secretion in maize roots.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[biomass](/tags/biomass/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[biomass](/tags/biomass/)
 
 ## Literature:
    - [Enhancing maize&#x27;s nitrogen-fixing potential through ZmSBT3, a gene suppressing mucilage secretion.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13581)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13581](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13581)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37929676](https://pubmed.ncbi.nlm.nih.gov/37929676/)
@@ -32,7 +32,7 @@ tags: [ nitrogen,biomass ]
 - **NCBI ID:** [LOC100304436](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100304436)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

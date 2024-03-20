@@ -17,7 +17,7 @@ tags: [ development ]
    - **ZmTLP4** was more highly expressed than other genes in most organs, particularly germinating seeds, which suggests that this gene plays an important role in maize development.
 
 ## Function-related keywords:
-[development](/tags/development/)
+- [development](/tags/development/)
 
 ## Literature:
    - [Genome-wide identification and comprehensive analysis of tubby-like protein gene family in multiple crops.]( https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1093944](https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36589128](https://pubmed.ncbi.nlm.nih.gov/36589128/)
@@ -28,7 +28,7 @@ tags: [ development ]
 - **NCBI ID:**  [LOC100193706](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193706)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

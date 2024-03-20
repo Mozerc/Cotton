@@ -20,7 +20,7 @@ tags: [ leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,nod
    - **ZmAPRG** mutant confers a P-efficient ability to plant. Overexpression of the gene significantly increased acid phosphatase activity and Pi concentration in maize leaves.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[node](/tags/node/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[node](/tags/node/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
    - [ZmAPRG, an uncharacterized gene, enhances acid phosphatase activity and Pi concentration in maize leaf during phosphate starvation.]( https://link.springer.com/article/10.1007/s00122-018-3257-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-018-3257-5](https://link.springer.com/article/10.1007/s00122-018-3257-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30523354](https://pubmed.ncbi.nlm.nih.gov/30523354/)
@@ -31,7 +31,7 @@ tags: [ leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,nod
 - **NCBI ID:**  [LOC100273268](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273268)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

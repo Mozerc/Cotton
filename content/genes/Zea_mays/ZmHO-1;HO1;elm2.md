@@ -22,7 +22,7 @@ tags: [ root,development,root development,zinc,cell cycle,lateral root ]
    - **ZmHO-1**, a maize haem oxygenase-1 gene, plays a role in determining lateral root development.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)
+- [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)
 
 ## Literature:
    - [ZmHO-1, a maize haem oxygenase-1 gene, plays a role in determining lateral root development.]( https://www.sciencedirect.com/science/article/pii/S0168945211003645?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2011.12.012](https://www.sciencedirect.com/science/article/pii/S0168945211003645?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22284711](https://pubmed.ncbi.nlm.nih.gov/22284711/)
@@ -34,7 +34,7 @@ tags: [ root,development,root development,zinc,cell cycle,lateral root ]
 - **NCBI ID:** [LOC100193737](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193737)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

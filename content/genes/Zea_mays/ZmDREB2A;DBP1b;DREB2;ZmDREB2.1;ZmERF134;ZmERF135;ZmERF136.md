@@ -18,7 +18,7 @@ tags: [ drought,drought response ]
    - ZmbHLH124T-ORG could directly bind the cis-acting elements in **ZmDREB2A** promoter to enhance its expression.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Tasselseed5 encodes a cytochrome C oxidase that functions in sex determination by affecting jasmonate catabolism in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12826](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31087765](https://pubmed.ncbi.nlm.nih.gov/31087765/)
@@ -31,7 +31,7 @@ tags: [ drought,drought response ]
 - **NCBI ID:**  [LOC732788](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732788)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

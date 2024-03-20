@@ -22,7 +22,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,ubiquitin,water loss,ubi
    - The ZmMKK9–**ZmMPK20**–ZmRIN2 cascade negatively regulates high-temperature–induced stomatal opening and balances water loss and leaf temperature, thus enhancing plant thermotolerance.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [Maize MITOGEN-ACTIVATED PROTEIN KINASE 20 mediates high-temperature-regulated stomatal movement.]( https://academic.oup.com/plphys/article/193/4/2788/7277218?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad488](https://academic.oup.com/plphys/article/193/4/2788/7277218?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37725401](https://pubmed.ncbi.nlm.nih.gov/37725401/)
@@ -35,7 +35,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,ubiquitin,water loss,ubi
 - **NCBI ID:**  [LOC100191429](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191429)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

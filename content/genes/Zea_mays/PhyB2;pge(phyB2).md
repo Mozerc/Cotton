@@ -21,7 +21,7 @@ tags: [ chloroplast,development,plant development,seedling,floral,chloroplast de
    - PHYB1 and **PhyB2** regulate several aspects of seedling development, including mesocotyl elongation and chloroplast gene expression.
 
 ## Function-related keywords:
-[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)
+- [chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)
 
 ## Literature:
    - [Subfunctionalization of PhyB1 and PhyB2 in the control of seedling and mature plant traits in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2006.02962.x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1365-313X.2006.02962.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2006.02962.x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17181778](https://pubmed.ncbi.nlm.nih.gov/17181778/)
@@ -33,7 +33,7 @@ tags: [ chloroplast,development,plant development,seedling,floral,chloroplast de
 - **NCBI ID:** [LOC100381811](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100381811)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

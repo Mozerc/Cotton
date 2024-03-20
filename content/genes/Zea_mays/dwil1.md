@@ -19,7 +19,7 @@ tags: [ leaf,transcription factor,leaf shape,dwarf,cell elongation,internode elo
    - **Dwil1** regulate the processes of blade width.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
    - [Developmental genetics of maize vegetative shoot architecture.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236122/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-021-01208-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236122/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37309417](https://pubmed.ncbi.nlm.nih.gov/37309417/)
@@ -31,7 +31,7 @@ tags: [ leaf,transcription factor,leaf shape,dwarf,cell elongation,internode elo
 - **NCBI ID:** [LOC100279334](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279334)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ leaf,development,leaf development,resistance,disease,disease resistance,
    - **ZmREM6.3** appears to have a specific effect on NLB disease development.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[blight-disease](/tags/blight-disease/)&nbsp;,&nbsp;[disease-development](/tags/disease-development/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[blight-disease](/tags/blight-disease/)&nbsp;,&nbsp;[disease-development](/tags/disease-development/)
 
 ## Literature:
    - [A remorin gene is implicated in quantitative disease resistance in maize.]( https://link.springer.com/article/10.1007/s00122-015-2650-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-015-2650-6](https://link.springer.com/article/10.1007/s00122-015-2650-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26849237](https://pubmed.ncbi.nlm.nih.gov/26849237/)
@@ -32,7 +32,7 @@ tags: [ leaf,development,leaf development,resistance,disease,disease resistance,
 - **NCBI ID:** [100277367](https://www.ncbi.nlm.nih.gov/gene/?term=100277367)
 - **UniProt accessions:** [B6TTH2](https://www.uniprot.org/uniprotkb/B6TTH2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

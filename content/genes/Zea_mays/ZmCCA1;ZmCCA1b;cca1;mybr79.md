@@ -22,7 +22,7 @@ tags: [ flowering ]
    - **ZmCCA1** may be a core component of the circadian clock in maize.
 
 ## Function-related keywords:
-[flowering](/tags/flowering/)
+- [flowering](/tags/flowering/)
 
 ## Literature:
    - [A gene regulatory network model for floral transition of the shoot apex in maize and its dynamic modeling.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043450)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0043450](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043450)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22912876](https://pubmed.ncbi.nlm.nih.gov/22912876/)
@@ -34,7 +34,7 @@ tags: [ flowering ]
 - **NCBI ID:** [LOC100281091](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281091)
 - **UniProt accessions:** [A0A1D6PVY0](https://www.uniprot.org/uniprotkb/A0A1D6PVY0/entry)&nbsp;,&nbsp;[A0A1D6PVZ0 ](https://www.uniprot.org/uniprotkb/A0A1D6PVZ0 /entry)&nbsp;,&nbsp;[A0A1D6PVY2](https://www.uniprot.org/uniprotkb/A0A1D6PVY2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

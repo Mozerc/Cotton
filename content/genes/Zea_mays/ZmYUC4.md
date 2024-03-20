@@ -19,7 +19,7 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
    - ZmYUC2 and **ZmYUC4** are preferentially expressed in the root tips.
 
 ## Function-related keywords:
-[gravitropic-response](/tags/gravitropic-response/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)
+- [gravitropic-response](/tags/gravitropic-response/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)
 
 ## Literature:
    - [Local auxin biosynthesis regulates brace root angle and lodging resistance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18733](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36636793](https://pubmed.ncbi.nlm.nih.gov/36636793/)
@@ -31,7 +31,7 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

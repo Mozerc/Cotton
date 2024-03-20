@@ -20,7 +20,7 @@ tags: [ kinase,defense response,defense,immune response,receptor kinase ]
    - Present evidence that **ChSK1** may be associated with suppression of the basal immune response.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[immune-response](/tags/immune-response/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[immune-response](/tags/immune-response/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)
 
 ## Literature:
    - [A leucine-rich repeat receptor kinase gene confers quantitative susceptibility to maize southern leaf blight.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18781)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18781](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18781)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36721267](https://pubmed.ncbi.nlm.nih.gov/36721267/)
@@ -32,7 +32,7 @@ tags: [ kinase,defense response,defense,immune response,receptor kinase ]
 - **NCBI ID:** [103649762](https://www.ncbi.nlm.nih.gov/gene/?term=103649762)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

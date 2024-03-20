@@ -20,7 +20,7 @@ tags: [ leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion 
    - Perturbation of the biosynthesis of JA, SA, and their derivatives is probably responsible for the MDR conferred by the **LLS1**/les30 mutation.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[chlorophyll](/tags/chlorophyll/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[lesion](/tags/lesion/)&nbsp;,&nbsp;[lesion-mimic](/tags/lesion-mimic/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[chlorophyll](/tags/chlorophyll/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[lesion](/tags/lesion/)&nbsp;,&nbsp;[lesion-mimic](/tags/lesion-mimic/)
 
 ## Literature:
    - [Underlying mechanism of accelerated cell death and multiple disease resistance in a maize lethal leaf spot 1 allele.]( https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac116](https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35303096](https://pubmed.ncbi.nlm.nih.gov/35303096/)
@@ -32,7 +32,7 @@ tags: [ leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion 
 - **NCBI ID:** [LOC103631716](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103631716)
 - **UniProt accessions:** [A0A1D6JNJ8](https://www.uniprot.org/uniprotkb/A0A1D6JNJ8/entry)&nbsp;,&nbsp;[A0A1D6JNJ9](https://www.uniprot.org/uniprotkb/A0A1D6JNJ9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

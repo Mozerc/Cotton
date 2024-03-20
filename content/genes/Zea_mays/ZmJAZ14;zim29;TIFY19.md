@@ -21,7 +21,7 @@ tags: [  ]
    - **ZmJAZ14** might be important for keeping MTP from over-production.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [ZmEREB92 interacts with ZmMYC2 to activate maize terpenoid phytoalexin biosynthesis upon Fusarium graminearum infection through jasmonic acid/ethylene signaling.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18590)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18590](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18590)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36319608](https://pubmed.ncbi.nlm.nih.gov/36319608/)
@@ -32,7 +32,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC103626248](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103626248)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

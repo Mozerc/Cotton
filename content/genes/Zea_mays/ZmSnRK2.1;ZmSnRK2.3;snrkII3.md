@@ -19,7 +19,7 @@ tags: [ drought,stress,drought stress,salt,cold stress,abiotic stress,salt stres
    - 11 ZmSnRK genes showed almost no expression changes under all analyzed stresses, such as ZmSnRK1.4, **ZmSnRK2.3**, and ZmSnRK3.13.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)
 
 ## Literature:
    - [Genome-wide identification of sucrose non-fermenting-1-related protein kinase genes in maize and their responses to abiotic stresses.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9815513/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1087839](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9815513/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36618673](https://pubmed.ncbi.nlm.nih.gov/36618673/)
@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,salt,cold stress,abiotic stress,salt stres
 - **NCBI ID:**  [LOC100216611](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100216611)
 - **UniProt accessions:** [B4FIV4](https://www.uniprot.org/uniprotkb/B4FIV4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

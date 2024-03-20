@@ -21,7 +21,7 @@ tags: [ seedlings,stem,root,auxin,resistance,homeostasis,transporter,dwarf,auxin
    - **ZmABCB15** might participate in the RBSDV resistance by affecting the homeostasis of active and inactive auxins in RBSDV infected seedlings.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
    - [Functional analysis revealed the involvement of ZmABCB15 in resistance to rice black-streaked dwarf virus infection.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03861-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-022-03861-w](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03861-w)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36217105](https://pubmed.ncbi.nlm.nih.gov/36217105/)
@@ -33,7 +33,7 @@ tags: [ seedlings,stem,root,auxin,resistance,homeostasis,transporter,dwarf,auxin
 - **NCBI ID:**  [103655210](https://www.ncbi.nlm.nih.gov/gene/?term=103655210)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

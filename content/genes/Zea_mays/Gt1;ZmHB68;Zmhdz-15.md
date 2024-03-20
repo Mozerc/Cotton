@@ -19,7 +19,7 @@ tags: [ growth,tiller,domestication,branching,tiller number,flowering ]
    - We found that HD-ZIP transcription factors **Gt1** and VRL1 regulate growth suppression in branching and flowering structures in maize and brachypodium. Our findings confirm that these two gene lineages share a conserved role in growth suppression and demonstrate how evolution and domestication can be used to predict strong gene editing targets for crop improvement.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
@@ -32,7 +32,7 @@ tags: [ growth,tiller,domestication,branching,tiller number,flowering ]
 - **NCBI ID:** [LOC100274482](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100274482)
 - **UniProt accessions:** [B4G1C5](https://www.uniprot.org/uniprotkb/B4G1C5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

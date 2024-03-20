@@ -20,7 +20,7 @@ tags: [ flowering ]
    - We determined that both ZmELF3.1 and **ZmELF3.2** can rescue the Arabidopsis elf3-7 mutant phenotype, including long-hypocotyl and early flowering under LD conditions.
 
 ## Function-related keywords:
-[flowering](/tags/flowering/)
+- [flowering](/tags/flowering/)
 
 ## Literature:
    - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://academic.oup.com/plcell/article/35/1/369/6730753?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://academic.oup.com/plcell/article/35/1/369/6730753?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
@@ -32,7 +32,7 @@ tags: [ flowering ]
 - **NCBI ID:** [103630791](https://www.ncbi.nlm.nih.gov/gene/?term=103630791)
 - **UniProt accessions:** [A0A1D6MDX8](https://www.uniprot.org/uniprotkb/A0A1D6MDX8/entry)&nbsp;,&nbsp;[A0A1D6MDX9](https://www.uniprot.org/uniprotkb/A0A1D6MDX9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

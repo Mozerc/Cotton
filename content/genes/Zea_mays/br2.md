@@ -22,7 +22,7 @@ tags: [ auxin,map-based cloning,meristem,auxin transport,intercalary meristem,in
    - **Br2**/PGP1 transports auxin from node to internode through the vascular bundles.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[intercalary-meristem](/tags/intercalary-meristem/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[node](/tags/node/)
+- [auxin](/tags/auxin/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[intercalary-meristem](/tags/intercalary-meristem/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[node](/tags/node/)
 
 ## Literature:
    - [Maize brachytic2 (br2) suppresses the elongation of lower internodes for excessive auxin accumulation in the intercalary meristem region.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-2200-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-2200-5](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-2200-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31881837](https://pubmed.ncbi.nlm.nih.gov/31881837/)
@@ -35,7 +35,7 @@ tags: [ auxin,map-based cloning,meristem,auxin transport,intercalary meristem,in
 - **NCBI ID:** [LOC100384057](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100384057)
 - **UniProt accessions:** [A0A1D6KLY8](https://www.uniprot.org/uniprotkb/A0A1D6KLY8/entry)&nbsp;,&nbsp;[A0A1D6KLY9](https://www.uniprot.org/uniprotkb/A0A1D6KLY9/entry)&nbsp;,&nbsp;[A0A2P1BTK0](https://www.uniprot.org/uniprotkb/A0A2P1BTK0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

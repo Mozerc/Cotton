@@ -18,7 +18,7 @@ tags: [ ga ]
    - The kaurene oxidase **ZmKO1** (ZmCYP701A26) is a P450 displaying substrate promiscuity prototypical for the GA pathway enzyme27.
 
 ## Function-related keywords:
-[ga](/tags/ga/)
+- [ga](/tags/ga/)
 
 ## Literature:
    - [Multiple genes recruited from hormone pathways partition maize diterpenoid defences.]( https://www.nature.com/articles/s41477-019-0509-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0509-6](https://www.nature.com/articles/s41477-019-0509-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31527844](https://pubmed.ncbi.nlm.nih.gov/31527844/)
@@ -29,7 +29,7 @@ tags: [ ga ]
 - **NCBI ID:** [100274015](https://www.ncbi.nlm.nih.gov/gene/?term=100274015)
 - **UniProt accessions:** [B4FYL7](https://www.uniprot.org/uniprotkb/B4FYL7/entry)&nbsp;,&nbsp;[A0A1D6P256](https://www.uniprot.org/uniprotkb/A0A1D6P256/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

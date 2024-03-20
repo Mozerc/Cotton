@@ -18,7 +18,7 @@ tags: [ resistance,disease,disease resistance,pi ]
    - Zm00001d031875(**pht7**) candidate gene for white spot disease resistance.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[pi](/tags/pi/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[pi](/tags/pi/)
 
 ## Literature:
    - [Expression analysis of phosphate induced genes in contrasting maize genotypes for phosphorus use efficiency.]( https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1590/1519-6984.261797](https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36350935](https://pubmed.ncbi.nlm.nih.gov/36350935/)
@@ -30,7 +30,7 @@ tags: [ resistance,disease,disease resistance,pi ]
 - **NCBI ID:**  [732717](https://www.ncbi.nlm.nih.gov/gene/?term=732717)
 - **UniProt accessions:** [A0A1D6KLZ4](https://www.uniprot.org/uniprotkb/A0A1D6KLZ4/entry)&nbsp;,&nbsp;[A0A317YEI4](https://www.uniprot.org/uniprotkb/A0A317YEI4/entry)&nbsp;,&nbsp;[Q49B44](https://www.uniprot.org/uniprotkb/Q49B44/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

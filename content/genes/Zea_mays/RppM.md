@@ -19,7 +19,7 @@ tags: [ resistance,breeding ]
    - **RppM**, a Southern Corn Rust Resistance Gene in Maize.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
    - [Identification and Fine Mapping of RppM, a Southern Corn Rust Resistance Gene in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2020.01057/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.01057](https://www.frontiersin.org/articles/10.3389/fpls.2020.01057/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32733529](https://pubmed.ncbi.nlm.nih.gov/32733529/)
@@ -31,7 +31,7 @@ tags: [ resistance,breeding ]
 - **NCBI ID:** [LOC103640673](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103640673)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

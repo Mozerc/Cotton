@@ -20,7 +20,7 @@ tags: [ leaf,stem,leaf angle ]
    - In the liguleless1 mutant, ligule and auricle are missing, leaves are upright.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Characterization of regulatory modules controlling leaf angle in maize.]( https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac308](https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35758633](https://pubmed.ncbi.nlm.nih.gov/35758633/)
@@ -35,7 +35,7 @@ tags: [ leaf,stem,leaf angle ]
 - **NCBI ID:** [LOC542528](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542528)
 - **UniProt accessions:** [O04003](https://www.uniprot.org/uniprotkb/O04003/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

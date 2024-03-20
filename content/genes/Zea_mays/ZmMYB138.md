@@ -19,7 +19,7 @@ tags: [ starch,endosperm,starch biosynthesis ]
    - **ZmMYB138** may be positively correlated to the starch and amylopectin contents in maize endosperm.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
+- [starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
 
 ## Literature:
    - [Coordinated regulation of starch synthesis in maize endosperm by microRNAs and DNA methylation.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15043)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15043](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15043)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098697](https://pubmed.ncbi.nlm.nih.gov/33098697/)
@@ -33,7 +33,7 @@ tags: [ starch,endosperm,starch biosynthesis ]
 - **NCBI ID:** [100191731](https://www.ncbi.nlm.nih.gov/gene/?term=100191731)
 - **UniProt accessions:** [B4F9Y7](https://www.uniprot.org/uniprotkb/B4F9Y7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

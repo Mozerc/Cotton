@@ -20,7 +20,7 @@ tags: [ resistance,disease,disease resistance,immunity,cell death,breeding,broad
    - In summary, the teosinte allele of **ZmMM1** is a good resource for improving maize resistance against NLB, GLS, and SCR.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[broad-spectrum-disease-resistance](/tags/broad-spectrum-disease-resistance/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[broad-spectrum-disease-resistance](/tags/broad-spectrum-disease-resistance/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
 
 ## Literature:
    - [A teosinte-derived allele of a MYB transcription repressor confers multiple disease resistance in maize.]( https://www.sciencedirect.com/science/article/pii/S1674205221002744?via%3Dihub#bib3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2021.07.008](https://www.sciencedirect.com/science/article/pii/S1674205221002744?via%3Dihub#bib3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34271176](https://pubmed.ncbi.nlm.nih.gov/34271176/)
@@ -32,7 +32,7 @@ tags: [ resistance,disease,disease resistance,immunity,cell death,breeding,broad
 - **NCBI ID:** [LOC100282329](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282329)
 - **UniProt accessions:** [A0A1D6HRM9](https://www.uniprot.org/uniprotkb/A0A1D6HRM9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

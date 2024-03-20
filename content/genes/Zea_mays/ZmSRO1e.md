@@ -20,7 +20,7 @@ tags: [ stress,tolerance,abiotic stress,stress tolerance,stress response,abiotic
    - Maize SRO1e represses anthocyanin synthesis through regulating the MBW complex in response to abiotic stress.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
    - [Maize SRO1e represses anthocyanin synthesis through regulating the MBW complex in response to abiotic stress.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15083)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15083](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15083)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33217069](https://pubmed.ncbi.nlm.nih.gov/33217069/)
@@ -34,7 +34,7 @@ tags: [ stress,tolerance,abiotic stress,stress tolerance,stress response,abiotic
 - **NCBI ID:** [LOC103633148](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103633148)
 - **UniProt accessions:** [A0A1D6JUA6](https://www.uniprot.org/uniprotkb/A0A1D6JUA6/entry)&nbsp;,&nbsp;[A0A317YCQ2](https://www.uniprot.org/uniprotkb/A0A317YCQ2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

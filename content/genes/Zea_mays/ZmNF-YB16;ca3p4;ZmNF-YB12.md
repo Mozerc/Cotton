@@ -22,7 +22,7 @@ tags: [ growth,drought,stress,drought stress,photosynthesis,tolerance,nucleus,yi
    - Comparison of **ZmNF-YB16**- and ZmNF-YA1-regulated genes showed that ZmNF-YA1 and **ZmNF-YB16** have similar biological functions in stress responses but varied functions in other biological processes.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
 
 ## Literature:
    - [Transcription factors ZmNF-YA1 and ZmNF-YB16 regulate plant growth and drought tolerance in maize.]( https://academic.oup.com/plphys/article/190/2/1506/6647864?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac340](https://academic.oup.com/plphys/article/190/2/1506/6647864?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35861438](https://pubmed.ncbi.nlm.nih.gov/35861438/)
@@ -35,7 +35,7 @@ tags: [ growth,drought,stress,drought stress,photosynthesis,tolerance,nucleus,yi
 - **NCBI ID:** [100281337](https://www.ncbi.nlm.nih.gov/gene/?term=100281337)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

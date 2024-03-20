@@ -20,7 +20,7 @@ tags: [ grain,stress,grain yield,yield,stress response,heat stress,heat stress r
    - This also suggests that constitutive expression of AtGRXS17 further strengthens GRXS17 response to stress and redox imbalance.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [Redox-engineering enhances maize thermotolerance and grain yield in the field.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13866)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13866](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13866)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35656643](https://pubmed.ncbi.nlm.nih.gov/35656643/)
@@ -32,7 +32,7 @@ tags: [ grain,stress,grain yield,yield,stress response,heat stress,heat stress r
 - **NCBI ID:** [LOC100283390](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283390)
 - **UniProt accessions:** [B4FSW8](https://www.uniprot.org/uniprotkb/B4FSW8/entry)&nbsp;,&nbsp;[A0A317Y3E3](https://www.uniprot.org/uniprotkb/A0A317Y3E3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

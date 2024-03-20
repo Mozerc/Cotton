@@ -21,7 +21,7 @@ tags: [ development,plant development,defense response,defense ]
    - Overexpression of **ZmVPS23L** partially suppresses Rp1-D21-mediated HR in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)
+- [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)
 
 ## Literature:
    - [The maize ZmVPS23-like protein relocates the nucleotide-binding leucine-rich repeat protein Rp1-D21 to endosomes and suppresses the defense response.]( https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad061](https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36869653](https://pubmed.ncbi.nlm.nih.gov/36869653/)
@@ -33,7 +33,7 @@ tags: [ development,plant development,defense response,defense ]
 - **NCBI ID:** [LOC100275829](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100275829)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

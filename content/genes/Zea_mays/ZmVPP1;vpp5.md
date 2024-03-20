@@ -20,7 +20,7 @@ tags: [ root,growth,development,drought,photosynthesis,tolerance,drought toleran
    - Transgenic maize with enhanced **ZmVPP1** expression exhibits improved drought tolerance that is most likely due to enhanced photosynthetic efficiency and root development.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
 
 ## Literature:
    - [Evaluation of drought tolerance in ZmVPP1-overexpressing transgenic inbred maize lines and their hybrids]( https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(19)62828-5](https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ root,growth,development,drought,photosynthesis,tolerance,drought toleran
 - **NCBI ID:** [LOC100280334](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280334)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

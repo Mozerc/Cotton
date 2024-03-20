@@ -19,7 +19,7 @@ tags: [  ]
    - **ZmGSTU2** encodes a glutathione S-transferase subunit VI.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Binding and glutathione conjugation of porphyrinogens by plant glutathione transferases.]( https://www.sciencedirect.com/science/article/pii/S0021925820596828?via%3Dihub#cesec30)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1074/jbc.M802026200](https://www.sciencedirect.com/science/article/pii/S0021925820596828?via%3Dihub#cesec30)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18492666](https://pubmed.ncbi.nlm.nih.gov/18492666/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC541991](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541991)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ development,anther,sterility,stress,ja,anther development,male sterility
    - **ZmMs33** in stress response during anther development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [development](/tags/development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [Jasmonic acid-mediated stress responses share the molecular mechanism underlying male sterility induced by deficiency of ZmMs33 in maize]( https://www.sciencedirect.com/science/article/pii/S2214514123000764)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.06.002](https://www.sciencedirect.com/science/article/pii/S2214514123000764)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ development,anther,sterility,stress,ja,anther development,male sterility
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

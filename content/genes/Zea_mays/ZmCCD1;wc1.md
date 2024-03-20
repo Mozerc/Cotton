@@ -19,7 +19,7 @@ tags: [ grain,endosperm,crown ]
    - Dominant **Wc1** kernel with white crown and pale yellow endosperm.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[crown](/tags/crown/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[crown](/tags/crown/)
 
 ## Literature:
    - [Hydroxamic acids: New players in the multifactorial mechanisms of maize resistance to Striga hermonthica.]( https://www.sciencedirect.com/science/article/pii/S0981942823006459?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2023.108134](https://www.sciencedirect.com/science/article/pii/S0981942823006459?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37883916](https://pubmed.ncbi.nlm.nih.gov/37883916/)
@@ -31,7 +31,7 @@ tags: [ grain,endosperm,crown ]
 - **NCBI ID:**  [LOC732715](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732715)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

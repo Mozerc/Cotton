@@ -19,7 +19,7 @@ tags: [ stress,heat stress ]
    - ZmSmallHSP is induction by heat shock is developmentally constitutive.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
    - [Maize heat shock proteins-prospection, validation, categorization and in silico analysis of the different ZmHSP families.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10482818/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s44154-023-00104-2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10482818/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37981586](https://pubmed.ncbi.nlm.nih.gov/37981586/)
@@ -30,7 +30,7 @@ tags: [ stress,heat stress ]
 - **NCBI ID:**  [LOC542723](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542723)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

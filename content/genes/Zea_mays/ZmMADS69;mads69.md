@@ -20,7 +20,7 @@ tags: [ flowering time,flowering ]
    - Neither **ZmMADS69** nor Rap2.7 nor any other gene in the eQTLs regions within Bin 3.05 were co-expressed with ZCN8, and co-expressed transcripts were not particularly enriched in eQTLs regions.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Maize adaptation across temperate climates was obtained via expression of two florigen genes.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008882)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1008882](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008882)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32673315](https://pubmed.ncbi.nlm.nih.gov/32673315/)
@@ -33,7 +33,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC100272251](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272251)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

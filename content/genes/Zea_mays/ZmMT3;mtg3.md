@@ -20,7 +20,7 @@ tags: [ immunity,cell death,plant immunity ]
    - **ZmMT3** transcribe long ncRNAs (lncRNAs), and ZmMT4 encodes chloroplastic NADPH-quinone oxidoreductase subunit 6, a component of photosynthetic complex I.
 
 ## Function-related keywords:
-[immunity](/tags/immunity/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
+- [immunity](/tags/immunity/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
 
 ## Literature:
    - [A teosinte-derived allele of a MYB transcription repressor confers multiple disease resistance in maize.]( https://www.sciencedirect.com/science/article/pii/S1674205221002744?via%3Dihub#bib3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2021.07.008](https://www.sciencedirect.com/science/article/pii/S1674205221002744?via%3Dihub#bib3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34271176](https://pubmed.ncbi.nlm.nih.gov/34271176/)
@@ -32,7 +32,7 @@ tags: [ immunity,cell death,plant immunity ]
 - **NCBI ID:** [LOC111590394](https://www.ncbi.nlm.nih.gov/gene/?term=LOC111590394)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

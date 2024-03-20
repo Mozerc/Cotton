@@ -18,7 +18,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,drought re
    - A homeobox-transcription factor22 **ZmHB22** similar to homeobox-leucine zipper protein ATHB-13 of A. thaliana.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
    - [MicroRNA528 Affects Lodging Resistance of Maize by Regulating Lignin Biosynthesis under Nitrogen-Luxury Conditions.]( https://www.sciencedirect.com/science/article/pii/S167420521830100X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2018.03.013](https://www.sciencedirect.com/science/article/pii/S167420521830100X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29597009](https://pubmed.ncbi.nlm.nih.gov/29597009/)
@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,drought re
 - **NCBI ID:**  [LOC100502458](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502458)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

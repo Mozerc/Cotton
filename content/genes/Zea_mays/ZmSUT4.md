@@ -19,7 +19,7 @@ tags: [ growth,grain,embryo,endosperm,sucrose,grain growth,sucrose transport ]
    - ZmSWEET14a/15a may be responsible for efflux of sucrose from the ESR, followed by uptake into embryos by **ZmSUT4**.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)
 
 ## Literature:
    - [A transcriptional landscape underlying sugar import for grain set in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35020972](https://pubmed.ncbi.nlm.nih.gov/35020972/)
@@ -31,7 +31,7 @@ tags: [ growth,grain,embryo,endosperm,sucrose,grain growth,sucrose transport ]
 - **NCBI ID:** [100280251](https://www.ncbi.nlm.nih.gov/gene/?term=100280251)
 - **UniProt accessions:** [Q6PST5](https://www.uniprot.org/uniprotkb/Q6PST5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

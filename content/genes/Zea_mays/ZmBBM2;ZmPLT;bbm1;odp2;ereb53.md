@@ -19,7 +19,7 @@ tags: [  ]
    - Our results exceed the 0.4−3.5% haploid frequency recently observed with transgenic transactivation of **ZmBBM2**.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Efficient parthenogenesis via egg cell expression of maize BABY BOOM 1: a step toward synthetic apomixis.]( https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad461](https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37610248](https://pubmed.ncbi.nlm.nih.gov/37610248/)
@@ -31,7 +31,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC103650883](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103650883)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

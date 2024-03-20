@@ -20,7 +20,7 @@ tags: [ development,plant development,phloem ]
    - The **Cpd1** mutation results in shorter plants with pigmented leaves.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[phloem](/tags/phloem/)
+- [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[phloem](/tags/phloem/)
 
 ## Literature:
    - [Maize Carbohydrate partitioning defective1 impacts carbohydrate distribution, callose accumulation, and phloem function.]( https://academic.oup.com/jxb/article/69/16/3917/5006194?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery203](https://academic.oup.com/jxb/article/69/16/3917/5006194?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29846660](https://pubmed.ncbi.nlm.nih.gov/29846660/)
@@ -32,7 +32,7 @@ tags: [ development,plant development,phloem ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

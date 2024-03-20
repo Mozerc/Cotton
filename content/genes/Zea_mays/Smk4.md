@@ -21,7 +21,7 @@ tags: [ growth,development,plant development,mitochondria,plant growth,flowering
    - **Smk4** encodes an E-subclass PPR protein that is targeted to mitochondria.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [SMALL KERNEL4 is required for mitochondrial cox1 transcript editing and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12856)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12856](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12856)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31332949](https://pubmed.ncbi.nlm.nih.gov/31332949/)
@@ -33,7 +33,7 @@ tags: [ growth,development,plant development,mitochondria,plant growth,flowering
 - **NCBI ID:** [LOC103652919](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103652919)
 - **UniProt accessions:** [A0A3L6F052](https://www.uniprot.org/uniprotkb/A0A3L6F052/entry)&nbsp;,&nbsp;[B6SVV0](https://www.uniprot.org/uniprotkb/B6SVV0/entry)&nbsp;,&nbsp;[K7TW03](https://www.uniprot.org/uniprotkb/K7TW03/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

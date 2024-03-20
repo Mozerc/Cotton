@@ -20,7 +20,7 @@ tags: [ auxin,resistance,defense response,defense,auxin response ]
    - **ZmARF30** directly bind the promoter of Polyamine Oxidase 1 (ZmPAO1) and activate its expression.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
+- [auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
 
 ## Literature:
    - [Maize miR167-ARF3/30-polyamine oxidase 1 module-regulated H2O2 production confers resistance to maize chlorotic mottle virus.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9157100/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac099](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9157100/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35298645](https://pubmed.ncbi.nlm.nih.gov/35298645/)
@@ -31,7 +31,7 @@ tags: [ auxin,resistance,defense response,defense,auxin response ]
 - **NCBI ID:**  [LOC100382863](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382863)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

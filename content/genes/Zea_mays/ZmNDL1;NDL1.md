@@ -21,7 +21,7 @@ tags: [ temperature,growth,development,auxin,plant development,mitochondria,infl
    - Here we characterized needle1 (**NDL1**), a temperature-sensitive maize mutant that displays severe reproductive defects and strong genetic interactions with known mutants affected in the regulation of the plant hormone auxin.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[reproductive-development](/tags/reproductive-development/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [temperature](/tags/temperature/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[reproductive-development](/tags/reproductive-development/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [NEEDLE1 encodes a mitochondria localized ATP-dependent metalloprotease required for thermotolerant maize growth.]( https://www.pnas.org/doi/10.1073/pnas.1907071116?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1907071116](https://www.pnas.org/doi/10.1073/pnas.1907071116?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31501327](https://pubmed.ncbi.nlm.nih.gov/31501327/)
@@ -35,7 +35,7 @@ tags: [ temperature,growth,development,auxin,plant development,mitochondria,infl
 - **NCBI ID:** [LOC100278654](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100278654)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

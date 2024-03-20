@@ -21,7 +21,7 @@ tags: [ submergence,development,stress,tolerance,nucleus,ethylene,stress toleran
    - Functional analysis showed that **ZmEREB180** plays a positive role in maize waterlogging tolerance, seemingly by promoting the formation of adventitious roots and coordinating ROS homeostasis.
 
 ## Function-related keywords:
-[submergence](/tags/submergence/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[submergence-tolerance](/tags/submergence-tolerance/)&nbsp;,&nbsp;[ethylene-homeostasis](/tags/ethylene-homeostasis/)
+- [submergence](/tags/submergence/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[submergence-tolerance](/tags/submergence-tolerance/)&nbsp;,&nbsp;[ethylene-homeostasis](/tags/ethylene-homeostasis/)
 
 ## Literature:
    - [A group VII ethylene response factor gene, ZmEREB180, coordinates waterlogging tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13140](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31033158](https://pubmed.ncbi.nlm.nih.gov/31033158/)
@@ -35,7 +35,7 @@ tags: [ submergence,development,stress,tolerance,nucleus,ethylene,stress toleran
 - **NCBI ID:** [100192457](https://www.ncbi.nlm.nih.gov/gene/?term=100192457)
 - **UniProt accessions:** [B4FQB2](https://www.uniprot.org/uniprotkb/B4FQB2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

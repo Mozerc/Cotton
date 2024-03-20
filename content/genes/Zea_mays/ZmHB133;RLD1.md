@@ -19,7 +19,7 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
    - We show that maize LBL1, which is involved in ta-siRNA biogenesis, regulates root growth and branching possibly by modulating phytohormone auxin and miR165/166-**RLD1**/2 module.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)
 
 ## Literature:
    - [Conserved LBL1-ta-siRNA and miR165/166-RLD1/2 modules regulate root development in maize.]( https://journals.biologists.com/dev/article/148/1/dev190033/223193/Conserved-LBL1-ta-siRNA-and-miR165-166-RLD1-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.190033](https://journals.biologists.com/dev/article/148/1/dev190033/223193/Conserved-LBL1-ta-siRNA-and-miR165-166-RLD1-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33168582](https://pubmed.ncbi.nlm.nih.gov/33168582/)
@@ -31,7 +31,7 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
 - **NCBI ID:** [LOC542515](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542515)
 - **UniProt accessions:** [A0S5W1](https://www.uniprot.org/uniprotkb/A0S5W1/entry)&nbsp;,&nbsp;[A0A096QGQ9](https://www.uniprot.org/uniprotkb/A0A096QGQ9/entry)&nbsp;,&nbsp;[A0A1D6JKQ5](https://www.uniprot.org/uniprotkb/A0A1D6JKQ5/entry)&nbsp;,&nbsp;[A0A1D6JKR4](https://www.uniprot.org/uniprotkb/A0A1D6JKR4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

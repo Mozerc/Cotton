@@ -19,7 +19,7 @@ tags: [ stem ]
    - **ZmSWN7** were successfully cloned from stem tissues and thus they were subjected to functional analysis in this study.
 
 ## Function-related keywords:
-[stem](/tags/stem/)
+- [stem](/tags/stem/)
 
 ## Literature:
    - [Transcriptional activation of secondary wall biosynthesis by rice and maize NAC and MYB transcription factors.]( https://academic.oup.com/pcp/article/52/10/1856/1886229?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcr123](https://academic.oup.com/pcp/article/52/10/1856/1886229?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21908441](https://pubmed.ncbi.nlm.nih.gov/21908441/)
@@ -30,7 +30,7 @@ tags: [ stem ]
 - **NCBI ID:**  [LOC100281519](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281519)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

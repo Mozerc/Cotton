@@ -19,7 +19,7 @@ tags: [ development,stress,tolerance,stress tolerance,stress response ]
    - We proposed a model to summarize the role of ZmbZIP54 in Pb tolerance, which involves the cooperative effect of ZmbZIP54 and **ZmFdx5** on the ZmPRP1 transcription in maize response to Pb. This study provides novel insights into the development of Pb-tolerant maize varieties and bioremediation of Pb-contaminated soils.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [ZmbZIP54 and ZmFDX5 cooperatively regulate maize seedling tolerance to lead by mediating ZmPRP1 transcription]( https://www.sciencedirect.com/science/article/pii/S0141813022023935)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2022.10.151](https://www.sciencedirect.com/science/article/pii/S0141813022023935)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ development,stress,tolerance,stress tolerance,stress response ]
 - **NCBI ID:** [LOC103628935](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103628935)
 - **UniProt accessions:** [P27789](https://www.uniprot.org/uniprotkb/P27789/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

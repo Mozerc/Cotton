@@ -22,7 +22,7 @@ tags: [ development,floral,meristem,floral meristem,floral meristem determinacy 
    - Drl1 and **Drl2** mutant enhances the phenotype of ifa1 mutants.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[floral-meristem-determinacy](/tags/floral-meristem-determinacy/)
+- [development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[floral-meristem-determinacy](/tags/floral-meristem-determinacy/)
 
 ## Literature:
    - [Maize YABBY genes drooping leaf1 and drooping leaf2 regulate floret development and floral meristem determinacy.]( https://journals.biologists.com/dev/article/146/6/dev171181/49070/Maize-YABBY-genes-drooping-leaf1-and-drooping)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.171181](https://journals.biologists.com/dev/article/146/6/dev171181/49070/Maize-YABBY-genes-drooping-leaf1-and-drooping)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30858227](https://pubmed.ncbi.nlm.nih.gov/30858227/)
@@ -35,7 +35,7 @@ tags: [ development,floral,meristem,floral meristem,floral meristem determinacy 
 - **NCBI ID:** [LOC100502185](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502185)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

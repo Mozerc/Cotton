@@ -19,7 +19,7 @@ tags: [ transcription factor,development,seed,starch,transcription regulator,see
    - **ZmMADS1a** functions as a positive regulator of starch biosynthesis by regulating the expression of key starch metabolism genes during seed development.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
 
 ## Literature:
    - [Functional analysis of ZmMADS1a reveals its role in regulating starch biosynthesis in maize endosperm.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6397188/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-019-39612-5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6397188/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30824731](https://pubmed.ncbi.nlm.nih.gov/30824731/)
@@ -30,7 +30,7 @@ tags: [ transcription factor,development,seed,starch,transcription regulator,see
 - **NCBI ID:**  [LOC542325](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542325)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

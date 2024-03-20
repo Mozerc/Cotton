@@ -19,7 +19,7 @@ tags: [ auxin,resistance,defense response,defense,auxin response ]
    - We uncovered a role of the Zma-miR167-**ZmARF3**/30 module for restricting MCMV infection by regulating ZmPAO1 expression, while MCMV employs p31 to counteract this defense.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
+- [auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
 
 ## Literature:
    - [Maize miR167-ARF3/30-polyamine oxidase 1 module-regulated H2O2 production confers resistance to maize chlorotic mottle virus.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9157100/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac099](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9157100/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35298645](https://pubmed.ncbi.nlm.nih.gov/35298645/)
@@ -30,7 +30,7 @@ tags: [ auxin,resistance,defense response,defense,auxin response ]
 - **NCBI ID:**  [LOC100384328](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100384328)
 - **UniProt accessions:** [A0A1D6DTT2](https://www.uniprot.org/uniprotkb/A0A1D6DTT2/entry)&nbsp;,&nbsp;[A0A1D6DTV3](https://www.uniprot.org/uniprotkb/A0A1D6DTV3/entry)&nbsp;,&nbsp;[A0A1D6DTV6](https://www.uniprot.org/uniprotkb/A0A1D6DTV6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ nitrogen,aba ]
    - **ZmNRT3.1B** are higher during the pollination period than before, and their expression in leaves are considerably higher than that in roots.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[aba](/tags/aba/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[aba](/tags/aba/)
 
 ## Literature:
    - [Genome-Wide Identification and Functional Analysis of Nitrate Transporter Genes (NPF, NRT2 and NRT3) in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241612941](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37629121](https://pubmed.ncbi.nlm.nih.gov/37629121/)
@@ -30,7 +30,7 @@ tags: [ nitrogen,aba ]
 - **NCBI ID:**  [LOC778428](https://www.ncbi.nlm.nih.gov/gene/?term=LOC778428)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

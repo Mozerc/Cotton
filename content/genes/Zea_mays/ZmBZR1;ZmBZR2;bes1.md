@@ -20,7 +20,7 @@ tags: [ leaf,resistant,leaf angle ]
    - ZmBEH1 interacted with the TF **ZmBZR1** (Brassinazole Resistant 1), whose gene expression was also directly activated by ZmLG2.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Characterization of regulatory modules controlling leaf angle in maize.]( https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac308](https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35758633](https://pubmed.ncbi.nlm.nih.gov/35758633/)
@@ -34,7 +34,7 @@ tags: [ leaf,resistant,leaf angle ]
 - **NCBI ID:** [LOC103633350](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103633350)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

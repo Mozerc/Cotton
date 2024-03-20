@@ -21,7 +21,7 @@ tags: [ growth,resistance,drought,seedling,tolerance,gibberellin,aba,drought tol
    - **ZmLBD5** promotes seedling growth but impairs drought tolerance.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)&nbsp;,&nbsp;[gibberellin-biosynthesis](/tags/gibberellin-biosynthesis/)&nbsp;,&nbsp;[abscisic-acid-biosynthesis](/tags/abscisic-acid-biosynthesis/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)&nbsp;,&nbsp;[gibberellin-biosynthesis](/tags/gibberellin-biosynthesis/)&nbsp;,&nbsp;[abscisic-acid-biosynthesis](/tags/abscisic-acid-biosynthesis/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [ZmLBD5, a class-II LBD gene, negatively regulates drought tolerance by impairing abscisic acid synthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16015)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16015](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16015)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36305873](https://pubmed.ncbi.nlm.nih.gov/36305873/)
@@ -34,7 +34,7 @@ tags: [ growth,resistance,drought,seedling,tolerance,gibberellin,aba,drought tol
 - **NCBI ID:** [100275127](https://www.ncbi.nlm.nih.gov/gene/?term=100275127)
 - **UniProt accessions:** [B6SPU9](https://www.uniprot.org/uniprotkb/B6SPU9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

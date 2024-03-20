@@ -20,7 +20,7 @@ tags: [ development,floral,flowering time,flowering ]
    - For example, microRNA172s are known to interfere with the translation of APETALA2 genes (such as **Rap2.7**), indicating that transcript accumulation of **Rap2.7** may not reflect its gene product levels.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Maize adaptation across temperate climates was obtained via expression of two florigen genes.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008882)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1008882](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008882)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32673315](https://pubmed.ncbi.nlm.nih.gov/32673315/)
@@ -34,7 +34,7 @@ tags: [ development,floral,flowering time,flowering ]
 - **NCBI ID:** [103635944](https://www.ncbi.nlm.nih.gov/gene/?term=103635944)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

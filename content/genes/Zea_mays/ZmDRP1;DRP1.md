@@ -21,7 +21,7 @@ tags: [ fertility,pollen,sterility,tapetum,sterile,microspore,male sterility,mal
    - Loss of **ZmDRP1** function confers male sterility in maize.
 
 ## Function-related keywords:
-[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[microspore](/tags/microspore/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
+- [fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[microspore](/tags/microspore/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
 
 ## Literature:
    - [Exploring key developmental phases and phase-specific genes across the entirety of anther development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13276)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13276](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13276)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35607822](https://pubmed.ncbi.nlm.nih.gov/35607822/)
@@ -33,7 +33,7 @@ tags: [ fertility,pollen,sterility,tapetum,sterile,microspore,male sterility,mal
 - **NCBI ID:** [100283934](https://www.ncbi.nlm.nih.gov/gene/?term=100283934)
 - **UniProt accessions:** [B6TNA6](https://www.uniprot.org/uniprotkb/B6TNA6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

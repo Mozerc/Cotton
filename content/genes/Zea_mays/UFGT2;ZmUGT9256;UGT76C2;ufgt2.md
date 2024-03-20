@@ -20,7 +20,7 @@ tags: [ drought,stress,drought stress,salt,abiotic stress,salt stress,secondary 
    - **UFGT2** mutants are sensitive to salt and drought stresses.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[secondary-metabolism](/tags/secondary-metabolism/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[secondary-metabolism](/tags/secondary-metabolism/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)
 
 ## Literature:
    - [The maize secondary metabolism glycosyltransferase UFGT2 modifies flavonols and contributes to plant acclimation to abiotic stresses.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324750/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/aob/mcy123](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324750/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29982479](https://pubmed.ncbi.nlm.nih.gov/29982479/)
@@ -31,7 +31,7 @@ tags: [ drought,stress,drought stress,salt,abiotic stress,salt stress,secondary 
 - **NCBI ID:**  [LOC100280143](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280143)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

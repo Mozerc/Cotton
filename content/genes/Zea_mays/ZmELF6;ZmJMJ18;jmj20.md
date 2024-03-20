@@ -21,7 +21,7 @@ tags: [ development,salt,yield,flowering ]
    - Loss of function resulted in early flowering under long day conditions.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [development](/tags/development/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [ZmELF6-ZmPRR37 module regulates maize flowering and salt response.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14236)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14236](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14236)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38009862](https://pubmed.ncbi.nlm.nih.gov/38009862/)
@@ -33,7 +33,7 @@ tags: [ development,salt,yield,flowering ]
 - **NCBI ID:** [100381553](https://www.ncbi.nlm.nih.gov/gene/?term=100381553)
 - **UniProt accessions:** [A0A1D6PJW2](https://www.uniprot.org/uniprotkb/A0A1D6PJW2/entry)&nbsp;,&nbsp;[A0A1D6PJX2](https://www.uniprot.org/uniprotkb/A0A1D6PJX2/entry)&nbsp;,&nbsp;[C0HGZ4](https://www.uniprot.org/uniprotkb/C0HGZ4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ leaf,root,development,leaf development,auxin,plant development,domestica
    - **ZmPGP1** may be selected in the domestication and improvement process, and significant variants could be used to develop functional markers to improve plant architecture and ear traits in maize.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[abc-transporter](/tags/abc-transporter/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[abc-transporter](/tags/abc-transporter/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)
 
 ## Literature:
    - [Natural Variation and Domestication Selection of ZmPGP1 Affects Plant Architecture and Yield-Related Traits in Maize.]( https://www.mdpi.com/2073-4425/10/9/664)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/genes10090664](https://www.mdpi.com/2073-4425/10/9/664)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31480272](https://pubmed.ncbi.nlm.nih.gov/31480272/)
@@ -34,7 +34,7 @@ tags: [ leaf,root,development,leaf development,auxin,plant development,domestica
 - **NCBI ID:** [LOC100384057](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100384057)
 - **UniProt accessions:** [A0A1D6KLY8](https://www.uniprot.org/uniprotkb/A0A1D6KLY8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

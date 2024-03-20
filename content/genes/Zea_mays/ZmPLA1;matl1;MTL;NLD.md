@@ -21,7 +21,7 @@ tags: [ pollen,breeding ]
    - **ZmPLA1** encodes a pollen-specific phospholipase; novel edits lead to a 6.7% haploid induction rate.
 
 ## Function-related keywords:
-[pollen](/tags/pollen/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+- [pollen](/tags/pollen/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
    - [A 4-bp Insertion at ZmPLA1 Encoding a Putative Phospholipase A Generates Haploid Induction in Maize.]( https://www.sciencedirect.com/science/article/pii/S1674205217300126?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.01.011](https://www.sciencedirect.com/science/article/pii/S1674205217300126?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28179149](https://pubmed.ncbi.nlm.nih.gov/28179149/)
@@ -34,7 +34,7 @@ tags: [ pollen,breeding ]
 - **NCBI ID:** [LOC103635924](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635924)
 - **UniProt accessions:** [A0A1D6K4Z0](https://www.uniprot.org/uniprotkb/A0A1D6K4Z0/entry)&nbsp;,&nbsp;[A0A1P8YYK6](https://www.uniprot.org/uniprotkb/A0A1P8YYK6/entry)&nbsp;,&nbsp;[A0A317YLS2](https://www.uniprot.org/uniprotkb/A0A317YLS2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

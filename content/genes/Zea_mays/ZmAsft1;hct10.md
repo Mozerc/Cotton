@@ -17,7 +17,7 @@ tags: [ cell wall ]
    - Double mutant (**ZmAsft1**) with asf2 have a compromised suberin lamellae ultrastructure that increased cell wall elasticity and apoplastic water diffusion.
 
 ## Function-related keywords:
-[cell-wall](/tags/cell-wall/)
+- [cell-wall](/tags/cell-wall/)
 
 ## Literature:
    - [Leaf cell wall properties and stomatal density influence oxygen isotope enrichment of leaf water.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14612)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14612](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14612)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37219338](https://pubmed.ncbi.nlm.nih.gov/37219338/)
@@ -28,7 +28,7 @@ tags: [ cell wall ]
 - **NCBI ID:**  [LOC100284056](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284056)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ transcription factor,xylem,root,growth,development,root development,root
    - Ectopic overexpression of **ZmTMM1** recovers the defective growth of lateral roots in the Arabidopsis anr1 agl21 double mutant.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[xylem](/tags/xylem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[xylem-parenchyma](/tags/xylem-parenchyma/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[xylem](/tags/xylem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[xylem-parenchyma](/tags/xylem-parenchyma/)
 
 ## Literature:
    - [Involvement of a truncated MADS-box transcription factor ZmTMM1 in root nitrate foraging.]( https://academic.oup.com/jxb/article/71/15/4547/5781150?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa116](https://academic.oup.com/jxb/article/71/15/4547/5781150?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32133500](https://pubmed.ncbi.nlm.nih.gov/32133500/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,xylem,root,growth,development,root development,root
 - **NCBI ID:** [103627685](https://www.ncbi.nlm.nih.gov/gene/?term=103627685)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

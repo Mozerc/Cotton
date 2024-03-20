@@ -22,7 +22,7 @@ tags: [ development,auxin,plant development,domestication,yield,homeostasis,bree
    - Sequence analyses suggest that **ZmVPS29** has been under purifying selection during maize domestication and likely in breeding processes as well.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)
+- [development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)
 
 ## Literature:
    - [The retromer protein ZmVPS29 regulates maize kernel morphology likely through an auxin-dependent process(es).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13267)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13267](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13267)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31553822](https://pubmed.ncbi.nlm.nih.gov/31553822/)
@@ -36,7 +36,7 @@ tags: [ development,auxin,plant development,domestication,yield,homeostasis,bree
 - **NCBI ID:** [100281359](https://www.ncbi.nlm.nih.gov/gene/?term=100281359)
 - **UniProt accessions:** [B6SUM0](https://www.uniprot.org/uniprotkb/B6SUM0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

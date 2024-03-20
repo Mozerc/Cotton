@@ -20,7 +20,7 @@ tags: [ seed ]
    - **ZmLTP1.6** encodes amino acid sequence, deduced from coleoptile cDNA, homologous to phospholipid transfer proteins.
 
 ## Function-related keywords:
-[seed](/tags/seed/)
+- [seed](/tags/seed/)
 
 ## Literature:
    - [Lipid transfer proteins: classification, nomenclature, structure, and function.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052319/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-016-2585-4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052319/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27562524](https://pubmed.ncbi.nlm.nih.gov/27562524/)
@@ -31,7 +31,7 @@ tags: [ seed ]
 - **NCBI ID:**  [LOC103640727](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103640727)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

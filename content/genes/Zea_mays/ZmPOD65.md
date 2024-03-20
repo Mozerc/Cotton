@@ -21,7 +21,7 @@ tags: [ pollen,sterility,defense,male sterility ]
    - **ZmPOD65** sperm-specific peroxidase involved in controlling haploid induction.
 
 ## Function-related keywords:
-[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)
+- [pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)
 
 ## Literature:
    - [A reactive oxygen species burst causes haploid induction in maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00114-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205222001149%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.04.001](https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00114-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205222001149%3Fshowall%3Dtrue)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35395409](https://pubmed.ncbi.nlm.nih.gov/35395409/)
@@ -33,7 +33,7 @@ tags: [ pollen,sterility,defense,male sterility ]
 - **NCBI ID:** [100284887](https://www.ncbi.nlm.nih.gov/gene/?term=100284887)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

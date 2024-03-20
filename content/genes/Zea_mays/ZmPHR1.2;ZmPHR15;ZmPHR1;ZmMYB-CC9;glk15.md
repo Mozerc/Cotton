@@ -19,7 +19,7 @@ tags: [ nitrogen,transporter,phosphate,phosphorus,amino acid transporter ]
    - **ZmPHR1**s serve as direct linkers of P and N nutrition independent of NIGT1 by binding to and down-regulating amino acid transporter genes ZmAAP2 and ZmLHT1.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)
 
 ## Literature:
    - [Cis-regulation of the amino acid transporter genes ZmAAP2 and ZmLHT1 by ZmPHR1 transcription factors in maize ear under phosphate limitation.]( https://academic.oup.com/jxb/article/72/10/3846/6157083?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab103](https://academic.oup.com/jxb/article/72/10/3846/6157083?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33765129](https://pubmed.ncbi.nlm.nih.gov/33765129/)
@@ -31,7 +31,7 @@ tags: [ nitrogen,transporter,phosphate,phosphorus,amino acid transporter ]
 - **NCBI ID:**  [LOC100285165](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285165)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

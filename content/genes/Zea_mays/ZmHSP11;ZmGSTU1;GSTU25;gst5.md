@@ -18,7 +18,7 @@ tags: [ stress,tolerance,stress tolerance,detoxification ]
    - **ZmGSTU1** involved in nicosulfuron stress tolerance
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[detoxification](/tags/detoxification/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[detoxification](/tags/detoxification/)
 
 ## Literature:
    - [Role of ZmGST Gene Family Involved in Nicosulfuron Stress Tolerance Revealed by Genomic and Transcriptomic Analyses]( https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy12112598](https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -29,7 +29,7 @@ tags: [ stress,tolerance,stress tolerance,detoxification ]
 - **NCBI ID:**  [LOC542734](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542734)
 - **UniProt accessions:** [A0A1D6L6U6](https://www.uniprot.org/uniprotkb/A0A1D6L6U6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

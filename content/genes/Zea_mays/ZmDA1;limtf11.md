@@ -19,7 +19,7 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
    - Expressing the **ZmDA1** or Zmdar1 gene improved grain yield in maize by increasing the kernel number and kernel weight.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [Over-expression of mutated ZmDA1 or ZmDAR1 gene improves maize kernel yield by enhancing starch synthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12763](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28557341](https://pubmed.ncbi.nlm.nih.gov/28557341/)
@@ -31,7 +31,7 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
 - **NCBI ID:** [100191921](https://www.ncbi.nlm.nih.gov/gene/?term=100191921)
 - **UniProt accessions:** [B4FAN8](https://www.uniprot.org/uniprotkb/B4FAN8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

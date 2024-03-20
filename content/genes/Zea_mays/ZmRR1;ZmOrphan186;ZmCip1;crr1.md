@@ -21,7 +21,7 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
    - **ZmRR1** regulates chilling tolerance by modulating the expression of ZmDREB1s and ZmCesAs.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)
 
 ## Literature:
    - [Natural variation in a type-A response regulator confers maize chilling tolerance.]( https://www.nature.com/articles/s41467-021-25001-y#Sec28)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-25001-y](https://www.nature.com/articles/s41467-021-25001-y#Sec28)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34354054](https://pubmed.ncbi.nlm.nih.gov/34354054/)
@@ -35,7 +35,7 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
 - **NCBI ID:** [LOC541613](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541613)
 - **UniProt accessions:** [Q9ZQW0](https://www.uniprot.org/uniprotkb/Q9ZQW0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

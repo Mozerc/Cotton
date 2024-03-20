@@ -20,7 +20,7 @@ tags: [ leaf,root,growth,development,leaf development,auxin,cell division,crown 
    - Thus, our results showed that **LBL1** is able to rescue the leaf and root developmental defects of sgs3-11, possibly by restoring functional tasiR-ARF production in sgs3-11/- (pAtSGS3:Zm**LBL1**) plants. This indicates functional conservation of the **LBL1**- and SGS3-mediated ta-siRNA pathways between dicots and monocots.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[crown-root-development](/tags/crown-root-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)&nbsp;,&nbsp;[root-number](/tags/root-number/)&nbsp;,&nbsp;[root-meristem-size](/tags/root-meristem-size/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)&nbsp;,&nbsp;[lateral-root-number](/tags/lateral-root-number/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[crown-root-development](/tags/crown-root-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)&nbsp;,&nbsp;[root-number](/tags/root-number/)&nbsp;,&nbsp;[root-meristem-size](/tags/root-meristem-size/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)&nbsp;,&nbsp;[lateral-root-number](/tags/lateral-root-number/)
 
 ## Literature:
    - [Conserved LBL1-ta-siRNA and miR165/166-RLD1/2 modules regulate root development in maize.]( https://journals.biologists.com/dev/article/148/1/dev190033/223193/Conserved-LBL1-ta-siRNA-and-miR165-166-RLD1-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.190033](https://journals.biologists.com/dev/article/148/1/dev190033/223193/Conserved-LBL1-ta-siRNA-and-miR165-166-RLD1-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33168582](https://pubmed.ncbi.nlm.nih.gov/33168582/)
@@ -32,7 +32,7 @@ tags: [ leaf,root,growth,development,leaf development,auxin,cell division,crown 
 - **NCBI ID:** [LOC100037819](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037819)
 - **UniProt accessions:** [A1Y2B7](https://www.uniprot.org/uniprotkb/A1Y2B7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

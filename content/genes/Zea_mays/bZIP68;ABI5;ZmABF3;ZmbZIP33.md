@@ -21,7 +21,7 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
    - The stability and transcriptional activity of **bZIP68** are controlled by its phosphorylation at the conserved Ser250 residue under cold stress.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [The transcription factor bZIP68 negatively regulates cold tolerance in maize.]( https://academic.oup.com/plcell/article/34/8/2833/6584020?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac137](https://academic.oup.com/plcell/article/34/8/2833/6584020?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35543494](https://pubmed.ncbi.nlm.nih.gov/35543494/)
@@ -35,7 +35,7 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 - **NCBI ID:** [LOC100216617](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100216617)
 - **UniProt accessions:** [B4FIX1](https://www.uniprot.org/uniprotkb/B4FIX1/entry)&nbsp;,&nbsp;[B4FRB4](https://www.uniprot.org/uniprotkb/B4FRB4/entry)&nbsp;,&nbsp;[A0A3L6F7L4](https://www.uniprot.org/uniprotkb/A0A3L6F7L4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

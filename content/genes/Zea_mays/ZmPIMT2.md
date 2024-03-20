@@ -23,7 +23,7 @@ tags: [ chloroplast,seed,mitochondria,embryo,protoplasts ]
    - The N-terminus of **ZmPIMT2** is essential for its mitochondrial localization and function.
 
 ## Function-related keywords:
-[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
+- [chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
 
 ## Literature:
    - [Maize PIMT2 repairs damaged 3-METHYLCROTONYL COA CARBOXYLASE in mitochondria, affecting seed vigor.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16225](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36999611](https://pubmed.ncbi.nlm.nih.gov/36999611/)
@@ -35,7 +35,7 @@ tags: [ chloroplast,seed,mitochondria,embryo,protoplasts ]
 - **NCBI ID:** [100193019](https://www.ncbi.nlm.nih.gov/gene/?term=100193019)
 - **UniProt accessions:** [B4FDI2](https://www.uniprot.org/uniprotkb/B4FDI2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ seed,ja,seed phenotype ]
    - GRMZM2G177668 is the candidate **Ts5** gene, encoding a JA-Ile hydroxylase.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)
+- [seed](/tags/seed/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)
 
 ## Literature:
    - [Tasselseed5 encodes a cytochrome C oxidase that functions in sex determination by affecting jasmonate catabolism in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12826](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31087765](https://pubmed.ncbi.nlm.nih.gov/31087765/)
@@ -32,7 +32,7 @@ tags: [ seed,ja,seed phenotype ]
 - **NCBI ID:**  [103652921](https://www.ncbi.nlm.nih.gov/gene/?term=103652921)
 - **UniProt accessions:** [A0A1D6PT32](https://www.uniprot.org/uniprotkb/A0A1D6PT32/entry)&nbsp;,&nbsp;[A0A3L6F524](https://www.uniprot.org/uniprotkb/A0A3L6F524/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

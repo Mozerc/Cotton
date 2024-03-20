@@ -18,7 +18,7 @@ tags: [  ]
    - ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [ZmILI1 regulates leaf angle by directly affecting liguleless1 expression in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13255](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31529573](https://pubmed.ncbi.nlm.nih.gov/31529573/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100281671](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281671)
 - **UniProt accessions:** [A0A1D6L365](https://www.uniprot.org/uniprotkb/A0A1D6L365/entry)&nbsp;,&nbsp;[A0A1D6L366](https://www.uniprot.org/uniprotkb/A0A1D6L366/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

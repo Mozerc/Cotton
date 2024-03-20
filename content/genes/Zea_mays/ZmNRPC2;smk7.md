@@ -21,7 +21,7 @@ tags: [ transcription factor,development,cell proliferation ]
    - **ZmNRPC2** Interacts with Subunits of the RNAPIII Complex and Regulates Expression of tRNAs and 5S rRNA.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)
 
 ## Literature:
    - [Loss of Function of an RNA Polymerase III Subunit Leads to Impaired Maize Kernel Development.]( https://academic.oup.com/plphys/article/184/1/359/6117828?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00502](https://academic.oup.com/plphys/article/184/1/359/6117828?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32591429](https://pubmed.ncbi.nlm.nih.gov/32591429/)
@@ -33,7 +33,7 @@ tags: [ transcription factor,development,cell proliferation ]
 - **NCBI ID:** [103629391](https://www.ncbi.nlm.nih.gov/gene/?term=103629391)
 - **UniProt accessions:** [A0A1D6LJV2](https://www.uniprot.org/uniprotkb/A0A1D6LJV2/entry)&nbsp;,&nbsp;[A0A1D6LJV4](https://www.uniprot.org/uniprotkb/A0A1D6LJV4/entry)&nbsp;,&nbsp;[A0A1D6LJV5](https://www.uniprot.org/uniprotkb/A0A1D6LJV5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

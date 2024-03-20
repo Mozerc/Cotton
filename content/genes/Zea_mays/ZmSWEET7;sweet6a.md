@@ -19,7 +19,7 @@ tags: [ salt,yield,sugar,photosystem ]
    - These findings indicate that **ZmSWEET7**-mediated CO2 fixation efficiency rather than assimilation rate plays a positive pleiotropic role in C accumulation in the form of sugar or dry matter via increased FV/FM. This work lays a strong foundation for salt-tolerant forage maize genetic improvement.
 
 ## Function-related keywords:
-[salt](/tags/salt/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)
+- [salt](/tags/salt/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)
 
 ## Literature:
    - [Insights on the SWEET Gene Role in Soluble Sugar Accumulation via the CO2 Fixation Pathway in Forage Maize Under Salt Stress]( https://link.springer.com/article/10.1007/s00344-023-11112-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11112-x](https://link.springer.com/article/10.1007/s00344-023-11112-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ salt,yield,sugar,photosystem ]
 - **NCBI ID:**  [LOC100282631](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282631)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

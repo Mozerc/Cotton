@@ -18,7 +18,7 @@ tags: [ methyltransferase ]
    - GRMZM2G336824 (**Bx11**) encoded DIMBOA-glucoside O-methyltransferase.
 
 ## Function-related keywords:
-[methyltransferase](/tags/methyltransferase/)
+- [methyltransferase](/tags/methyltransferase/)
 
 ## Literature:
    - [Genetic Variation, DIMBOA Accumulation, and Candidate Gene Identification in Maize Multiple Insect-Resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916695/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032138](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916695/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768464](https://pubmed.ncbi.nlm.nih.gov/36768464/)
@@ -29,7 +29,7 @@ tags: [ methyltransferase ]
 - **NCBI ID:**  [LOC100272836](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272836)
 - **UniProt accessions:** [B4FR22](https://www.uniprot.org/uniprotkb/B4FR22/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

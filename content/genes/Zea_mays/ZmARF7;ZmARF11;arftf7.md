@@ -18,7 +18,7 @@ tags: [ transcription factor,auxin,auxin response ]
    - **ZmARF7** encodes a auxin response factor,auxin response factor (ARF) gene family in maize.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
 
 ## Literature:
    - [Genome-wide identification and expression profiling of auxin response factor (ARF) gene family in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3082248/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-12-178](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3082248/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21473768](https://pubmed.ncbi.nlm.nih.gov/21473768/)
@@ -29,7 +29,7 @@ tags: [ transcription factor,auxin,auxin response ]
 - **NCBI ID:**  [LOC100857063](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100857063)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

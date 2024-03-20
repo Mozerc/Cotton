@@ -21,7 +21,7 @@ tags: [ architecture,breeding,height,plant height,flowering time,plant architect
    - Together, these results provided new insight into the function of ZmPHYCs and guidance for breeding high-density tolerant maize cultivars.
 
 ## Function-related keywords:
-[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [CRISPR/Cas9-mediated knockout and overexpression studies reveal a role of maize phytochrome C in regulating flowering time and plant height.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13429)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13429](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13429)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32531863](https://pubmed.ncbi.nlm.nih.gov/32531863/)
@@ -35,7 +35,7 @@ tags: [ architecture,breeding,height,plant height,flowering time,plant architect
 - **NCBI ID:** [103644014](https://www.ncbi.nlm.nih.gov/gene/?term=103644014)
 - **UniProt accessions:** [A0A1D6L4T3](https://www.uniprot.org/uniprotkb/A0A1D6L4T3/entry)&nbsp;,&nbsp;[A0A1D6L4T4](https://www.uniprot.org/uniprotkb/A0A1D6L4T4/entry)&nbsp;,&nbsp;[Q6XFQ1](https://www.uniprot.org/uniprotkb/Q6XFQ1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

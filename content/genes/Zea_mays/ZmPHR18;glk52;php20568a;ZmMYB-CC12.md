@@ -19,7 +19,7 @@ tags: [ leaf,stress,down-regulated genes,phosphate,stress response,pi,phosphate 
    - **ZmPHR18** involved in phosphate starvation response.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)
 
 ## Literature:
    - [Narrowing down molecular targets for improving phosphorus-use efficiency in maize (Zea mays L.).]( https://link.springer.com/article/10.1007/s11033-022-07679-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-022-07679-5](https://link.springer.com/article/10.1007/s11033-022-07679-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35752697](https://pubmed.ncbi.nlm.nih.gov/35752697/)
@@ -30,7 +30,7 @@ tags: [ leaf,stress,down-regulated genes,phosphate,stress response,pi,phosphate 
 - **NCBI ID:**  [LOC100281665](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281665)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

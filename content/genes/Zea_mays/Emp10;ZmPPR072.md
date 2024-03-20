@@ -21,7 +21,7 @@ tags: [ development,seed,map-based cloning,embryo,endosperm,pericarp,seed develo
    - The importance of **Emp10** for the development of maize seed.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [Emp10 encodes a mitochondrial PPR protein that affects the cis-splicing of nad2 intron 1 and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13551)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13551](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13551)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28346745](https://pubmed.ncbi.nlm.nih.gov/28346745/)
@@ -33,7 +33,7 @@ tags: [ development,seed,map-based cloning,embryo,endosperm,pericarp,seed develo
 - **NCBI ID:** [LOC100502439](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502439)
 - **UniProt accessions:** [A0A1D6L3X1](https://www.uniprot.org/uniprotkb/A0A1D6L3X1/entry)&nbsp;,&nbsp;[A0A317Y6H7](https://www.uniprot.org/uniprotkb/A0A317Y6H7/entry)&nbsp;,&nbsp;[C4JBH7](https://www.uniprot.org/uniprotkb/C4JBH7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

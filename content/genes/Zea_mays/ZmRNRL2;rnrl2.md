@@ -19,7 +19,7 @@ tags: [ growth ]
    - **ZmRNRL2** and ZmRNRL1 proteins have same interaction partners at normal growth temperatures. These results indicate that **ZmRNRL2** performs molecular functions similar to ZmRNRL1, although they are expressed at different levels.
 
 ## Function-related keywords:
-[growth](/tags/growth/)
+- [growth](/tags/growth/)
 
 ## Literature:
    - [A Missense Mutation in a Large Subunit of Ribonucleotide Reductase Confers Temperature-Gated Tassel Formation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723098/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00219](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723098/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33020253](https://pubmed.ncbi.nlm.nih.gov/33020253/)
@@ -30,7 +30,7 @@ tags: [ growth ]
 - **NCBI ID:**  [100502278](https://www.ncbi.nlm.nih.gov/gene/?term=100502278)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

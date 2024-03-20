@@ -19,7 +19,7 @@ tags: [ development,embryo,transcriptional regulator,female gametophyte developm
    - **IG1** was asymmetrically distributed in the embryo sac with the highest amount in antipodal cells.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[female-gametophyte-development](/tags/female-gametophyte-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[female-gametophyte-development](/tags/female-gametophyte-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [Germline Development and Fertilization Mechanisms in Maize.]( https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.01.012](https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28267957](https://pubmed.ncbi.nlm.nih.gov/28267957/)
@@ -30,7 +30,7 @@ tags: [ development,embryo,transcriptional regulator,female gametophyte developm
 - **NCBI ID:**  [LOC732739](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732739)
 - **UniProt accessions:** [Q32SG3](https://www.uniprot.org/uniprotkb/Q32SG3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

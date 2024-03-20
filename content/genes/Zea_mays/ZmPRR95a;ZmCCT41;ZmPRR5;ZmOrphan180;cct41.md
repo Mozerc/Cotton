@@ -18,7 +18,7 @@ tags: [ flowering time,flowering ]
    - Mutants displayed a significant delay in their flowering time.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A multi-omics integrative network map of maize.]( https://www.nature.com/articles/s41588-022-01262-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-022-01262-1](https://www.nature.com/articles/s41588-022-01262-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36581701](https://pubmed.ncbi.nlm.nih.gov/36581701/)
@@ -30,7 +30,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:**  [LOC100273598](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273598)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

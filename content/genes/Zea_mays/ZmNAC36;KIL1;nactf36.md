@@ -22,7 +22,7 @@ tags: [ transcription factor,senescence,fertility,flower,yield,cell death,merist
    - The discovery of **KIL1** is a first step toward understanding flower senescence in maize. Further exploring **KIL1** functions may allow us to modulate maize fertility.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[pcd](/tags/pcd/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[pcd](/tags/pcd/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)
 
 ## Literature:
    - [KIL1 terminates fertility in maize by controlling silk senescence.]( https://academic.oup.com/plcell/article/34/8/2852/6590656?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac151](https://academic.oup.com/plcell/article/34/8/2852/6590656?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35608197](https://pubmed.ncbi.nlm.nih.gov/35608197/)
@@ -36,7 +36,7 @@ tags: [ transcription factor,senescence,fertility,flower,yield,cell death,merist
 - **NCBI ID:** [100283926](https://www.ncbi.nlm.nih.gov/gene/?term=100283926)
 - **UniProt accessions:** [B6TN66](https://www.uniprot.org/uniprotkb/B6TN66/entry)&nbsp;,&nbsp;[A0A3L6G3U6](https://www.uniprot.org/uniprotkb/A0A3L6G3U6/entry)&nbsp;,&nbsp;[A0A1D6E668](https://www.uniprot.org/uniprotkb/A0A1D6E668/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ domestication,flavonoid ]
    - **FHT1** similar to Naringenin,2-oxoglutarate 3-dioxygenase of A. thaliana(aka f3h) single copy cDNA similar to Antirrhinum homolog.
 
 ## Function-related keywords:
-[domestication](/tags/domestication/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)
+- [domestication](/tags/domestication/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)
 
 ## Literature:
    - [Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and Its Wild Ancestor, Teosinte.]( https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00111](https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31227559](https://pubmed.ncbi.nlm.nih.gov/31227559/)
@@ -32,7 +32,7 @@ tags: [ domestication,flavonoid ]
 - **NCBI ID:** [LOC542712](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542712)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

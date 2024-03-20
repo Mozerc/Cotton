@@ -19,7 +19,7 @@ tags: [ iron ]
    - **ZmFLS2** would be able to complement the A. thaliana fls1 mutants similarly as ZmFLS1. These proteins show only two differences in their amino acid sequences at positions not participating in 2-oxoglutarate and substrate binding, or the coordination of the ferrous iron necessary for the enzyme activity.
 
 ## Function-related keywords:
-[iron](/tags/iron/)
+- [iron](/tags/iron/)
 
 ## Literature:
    - [Evolution and expression of tandem duplicated maize flavonol synthase genes.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2012.00101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22654889](https://pubmed.ncbi.nlm.nih.gov/22654889/)
@@ -30,7 +30,7 @@ tags: [ iron ]
 - **NCBI ID:**  [LOC103627785](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627785)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -18,7 +18,7 @@ tags: [ nitrogen ]
    - **ZmNADH-GOGAT1** encodes a glutamate synthase (NADH).
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)
+- [nitrogen](/tags/nitrogen/)
 
 ## Literature:
    - [Nitrogen assimilation in plants: current status and future prospects.]( https://www.sciencedirect.com/science/article/pii/S1673852721003763?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2021.12.006](https://www.sciencedirect.com/science/article/pii/S1673852721003763?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34973427](https://pubmed.ncbi.nlm.nih.gov/34973427/)
@@ -29,7 +29,7 @@ tags: [ nitrogen ]
 - **NCBI ID:**  [LOC103636185](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103636185)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

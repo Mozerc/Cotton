@@ -18,7 +18,7 @@ tags: [ transcription factor ]
    - **ZmAL8** encodes a alfin-like-transcription factor.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)
+- [transcription-factor](/tags/transcription-factor/)
 
 ## Literature:
    - [A temporal hierarchy underpins the transcription factor-DNA interactome of the maize UPR.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
@@ -29,7 +29,7 @@ tags: [ transcription factor ]
 - **NCBI ID:**  [LOC100273857](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273857)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

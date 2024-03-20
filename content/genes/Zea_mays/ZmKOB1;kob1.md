@@ -21,7 +21,7 @@ tags: [ aba,heterosis,glycosyltransferase ]
    - **ZmKOB1** candidate gene for heterosis.
 
 ## Function-related keywords:
-[aba](/tags/aba/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)
+- [aba](/tags/aba/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)
 
 ## Literature:
    - [Genomic insights into historical improvement of heterotic groups during modern hybrid maize breeding.]( https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01190-2](https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851624](https://pubmed.ncbi.nlm.nih.gov/35851624/)
@@ -33,7 +33,7 @@ tags: [ aba,heterosis,glycosyltransferase ]
 - **NCBI ID:** [LOC100285082](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285082)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

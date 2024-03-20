@@ -21,7 +21,7 @@ tags: [ development,floral,stamen,endosperm,endosperm development,protein transl
    - **ZAG1** mRNA accumulates early in stamen and carpel primordia and in developing endosperm; later in development limited to stamens and pistils.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[stamen](/tags/stamen/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
+- [development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[stamen](/tags/stamen/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
 
 ## Literature:
    - [Identification and molecular characterization of ZAG1, the maize homolog of the Arabidopsis floral homeotic gene AGAMOUS.]( https://academic.oup.com/plcell/article/5/7/729/5984525?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.5.7.729](https://academic.oup.com/plcell/article/5/7/729/5984525?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[8103379](https://pubmed.ncbi.nlm.nih.gov/8103379/)
@@ -32,7 +32,7 @@ tags: [ development,floral,stamen,endosperm,endosperm development,protein transl
 - **NCBI ID:**  [LOC542244](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542244)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

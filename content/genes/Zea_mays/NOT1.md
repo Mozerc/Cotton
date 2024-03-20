@@ -21,7 +21,7 @@ tags: [ stem,development,architecture ]
    - Glume length was significantly increased when TGA1/**NOT1** were knocked down/out.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)
+- [stem](/tags/stem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)
 
 ## Literature:
    - [Evidence That the Origin of Naked Kernels During Maize Domestication Was Caused by a Single Amino Acid Substitution in tga1.]( https://academic.oup.com/genetics/article/200/3/965/5936224)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[](https://academic.oup.com/genetics/article/200/3/965/5936224)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25943393](https://pubmed.ncbi.nlm.nih.gov/25943393/)
@@ -33,7 +33,7 @@ tags: [ stem,development,architecture ]
 - **NCBI ID:** [103653214](https://www.ncbi.nlm.nih.gov/gene/?term=103653214)
 - **UniProt accessions:** [A0A1B1MQB5](https://www.uniprot.org/uniprotkb/A0A1B1MQB5/entry)&nbsp;,&nbsp;[A0A1D6PYB5](https://www.uniprot.org/uniprotkb/A0A1D6PYB5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

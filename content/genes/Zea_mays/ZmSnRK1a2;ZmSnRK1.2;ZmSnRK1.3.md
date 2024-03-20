@@ -21,7 +21,7 @@ tags: [ nitrogen,kinase,sucrose ]
    - **ZmSnRK1.2** Phosphorylates ZmRFWD3 at S-479 and Lowers its Stability.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
    - [A SnRK1-ZmRFWD3-Opaque2 Signaling Axis Regulates Diurnal Nitrogen Accumulation in Maize Seeds.]( https://academic.oup.com/plcell/article/32/9/2823/6115678?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00352](https://academic.oup.com/plcell/article/32/9/2823/6115678?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32699171](https://pubmed.ncbi.nlm.nih.gov/32699171/)
@@ -34,7 +34,7 @@ tags: [ nitrogen,kinase,sucrose ]
 - **NCBI ID:** [103647175](https://www.ncbi.nlm.nih.gov/gene/?term=103647175)
 - **UniProt accessions:** [B6T9U2](https://www.uniprot.org/uniprotkb/B6T9U2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

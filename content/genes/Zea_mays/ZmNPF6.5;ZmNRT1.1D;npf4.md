@@ -18,7 +18,7 @@ tags: [ root,shoot,nitrate ]
    - **ZmNPF6.5** is responsible for nitrate transport from roots to shoots, suggesting that internode genes primarily participate in nitrate transport, and their expression varies with developmental stage.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
+- [root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
    - [Genome-Wide Identification and Functional Analysis of Nitrate Transporter Genes (NPF, NRT2 and NRT3) in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241612941](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37629121](https://pubmed.ncbi.nlm.nih.gov/37629121/)
@@ -29,7 +29,7 @@ tags: [ root,shoot,nitrate ]
 - **NCBI ID:**  [LOC103630501](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103630501)
 - **UniProt accessions:** [A0A1D6JK18](https://www.uniprot.org/uniprotkb/A0A1D6JK18/entry)&nbsp;,&nbsp;[A0A317YHT9](https://www.uniprot.org/uniprotkb/A0A317YHT9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

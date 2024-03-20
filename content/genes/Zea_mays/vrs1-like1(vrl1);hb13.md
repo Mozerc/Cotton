@@ -19,7 +19,7 @@ tags: [ growth,floral ]
    - **hb13** mutants have derepressed growth of floral organs; bore more ears and more branches, indicating broad roles in growth repression.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[floral](/tags/floral/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[floral](/tags/floral/)
 
 ## Literature:
    - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
@@ -32,7 +32,7 @@ tags: [ growth,floral ]
 - **NCBI ID:**  [LOC100272993](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272993)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

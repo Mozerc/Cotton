@@ -21,7 +21,7 @@ tags: [ development,seed,mitochondria,embryo,endosperm,seed development,endosper
    - **DEK56** exhibited an irregular mitochondrion with a collapsed inner structure.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [DEFECTIVE KERNEL 56 functions in mitochondrial RNA editing and maize seed development.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad598/7416742?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad598](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad598/7416742?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37956067](https://pubmed.ncbi.nlm.nih.gov/37956067/)
@@ -33,7 +33,7 @@ tags: [ development,seed,mitochondria,embryo,endosperm,seed development,endosper
 - **NCBI ID:** [LOC103653970](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103653970)
 - **UniProt accessions:** [A0A3L6F8E1](https://www.uniprot.org/uniprotkb/A0A3L6F8E1/entry)&nbsp;,&nbsp;[A0A3L6F8H0](https://www.uniprot.org/uniprotkb/A0A3L6F8H0/entry)&nbsp;,&nbsp;[K7U3H6](https://www.uniprot.org/uniprotkb/K7U3H6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

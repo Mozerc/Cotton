@@ -21,7 +21,7 @@ tags: [ growth,stress,defense,inflorescence,dwarf,branching,plasma membrane ]
    - **Lgn** encodes a plasma membrane-localized RLK.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
    - [Liguleless narrow and narrow odd dwarf act in overlapping pathways to regulate maize development and metabolism.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15988](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36164819](https://pubmed.ncbi.nlm.nih.gov/36164819/)
@@ -34,7 +34,7 @@ tags: [ growth,stress,defense,inflorescence,dwarf,branching,plasma membrane ]
 - **NCBI ID:** [LOC100191721](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191721)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

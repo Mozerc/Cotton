@@ -19,7 +19,7 @@ tags: [ fluorescence visualization ]
    - Fluorescence visualization for GFP and anthocyanin biosynthesis for ZmBz1, **ZmBz2**, ZmC1 and ZmR2 in developing kernels.
 
 ## Function-related keywords:
-[fluorescence-visualization](/tags/fluorescence-visualization/)
+- [fluorescence-visualization](/tags/fluorescence-visualization/)
 
 ## Literature:
    - [Engineering of &#x27;Purple Embryo Maize&#x27; with a multigene expression system derived from a bidirectional promoter and self-cleaving 2A peptides.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12883](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29337409](https://pubmed.ncbi.nlm.nih.gov/29337409/)
@@ -31,7 +31,7 @@ tags: [ fluorescence visualization ]
 - **NCBI ID:**  [LOC100502255](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502255)
 - **UniProt accessions:** [Q5GAR4](https://www.uniprot.org/uniprotkb/Q5GAR4/entry)&nbsp;,&nbsp;[Q5GAV2](https://www.uniprot.org/uniprotkb/Q5GAV2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ resistance,lodging,lodging resistance,copper,lignin,lignin biosynthesis 
    - We further demonstrate that ZmLACCASE3 (ZmLAC3) and ZmLACCASE5 (**ZmLAC5**), which encode the copper-containing laccases, are the targets of ZmmiR528.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)&nbsp;,&nbsp;[copper](/tags/copper/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)&nbsp;,&nbsp;[copper](/tags/copper/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/)
 
 ## Literature:
    - [MicroRNA528 Affects Lodging Resistance of Maize by Regulating Lignin Biosynthesis under Nitrogen-Luxury Conditions.]( https://www.sciencedirect.com/science/article/pii/S167420521830100X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2018.03.013](https://www.sciencedirect.com/science/article/pii/S167420521830100X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29597009](https://pubmed.ncbi.nlm.nih.gov/29597009/)
@@ -31,7 +31,7 @@ tags: [ resistance,lodging,lodging resistance,copper,lignin,lignin biosynthesis 
 - **NCBI ID:**  [LOC732847](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732847)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

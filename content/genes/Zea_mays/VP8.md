@@ -21,7 +21,7 @@ tags: [ leaf,stem ]
    - **VP8** is located in ER and the N terminus plays an important role in its localization and function.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)
 
 ## Literature:
    - [The maize d2003, a novel allele of VP8, is required for maize internode elongation.]( https://link.springer.com/article/10.1007/s11103-013-0129-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-013-0129-x](https://link.springer.com/article/10.1007/s11103-013-0129-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24214124](https://pubmed.ncbi.nlm.nih.gov/24214124/)
@@ -34,7 +34,7 @@ tags: [ leaf,stem ]
 - **NCBI ID:** [LOC100147738](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100147738)
 - **UniProt accessions:** [A0A317Y340](https://www.uniprot.org/uniprotkb/A0A317Y340/entry)&nbsp;,&nbsp;[A0A1D6L709](https://www.uniprot.org/uniprotkb/A0A1D6L709/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

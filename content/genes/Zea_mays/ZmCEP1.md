@@ -19,7 +19,7 @@ tags: [ nitrogen,root,growth,development,auxin,plant development,seed,root devel
    - Transcriptome analysis revealed that knock-out of **ZmCEP1** up-regulated a subset of genes involved in nitrogen metabolism, nitrate transport, sugar transport and auxin response. Thus, these results provide new insights into the genetic and molecular function of **ZmCEP1** in regulating kernel development and plant growth, providing novel opportunities for maize breeding.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[seed-length](/tags/seed-length/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[seed-length](/tags/seed-length/)
 
 ## Literature:
    - [A C-terminal encoded peptide, ZmCEP1, is essential for kernel development in maize.]( https://academic.oup.com/jxb/article/72/15/5390/6295359?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab224](https://academic.oup.com/jxb/article/72/15/5390/6295359?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34104938](https://pubmed.ncbi.nlm.nih.gov/34104938/)
@@ -31,7 +31,7 @@ tags: [ nitrogen,root,growth,development,auxin,plant development,seed,root devel
 - **NCBI ID:** [LOC100278083](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100278083)
 - **UniProt accessions:** [A0A1D6KLB6](https://www.uniprot.org/uniprotkb/A0A1D6KLB6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

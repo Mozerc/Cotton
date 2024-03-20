@@ -18,7 +18,7 @@ tags: [ leaf,drought,leaf angle,drought response ]
    - **ZmNAC84** is a gene in response to drought and other osmotic stresses.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
@@ -30,7 +30,7 @@ tags: [ leaf,drought,leaf angle,drought response ]
 - **NCBI ID:** [100285940](https://www.ncbi.nlm.nih.gov/gene/?term=100285940)
 - **UniProt accessions:** [C0PJY2](https://www.uniprot.org/uniprotkb/C0PJY2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

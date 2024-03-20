@@ -19,7 +19,7 @@ tags: [ kinase,pathogen,jasmonic,jasmonic acid,protein kinase,receptor kinase ]
    - **Rlk10** loss-of-function mutants displayed enhanced susceptibility to the necrotrophic fungal pathogen Cochliobolus heterostrophus and reduced accumulation of jasmonic acid and the anti-microbial phytoalexins -kauralexins and zealexins - in infected tissues.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)
 
 ## Literature:
    - [Identification of southern corn rust resistance QTNs in Chinese summer maize germplasm via multi-locus GWAS and post-GWAS analysis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552154/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1221395](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552154/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37810381](https://pubmed.ncbi.nlm.nih.gov/37810381/)
@@ -30,7 +30,7 @@ tags: [ kinase,pathogen,jasmonic,jasmonic acid,protein kinase,receptor kinase ]
 - **NCBI ID:**  [LOC103630640](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103630640)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

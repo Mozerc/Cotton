@@ -22,7 +22,7 @@ tags: [ nitrogen,development,grain,drought,stress,drought stress,flowering ]
    - Evaluated in the field over locations and years, transgenic hybrids overexpressing **ZmLOX6** in the mesophyll cells significantly outyielded nontransgenic sibs under managed drought stress imposed at flowering.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A vegetative storage protein improves drought tolerance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13720)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13720](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13720)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34614273](https://pubmed.ncbi.nlm.nih.gov/34614273/)
@@ -37,7 +37,7 @@ tags: [ nitrogen,development,grain,drought,stress,drought stress,flowering ]
 - **NCBI ID:** [100037805](https://www.ncbi.nlm.nih.gov/gene/?term=100037805)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

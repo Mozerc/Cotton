@@ -19,7 +19,7 @@ tags: [ temperature,drought,stress,drought stress,breeding,resistant ]
    - These results provide a molecular basis for drought-resistant breeding.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+- [temperature](/tags/temperature/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
    - [Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1159955](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37265635](https://pubmed.ncbi.nlm.nih.gov/37265635/)
@@ -30,7 +30,7 @@ tags: [ temperature,drought,stress,drought stress,breeding,resistant ]
 - **NCBI ID:**  [103648324](https://www.ncbi.nlm.nih.gov/gene/?term=103648324)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

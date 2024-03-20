@@ -19,7 +19,7 @@ tags: [ development,seed,embryo,seed development,embryo development ]
    - **Ig3** mutant embryo sacs often have abnormal antipodal cell clusters. The antipodal cells can be fewer in number or absent.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [Control of cellularization, nuclear localization, and antipodal cell cluster development in maize embryo sacs.]( https://academic.oup.com/genetics/article-abstract/225/2/iyad101/7180095?redirectedFrom=fulltext&login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/genetics/iyad101](https://academic.oup.com/genetics/article-abstract/225/2/iyad101/7180095?redirectedFrom=fulltext&login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37232380](https://pubmed.ncbi.nlm.nih.gov/37232380/)
@@ -30,7 +30,7 @@ tags: [ development,seed,embryo,seed development,embryo development ]
 - **NCBI ID:**  [LOC118471926](https://www.ncbi.nlm.nih.gov/gene/?term=LOC118471926)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

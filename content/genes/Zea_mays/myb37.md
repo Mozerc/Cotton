@@ -18,7 +18,7 @@ tags: [ sheath ]
    - GRMZM2G455869, also known as **MYB37**, regulates the elongation of bundle sheath cells in maize.
 
 ## Function-related keywords:
-[sheath](/tags/sheath/)
+- [sheath](/tags/sheath/)
 
 ## Literature:
    - [Unoccupied aerial systems discovered overlooked loci capturing the variation of entire growing period in maize.]( https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20102)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/tpg2.20102](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20102)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34009740](https://pubmed.ncbi.nlm.nih.gov/34009740/)
@@ -29,7 +29,7 @@ tags: [ sheath ]
 - **NCBI ID:**  [LOC103625936](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103625936)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -18,7 +18,7 @@ tags: [ leaf,chloroplast,nucleus,cell death,sucrose ]
    - Disruption of chloroplast-to-nucleus signaling in **Sxd1** mutants likely has pleiotropic effects on the developing leaf, resulting in the sealing of BS-VP plasmodesmata and subsequent VP cell death.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
    - [Sucrose export defective1 encodes a novel protein implicated in chloroplast-to-nucleus signaling.]( https://academic.oup.com/plcell/article/13/5/1127/6009475?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.13.5.1127](https://academic.oup.com/plcell/article/13/5/1127/6009475?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[11340186](https://pubmed.ncbi.nlm.nih.gov/11340186/)
@@ -29,7 +29,7 @@ tags: [ leaf,chloroplast,nucleus,cell death,sucrose ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

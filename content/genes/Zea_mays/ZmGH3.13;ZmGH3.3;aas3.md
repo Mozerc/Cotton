@@ -18,7 +18,7 @@ tags: [ auxin ]
    - **ZmGH3.13** is a indole-3-acetic acid-amido synthetase gene.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)
+- [auxin](/tags/auxin/)
 
 ## Literature:
    - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
@@ -29,7 +29,7 @@ tags: [ auxin ]
 - **NCBI ID:**  [LOC103648032](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103648032)
 - **UniProt accessions:** [A0A1D6F605](https://www.uniprot.org/uniprotkb/A0A1D6F605/entry)&nbsp;,&nbsp;[A0A3L6G3G6](https://www.uniprot.org/uniprotkb/A0A3L6G3G6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

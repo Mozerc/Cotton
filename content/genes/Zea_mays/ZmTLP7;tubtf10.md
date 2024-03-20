@@ -18,7 +18,7 @@ tags: [  ]
    - Two ZmTLP sequences (**ZmTLP7** and ZmTLP11) have two well-conserved TLP domains at their C-termini. 
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Genome-wide identification and comprehensive analysis of tubby-like protein gene family in multiple crops.]( https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1093944](https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36589128](https://pubmed.ncbi.nlm.nih.gov/36589128/)
@@ -29,7 +29,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC103630411](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103630411)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

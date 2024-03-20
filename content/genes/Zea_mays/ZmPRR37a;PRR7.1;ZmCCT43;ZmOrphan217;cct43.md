@@ -19,7 +19,7 @@ tags: [ heading date,flowering ]
    - **ZmPRR37a** is a ortholog of rice heading date repressor OsPRR37.
 
 ## Function-related keywords:
-[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [heading-date](/tags/heading-date/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://academic.oup.com/plcell/article/35/1/369/6730753?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://academic.oup.com/plcell/article/35/1/369/6730753?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
@@ -32,7 +32,7 @@ tags: [ heading date,flowering ]
 - **NCBI ID:** [LOC103633607](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103633607)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

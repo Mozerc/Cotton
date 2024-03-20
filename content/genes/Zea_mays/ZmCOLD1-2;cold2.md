@@ -19,7 +19,7 @@ tags: [ stem,root,shoot,meristem,root apical meristem,shoot apical meristem,prim
    - **ZmCOLD1-2** only expressed in primary root, stem and shoot apical meristem, and inner most husk.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[root-apical-meristem](/tags/root-apical-meristem/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
+- [stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[root-apical-meristem](/tags/root-apical-meristem/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
 
 ## Literature:
    - [Characterization of ZmCOLD1, novel GPCR-Type G Protein genes involved in cold stress from Zea mays L. and the evolution analysis with those from other species.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7981359/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s12298-021-00966-8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7981359/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33854288](https://pubmed.ncbi.nlm.nih.gov/33854288/)
@@ -30,7 +30,7 @@ tags: [ stem,root,shoot,meristem,root apical meristem,shoot apical meristem,prim
 - **NCBI ID:**  [103645985](https://www.ncbi.nlm.nih.gov/gene/?term=103645985)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

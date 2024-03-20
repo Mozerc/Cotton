@@ -21,7 +21,7 @@ tags: [ leaf,sheath,cytokinin,leaf patterning ]
    - The **Hsf1** mutation induces specific alterations to maize leaf patterning.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)
 
 ## Literature:
    - [The Maize Hairy Sheath Frayed1 (Hsf1) Mutation Alters Leaf Patterning through Increased Cytokinin Signaling.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203929/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00677](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203929/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32205456](https://pubmed.ncbi.nlm.nih.gov/32205456/)
@@ -33,7 +33,7 @@ tags: [ leaf,sheath,cytokinin,leaf patterning ]
 - **NCBI ID:** [541634](https://www.ncbi.nlm.nih.gov/gene/?term=541634)
 - **UniProt accessions:** [C0PF17](https://www.uniprot.org/uniprotkb/C0PF17/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ development,floral,inflorescence,sterile,inflorescence development ]
    - In Si3 tassel spikelets, the expression level of **Si1** was significantly decreased relative to the wild type, but there was no change in its expression domains.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [Ectopic Expression of the Transcriptional Regulator silky3 Causes Pleiotropic Meristem and Sex Determination Defects in Maize Inflorescences.]( https://academic.oup.com/plcell/article/32/12/3750/6118609)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00043](https://academic.oup.com/plcell/article/32/12/3750/6118609)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32989171](https://pubmed.ncbi.nlm.nih.gov/32989171/)
@@ -32,7 +32,7 @@ tags: [ development,floral,inflorescence,sterile,inflorescence development ]
 - **NCBI ID:** [541799](https://www.ncbi.nlm.nih.gov/gene/?term=541799)
 - **UniProt accessions:** [Q9M6N9](https://www.uniprot.org/uniprotkb/Q9M6N9/entry)&nbsp;,&nbsp;[A0A1D6LN33](https://www.uniprot.org/uniprotkb/A0A1D6LN33/entry)&nbsp;,&nbsp;[A0A1D6LN35](https://www.uniprot.org/uniprotkb/A0A1D6LN35/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

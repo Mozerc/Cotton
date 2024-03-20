@@ -20,7 +20,7 @@ tags: [ leaf,floral,floral organ,homeobox gene ]
    - Ectopic KNOX protein accumulation in **RS2** mutants occurs in a subset of the normal **RS2**-expressing cells.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)
 
 ## Literature:
    - [ROUGH SHEATH2: a Myb protein that represses knox homeobox genes in maize lateral organ primordia.]( https://www.science.org/doi/10.1126/science.284.5411.151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.284.5411.151](https://www.science.org/doi/10.1126/science.284.5411.151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10102816](https://pubmed.ncbi.nlm.nih.gov/10102816/)
@@ -33,7 +33,7 @@ tags: [ leaf,floral,floral organ,homeobox gene ]
 - **NCBI ID:** [LOC542488](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542488)
 - **UniProt accessions:** [A0A1R3LYQ0](https://www.uniprot.org/uniprotkb/A0A1R3LYQ0/entry)&nbsp;,&nbsp;[A0A317YB85](https://www.uniprot.org/uniprotkb/A0A317YB85/entry)&nbsp;,&nbsp;[Q9S7B2](https://www.uniprot.org/uniprotkb/Q9S7B2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

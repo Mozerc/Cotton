@@ -20,7 +20,7 @@ tags: [  ]
    - **Stiff1** mutants have strong stalks.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [A Large Transposon Insertion in the stiff1 Promoter Increases Stalk Strength in Maize.]( https://academic.oup.com/plcell/article/32/1/152/6099189?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00486](https://academic.oup.com/plcell/article/32/1/152/6099189?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31690654](https://pubmed.ncbi.nlm.nih.gov/31690654/)
@@ -33,7 +33,7 @@ tags: [  ]
 - **NCBI ID:** [Zm00001eb274390](https://www.ncbi.nlm.nih.gov/gene/?term=Zm00001eb274390)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

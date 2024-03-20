@@ -19,7 +19,7 @@ tags: [ growth,development,stress,abiotic stress,signal transduction ]
    - Activation and Expression of ZmCDPKs under Abiotic Stress.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)
 
 ## Literature:
    - [The Roles of CDPKs as a Convergence Point of Different Signaling Pathways in Maize Adaptation to Abiotic Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9917105/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032325](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9917105/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768648](https://pubmed.ncbi.nlm.nih.gov/36768648/)
@@ -30,7 +30,7 @@ tags: [ growth,development,stress,abiotic stress,signal transduction ]
 - **NCBI ID:**  [LOC100191755](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191755)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

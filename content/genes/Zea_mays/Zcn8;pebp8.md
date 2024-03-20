@@ -20,7 +20,7 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
    - Our dual-luciferase assays further revealed that the signals of Gt1 and D14 were repressed again when the effectors **Zcn8** and Tb1 were co-introduced in comparison to when only the effector **Zcn8** was introduced. These results suggested that **Zcn8**, encoding a PEBP kinase, might repress the downstream genes Gt1 and D14 via the key transcription factor Tb1.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)
 
 ## Literature:
    - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
@@ -32,7 +32,7 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
 - **NCBI ID:** [LOC100127519](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127519)
 - **UniProt accessions:** [A9LLY2](https://www.uniprot.org/uniprotkb/A9LLY2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

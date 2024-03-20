@@ -19,7 +19,7 @@ tags: [ lignin ]
    - ZmCCR1 and **ZmCCR2** both contain a common signature which is thought to be involved in the catalytic site of CCR.
 
 ## Function-related keywords:
-[lignin](/tags/lignin/)
+- [lignin](/tags/lignin/)
 
 ## Literature:
    - [Cloning and characterization of two maize cDNAs encoding cinnamoyl-CoA reductase (CCR) and differential expression of the corresponding genes.]( https://link.springer.com/article/10.1023/A:1006060101866)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1023/a:1006060101866](https://link.springer.com/article/10.1023/A:1006060101866)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9747812](https://pubmed.ncbi.nlm.nih.gov/9747812/)
@@ -30,7 +30,7 @@ tags: [ lignin ]
 - **NCBI ID:**  [LOC542735](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542735)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

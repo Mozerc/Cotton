@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress ]
    - Natural variation in **ZmEXPA4** is associated with ASI under drought stress.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)
 
 ## Literature:
    - [Manipulating ZmEXPA4 expression ameliorates the drought-induced prolonged anthesis and silking interval in maize.]( https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab083](https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33730156](https://pubmed.ncbi.nlm.nih.gov/33730156/)
@@ -34,7 +34,7 @@ tags: [ drought,stress,drought stress ]
 - **NCBI ID:** [107325939](https://www.ncbi.nlm.nih.gov/gene/?term=107325939)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

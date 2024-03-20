@@ -19,7 +19,7 @@ tags: [ transcription factor,development,fertility,pollen,anther,sterility,polle
    - Loss of function of **ZmMs25** significantly affected the expression of its four paralogous genes and five cloned lipid metabolic male-sterility genes in maize. These data suggest that **ZmMs25** is required for anther development and male fertility, indicating its application potential in maize and other crops.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[plastid](/tags/plastid/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[plastid](/tags/plastid/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
 
 ## Literature:
    - [ZmMs25 encoding a plastid-localized fatty acyl reductase is critical for anther and pollen development in maize.]( https://academic.oup.com/jxb/article/72/12/4298/6208413)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab142](https://academic.oup.com/jxb/article/72/12/4298/6208413)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33822021](https://pubmed.ncbi.nlm.nih.gov/33822021/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,development,fertility,pollen,anther,sterility,polle
 - **NCBI ID:** [LOC103639542](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103639542)
 - **UniProt accessions:** [A0A1D6PJD1](https://www.uniprot.org/uniprotkb/A0A1D6PJD1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

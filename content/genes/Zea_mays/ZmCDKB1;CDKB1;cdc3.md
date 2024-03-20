@@ -20,7 +20,7 @@ tags: [ kinase,cell cycle ]
    - **CDKB1** does not require CDK-activating kinase (CAK) for its activation, since it autophosphorylated in its activation loop.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)
 
 ## Literature:
    - [Maize CDKA2;1a and CDKB1;1 kinases have different requirements for their activation and participate in substrate recognition.]( https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16659)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/febs.16659](https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16659)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36259272](https://pubmed.ncbi.nlm.nih.gov/36259272/)
@@ -31,7 +31,7 @@ tags: [ kinase,cell cycle ]
 - **NCBI ID:**  [LOC100273633](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273633)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

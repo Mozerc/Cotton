@@ -19,7 +19,7 @@ tags: [ seedlings,stress,aba,chilling,chilling stress ]
    - **ZmGA2ox4** and ZmGA2ox5 exhibit an upward trend with increasing dose of microencapsulated tebuconazole.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-stress](/tags/chilling-stress/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-stress](/tags/chilling-stress/)
 
 ## Literature:
    - [Hormonal and enzymatic responses of maize seedlings to chilling stress as affected by triazoles seed treatments.]( https://www.sciencedirect.com/science/article/pii/S0981942820300176)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2020.01.017](https://www.sciencedirect.com/science/article/pii/S0981942820300176)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31978750](https://pubmed.ncbi.nlm.nih.gov/31978750/)
@@ -30,7 +30,7 @@ tags: [ seedlings,stress,aba,chilling,chilling stress ]
 - **NCBI ID:** [LOC103627438](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627438)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

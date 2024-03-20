@@ -20,7 +20,7 @@ tags: [ development,endosperm,endosperm development ]
    - Three key transcription factors, NAKED ENDOSPERM1 (NKD1), NKD2, and **Opaque2** (O2), play important roles in maize endosperm cellular development and storage material accumulation.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [A Subsidiary Cell-Localized Glucose Transporter Promotes Stomatal Conductance and Photosynthesis.]( https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00736](https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30996077](https://pubmed.ncbi.nlm.nih.gov/30996077/)
@@ -32,7 +32,7 @@ tags: [ development,endosperm,endosperm development ]
 - **NCBI ID:** [LOC542375](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542375)
 - **UniProt accessions:** [P12959](https://www.uniprot.org/uniprotkb/P12959/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

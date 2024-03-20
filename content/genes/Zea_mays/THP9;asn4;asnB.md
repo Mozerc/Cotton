@@ -21,7 +21,7 @@ tags: [ nitrogen,seed,map-based cloning,yield ]
    - **THP9** encodes an asparagine synthetase.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[yield](/tags/yield/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[yield](/tags/yield/)
 
 ## Literature:
    - [THP9 enhances seed protein content and nitrogen-use efficiency in maize.]( https://www.nature.com/articles/s41586-022-05441-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41586-022-05441-2](https://www.nature.com/articles/s41586-022-05441-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36385527](https://pubmed.ncbi.nlm.nih.gov/36385527/)
@@ -34,7 +34,7 @@ tags: [ nitrogen,seed,map-based cloning,yield ]
 - **NCBI ID:** [LOC100192351](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192351)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

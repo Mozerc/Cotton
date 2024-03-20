@@ -21,7 +21,7 @@ tags: [ pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax bios
    - The ZmMYB84-**ZmPKSB** regulatory module controlled a trade-off between anther cuticle and pollen exine formation by altering expression of a series of genes related to biosynthesis and transport of sporopollenin, cutin and wax.
 
 ## Function-related keywords:
-[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
+- [pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
 
 ## Literature:
    - [The ZmMYB84-ZmPKSB regulatory module controls male fertility through modulating anther cuticle-pollen exine trade-off in maize anthers.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13911](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070225](https://pubmed.ncbi.nlm.nih.gov/36070225/)
@@ -35,7 +35,7 @@ tags: [ pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax bios
 - **NCBI ID:** [100283134](https://www.ncbi.nlm.nih.gov/gene/?term=100283134)
 - **UniProt accessions:** [B4G105](https://www.uniprot.org/uniprotkb/B4G105/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

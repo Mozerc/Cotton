@@ -19,7 +19,7 @@ tags: [ nitrogen,leaf,nitrate ]
    - **ZmNPF6.8** gene is responsible for leaf nitrogen remobilization.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
    - [Genome-Wide Identification and Functional Analysis of Nitrate Transporter Genes (NPF, NRT2 and NRT3) in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241612941](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37629121](https://pubmed.ncbi.nlm.nih.gov/37629121/)
@@ -30,7 +30,7 @@ tags: [ nitrogen,leaf,nitrate ]
 - **NCBI ID:**  [LOC100281564](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281564)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

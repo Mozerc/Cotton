@@ -19,7 +19,7 @@ tags: [ drought,stress,drought stress,oxidative stress,tolerance,oxidative,droug
    - The DEGs of ZmBES1/**BZR1-3** gene’s expressing lines were mainly associated with oxidative stress response and amino acid metabolic process and enriched in phenylpropanoid biosynthesis and protein processing in the endoplasmic reticulum.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[endoplasmic-reticulum-stress-response](/tags/endoplasmic-reticulum-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)&nbsp;,&nbsp;[reticulum-stress-response](/tags/reticulum-stress-response/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[endoplasmic-reticulum-stress-response](/tags/endoplasmic-reticulum-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)&nbsp;,&nbsp;[reticulum-stress-response](/tags/reticulum-stress-response/)
 
 ## Literature:
    - [Maize ZmBES1/BZR1-3 and -9 Transcription Factors Negatively Regulate Drought Tolerance in Transgenic Arabidopsis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181540/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23116025](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181540/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35682705](https://pubmed.ncbi.nlm.nih.gov/35682705/)
@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,oxidative stress,tolerance,oxidative,droug
 - **NCBI ID:**  [103654774](https://www.ncbi.nlm.nih.gov/gene/?term=103654774)
 - **UniProt accessions:** [A0A2D0Z8S9](https://www.uniprot.org/uniprotkb/A0A2D0Z8S9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

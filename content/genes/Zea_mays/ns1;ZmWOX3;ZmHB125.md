@@ -21,7 +21,7 @@ tags: [ seedlings,shoot,sheath,vegetative,homeobox gene ]
    - Mutations in **NS1** and ns2 together confer the deletion of a lateral domain in maize leaves that extends from the midpoint of the distal blade and includes the entire length of the proximal sheath.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)
 
 ## Literature:
    - [The maize duplicate genes narrow sheath1 and narrow sheath2 encode a conserved homeobox gene function in a lateral domain of shoot apical meristems.]( https://journals.biologists.com/dev/article/131/12/2827/42216/The-maize-duplicate-genes-narrow-sheath1-and)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.01164](https://journals.biologists.com/dev/article/131/12/2827/42216/The-maize-duplicate-genes-narrow-sheath1-and)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[15169755](https://pubmed.ncbi.nlm.nih.gov/15169755/)
@@ -33,7 +33,7 @@ tags: [ seedlings,shoot,sheath,vegetative,homeobox gene ]
 - **NCBI ID:** [LOC542051](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542051)
 - **UniProt accessions:** [Q70UV1](https://www.uniprot.org/uniprotkb/Q70UV1/entry)&nbsp;,&nbsp;[Q6S3I3](https://www.uniprot.org/uniprotkb/Q6S3I3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

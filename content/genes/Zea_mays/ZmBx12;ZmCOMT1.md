@@ -19,7 +19,7 @@ tags: [ drought,tolerance,drought tolerance ]
    - We further verified two hub candidate genes,**ZmBx12** and ZmGLK44, for their role in regulating benzoxazinoids and tryptophan biosynthesis as well as maize drought tolerance via comprehensive genetic and molecular methods. Our results provide novel insights into the genetic bases of metabolome-mediated drought adaptation in a crop.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
    - [Genomic basis underlying the metabolome-mediated drought adaptation of maize.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-021-02481-1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34488839](https://pubmed.ncbi.nlm.nih.gov/34488839/)
@@ -31,7 +31,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [LOC103635831](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635831)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ development,shoot,plant development,inflorescence,inflorescence developm
    - **THI1** in flowers and leaves but not in roots.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [The Thiamine Biosynthesis Gene THI1 Promotes Nodule Growth and Seed Maturation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.01254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27702844](https://pubmed.ncbi.nlm.nih.gov/27702844/)
@@ -32,7 +32,7 @@ tags: [ development,shoot,plant development,inflorescence,inflorescence developm
 - **NCBI ID:** [LOC542714](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542714)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

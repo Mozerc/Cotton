@@ -20,7 +20,7 @@ tags: [ seed,aba ]
    - Maize VIVIPAROUS1 Interacts with ABA INSENSITIVE5 to Regulate GALACTINOL SYNTHASE2 Expression Controlling Seed Raffinose Accumulation.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[aba](/tags/aba/)
+- [seed](/tags/seed/)&nbsp;,&nbsp;[aba](/tags/aba/)
 
 ## Literature:
    - [Maize VIVIPAROUS1 Interacts with ABA INSENSITIVE5 to Regulate GALACTINOL SYNTHASE2 Expression Controlling Seed Raffinose Accumulation.]( https://pubs.acs.org/doi/10.1021/acs.jafc.9b00322)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1021/acs.jafc.9b00322](https://pubs.acs.org/doi/10.1021/acs.jafc.9b00322)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30915847](https://pubmed.ncbi.nlm.nih.gov/30915847/)
@@ -32,7 +32,7 @@ tags: [ seed,aba ]
 - **NCBI ID:**  [LOC100285149](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285149)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

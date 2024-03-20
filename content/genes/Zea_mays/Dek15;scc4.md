@@ -22,7 +22,7 @@ tags: [ development,embryo,endosperm,cell cycle,endosperm development,embryo dev
    - **Dek15** collapsed floury endosperm; lethal; cultured embryos green.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [A Systemic Investigation of Genetic Architecture and Gene Resources Controlling Kernel Size-Related Traits in Maize.]( https://academic.oup.com/plcell/article/31/2/465/5985441)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021025](https://academic.oup.com/plcell/article/31/2/465/5985441)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36674545](https://pubmed.ncbi.nlm.nih.gov/36674545/)
@@ -33,7 +33,7 @@ tags: [ development,embryo,endosperm,cell cycle,endosperm development,embryo dev
 - **NCBI ID:** [LOC100192084](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192084)
 - **UniProt accessions:** [A0A1D6QE72](https://www.uniprot.org/uniprotkb/A0A1D6QE72/entry)&nbsp;,&nbsp;[A0A1D6QE77](https://www.uniprot.org/uniprotkb/A0A1D6QE77/entry)&nbsp;,&nbsp;[A0A1D6QE82](https://www.uniprot.org/uniprotkb/A0A1D6QE82/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

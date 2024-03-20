@@ -22,7 +22,7 @@ tags: [ development,pollen,map-based cloning,pollen development,plasma membrane 
    - **ZmDMP** was highly expressed during the late stage of pollen development and localized to the plasma membrane.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
+- [development](/tags/development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
    - [Mutation of ZmDMP enhances haploid induction in maize.]( https://www.nature.com/articles/s41477-019-0443-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0443-7](https://www.nature.com/articles/s41477-019-0443-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31182848](https://pubmed.ncbi.nlm.nih.gov/31182848/)
@@ -34,7 +34,7 @@ tags: [ development,pollen,map-based cloning,pollen development,plasma membrane 
 - **NCBI ID:** [100277972](https://www.ncbi.nlm.nih.gov/gene/?term=100277972)
 - **UniProt accessions:** [K7VCZ4](https://www.uniprot.org/uniprotkb/K7VCZ4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

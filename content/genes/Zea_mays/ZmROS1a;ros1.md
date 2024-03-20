@@ -19,7 +19,7 @@ tags: [ transcription factor,fertility,endosperm,height ]
    - In the homozygous mutant, expression of both the **ZmROS1a** and ZmROS1b gene was significantly reduced. Phenotypic analysis revealed that the double mutant had reduced height and flowered later than the wild-type. The double mutant is viable and produces ears with normal to slightly reduced fertility. Overall, the phenotype of the single mutants is relatively subtle compared to double mutant, suggesting functional redundancy of these two genes.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[height](/tags/height/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[height](/tags/height/)
 
 ## Literature:
    - [DNA demethylation affects imprinted gene expression in maize endosperm.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-022-02641-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35264226](https://pubmed.ncbi.nlm.nih.gov/35264226/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,fertility,endosperm,height ]
 - **NCBI ID:** [LOC103630409](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103630409)
 - **UniProt accessions:** [A0A1D6M565](https://www.uniprot.org/uniprotkb/A0A1D6M565/entry)&nbsp;,&nbsp;[A0A1D6M566](https://www.uniprot.org/uniprotkb/A0A1D6M566/entry)&nbsp;,&nbsp;[A0A1D6M567](https://www.uniprot.org/uniprotkb/A0A1D6M567/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

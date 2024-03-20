@@ -20,7 +20,7 @@ tags: [ resistance,seedling,ga,lodging,lodging resistance,height,plant height ]
    - The **ZmCRY1b** transgene can significantly reduce maize plant height under different light conditions in the field.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
    - [Cryptochrome 1b represses gibberellin signaling to enhance lodging resistance in maize.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad546/7338758?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad546](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad546/7338758?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37934825](https://pubmed.ncbi.nlm.nih.gov/37934825/)
@@ -32,7 +32,7 @@ tags: [ resistance,seedling,ga,lodging,lodging resistance,height,plant height ]
 - **NCBI ID:** [LOC100194126](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100194126)
 - **UniProt accessions:** [B8A2L5](https://www.uniprot.org/uniprotkb/B8A2L5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

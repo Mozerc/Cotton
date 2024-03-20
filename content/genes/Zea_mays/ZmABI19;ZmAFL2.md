@@ -21,7 +21,7 @@ tags: [ development,grain,plant development,seed,starch,grain filling,embryo,end
    - **ZmABI19** directly regulates multiple key grain filling TFs including O2, Prolamine-box binding factor 1, ZmbZIP22, NAC130, and Opaque11 in the endosperm and Viviparous1 in the embryo.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [The B3 domain-containing transcription factor ZmABI19 coordinates expression of key factors required for maize seed development and grain filling.]( https://academic.oup.com/plcell/article/33/1/104/5998674?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koaa008](https://academic.oup.com/plcell/article/33/1/104/5998674?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33751093](https://pubmed.ncbi.nlm.nih.gov/33751093/)
@@ -35,7 +35,7 @@ tags: [ development,grain,plant development,seed,starch,grain filling,embryo,end
 - **NCBI ID:** [103636228](https://www.ncbi.nlm.nih.gov/gene/?term=103636228)
 - **UniProt accessions:** [A0A1D6G382](https://www.uniprot.org/uniprotkb/A0A1D6G382/entry)&nbsp;,&nbsp;[A0A1D6G382](https://www.uniprot.org/uniprotkb/A0A1D6G382/entry)&nbsp;,&nbsp;[A0A1D6G384](https://www.uniprot.org/uniprotkb/A0A1D6G384/entry)&nbsp;,&nbsp;[A0A1D6G385](https://www.uniprot.org/uniprotkb/A0A1D6G385/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

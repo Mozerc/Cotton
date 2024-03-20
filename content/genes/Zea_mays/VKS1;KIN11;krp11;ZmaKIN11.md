@@ -22,7 +22,7 @@ tags: [ development,yield,mitosis,endosperm,endosperm development ]
    - **VKS1** mutants exhibit a varied-kernel-size phenotype - segregated small seeds of varying sizes.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[mitosis](/tags/mitosis/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[mitosis](/tags/mitosis/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [Maize VKS1 Regulates Mitosis and Cytokinesis During Early Endosperm Development.]( https://academic.oup.com/plcell/article/31/6/1238/5985645?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00966](https://academic.oup.com/plcell/article/31/6/1238/5985645?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30962394](https://pubmed.ncbi.nlm.nih.gov/30962394/)
@@ -35,7 +35,7 @@ tags: [ development,yield,mitosis,endosperm,endosperm development ]
 - **NCBI ID:** [LOC541863](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541863)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ nitrogen,transporter,plasma membrane,phosphate,phosphorus,amino acid tra
    - **ZmAAP2** regulates in the maize ear under phosphate limitation.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)
 
 ## Literature:
    - [Cis-regulation of the amino acid transporter genes ZmAAP2 and ZmLHT1 by ZmPHR1 transcription factors in maize ear under phosphate limitation.]( https://academic.oup.com/jxb/article/72/10/3846/6157083?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab103](https://academic.oup.com/jxb/article/72/10/3846/6157083?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33765129](https://pubmed.ncbi.nlm.nih.gov/33765129/)
@@ -32,7 +32,7 @@ tags: [ nitrogen,transporter,plasma membrane,phosphate,phosphorus,amino acid tra
 - **NCBI ID:**  [LOC100383966](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383966)
 - **UniProt accessions:** [A0A1D6EH27](https://www.uniprot.org/uniprotkb/A0A1D6EH27/entry)&nbsp;,&nbsp;[A0A1D6MYN7](https://www.uniprot.org/uniprotkb/A0A1D6MYN7/entry)&nbsp;,&nbsp;[A0A3L6FZU9](https://www.uniprot.org/uniprotkb/A0A3L6FZU9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

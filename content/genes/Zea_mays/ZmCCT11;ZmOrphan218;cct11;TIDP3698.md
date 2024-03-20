@@ -17,7 +17,7 @@ tags: [  ]
    - Maize Mesocotyl Elongation Control Gene University **ZmCCT11**.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [New insights into light spectral quality inhibits the plasticity elongation of maize mesocotyl and coleoptile during seed germination.]( https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1152399](https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37008499](https://pubmed.ncbi.nlm.nih.gov/37008499/)
@@ -28,7 +28,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100272683](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272683)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

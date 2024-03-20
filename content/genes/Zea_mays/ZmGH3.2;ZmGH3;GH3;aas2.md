@@ -19,7 +19,7 @@ tags: [ auxin,seedling,iaa,embryo,protoplasts ]
    - **ZmGH3.2** encodes an auxin-responsive indole-3-acetic acid-amido synthetase (GH3).
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
+- [auxin](/tags/auxin/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
 
 ## Literature:
    - [ZmDREB2A regulates ZmGH3.2 and ZmRAFS, shifting metabolism towards seed aging tolerance over seedling growth.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14922)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14922](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14922)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32662115](https://pubmed.ncbi.nlm.nih.gov/32662115/)
@@ -30,7 +30,7 @@ tags: [ auxin,seedling,iaa,embryo,protoplasts ]
 - **NCBI ID:**  [LOC100280445](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280445)
 - **UniProt accessions:** [A0A1D6F072](https://www.uniprot.org/uniprotkb/A0A1D6F072/entry)&nbsp;,&nbsp;[A0A1D6F073](https://www.uniprot.org/uniprotkb/A0A1D6F073/entry)&nbsp;,&nbsp;[A0A1D6F074](https://www.uniprot.org/uniprotkb/A0A1D6F074/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

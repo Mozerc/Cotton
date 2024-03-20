@@ -22,7 +22,7 @@ tags: [ defense,insect,pest ]
    - **ZmTPS1** possible plant defense gene
 
 ## Function-related keywords:
-[defense](/tags/defense/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[pest](/tags/pest/)
+- [defense](/tags/defense/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[pest](/tags/pest/)
 
 ## Literature:
    - [Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and Its Wild Ancestor, Teosinte.]( https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00111](https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31227559](https://pubmed.ncbi.nlm.nih.gov/31227559/)
@@ -35,7 +35,7 @@ tags: [ defense,insect,pest ]
 - **NCBI ID:** [LOC541974](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541974)
 - **UniProt accessions:** [Q84ZW8](https://www.uniprot.org/uniprotkb/Q84ZW8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

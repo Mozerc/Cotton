@@ -19,7 +19,7 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
    - The mutation of **ZmSRL5** resulted in the disordered cuticular wax morphology and distribution, which caused increased cuticular permeability and sensitivity to drought.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[cuticular-wax-formation](/tags/cuticular-wax-formation/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[cuticular-wax-formation](/tags/cuticular-wax-formation/)
 
 ## Literature:
    - [ZmSRL5 is involved in drought tolerance by maintaining cuticular wax structure in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12982 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32965083](https://pubmed.ncbi.nlm.nih.gov/32965083/)
@@ -31,7 +31,7 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 - **NCBI ID:** [LOC100283808](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283808)
 - **UniProt accessions:** [A0A1D6JSF7](https://www.uniprot.org/uniprotkb/A0A1D6JSF7/entry)&nbsp;,&nbsp;[C0HIK3](https://www.uniprot.org/uniprotkb/C0HIK3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

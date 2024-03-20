@@ -21,7 +21,7 @@ tags: [ protoplasts ]
    - These data indicate that **ZmWRKY76** and ZmBT2 repress the expression of PLA cluster genes in maize protoplasts.
 
 ## Function-related keywords:
-[protoplasts](/tags/protoplasts/)
+- [protoplasts](/tags/protoplasts/)
 
 ## Literature:
    - [Maize transcription factor ZmNF-YC13 regulates plant architecture.]( https://academic.oup.com/jxb/article/72/13/4757/6217802?login=true#266701139)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab157](https://academic.oup.com/jxb/article/72/13/4757/6217802?login=true#266701139)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33831218](https://pubmed.ncbi.nlm.nih.gov/33831218/)
@@ -33,7 +33,7 @@ tags: [ protoplasts ]
 - **NCBI ID:** [LOC100147737](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100147737)
 - **UniProt accessions:** [B1Q040](https://www.uniprot.org/uniprotkb/B1Q040/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

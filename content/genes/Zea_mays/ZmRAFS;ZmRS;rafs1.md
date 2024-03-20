@@ -21,7 +21,7 @@ tags: [ leaf,drought,stress,drought stress,salinity,tolerance,cold tolerance,col
    - Overexpression of **ZmRAFS** in Arabidopsis enhanced galactinol hydrolysis rather than raffinose synthesis in leaves yet still enhanced drought stress tolerance.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
    - [Raffinose synthase enhances drought tolerance through raffinose synthesis or galactinol hydrolysis in maize and Arabidopsis plants.]( https://www.sciencedirect.com/science/article/pii/S0021925817494439?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1074/jbc.RA120.013948](https://www.sciencedirect.com/science/article/pii/S0021925817494439?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32366461](https://pubmed.ncbi.nlm.nih.gov/32366461/)
@@ -35,7 +35,7 @@ tags: [ leaf,drought,stress,drought stress,salinity,tolerance,cold tolerance,col
 - **NCBI ID:** [LOC100281190](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281190)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

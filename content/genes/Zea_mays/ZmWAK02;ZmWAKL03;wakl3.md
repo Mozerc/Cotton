@@ -27,7 +27,7 @@ tags: [ leaf,grain,resistance,grain yield,yield,breeding,endosperm,resistant,gra
    - ZmROS1ab is required for imprinted expression of genes in endosperm.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[demethylation](/tags/demethylation/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[demethylation](/tags/demethylation/)
 
 ## Literature:
    - [ZmWAK02 encoding an RD-WAK protein confers maize resistance against gray leaf spot.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19465)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19465](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19465)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38058244](https://pubmed.ncbi.nlm.nih.gov/38058244/)
@@ -41,7 +41,7 @@ tags: [ leaf,grain,resistance,grain yield,yield,breeding,endosperm,resistant,gra
 - **NCBI ID:** [103641603](https://www.ncbi.nlm.nih.gov/gene/?term=103641603)
 - **UniProt accessions:** [A0A1D6KIF0](https://www.uniprot.org/uniprotkb/A0A1D6KIF0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

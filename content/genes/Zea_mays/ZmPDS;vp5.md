@@ -18,7 +18,7 @@ tags: [ seedlings,chloroplast,development,endosperm,abscisic acid,chloroplast de
    - Abscisic acid and carotenoid deficient; white endosperm and white seedlings. Mutant affects subunit B of phytoene 11-12 desaturase; accumulates phytoene and is xanthophyll and abscisic acid deficient. Pale yellow kernels in some backgrounds appear to be due to unidentified flavonoid pigment.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
@@ -29,7 +29,7 @@ tags: [ seedlings,chloroplast,development,endosperm,abscisic acid,chloroplast de
 - **NCBI ID:**  [LOC542329](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542329)
 - **UniProt accessions:** [P49086](https://www.uniprot.org/uniprotkb/P49086/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

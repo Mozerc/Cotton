@@ -19,7 +19,7 @@ tags: [ leaf,growth,brassinosteroid,cell division,cell elongation ]
    - **ZmBRI1a** encodes a brassinosteroid receptor.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)
 
 ## Literature:
    - [RNA Interference Knockdown of BRASSINOSTEROID INSENSITIVE1 in Maize Reveals Novel Functions for Brassinosteroid Signaling in Controlling Plant Architecture.]( https://academic.oup.com/plphys/article/169/1/826/6114189?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.15.00367](https://academic.oup.com/plphys/article/169/1/826/6114189?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26162429](https://pubmed.ncbi.nlm.nih.gov/26162429/)
@@ -31,7 +31,7 @@ tags: [ leaf,growth,brassinosteroid,cell division,cell elongation ]
 - **NCBI ID:** [XM_008658585	LOC103636232](https://www.ncbi.nlm.nih.gov/gene/?term=XM_008658585	LOC103636232)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [  ]
    - As the conserved C-terminal region is required for CDK-inhibiting function16, **ZmICK8** is considered a pseudo member of the maize ICK/KRP family, similar to OsICK7. OsICK7 lacks the conserved C-terminal CDK- and cyclin-binding region but shares similarities with other rice ICK/KRP sequences in the N-terminal region8 and is also considered a pseudogene.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [103652776](https://www.ncbi.nlm.nih.gov/gene/?term=103652776)
 - **UniProt accessions:** [K7TYU4](https://www.uniprot.org/uniprotkb/K7TYU4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

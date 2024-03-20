@@ -22,7 +22,7 @@ tags: [ transcription factor,salt,tolerance,salt tolerance,transcription regulat
    - **ZmNF-YA8** activates transcription of the maize peroxidase 1 gene ZmPER1.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)
 
 ## Literature:
    - [miR169q and NUCLEAR FACTOR YA8 enhance salt tolerance by activating PEROXIDASE1 expression in response to ROS.]( https://academic.oup.com/plphys/article/188/1/608/6414207)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab498](https://academic.oup.com/plphys/article/188/1/608/6414207)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34718783](https://pubmed.ncbi.nlm.nih.gov/34718783/)
@@ -37,7 +37,7 @@ tags: [ transcription factor,salt,tolerance,salt tolerance,transcription regulat
 - **NCBI ID:** [LOC100280919](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280919)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

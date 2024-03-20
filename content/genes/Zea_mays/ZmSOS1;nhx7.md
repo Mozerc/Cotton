@@ -21,7 +21,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance,breeding ]
    - **ZmSOS1** is crucial for Na+ regulation and salt tolerance in maize.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+- [root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
    - [The classical SOS pathway confers natural variation of salt tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18278](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35633114](https://pubmed.ncbi.nlm.nih.gov/35633114/)
@@ -33,7 +33,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance,breeding ]
 - **NCBI ID:** [LOC100383969](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383969)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

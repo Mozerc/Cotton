@@ -22,7 +22,7 @@ tags: [ transcription factor,growth,floral,homeostasis,breeding,flowering time,t
    - **ID1** requires extended growth for flowering; vegetatively totipotent with gt1 and factors for perennialism.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-homeostasis](/tags/pi-homeostasis/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-homeostasis](/tags/pi-homeostasis/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)
 
 ## Literature:
    - [INDETERMINATE1 autonomously regulates phosphate homeostasis upstream of the miR399-ZmPHO2 signaling module in maize.]( https://academic.oup.com/plcell/article/35/6/2208/7082804?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad089](https://academic.oup.com/plcell/article/35/6/2208/7082804?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36943781](https://pubmed.ncbi.nlm.nih.gov/36943781/)
@@ -36,7 +36,7 @@ tags: [ transcription factor,growth,floral,homeostasis,breeding,flowering time,t
 - **NCBI ID:** [LOC541693](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541693)
 - **UniProt accessions:** [A0A317Y9F2](https://www.uniprot.org/uniprotkb/A0A317Y9F2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

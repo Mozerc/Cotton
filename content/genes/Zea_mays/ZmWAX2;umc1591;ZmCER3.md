@@ -20,7 +20,7 @@ tags: [ resistance,seed,breeding,resistant ]
    - **ZmWAX2** functions as a positive regulator to F. verticillioides resistance in maize.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
    - [Genetic variation in ZmWAX2 confers maize resistance to Fusarium verticillioides.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14093)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14093](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14093)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37293701](https://pubmed.ncbi.nlm.nih.gov/37293701/)
@@ -32,7 +32,7 @@ tags: [ resistance,seed,breeding,resistant ]
 - **NCBI ID:** [LOC100280351](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280351)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

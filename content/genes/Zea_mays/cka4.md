@@ -20,7 +20,7 @@ tags: [ growth,development,kinase,plant development,plant growth,height,plant he
    - Transgenic maize plants ectopically expressing ZmMADS3are reduced in height due to a reduced number of nodes.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
 
 ## Literature:
    - [Genome-wide haplotype-based association analysis of key traits of plant lodging and architecture of maize identifies major determinants for leaf angle: hapLA4.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402688/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0212925](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402688/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30840677](https://pubmed.ncbi.nlm.nih.gov/30840677/)
@@ -31,7 +31,7 @@ tags: [ growth,development,kinase,plant development,plant growth,height,plant he
 - **NCBI ID:** [LOC541825](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541825)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ flowering time,flowering ]
    - Sugars will eventually be exported 2 (**sweet2**, Zm00001d009365) was identified as a candidate gene associated with flowering time in this study and exhibited selective sweep signatures with a slightly increased expression heritability in temperate maize
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A role for heritable transcriptomic variation in maize adaptation to temperate environments.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02891-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-023-02891-3](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02891-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36964601](https://pubmed.ncbi.nlm.nih.gov/36964601/)
@@ -34,7 +34,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [100279636](https://www.ncbi.nlm.nih.gov/gene/?term=100279636)
 - **UniProt accessions:** [A0A1D6FJ44](https://www.uniprot.org/uniprotkb/A0A1D6FJ44/entry)&nbsp;,&nbsp;[A0A1D6FJ45](https://www.uniprot.org/uniprotkb/A0A1D6FJ45/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

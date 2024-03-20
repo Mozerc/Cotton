@@ -21,7 +21,7 @@ tags: [ grain,resistance,drought,grain yield,tolerance,yield,aba,drought toleran
    - The **ZmPIF1** transgenic rice and Arabidopsis displayed water saving and drought resistance, which were associated with reduced a stomatal aperture and transpiration rate.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [A maize phytochrome-interacting factors protein ZmPIF1 enhances drought tolerance by inducing stomatal closure and improves grain yield in Oryza sativa.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12878)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12878](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12878)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29327440](https://pubmed.ncbi.nlm.nih.gov/29327440/)
@@ -34,7 +34,7 @@ tags: [ grain,resistance,drought,grain yield,tolerance,yield,aba,drought toleran
 - **NCBI ID:** [LOC100382453](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382453)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

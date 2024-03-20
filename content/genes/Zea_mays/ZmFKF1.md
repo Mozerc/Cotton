@@ -18,7 +18,7 @@ tags: [ flowering ]
    - **ZmFKF1** involved in regulating the circadian clock and photoperiodic flowering.
 
 ## Function-related keywords:
-[flowering](/tags/flowering/)
+- [flowering](/tags/flowering/)
 
 ## Literature:
    - [A gene regulatory network model for floral transition of the shoot apex in maize and its dynamic modeling.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043450)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0043450](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043450)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22912876](https://pubmed.ncbi.nlm.nih.gov/22912876/)
@@ -29,7 +29,7 @@ tags: [ flowering ]
 - **NCBI ID:** [100279726](https://www.ncbi.nlm.nih.gov/gene/?term=100279726)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

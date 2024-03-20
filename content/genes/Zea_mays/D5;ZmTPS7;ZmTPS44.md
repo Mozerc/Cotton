@@ -21,7 +21,7 @@ tags: [ root,growth,br,seed,root growth,ga,ga biosynthetic,seed growth,root numb
    - **D5** increase in number of brace root whorls.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthetic](/tags/ga-biosynthetic/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthetic](/tags/ga-biosynthetic/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
    - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
@@ -33,7 +33,7 @@ tags: [ root,growth,br,seed,root growth,ga,ga biosynthetic,seed growth,root numb
 - **NCBI ID:** [103645955](https://www.ncbi.nlm.nih.gov/gene/?term=103645955)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

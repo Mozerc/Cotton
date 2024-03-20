@@ -20,7 +20,7 @@ tags: [ 2AP ，seed]
    - Seeds of the zmbadh2a-**ZmBADH2b** double mutant accumulate 2AP.
 
 ## Function-related keywords:
-[2AP](/tags/2AP/)&nbsp;,&nbsp;[seed](/tags/seeds/)
+- [2AP](/tags/2AP/)&nbsp;,&nbsp;[seed](/tags/seeds/)
 
 ## Literature:
    - [Creation of aromatic maize by CRISPR/Cas.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13105](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33934500](https://pubmed.ncbi.nlm.nih.gov/33934500/)
@@ -32,7 +32,7 @@ tags: [ 2AP ，seed]
 - **NCBI ID:** [606443](https://www.ncbi.nlm.nih.gov/gene/?term=606443)
 - **UniProt accessions:** [G5DDC2](https://www.uniprot.org/uniprotkb/G5DDC2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

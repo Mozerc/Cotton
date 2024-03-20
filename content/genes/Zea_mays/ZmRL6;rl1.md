@@ -19,7 +19,7 @@ tags: [ drought,stress,drought stress,oxidative stress,tolerance,oxidative,droug
    - By combining RNA-seq and DAP-seq results together, we subsequently identified eight novel target genes of **ZmRL6** that are involved in maize's hormone signal transduction, sugar metabolism, lignin synthesis, and redox signaling/oxidative stress.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
 
 ## Literature:
    - [Molecular mechanism analysis of ZmRL6 positively regulating drought stress tolerance in maize.]( https://link.springer.com/article/10.1007/s44154-023-00125-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s44154-023-00125-x](https://link.springer.com/article/10.1007/s44154-023-00125-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37971599](https://pubmed.ncbi.nlm.nih.gov/37971599/)
@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,oxidative stress,tolerance,oxidative,droug
 - **NCBI ID:**  [LOC100281018](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281018)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

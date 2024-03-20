@@ -22,7 +22,7 @@ tags: [ development,seed,breeding,seed weight,seed size,seed development ]
    - **ZmEXPB15** may be involved in seed expansion during kernel development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)
 
 ## Literature:
    - [A NAC-EXPANSIN module enhances maize kernel size by controlling nucellus elimination.]( https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-33513-4](https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36175574](https://pubmed.ncbi.nlm.nih.gov/36175574/)
@@ -34,7 +34,7 @@ tags: [ development,seed,breeding,seed weight,seed size,seed development ]
 - **NCBI ID:** [LOC103638320](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103638320)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

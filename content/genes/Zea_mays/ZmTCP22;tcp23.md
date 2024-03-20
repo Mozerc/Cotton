@@ -18,7 +18,7 @@ tags: [  ]
    - **ZmTCP22** act as nodes connected to several traits, implying a possible broader role in regulation.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [BREEDIT: a multiplex genome editing strategy to improve complex quantitative traits in maize.]( https://academic.oup.com/plcell/article/35/1/218/6687271?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac243](https://academic.oup.com/plcell/article/35/1/218/6687271?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36066192](https://pubmed.ncbi.nlm.nih.gov/36066192/)
@@ -29,7 +29,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100281328](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281328)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

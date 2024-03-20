@@ -17,7 +17,7 @@ tags: [  ]
    - **ZmCysK** is one of series of tightly linked cysteine synthase genes on 9S.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Melatonin Alleviates Chromium Toxicity in Maize by Modulation of Cell Wall Polysaccharides Biosynthesis, Glutathione Metabolism, and Antioxidant Capacity.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9966513/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043816](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9966513/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835227](https://pubmed.ncbi.nlm.nih.gov/36835227/)
@@ -29,7 +29,7 @@ tags: [  ]
 - **NCBI ID:**  [103638079](https://www.ncbi.nlm.nih.gov/gene/?term=103638079)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

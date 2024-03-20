@@ -21,7 +21,7 @@ tags: [ transcription factor,xylem,development,drought,stress,drought stress,bre
    - **NUT1** is induced during the adult/flowering phase of development in protoxylem, and when this gene is lost, the plants suffer both heat and drought stress phenotypes.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[xylem](/tags/xylem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[xylem](/tags/xylem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
 
 ## Literature:
    - [Necrotic upper tips1 mimics heat and drought stress and encodes a protoxylem-specific transcription factor in maize.]( https://www.pnas.org/doi/10.1073/pnas.2005014117?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2005014117](https://www.pnas.org/doi/10.1073/pnas.2005014117?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32778598](https://pubmed.ncbi.nlm.nih.gov/32778598/)
@@ -33,7 +33,7 @@ tags: [ transcription factor,xylem,development,drought,stress,drought stress,bre
 - **NCBI ID:**  [100281519](https://www.ncbi.nlm.nih.gov/gene/?term=100281519)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

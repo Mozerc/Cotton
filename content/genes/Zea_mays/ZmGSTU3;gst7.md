@@ -18,7 +18,7 @@ tags: [ detoxification ]
    - **ZmGSTU3** encodes a glutathione S-transferase subunit VII.
 
 ## Function-related keywords:
-[detoxification](/tags/detoxification/)
+- [detoxification](/tags/detoxification/)
 
 ## Literature:
    - [Role of ZmGST Gene Family Involved in Nicosulfuron Stress Tolerance Revealed by Genomic and Transcriptomic Analyses]( https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy12112598](https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -29,7 +29,7 @@ tags: [ detoxification ]
 - **NCBI ID:**  [LOC542587](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542587)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

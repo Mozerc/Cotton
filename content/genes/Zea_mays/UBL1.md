@@ -22,7 +22,7 @@ tags: [ development,seedling,pre-mrna splicing ]
    - **UBL1** plays an important role in kernel and seedling development by influencing pre-mRNA splicing
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[pre-mrna-splicing](/tags/pre-mrna-splicing/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[pre-mrna-splicing](/tags/pre-mrna-splicing/)
 
 ## Literature:
    - [The U6 Biogenesis-Like 1 Plays an Important Role in Maize Kernel and Seedling Development by Affecting the 3&#x27; End Processing of U6 snRNA.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(16)30263-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205216302635%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2016.10.016](https://www.cell.com/molecular-plant/fulltext/S1674-2052(16)30263-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205216302635%3Fshowall%3Dtrue)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27825944](https://pubmed.ncbi.nlm.nih.gov/27825944/)
@@ -34,7 +34,7 @@ tags: [ development,seedling,pre-mrna splicing ]
 - **NCBI ID:** [LOC100275088](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100275088)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

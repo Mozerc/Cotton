@@ -19,7 +19,7 @@ tags: [ leaf,architecture,plant architecture,leaf angle ]
    - Both ZmBEH1 and ZmBZR1 are bound to the promoter of **ZmSCL28** (SCARECROW-LIKE 28), a third TF that influences leaf angle. 
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Characterization of regulatory modules controlling leaf angle in maize.]( https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac308](https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35758633](https://pubmed.ncbi.nlm.nih.gov/35758633/)
@@ -33,7 +33,7 @@ tags: [ leaf,architecture,plant architecture,leaf angle ]
 - **NCBI ID:** [LOC100283946](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283946)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

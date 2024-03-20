@@ -21,7 +21,7 @@ tags: [  ]
    - These results suggest that there might be a common mechanism regulating this clock in diverse plant species, and ZmCCA1 and **ZmTOC1** may be part of the core components of the central oscillator in maize.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [A gene regulatory network model for floral transition of the shoot apex in maize and its dynamic modeling.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043450)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0043450](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043450)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22912876](https://pubmed.ncbi.nlm.nih.gov/22912876/)
@@ -33,7 +33,7 @@ tags: [  ]
 - **NCBI ID:** [LOC100281433](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281433)
 - **UniProt accessions:** [A0A1D6EBP4](https://www.uniprot.org/uniprotkb/A0A1D6EBP4/entry)&nbsp;,&nbsp;[A0A3L6F921](https://www.uniprot.org/uniprotkb/A0A3L6F921/entry)&nbsp;,&nbsp;[E9L0A4](https://www.uniprot.org/uniprotkb/E9L0A4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

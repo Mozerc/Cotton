@@ -19,7 +19,7 @@ tags: [ transcription factor,seedlings,stress,heat stress,thermotolerance ]
    - The expression of Hsps was up-regulated in the **ZmHsf05**-overexpressing Arabidopsis lines after heat stress treatment. These results suggested that **ZmHsf05** plays an important role in both basal and acquired thermotolerance in plants.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [ZmHsf05, a new heat shock transcription factor from Zea mays L. improves thermotolerance in Arabidopsis thaliana and rescues thermotolerance defects of the athsfa2 mutant.]( https://www.sciencedirect.com/science/article/abs/pii/S0168945218315218?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.03.002](https://www.sciencedirect.com/science/article/abs/pii/S0168945218315218?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31128708](https://pubmed.ncbi.nlm.nih.gov/31128708/)
@@ -30,7 +30,7 @@ tags: [ transcription factor,seedlings,stress,heat stress,thermotolerance ]
 - **NCBI ID:**  [100281501](https://www.ncbi.nlm.nih.gov/gene/?term=100281501)
 - **UniProt accessions:** [A0A4D6P1C2](https://www.uniprot.org/uniprotkb/A0A4D6P1C2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

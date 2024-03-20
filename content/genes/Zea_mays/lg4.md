@@ -20,7 +20,7 @@ tags: [ leaf,development,leaf development,leaf angle ]
    - Dominant **Lg4** plants lack ligule and auricle but show vestiges sporadically in blade.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Genome-wide association studies of leaf angle in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236034/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-021-01241-0](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236034/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37309541](https://pubmed.ncbi.nlm.nih.gov/37309541/)
@@ -33,7 +33,7 @@ tags: [ leaf,development,leaf development,leaf angle ]
 - **NCBI ID:** [LOC541960](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541960)
 - **UniProt accessions:** [P56668](https://www.uniprot.org/uniprotkb/P56668/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

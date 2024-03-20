@@ -21,7 +21,7 @@ tags: [ tillering,development,inflorescence,dwarf,branching,inflorescence develo
    - **ZmD53** can repress the transcriptional activation activity of UB3 and TSH4 on their own promoters, thus decreasing tassel branch number.
 
 ## Function-related keywords:
-[tillering](/tags/tillering/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [tillering](/tags/tillering/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [DWARF53 interacts with transcription factors UB2/UB3/TSH4 to regulate maize tillering and tassel branching.]( https://academic.oup.com/plphys/article/187/2/947/6294939?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab259](https://academic.oup.com/plphys/article/187/2/947/6294939?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34608948](https://pubmed.ncbi.nlm.nih.gov/34608948/)
@@ -35,7 +35,7 @@ tags: [ tillering,development,inflorescence,dwarf,branching,inflorescence develo
 - **NCBI ID:** [LOC100501371](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100501371)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

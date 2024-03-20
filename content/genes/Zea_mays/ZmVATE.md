@@ -20,7 +20,7 @@ tags: [ development,plant development,architecture,breeding,plant architecture ]
    - These results demonstrate the essential roles of **ZmVATE** in regulating plant architecture-related traits and the predictive power of potential key genes identified in our analysis for ideal plant architecture breeding in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+- [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
    - [Integration of high-throughput phenotyping, GWAS, and predictive models reveals the genetic architecture of plant height in maize.]( https://www.sciencedirect.com/science/article/pii/S167420522200435X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.11.016](https://www.sciencedirect.com/science/article/pii/S167420522200435X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36447436](https://pubmed.ncbi.nlm.nih.gov/36447436/)
@@ -32,7 +32,7 @@ tags: [ development,plant development,architecture,breeding,plant architecture ]
 - **NCBI ID:** [100277819](https://www.ncbi.nlm.nih.gov/gene/?term=100277819)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

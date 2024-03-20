@@ -19,7 +19,7 @@ tags: [  ]
    - **Ven1**A619 causes over-accumulation of nonpolar carotenoids.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Carotenoids modulate kernel texture in maize by influencing amyloplast envelope integrity.]( https://www.nature.com/articles/s41467-020-19196-9#Sec29)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-19196-9](https://www.nature.com/articles/s41467-020-19196-9#Sec29)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33093471](https://pubmed.ncbi.nlm.nih.gov/33093471/)
@@ -31,7 +31,7 @@ tags: [  ]
 - **NCBI ID:** [LOC732825](https://www.ncbi.nlm.nih.gov/gene/?term=LOC732825)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

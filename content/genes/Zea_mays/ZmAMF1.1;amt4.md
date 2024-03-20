@@ -19,7 +19,7 @@ tags: [ nitrogen,growth ]
    - Only ZmNPF6.2, ZmNRT2.5 and **ZmAMF1.1** responded significantly to a period of nitrogen starvation.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)
 
 ## Literature:
    - [Tissue and nitrogen-linked expression profiles of ammonium and nitrate transporters in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1768-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31109290](https://pubmed.ncbi.nlm.nih.gov/31109290/)
@@ -30,7 +30,7 @@ tags: [ nitrogen,growth ]
 - **NCBI ID:**  [LOC100285732](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285732)
 - **UniProt accessions:** [A0A1D6E5R1](https://www.uniprot.org/uniprotkb/A0A1D6E5R1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

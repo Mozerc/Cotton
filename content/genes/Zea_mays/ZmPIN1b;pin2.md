@@ -21,7 +21,7 @@ tags: [ root,development,shoot,plant development,tiller,root development,archite
    - **ZmPIN1b** was highly expressed in leaves (similar to OsPIN1a), whereas ZmPIN1a was primarily expressed in roots at levels lower than that of **ZmPIN1b**.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[adventitious-root](/tags/adventitious-root/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[shoot-architecture](/tags/shoot-architecture/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
+- [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[adventitious-root](/tags/adventitious-root/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[shoot-architecture](/tags/shoot-architecture/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
    - [Enhancing auxin accumulation in maize root tips improves root growth and dwarfs plant height.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12751)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12751](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12751)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28499064](https://pubmed.ncbi.nlm.nih.gov/28499064/)
@@ -32,7 +32,7 @@ tags: [ root,development,shoot,plant development,tiller,root development,archite
 - **NCBI ID:** [103627718](https://www.ncbi.nlm.nih.gov/gene/?term=103627718)
 - **UniProt accessions:** [Q0MWY1](https://www.uniprot.org/uniprotkb/Q0MWY1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

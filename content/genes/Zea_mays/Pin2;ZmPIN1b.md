@@ -20,7 +20,7 @@ tags: [ root,development,seed,root development,root elongation,endosperm,seed de
    - Zm**Pin2** is expressed in root apex (R), in male and female inflorescences and during maize kernel development.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [The Maize PIN Gene Family of Auxin Transporters.]( https://www.frontiersin.org/articles/10.3389/fpls.2012.00016/full#B12)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2012.00016](https://www.frontiersin.org/articles/10.3389/fpls.2012.00016/full#B12)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22639639](https://pubmed.ncbi.nlm.nih.gov/22639639/)
@@ -31,7 +31,7 @@ tags: [ root,development,seed,root development,root elongation,endosperm,seed de
 - **NCBI ID:** [LOC103627718](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627718)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

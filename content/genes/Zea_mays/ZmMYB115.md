@@ -21,7 +21,7 @@ tags: [ starch,endosperm,starch biosynthesis,amylose content ]
    - **ZmMYB115** regulation of SSG expression.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
+- [starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
 
 ## Literature:
    - [Coordinated regulation of starch synthesis in maize endosperm by microRNAs and DNA methylation.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15043)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15043](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15043)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098697](https://pubmed.ncbi.nlm.nih.gov/33098697/)
@@ -34,7 +34,7 @@ tags: [ starch,endosperm,starch biosynthesis,amylose content ]
 - **NCBI ID:** [100383604](https://www.ncbi.nlm.nih.gov/gene/?term=100383604)
 - **UniProt accessions:** [C0PHI8](https://www.uniprot.org/uniprotkb/C0PHI8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

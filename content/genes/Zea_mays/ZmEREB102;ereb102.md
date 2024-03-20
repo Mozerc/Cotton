@@ -18,7 +18,7 @@ tags: [ tolerance ]
    - Association analysis of natural variation in ZmERFVIIs with maize waterlogging tolerance.
 
 ## Function-related keywords:
-[tolerance](/tags/tolerance/)
+- [tolerance](/tags/tolerance/)
 
 ## Literature:
    - [A group VII ethylene response factor gene, ZmEREB180, coordinates waterlogging tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13140](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31033158](https://pubmed.ncbi.nlm.nih.gov/31033158/)
@@ -29,7 +29,7 @@ tags: [ tolerance ]
 - **NCBI ID:**  [LOC100284306](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284306)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

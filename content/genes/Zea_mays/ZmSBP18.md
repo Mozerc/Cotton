@@ -19,7 +19,7 @@ tags: [ leaf,transcription factor,leaf angle ]
    - Identification of **ZmSBP18** as candidate genes for tassel branch number.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
@@ -31,7 +31,7 @@ tags: [ leaf,transcription factor,leaf angle ]
 - **NCBI ID:** [103637478](https://www.ncbi.nlm.nih.gov/gene/?term=103637478)
 - **UniProt accessions:** [A0A1D6G5U7](https://www.uniprot.org/uniprotkb/A0A1D6G5U7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

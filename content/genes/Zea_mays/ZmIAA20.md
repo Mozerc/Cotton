@@ -18,7 +18,7 @@ tags: [ auxin,auxin transport ]
    - **ZmIAA20** assists in auxin transport.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)
+- [auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)
 
 ## Literature:
    - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
@@ -29,7 +29,7 @@ tags: [ auxin,auxin transport ]
 - **NCBI ID:**  [LOC100382108](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382108)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

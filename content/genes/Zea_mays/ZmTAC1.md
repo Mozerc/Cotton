@@ -21,7 +21,7 @@ tags: [ leaf,root,development,leaf development,shoot,plant development,sheath,ro
    - **ZmTAC1** is involved in the mRNA level and leaf development in maize.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[root-apical-meristem](/tags/root-apical-meristem/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)&nbsp;,&nbsp;[shoot-architecture](/tags/shoot-architecture/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[root-apical-meristem](/tags/root-apical-meristem/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)&nbsp;,&nbsp;[shoot-architecture](/tags/shoot-architecture/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
 
 ## Literature:
    - [Cloning and characterization of a putative TAC1 ortholog associated with leaf angle in maize (Zea mays L.).]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020621)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0020621](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020621)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21687735](https://pubmed.ncbi.nlm.nih.gov/21687735/)
@@ -33,7 +33,7 @@ tags: [ leaf,root,development,leaf development,shoot,plant development,sheath,ro
 - **NCBI ID:** [LOC100277053](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100277053)
 - **UniProt accessions:** [C4IZI7](https://www.uniprot.org/uniprotkb/C4IZI7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

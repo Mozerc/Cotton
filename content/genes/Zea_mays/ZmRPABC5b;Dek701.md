@@ -21,7 +21,7 @@ tags: [ development,starch,endosperm,phytohormone,endosperm development,starch b
    - The results of this study provide substantial insight into the Opaque2–**ZmRPABC5b** transcriptional regulatory network as a central hub for regulating endosperm development in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [RNA polymerase common subunit ZmRPABC5b is transcriptionally activated by Opaque2 and essential for endosperm development in maize.]( https://academic.oup.com/nar/article/51/15/7832/7219415#414928044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/nar/gkad571](https://academic.oup.com/nar/article/51/15/7832/7219415#414928044)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403778](https://pubmed.ncbi.nlm.nih.gov/37403778/)
@@ -33,7 +33,7 @@ tags: [ development,starch,endosperm,phytohormone,endosperm development,starch b
 - **NCBI ID:** [LOC100286035](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100286035)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

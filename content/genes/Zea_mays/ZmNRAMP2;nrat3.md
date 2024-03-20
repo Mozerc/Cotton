@@ -22,7 +22,7 @@ tags: [ xylem,root,growth,shoot,stress,root growth,plant growth,xylem parenchyma
    - A crucial role of **ZmNRAMP2** in root-to-shoot translocation of Mn via accelerating vacuolar Mn release in xylem parenchyma cells for adaption of maize plants to low Mn stress and provides a promising transgenic approach to develop low Mn-tolerant crop cultivars.
 
 ## Function-related keywords:
-[xylem](/tags/xylem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[xylem-parenchyma](/tags/xylem-parenchyma/)
+- [xylem](/tags/xylem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[xylem-parenchyma](/tags/xylem-parenchyma/)
 
 ## Literature:
    - [Tonoplast-localized transporter ZmNRAMP2 confers root-to-shoot translocation of manganese in maize.]( https://academic.oup.com/plphys/article/190/4/2601/6701976?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac434](https://academic.oup.com/plphys/article/190/4/2601/6701976?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36111860](https://pubmed.ncbi.nlm.nih.gov/36111860/)
@@ -35,7 +35,7 @@ tags: [ xylem,root,growth,shoot,stress,root growth,plant growth,xylem parenchyma
 - **NCBI ID:** [100283910](https://www.ncbi.nlm.nih.gov/gene/?term=100283910)
 - **UniProt accessions:** [B8A0P9](https://www.uniprot.org/uniprotkb/B8A0P9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

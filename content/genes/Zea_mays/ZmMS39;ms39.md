@@ -22,7 +22,7 @@ tags: [ fertility,anther,cell death,homeostasis,cell wall,sterile,height,plant h
    - ZmCals12 mutation causes disturbance of ROS homeostasis and increased autophagy in maize anthers.
 
 ## Function-related keywords:
-[fertility](/tags/fertility/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[tapetal-programmed-cell-death](/tags/tapetal-programmed-cell-death/)&nbsp;,&nbsp;[autophagy](/tags/autophagy/)
+- [fertility](/tags/fertility/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[tapetal-programmed-cell-death](/tags/tapetal-programmed-cell-death/)&nbsp;,&nbsp;[autophagy](/tags/autophagy/)
 
 ## Literature:
    - [ZmMS39 encodes a callose synthase essential for male fertility in maize (Zea mays L.)]( https://www.sciencedirect.com/science/article/pii/S2214514122002227)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.08.012](https://www.sciencedirect.com/science/article/pii/S2214514122002227)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -34,7 +34,7 @@ tags: [ fertility,anther,cell death,homeostasis,cell wall,sterile,height,plant h
 - **NCBI ID:** [LOC103651372](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103651372)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

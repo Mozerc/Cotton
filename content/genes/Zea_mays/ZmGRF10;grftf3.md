@@ -21,7 +21,7 @@ tags: [ leaf,growth,development,leaf development,plant development,homeostasis,p
    - Overexpression of **ZmGRF10** resulted in a phenotype characterized by a reduction in leaf size and plant height.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
    - [Overexpression of the maize GRF10, an endogenous truncated growth-regulating factor protein, leads to reduction in leaf size and plant height.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12220)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12220](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12220)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24854713](https://pubmed.ncbi.nlm.nih.gov/24854713/)
@@ -34,7 +34,7 @@ tags: [ leaf,growth,development,leaf development,plant development,homeostasis,p
 - **NCBI ID:** [LOC100101542](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100101542)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

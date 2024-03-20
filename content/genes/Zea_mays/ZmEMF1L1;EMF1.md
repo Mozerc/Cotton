@@ -18,7 +18,7 @@ tags: [ architecture,height,plant height,flowering time,plant architecture,flowe
    - It encodes a protein homologous to the Arabidopsis EMBRYONIC FLOWER1 (EMF1) protein, which is involved in the control of flowering time and plant architecture, and thus was named Zea mays EMF1-like 1 (**ZmEMF1L1**).
 
 ## Function-related keywords:
-[architecture](/tags/architecture/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [architecture](/tags/architecture/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Genomic insights into historical improvement of heterotic groups during modern hybrid maize breeding.]( https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01190-2](https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851624](https://pubmed.ncbi.nlm.nih.gov/35851624/)
@@ -30,7 +30,7 @@ tags: [ architecture,height,plant height,flowering time,plant architecture,flowe
 - **NCBI ID:** [LOC103635904](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635904)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

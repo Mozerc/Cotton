@@ -19,7 +19,7 @@ tags: [  ]
    - ZmPIFs Act as Positive Regulators in Response to Shade.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Characterization of Maize Phytochrome-Interacting Factors in Light Signaling and Photomorphogenesis.]( https://academic.oup.com/plphys/article/181/2/789/6000153?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00239](https://academic.oup.com/plphys/article/181/2/789/6000153?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31350363](https://pubmed.ncbi.nlm.nih.gov/31350363/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:** [100384229](https://www.ncbi.nlm.nih.gov/gene/?term=100384229)
 - **UniProt accessions:** [C0PMM6](https://www.uniprot.org/uniprotkb/C0PMM6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

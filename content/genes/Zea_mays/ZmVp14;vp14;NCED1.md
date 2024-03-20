@@ -19,7 +19,7 @@ tags: [ leaf,stress,salinity,aba,salinity stress,stomatal,aba biosynthesis,osmot
    - The present study demonstrates for the first time that the stomatal closure, elicited by the apoplastic alkalinization, is also due to a pHapo-mediated increase in the transcription of the NCED gene Vp14 in the leaf. **ZmVp14** encodes the rate-limiting enzyme in ABA biosynthesis.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
 
 ## Literature:
    - [Leaf apoplastic alkalization promotes transcription of the ABA-synthesizing enzyme Vp14 and stomatal closure in Zea mays.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006549/#CIT0054)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa589](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006549/#CIT0054)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33345268](https://pubmed.ncbi.nlm.nih.gov/33345268/)
@@ -30,7 +30,7 @@ tags: [ leaf,stress,salinity,aba,salinity stress,stomatal,aba biosynthesis,osmot
 - **NCBI ID:**  [LOC100216611](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100216611)
 - **UniProt accessions:** [O24592](https://www.uniprot.org/uniprotkb/O24592/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

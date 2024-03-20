@@ -21,7 +21,7 @@ tags: [ grain,starch,grain yield,grain filling,yield,aba,endosperm,abscisic acid
    - ABA-induced phosphorylation of basic leucine zipper 29, ABSCISIC ACID INSENSITIVE 19, and Opaque2 by SnRK2.2 enhances gene transactivation for endosperm filling in maize.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [ABA-induced phosphorylation of basic leucine zipper 29, ABSCISIC ACID INSENSITIVE 19, and Opaque2 by SnRK2.2 enhances gene transactivation for endosperm filling in maize.]( https://academic.oup.com/plcell/article/34/5/1933/6528333?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac044](https://academic.oup.com/plcell/article/34/5/1933/6528333?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35157077](https://pubmed.ncbi.nlm.nih.gov/35157077/)
@@ -33,7 +33,7 @@ tags: [ grain,starch,grain yield,grain filling,yield,aba,endosperm,abscisic acid
 - **NCBI ID:** [542187](https://www.ncbi.nlm.nih.gov/gene/?term=542187)
 - **UniProt accessions:** [A0A1D6L8V1](https://www.uniprot.org/uniprotkb/A0A1D6L8V1/entry)&nbsp;,&nbsp;[A0A1D6L8V2](https://www.uniprot.org/uniprotkb/A0A1D6L8V2/entry)&nbsp;,&nbsp;[A0A1D6L8V3 ](https://www.uniprot.org/uniprotkb/A0A1D6L8V3 /entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

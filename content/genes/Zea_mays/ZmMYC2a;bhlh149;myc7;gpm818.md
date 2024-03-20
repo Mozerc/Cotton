@@ -21,7 +21,7 @@ tags: [ transcription factor,resistance,jasmonate,ja,ja biosynthesis,ja signalin
    - Double mutant with myc7 (**ZmMYC2a**) was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower.double mutant with myc7 (**ZmMYC2a**) was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower.double mutant with myc7 (**ZmMYC2a**) was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[jasmonate](/tags/jasmonate/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[jasmonate](/tags/jasmonate/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
    - [ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13404](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36349965](https://pubmed.ncbi.nlm.nih.gov/36349965/)
@@ -32,7 +32,7 @@ tags: [ transcription factor,resistance,jasmonate,ja,ja biosynthesis,ja signalin
 - **NCBI ID:**  [LOC541694](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541694)
 - **UniProt accessions:** [A0A1D6K972](https://www.uniprot.org/uniprotkb/A0A1D6K972/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

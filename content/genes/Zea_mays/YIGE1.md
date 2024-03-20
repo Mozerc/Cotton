@@ -21,7 +21,7 @@ tags: [ development,grain,grain size,auxin,grain number,grain yield,yield,merist
    - Further analysis shows that **YIGE1** may be involved in sugar and auxin signal pathways to regulate maize ear development, thus affecting IM activity and floret production in maize inflorescence morphogenesis.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [Genetic variation in YIGE1 contributes to ear length and grain yield in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17882)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17882](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17882)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34837389](https://pubmed.ncbi.nlm.nih.gov/34837389/)
@@ -33,7 +33,7 @@ tags: [ development,grain,grain size,auxin,grain number,grain yield,yield,merist
 - **NCBI ID:** [ LOC118473617](https://www.ncbi.nlm.nih.gov/gene/?term= LOC118473617)
 - **UniProt accessions:** [A0A1D6K0R1](https://www.uniprot.org/uniprotkb/A0A1D6K0R1/entry)&nbsp;,&nbsp;[A0A1D6K0R2](https://www.uniprot.org/uniprotkb/A0A1D6K0R2/entry)&nbsp;,&nbsp;[A0A1D6K0R3](https://www.uniprot.org/uniprotkb/A0A1D6K0R3/entry)&nbsp;,&nbsp;[A0A1D6K0R4](https://www.uniprot.org/uniprotkb/A0A1D6K0R4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ root,development,root development,cell wall,water loss,secondary cell wa
    - The causal gene in these 3 mutants encodes the IQ domain-containing protein **ZmIQD27**.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
+- [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
 
 ## Literature:
    - [IQ domain-containing protein ZmIQD27 modulates water transport in maize.]( https://academic.oup.com/plphys/article/193/3/1834/7219349?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad390](https://academic.oup.com/plphys/article/193/3/1834/7219349?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403650](https://pubmed.ncbi.nlm.nih.gov/37403650/)
@@ -34,7 +34,7 @@ tags: [ root,development,root development,cell wall,water loss,secondary cell wa
 - **NCBI ID:** [LOC100286093](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100286093)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ development,mitochondria,dehydrogenase ]
    - **Dek43** mutations cause reduced splicing efficiency of mitochondrial nad4 intron 3, resulting in severely reduced complex I assembly and NADH dehydrogenase activity.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)
+- [development](/tags/development/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)
 
 ## Literature:
    - [DEK43 is a P-type pentatricopeptide repeat (PPR) protein responsible for the Cis-splicing of nad4 in maize mitochondria.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.12843)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12843](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.12843)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31119902](https://pubmed.ncbi.nlm.nih.gov/31119902/)
@@ -35,7 +35,7 @@ tags: [ development,mitochondria,dehydrogenase ]
 - **NCBI ID:** [100285499](https://www.ncbi.nlm.nih.gov/gene/?term=100285499)
 - **UniProt accessions:** [B4FPH2](https://www.uniprot.org/uniprotkb/B4FPH2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

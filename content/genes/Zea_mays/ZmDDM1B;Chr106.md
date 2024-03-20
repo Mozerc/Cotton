@@ -20,7 +20,7 @@ tags: [ development,stress,tolerance,stress tolerance,embryo,cell proliferation,
    - ZmDDM1A/**ZmDDM1B** double mutant caused embryo lethality with abnormalities in cell proliferation from the early stage of kernel development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [Chromatin remodeling analysis reveals the RdDM pathway responds to low-phosphorus stress in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16468)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16468](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16468)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37731059](https://pubmed.ncbi.nlm.nih.gov/37731059/)
@@ -32,7 +32,7 @@ tags: [ development,stress,tolerance,stress tolerance,embryo,cell proliferation,
 - **NCBI ID:** [ZmDRO1](https://www.ncbi.nlm.nih.gov/gene/?term=ZmDRO1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

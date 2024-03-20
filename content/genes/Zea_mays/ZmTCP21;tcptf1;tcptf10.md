@@ -19,7 +19,7 @@ tags: [  ]
    - ZmTCP proteins bind to TBS motifs and exhibit sensitivity to methylated TBS in vitro.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [An epigenetic basis of inbreeding depression in maize.]( https://www.science.org/doi/10.1126/sciadv.abg5442)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/sciadv.abg5442](https://www.science.org/doi/10.1126/sciadv.abg5442)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34452913](https://pubmed.ncbi.nlm.nih.gov/34452913/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100279595](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279595)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

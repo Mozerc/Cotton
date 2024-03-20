@@ -19,7 +19,7 @@ tags: [ lignin ]
    - The accumulation of **BM2** transcripts is dramatically reduced in **BM2** mutants.
 
 ## Function-related keywords:
-[lignin](/tags/lignin/)
+- [lignin](/tags/lignin/)
 
 ## Literature:
    - [The maize brown midrib2 (bm2) gene encodes a methylenetetrahydrofolate reductase that contributes to lignin accumulation.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.12394)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.12394](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12394)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24286468](https://pubmed.ncbi.nlm.nih.gov/24286468/)
@@ -31,7 +31,7 @@ tags: [ lignin ]
 - **NCBI ID:**  [LOC100285149](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285149)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

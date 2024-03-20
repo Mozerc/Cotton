@@ -19,7 +19,7 @@ tags: [ transcription factor,starch,transporter,sugar,sucrose,sucrose transporte
    - This cluster was negatively correlated with the AGPase isoforms related to starch synthesis (Agpl3, Agplemzm, Bt2) as well as bGlu1 and bGlu3, which were more expressed in the FI tissue. Overall, sugar transporter genes showed the highest positive correlation with the bZip113 and **Ereb17** transcription factors.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
    - [Analysis of Global Gene Expression in Maize (Zea mays) Vegetative and Reproductive Tissues That Differ in Accumulation of Starch and Sucrose.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants11030238](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35161219](https://pubmed.ncbi.nlm.nih.gov/35161219/)
@@ -30,7 +30,7 @@ tags: [ transcription factor,starch,transporter,sugar,sucrose,sucrose transporte
 - **NCBI ID:**  [LOC100502435](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502435)
 - **UniProt accessions:** [A0A3L6EY15](https://www.uniprot.org/uniprotkb/A0A3L6EY15/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

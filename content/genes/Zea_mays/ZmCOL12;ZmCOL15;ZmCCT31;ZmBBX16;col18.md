@@ -18,7 +18,7 @@ tags: [ domestication ]
    - Some ZmCCTs are associated with some important QTLs in B73. These demonstrate the importance of ZmCCTs in evolution and domestication as well as in the photoperiod adaptation of maize.
 
 ## Function-related keywords:
-[domestication](/tags/domestication/)
+- [domestication](/tags/domestication/)
 
 ## Literature:
    - [Analyses of open-access multi-omics data sets reveal genetic and expression characteristics of maize ZmCCT family genes.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459886/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/aobpla/plab048](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459886/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34567492](https://pubmed.ncbi.nlm.nih.gov/34567492/)
@@ -29,7 +29,7 @@ tags: [ domestication ]
 - **NCBI ID:**  [LOC103626702](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103626702)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

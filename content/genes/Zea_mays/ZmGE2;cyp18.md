@@ -21,7 +21,7 @@ tags: [ grain,breeding,embryo,endosperm,grain protein content,grain protein ]
    - **ZmGE2** gene significantly associates with EER variation in maize.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[grain-protein-content](/tags/grain-protein-content/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[grain-protein-content](/tags/grain-protein-content/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [A transposable element insertion within ZmGE2 gene is associated with increase in embryo to endosperm ratio in maize.]( https://link.springer.com/article/10.1007/s00122-012-1926-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-012-1926-3](https://link.springer.com/article/10.1007/s00122-012-1926-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22772589](https://pubmed.ncbi.nlm.nih.gov/22772589/)
@@ -33,7 +33,7 @@ tags: [ grain,breeding,embryo,endosperm,grain protein content,grain protein ]
 - **NCBI ID:** [LOC103636404](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103636404)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

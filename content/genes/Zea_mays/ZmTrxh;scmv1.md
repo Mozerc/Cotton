@@ -19,7 +19,7 @@ tags: [ cytoplasm ]
    - **ZmTrxh** was unable to reduce disulfide bridges. Instead, **ZmTrxh** possesses a strong molecular chaperone-like activity and suppresses SCMV viral accumulation in maize cytoplasm.
 
 ## Function-related keywords:
-[cytoplasm](/tags/cytoplasm/)
+- [cytoplasm](/tags/cytoplasm/)
 
 ## Literature:
    - [Quantitative disease resistance: Multifaceted players in plant defense.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13419)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13419](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13419)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36448658](https://pubmed.ncbi.nlm.nih.gov/36448658/)
@@ -30,7 +30,7 @@ tags: [ cytoplasm ]
 - **NCBI ID:**  [LOC100281021](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281021)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

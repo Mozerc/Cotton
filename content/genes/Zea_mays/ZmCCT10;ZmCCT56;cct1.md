@@ -20,7 +20,7 @@ tags: [ flowering time,flowering ]
    - **ZmCCT10** is orthologous to the rice photoperiod response regulator Ghd7 and is a crucial controller of variation in flowering time that has enabled the dispersion of maize from the tropics to temperate zones.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A differentially methylated region of the ZmCCT10 promoter affects flowering time in hybrid maize]( https://www.sciencedirect.com/science/article/pii/S221451412300079X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.05.006](https://www.sciencedirect.com/science/article/pii/S221451412300079X)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC103641424](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103641424)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

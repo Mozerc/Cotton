@@ -21,7 +21,7 @@ tags: [ growth,development,map-based cloning,ga,ga biosynthesis ]
    - In gad5-1, the expression of **ZmGAD5** is severely reduced, and the levels of the direct substrate of KAO, KA, is increased, leading to a reduction in GA content.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)
 
 ## Literature:
    - [GA Associated Dwarf 5 encodes an ent-kaurenoic acid oxidase required for maize gibberellin biosynthesis and morphogenesis]( https://www.sciencedirect.com/science/article/pii/S2214514123000661#s0070)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.04.008](https://www.sciencedirect.com/science/article/pii/S2214514123000661#s0070)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -35,7 +35,7 @@ tags: [ growth,development,map-based cloning,ga,ga biosynthesis ]
 - **NCBI ID:** [542580](https://www.ncbi.nlm.nih.gov/gene/?term=542580)
 - **UniProt accessions:** [A0A1D6NWZ9](https://www.uniprot.org/uniprotkb/A0A1D6NWZ9/entry)&nbsp;,&nbsp;[A0A1D6NX00](https://www.uniprot.org/uniprotkb/A0A1D6NX00/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -18,7 +18,7 @@ tags: [ xylem,potassium,homeostasis,transporter ]
    - **HAK21** encode a potassium high-affinity transporter.
 
 ## Function-related keywords:
-[xylem](/tags/xylem/)&nbsp;,&nbsp;[potassium](/tags/potassium/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+- [xylem](/tags/xylem/)&nbsp;,&nbsp;[potassium](/tags/potassium/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
    - [Identification of Germplasm and Sugar Transporter Gene ZmSWEET1b Associated with Salt Tolerance in Maize ]( https://link.springer.com/article/10.1007/s00344-023-11033-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11033-9](https://link.springer.com/article/10.1007/s00344-023-11033-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -29,7 +29,7 @@ tags: [ xylem,potassium,homeostasis,transporter ]
 - **NCBI ID:**  [LOC103643618](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643618)
 - **UniProt accessions:** [A0A317YD51](https://www.uniprot.org/uniprotkb/A0A317YD51/entry)&nbsp;,&nbsp;[W5UB93](https://www.uniprot.org/uniprotkb/W5UB93/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

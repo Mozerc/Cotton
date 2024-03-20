@@ -19,7 +19,7 @@ tags: [ stress ]
    - **ZmGSTU6** encodes a glutathione S-transferase subunit 21.
 
 ## Function-related keywords:
-[stress](/tags/stress/)
+- [stress](/tags/stress/)
 
 ## Literature:
    - [Role of ZmGST Gene Family Involved in Nicosulfuron Stress Tolerance Revealed by Genomic and Transcriptomic Analyses]( https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy12112598](https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -30,7 +30,7 @@ tags: [ stress ]
 - **NCBI ID:**  [LOC541836](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541836)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

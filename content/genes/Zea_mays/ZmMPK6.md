@@ -21,7 +21,7 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
    - **ZmMPK6** was rapidly activated by wounding and simulated herbivory.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[wounding](/tags/wounding/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[wounding](/tags/wounding/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)
 
 ## Literature:
    - [ZmMPK6 and ethylene signalling negatively regulate the accumulation of anti-insect metabolites DIMBOA and DIMBOA-Glc in maize inbred line A188.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16974](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32996127](https://pubmed.ncbi.nlm.nih.gov/32996127/)
@@ -33,7 +33,7 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 - **NCBI ID:** [LOC542143](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542143)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

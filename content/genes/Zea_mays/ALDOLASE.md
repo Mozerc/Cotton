@@ -19,7 +19,7 @@ tags: [ development,flowering time,flowering ]
    - **ALDOLASE** is a ortholog of Arabidopsis Clc-HYPERSENSITIVE MUTANT2 (GSM2)-like.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [development](/tags/development/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A role for heritable transcriptomic variation in maize adaptation to temperate environments.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02891-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-023-02891-3](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02891-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36964601](https://pubmed.ncbi.nlm.nih.gov/36964601/)
@@ -31,7 +31,7 @@ tags: [ development,flowering time,flowering ]
 - **NCBI ID:** [LOC100192890](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192890)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

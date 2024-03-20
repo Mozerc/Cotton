@@ -19,7 +19,7 @@ tags: [  ]
    - The biological function of **ZmNF-YB19** in maize thus needs to be further explored.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1159955](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37265635](https://pubmed.ncbi.nlm.nih.gov/37265635/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC109942015](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109942015)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

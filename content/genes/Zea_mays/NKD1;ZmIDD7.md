@@ -19,7 +19,7 @@ tags: [ development,starch,endosperm,endosperm development,starch biosynthesis,s
    - Three key transcription factors, NAKED ENDOSPERM1 (**NKD1**), NKD2, and OPAQUE2 (O2), play important roles in maize endosperm cellular development and storage material accumulation.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [NAKED ENDOSPERM1, NAKED ENDOSPERM2, and OPAQUE2 interact to regulate gene networks in maize endosperm development.]( https://academic.oup.com/plcell/article/36/1/19/7289451)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad247](https://academic.oup.com/plcell/article/36/1/19/7289451)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37795691](https://pubmed.ncbi.nlm.nih.gov/37795691/)
@@ -32,7 +32,7 @@ tags: [ development,starch,endosperm,endosperm development,starch biosynthesis,s
 - **NCBI ID:** [LOC542199](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542199)
 - **UniProt accessions:** [A0A1D6E319](https://www.uniprot.org/uniprotkb/A0A1D6E319/entry)&nbsp;,&nbsp;[A0A1D6E322](https://www.uniprot.org/uniprotkb/A0A1D6E322/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

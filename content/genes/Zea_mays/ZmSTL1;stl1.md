@@ -19,7 +19,7 @@ tags: [ salt,lignin,casparian strip ]
    - **ZmSTL1** underlies the salt hypersensitivity of CIMBL45.
 
 ## Function-related keywords:
-[salt](/tags/salt/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[casparian-strip](/tags/casparian-strip/)
+- [salt](/tags/salt/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[casparian-strip](/tags/casparian-strip/)
 
 ## Literature:
    - [A dirigent family protein confers variation of Casparian strip thickness and salt tolerance in maize.]( https://www.nature.com/articles/s41467-022-29809-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-29809-0](https://www.nature.com/articles/s41467-022-29809-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35468878](https://pubmed.ncbi.nlm.nih.gov/35468878/)
@@ -31,7 +31,7 @@ tags: [ salt,lignin,casparian strip ]
 - **NCBI ID:** [LOC103645603](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103645603)
 - **UniProt accessions:** [A0A1D6L3I8](https://www.uniprot.org/uniprotkb/A0A1D6L3I8/entry)&nbsp;,&nbsp;[A0A317YBZ7](https://www.uniprot.org/uniprotkb/A0A317YBZ7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

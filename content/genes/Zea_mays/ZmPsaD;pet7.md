@@ -18,7 +18,7 @@ tags: [  ]
    - **ZmPsaD** encodes a photosynthetic electron transport protein (PET).
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Correlated retrograde and developmental regulons implicate multiple retrograde signals as coordinators of chloroplast development in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9709983/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac276](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9709983/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36073948](https://pubmed.ncbi.nlm.nih.gov/36073948/)
@@ -29,7 +29,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100191984](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191984)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

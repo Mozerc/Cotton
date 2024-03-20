@@ -18,7 +18,7 @@ tags: [ kinase,aba,protein kinase ]
    - ZmSnRK3 encodes a protein kinase -- SnRK3,calcineurin B-like-interacting protein kinase.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
 
 ## Literature:
    - [Genome-wide identification of sucrose non-fermenting-1-related protein kinase genes in maize and their responses to abiotic stresses.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9815513/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1087839](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9815513/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36618673](https://pubmed.ncbi.nlm.nih.gov/36618673/)
@@ -29,7 +29,7 @@ tags: [ kinase,aba,protein kinase ]
 - **NCBI ID:**  [LOC103633588](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103633588)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

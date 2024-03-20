@@ -20,7 +20,7 @@ tags: [ transcription factor,root,domestication,yield,architecture,root architec
    - **TGA1** increase in number of brace root whorls.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
    - [An a-MAIZE-ing development.]( https://academic.oup.com/plcell/article/35/3/960/6987172?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad005](https://academic.oup.com/plcell/article/35/3/960/6987172?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36638057](https://pubmed.ncbi.nlm.nih.gov/36638057/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,root,domestication,yield,architecture,root architec
 - **NCBI ID:** [103653213](https://www.ncbi.nlm.nih.gov/gene/?term=103653213)
 - **UniProt accessions:** [Q49I57](https://www.uniprot.org/uniprotkb/Q49I57/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

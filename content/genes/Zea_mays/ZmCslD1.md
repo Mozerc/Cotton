@@ -21,7 +21,7 @@ tags: [ cell division,cell wall,cellulose,organ size ]
    - **ZmCslD1** played an important role in the cell wall polysaccharide biosynthesis.
 
 ## Function-related keywords:
-[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[organ-size](/tags/organ-size/)
+- [cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[organ-size](/tags/organ-size/)
 
 ## Literature:
    - [Cellulose synthase-like D1 controls organ size in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1453-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1453-8](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1453-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30326832](https://pubmed.ncbi.nlm.nih.gov/30326832/)
@@ -33,7 +33,7 @@ tags: [ cell division,cell wall,cellulose,organ size ]
 - **NCBI ID:** [LOC100216739](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100216739)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

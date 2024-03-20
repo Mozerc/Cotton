@@ -20,7 +20,7 @@ tags: [ transcription factor,drought,stress,drought stress,oxidative stress,tole
    - **ZmNAC49** responds to drought by regulating stomatal density.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
 
 ## Literature:
    - [ZmMPK5 phosphorylates ZmNAC49 to enhance oxidative stress tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17761](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618923](https://pubmed.ncbi.nlm.nih.gov/34618923/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,drought,stress,drought stress,oxidative stress,tole
 - **NCBI ID:**  [100170665](https://www.ncbi.nlm.nih.gov/gene/?term=100170665)
 - **UniProt accessions:** [A0A1D9CFN8](https://www.uniprot.org/uniprotkb/A0A1D9CFN8/entry)&nbsp;,&nbsp;[A0A1D9CFH9](https://www.uniprot.org/uniprotkb/A0A1D9CFH9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

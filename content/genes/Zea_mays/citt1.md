@@ -17,7 +17,7 @@ tags: [ transporter ]
    - Maize citrate transporter 1 (**Citt1**), was identified via SNP-based GWAS for smArea and lgMaxWidth.
 
 ## Function-related keywords:
-[transporter](/tags/transporter/)
+- [transporter](/tags/transporter/)
 
 ## Literature:
    - [Shared Genetic Control of Root System Architecture between Zea mays and Sorghum bicolor.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6997706/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00752](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6997706/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31740504](https://pubmed.ncbi.nlm.nih.gov/31740504/)
@@ -28,7 +28,7 @@ tags: [ transporter ]
 - **NCBI ID:**  [LOC100285151](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285151)
 - **UniProt accessions:** [A0A1D6JNQ5](https://www.uniprot.org/uniprotkb/A0A1D6JNQ5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

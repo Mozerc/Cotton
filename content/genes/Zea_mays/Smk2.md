@@ -20,7 +20,7 @@ tags: [ embryo,cytosol ]
    - **SMK2** mutants are recessive embryo-lethal small kernel.
 
 ## Function-related keywords:
-[embryo](/tags/embryo/)&nbsp;,&nbsp;[cytosol](/tags/cytosol/)
+- [embryo](/tags/embryo/)&nbsp;,&nbsp;[cytosol](/tags/cytosol/)
 
 ## Literature:
    - [Small kernel2 Encodes a Glutaminase in Vitamin B(6) Biosynthesis Essential for Maize Seed Development.]( https://academic.oup.com/plphys/article/174/2/1127/6117379?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.01295](https://academic.oup.com/plphys/article/174/2/1127/6117379?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28408540](https://pubmed.ncbi.nlm.nih.gov/28408540/)
@@ -32,7 +32,7 @@ tags: [ embryo,cytosol ]
 - **NCBI ID:** [100280887](https://www.ncbi.nlm.nih.gov/gene/?term=100280887)
 - **UniProt accessions:** [B6SNW4](https://www.uniprot.org/uniprotkb/B6SNW4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

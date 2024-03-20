@@ -22,7 +22,7 @@ tags: [ stem,root,growth,grain,auxin,resistance,disease,disease resistance,defen
    - **ZmAuxRP1** involved in stalk-rot disease resistance; encodes an auxin-regulated protein with a single DUF966 domain.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+- [stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [The Auxin-Regulated Protein ZmAuxRP1 Coordinates the Balance between Root Growth and Stalk Rot Disease Resistance in Maize.]( https://www.sciencedirect.com/science/article/pii/S1674205218303101?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2018.10.005](https://www.sciencedirect.com/science/article/pii/S1674205218303101?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30853061](https://pubmed.ncbi.nlm.nih.gov/30853061/)
@@ -34,7 +34,7 @@ tags: [ stem,root,growth,grain,auxin,resistance,disease,disease resistance,defen
 - **NCBI ID:**  [LOC103643835](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643835)
 - **UniProt accessions:** [A0A1D6L064](https://www.uniprot.org/uniprotkb/A0A1D6L064/entry)&nbsp;,&nbsp;[A0A1D6L068](https://www.uniprot.org/uniprotkb/A0A1D6L068/entry)&nbsp;,&nbsp;[A0A1D6L070](https://www.uniprot.org/uniprotkb/A0A1D6L070/entry)&nbsp;,&nbsp;[A0A317YA48](https://www.uniprot.org/uniprotkb/A0A317YA48/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

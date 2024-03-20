@@ -19,7 +19,7 @@ tags: [ development,homeostasis,reactive oxygen species ]
    - These results implied that the upregulated expression of NADPH oxidase genes caused by **ZmSKS13** null mutation might contribute to the increase of NADPH oxidase activity and thus the excessive accumulation of ROS in dek-zk1 kernels.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
+- [development](/tags/development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
 
 ## Literature:
    - [ZmSKS13, a cupredoxin domain-containing protein, is required for maize kernel development via modulation of redox homeostasis.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16988)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16988](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16988)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33034042](https://pubmed.ncbi.nlm.nih.gov/33034042/)
@@ -31,7 +31,7 @@ tags: [ development,homeostasis,reactive oxygen species ]
 - **NCBI ID:** [LOC100194388](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100194388)
 - **UniProt accessions:** [C0P2K2](https://www.uniprot.org/uniprotkb/C0P2K2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -18,7 +18,7 @@ tags: [ root,development,stress,root development,callus,phosphorus,callus format
    - Maize **ZmLBD1** responds to phosphorus deficiency stress and root development.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)
+- [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)
 
 ## Literature:
    - [Global profiling of N(6) -methyladenosine methylation in maize callus induction.]( https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20018)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/tpg2.20018](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20018)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33016611](https://pubmed.ncbi.nlm.nih.gov/33016611/)
@@ -29,7 +29,7 @@ tags: [ root,development,stress,root development,callus,phosphorus,callus format
 - **NCBI ID:**  [LOC100125645](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100125645)
 - **UniProt accessions:** [A5H450](https://www.uniprot.org/uniprotkb/A5H450/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

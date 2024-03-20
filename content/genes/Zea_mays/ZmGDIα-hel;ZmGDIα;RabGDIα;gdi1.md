@@ -22,7 +22,7 @@ tags: [ resistance,disease,disease resistance,dwarf ]
    - Naturally occurring **ZmGDIα-hel** allele reduces MRDD severity.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)
 
 ## Literature:
    - [A helitron-induced RabGDIα variant causes quantitative recessive resistance to maize rough dwarf disease.]( https://www.nature.com/articles/s41467-020-14372-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14372-3](https://www.nature.com/articles/s41467-020-14372-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31980630](https://pubmed.ncbi.nlm.nih.gov/31980630/)
@@ -35,7 +35,7 @@ tags: [ resistance,disease,disease resistance,dwarf ]
 - **NCBI ID:** [LOC100284832](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284832)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

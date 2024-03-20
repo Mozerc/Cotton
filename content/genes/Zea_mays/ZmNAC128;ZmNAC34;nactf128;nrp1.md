@@ -21,7 +21,7 @@ tags: [ starch,transporter,endosperm,sucrose,sucrose transporter ]
    - **ZmNAC128** and ZmNAC130 regulate the expression of the transporter genes sugars that will eventually be exported transporter 4c (ZmSWEET4c), sucrose and glucose carrier 1 (ZmSUGCAR1), and yellow stripe-like2 (ZmYSL2) and in turn facilitate nutrient uptake, while O2 plays a supporting role.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
+- [starch](/tags/starch/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
    - [The transcription factors ZmNAC128 and ZmNAC130 coordinate with Opaque2 to promote endosperm filling in maize.]( https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad215](https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542515](https://pubmed.ncbi.nlm.nih.gov/37542515/)
@@ -35,7 +35,7 @@ tags: [ starch,transporter,endosperm,sucrose,sucrose transporter ]
 - **NCBI ID:** [LOC542131](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542131)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

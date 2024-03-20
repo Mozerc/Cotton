@@ -20,7 +20,7 @@ tags: [ stress,seedling,tolerance,cold tolerance,cold stress,cold,stress toleran
    - **ZmICE1** is induced by cold stress at transcription and protein levels, and positively regulates maize cold tolerance at the germination and seedling stages.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)
 
 ## Literature:
    - [Natural polymorphism of ZmICE1 contributes to amino acid metabolism that impacts cold tolerance in maize.]( https://www.nature.com/articles/s41477-022-01254-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01254-3](https://www.nature.com/articles/s41477-022-01254-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36241735](https://pubmed.ncbi.nlm.nih.gov/36241735/)
@@ -33,7 +33,7 @@ tags: [ stress,seedling,tolerance,cold tolerance,cold stress,cold,stress toleran
 - **NCBI ID:** [LOC100193144](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193144)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

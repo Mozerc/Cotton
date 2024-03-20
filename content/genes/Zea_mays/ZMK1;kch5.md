@@ -19,7 +19,7 @@ tags: [ kinase,homeostasis,protein kinase ]
    - In this study, we show that K+ channel **ZMK1** plays important roles in K+ uptake and homeostasis in maize. Similar to AKT1, **ZMK1** is activated by the ZmCBL1-ZmCIPK23 protein kinase complex.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
 
 ## Literature:
    - [ZMK1 Is Involved in K(+) Uptake and Regulated by Protein Kinase ZmCIPK23 in Zea mays.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7966722/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2021.517742](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7966722/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33746991](https://pubmed.ncbi.nlm.nih.gov/33746991/)
@@ -30,7 +30,7 @@ tags: [ kinase,homeostasis,protein kinase ]
 - **NCBI ID:**  [LOC542452](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542452)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

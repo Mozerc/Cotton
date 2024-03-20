@@ -20,7 +20,7 @@ tags: [ leaf,shoot,meristem,breeding,dwarf,lodging,resistant,shoot apical merist
    - GRMZM2G011385 is and rarely expressed in shoot apical meristem (SAM) or internodes, and GRMZM2G010353 was a homolog of Arabidopsis AMP1, and accordingly designated ZmAMP1. ZmAMP1 has 10 exons (Fig. 2C) and encodes a putative glutamate carboxypeptidase.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
 
 ## Literature:
    - [Cloning of a new allele of ZmAMP1 and evaluation of its breeding value in hybrid maize]( https://www.sciencedirect.com/science/article/pii/S2214514122001350)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.06.001](https://www.sciencedirect.com/science/article/pii/S2214514122001350)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ leaf,shoot,meristem,breeding,dwarf,lodging,resistant,shoot apical merist
 - **NCBI ID:** [103644151](https://www.ncbi.nlm.nih.gov/gene/?term=103644151)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

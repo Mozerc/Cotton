@@ -19,7 +19,7 @@ tags: [ tolerance,transporter,metal transport,as transport,co transport ]
    - knockout mutant(**nrat2**) detains Pb in roots, activates antioxidant enzymes, and improves Pb tolerance.
 
 ## Function-related keywords:
-[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[metal-transport](/tags/metal-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[co-transport](/tags/co-transport/)
+- [tolerance](/tags/tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[metal-transport](/tags/metal-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[co-transport](/tags/co-transport/)
 
 ## Literature:
    - [A genome-wide co-expression network analysis revealed ZmNRAMP6-mediated regulatory pathway involved in maize tolerance to lead stress.]( https://link.springer.com/article/10.1007/s00122-023-04371-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04371-5](https://link.springer.com/article/10.1007/s00122-023-04371-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37142873](https://pubmed.ncbi.nlm.nih.gov/37142873/)
@@ -30,7 +30,7 @@ tags: [ tolerance,transporter,metal transport,as transport,co transport ]
 - **NCBI ID:**  [LOC103626569](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103626569)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

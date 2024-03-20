@@ -18,7 +18,7 @@ tags: [ leaf ]
    - **ZmPAL** ,leaf cDNA csu156 similar to rice phenylalanine ammonia lyase.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)
+- [leaf](/tags/leaf/)
 
 ## Literature:
    - [Fighting Death for Living: Recent Advances in Molecular and Genetic Mechanisms Underlying Maize Lethal Necrosis Disease Resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9784999/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/v14122765](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9784999/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36560769](https://pubmed.ncbi.nlm.nih.gov/36560769/)
@@ -29,7 +29,7 @@ tags: [ leaf ]
 - **NCBI ID:**  [542258](https://www.ncbi.nlm.nih.gov/gene/?term=542258)
 - **UniProt accessions:** [Q8VXG7](https://www.uniprot.org/uniprotkb/Q8VXG7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

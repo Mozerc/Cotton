@@ -20,7 +20,7 @@ tags: [ transcription factor,root,development,root development,root hair ]
    - **Lrl2** encode a bHLH transcription factor.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)
 
 ## Literature:
    - [Complexity and specificity of the maize (Zea mays L.) root hair transcriptome.]( https://academic.oup.com/jxb/article/68/9/2175/3192113?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erx104](https://academic.oup.com/jxb/article/68/9/2175/3192113?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28398587](https://pubmed.ncbi.nlm.nih.gov/28398587/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,root,development,root development,root hair ]
 - **NCBI ID:**  [LOC103632755](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103632755)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

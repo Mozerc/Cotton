@@ -18,7 +18,7 @@ tags: [ drought,stress,drought stress,embryo ]
    - **ZmIQD12** displayed irregular expression patterns. The results may suggest that these ZmIQD genes involve in regulating drought stress in maize.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[embryo](/tags/embryo/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[embryo](/tags/embryo/)
 
 ## Literature:
    - [Genome-wide analysis of the IQD gene family in maize.]( https://link.springer.com/article/10.1007/s00438-015-1122-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00438-015-1122-7](https://link.springer.com/article/10.1007/s00438-015-1122-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26453258](https://pubmed.ncbi.nlm.nih.gov/26453258/)
@@ -29,7 +29,7 @@ tags: [ drought,stress,drought stress,embryo ]
 - **NCBI ID:**  [LOC103651273](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103651273)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ endosperm,demethylation ]
    - ZmROS1ab is required for imprinted expression of genes in endosperm.
 
 ## Function-related keywords:
-[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[demethylation](/tags/demethylation/)
+- [endosperm](/tags/endosperm/)&nbsp;,&nbsp;[demethylation](/tags/demethylation/)
 
 ## Literature:
    - [DNA demethylation affects imprinted gene expression in maize endosperm.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-022-02641-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35264226](https://pubmed.ncbi.nlm.nih.gov/35264226/)
@@ -33,7 +33,7 @@ tags: [ endosperm,demethylation ]
 - **NCBI ID:** [LOC100280151](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280151)
 - **UniProt accessions:** [A0A1D6QN28](https://www.uniprot.org/uniprotkb/A0A1D6QN28/entry)&nbsp;,&nbsp;[A0A1D6QN30](https://www.uniprot.org/uniprotkb/A0A1D6QN30/entry)&nbsp;,&nbsp;[A0A1D6QN35](https://www.uniprot.org/uniprotkb/A0A1D6QN35/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

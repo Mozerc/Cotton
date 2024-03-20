@@ -22,7 +22,7 @@ tags: [ root,growth,development,plant development,drought,stress,drought stress,
    - **ZmNF-YA1** bound to promoter CCAAT motifs and directly regulated the expression of multiple genes that play important roles in stress responses and plant development.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
    - [Transcription factors ZmNF-YA1 and ZmNF-YB16 regulate plant growth and drought tolerance in maize.]( https://academic.oup.com/plphys/article/190/2/1506/6647864?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac340](https://academic.oup.com/plphys/article/190/2/1506/6647864?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35861438](https://pubmed.ncbi.nlm.nih.gov/35861438/)
@@ -36,7 +36,7 @@ tags: [ root,growth,development,plant development,drought,stress,drought stress,
 - **NCBI ID:** [LOC100194365](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100194365)
 - **UniProt accessions:** [B4FIF5](https://www.uniprot.org/uniprotkb/B4FIF5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

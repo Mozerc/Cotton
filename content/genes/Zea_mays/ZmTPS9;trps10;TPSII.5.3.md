@@ -22,7 +22,7 @@ tags: [ starch,phosphate ]
    - These results indicate that **ZmTPS9** function affects starch content and, in turn, kernel weight.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)
+- [starch](/tags/starch/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)
 
 ## Literature:
    - [Genetic basis of kernel starch content decoded in a maize multi-parent population.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13645)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13645](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13645)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34077617](https://pubmed.ncbi.nlm.nih.gov/34077617/)
@@ -36,7 +36,7 @@ tags: [ starch,phosphate ]
 - **NCBI ID:** [LOC103654185](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103654185)
 - **UniProt accessions:** [A0A1D6QCI3](https://www.uniprot.org/uniprotkb/A0A1D6QCI3/entry)&nbsp;,&nbsp;[A0A1D6QCI5](https://www.uniprot.org/uniprotkb/A0A1D6QCI5/entry)&nbsp;,&nbsp;[A0A3L6F4F7](https://www.uniprot.org/uniprotkb/A0A3L6F4F7/entry)&nbsp;,&nbsp;[C4JBT8](https://www.uniprot.org/uniprotkb/C4JBT8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

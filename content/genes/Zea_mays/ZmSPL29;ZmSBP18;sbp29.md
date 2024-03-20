@@ -21,7 +21,7 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
    - **ZmSPL29** overexpression plants display precocious vegetative phase transition and floral transition, thus early flowering.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[phloem](/tags/phloem/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[phloem](/tags/phloem/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
 
 ## Literature:
    - [ZmSPL13 and ZmSPL29 act together to promote vegetative and reproductive transition in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19005)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19005](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19005)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37306069](https://pubmed.ncbi.nlm.nih.gov/37306069/)
@@ -33,7 +33,7 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
 - **NCBI ID:** [100283866](https://www.ncbi.nlm.nih.gov/gene/?term=100283866)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

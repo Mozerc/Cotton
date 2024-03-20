@@ -21,7 +21,7 @@ tags: [ stems,gibberellin,vegetative,reproductive,ga,ga biosynthetic,ga biosynth
    - Suppression of ZmGA20ox3 and Zm**ga20ox5** reduces the levels of bioactive GA.
 
 ## Function-related keywords:
-[stems](/tags/stems/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthetic](/tags/ga-biosynthetic/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)&nbsp;,&nbsp;[gibberellin-biosynthesis](/tags/gibberellin-biosynthesis/)
+- [stems](/tags/stems/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthetic](/tags/ga-biosynthetic/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)&nbsp;,&nbsp;[gibberellin-biosynthesis](/tags/gibberellin-biosynthesis/)
 
 ## Literature:
    - [Targeted suppression of gibberellin biosynthetic genes ZmGA20ox3 and ZmGA20ox5 produces a short stature maize ideotype.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13797](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13797)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35244326](https://pubmed.ncbi.nlm.nih.gov/35244326/)
@@ -33,7 +33,7 @@ tags: [ stems,gibberellin,vegetative,reproductive,ga,ga biosynthetic,ga biosynth
 - **NCBI ID:** [LOC100276935](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100276935)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

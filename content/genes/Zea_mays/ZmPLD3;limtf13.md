@@ -19,7 +19,7 @@ tags: [ pollen ]
    - **ZmPLD3** encodes a phospholipase expressed specifically in pollen.
 
 ## Function-related keywords:
-[pollen](/tags/pollen/)
+- [pollen](/tags/pollen/)
 
 ## Literature:
    - [Loss-of-function alleles of ZmPLD3 cause haploid induction in maize.]( https://www.nature.com/articles/s41477-021-01037-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-021-01037-2](https://www.nature.com/articles/s41477-021-01037-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34887519](https://pubmed.ncbi.nlm.nih.gov/34887519/)
@@ -30,7 +30,7 @@ tags: [ pollen ]
 - **NCBI ID:**  [LOC103639318](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103639318)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

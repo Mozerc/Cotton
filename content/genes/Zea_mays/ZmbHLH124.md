@@ -22,7 +22,7 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,drought tol
    - We identified a substitution in **ZmbHLH124** that produced an early stop codon in sensitive lines (**ZmbHLH124**S-ORG). Overexpression of **ZmbHLH124**T-ORG, but not **ZmbHLH124**S-ORG, in maize and rice enhanced plant drought tolerance and up-regulated the expression of drought-responsive genes.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)
 
 ## Literature:
    - [ZmbHLH124 identified in maize recombinant inbred lines contributes to drought tolerance in crops.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13637)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13637](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13637)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34031958](https://pubmed.ncbi.nlm.nih.gov/34031958/)
@@ -35,7 +35,7 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,drought tol
 - **NCBI ID:** [103630140](https://www.ncbi.nlm.nih.gov/gene/?term=103630140)
 - **UniProt accessions:** [K7UR97](https://www.uniprot.org/uniprotkb/K7UR97/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

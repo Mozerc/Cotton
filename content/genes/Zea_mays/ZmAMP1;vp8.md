@@ -20,7 +20,7 @@ tags: [ leaf,breeding,internode length,leaf size ]
    - Elucidating the biochemical function of **ZmAMP1** and identifying the substrate of this glutamate carboxypeptidase may reveal its biological function.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
    - [Cloning of a new allele of ZmAMP1 and evaluation of its breeding value in hybrid maize]( https://www.sciencedirect.com/science/article/pii/S2214514122001350)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.06.001](https://www.sciencedirect.com/science/article/pii/S2214514122001350)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ leaf,breeding,internode length,leaf size ]
 - **NCBI ID:** [100147738](https://www.ncbi.nlm.nih.gov/gene/?term=100147738)
 - **UniProt accessions:** [B1PDK9](https://www.uniprot.org/uniprotkb/B1PDK9/entry)&nbsp;,&nbsp;[A0A1D6L709](https://www.uniprot.org/uniprotkb/A0A1D6L709/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

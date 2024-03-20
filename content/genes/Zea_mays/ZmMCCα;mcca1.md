@@ -20,7 +20,7 @@ tags: [ seed,mitochondria,tolerance ]
    - **ZmMCCα**, an enzyme that is involved mainly in Leu degradation in mitochondria and positively contributes to maize seed vigor.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)
+- [seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)
 
 ## Literature:
    - [Maize PIMT2 repairs damaged 3-METHYLCROTONYL COA CARBOXYLASE in mitochondria, affecting seed vigor.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16225](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36999611](https://pubmed.ncbi.nlm.nih.gov/36999611/)
@@ -32,7 +32,7 @@ tags: [ seed,mitochondria,tolerance ]
 - **NCBI ID:** [LOC100280665](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280665)
 - **UniProt accessions:** [A0A1D6KFW6](https://www.uniprot.org/uniprotkb/A0A1D6KFW6/entry)&nbsp;,&nbsp;[B6SKB7](https://www.uniprot.org/uniprotkb/B6SKB7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

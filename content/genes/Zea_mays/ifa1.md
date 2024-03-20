@@ -21,7 +21,7 @@ tags: [ spikelet,floral,meristem,spikelet meristem,floral meristem,floral merist
    - Genetic interaction of **Ifa1**-r with mutants affecting floral and spikelet determinacy.
 
 ## Function-related keywords:
-[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[floral-meristem-determinacy](/tags/floral-meristem-determinacy/)
+- [spikelet](/tags/spikelet/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[floral-meristem-determinacy](/tags/floral-meristem-determinacy/)
 
 ## Literature:
    - [The indeterminate floral apex1 gene regulates meristem determinacy and identity in the maize inflorescence.]( https://journals.biologists.com/dev/article/129/11/2629/41666/The-indeterminate-floral-apex1-gene-regulates)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.129.11.2629](https://journals.biologists.com/dev/article/129/11/2629/41666/The-indeterminate-floral-apex1-gene-regulates)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12015291](https://pubmed.ncbi.nlm.nih.gov/12015291/)
@@ -34,7 +34,7 @@ tags: [ spikelet,floral,meristem,spikelet meristem,floral meristem,floral merist
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ fertility,jasmonate,male fertility ]
    - ZmJAZs may be required for male fertility.
 
 ## Function-related keywords:
-[fertility](/tags/fertility/)&nbsp;,&nbsp;[jasmonate](/tags/jasmonate/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)
+- [fertility](/tags/fertility/)&nbsp;,&nbsp;[jasmonate](/tags/jasmonate/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)
 
 ## Literature:
    - [ZmCOI2a and ZmCOI2b redundantly regulate anther dehiscence and gametophytic male fertility in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15708)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15708](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15708)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35167149](https://pubmed.ncbi.nlm.nih.gov/35167149/)
@@ -30,7 +30,7 @@ tags: [ fertility,jasmonate,male fertility ]
 - **NCBI ID:**  [LOC100276585](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100276585)
 - **UniProt accessions:** [A0A1D6K5B5](https://www.uniprot.org/uniprotkb/A0A1D6K5B5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

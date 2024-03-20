@@ -19,7 +19,7 @@ tags: [ nitrogen,stress,phosphorus,pi,pi uptake ]
    - Transcription factors NIGT1.2 and **NIGT1.1** play an important role in synergistically regulating the physiological process of nitrogen and phosphorus absorption.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)
 
 ## Literature:
    - [The Transcription Factor NIGT1.2 Modulates Both Phosphate Uptake and Nitrate Influx during Phosphate Starvation in Arabidopsis and Maize.]( https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00361](https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32958562](https://pubmed.ncbi.nlm.nih.gov/32958562/)
@@ -31,7 +31,7 @@ tags: [ nitrogen,stress,phosphorus,pi,pi uptake ]
 - **NCBI ID:** [100193306](https://www.ncbi.nlm.nih.gov/gene/?term=100193306)
 - **UniProt accessions:** [B4FEJ8](https://www.uniprot.org/uniprotkb/B4FEJ8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

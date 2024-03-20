@@ -21,7 +21,7 @@ tags: [ stem,grain,auxin,breeding,cell wall,cell elongation,auxin transport,cell
    - These attributes suggest that breeding could utilize **Bv1** alleles to increase crop grain yields.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)
+- [stem](/tags/stem/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)
 
 ## Literature:
    - [Brevis plant1, a putative inositol polyphosphate 5-phosphatase, is required for internode elongation in maize.]( https://academic.oup.com/jxb/article/67/5/1577/2885148?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erv554](https://academic.oup.com/jxb/article/67/5/1577/2885148?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26767748](https://pubmed.ncbi.nlm.nih.gov/26767748/)
@@ -33,7 +33,7 @@ tags: [ stem,grain,auxin,breeding,cell wall,cell elongation,auxin transport,cell
 - **NCBI ID:** [100194149](https://www.ncbi.nlm.nih.gov/gene/?term=100194149)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ development,defense ]
    - **ZmPAO1** plays an important role in tumor development during the maize-U.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[defense](/tags/defense/)
+- [development](/tags/development/)&nbsp;,&nbsp;[defense](/tags/defense/)
 
 ## Literature:
    - [Maize miR167-ARF3/30-polyamine oxidase 1 module-regulated H2O2 production confers resistance to maize chlorotic mottle virus.]( https://academic.oup.com/plphys/article/189/2/1065/6550062?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac099](https://academic.oup.com/plphys/article/189/2/1065/6550062?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35298645](https://pubmed.ncbi.nlm.nih.gov/35298645/)
@@ -34,7 +34,7 @@ tags: [ development,defense ]
 - **NCBI ID:**  [LOC541983](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541983)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

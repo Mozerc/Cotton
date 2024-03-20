@@ -22,7 +22,7 @@ tags: [ leaf,map-based cloning,cell division,architecture,breeding,cell wall,pla
    - These results provide insights into the genetic and molecular mechanisms of **ZmNL4** in controlling LW and could potentially contribute to optimizing plant architecture for maize breeding.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
    - [A kelch-repeat superfamily gene, ZmNL4, controls leaf width in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15348)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15348](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15348)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34009654](https://pubmed.ncbi.nlm.nih.gov/34009654/)
@@ -35,7 +35,7 @@ tags: [ leaf,map-based cloning,cell division,architecture,breeding,cell wall,pla
 - **NCBI ID:** [100279529](https://www.ncbi.nlm.nih.gov/gene/?term=100279529)
 - **UniProt accessions:** [A0A1D6PPA7](https://www.uniprot.org/uniprotkb/A0A1D6PPA7/entry)&nbsp;,&nbsp;[A0A1D6PP99](https://www.uniprot.org/uniprotkb/A0A1D6PP99/entry)&nbsp;,&nbsp;[A0A1D6PPA1](https://www.uniprot.org/uniprotkb/A0A1D6PPA1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

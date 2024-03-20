@@ -21,7 +21,7 @@ tags: [ resistance,disease,disease resistance ]
    - These results indicated that **ZmNANMT** plays a negative role in the NLR protein Rp1-D21-mediated HR in maize and overexpression of **ZmNANMT** partially overcomes the autoimmune phenotypes conferred by Rp1-D21.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)
 
 ## Literature:
    - [Genome editing of the susceptibility gene ZmNANMT confers multiple disease resistance without agronomic penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14078](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37254611](https://pubmed.ncbi.nlm.nih.gov/37254611/)
@@ -35,7 +35,7 @@ tags: [ resistance,disease,disease resistance ]
 - **NCBI ID:** [100283243](https://www.ncbi.nlm.nih.gov/gene/?term=100283243)
 - **UniProt accessions:** [A0A3L6F1Z0](https://www.uniprot.org/uniprotkb/A0A3L6F1Z0/entry)&nbsp;,&nbsp;[B6TG62](https://www.uniprot.org/uniprotkb/B6TG62/entry)&nbsp;,&nbsp;[C0HEH4](https://www.uniprot.org/uniprotkb/C0HEH4/entry)&nbsp;,&nbsp;[Q6VWE9](https://www.uniprot.org/uniprotkb/Q6VWE9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

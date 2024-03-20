@@ -21,7 +21,7 @@ tags: [ development,stress,seed,tolerance,stress tolerance,seed development,heat
    - **ZmGOLS2** expresses during post-imbibition dehydration stress and late in seed development
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
+- [development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
 
 ## Literature:
    - [Maize HSFA2 and HSBP2 antagonistically modulate raffinose biosynthesis and heat tolerance in Arabidopsis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14434](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31180156](https://pubmed.ncbi.nlm.nih.gov/31180156/)
@@ -33,7 +33,7 @@ tags: [ development,stress,seed,tolerance,stress tolerance,seed development,heat
 - **NCBI ID:**  [LOC606405](https://www.ncbi.nlm.nih.gov/gene/?term=LOC606405)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ auxin,height ]
    - **ZmPIN1a** gene product cross-reacts with anti-AtPIN1 antibody and in tassel and ear, the PIN proteins are localized to a group of cells in subepidermal meristematic layers.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[height](/tags/height/)
+- [auxin](/tags/auxin/)&nbsp;,&nbsp;[height](/tags/height/)
 
 ## Literature:
    - [Auxin efflux carrier ZmPIN1a modulates auxin reallocation involved in nitrate-mediated root formation.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-023-04087-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-023-04087-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-023-04087-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36737696](https://pubmed.ncbi.nlm.nih.gov/36737696/)
@@ -33,7 +33,7 @@ tags: [ auxin,height ]
 - **NCBI ID:** [LOC103637824](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103637824)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

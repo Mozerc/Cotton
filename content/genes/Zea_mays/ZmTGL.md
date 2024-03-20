@@ -21,7 +21,7 @@ tags: [ mitochondria,defense response,defense,salicylic acid,sa ]
    - **ZmTGL** associate with reducing HC-Pro accumulation, activation of salicylic acid-mediated defense response, and inhibition of sugarcane mosaic virus infection.
 
 ## Function-related keywords:
-[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[sa](/tags/sa/)
+- [mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[sa](/tags/sa/)
 
 ## Literature:
    - [A maize triacylglycerol lipase inhibits sugarcane mosaic virus infection.]( https://academic.oup.com/plphys/article/189/2/754/6549540?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac126](https://academic.oup.com/plphys/article/189/2/754/6549540?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35294544](https://pubmed.ncbi.nlm.nih.gov/35294544/)
@@ -33,7 +33,7 @@ tags: [ mitochondria,defense response,defense,salicylic acid,sa ]
 - **NCBI ID:**  [LOC100282902](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282902)
 - **UniProt accessions:** [B6TCI8](https://www.uniprot.org/uniprotkb/B6TCI8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

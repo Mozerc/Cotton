@@ -22,7 +22,7 @@ tags: [ nitrogen,transcription factor,root ]
    - **ZmNLP5** involves in modulating the nitrogen response.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)
 
 ## Literature:
    - [The NIN-like protein 5 (ZmNLP5) transcription factor is involved in modulating the nitrogen response in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14628)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14628](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14628)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31793100](https://pubmed.ncbi.nlm.nih.gov/31793100/)
@@ -34,7 +34,7 @@ tags: [ nitrogen,transcription factor,root ]
 - **NCBI ID:**  [LOC100383982](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383982)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

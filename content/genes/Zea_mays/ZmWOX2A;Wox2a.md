@@ -21,7 +21,7 @@ tags: [ embryo,somatic embryogenesis,callus,homeobox gene ]
    - **Wox2a** expression was 1.3-fold higher in 2 mm Hi-II AxB immature zygotic embryos compared to B73 embryos of the same developmental stage.
 
 ## Function-related keywords:
-[embryo](/tags/embryo/)&nbsp;,&nbsp;[somatic-embryogenesis](/tags/somatic-embryogenesis/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)
+- [embryo](/tags/embryo/)&nbsp;,&nbsp;[somatic-embryogenesis](/tags/somatic-embryogenesis/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)
 
 ## Literature:
    - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
@@ -34,7 +34,7 @@ tags: [ embryo,somatic embryogenesis,callus,homeobox gene ]
 - **NCBI ID:** [LOC103651027](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103651027)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

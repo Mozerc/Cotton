@@ -19,7 +19,7 @@ tags: [ root,growth,root growth,plant growth ]
    - **ZmAUX1**-0 plants displayed a clear agravitropic root growth phenotype.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
    - [Sparse panicle1 is required for inflorescence development in Setaria viridis and maize.]( https://www.nature.com/articles/nplants201754)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/nplants.2017.54](https://www.nature.com/articles/nplants201754)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28418381](https://pubmed.ncbi.nlm.nih.gov/28418381/)
@@ -31,7 +31,7 @@ tags: [ root,growth,root growth,plant growth ]
 - **NCBI ID:** [100285200](https://www.ncbi.nlm.nih.gov/gene/?term=100285200)
 - **UniProt accessions:** [B6U1Y3](https://www.uniprot.org/uniprotkb/B6U1Y3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

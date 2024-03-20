@@ -18,7 +18,7 @@ tags: [ transcription factor ]
    - **ZmAL6** encodes a alfin-like-transcription factor.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)
+- [transcription-factor](/tags/transcription-factor/)
 
 ## Literature:
    - [A temporal hierarchy underpins the transcription factor-DNA interactome of the maize UPR.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
@@ -29,7 +29,7 @@ tags: [ transcription factor ]
 - **NCBI ID:**  [LOC100283532](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283532)
 - **UniProt accessions:** [A0A3L6F225](https://www.uniprot.org/uniprotkb/A0A3L6F225/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

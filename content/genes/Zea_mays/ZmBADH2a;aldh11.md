@@ -19,7 +19,7 @@ tags: [ 2AP ，seed]
    - These results demonstrated that **ZmBADH2a** and ZmBADH2b are both involved in 2AP biosynthesis and only their combined inactivation results in 2AP accumulation in maize.
 
 ## Function-related keywords:
-[2AP](/tags/2AP/)&nbsp;,&nbsp;[seed](/tags/seeds/)
+- [2AP](/tags/2AP/)&nbsp;,&nbsp;[seed](/tags/seeds/)
 
 ## Literature:
    - [Creation of aromatic maize by CRISPR/Cas.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13105](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33934500](https://pubmed.ncbi.nlm.nih.gov/33934500/)
@@ -32,7 +32,7 @@ tags: [ 2AP ，seed]
 - **NCBI ID:** [LOC100302679](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100302679)
 - **UniProt accessions:** [A0A1D6Q181](https://www.uniprot.org/uniprotkb/A0A1D6Q181/entry)&nbsp;,&nbsp;[A0A1D6Q182](https://www.uniprot.org/uniprotkb/A0A1D6Q182/entry)&nbsp;,&nbsp;[K7UEL4](https://www.uniprot.org/uniprotkb/K7UEL4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

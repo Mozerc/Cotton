@@ -17,7 +17,7 @@ tags: [ tolerance,cold tolerance,cold ]
    - The key cold tolerance genes ZmHSP2 and **ZmPDIL2-2** were derived from related wild materials.
 
 ## Function-related keywords:
-[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)
+- [tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)
 
 ## Literature:
    - [QTL Mapping and a Transcriptome Integrative Analysis Uncover the Candidate Genes That Control the Cold Tolerance of Maize Introgression Lines at the Seedling Stage.]( https://www.mdpi.com/1422-0067/24/3/2629)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032629](https://www.mdpi.com/1422-0067/24/3/2629)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768951](https://pubmed.ncbi.nlm.nih.gov/36768951/)
@@ -29,7 +29,7 @@ tags: [ tolerance,cold tolerance,cold ]
 - **NCBI ID:**  [LOC100382754](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382754)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

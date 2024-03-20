@@ -20,7 +20,7 @@ tags: [ leaf,transcription factor,development,leaf development,stress,salt,toler
    - **ZmILI1** regulates ability to clear reactive oxygen species (ROS) and maintain cellular homeostasis; modulates the expression of transcription factor genes to help maize adapt to salt stress; enhances maize tolerance to salt stress.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
 
 ## Literature:
    - [ZmILI1 regulates leaf angle by directly affecting liguleless1 expression in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13255](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31529573](https://pubmed.ncbi.nlm.nih.gov/31529573/)
@@ -32,7 +32,7 @@ tags: [ leaf,transcription factor,development,leaf development,stress,salt,toler
 - **NCBI ID:**  [LOC103645865](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103645865)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

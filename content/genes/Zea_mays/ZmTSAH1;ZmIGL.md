@@ -21,7 +21,7 @@ tags: [ temperature,low-temperature ]
    - **ZmTSAH1** positively regulates low-temperature germination ability (LTGA).
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[low-temperature](/tags/low-temperature/)
+- [temperature](/tags/temperature/)&nbsp;,&nbsp;[low-temperature](/tags/low-temperature/)
 
 ## Literature:
    - [QTL-seq and transcriptomic integrative analyses reveal two positively regulated genes that control the low-temperature germination ability of MTP-maize introgression lines.]( https://link.springer.com/article/10.1007/s00122-023-04362-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04362-6](https://link.springer.com/article/10.1007/s00122-023-04362-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37093290](https://pubmed.ncbi.nlm.nih.gov/37093290/)
@@ -34,7 +34,7 @@ tags: [ temperature,low-temperature ]
 - **NCBI ID:**  [LOC100273163](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273163)
 - **UniProt accessions:** [B4FIR7](https://www.uniprot.org/uniprotkb/B4FIR7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

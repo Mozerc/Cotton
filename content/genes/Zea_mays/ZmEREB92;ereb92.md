@@ -22,7 +22,7 @@ tags: [ temperature,growth,seed,starch,seed germination,ethylene,cold,plant grow
    - **ZmEREB92** is a candidate gene that regulates ear height and the ratio of ear to plant height.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
+- [temperature](/tags/temperature/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
 
 ## Literature:
    - [ZmEREB92 plays a negative role in seed germination by regulating ethylene signaling and starch mobilization in maize.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011052)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1011052](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011052)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37976306](https://pubmed.ncbi.nlm.nih.gov/37976306/)
@@ -34,7 +34,7 @@ tags: [ temperature,growth,seed,starch,seed germination,ethylene,cold,plant grow
 - **NCBI ID:**  [LOC100280582](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280582)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

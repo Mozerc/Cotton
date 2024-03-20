@@ -21,7 +21,7 @@ tags: [ stress,tolerance,stress tolerance,stress response,heat tolerance,heat st
    - **ZmHSBP2** physically interacts with ZmHSFA2 and antagonistically modulates raffinose biosynthesis and plant tolerance of heat stress.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)
 
 ## Literature:
    - [Maize HSFA2 and HSBP2 antagonistically modulate raffinose biosynthesis and heat tolerance in Arabidopsis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14434](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31180156](https://pubmed.ncbi.nlm.nih.gov/31180156/)
@@ -33,7 +33,7 @@ tags: [ stress,tolerance,stress tolerance,stress response,heat tolerance,heat st
 - **NCBI ID:**  [100283717](https://www.ncbi.nlm.nih.gov/gene/?term=100283717)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ nitrogen,root,growth,kinase,root growth,plant growth,protein kinase ]
    - Root angle in maize influences nitrogen capture and is regulated by calcineurin B-like protein (CBL)-interacting serine/threonine-protein kinase 15 (**ZmCIPK15**).
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
 
 ## Literature:
    - [Root angle in maize influences nitrogen capture and is regulated by calcineurin B-like protein (CBL)-interacting serine/threonine-protein kinase 15 (ZmCIPK15).]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14135)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14135](https://onlinelibrary.wiley.com/doi/10.1111/pce.14135)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34169548](https://pubmed.ncbi.nlm.nih.gov/34169548/)
@@ -34,7 +34,7 @@ tags: [ nitrogen,root,growth,kinase,root growth,plant growth,protein kinase ]
 - **NCBI ID:** [LOC100285495](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285495)
 - **UniProt accessions:** [C0PGH5](https://www.uniprot.org/uniprotkb/C0PGH5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

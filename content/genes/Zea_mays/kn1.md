@@ -20,7 +20,7 @@ tags: [ resistance,cytokinin,herbicide resistance,herbicide ]
    - **Kn1** gene as a selection marker gene, no antibiotic-resistance or herbicide-resistance genes are needed so that potential risks associated with the use of these traditional selection marker genes can be eliminated.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[herbicide-resistance](/tags/herbicide-resistance/)&nbsp;,&nbsp;[herbicide](/tags/herbicide/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[herbicide-resistance](/tags/herbicide-resistance/)&nbsp;,&nbsp;[herbicide](/tags/herbicide/)
 
 ## Literature:
    - [The maize Knotted1 gene is an effective positive selectable marker gene for Agrobacterium-mediated tobacco transformation.]( https://link.springer.com/article/10.1007/s00299-005-0051-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-005-0051-z](https://link.springer.com/article/10.1007/s00299-005-0051-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16369767](https://pubmed.ncbi.nlm.nih.gov/16369767/)
@@ -33,7 +33,7 @@ tags: [ resistance,cytokinin,herbicide resistance,herbicide ]
 - **NCBI ID:** [LOC542391](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542391)
 - **UniProt accessions:** [Q4TV03](https://www.uniprot.org/uniprotkb/Q4TV03/entry)&nbsp;,&nbsp;[Q4TV04](https://www.uniprot.org/uniprotkb/Q4TV04/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

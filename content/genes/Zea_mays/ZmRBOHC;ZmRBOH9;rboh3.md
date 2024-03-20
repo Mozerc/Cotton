@@ -21,7 +21,7 @@ tags: [ resistance,drought,stress,drought stress,stomatal,drought resistance ]
    - In addition to its role in nuclei, ZmSRO1d-R possesses enhanced enzyme activity and the ability to mono-ADP-ribosylate and activate **ZmRBOHC** on the PM, which results in greater ROS generation in guard cells and enhanced plant drought resistance compared with that observed in ZmSRO1d-S plants.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
    - [Natural variations of ZmSRO1d modulate the trade-off between drought resistance and yield by affecting ZmRBOHC-mediated stomatal ROS production in maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00272-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205222002726%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.08.009](https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00272-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205222002726%3Fshowall%3Dtrue)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36045577](https://pubmed.ncbi.nlm.nih.gov/36045577/)
@@ -33,7 +33,7 @@ tags: [ resistance,drought,stress,drought stress,stomatal,drought resistance ]
 - **NCBI ID:** [100101532](https://www.ncbi.nlm.nih.gov/gene/?term=100101532)
 - **UniProt accessions:** [A0A1D6MAD7](https://www.uniprot.org/uniprotkb/A0A1D6MAD7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ grain,grain protein ]
    - These results confirm the notion that **GAR2** is responsible for the QTL on chromosome 7 that negatively regulates grain moisture in maize. The underlying molecular mechanism should be further explored.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [The genetic architecture of the dynamic changes in grain moisture in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13541](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33386670](https://pubmed.ncbi.nlm.nih.gov/33386670/)
@@ -32,7 +32,7 @@ tags: [ grain,grain protein ]
 - **NCBI ID:** [100384417](https://www.ncbi.nlm.nih.gov/gene/?term=100384417)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

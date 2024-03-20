@@ -18,7 +18,7 @@ tags: [ development ]
    - **Prc4** encodes a HIV1 TAT-binding protein homolog.
 
 ## Function-related keywords:
-[development](/tags/development/)
+- [development](/tags/development/)
 
 ## Literature:
    - [Mining genes regulating root system architecture in maize based on data integration analysis.]( https://link.springer.com/article/10.1007/s00122-023-04376-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04376-0](https://link.springer.com/article/10.1007/s00122-023-04376-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37188973](https://pubmed.ncbi.nlm.nih.gov/37188973/)
@@ -29,7 +29,7 @@ tags: [ development ]
 - **NCBI ID:**  [LOC100282100](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282100)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

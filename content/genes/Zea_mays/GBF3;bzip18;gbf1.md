@@ -18,7 +18,7 @@ tags: [ resistance,stress,disease,disease resistance,stress response ]
    - **GBF3** participates in disease resistance.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [Integrated Multi-Omics Reveals Significant Roles of Non-Additively Expressed Small RNAs in Heterosis for Maize Plant Height.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252383/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24119150](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252383/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37298102](https://pubmed.ncbi.nlm.nih.gov/37298102/)
@@ -29,7 +29,7 @@ tags: [ resistance,stress,disease,disease resistance,stress response ]
 - **NCBI ID:**  [LOC542309](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542309)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

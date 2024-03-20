@@ -20,7 +20,7 @@ tags: [ domestication,flavonoid ]
    - The cis-variant at **FHT1** might have played an important role in driving the metabolic divergence in flavonoid subgroups, including flavanones, flavones, isoflavones, and flavonols, since maize domestication.
 
 ## Function-related keywords:
-[domestication](/tags/domestication/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)
+- [domestication](/tags/domestication/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)
 
 ## Literature:
    - [Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and Its Wild Ancestor, Teosinte.]( https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00111](https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31227559](https://pubmed.ncbi.nlm.nih.gov/31227559/)
@@ -35,7 +35,7 @@ tags: [ domestication,flavonoid ]
 - **NCBI ID:** [542712](https://www.ncbi.nlm.nih.gov/gene/?term=542712)
 - **UniProt accessions:** [B4F8K3](https://www.uniprot.org/uniprotkb/B4F8K3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

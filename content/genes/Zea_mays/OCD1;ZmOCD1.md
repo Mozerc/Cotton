@@ -21,7 +21,7 @@ tags: [ development,quality,endosperm,endosperm development,nutritional quality 
    - **ZmOCD1** Catalyzes the Breakdown of Oxalyl-CoA into Formyl-CoA and CO2.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[nutritional-quality](/tags/nutritional-quality/)
+- [development](/tags/development/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[nutritional-quality](/tags/nutritional-quality/)
 
 ## Literature:
    - [Maize Oxalyl-CoA Decarboxylase1 Degrades Oxalate and Affects the Seed Metabolome and Nutritional Quality.]( https://academic.oup.com/plcell/article/30/10/2447/6099345?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00266](https://academic.oup.com/plcell/article/30/10/2447/6099345?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30201823](https://pubmed.ncbi.nlm.nih.gov/30201823/)
@@ -33,7 +33,7 @@ tags: [ development,quality,endosperm,endosperm development,nutritional quality 
 - **NCBI ID:** [LOC100191888](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191888)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

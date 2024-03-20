@@ -21,7 +21,7 @@ tags: [ transcription factor,pollen,anther,cuticle,cutin,pollen exine formation,
    - Loss function of **ZmMYB84** resulted in denser anther cuticle but thinner pollen exine similar to the pksb mutant.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
 
 ## Literature:
    - [The ZmMYB84-ZmPKSB regulatory module controls male fertility through modulating anther cuticle-pollen exine trade-off in maize anthers.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13911](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070225](https://pubmed.ncbi.nlm.nih.gov/36070225/)
@@ -33,7 +33,7 @@ tags: [ transcription factor,pollen,anther,cuticle,cutin,pollen exine formation,
 - **NCBI ID:** [LOC100279834](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279834)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

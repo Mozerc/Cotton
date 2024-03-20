@@ -20,7 +20,7 @@ tags: [ development,kinase,seed,meristem,seed weight,protein kinase,plasma membr
    - **ZmBAM1d** positively regulates corn kernel weight, and overexpression and knockout of this gene had no effect on other agronomic traits.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)
+- [development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)
 
 ## Literature:
    - [Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement.]( https://www.nature.com/articles/s41588-019-0427-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0427-6](https://www.nature.com/articles/s41588-019-0427-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31152161](https://pubmed.ncbi.nlm.nih.gov/31152161/)
@@ -32,7 +32,7 @@ tags: [ development,kinase,seed,meristem,seed weight,protein kinase,plasma membr
 - **NCBI ID:** [100279272](https://www.ncbi.nlm.nih.gov/gene/?term=100279272)
 - **UniProt accessions:** [A0A1D6JUB4](https://www.uniprot.org/uniprotkb/A0A1D6JUB4/entry)&nbsp;,&nbsp;[A0A317YC62](https://www.uniprot.org/uniprotkb/A0A317YC62/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

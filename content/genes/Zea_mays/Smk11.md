@@ -21,7 +21,7 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
    - **Smk11** is constitutively expressed and encodes a mitochondrial-localized TPR domain-containing protein.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
 
 ## Literature:
    - [Tetratricopeptide-containing SMALL KERNEL 11 is essential for the assembly of cytochrome c oxidase in maize mitochondria.]( https://academic.oup.com/plphys/article/192/1/170/7019383?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad062](https://academic.oup.com/plphys/article/192/1/170/7019383?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36722259](https://pubmed.ncbi.nlm.nih.gov/36722259/)
@@ -33,7 +33,7 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
 - **NCBI ID:**  [100192003](https://www.ncbi.nlm.nih.gov/gene/?term=100192003)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ root,growth,root growth ]
    - Maize lacking root hairs (**RTH3**) increased mycorrhizal colonization in P-limited soil to obtain more P.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
 
 ## Literature:
    - [Heterogeneous nutrient supply promotes maize growth and phosphorus acquisition: additive and compensatory effects of lateral roots and root hairs.]( https://academic.oup.com/aob/article/128/4/431/6328529?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/aob/mcab097](https://academic.oup.com/aob/article/128/4/431/6328529?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34309655](https://pubmed.ncbi.nlm.nih.gov/34309655/)
@@ -33,7 +33,7 @@ tags: [ root,growth,root growth ]
 - **NCBI ID:** [100279563](https://www.ncbi.nlm.nih.gov/gene/?term=100279563)
 - **UniProt accessions:** [B7ZYR7](https://www.uniprot.org/uniprotkb/B7ZYR7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

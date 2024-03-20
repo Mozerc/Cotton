@@ -19,7 +19,7 @@ tags: [  ]
    - **ZmKW10** was significantly associated with hundred kernel volume.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Genomic insights into historical improvement of heterotic groups during modern hybrid maize breeding.]( https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01190-2](https://www.nature.com/articles/s41477-022-01190-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851624](https://pubmed.ncbi.nlm.nih.gov/35851624/)
@@ -31,7 +31,7 @@ tags: [  ]
 - **NCBI ID:** [LOC100276746](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100276746)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

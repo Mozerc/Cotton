@@ -19,7 +19,7 @@ tags: [ grain,grain yield,yield,cell wall,endosperm ]
    - **ZmGIF1** can be used as a selection marker, and its expression can be combined between different parental cultivars to increase the invertase activity, and as a result, increase the grain yield of their hybrid progenies.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
 
 ## Literature:
    - [Constitutive expression of cell wall invertase genes increases grain yield and starch content in maize.]( https://link.springer.com/article/10.1007/s10725-017-0319-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12102](https://link.springer.com/article/10.1007/s10725-017-0319-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23926950](https://pubmed.ncbi.nlm.nih.gov/23926950/)
@@ -31,7 +31,7 @@ tags: [ grain,grain yield,yield,cell wall,endosperm ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

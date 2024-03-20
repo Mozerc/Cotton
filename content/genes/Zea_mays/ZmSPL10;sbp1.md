@@ -19,7 +19,7 @@ tags: [ leaf,auxin ]
    - **ZmSPL10**/14/26 play a critical role in specifying the cell fate of the precursor cells of trichome on the maize leaf, possibly through targeting ZmWOX3A and auxin-related genes.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[auxin](/tags/auxin/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[auxin](/tags/auxin/)
 
 ## Literature:
    - [ZmSPL10/14/26 are required for epidermal hair cell fate specification on maize leaf.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17293)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17293](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17293)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33626179](https://pubmed.ncbi.nlm.nih.gov/33626179/)
@@ -31,7 +31,7 @@ tags: [ leaf,auxin ]
 - **NCBI ID:** [LOC100127016](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100127016)
 - **UniProt accessions:** [B6TPH6](https://www.uniprot.org/uniprotkb/B6TPH6/entry)&nbsp;,&nbsp;[A0A1D6H271](https://www.uniprot.org/uniprotkb/A0A1D6H271/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

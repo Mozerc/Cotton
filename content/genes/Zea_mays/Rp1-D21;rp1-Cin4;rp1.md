@@ -20,7 +20,7 @@ tags: [ temperature,resistance,defense response,defense ]
    - **Rp1-D21** imparts dominant resistance to Rp1.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)
+- [temperature](/tags/temperature/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)
 
 ## Literature:
    - [The maize ZmVPS23-like protein relocates the nucleotide-binding leucine-rich repeat protein Rp1-D21 to endosomes and suppresses the defense response.]( https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad061](https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36869653](https://pubmed.ncbi.nlm.nih.gov/36869653/)
@@ -32,7 +32,7 @@ tags: [ temperature,resistance,defense response,defense ]
 - **NCBI ID:** [LOC100274731](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100274731)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

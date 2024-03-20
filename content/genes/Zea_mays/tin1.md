@@ -20,7 +20,7 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
    - Maize **tin1** controls the outgrowth of the tiller bud.
 
 ## Function-related keywords:
-[tillering](/tags/tillering/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)
+- [tillering](/tags/tillering/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)
 
 ## Literature:
    - [The tin1 gene retains the function of promoting tillering in maize.]( https://www.nature.com/articles/s41467-019-13425-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-019-13425-6](https://www.nature.com/articles/s41467-019-13425-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31811145](https://pubmed.ncbi.nlm.nih.gov/31811145/)
@@ -32,7 +32,7 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
 - **NCBI ID:** [LOC100275411](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100275411)
 - **UniProt accessions:** [A0A1D6HSJ8](https://www.uniprot.org/uniprotkb/A0A1D6HSJ8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

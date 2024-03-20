@@ -20,7 +20,7 @@ tags: [ xylem,development,auxin,vascular development ]
    - The authors argue that regulation of the ARF transcription factors may be involved in vascular development, since rum1 showed a strong lack of organization of xylem elements and pith cells in primary roots.
 
 ## Function-related keywords:
-[xylem](/tags/xylem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)
+- [xylem](/tags/xylem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)
 
 ## Literature:
    - [The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize (Zea mays L.) primary roots.]( https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru249](https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24928984](https://pubmed.ncbi.nlm.nih.gov/24928984/)
@@ -33,7 +33,7 @@ tags: [ xylem,development,auxin,vascular development ]
 - **NCBI ID:** [103642166](https://www.ncbi.nlm.nih.gov/gene/?term=103642166)
 - **UniProt accessions:** [K7U7P8](https://www.uniprot.org/uniprotkb/K7U7P8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

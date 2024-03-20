@@ -21,7 +21,7 @@ tags: [ growth,cell division,plant growth ]
    - **ZmArf2** positively regulates maize kernel size and plant agronomic traits through a complex molecular pathway.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
    - [An ARF24-ZmArf2 module influences kernel size in different maize haplotypes.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13473)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13473](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13473)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36866706](https://pubmed.ncbi.nlm.nih.gov/36866706/)
@@ -34,7 +34,7 @@ tags: [ growth,cell division,plant growth ]
 - **NCBI ID:** [LOC100174971](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100174971)
 - **UniProt accessions:** [A0A317YLR1](https://www.uniprot.org/uniprotkb/A0A317YLR1/entry)&nbsp;,&nbsp;[B4FF78](https://www.uniprot.org/uniprotkb/B4FF78/entry)&nbsp;,&nbsp;[B5A5U2](https://www.uniprot.org/uniprotkb/B5A5U2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

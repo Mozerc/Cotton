@@ -22,7 +22,7 @@ tags: [ transcription factor,grain,grain size,starch,grain filling,breeding,grai
    - **ZmGRAS11** positively regulates kernel size and weight.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [ZmGRAS11, transactivated by Opaque2, positively regulates kernel size in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13198)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13198](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13198)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34850567](https://pubmed.ncbi.nlm.nih.gov/34850567/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,grain,grain size,starch,grain filling,breeding,grai
 - **NCBI ID:** [LOC103635363](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635363)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

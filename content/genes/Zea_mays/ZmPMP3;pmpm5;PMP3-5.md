@@ -20,7 +20,7 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
    - The **ZmPMP3** (GRMZM2G477325) was reported to regulate ion homeostasis in yeast mutant under salt stress.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
+- [root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
    - [Molecular dissection of maize seedling salt tolerance using a genome-wide association analysis method.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13607)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13607](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13607)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33934485](https://pubmed.ncbi.nlm.nih.gov/33934485/)
@@ -33,7 +33,7 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 - **NCBI ID:** [100281012](https://www.ncbi.nlm.nih.gov/gene/?term=100281012)
 - **UniProt accessions:** [B4FFP9](https://www.uniprot.org/uniprotkb/B4FFP9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

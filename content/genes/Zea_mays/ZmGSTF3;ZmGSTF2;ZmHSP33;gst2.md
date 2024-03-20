@@ -18,7 +18,7 @@ tags: [ stress,tolerance,stress tolerance ]
    - **ZmGSTF2** encodes glutathione S-transferase subunit II.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
 
 ## Literature:
    - [Role of ZmGST Gene Family Involved in Nicosulfuron Stress Tolerance Revealed by Genomic and Transcriptomic Analyses]( https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy12112598](https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -29,7 +29,7 @@ tags: [ stress,tolerance,stress tolerance ]
 - **NCBI ID:**  [LOC542311](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542311)
 - **UniProt accessions:** [P46420](https://www.uniprot.org/uniprotkb/P46420/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ root,growth,grain,drought,grain yield,yield,aba,root growth,abscisic aci
    - Effect of ABA-inducible **ZmDRO1** on Arabidopsis root growth.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
 
 ## Literature:
    - [ABA-inducible DEEPER ROOTING 1 improves adaptation of maize to water deficiency.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13889)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13889](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13889)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35796628](https://pubmed.ncbi.nlm.nih.gov/35796628/)
@@ -37,7 +37,7 @@ tags: [ root,growth,grain,drought,grain yield,yield,aba,root growth,abscisic aci
 - **NCBI ID:** [103632815](https://www.ncbi.nlm.nih.gov/gene/?term=103632815)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

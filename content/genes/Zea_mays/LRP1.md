@@ -21,7 +21,7 @@ tags: [ transcription factor,root,development,auxin,crown root development,root 
    - LATERAL ROOT PRIMORDIA 1 of maize acts as a transcriptional activator in auxin signalling downstream of the Aux/IAA gene rootless with undetectable meristem 1.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[crown-root-development](/tags/crown-root-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[crown-root-initiation](/tags/crown-root-initiation/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[crown-root-development](/tags/crown-root-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[crown-root-initiation](/tags/crown-root-initiation/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)&nbsp;,&nbsp;[root-meristem](/tags/root-meristem/)
 
 ## Literature:
    - [LATERAL ROOT PRIMORDIA 1 of maize acts as a transcriptional activator in auxin signalling downstream of the Aux/IAA gene rootless with undetectable meristem 1.]( https://academic.oup.com/jxb/article/66/13/3855/514687?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erv187](https://academic.oup.com/jxb/article/66/13/3855/514687?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25911745](https://pubmed.ncbi.nlm.nih.gov/25911745/)
@@ -33,7 +33,7 @@ tags: [ transcription factor,root,development,auxin,crown root development,root 
 - **NCBI ID:** [100857065](https://www.ncbi.nlm.nih.gov/gene/?term=100857065)
 - **UniProt accessions:** [K7W1D3](https://www.uniprot.org/uniprotkb/K7W1D3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

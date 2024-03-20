@@ -19,7 +19,7 @@ tags: [ nitrogen,resistance,lodging,lodging resistance ]
    - The identified candidate gene **ZmNR2** and variants may be useful for the genetic improvement of maize lodging resistance.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[lodging](/tags/lodging/)&nbsp;,&nbsp;[lodging-resistance](/tags/lodging-resistance/)
 
 ## Literature:
    - [Genome-wide association study identifies novel candidate loci or genes affecting stalk strength in maize]( https://www.sciencedirect.com/science/article/pii/S2214514122001209)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.04.016](https://www.sciencedirect.com/science/article/pii/S2214514122001209)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ nitrogen,resistance,lodging,lodging resistance ]
 - **NCBI ID:** [100383210](https://www.ncbi.nlm.nih.gov/gene/?term=100383210)
 - **UniProt accessions:** [C0PE76](https://www.uniprot.org/uniprotkb/C0PE76/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

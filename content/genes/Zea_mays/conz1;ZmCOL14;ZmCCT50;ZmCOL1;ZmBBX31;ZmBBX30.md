@@ -21,7 +21,7 @@ tags: [ flowering time,flowering ]
    - As **conz1** was underneath of the peak of qPR9 and the **conz1** KO plants tended to exhibit similar effect patterns to the qPR9 NILs under varied photoperiods, **conz1** was considered the causative gene underlying qPR9.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A single nucleotide polymorphism in conz1 enhances maize adaptation to higher latitudes.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14148](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37558498](https://pubmed.ncbi.nlm.nih.gov/37558498/)
@@ -34,7 +34,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [100147736](https://www.ncbi.nlm.nih.gov/gene/?term=100147736)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

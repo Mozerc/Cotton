@@ -21,7 +21,7 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
    - The identified favorable CG allele of **ZmCGT1** may be further used for genetic improvement of nutritional quality in maize.
 
 ## Function-related keywords:
-[quality](/tags/quality/)&nbsp;,&nbsp;[nutritional-quality](/tags/nutritional-quality/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)&nbsp;,&nbsp;[flavone](/tags/flavone/)
+- [quality](/tags/quality/)&nbsp;,&nbsp;[nutritional-quality](/tags/nutritional-quality/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)&nbsp;,&nbsp;[flavone](/tags/flavone/)
 
 ## Literature:
    - [Natural variation of ZmCGT1 is responsible for isoorientin accumulation in maize silk.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15549](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34695260](https://pubmed.ncbi.nlm.nih.gov/34695260/)
@@ -35,7 +35,7 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
 - **NCBI ID:** [100282556](https://www.ncbi.nlm.nih.gov/gene/?term=100282556)
 - **UniProt accessions:** [K7V1F2](https://www.uniprot.org/uniprotkb/K7V1F2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

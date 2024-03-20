@@ -19,7 +19,7 @@ tags: [ cell wall,lignin,lignin biosynthesis ]
    - **BM5** encodes 4-coumarate-CoA ligase,mutants displayed lower levels of lignins and of p-coumarate esters, but increased levels of ferulate esters
 
 ## Function-related keywords:
-[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/)
+- [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/)
 
 ## Literature:
    - [Mutation of 4-coumarate: coenzyme A ligase 1 gene affects lignin biosynthesis and increases the cell wall digestibility in maize brown midrib5 mutants.]( https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1421-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13068-019-1421-z](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1421-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31007716](https://pubmed.ncbi.nlm.nih.gov/31007716/)
@@ -31,7 +31,7 @@ tags: [ cell wall,lignin,lignin biosynthesis ]
 - **NCBI ID:**  [LOC542166](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542166)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

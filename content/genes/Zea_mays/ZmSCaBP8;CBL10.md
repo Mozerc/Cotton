@@ -19,7 +19,7 @@ tags: [ stress,salt,salt stress,homeostasis,calcium ]
    - **ZmSCaBP8** and ZmSOS3 activate ZmSOS2 under salt stress and may participate in the regulation of ZmSOS2 by ZmSK3 and ZmSK4 under certain conditions.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[calcium](/tags/calcium/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[calcium](/tags/calcium/)
 
 ## Literature:
    - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
@@ -30,7 +30,7 @@ tags: [ stress,salt,salt stress,homeostasis,calcium ]
 - **NCBI ID:**  [LOC100193926](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193926)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

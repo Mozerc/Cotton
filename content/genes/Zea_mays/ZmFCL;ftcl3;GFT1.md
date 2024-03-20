@@ -19,7 +19,7 @@ tags: [  ]
    - Haplotype analysis of **ZmFCL** revealed variable effects on 5-FTHF content.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [A genome-wide association study of folates in sweet corn kernels.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.1004455/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1004455](https://www.frontiersin.org/articles/10.3389/fpls.2022.1004455/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36247547](https://pubmed.ncbi.nlm.nih.gov/36247547/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100191169](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191169)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

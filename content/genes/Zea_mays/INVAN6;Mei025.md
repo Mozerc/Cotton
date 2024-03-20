@@ -22,7 +22,7 @@ tags: [ development,pollen,stress,alkaline tolerance,alkaline stress,tolerance,p
    - Male sterile with dominant Mei1, chromatin hyper-condensed, chromosomes sticky in metaphase I and anaphase I.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[alkaline-tolerance](/tags/alkaline-tolerance/)&nbsp;,&nbsp;[alkaline-stress](/tags/alkaline-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[meiosis](/tags/meiosis/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[sugar-homeostasis](/tags/sugar-homeostasis/)
+- [development](/tags/development/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[alkaline-tolerance](/tags/alkaline-tolerance/)&nbsp;,&nbsp;[alkaline-stress](/tags/alkaline-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[meiosis](/tags/meiosis/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[sugar-homeostasis](/tags/sugar-homeostasis/)
 
 ## Literature:
    - [Maize cytosolic invertase INVAN6 ensures faithful meiotic progression under heat stress.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18490)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18490](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18490)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36104957](https://pubmed.ncbi.nlm.nih.gov/36104957/)
@@ -35,7 +35,7 @@ tags: [ development,pollen,stress,alkaline tolerance,alkaline stress,tolerance,p
 - **NCBI ID:** [LOC103626555](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103626555)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

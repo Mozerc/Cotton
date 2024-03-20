@@ -20,7 +20,7 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,amino acid transpo
    - **ZmHMA**3 encodes a tonoplast-localized P1B-type HMA transporter. According to the sequence variations of **ZmHMA**3, four PCR-based molecular markers were developed that can predict and well differentiate between high Cd accumulation and low Cd accumulation maize inbred lines and hybrids.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)&nbsp;,&nbsp;[heavy-metal](/tags/heavy-metal/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)&nbsp;,&nbsp;[heavy-metal](/tags/heavy-metal/)
 
 ## Literature:
    - [Natural variations in the P-type ATPase heavy metal transporter gene ZmHMA3 control cadmium accumulation in maize grains.]( https://academic.oup.com/jxb/article/72/18/6230/6291825?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab254](https://academic.oup.com/jxb/article/72/18/6230/6291825?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34235535](https://pubmed.ncbi.nlm.nih.gov/34235535/)
@@ -33,7 +33,7 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,amino acid transpo
 - **NCBI ID:** [LOC103647210](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103647210)
 - **UniProt accessions:** [A0A3L6FW78](https://www.uniprot.org/uniprotkb/A0A3L6FW78/entry)&nbsp;,&nbsp;[A0A1D6EL09](https://www.uniprot.org/uniprotkb/A0A1D6EL09/entry)&nbsp;,&nbsp;[A0A3L6FV53](https://www.uniprot.org/uniprotkb/A0A3L6FV53/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

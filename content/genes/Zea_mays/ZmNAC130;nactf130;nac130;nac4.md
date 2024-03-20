@@ -21,7 +21,7 @@ tags: [ starch,transporter,endosperm,sucrose,sucrose transporter ]
    - ZmNAC128 and **ZmNAC130** cooperate with O2 to facilitate endosperm filling, which involves nutrient uptake in the basal endosperm transfer layer (BETL) and the synthesis of zeins and starch in the starchy endosperm (SE).
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
+- [starch](/tags/starch/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
    - [The transcription factors ZmNAC128 and ZmNAC130 coordinate with Opaque2 to promote endosperm filling in maize.]( https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad215](https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542515](https://pubmed.ncbi.nlm.nih.gov/37542515/)
@@ -36,7 +36,7 @@ tags: [ starch,transporter,endosperm,sucrose,sucrose transporter ]
 - **NCBI ID:** [LOC606433](https://www.ncbi.nlm.nih.gov/gene/?term=LOC606433)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

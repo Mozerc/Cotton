@@ -21,7 +21,7 @@ tags: [ growth,resistance,yield,insect,pathogen,lignin,insect resistance,pathoge
    - **ZmBGLU17** overexpression lines exhibited normal growth and yield phenotype in the field.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [A dual-subcellular localized β-glucosidase confers pathogen and insect resistance without a yield penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14242](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38012865](https://pubmed.ncbi.nlm.nih.gov/38012865/)
@@ -33,7 +33,7 @@ tags: [ growth,resistance,yield,insect,pathogen,lignin,insect resistance,pathoge
 - **NCBI ID:** [LOC103643865](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643865)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

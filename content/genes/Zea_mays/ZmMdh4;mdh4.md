@@ -23,7 +23,7 @@ tags: [ development,starch,mitochondria,endosperm,endosperm development,starch a
    - Knocking down **ZmMdh4** in vivo led to a substantial metabolic shift towards glycolysis and a dramatic disruption in the activity of the mitochondrial complex I, which was correlated with transcriptomic alterations.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [Cytosolic malate dehydrogenase 4 modulates cellular energetics and storage reserve accumulation in maize endosperm.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13416)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13416](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13416)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32436613](https://pubmed.ncbi.nlm.nih.gov/32436613/)
@@ -38,7 +38,7 @@ tags: [ development,starch,mitochondria,endosperm,endosperm development,starch a
 - **NCBI ID:** [542598](https://www.ncbi.nlm.nih.gov/gene/?term=542598)
 - **UniProt accessions:** [Q08062](https://www.uniprot.org/uniprotkb/Q08062/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

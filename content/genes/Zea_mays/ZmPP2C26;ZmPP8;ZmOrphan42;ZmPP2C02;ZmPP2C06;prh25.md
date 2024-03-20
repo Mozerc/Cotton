@@ -23,7 +23,7 @@ tags: [ root,shoot,drought,stress,drought stress,photosynthesis,tolerance,drough
    - **ZmPP2C26** expression in both shoot and root was significantly inhibited by drought stress.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[chlorophyll](/tags/chlorophyll/)&nbsp;,&nbsp;[chlorophyll-content](/tags/chlorophyll-content/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
+- [root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[chlorophyll](/tags/chlorophyll/)&nbsp;,&nbsp;[chlorophyll-content](/tags/chlorophyll-content/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
    - [ZmPP2C26 Alternative Splicing Variants Negatively Regulate Drought Tolerance in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.851531/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.851531](https://www.frontiersin.org/articles/10.3389/fpls.2022.851531/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35463404](https://pubmed.ncbi.nlm.nih.gov/35463404/)
@@ -35,7 +35,7 @@ tags: [ root,shoot,drought,stress,drought stress,photosynthesis,tolerance,drough
 - **NCBI ID:** [LOC100383423](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383423)
 - **UniProt accessions:** [A0A317YBJ5](https://www.uniprot.org/uniprotkb/A0A317YBJ5/entry)&nbsp;,&nbsp;[A3F4K2](https://www.uniprot.org/uniprotkb/A3F4K2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

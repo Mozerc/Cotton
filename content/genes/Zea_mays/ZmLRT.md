@@ -21,7 +21,7 @@ tags: [ seedlings,root,drought,tolerance,drought tolerance,lateral root,primary 
    - **ZmLRT** in the regulation of lateral root number and drought tolerance in maize.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-number](/tags/root-number/)&nbsp;,&nbsp;[lateral-root-number](/tags/lateral-root-number/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-number](/tags/root-number/)&nbsp;,&nbsp;[lateral-root-number](/tags/lateral-root-number/)
 
 ## Literature:
    - [Positional cloning and characterization reveal the role of a miRNA precursor gene ZmLRT in the regulation of lateral root number and drought tolerance in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13408)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13408](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13408)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36354146](https://pubmed.ncbi.nlm.nih.gov/36354146/)
@@ -33,7 +33,7 @@ tags: [ seedlings,root,drought,tolerance,drought tolerance,lateral root,primary 
 - **NCBI ID:** [LOC100275467](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100275467)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

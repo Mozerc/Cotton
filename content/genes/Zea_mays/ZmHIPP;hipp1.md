@@ -22,7 +22,7 @@ tags: [ seedlings,stress,tolerance,stress tolerance,cell wall ]
    - The polymorphism (A/G) in **ZmHIPP** promoter contributes to the difference in Pb-tolerance among maize lines.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)
 
 ## Literature:
    - [Effects of ZmHIPP on lead tolerance in maize seedlings: Novel ideas for soil bioremediation.]( https://www.sciencedirect.com/science/article/pii/S030438942200245X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jhazmat.2022.128457](https://www.sciencedirect.com/science/article/pii/S030438942200245X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35180524](https://pubmed.ncbi.nlm.nih.gov/35180524/)
@@ -35,7 +35,7 @@ tags: [ seedlings,stress,tolerance,stress tolerance,cell wall ]
 - **NCBI ID:** [LOC103647091](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103647091)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

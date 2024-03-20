@@ -22,7 +22,7 @@ tags: [ leaf,leaf shape ]
    - **ZmLNG1** regulates maize organ shape.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)
 
 ## Literature:
    - [Natural variation of ZmLNG1 alters organ shapes in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18563)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18563](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18563)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36266960](https://pubmed.ncbi.nlm.nih.gov/36266960/)
@@ -34,7 +34,7 @@ tags: [ leaf,leaf shape ]
 - **NCBI ID:** [LOC103633403](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103633403)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
    - cis-NAT**ZmNAC48** and **ZmNAC48** transcripts have the potential to generate nat-siRNAs in response to drought stress.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [A natural antisense transcript acts as a negative regulator for the maize drought stress response gene ZmNAC48.]( https://academic.oup.com/jxb/article/72/7/2790/6106568?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab023](https://academic.oup.com/jxb/article/72/7/2790/6106568?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33481006](https://pubmed.ncbi.nlm.nih.gov/33481006/)
@@ -33,7 +33,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 - **NCBI ID:** [LOC100281072](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281072)
 - **UniProt accessions:** [B6SRZ1](https://www.uniprot.org/uniprotkb/B6SRZ1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

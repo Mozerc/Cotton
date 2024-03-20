@@ -19,7 +19,7 @@ tags: [ grain,transporter,cell wall,sugar,sucrose,sugar transport,as transport,s
    - The expression of ZmSUT1 in the BETL suggests that sucrose uptake may occur in parallel with hexose import facilitated by ZmSTPs and ZmSWEET3a/4c, thereby contributing further to sugar transport in the maize grain.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)
 
 ## Literature:
    - [A transcriptional landscape underlying sugar import for grain set in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35020972](https://pubmed.ncbi.nlm.nih.gov/35020972/)
@@ -32,7 +32,7 @@ tags: [ grain,transporter,cell wall,sugar,sucrose,sugar transport,as transport,s
 - **NCBI ID:** [100273706](https://www.ncbi.nlm.nih.gov/gene/?term=100273706)
 - **UniProt accessions:** [B4FX31](https://www.uniprot.org/uniprotkb/B4FX31/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

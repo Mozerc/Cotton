@@ -19,7 +19,7 @@ tags: [ leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wal
    - The ortholog of ARABIDOPSIS RAPID ALKALINIZATION FACTOR 23, ATRALF23.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[pollen-wall](/tags/pollen-wall/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[pollen-wall](/tags/pollen-wall/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)
 
 ## Literature:
    - [The RALF signaling pathway regulates cell wall integrity during pollen tube growth in maize.]( https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad324/7492839?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad324](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad324/7492839?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38142229](https://pubmed.ncbi.nlm.nih.gov/38142229/)
@@ -31,7 +31,7 @@ tags: [ leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wal
 - **NCBI ID:**  [LOC100284232](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284232)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

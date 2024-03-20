@@ -21,7 +21,7 @@ tags: [ growth,development,resistance,plant development,stress,ja,blight,oxidati
    - In addition, disruption of **ZmGLP2** (a MEG) by CRISPR/Cas9 also resulted in a smaller kernel phenotype, and thus it might provide an example in support of the maternal-offspring co-adaptation theory, like Meg1.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[cellular-activities](/tags/cellular-activities/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[cellular-activities](/tags/cellular-activities/)
 
 ## Literature:
    - [Molecular Characterization of Germin-like Protein Genes in Zea mays (ZmGLPs) Using Various In Silico Approaches.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10173433/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1021/acsomega.3c01104](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10173433/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37179620](https://pubmed.ncbi.nlm.nih.gov/37179620/)
@@ -32,7 +32,7 @@ tags: [ growth,development,resistance,plant development,stress,ja,blight,oxidati
 - **NCBI ID:**  [LOC100273345](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273345)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

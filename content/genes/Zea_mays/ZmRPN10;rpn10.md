@@ -19,7 +19,7 @@ tags: [ leaf,br,leaf angle ]
    - We can speculate that under exogenous BR treatment, **ZmRPN10** may regulate maize leaf angle changes through these differentially expressed.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Study on ZmRPN10 Regulating Leaf Angle in Maize by RNA-Seq.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9820655/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24010189](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9820655/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36613631](https://pubmed.ncbi.nlm.nih.gov/36613631/)
@@ -30,7 +30,7 @@ tags: [ leaf,br,leaf angle ]
 - **NCBI ID:**  [LOC100283637](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283637)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

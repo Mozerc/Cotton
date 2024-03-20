@@ -21,7 +21,7 @@ tags: [ kinase,grain,grain length,grain number,grain yield,yield,meristem,inflor
    - The haplotype 2 allele of **KNR6** enhances hybrid grain yield.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [A serine/threonine protein kinase encoding gene KERNEL NUMBER PER ROW6 regulates maize grain yield.]( https://www.nature.com/articles/s41467-020-14746-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14746-7](https://www.nature.com/articles/s41467-020-14746-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32080171](https://pubmed.ncbi.nlm.nih.gov/32080171/)
@@ -33,7 +33,7 @@ tags: [ kinase,grain,grain length,grain number,grain yield,yield,meristem,inflor
 - **NCBI ID:** [LOC100281753](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281753)
 - **UniProt accessions:** [C0PKQ4](https://www.uniprot.org/uniprotkb/C0PKQ4/entry)&nbsp;,&nbsp;[A0A1D6LPP9](https://www.uniprot.org/uniprotkb/A0A1D6LPP9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

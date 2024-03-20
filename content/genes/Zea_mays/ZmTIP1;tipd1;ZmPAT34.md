@@ -21,7 +21,7 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
    - The results of this research enrich our knowledge about **ZmTIP1**-mediated protein S-acylation modifications in relation to the regulation of root hair elongation and drought tolerance.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
+- [root](/tags/root/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
    - [Genetic variation in ZmTIP1 contributes to root hair elongation and drought tolerance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13290)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13290](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13290)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31692165](https://pubmed.ncbi.nlm.nih.gov/31692165/)
@@ -35,7 +35,7 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
 - **NCBI ID:** [103638729](https://www.ncbi.nlm.nih.gov/gene/?term=103638729)
 - **UniProt accessions:** [K7WAN1](https://www.uniprot.org/uniprotkb/K7WAN1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

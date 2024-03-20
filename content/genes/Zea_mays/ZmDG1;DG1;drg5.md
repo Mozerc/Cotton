@@ -19,7 +19,7 @@ tags: [ grain,starch,grain filling,aba,ethylene,grain weight,endosperm,aba biosy
    - Mutations in **ZmDG1** result in incomplete grain filling, likely by downregulating starch biosynthesis-related genes.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [Striking a growth-defense balance: Stress regulators that function in maize development.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13570)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13570](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13570)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37787439](https://pubmed.ncbi.nlm.nih.gov/37787439/)
@@ -31,7 +31,7 @@ tags: [ grain,starch,grain filling,aba,ethylene,grain weight,endosperm,aba biosy
 - **NCBI ID:**  [LOC100281043](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281043)
 - **UniProt accessions:** [A0A1D6JUA9](https://www.uniprot.org/uniprotkb/A0A1D6JUA9/entry)&nbsp;,&nbsp;[A0A317YC05](https://www.uniprot.org/uniprotkb/A0A317YC05/entry)&nbsp;,&nbsp;[B6SRM1](https://www.uniprot.org/uniprotkb/B6SRM1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

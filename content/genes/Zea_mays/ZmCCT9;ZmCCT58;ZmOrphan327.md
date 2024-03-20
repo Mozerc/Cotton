@@ -19,7 +19,7 @@ tags: [ flowering ]
    - Knockout of **ZmCCT9** Causes Early Flowering Under Long Days.
 
 ## Function-related keywords:
-[flowering](/tags/flowering/)
+- [flowering](/tags/flowering/)
 
 ## Literature:
    - [ZmCCT9 enhances maize adaptation to higher latitudes.]( https://www.pnas.org/doi/full/10.1073/pnas.1718058115)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1718058115](https://www.pnas.org/doi/full/10.1073/pnas.1718058115)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29279404](https://pubmed.ncbi.nlm.nih.gov/29279404/)
@@ -30,7 +30,7 @@ tags: [ flowering ]
 - **NCBI ID:** [103638936](https://www.ncbi.nlm.nih.gov/gene/?term=103638936)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

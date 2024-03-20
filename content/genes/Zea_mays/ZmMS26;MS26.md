@@ -21,7 +21,7 @@ tags: [ growth,grain,fertility,anther,sterility,grain yield,yield,vegetative,tap
    - Tapetal cells abnormal, die early; microspores vacuolate early and abort after the tetrad stage.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
 
 ## Literature:
    - [Genome Editing Enables Next-Generation Hybrid Seed Production Technology.]( https://www.sciencedirect.com/science/article/pii/S1674205220301817?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2020.06.003](https://www.sciencedirect.com/science/article/pii/S1674205220301817?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32645290](https://pubmed.ncbi.nlm.nih.gov/32645290/)
@@ -32,7 +32,7 @@ tags: [ growth,grain,fertility,anther,sterility,grain yield,yield,vegetative,tap
 - **NCBI ID:** [100191749](https://www.ncbi.nlm.nih.gov/gene/?term=100191749)
 - **UniProt accessions:** [Q94KE5](https://www.uniprot.org/uniprotkb/Q94KE5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

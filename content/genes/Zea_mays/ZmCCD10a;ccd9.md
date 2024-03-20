@@ -22,7 +22,7 @@ tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi,carotene,carotene a
    - **ZmCCD10a**-involved regulatory pathway that adjusts Pi allocation.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[carotene](/tags/carotene/)&nbsp;,&nbsp;[carotene-accumulation](/tags/carotene-accumulation/)
+- [root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[carotene](/tags/carotene/)&nbsp;,&nbsp;[carotene-accumulation](/tags/carotene-accumulation/)
 
 ## Literature:
    - [ZmCCD10a Encodes a Distinct Type of Carotenoid Cleavage Dioxygenase and Enhances Plant Tolerance to Low Phosphate.]( https://academic.oup.com/plphys/article/184/1/374/6117832?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00378](https://academic.oup.com/plphys/article/184/1/374/6117832?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32586893](https://pubmed.ncbi.nlm.nih.gov/32586893/)
@@ -34,7 +34,7 @@ tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi,carotene,carotene a
 - **NCBI ID:**  [LOC100286117](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100286117)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

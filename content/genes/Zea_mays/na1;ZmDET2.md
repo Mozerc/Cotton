@@ -21,7 +21,7 @@ tags: [ development,br,inflorescence,dwarf,inflorescence development ]
    - Defects in **NA1** Greatly Reduced Endogenous BR Levels.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [Brassinosteroid control of sex determination in maize.]( https://www.pnas.org/doi/10.1073/pnas.1108359108?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1108359108](https://www.pnas.org/doi/10.1073/pnas.1108359108?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22106275](https://pubmed.ncbi.nlm.nih.gov/22106275/)
@@ -33,7 +33,7 @@ tags: [ development,br,inflorescence,dwarf,inflorescence development ]
 - **NCBI ID:** [100283443](https://www.ncbi.nlm.nih.gov/gene/?term=100283443)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ defense ]
    - Twenty-five candidate genes were identified in this region based on the B73 reference genome, including two coiled-coil nucleotide-binding site leucine-rich repeat (CC-NBS-LRR) genes, Zm00001d023265 and Zm00001d023267. qRT-PCR analysis indicated that the expression of both Zm00001d023265 and Zm00001d023267 was higher in L119A than in Lx9801 independently of P. polysora inoculation.
 
 ## Function-related keywords:
-[defense](/tags/defense/)
+- [defense](/tags/defense/)
 
 ## Literature:
    - [Systematic dissection of disease resistance to southern corn rust by bulked-segregant and transcriptome analysis](https://www.sciencedirect.com/science/article/pii/S2214514121001550?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.07.001](https://www.sciencedirect.com/science/article/pii/S2214514121001550?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ defense ]
 - **NCBI ID:** [LOC100381533](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100381533)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,aba,stomatal ]
    - We identified an S-type anion channel **ZmSLAC1** that was preferentially expressed in maize guard cells and involved in stomatal closure under drought stress.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
 
 ## Literature:
    - [Two calcium-dependent protein kinases enhance maize drought tolerance by activating anion channel ZmSLAC1 in guard cells.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13701](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34498364](https://pubmed.ncbi.nlm.nih.gov/34498364/)
@@ -35,7 +35,7 @@ tags: [ drought,stress,drought stress,aba,stomatal ]
 - **NCBI ID:** [103648441](https://www.ncbi.nlm.nih.gov/gene/?term=103648441)
 - **UniProt accessions:** [A0A1D6E265](https://www.uniprot.org/uniprotkb/A0A1D6E265/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

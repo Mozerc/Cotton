@@ -19,7 +19,7 @@ tags: [ architecture,ga,plant architecture ]
    - The kaurene oxidase ZmKO1 (ZmCYP701A26) is a P450 displaying substrate promiscuity prototypical for the GA pathway enzyme27.
 
 ## Function-related keywords:
-[architecture](/tags/architecture/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+- [architecture](/tags/architecture/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
    - [Multiple genes recruited from hormone pathways partition maize diterpenoid defences.]( https://www.nature.com/articles/s41477-019-0509-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0509-6](https://www.nature.com/articles/s41477-019-0509-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31527844](https://pubmed.ncbi.nlm.nih.gov/31527844/)
@@ -30,7 +30,7 @@ tags: [ architecture,ga,plant architecture ]
 - **NCBI ID:** [103638615](https://www.ncbi.nlm.nih.gov/gene/?term=103638615)
 - **UniProt accessions:** [K7VA31](https://www.uniprot.org/uniprotkb/K7VA31/entry)&nbsp;,&nbsp;[A0A1D6P253](https://www.uniprot.org/uniprotkb/A0A1D6P253/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

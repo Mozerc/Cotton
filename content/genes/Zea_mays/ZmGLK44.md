@@ -20,7 +20,7 @@ tags: [ drought,tolerance,drought tolerance ]
    - Based on our data sets, **ZmGLK44** is a hub gene correlated / associated with 30 drought-responsive metabolites. Eight of these are annotated amino acids. To elucidate the roles of **ZmGLK44** in regulating the biosynthesis of these drought-responsive metabolites, we generated **ZmGLK44** inducible overexpression transgene maize lines.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
    - [Genomic basis underlying the metabolome-mediated drought adaptation of maize.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-021-02481-1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34488839](https://pubmed.ncbi.nlm.nih.gov/34488839/)
@@ -32,7 +32,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:** [LOC100282724](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282724)
 - **UniProt accessions:** [B6TAS1](https://www.uniprot.org/uniprotkb/B6TAS1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

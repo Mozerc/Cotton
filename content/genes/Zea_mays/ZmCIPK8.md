@@ -21,7 +21,7 @@ tags: [ seedlings,kinase,drought,stress,drought stress,abiotic stress,protein ki
    - **ZmCIPK8** is involved in maize response to drought stress.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
    - [ZmCIPK8, a CBL-interacting protein kinase, regulates maize response to drought stress]( https://link.springer.com/article/10.1007/s11240-015-0906-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11240-015-0906-0](https://link.springer.com/article/10.1007/s11240-015-0906-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ seedlings,kinase,drought,stress,drought stress,abiotic stress,protein ki
 - **NCBI ID:** [100193471](https://www.ncbi.nlm.nih.gov/gene/?term=100193471)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

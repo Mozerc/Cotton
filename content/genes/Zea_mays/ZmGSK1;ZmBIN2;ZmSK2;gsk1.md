@@ -19,7 +19,7 @@ tags: [ leaf,development,kinase,leaf development,endosperm,protein kinase,endosp
    - The two ZmGSKs were ubiquitously expressed in maize tissues. This result suggests that ZmGSK2 functions more strongly than **ZmGSK1** in maize tissue development.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [Zea mays GSK2 gene is involved in brassinosteroid signaling]( https://link.springer.com/article/10.1007/s10725-022-00806-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00806-z](https://link.springer.com/article/10.1007/s10725-022-00806-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ leaf,development,kinase,leaf development,endosperm,protein kinase,endosp
 - **NCBI ID:**  [LOC100282757](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282757)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -17,7 +17,7 @@ tags: [ potassium,transporter ]
    - **HAK16** encodes a potassium high-affinity transporter.
 
 ## Function-related keywords:
-[potassium](/tags/potassium/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+- [potassium](/tags/potassium/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
    - [Identification of Germplasm and Sugar Transporter Gene ZmSWEET1b Associated with Salt Tolerance in Maize]( https://link.springer.com/article/10.1007/s00344-023-11033-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11033-9](https://link.springer.com/article/10.1007/s00344-023-11033-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -28,7 +28,7 @@ tags: [ potassium,transporter ]
 - **NCBI ID:**  [LOC103643617](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643617)
 - **UniProt accessions:** [A0A317YEN6](https://www.uniprot.org/uniprotkb/A0A317YEN6/entry)&nbsp;,&nbsp;[W5U4S7](https://www.uniprot.org/uniprotkb/W5U4S7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

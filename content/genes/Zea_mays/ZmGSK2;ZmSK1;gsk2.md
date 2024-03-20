@@ -20,7 +20,7 @@ tags: [ growth,development,br,br signaling,drought,seedling,tolerance,drought to
    - **ZmGSK2** is a candidate gene for drought tolerance,involved in BR biosynthesis.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
    - [Zea mays GSK2 gene is involved in brassinosteroid signaling]( https://link.springer.com/article/10.1007/s10725-022-00806-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00806-z](https://link.springer.com/article/10.1007/s10725-022-00806-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ growth,development,br,br signaling,drought,seedling,tolerance,drought to
 - **NCBI ID:**  [Zm00001eb074610](https://www.ncbi.nlm.nih.gov/gene/?term=Zm00001eb074610)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

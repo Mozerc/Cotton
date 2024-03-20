@@ -19,7 +19,7 @@ tags: [ transcription factor,development,inflorescence,inflorescence development
    - RNA in situ hybridization reveals that the expression patterns of **Bd1**, zmm14, and si1 are altered in the Si3 mutants.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [Ectopic Expression of the Transcriptional Regulator silky3 Causes Pleiotropic Meristem and Sex Determination Defects in Maize Inflorescences.]( https://academic.oup.com/plcell/article/32/12/3750/6118609)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00043](https://academic.oup.com/plcell/article/32/12/3750/6118609)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32989171](https://pubmed.ncbi.nlm.nih.gov/32989171/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,development,inflorescence,inflorescence development
 - **NCBI ID:** [542097](https://www.ncbi.nlm.nih.gov/gene/?term=542097)
 - **UniProt accessions:** [B4FGX7](https://www.uniprot.org/uniprotkb/B4FGX7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

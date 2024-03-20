@@ -21,7 +21,7 @@ tags: [ nitrogen,root,growth,resistance,stress,root growth,nitrate,al resistance
    - Based on RNAseq, only the expression of **ZmMYB81** was significantly upregulated by NO3− with approximately 1.8-fold changes compared with nitrogen-depleted conditions under Al stress.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[al-resistance](/tags/al-resistance/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[al-resistance](/tags/al-resistance/)
 
 ## Literature:
    - [Nitrate improves aluminium resistance through SLAH-mediated citrate exudation from roots.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14688](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37574955](https://pubmed.ncbi.nlm.nih.gov/37574955/)
@@ -33,7 +33,7 @@ tags: [ nitrogen,root,growth,resistance,stress,root growth,nitrate,al resistance
 - **NCBI ID:** [100381953](https://www.ncbi.nlm.nih.gov/gene/?term=100381953)
 - **UniProt accessions:** [C0P353](https://www.uniprot.org/uniprotkb/C0P353/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

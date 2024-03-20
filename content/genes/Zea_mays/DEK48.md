@@ -20,7 +20,7 @@ tags: [ development,seed,seed development ]
    - We identified a point mutation in **DEK48**-3 causing a deletion of the Tryptophan (W) residue in the DYW motif that abolishes the editing function.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)
 
 ## Literature:
    - [DEK48 Is Required for RNA Editing at Multiple Mitochondrial Sites and Seed Development in Maize.]( https://www.mdpi.com/1422-0067/23/6/3064)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23063064](https://www.mdpi.com/1422-0067/23/6/3064)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35328485](https://pubmed.ncbi.nlm.nih.gov/35328485/)
@@ -32,7 +32,7 @@ tags: [ development,seed,seed development ]
 - **NCBI ID:** [LOC100304218](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100304218)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

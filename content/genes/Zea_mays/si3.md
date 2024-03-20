@@ -22,7 +22,7 @@ tags: [ development,flower,floral,inflorescence,flower development,transcription
    - These results indicated that the complicated mutant phenotypes might be caused by multiple pathway defects in **si3** inflorescences.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [Ectopic Expression of the Transcriptional Regulator silky3 Causes Pleiotropic Meristem and Sex Determination Defects in Maize Inflorescences.]( https://academic.oup.com/plcell/article/32/12/3750/6118609?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00043](https://academic.oup.com/plcell/article/32/12/3750/6118609?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32989171](https://pubmed.ncbi.nlm.nih.gov/32989171/)
@@ -34,7 +34,7 @@ tags: [ development,flower,floral,inflorescence,flower development,transcription
 - **NCBI ID:** [103646647](https://www.ncbi.nlm.nih.gov/gene/?term=103646647)
 - **UniProt accessions:** [A0A1D6EE40](https://www.uniprot.org/uniprotkb/A0A1D6EE40/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

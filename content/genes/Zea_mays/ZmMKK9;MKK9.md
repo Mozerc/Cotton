@@ -21,7 +21,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotoleran
    - **ZmMKK9** also plays a role in high-temperature–mediated stomatal movement and contributes to plant.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [Maize MITOGEN-ACTIVATED PROTEIN KINASE 20 mediates high-temperature-regulated stomatal movement.]( https://academic.oup.com/plphys/article/193/4/2788/7277218?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad488](https://academic.oup.com/plphys/article/193/4/2788/7277218?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37725401](https://pubmed.ncbi.nlm.nih.gov/37725401/)
@@ -34,7 +34,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotoleran
 - **NCBI ID:**  [LOC100272290](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272290)
 - **UniProt accessions:** [A0A1D6JU48](https://www.uniprot.org/uniprotkb/A0A1D6JU48/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

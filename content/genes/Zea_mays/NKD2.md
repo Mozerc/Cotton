@@ -21,7 +21,7 @@ tags: [ development,starch,endosperm,endosperm development ]
    - Double mutants have multiple (2-5) layers of peripheral endosperm cells that lack starch granules or other features of starchy endosperm.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm.]( https://academic.oup.com/plcell/article/30/10/2425/6099477?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00392](https://academic.oup.com/plcell/article/30/10/2425/6099477?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30262552](https://pubmed.ncbi.nlm.nih.gov/30262552/)
@@ -34,7 +34,7 @@ tags: [ development,starch,endosperm,endosperm development ]
 - **NCBI ID:**  [LOC100304401](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100304401)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ transporter,sugar,sucrose,sucrose transporter ]
    - ZmSWEET11/13b in the placento-chalazal zone, where sucrose is exported into the apoplasmic space.
 
 ## Function-related keywords:
-[transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
+- [transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
    - [A transcriptional landscape underlying sugar import for grain set in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35020972](https://pubmed.ncbi.nlm.nih.gov/35020972/)
@@ -33,7 +33,7 @@ tags: [ transporter,sugar,sucrose,sucrose transporter ]
 - **NCBI ID:** [100273779](https://www.ncbi.nlm.nih.gov/gene/?term=100273779)
 - **UniProt accessions:** [B4FXF4](https://www.uniprot.org/uniprotkb/B4FXF4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

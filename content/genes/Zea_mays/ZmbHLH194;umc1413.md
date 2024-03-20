@@ -19,7 +19,7 @@ tags: [ development ]
    - The physical interactions of these various kinds of ZmbHLH proteins suggest that they may function in different manners by forming various kinds of homodimers or heterodimers at different tissues, organs, or stages thus to coordinately regulate different cellular processes.
 
 ## Function-related keywords:
-[development](/tags/development/)
+- [development](/tags/development/)
 
 ## Literature:
    - [Genome-wide analysis of the basic Helix-Loop-Helix (bHLH) transcription factor family in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192367/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1441-z](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192367/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30326829](https://pubmed.ncbi.nlm.nih.gov/30326829/)
@@ -30,7 +30,7 @@ tags: [ development ]
 - **NCBI ID:**  [LOC100274340](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100274340)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

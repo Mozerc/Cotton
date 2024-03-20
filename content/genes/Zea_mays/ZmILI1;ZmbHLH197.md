@@ -21,7 +21,7 @@ tags: [ leaf,transcription factor,development,leaf development,transcription reg
    - **ZmILI1** is a central regulator of multiple signalling and developmental pathways related to LA formation during maize development, acting in both direct and indirect ways to affect the patterns of gene transcription.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [ZmILI1 regulates leaf angle by directly affecting liguleless1 expression in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13255](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31529573](https://pubmed.ncbi.nlm.nih.gov/31529573/)
@@ -34,7 +34,7 @@ tags: [ leaf,transcription factor,development,leaf development,transcription reg
 - **NCBI ID:** [103645865](https://www.ncbi.nlm.nih.gov/gene/?term=103645865)
 - **UniProt accessions:** [A0A1D6DWS9](https://www.uniprot.org/uniprotkb/A0A1D6DWS9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ salt,potassium,homeostasis,transporter ]
    - **HAK17** encodes a potassium high-affinity transporter.
 
 ## Function-related keywords:
-[salt](/tags/salt/)&nbsp;,&nbsp;[potassium](/tags/potassium/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+- [salt](/tags/salt/)&nbsp;,&nbsp;[potassium](/tags/potassium/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
    - [Identification of Germplasm and Sugar Transporter Gene ZmSWEET1b Associated with Salt Tolerance in Maize ]( https://link.springer.com/article/10.1007/s00344-023-11033-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11033-9](https://link.springer.com/article/10.1007/s00344-023-11033-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -30,7 +30,7 @@ tags: [ salt,potassium,homeostasis,transporter ]
 - **NCBI ID:**  [100383808](https://www.ncbi.nlm.nih.gov/gene/?term=100383808)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

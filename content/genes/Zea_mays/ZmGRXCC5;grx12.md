@@ -19,7 +19,7 @@ tags: [ growth,resistance,drought,stress,drought stress,down-regulated genes,sal
    - These results will help to advance the study of the function of ZmGRXCCs genes under drought stress and understand the mechanism of drought resistance in maize.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
    - [Identification of Maize CC-Type Glutaredoxins That Are Associated with Response to Drought Stress.]( https://www.mdpi.com/2073-4425/10/8/610)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/genes10080610](https://www.mdpi.com/2073-4425/10/8/610)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31409044](https://pubmed.ncbi.nlm.nih.gov/31409044/)
@@ -30,7 +30,7 @@ tags: [ growth,resistance,drought,stress,drought stress,down-regulated genes,sal
 - **NCBI ID:**  [LOC100286264](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100286264)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

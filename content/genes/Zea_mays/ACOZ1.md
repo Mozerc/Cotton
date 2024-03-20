@@ -21,7 +21,7 @@ tags: [ meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination ]
    - The **ACOZ1** protein localizes on the boundary of chromatin, rather directly to chromosomes.
 
 ## Function-related keywords:
-[meiosis](/tags/meiosis/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)&nbsp;,&nbsp;[crossover](/tags/crossover/)&nbsp;,&nbsp;[meiotic-recombination](/tags/meiotic-recombination/)&nbsp;,&nbsp;[synapsis](/tags/synapsis/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
+- [meiosis](/tags/meiosis/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)&nbsp;,&nbsp;[crossover](/tags/crossover/)&nbsp;,&nbsp;[meiotic-recombination](/tags/meiotic-recombination/)&nbsp;,&nbsp;[synapsis](/tags/synapsis/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
 
 ## Literature:
    - [An F-box protein ACOZ1 functions in crossover formation by ensuring proper chromosome compaction during maize meiosis.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18116)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18116](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18116)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35322878](https://pubmed.ncbi.nlm.nih.gov/35322878/)
@@ -33,7 +33,7 @@ tags: [ meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination ]
 - **NCBI ID:** [100382368](https://www.ncbi.nlm.nih.gov/gene/?term=100382368)
 - **UniProt accessions:** [A0A1D6MFU0](https://www.uniprot.org/uniprotkb/A0A1D6MFU0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

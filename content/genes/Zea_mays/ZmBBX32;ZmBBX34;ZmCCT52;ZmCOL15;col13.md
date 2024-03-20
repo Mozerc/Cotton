@@ -18,7 +18,7 @@ tags: [ stress,abiotic stress ]
    - These results indicate that BBXs evolved independently after the divergence of monocots and dicots.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)
 
 ## Literature:
    - [Identification, evolution, expression and protein interaction analysis of genes encoding B-box zinc-finger proteins in maize]( https://www.sciencedirect.com/science/article/pii/S2095311922001691)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.08.091](https://www.sciencedirect.com/science/article/pii/S2095311922001691)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -29,7 +29,7 @@ tags: [ stress,abiotic stress ]
 - **NCBI ID:**  [LOC100281837](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281837)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

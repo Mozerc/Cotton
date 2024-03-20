@@ -22,7 +22,7 @@ tags: [ auxin,cell division,iaa,auxin biosynthesis,embryo,callus,cell expansion,
    - The ability of immature embryos to induce EC formation can be improved by the knockout of **ZmSAUR15**, which consequently increases the callus regeneration efficiency.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[cell-expansion](/tags/cell-expansion/)&nbsp;,&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)
+- [auxin](/tags/auxin/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[cell-expansion](/tags/cell-expansion/)&nbsp;,&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)
 
 ## Literature:
    - [Genetic variations in ZmSAUR15 contribute to the formation of immature embryo-derived embryonic calluses in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15609)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15609](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15609)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34822726](https://pubmed.ncbi.nlm.nih.gov/34822726/)
@@ -34,7 +34,7 @@ tags: [ auxin,cell division,iaa,auxin biosynthesis,embryo,callus,cell expansion,
 - **NCBI ID:** [103645805](https://www.ncbi.nlm.nih.gov/gene/?term=103645805)
 - **UniProt accessions:** [A0A1D6DUW7](https://www.uniprot.org/uniprotkb/A0A1D6DUW7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

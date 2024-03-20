@@ -22,7 +22,7 @@ tags: [ growth,seed,yield,plumule,embryo,seed weight,seed size,seed growth,seed 
    - **ZmCYCB1-1** regulates embryo growth and seed size, making it an ideal target for efforts aimed at maize yield improvement.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[plumule](/tags/plumule/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[seed-length](/tags/seed-length/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[plumule](/tags/plumule/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[seed-length](/tags/seed-length/)
 
 ## Literature:
    - [The B-Type Cyclin CYCB1-1 Regulates Embryonic Development and Seed Size in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9180882/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23115907](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9180882/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35682593](https://pubmed.ncbi.nlm.nih.gov/35682593/)
@@ -34,7 +34,7 @@ tags: [ growth,seed,yield,plumule,embryo,seed weight,seed size,seed growth,seed 
 - **NCBI ID:** [100274285](https://www.ncbi.nlm.nih.gov/gene/?term=100274285)
 - **UniProt accessions:** [B4FZZ7](https://www.uniprot.org/uniprotkb/B4FZZ7/entry)&nbsp;,&nbsp;[A0A1D6G9T8](https://www.uniprot.org/uniprotkb/A0A1D6G9T8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

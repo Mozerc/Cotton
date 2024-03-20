@@ -18,7 +18,7 @@ tags: [ flowering ]
    - **ZmMBR1** a andidate gene significantly associated with high stalk fracture angle.
 
 ## Function-related keywords:
-[flowering](/tags/flowering/)
+- [flowering](/tags/flowering/)
 
 ## Literature:
    - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
@@ -29,7 +29,7 @@ tags: [ flowering ]
 - **NCBI ID:** [103649729](https://www.ncbi.nlm.nih.gov/gene/?term=103649729)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

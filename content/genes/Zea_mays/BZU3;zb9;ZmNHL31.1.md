@@ -20,7 +20,7 @@ tags: [ homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthes
    - **BZU3** plants display abnormal GCs and severely impaired stomatal function.
 
 ## Function-related keywords:
-[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[glycosylation](/tags/glycosylation/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)
+- [homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[glycosylation](/tags/glycosylation/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)
 
 ## Literature:
    - [A maize epimerase modulates cell wall synthesis and glycosylation during stomatal morphogenesis.]( https://www.nature.com/articles/s41467-023-40013-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-40013-6](https://www.nature.com/articles/s41467-023-40013-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37474494](https://pubmed.ncbi.nlm.nih.gov/37474494/)
@@ -32,7 +32,7 @@ tags: [ homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthes
 - **NCBI ID:** [LOC542127](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542127)
 - **UniProt accessions:** [A0A1D6K338](https://www.uniprot.org/uniprotkb/A0A1D6K338/entry)&nbsp;,&nbsp;[C0HEU5](https://www.uniprot.org/uniprotkb/C0HEU5/entry)&nbsp;,&nbsp;[C0HI30](https://www.uniprot.org/uniprotkb/C0HI30/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ leaf,root,starch,quality,endosperm,starch biosynthesis ]
    - Transcript Profiling Indicated That **Se1** Affects Starch Biosynthesis and Degradation Processes.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
 
 ## Literature:
    - [Maize sugary enhancer1 (se1) is a gene affecting endosperm starch metabolism.]( https://www.pnas.org/doi/full/10.1073/pnas.1902747116)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1902747116](https://www.pnas.org/doi/full/10.1073/pnas.1902747116)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31548423](https://pubmed.ncbi.nlm.nih.gov/31548423/)
@@ -34,7 +34,7 @@ tags: [ leaf,root,starch,quality,endosperm,starch biosynthesis ]
 - **NCBI ID:**  [103648177](https://www.ncbi.nlm.nih.gov/gene/?term=103648177)
 - **UniProt accessions:** [A0A1D6F7U7](https://www.uniprot.org/uniprotkb/A0A1D6F7U7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

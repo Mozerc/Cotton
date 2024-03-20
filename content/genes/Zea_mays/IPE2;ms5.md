@@ -21,7 +21,7 @@ tags: [ fertility,pollen,anther,sterility,starch,tapetum,tapetum degeneration,st
    - Dysfunction of **IPE2** resulted in delayed degeneration of tapetum and middle layer, leading to defective formation of anther cuticle and pollen exine, and complete male sterility.
 
 ## Function-related keywords:
-[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[tapetum-degeneration](/tags/tapetum-degeneration/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[mature-anthers](/tags/mature-anthers/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
+- [fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[tapetum-degeneration](/tags/tapetum-degeneration/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[mature-anthers](/tags/mature-anthers/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
 
 ## Literature:
    - [IRREGULAR POLLEN EXINE2 Encodes a GDSL Lipase Essential for Male Fertility in Maize.]( https://academic.oup.com/plphys/article/184/3/1438/6118274?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00105](https://academic.oup.com/plphys/article/184/3/1438/6118274?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32913046](https://pubmed.ncbi.nlm.nih.gov/32913046/)
@@ -33,7 +33,7 @@ tags: [ fertility,pollen,anther,sterility,starch,tapetum,tapetum degeneration,st
 - **NCBI ID:** [LOC100384179](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100384179)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

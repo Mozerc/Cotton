@@ -19,7 +19,7 @@ tags: [ drought,stress,drought stress,seedling,tolerance,drought tolerance,stres
    - **ZmXLG3b** mutant knockout has reduced plant height; triple mutants are lethal at the seedling stage.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Using single-plant-omics in the field to link maize genes to functions and phenotypes.]( https://www.embopress.org/doi/full/10.15252/msb.20209667)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.15252/msb.20209667](https://www.embopress.org/doi/full/10.15252/msb.20209667)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33346944](https://pubmed.ncbi.nlm.nih.gov/33346944/)
@@ -30,7 +30,7 @@ tags: [ drought,stress,drought stress,seedling,tolerance,drought tolerance,stres
 - **NCBI ID:**  [LOC100272751](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100272751)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

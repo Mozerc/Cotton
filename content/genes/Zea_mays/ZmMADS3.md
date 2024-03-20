@@ -22,7 +22,7 @@ tags: [ stem,development,spikelet,plant development,flower,pollen,pollen develop
    - Ectopic **ZmMADS3** Expression Affects Plant Height and Male Spikelet Development.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[somatic-embryogenesis](/tags/somatic-embryogenesis/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[node](/tags/node/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [stem](/tags/stem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[somatic-embryogenesis](/tags/somatic-embryogenesis/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[node](/tags/node/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [The maize MADS box gene ZmMADS3 affects node number and spikelet development and is co-expressed with ZmMADS1 during flower development, in egg cells, and early embryogenesis.]( https://academic.oup.com/plphys/article/127/1/33/6103268)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.127.1.33](https://academic.oup.com/plphys/article/127/1/33/6103268)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[11553732](https://pubmed.ncbi.nlm.nih.gov/11553732/)
@@ -33,7 +33,7 @@ tags: [ stem,development,spikelet,plant development,flower,pollen,pollen develop
 - **NCBI ID:** [LOC541765](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541765)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

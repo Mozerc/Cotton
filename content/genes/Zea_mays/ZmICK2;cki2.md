@@ -19,7 +19,7 @@ tags: [ stem ]
    - Those results indicate that ZmCDKA3 also have influences on fission yeast cell and **ZmICK2** and ZmICK4 show effect on the function of ZmCDKA3.
 
 ## Function-related keywords:
-[stem](/tags/stem/)
+- [stem](/tags/stem/)
 
 ## Literature:
    - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
@@ -30,7 +30,7 @@ tags: [ stem ]
 - **NCBI ID:**  [LOC100382215](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382215)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

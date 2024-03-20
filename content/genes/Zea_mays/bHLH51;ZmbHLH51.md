@@ -20,7 +20,7 @@ tags: [ transcription factor,fertility,sterility,sterile,tapetal,male sterility,
    - The candidate gene identified in this study, **BHLH51**, is an ortholog of the Arabidopsis AMS gene and the rice TDR gene, which encode master mediators of tapetal differentiation and function.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)
 
 ## Literature:
    - [Identification of a locus associated with genic male sterility in maize via EMS mutagenesis and bulked-segregant RNA-seq]( https://www.sciencedirect.com/science/article/pii/S2214514120301537)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.09.007](https://www.sciencedirect.com/science/article/pii/S2214514120301537)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -35,7 +35,7 @@ tags: [ transcription factor,fertility,sterility,sterile,tapetal,male sterility,
 - **NCBI ID:** [LOC100274330](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100274330)
 - **UniProt accessions:** [B4FB38](https://www.uniprot.org/uniprotkb/B4FB38/entry)&nbsp;,&nbsp;[B4G0A3](https://www.uniprot.org/uniprotkb/B4G0A3/entry)&nbsp;,&nbsp;[C0PHL6](https://www.uniprot.org/uniprotkb/C0PHL6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

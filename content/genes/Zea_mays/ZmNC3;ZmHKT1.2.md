@@ -21,7 +21,7 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
    - Taken together, ZmNC3/**ZmHKT1.2** was identified as an important QTL promoting shoot Na+ exclusion, and its favourable allele provides an effective tool for developing salt-tolerant maize varieties.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
    - [A teosinte-derived allele of an HKT1 family sodium transporter improves salt tolerance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13927)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13927](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13927)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36114820](https://pubmed.ncbi.nlm.nih.gov/36114820/)
@@ -35,7 +35,7 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
 - **NCBI ID:** [LOC109943959](https://www.ncbi.nlm.nih.gov/gene/?term=LOC109943959)
 - **UniProt accessions:** [A0A1D6E031](https://www.uniprot.org/uniprotkb/A0A1D6E031/entry)&nbsp;,&nbsp;[A0A3L6G3L6](https://www.uniprot.org/uniprotkb/A0A3L6G3L6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

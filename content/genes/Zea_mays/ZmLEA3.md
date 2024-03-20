@@ -21,7 +21,7 @@ tags: [ temperature,stress,stems,oxidative stress,tolerance,oxidative,aba,stress
    - Further study indicated that **ZmLEA3** is a single copy gene in the maize genome. The **ZmLEA3** protein could protect lactate dehydrogenase (LDH) activity at low temperatures. 
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[low-temperature](/tags/low-temperature/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)
+- [temperature](/tags/temperature/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[low-temperature](/tags/low-temperature/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)
 
 ## Literature:
    - [Group 3 LEA Protein, ZmLEA3, Is Involved in Protection from Low Temperature Stress]( https://www.frontiersin.org/articles/10.3389/fpls.2016.01011/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2016.01011](https://www.frontiersin.org/articles/10.3389/fpls.2016.01011/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ temperature,stress,stems,oxidative stress,tolerance,oxidative,aba,stress
 - **NCBI ID:**  [109943654](https://www.ncbi.nlm.nih.gov/gene/?term=109943654)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

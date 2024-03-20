@@ -19,7 +19,7 @@ tags: [ salt,tolerance,salt tolerance ]
    - **SAG4** played a positive role in plant salt tolerance.
 
 ## Function-related keywords:
-[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)
+- [salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)
 
 ## Literature:
    - [Genome-wide association study dissects the genetic bases of salt tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12797](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12797)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30803125](https://pubmed.ncbi.nlm.nih.gov/30803125/)
@@ -31,7 +31,7 @@ tags: [ salt,tolerance,salt tolerance ]
 - **NCBI ID:**  [103625891](https://www.ncbi.nlm.nih.gov/gene/?term=103625891)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

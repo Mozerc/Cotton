@@ -20,7 +20,7 @@ tags: [ drought,stress,drought stress,oxidative stress,salt,oxidative,cold stres
    - **ZmPEAMT** gene involved in betaine synthesis.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[methyltransferase](/tags/methyltransferase/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[methyltransferase](/tags/methyltransferase/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
 
 ## Literature:
    - [Cloning and Functional Analysis of Phosphoethanolamine Methyltransferase Promoter from Maize (Zea mays L.).]( https://www.mdpi.com/1422-0067/19/1/191)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms19010191](https://www.mdpi.com/1422-0067/19/1/191)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29316727](https://pubmed.ncbi.nlm.nih.gov/29316727/)
@@ -31,7 +31,7 @@ tags: [ drought,stress,drought stress,oxidative stress,salt,oxidative,cold stres
 - **NCBI ID:**  [LOC103651303](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103651303)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

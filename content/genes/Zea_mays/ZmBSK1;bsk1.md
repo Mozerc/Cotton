@@ -21,7 +21,7 @@ tags: [ kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought 
    - Drought stress enhances not only the interaction between **ZmBSK1** and ZmCCaMK but also the phosphorylation of Ser-67 in ZmCCaMK by **ZmBSK1**.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
+- [kinase](/tags/kinase/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)&nbsp;,&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
 
 ## Literature:
    - [BRASSINOSTEROID-SIGNALING KINASE 1 phosphorylating CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE functions in drought tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17403](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33864702](https://pubmed.ncbi.nlm.nih.gov/33864702/)
@@ -33,7 +33,7 @@ tags: [ kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought 
 - **NCBI ID:** [LOC100192644](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192644)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

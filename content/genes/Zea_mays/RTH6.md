@@ -21,7 +21,7 @@ tags: [ root,growth,down-regulated genes,root growth,cell wall,cellulose,primary
    - In addition to the strong knock down of **RTH6** expression in young primary roots of the mutant **RTH6**, the gene is also significantly down-regulated in rth3 and rth5 mutants, while it is up-regulated in rth2 mutants, suggesting that these genes interact in cell wall biosynthesis.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)
+- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)
 
 ## Literature:
    - [Characterization of maize roothairless6 which encodes a D-type cellulose synthase and controls the switch from bulge formation to tip growth.]( https://www.nature.com/articles/srep34395)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep34395](https://www.nature.com/articles/srep34395)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27708345](https://pubmed.ncbi.nlm.nih.gov/27708345/)
@@ -33,7 +33,7 @@ tags: [ root,growth,down-regulated genes,root growth,cell wall,cellulose,primary
 - **NCBI ID:** [103637736](https://www.ncbi.nlm.nih.gov/gene/?term=103637736)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [  ]
    - The gene encoding the subsequent β-branch enzyme, **ZEP1**, had positive pleiotropic effects between β-cryptoxanthin, zeaxanthin, and total carotenoids.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Eleven biosynthetic genes explain the majority of natural variation in carotenoid levels in maize grain.]( https://academic.oup.com/plcell/article/33/4/882/6126473?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab032](https://academic.oup.com/plcell/article/33/4/882/6126473?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33681994](https://pubmed.ncbi.nlm.nih.gov/33681994/)
@@ -31,7 +31,7 @@ tags: [  ]
 - **NCBI ID:**  [100285076](https://www.ncbi.nlm.nih.gov/gene/?term=100285076)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

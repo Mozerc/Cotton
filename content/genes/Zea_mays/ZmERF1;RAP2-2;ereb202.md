@@ -18,7 +18,7 @@ tags: [ stress,ethylene,signal transduction,phytohormone,heat stress ]
    - **ZmERF1** related to phytohormone signal transduction showed differential responses to heat stress in the three inbred lines.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
    - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
@@ -29,7 +29,7 @@ tags: [ stress,ethylene,signal transduction,phytohormone,heat stress ]
 - **NCBI ID:**  [LOC100283060](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283060)
 - **UniProt accessions:** [B4FVN3](https://www.uniprot.org/uniprotkb/B4FVN3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ leaf,chloroplast,development,leaf development,seedling,leaf color,chloro
    - Ectopic expression of **ZmSig2A**+ or **ZmSig2A**ΔV driven by the cauliflower mosaic virus 35S promoter rescued the pale green leaf of the sig2 mutant, but ectopic expression of **ZmSig2A**ΔV driven by the SIG2 promoter did not.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[leaf-color](/tags/leaf-color/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)&nbsp;,&nbsp;[chloroplast-biogenesis](/tags/chloroplast-biogenesis/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[leaf-color](/tags/leaf-color/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)&nbsp;,&nbsp;[chloroplast-biogenesis](/tags/chloroplast-biogenesis/)
 
 ## Literature:
    - [A valine residue deletion in ZmSig2A, a sigma factor, accounts for a revertible leaf-color mutation in maize]( https://www.sciencedirect.com/science/article/pii/S2214514121000362)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.01.005](https://www.sciencedirect.com/science/article/pii/S2214514121000362)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -34,7 +34,7 @@ tags: [ leaf,chloroplast,development,leaf development,seedling,leaf color,chloro
 - **NCBI ID:** [541716](https://www.ncbi.nlm.nih.gov/gene/?term=541716)
 - **UniProt accessions:** [A0A1D6PSU6](https://www.uniprot.org/uniprotkb/A0A1D6PSU6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ growth,vegetative,reproductive,meiosis,meiotic,reproductive growth,meiot
    - **ZmCom1** is critically required for the proper SC assembly. Moreover, RAD51 signals were almost completely absent in **ZmCom1** meiocytes, implying that COM1 is required for RAD51 loading.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[meiosis](/tags/meiosis/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[meiotic-recombination](/tags/meiotic-recombination/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[meiosis](/tags/meiosis/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)&nbsp;,&nbsp;[meiotic-recombination](/tags/meiotic-recombination/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
 
 ## Literature:
    - [ZmCom1 Is Required for Both Mitotic and Meiotic Recombination in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2018.01005/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2018.01005](https://www.frontiersin.org/articles/10.3389/fpls.2018.01005/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30061907](https://pubmed.ncbi.nlm.nih.gov/30061907/)
@@ -34,7 +34,7 @@ tags: [ growth,vegetative,reproductive,meiosis,meiotic,reproductive growth,meiot
 - **NCBI ID:** [LOC100278695](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100278695)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

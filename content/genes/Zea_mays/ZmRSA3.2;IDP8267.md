@@ -21,7 +21,7 @@ tags: [ root,auxin,architecture,auxin response,auxin transport,root architecture
    - Overexpression of **ZmRSA3.2** enhances the response to gravity.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[actin-protein](/tags/actin-protein/)
+- [root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[actin-protein](/tags/actin-protein/)
 
 ## Literature:
    - [Genome-wide dissection of changes in maize root system architecture during modern breeding.]( https://www.nature.com/articles/s41477-022-01274-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01274-z](https://www.nature.com/articles/s41477-022-01274-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36396706](https://pubmed.ncbi.nlm.nih.gov/36396706/)
@@ -33,7 +33,7 @@ tags: [ root,auxin,architecture,auxin response,auxin transport,root architecture
 - **NCBI ID:** [100192542](https://www.ncbi.nlm.nih.gov/gene/?term=100192542)
 - **UniProt accessions:** [C0PGP7](https://www.uniprot.org/uniprotkb/C0PGP7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

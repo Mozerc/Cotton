@@ -21,7 +21,7 @@ tags: [ pollen,anther,sterility,transporter,cuticle,tapetal,male sterility,pcd,a
    - **ZmMs13** is essential for callose dissolution, tapetal PCD, pollen exine and anther cuticle formation.
 
 ## Function-related keywords:
-[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[pcd](/tags/pcd/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
+- [pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[tapetal](/tags/tapetal/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[pcd](/tags/pcd/)&nbsp;,&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
 
 ## Literature:
    - [Triphasic regulation of ZmMs13 encoding an ABCG transporter is sequentially required for callose dissolution, pollen exine and anther cuticle formation in maize.]( https://www.sciencedirect.com/science/article/pii/S2090123222002089?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jare.2022.09.006](https://www.sciencedirect.com/science/article/pii/S2090123222002089?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36130683](https://pubmed.ncbi.nlm.nih.gov/36130683/)
@@ -33,7 +33,7 @@ tags: [ pollen,anther,sterility,transporter,cuticle,tapetal,male sterility,pcd,a
 - **NCBI ID:** [LOC100280733](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280733)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

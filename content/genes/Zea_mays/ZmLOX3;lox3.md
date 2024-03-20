@@ -19,7 +19,7 @@ tags: [ resistance,nucleus ]
    - The previously identified partial resistance phenotype of **ZmLOX3** mutant maize to U. maydis is lost upon infection with the Δrip1 U. maydis deletion strain.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)
 
 ## Literature:
    - [Effector-mediated relocalization of a maize lipoxygenase protein triggers susceptibility to Ustilago maydis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252493/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac105](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252493/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35512341](https://pubmed.ncbi.nlm.nih.gov/35512341/)
@@ -30,7 +30,7 @@ tags: [ resistance,nucleus ]
 - **NCBI ID:**  [542495](https://www.ncbi.nlm.nih.gov/gene/?term=542495)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

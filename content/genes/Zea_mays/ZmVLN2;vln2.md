@@ -20,7 +20,7 @@ tags: [ development,breeding,peduncle ]
    - Natural variations in **ZmVLN2** affect the NSVB and seven other PVB-related traits, which may have been influenced by selection pressures during breeding.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[peduncle](/tags/peduncle/)
+- [development](/tags/development/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[peduncle](/tags/peduncle/)
 
 ## Literature:
    - [Dissection of the genetic architecture of peduncle vascular bundle-related traits in maize by a genome-wide association study.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13782](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35080335](https://pubmed.ncbi.nlm.nih.gov/35080335/)
@@ -32,7 +32,7 @@ tags: [ development,breeding,peduncle ]
 - **NCBI ID:** [100279855](https://www.ncbi.nlm.nih.gov/gene/?term=100279855)
 - **UniProt accessions:** [B8A0C4](https://www.uniprot.org/uniprotkb/B8A0C4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

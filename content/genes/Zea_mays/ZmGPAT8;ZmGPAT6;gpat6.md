@@ -19,7 +19,7 @@ tags: [ development,seed,cold,seed development ]
    - The transcripts of ZmGPAT7, **ZmGPAT8**, ZmGPAT13, and ZmGPAT14 all peaked at the early stage of seed development (5DAF) and maintained high levels of transcription at the middle seed developmental stages (15–20 DAF), which might imply their potential roles in maize seed development and oil production.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)
 
 ## Literature:
    - [Characterization and expression analysis of GPAT gene family in maize]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -30,7 +30,7 @@ tags: [ development,seed,cold,seed development ]
 - **NCBI ID:**  [LOC103650549](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103650549)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

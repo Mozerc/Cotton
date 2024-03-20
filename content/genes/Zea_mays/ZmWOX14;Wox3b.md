@@ -21,7 +21,7 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
    - Higher-order Wox3 function and ligule development.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)
 
 ## Literature:
    - [A Wox3-patterning module organizes planar growth in grass leaves and ligules.]( https://www.nature.com/articles/s41477-023-01405-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01405-0](https://www.nature.com/articles/s41477-023-01405-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37142751](https://pubmed.ncbi.nlm.nih.gov/37142751/)
@@ -33,7 +33,7 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
 - **NCBI ID:** [LOC103635953](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635953)
 - **UniProt accessions:** [Q6S3I3](https://www.uniprot.org/uniprotkb/Q6S3I3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

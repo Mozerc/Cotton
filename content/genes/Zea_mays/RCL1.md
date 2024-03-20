@@ -22,7 +22,7 @@ tags: [ development,seed,embryo,endosperm,seed development,endosperm development
    - The **RCL1** mutant shows multiple cell differentiation defects
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
 
 ## Literature:
    - [Maize RNA 3&#x27;-terminal phosphate cyclase-like protein promotes 18S pre-rRNA cleavage and is important for kernel development.]( https://academic.oup.com/plcell/article/34/5/1957/6529017?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac052](https://academic.oup.com/plcell/article/34/5/1957/6529017?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35167702](https://pubmed.ncbi.nlm.nih.gov/35167702/)
@@ -35,7 +35,7 @@ tags: [ development,seed,embryo,endosperm,seed development,endosperm development
 - **NCBI ID:** [LOC100191832](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191832)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

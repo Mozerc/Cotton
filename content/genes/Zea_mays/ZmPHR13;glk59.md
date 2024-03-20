@@ -20,7 +20,7 @@ tags: [ leaf,stress,phosphate,stress response,pi,phosphate starvation,phosphate 
    - **ZmPHR13** probably mainly involved in the regulation of Pi translocation in leaves under different Pi concentration.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)
 
 ## Literature:
    - [Genome-wide identification and comparative analysis of phosphate starvation-responsive transcription factors in maize and three other gramineous plants.]( https://link.springer.com/article/10.1007/s00299-018-2262-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-018-2262-0](https://link.springer.com/article/10.1007/s00299-018-2262-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29396709](https://pubmed.ncbi.nlm.nih.gov/29396709/)
@@ -31,7 +31,7 @@ tags: [ leaf,stress,phosphate,stress response,pi,phosphate starvation,phosphate 
 - **NCBI ID:**  [LOC100384296](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100384296)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

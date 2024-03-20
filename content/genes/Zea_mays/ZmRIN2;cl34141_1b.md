@@ -19,7 +19,7 @@ tags: [ leaf,temperature,stomatal,ubiquitin,water loss,ubiquitin e3 ligase,therm
    - **ZmRIN2** encodes a RING-finger type E3 ubiquitin ligase with 5 transmembrane helix regions, a RING domain, and a coupling of ubiquitin conjugation to endoplasmic reticulum degradation (CUE) domain.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [Maize MITOGEN-ACTIVATED PROTEIN KINASE 20 mediates high-temperature-regulated stomatal movement.]( https://academic.oup.com/plphys/article/193/4/2788/7277218?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad488](https://academic.oup.com/plphys/article/193/4/2788/7277218?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37725401](https://pubmed.ncbi.nlm.nih.gov/37725401/)
@@ -31,7 +31,7 @@ tags: [ leaf,temperature,stomatal,ubiquitin,water loss,ubiquitin e3 ligase,therm
 - **NCBI ID:**  [LOC100284836](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284836)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

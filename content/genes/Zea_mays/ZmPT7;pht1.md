@@ -22,7 +22,7 @@ tags: [ growth,phosphate,pi,pi uptake,phosphate starvation,phosphate acquisition
    - **ZmPT7** is phosphorylated by ZmCK2 at Ser-521 in old maize leaves.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-acquisition](/tags/phosphate-acquisition/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-acquisition](/tags/phosphate-acquisition/)
 
 ## Literature:
    - [Maize ZmPT7 regulates Pi uptake and redistribution which is modulated by phosphorylation.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13414)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13414](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13414)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32431055](https://pubmed.ncbi.nlm.nih.gov/32431055/)
@@ -34,7 +34,7 @@ tags: [ growth,phosphate,pi,pi uptake,phosphate starvation,phosphate acquisition
 - **NCBI ID:** [542180](https://www.ncbi.nlm.nih.gov/gene/?term=542180)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ nucleus,cytokinin,cytokinin response,cytosol ]
    - In vitro experiments demonstrated that ZmHPs function as a phospho-donor for ZmRRs; turnover rates of the phosphorylated state were tenfold lower in ZmRR8 and ZmRR9 than in ZmRR1 and **ZmRR4**.
 
 ## Function-related keywords:
-[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[cytokinin-response](/tags/cytokinin-response/)&nbsp;,&nbsp;[cytosol](/tags/cytosol/)
+- [nucleus](/tags/nucleus/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[cytokinin-response](/tags/cytokinin-response/)&nbsp;,&nbsp;[cytosol](/tags/cytosol/)
 
 ## Literature:
    - [Molecular characterization of His-Asp phosphorelay signaling factors in maize leaves: implications of the signal divergence by cytokinin-inducible response regulators in the cytosol and the nuclei.]( https://link.springer.com/article/10.1023/A:1023971315108)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1023/a:1023971315108](https://link.springer.com/article/10.1023/A:1023971315108)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12856940](https://pubmed.ncbi.nlm.nih.gov/12856940/)
@@ -30,7 +30,7 @@ tags: [ nucleus,cytokinin,cytokinin response,cytosol ]
 - **NCBI ID:**  [LOC541630](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541630)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ transcription factor,fertility,anther,sterility,seed,map-based cloning,s
    - **ZmMs7** gene to restore fertility.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
 
 ## Literature:
    - [Construction of a multicontrol sterility system for a maize male-sterile line and hybrid seed production based on the ZmMs7 gene encoding a PHD-finger transcription factor.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12786)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12786](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12786)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28678349](https://pubmed.ncbi.nlm.nih.gov/28678349/)
@@ -35,7 +35,7 @@ tags: [ transcription factor,fertility,anther,sterility,seed,map-based cloning,s
 - **NCBI ID:** [LOC103643406](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643406)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

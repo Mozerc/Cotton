@@ -19,7 +19,7 @@ tags: [  ]
    - Yeast two-hybrid and bimolecular fluorescence complementation assays showed that ZmICK1, ZmICK2, ZmICK3, and **ZmICK4** interact with ZmCDKA1 and ZmCDKA3. Interestingly, ZmICK7 interacts with D-type cyclins. Transformed and expressed ZmCDKA1 and ZmICKs together in fission yeast revealed that ZmICK1, ZmICK3, and **ZmICK4** can affect ZmCDKA1 function.
 
 ## Function-related keywords:
-[](/tags//)
+- [](/tags//)
 
 ## Literature:
    - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [LOC100193847](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193847)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

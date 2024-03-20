@@ -19,7 +19,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,breeding ]
    - **ZmNHX5** shoot-specific and NaCl-specific expression; mutant is salt sensitive.
 
 ## Function-related keywords:
-[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+- [shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
    - [Genome-wide identification, characterization, and expression analysis of the monovalent cation-proton antiporter superfamily in maize, and functional analysis of its role in salt tolerance.]( https://www.sciencedirect.com/science/article/pii/S0888754321001658?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ygeno.2021.04.032](https://www.sciencedirect.com/science/article/pii/S0888754321001658?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33895282](https://pubmed.ncbi.nlm.nih.gov/33895282/)
@@ -30,7 +30,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,breeding ]
 - **NCBI ID:**  [LOC103633540](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103633540)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

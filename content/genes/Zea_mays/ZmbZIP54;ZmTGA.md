@@ -20,7 +20,7 @@ tags: [ seedling,tolerance ]
    - The variation in **ZmbZIP54** 5′-UTR contributes to the disparity in Pb tolerance among maize lines.
 
 ## Function-related keywords:
-[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)
+- [seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)
 
 ## Literature:
    - [ZmbZIP54 and ZmFDX5 cooperatively regulate maize seedling tolerance to lead by mediating ZmPRP1 transcription]( https://www.sciencedirect.com/science/article/pii/S0141813022023935)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2022.10.151](https://www.sciencedirect.com/science/article/pii/S0141813022023935)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ seedling,tolerance ]
 - **NCBI ID:** [LOC100279481](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279481)
 - **UniProt accessions:** [A0A1D6INY6](https://www.uniprot.org/uniprotkb/A0A1D6INY6/entry)&nbsp;,&nbsp;[A0A1D6INY7](https://www.uniprot.org/uniprotkb/A0A1D6INY7/entry)&nbsp;,&nbsp;[A0A1D6INY8](https://www.uniprot.org/uniprotkb/A0A1D6INY8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

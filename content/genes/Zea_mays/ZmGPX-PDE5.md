@@ -20,7 +20,7 @@ tags: [ transcription factor,phosphate,phosphate starvation ]
    - In vitro enzyme assays showed that ZmGPX-PDE1 and **ZmGPX-PDE5** catalysed glycerophosphodiester degradation with different substrate preferences for glycerophosphoinositol and glycerophosphocholine.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
 
 ## Literature:
    - [Identification of two glycerophosphodiester phosphodiesterase genes in maize leaf phosphorus remobilization]( https://www.sciencedirect.com/science/article/pii/S2214514120300799)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.05.004](https://www.sciencedirect.com/science/article/pii/S2214514120300799)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ transcription factor,phosphate,phosphate starvation ]
 - **NCBI ID:** [100283806](https://www.ncbi.nlm.nih.gov/gene/?term=100283806)
 - **UniProt accessions:** [B6TLZ9](https://www.uniprot.org/uniprotkb/B6TLZ9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

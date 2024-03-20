@@ -20,7 +20,7 @@ tags: [ resistance,disease,disease resistance,resistant,meiotic ]
    - Dominant **Rp1** resistant.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)
 
 ## Literature:
    - [Structural analysis of the maize rp1 complex reveals numerous sites and unexpected mechanisms of local rearrangement.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151213/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.006338](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151213/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12468738](https://pubmed.ncbi.nlm.nih.gov/12468738/)
@@ -31,7 +31,7 @@ tags: [ resistance,disease,disease resistance,resistant,meiotic ]
 - **NCBI ID:** [100274731](https://www.ncbi.nlm.nih.gov/gene/?term=100274731)
 - **UniProt accessions:** [K7TIC5](https://www.uniprot.org/uniprotkb/K7TIC5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

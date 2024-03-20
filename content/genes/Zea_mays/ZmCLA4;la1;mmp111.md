@@ -20,7 +20,7 @@ tags: [ leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasm
    - **ZmCLA4** protein shuttled between the plasma membrane and the nucleus.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot-gravitropism](/tags/shoot-gravitropism/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[shoot-gravitropism](/tags/shoot-gravitropism/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [The ZmCLA4 gene in the qLA4-1 QTL controls leaf angle in maize (Zea mays L.)]( https://academic.oup.com/jxb/article/65/17/5063/559064?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru271](https://academic.oup.com/jxb/article/65/17/5063/559064?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasm
 - **NCBI ID:**  [LOC100193776](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193776)
 - **UniProt accessions:** [A0A1Q0YC52](https://www.uniprot.org/uniprotkb/A0A1Q0YC52/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

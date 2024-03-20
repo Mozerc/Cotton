@@ -19,7 +19,7 @@ tags: [ transcription factor,development,tolerance ]
    - **ZmPRP1** expression levels were significantly higher in the ZmbZIP54-overexpressed lines under Pb treatment than in the wild-type B104. Collectively, these results verify that **ZmPRP1** expression is positively regulated by the ZmbZIP54 transcription factor.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)
 
 ## Literature:
    - [ZmbZIP54 and ZmFDX5 cooperatively regulate maize seedling tolerance to lead by mediating ZmPRP1 transcription]( https://www.sciencedirect.com/science/article/pii/S0141813022023935)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2022.10.151](https://www.sciencedirect.com/science/article/pii/S0141813022023935)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ transcription factor,development,tolerance ]
 - **NCBI ID:** [LOC103636577](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103636577)
 - **UniProt accessions:** [A0A1D6K5Y8](https://www.uniprot.org/uniprotkb/A0A1D6K5Y8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

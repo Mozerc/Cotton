@@ -20,7 +20,7 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
    - **ZmCTLP1** is required for the normal expression of Mn1 and other nutrient transporters.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [ZmCTLP1 is required for the maintenance of lipid homeostasis and the basal endosperm transfer layer in maize kernels.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17754](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34559890](https://pubmed.ncbi.nlm.nih.gov/34559890/)
@@ -32,7 +32,7 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 - **NCBI ID:** [LOC103645752](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103645752)
 - **UniProt accessions:** [A0A1D6DSZ7](https://www.uniprot.org/uniprotkb/A0A1D6DSZ7/entry)&nbsp;,&nbsp;[A0A1D6DSZ8](https://www.uniprot.org/uniprotkb/A0A1D6DSZ8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

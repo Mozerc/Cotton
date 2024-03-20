@@ -19,7 +19,7 @@ tags: [ transcription factor,stress,cold stress,cold,stomatal,stress response ]
    - **ZmICE1**, a key transcription factor associated with cold stress response.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [OPAQUE11 Is a Central Hub of the Regulatory Network for Maize Endosperm Development and Nutrient Metabolism.]( https://academic.oup.com/plcell/article/30/2/375/6099111?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00616](https://academic.oup.com/plcell/article/30/2/375/6099111?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29436476](https://pubmed.ncbi.nlm.nih.gov/29436476/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,stress,cold stress,cold,stomatal,stress response ]
 - **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

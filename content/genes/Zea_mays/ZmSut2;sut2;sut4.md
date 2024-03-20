@@ -20,7 +20,7 @@ tags: [ development,yield,sugar,sucrose ]
    - **ZmSut2** mutants grow slower and have increased sugar content in leaves.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
+- [development](/tags/development/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
    - [Sucrose transporter2 contributes to maize growth, development, and crop yield.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12527)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12527](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12527)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28206710](https://pubmed.ncbi.nlm.nih.gov/28206710/)
@@ -31,7 +31,7 @@ tags: [ development,yield,sugar,sucrose ]
 - **NCBI ID:**  [LOC100240688](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100240688)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

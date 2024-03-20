@@ -20,7 +20,7 @@ tags: [ transcription factor,endosperm,fe ]
    - **ZmNAC78** expression is enriched in the basal endosperm transfer layer of kernels, and the **ZmNAC78** protein directly regulates messenger RNA abundance of Fe transporters.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[fe](/tags/fe/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[fe](/tags/fe/)
 
 ## Literature:
    - [Biofortification of iron content by regulating a NAC transcription factor in maize.]( https://www.science.org/doi/10.1126/science.adf3256?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.adf3256](https://www.science.org/doi/10.1126/science.adf3256?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38060668](https://pubmed.ncbi.nlm.nih.gov/38060668/)
@@ -32,7 +32,7 @@ tags: [ transcription factor,endosperm,fe ]
 - **NCBI ID:** [103630963](https://www.ncbi.nlm.nih.gov/gene/?term=103630963)
 - **UniProt accessions:** [A0A1D6JLP9](https://www.uniprot.org/uniprotkb/A0A1D6JLP9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

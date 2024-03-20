@@ -20,7 +20,7 @@ tags: [ leaf,leaf senescence,senescence,mature leaves,transporter,endosperm,suga
    - **ZmSUT1** mutant plants are deficient in leaf sucrose unloading to pholem; mature leaves hyperaccumulate carbohydrates and display leaf chlorosis with premature senescence.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[mature-leaves](/tags/mature-leaves/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[mature-leaves](/tags/mature-leaves/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
    - [A transcriptional landscape underlying sugar import for grain set in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35020972](https://pubmed.ncbi.nlm.nih.gov/35020972/)
@@ -34,7 +34,7 @@ tags: [ leaf,leaf senescence,senescence,mature leaves,transporter,endosperm,suga
 - **NCBI ID:** [541615](https://www.ncbi.nlm.nih.gov/gene/?term=541615)
 - **UniProt accessions:** [A0A1D6JQ52](https://www.uniprot.org/uniprotkb/A0A1D6JQ52/entry)&nbsp;,&nbsp;[C4J5U5](https://www.uniprot.org/uniprotkb/C4J5U5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

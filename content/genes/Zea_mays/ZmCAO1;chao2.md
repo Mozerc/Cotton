@@ -21,7 +21,7 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
    - The mutation of **ZmCAO1** decreases waterlogging tolerance in maize.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[chl-biosynthesis](/tags/chl-biosynthesis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[chl-biosynthesis](/tags/chl-biosynthesis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
    - [A chlorophyll a oxygenase 1 gene ZmCAO1 contributes to grain yield and waterlogging tolerance in maize.]( https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab059](https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33571996](https://pubmed.ncbi.nlm.nih.gov/33571996/)
@@ -33,7 +33,7 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
 - **NCBI ID:** [LOC100284976](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284976)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

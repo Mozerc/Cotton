@@ -21,7 +21,7 @@ tags: [ transcription factor,starch,nucleus,endosperm ]
    - Transient overexpression of **ZmNAC126** in maize endosperm increased the activities of promoters pZmSh2, pZmBt2, pZmGBSSI, pZmSSIIIa, and pZmBT1 but inhibited the activities of pZmISA1 and pZmISA2.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
 
 ## Literature:
    - [Transcription factor ZmNAC126 plays an important role in transcriptional regulation of maize starch synthesis-related genes]( https://www.sciencedirect.com/science/article/pii/S2214514120300933)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.04.014](https://www.sciencedirect.com/science/article/pii/S2214514120300933)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -34,7 +34,7 @@ tags: [ transcription factor,starch,nucleus,endosperm ]
 - **NCBI ID:** [100281227](https://www.ncbi.nlm.nih.gov/gene/?term=100281227)
 - **UniProt accessions:** [B6STE3](https://www.uniprot.org/uniprotkb/B6STE3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

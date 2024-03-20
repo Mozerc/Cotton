@@ -20,7 +20,7 @@ tags: [ leaf,transcription factor,growth,architecture,plant growth,plant archite
    - **ZmNF-YC13** affects the expression of PLA cluster genes.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
    - [Maize transcription factor ZmNF-YC13 regulates plant architecture.]( https://academic.oup.com/jxb/article/72/13/4757/6217802?login=true#266701139)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab157](https://academic.oup.com/jxb/article/72/13/4757/6217802?login=true#266701139)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33831218](https://pubmed.ncbi.nlm.nih.gov/33831218/)
@@ -32,7 +32,7 @@ tags: [ leaf,transcription factor,growth,architecture,plant growth,plant archite
 - **NCBI ID:** [LOC100217109](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100217109)
 - **UniProt accessions:** [B4FLF9](https://www.uniprot.org/uniprotkb/B4FLF9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ senescence,domestication,homeostasis,ubiquitin,phosphate,pi,pi homeostas
    - **ZmPHO2** ortholog of Arabidopsis Ubiquitin-conjugating E2 family protein that is involved in phosphate starvation response.
 
 ## Function-related keywords:
-[senescence](/tags/senescence/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-homeostasis](/tags/pi-homeostasis/)&nbsp;,&nbsp;[pi-signaling](/tags/pi-signaling/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-signaling](/tags/phosphate-starvation-signaling/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)&nbsp;,&nbsp;[phosphate-signaling](/tags/phosphate-signaling/)&nbsp;,&nbsp;[phosphate-homeostasis](/tags/phosphate-homeostasis/)
+- [senescence](/tags/senescence/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-homeostasis](/tags/pi-homeostasis/)&nbsp;,&nbsp;[pi-signaling](/tags/pi-signaling/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)&nbsp;,&nbsp;[phosphate-starvation-signaling](/tags/phosphate-starvation-signaling/)&nbsp;,&nbsp;[phosphate-starvation-response](/tags/phosphate-starvation-response/)&nbsp;,&nbsp;[phosphate-signaling](/tags/phosphate-signaling/)&nbsp;,&nbsp;[phosphate-homeostasis](/tags/phosphate-homeostasis/)
 
 ## Literature:
    - [INDETERMINATE1 autonomously regulates phosphate homeostasis upstream of the miR399-ZmPHO2 signaling module in maize.]( https://academic.oup.com/plcell/article/35/6/2208/7082804?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad089](https://academic.oup.com/plcell/article/35/6/2208/7082804?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36943781](https://pubmed.ncbi.nlm.nih.gov/36943781/)
@@ -37,7 +37,7 @@ tags: [ senescence,domestication,homeostasis,ubiquitin,phosphate,pi,pi homeostas
 - **NCBI ID:** [LOC100502171](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502171)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

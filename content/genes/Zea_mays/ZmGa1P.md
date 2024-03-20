@@ -21,7 +21,7 @@ tags: [ growth,pollen,breeding ]
    - **ZmGa1P** encodes a pollen PME and modulates pollen tube growth.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
    - [A PECTIN METHYLESTERASE gene at the maize Ga1 locus confers male function in unilateral cross-incompatibility.]( https://www.nature.com/articles/s41467-018-06139-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-018-06139-8](https://www.nature.com/articles/s41467-018-06139-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30202064](https://pubmed.ncbi.nlm.nih.gov/30202064/)
@@ -33,7 +33,7 @@ tags: [ growth,pollen,breeding ]
 - **NCBI ID:** [103655090](https://www.ncbi.nlm.nih.gov/gene/?term=103655090)
 - **UniProt accessions:** [A0A3L6F0W6](https://www.uniprot.org/uniprotkb/A0A3L6F0W6/entry)&nbsp;,&nbsp;[A0A1D6PR69](https://www.uniprot.org/uniprotkb/A0A1D6PR69/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

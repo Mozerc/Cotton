@@ -18,7 +18,7 @@ tags: [ resistance,defense ]
    - **ZmERF061** positively regulates resistance of maize plants against E. turcicum through activating the expression of defense-related genes.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)
 
 ## Literature:
    - [ZmMPK6-1 positively regulates maize resistance to E. turcicum through enhancing ZmERF061 activity]( https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1080/17429145.2023.2261772](https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -29,7 +29,7 @@ tags: [ resistance,defense ]
 - **NCBI ID:**  [LOC103646120](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103646120)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

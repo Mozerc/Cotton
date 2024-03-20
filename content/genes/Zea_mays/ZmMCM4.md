@@ -21,7 +21,7 @@ tags: [ spikelet,flowering time,flowering ]
    - Highly expression in flowering tissues such as pollinated internode, silks and female spikelet
 
 ## Function-related keywords:
-[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [spikelet](/tags/spikelet/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A role for heritable transcriptomic variation in maize adaptation to temperate environments.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02891-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-023-02891-3](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02891-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36964601](https://pubmed.ncbi.nlm.nih.gov/36964601/)
@@ -33,7 +33,7 @@ tags: [ spikelet,flowering time,flowering ]
 - **NCBI ID:** [LOC100383139](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383139)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

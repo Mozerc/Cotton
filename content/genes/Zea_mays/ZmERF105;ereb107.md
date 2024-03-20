@@ -19,7 +19,7 @@ tags: [ transcription factor,resistance,transcription activator ]
    - **ZmERF105** Binds to GCC-Box Elements and Functions as a Transcription Activator.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)
 
 ## Literature:
    - [A Novel ERF Transcription Factor, ZmERF105, Positively Regulates Maize Resistance to Exserohilum turcicum.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308562/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.00850](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308562/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32612628](https://pubmed.ncbi.nlm.nih.gov/32612628/)
@@ -30,7 +30,7 @@ tags: [ transcription factor,resistance,transcription activator ]
 - **NCBI ID:**  [LOC100384725](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100384725)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

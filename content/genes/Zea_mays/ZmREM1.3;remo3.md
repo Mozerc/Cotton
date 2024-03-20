@@ -21,7 +21,7 @@ tags: [ resistance,ja,resistant,sa,defence,defence response,ja signalling ]
    - A comparison proteomic analysis of SCR-infected P178 and Lx9801 plants revealed that the abundance of one remorin protein, **ZmREM1.3**, was significantly greater in the SCR-resistant genotype.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[ja-signalling](/tags/ja-signalling/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[ja-signalling](/tags/ja-signalling/)
 
 ## Literature:
    - [Comparative proteomics combined with analyses of transgenic plants reveal ZmREM1.3 mediates maize resistance to southern corn rust.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13129)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13129](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13129)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30972847](https://pubmed.ncbi.nlm.nih.gov/30972847/)
@@ -33,7 +33,7 @@ tags: [ resistance,ja,resistant,sa,defence,defence response,ja signalling ]
 - **NCBI ID:** [100304007](https://www.ncbi.nlm.nih.gov/gene/?term=100304007)
 - **UniProt accessions:** [B4G1B0](https://www.uniprot.org/uniprotkb/B4G1B0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -18,7 +18,7 @@ tags: [ stress,stress response ]
    - Two ZmTLP sequences (ZmTLP7 and **ZmTLP11**) have two well-conserved TLP domains at their C-termini. 
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [Genome-wide identification and comprehensive analysis of tubby-like protein gene family in multiple crops.]( https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1093944](https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36589128](https://pubmed.ncbi.nlm.nih.gov/36589128/)
@@ -29,7 +29,7 @@ tags: [ stress,stress response ]
 - **NCBI ID:**  [LOC100282475](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282475)
 - **UniProt accessions:** [A0A1D6K358](https://www.uniprot.org/uniprotkb/A0A1D6K358/entry)&nbsp;,&nbsp;[A0A317YH93](https://www.uniprot.org/uniprotkb/A0A317YH93/entry)&nbsp;,&nbsp;[B6T7S6](https://www.uniprot.org/uniprotkb/B6T7S6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

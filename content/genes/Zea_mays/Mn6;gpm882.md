@@ -23,7 +23,7 @@ tags: [ development,seed,cell wall,endosperm,seed size,seed development,cell wal
    - **Mn6** encodes an endoplasmic reticulum signal peptidase and mutant kernels are relatively small.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)
 
 ## Literature:
    - [Miniature Seed6, encoding an endoplasmic reticulum signal peptidase, is critical in seed development.]( https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiaa060](https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33793873](https://pubmed.ncbi.nlm.nih.gov/33793873/)
@@ -35,7 +35,7 @@ tags: [ development,seed,cell wall,endosperm,seed size,seed development,cell wal
 - **NCBI ID:**  [LOC100273903](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273903)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

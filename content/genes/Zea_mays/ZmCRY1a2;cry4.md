@@ -21,7 +21,7 @@ tags: [ leaf,growth,development,leaf development,plant development,sheath,plant 
    - **ZmCRY1a** expression and hormonal influence on the growth and development of maize under LBL-induced SAS.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
    - [Maize cryptochromes 1a1 and 1a2 promote seedling photomorphogenesis and shade resistance in Zea mays and Arabidopsis]( https://www.sciencedirect.com/science/article/pii/S2214514123000429)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.03.011](https://www.sciencedirect.com/science/article/pii/S2214514123000429)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -36,7 +36,7 @@ tags: [ leaf,growth,development,leaf development,plant development,sheath,plant 
 - **NCBI ID:** [LOC100502533](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100502533)
 - **UniProt accessions:** [A0A1D6Q3L4](https://www.uniprot.org/uniprotkb/A0A1D6Q3L4/entry)&nbsp;,&nbsp;[A0A1D6Q3L2](https://www.uniprot.org/uniprotkb/A0A1D6Q3L2/entry)&nbsp;,&nbsp;[A0A1D6Q3L3](https://www.uniprot.org/uniprotkb/A0A1D6Q3L3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

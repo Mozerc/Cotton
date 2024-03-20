@@ -19,7 +19,7 @@ tags: [ starch,branching,endosperm,amylose content ]
    - We found that Ae1-5180, as the dominant mutant allele of the **SBEIIb** gene, had distinct starch properties compared to the ae mutant.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
+- [starch](/tags/starch/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
 
 ## Literature:
    - [Using the dominant mutation gene Ae1-5180 (amylose extender) to develop high-amylose maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10248602/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-022-01323-7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10248602/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37313014](https://pubmed.ncbi.nlm.nih.gov/37313014/)
@@ -31,7 +31,7 @@ tags: [ starch,branching,endosperm,amylose content ]
 - **NCBI ID:**  [LOC542238](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542238)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

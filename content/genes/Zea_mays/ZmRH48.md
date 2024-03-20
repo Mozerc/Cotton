@@ -21,7 +21,7 @@ tags: [ development,seed,nucleus,endosperm,seed development,endosperm developmen
    - Embryogenesis and endosperm development are severely arrested in the **ZmRH48** mutants
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[helicase](/tags/helicase/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[helicase](/tags/helicase/)
 
 ## Literature:
    - [The DEAD-box RNA helicase ZmRH48 is required for the splicing of multiple mitochondrial introns, mitochondrial complex biosynthesis, and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13558](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37594235](https://pubmed.ncbi.nlm.nih.gov/37594235/)
@@ -33,7 +33,7 @@ tags: [ development,seed,nucleus,endosperm,seed development,endosperm developmen
 - **NCBI ID:** [LOC103627905](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103627905)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

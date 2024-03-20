@@ -21,7 +21,7 @@ tags: [ leaf,root,growth,development,kinase,leaf development,shoot,root developm
    - Thus **Cr4** regulates an array of developmental responses including cell proliferation, fate, pattern, and differentiation suggesting a function analogous to growth factor responses in animals.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[epidermis](/tags/epidermis/)&nbsp;,&nbsp;[root-epidermal-cells](/tags/root-epidermal-cells/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[epidermis](/tags/epidermis/)&nbsp;,&nbsp;[root-epidermal-cells](/tags/root-epidermal-cells/)
 
 ## Literature:
    - [The maize CR4 receptor-like kinase mediates a growth factor-like differentiation response.]( https://onlinelibrary.wiley.com/doi/abs/10.1002/1526-968X%28200007%2927%3A3%3C104%3A%3AAID-GENE30%3E3.0.CO%3B2-I?sid=nlm%3Apubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/1526-968x(200007)27:3<104::aid-gene30>3.0.co;2-i](https://onlinelibrary.wiley.com/doi/abs/10.1002/1526-968X%28200007%2927%3A3%3C104%3A%3AAID-GENE30%3E3.0.CO%3B2-I?sid=nlm%3Apubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10951503](https://pubmed.ncbi.nlm.nih.gov/10951503/)
@@ -33,7 +33,7 @@ tags: [ leaf,root,growth,development,kinase,leaf development,shoot,root developm
 - **NCBI ID:** [LOC542346](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542346)
 - **UniProt accessions:** [O24585](https://www.uniprot.org/uniprotkb/O24585/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ development,auxin,plant development,vegetative,inflorescence,auxin biosy
    - **SPI1** Expression Is Localized in Proximity to Newly Emerging Primordia and Axillary Meristems.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [sparse inflorescence1 encodes a monocot-specific YUCCA-like gene required for vegetative and reproductive development in maize.]( https://www.pnas.org/doi/10.1073/pnas.0805596105?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.0805596105](https://www.pnas.org/doi/10.1073/pnas.0805596105?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18799737](https://pubmed.ncbi.nlm.nih.gov/18799737/)
@@ -35,7 +35,7 @@ tags: [ development,auxin,plant development,vegetative,inflorescence,auxin biosy
 - **NCBI ID:** [100280444](https://www.ncbi.nlm.nih.gov/gene/?term=100280444)
 - **UniProt accessions:** [B6D9L5](https://www.uniprot.org/uniprotkb/B6D9L5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

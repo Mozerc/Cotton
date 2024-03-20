@@ -22,7 +22,7 @@ tags: [ transporter ]
    - In the lab and in field experiments using **ZmAMT3.1**-RNAi transgenic maize plants, we determined that substantial amounts of N were transferred from the fungus to host plants via the transporter encoded by **ZmAMT3.1**.
 
 ## Function-related keywords:
-[transporter](/tags/transporter/)
+- [transporter](/tags/transporter/)
 
 ## Literature:
    - [The mycorrhiza-specific ammonium transporter ZmAMT3;1 mediates mycorrhiza-dependent nitrogen uptake in maize roots.]( https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac225](https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35880836](https://pubmed.ncbi.nlm.nih.gov/35880836/)
@@ -36,7 +36,7 @@ tags: [ transporter ]
 - **NCBI ID:** [110991263](https://www.ncbi.nlm.nih.gov/gene/?term=110991263)
 - **UniProt accessions:** [K7V706](https://www.uniprot.org/uniprotkb/K7V706/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

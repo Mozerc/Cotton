@@ -18,7 +18,7 @@ tags: [ ovule ]
    - **H2A** cDNA from unfertilized ovule, similar to histone2A.
 
 ## Function-related keywords:
-[ovule](/tags/ovule/)
+- [ovule](/tags/ovule/)
 
 ## Literature:
    - [Characterization of histone H2A and H2B cDNA clones isolated from a maize ovule cDNA library
@@ -30,7 +30,7 @@ tags: [ ovule ]
 - **NCBI ID:**  [LOC103639303](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103639303)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

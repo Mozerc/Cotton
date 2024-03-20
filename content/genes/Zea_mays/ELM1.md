@@ -21,7 +21,7 @@ tags: [ seedlings,flowering time,flowering ]
    - the**ELM1** mutant of maize provides the first direct evidence for phytochrome-mediated modulation of flowering time in this agronomically important species.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Elongated mesocotyl1, a phytochrome-deficient mutant of maize.]( https://academic.oup.com/plphys/article/130/1/155/6110319?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.006411](https://academic.oup.com/plphys/article/130/1/155/6110319?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12226496](https://pubmed.ncbi.nlm.nih.gov/12226496/)
@@ -33,7 +33,7 @@ tags: [ seedlings,flowering time,flowering ]
 - **NCBI ID:** [LOC542164](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542164)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

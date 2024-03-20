@@ -21,7 +21,7 @@ tags: [ photosynthesis,stomatal,biomass,phloem,chlorophyll,sucrose ]
    - **ZmSUT1** functions to phloem load sucrose in maize leaves.
 
 ## Function-related keywords:
-[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[phloem](/tags/phloem/)&nbsp;,&nbsp;[chlorophyll](/tags/chlorophyll/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
+- [photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[phloem](/tags/phloem/)&nbsp;,&nbsp;[chlorophyll](/tags/chlorophyll/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
    - [Maize SUT1 functions in phloem loading.]( https://www.tandfonline.com/doi/full/10.4161/psb.5.6.11575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.4161/psb.5.6.11575](https://www.tandfonline.com/doi/full/10.4161/psb.5.6.11575)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20404497](https://pubmed.ncbi.nlm.nih.gov/20404497/)
@@ -34,7 +34,7 @@ tags: [ photosynthesis,stomatal,biomass,phloem,chlorophyll,sucrose ]
 - **NCBI ID:** [LOC541615](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541615)
 - **UniProt accessions:** [A0A1D6PJ67](https://www.uniprot.org/uniprotkb/A0A1D6PJ67/entry)&nbsp;,&nbsp;[K7WGT4](https://www.uniprot.org/uniprotkb/K7WGT4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ drought,cell wall,stomatal,stomatal density,secondary cell wall,drought 
    - **ZmIRX15A** dysfunction increases stomatal density by altering cell wall composition.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Natural polymorphisms in ZmIRX15A affect water-use efficiency by modulating stomatal density in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14153)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14153](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14153)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37572352](https://pubmed.ncbi.nlm.nih.gov/37572352/)
@@ -33,7 +33,7 @@ tags: [ drought,cell wall,stomatal,stomatal density,secondary cell wall,drought 
 - **NCBI ID:** [LOC100273350](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273350)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

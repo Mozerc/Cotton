@@ -21,7 +21,7 @@ tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,fl
    - ZmELF6-**ZmPRR37** module regulates maize flowering and salt response.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [ZmELF6-ZmPRR37 module regulates maize flowering and salt response.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14236)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14236](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14236)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38009862](https://pubmed.ncbi.nlm.nih.gov/38009862/)
@@ -34,7 +34,7 @@ tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,fl
 - **NCBI ID:** [103647963](https://www.ncbi.nlm.nih.gov/gene/?term=103647963)
 - **UniProt accessions:** [A0A1D6F525](https://www.uniprot.org/uniprotkb/A0A1D6F525/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

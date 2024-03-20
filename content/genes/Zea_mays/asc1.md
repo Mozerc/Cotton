@@ -18,7 +18,7 @@ tags: [ stomatal,height ]
    - Especially striking are the effects of **Asc1** mutations on stomatal patterning and anatomy.
 
 ## Function-related keywords:
-[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[height](/tags/height/)
+- [stomatal](/tags/stomatal/)&nbsp;,&nbsp;[height](/tags/height/)
 
 ## Literature:
    - [Microdissection of shoot meristem functional domains.]( https://www.researchgate.net/publication/24410336_Microdissection_of_Shoot_Meristem_Functional_Domains)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1000476](https://www.researchgate.net/publication/24410336_Microdissection_of_Shoot_Meristem_Functional_Domains)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19424435](https://pubmed.ncbi.nlm.nih.gov/19424435/)
@@ -29,7 +29,7 @@ tags: [ stomatal,height ]
 - **NCBI ID:** [LOC100283538](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283538)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

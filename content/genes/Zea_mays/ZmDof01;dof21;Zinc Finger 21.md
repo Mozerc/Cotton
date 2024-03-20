@@ -18,7 +18,7 @@ tags: [ transcription factor,sheath,zinc ]
    - Cluster 3 was enriched in DNA-binding one **Zinc Finger 21** (DOF21) and MYB-transcription factor 14 (MYB14) motifs.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[zinc](/tags/zinc/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[zinc](/tags/zinc/)
 
 ## Literature:
    - [Compartmentation of photosynthesis gene expression in C4 maize depends on time of day.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10663113/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad447](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10663113/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37555432](https://pubmed.ncbi.nlm.nih.gov/37555432/)
@@ -29,7 +29,7 @@ tags: [ transcription factor,sheath,zinc ]
 - **NCBI ID:**  [LOC100193013](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100193013)
 - **UniProt accessions:** [B6SWQ6](https://www.uniprot.org/uniprotkb/B6SWQ6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
    - **ZmHSFA2** upregulates the expression of the endogenous ZmGOLS2 and the Rluc controlled by the ZmGOLS2 promoter in maize protoplasts.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
+- [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)
 
 ## Literature:
    - [Maize HSFA2 and HSBP2 antagonistically modulate raffinose biosynthesis and heat tolerance in Arabidopsis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14434](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14434)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31180156](https://pubmed.ncbi.nlm.nih.gov/31180156/)
@@ -33,7 +33,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
 - **NCBI ID:**  [LOC100280736](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280736)
 - **UniProt accessions:** [A0A060D206](https://www.uniprot.org/uniprotkb/A0A060D206/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

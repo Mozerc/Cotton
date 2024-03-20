@@ -18,7 +18,7 @@ tags: [ oxidative,reactive oxygen species ]
    - **ZmAPX6** participates in the antioxidant enzyme system to remove reactive oxygen species and protect plant cells from oxidative damage.
 
 ## Function-related keywords:
-[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
+- [oxidative](/tags/oxidative/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
 
 ## Literature:
    - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
@@ -29,7 +29,7 @@ tags: [ oxidative,reactive oxygen species ]
 - **NCBI ID:**  [100193740](https://www.ncbi.nlm.nih.gov/gene/?term=100193740)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

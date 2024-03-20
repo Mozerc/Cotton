@@ -21,7 +21,7 @@ tags: [ leaf,brassinosteroid,architecture,plant architecture,leaf angle ]
    - UPA2 exhibits differential binding by DRL1 (DROOPING LEAF1), and DRL1 physically interacts with LG1 (LIGULELESS1) and represses LG1 activation of **ZmRAVL1**.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Teosinte ligule allele narrows plant architecture and enhances high-density maize yields.]( https://www.science.org/doi/10.1126/science.aax5482?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.aax5482](https://www.science.org/doi/10.1126/science.aax5482?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#supplementary-materials)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31416957](https://pubmed.ncbi.nlm.nih.gov/31416957/)
@@ -34,7 +34,7 @@ tags: [ leaf,brassinosteroid,architecture,plant architecture,leaf angle ]
 - **NCBI ID:** [LOC103646035](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103646035)
 - **UniProt accessions:** [A0A060D1M1](https://www.uniprot.org/uniprotkb/A0A060D1M1/entry)&nbsp;,&nbsp;[A0A3L6FNT7](https://www.uniprot.org/uniprotkb/A0A3L6FNT7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

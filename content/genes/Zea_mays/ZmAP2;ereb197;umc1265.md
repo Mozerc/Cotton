@@ -19,7 +19,7 @@ tags: [ flowering time,flowering ]
    - We developed a gene regulatory model of maize flowering time using ZmNF-YC2, ZmNF-YA3, **ZmAP2**, ZMM4, and other key genes.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Identification of ZmNF-YC2 and its regulatory network for maize flowering time.]( https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab364](https://academic.oup.com/jxb/article/72/22/7792/6334878?login=true#)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34338753](https://pubmed.ncbi.nlm.nih.gov/34338753/)
@@ -31,7 +31,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [LOC100280414](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280414)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

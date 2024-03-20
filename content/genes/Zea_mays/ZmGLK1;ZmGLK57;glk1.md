@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,sheath,photosynthesis,tolerance,abiotic st
    - **ZmGLK1** and ZmG2 conferred improved drought tolerance in rice.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)
 
 ## Literature:
    - [Maize GOLDEN2-LIKE proteins enhance drought tolerance in rice by promoting stomatal closure.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad561](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37850886](https://pubmed.ncbi.nlm.nih.gov/37850886/)
@@ -33,7 +33,7 @@ tags: [ drought,stress,drought stress,sheath,photosynthesis,tolerance,abiotic st
 - **NCBI ID:**  [LOC541882](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541882)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

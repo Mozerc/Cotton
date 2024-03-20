@@ -22,7 +22,7 @@ tags: [ flowering time,flowering ]
    - **ZmCOL3** functions as a repressor of flowering.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [ZmCOL3, a CCT gene represses flowering in maize by interfering with the circadian clock and activating expression of ZmCCT.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12632)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12632](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12632)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29319223](https://pubmed.ncbi.nlm.nih.gov/29319223/)
@@ -34,7 +34,7 @@ tags: [ flowering time,flowering ]
 - **NCBI ID:** [100281289](https://www.ncbi.nlm.nih.gov/gene/?term=100281289)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

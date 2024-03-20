@@ -21,7 +21,7 @@ tags: [ leaf,transcription factor,resistant,leaf angle ]
    - We found that the transcription factor (TF) **ZmBEH1** (BZR1/BES1 homolog gene 1) is targeted by ZmLG2 and regulates leaf angle formation by influencing sclerenchyma cell layers on the adaxial side.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
    - [Characterization of regulatory modules controlling leaf angle in maize.]( https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac308](https://academic.oup.com/plphys/article/190/1/500/6618538?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35758633](https://pubmed.ncbi.nlm.nih.gov/35758633/)
@@ -35,7 +35,7 @@ tags: [ leaf,transcription factor,resistant,leaf angle ]
 - **NCBI ID:** [100216929](https://www.ncbi.nlm.nih.gov/gene/?term=100216929)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

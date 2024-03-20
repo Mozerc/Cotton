@@ -21,7 +21,7 @@ tags: [ development,seed,endosperm,seed development,cell proliferation,cellular 
    - **RBM48** Disrupts Endosperm Cellular Development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
    - [RNA Binding Motif Protein 48 Is Required for U12 Splicing and Maize Endosperm Differentiation.]( https://academic.oup.com/plcell/article/31/3/715/5985585?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00754](https://academic.oup.com/plcell/article/31/3/715/5985585?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30760564](https://pubmed.ncbi.nlm.nih.gov/30760564/)
@@ -34,7 +34,7 @@ tags: [ development,seed,endosperm,seed development,cell proliferation,cellular 
 - **NCBI ID:** [LOC100280490](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280490)
 - **UniProt accessions:** [A0A1D6QV55](https://www.uniprot.org/uniprotkb/A0A1D6QV55/entry)&nbsp;,&nbsp;[A0A1D6QV56](https://www.uniprot.org/uniprotkb/A0A1D6QV56/entry)&nbsp;,&nbsp;[A0A1D6QV57](https://www.uniprot.org/uniprotkb/A0A1D6QV57/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

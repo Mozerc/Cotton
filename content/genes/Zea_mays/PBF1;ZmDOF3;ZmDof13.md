@@ -21,7 +21,7 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
    - **PBF1** modulates C and N metabolism during endosperm development in an N-dependent manner.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
+- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
    - [Nitrogen-dependent binding of the transcription factor PBF1 contributes to the balance of protein and carbohydrate storage in maize endosperm.]( https://academic.oup.com/plcell/article/35/1/409/6759374?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac302](https://academic.oup.com/plcell/article/35/1/409/6759374?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36222567](https://pubmed.ncbi.nlm.nih.gov/36222567/)
@@ -33,7 +33,7 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
 - **NCBI ID:** [542353](https://www.ncbi.nlm.nih.gov/gene/?term=542353)
 - **UniProt accessions:** [A0A3L6FRB9](https://www.uniprot.org/uniprotkb/A0A3L6FRB9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
    - Suggesting that **ZmHAK4** orthologues mediate an evolutionarily conserved salt-tolerance mechanism.
 
 ## Function-related keywords:
-[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+- [shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
    - [A HAK family Na(+) transporter confers natural variation of salt tolerance in maize.]( https://www.nature.com/articles/s41477-019-0565-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0565-y](https://www.nature.com/articles/s41477-019-0565-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31819228](https://pubmed.ncbi.nlm.nih.gov/31819228/)
@@ -33,7 +33,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
 - **NCBI ID:** [103653279](https://www.ncbi.nlm.nih.gov/gene/?term=103653279)
 - **UniProt accessions:** [A0A1D6PZ98](https://www.uniprot.org/uniprotkb/A0A1D6PZ98/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

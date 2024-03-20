@@ -20,7 +20,7 @@ tags: [ domestication,flavonoid ]
    - **Pr1** changes purple aleurone to red; encodes flavonoid 3'-hydroxylase.
 
 ## Function-related keywords:
-[domestication](/tags/domestication/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)
+- [domestication](/tags/domestication/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)
 
 ## Literature:
    - [Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and Its Wild Ancestor, Teosinte.]( https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00111](https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31227559](https://pubmed.ncbi.nlm.nih.gov/31227559/)
@@ -32,7 +32,7 @@ tags: [ domestication,flavonoid ]
 - **NCBI ID:** [100273383](https://www.ncbi.nlm.nih.gov/gene/?term=100273383)
 - **UniProt accessions:** [B4FV55](https://www.uniprot.org/uniprotkb/B4FV55/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

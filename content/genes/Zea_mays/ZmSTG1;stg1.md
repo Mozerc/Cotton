@@ -22,7 +22,7 @@ tags: [ growth,stress,salt,tolerance,aba,salt tolerance,salt stress,stress toler
    - **ZmSTG1** is a putative gene responsible for salt tolerance.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)
 
 ## Literature:
    - [Salt Tolerant Gene 1 contributes to salt tolerance by maintaining photosystem II activity in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14578)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14578](https://onlinelibrary.wiley.com/doi/10.1111/pce.14578)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36891878](https://pubmed.ncbi.nlm.nih.gov/36891878/)
@@ -35,7 +35,7 @@ tags: [ growth,stress,salt,tolerance,aba,salt tolerance,salt stress,stress toler
 - **NCBI ID:** [103638796](https://www.ncbi.nlm.nih.gov/gene/?term=103638796)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

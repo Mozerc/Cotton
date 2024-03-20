@@ -24,7 +24,7 @@ tags: [ growth,kinase,auxin,nucleus,cell division,meristem,plant growth,dwarf,ce
    - We found that the ZmWEE1 kinase phosphorylates **ZmTE1**, thus confining it to the nucleus and probably reducing cell division. In contrast, the ZmPP2Ac-2 phosphatase promotes dephosphorylation and cytoplasmic localization of **ZmTE1**, as well as cell division.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[intercalary-meristem](/tags/intercalary-meristem/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[node](/tags/node/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[intercalary-meristem](/tags/intercalary-meristem/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[node](/tags/node/)
 
 ## Literature:
    - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
@@ -37,7 +37,7 @@ tags: [ growth,kinase,auxin,nucleus,cell division,meristem,plant growth,dwarf,ce
 - **NCBI ID:** [LOC541683](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541683)
 - **UniProt accessions:** [O65001](https://www.uniprot.org/uniprotkb/O65001/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

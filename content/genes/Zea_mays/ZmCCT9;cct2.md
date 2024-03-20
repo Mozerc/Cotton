@@ -22,7 +22,7 @@ tags: [ domestication,flowering time,flowering ]
    - **ZmCCT9** photoperiod response locus; confers later flowering in teosintes under longer day lengths; knockout mutant causes early flowering under long days
 
 ## Function-related keywords:
-[domestication](/tags/domestication/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [domestication](/tags/domestication/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [ZmCCT9 enhances maize adaptation to higher latitudes.]( https://www.pnas.org/doi/full/10.1073/pnas.1718058115)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1718058115](https://www.pnas.org/doi/full/10.1073/pnas.1718058115)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29279404](https://pubmed.ncbi.nlm.nih.gov/29279404/)
@@ -34,7 +34,7 @@ tags: [ domestication,flowering time,flowering ]
 - **NCBI ID:** [103638936](https://www.ncbi.nlm.nih.gov/gene/?term=103638936)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

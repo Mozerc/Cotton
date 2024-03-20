@@ -21,7 +21,7 @@ tags: [ resistance,ja,jasmonic,jasmonic acid,ja biosynthesis,fatty acid biosynth
    - Mutation of **ZmGL8** activates JA-related pathways.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[fatty-acid-biosynthesis](/tags/fatty-acid-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[cuticular-wax-biosynthesis](/tags/cuticular-wax-biosynthesis/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)
+- [resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[fatty-acid-biosynthesis](/tags/fatty-acid-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[cuticular-wax-biosynthesis](/tags/cuticular-wax-biosynthesis/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)
 
 ## Literature:
    - [Trade-offs between the accumulation of cuticular wax and jasmonic acid-mediated herbivory resistance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13586)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13586](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13586)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37975264](https://pubmed.ncbi.nlm.nih.gov/37975264/)
@@ -33,7 +33,7 @@ tags: [ resistance,ja,jasmonic,jasmonic acid,ja biosynthesis,fatty acid biosynth
 - **NCBI ID:** [LOC542359](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542359)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ development,stress,cold stress,abiotic stress,cold,cell wall,stomatal,st
    - **ZmRBOH8** marker gene likely involved in cell wall metabolism of stomatal development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[stomatal-development](/tags/stomatal-development/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
+- [development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[stomatal-development](/tags/stomatal-development/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
    - [Evolutionary Analysis of Respiratory Burst Oxidase Homolog (RBOH) Genes in Plants and Characterization of ZmRBOHs.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043858](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835269](https://pubmed.ncbi.nlm.nih.gov/36835269/)
@@ -30,7 +30,7 @@ tags: [ development,stress,cold stress,abiotic stress,cold,cell wall,stomatal,st
 - **NCBI ID:**  [LOC103643238](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103643238)
 - **UniProt accessions:** [A0A1D6KNE5](https://www.uniprot.org/uniprotkb/A0A1D6KNE5/entry)&nbsp;,&nbsp;[A0A1D6ND54](https://www.uniprot.org/uniprotkb/A0A1D6ND54/entry)&nbsp;,&nbsp;[A0A317YIQ5](https://www.uniprot.org/uniprotkb/A0A317YIQ5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

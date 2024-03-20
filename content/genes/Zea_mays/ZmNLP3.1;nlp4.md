@@ -21,7 +21,7 @@ tags: [ growth,yield,cytokinin,plant growth,biomass,cytokinin response ]
    - The zmnrt1.1b and **ZmNLP3.1** mutants reduce biomass and yield under field conditions.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[cytokinin-response](/tags/cytokinin-response/)
+- [growth](/tags/growth/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[cytokinin-response](/tags/cytokinin-response/)
 
 ## Literature:
    - [ZmNRT1.1B (ZmNPF6.6) determines nitrogen use efficiency via regulation of nitrate transport and signalling in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14185](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37786281](https://pubmed.ncbi.nlm.nih.gov/37786281/)
@@ -32,7 +32,7 @@ tags: [ growth,yield,cytokinin,plant growth,biomass,cytokinin response ]
 - **NCBI ID:** [LOC103635017](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103635017)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

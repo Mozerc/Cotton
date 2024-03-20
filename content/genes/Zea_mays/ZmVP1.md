@@ -22,7 +22,7 @@ tags: [ seed,aba ]
    - Maize VIVIPAROUS1 Interacts with ABA INSENSITIVE5 to Regulate GALACTINOL SYNTHASE2 Expression Controlling Seed Raffinose Accumulation.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[aba](/tags/aba/)
+- [seed](/tags/seed/)&nbsp;,&nbsp;[aba](/tags/aba/)
 
 ## Literature:
    - [Maize PIMT2 repairs damaged 3-METHYLCROTONYL COA CARBOXYLASE in mitochondria, affecting seed vigor.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16225](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36999611](https://pubmed.ncbi.nlm.nih.gov/36999611/)
@@ -37,7 +37,7 @@ tags: [ seed,aba ]
 - **NCBI ID:** [542523](https://www.ncbi.nlm.nih.gov/gene/?term=542523)
 - **UniProt accessions:** [P26307](https://www.uniprot.org/uniprotkb/P26307/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

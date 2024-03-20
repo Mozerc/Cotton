@@ -19,7 +19,7 @@ tags: [ root,auxin,root initiation,lateral root,primary root ]
    - Maize **Lbd24** (GRMZM2G075499) was down-regulated more than 4-fold in rum1 primary roots.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)
+- [root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)
 
 ## Literature:
    - [The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize (Zea mays L.) primary roots.]( https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru249](https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24928984](https://pubmed.ncbi.nlm.nih.gov/24928984/)
@@ -31,7 +31,7 @@ tags: [ root,auxin,root initiation,lateral root,primary root ]
 - **NCBI ID:** [103654112](https://www.ncbi.nlm.nih.gov/gene/?term=103654112)
 - **UniProt accessions:** [K7U8R9](https://www.uniprot.org/uniprotkb/K7U8R9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

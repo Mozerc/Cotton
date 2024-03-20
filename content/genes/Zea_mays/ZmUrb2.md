@@ -23,7 +23,7 @@ tags: [ seedlings,growth,development,vegetative ]
    - Urb2 mutant showed decreased ratios of 60S/40S and 80S/40S and increased ratios of polyribosomes; had thin kernels and small seedlings.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)
+- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)
 
 ## Literature:
    - [Maize Urb2 protein is required for kernel development and vegetative growth by affecting pre-ribosomal RNA processing.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15057)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15057](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15057)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29479724](https://pubmed.ncbi.nlm.nih.gov/29479724/)
@@ -35,7 +35,7 @@ tags: [ seedlings,growth,development,vegetative ]
 - **NCBI ID:** [LOC100381737](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100381737)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

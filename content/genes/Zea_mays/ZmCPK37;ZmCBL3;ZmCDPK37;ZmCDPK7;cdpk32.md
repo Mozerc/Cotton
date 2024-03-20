@@ -21,7 +21,7 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
    - Mutation of ZmSLAC1 and **ZmCPK37** impaired ABA-activated S-type anion currents in maize guard cells, while the S-type anion currents were increased in the guard cells of ZmCPK35- and **ZmCPK37**-overexpression lines. Electrophysiological characterization in maize guard cells and Xenopus oocytes indicated that ZmCPK35 and **ZmCPK37** could activate ZmSLAC1-mediated Cl- and NO3- currents.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
+- [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
    - [Two calcium-dependent protein kinases enhance maize drought tolerance by activating anion channel ZmSLAC1 in guard cells.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13701](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13701)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34498364](https://pubmed.ncbi.nlm.nih.gov/34498364/)
@@ -35,7 +35,7 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 - **NCBI ID:** [LOC100280693](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100280693)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

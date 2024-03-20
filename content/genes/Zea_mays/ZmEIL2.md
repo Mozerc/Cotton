@@ -18,7 +18,7 @@ tags: [ transcription factor,resistance ]
    - The Pro (P) residue in the PR was much conserved except in two proteins **ZmEIL2** and ZmEIL6.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)
+- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)
 
 ## Literature:
    - [Germline Development and Fertilization Mechanisms in Maize.]( https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.01.012](https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28267957](https://pubmed.ncbi.nlm.nih.gov/28267957/)
@@ -29,7 +29,7 @@ tags: [ transcription factor,resistance ]
 - **NCBI ID:**  [LOC103647946](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103647946)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**
