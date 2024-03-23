@@ -22,7 +22,7 @@ tags: [ root,development,shoot,root development,embryo,embryo development,calli 
    - The use of TaWOX5 in improvement of transformation efficiency also showed promising results in Triticum monococcum, triticale, rye, barley and maize.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[calli](/tags/calli/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[calli](/tags/calli/)
 
 ## Literature:
    - [The gene TaWOX5 overcomes genotype dependency in wheat genetic transformation.]( https://www.nature.com/articles/s41477-021-01085-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-021-01085-8](https://www.nature.com/articles/s41477-021-01085-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35027699](https://pubmed.ncbi.nlm.nih.gov/35027699/)
@@ -33,7 +33,7 @@ tags: [ root,development,shoot,root development,embryo,embryo development,calli 
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [T1WGQ3](https://www.uniprot.org/uniprotkb/T1WGQ3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

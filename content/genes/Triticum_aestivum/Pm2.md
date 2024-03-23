@@ -18,7 +18,7 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
    - **Pm2** promotes powdery mildew resistance in wheat.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Rapid gene isolation in barley and wheat by mutant chromosome sequencing.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1082-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-016-1082-1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1082-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27795210](https://pubmed.ncbi.nlm.nih.gov/27795210/)
@@ -29,7 +29,7 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6MJ68](https://www.uniprot.org/uniprotkb/A0A3B6MJ68/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

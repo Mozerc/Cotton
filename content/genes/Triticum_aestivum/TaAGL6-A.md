@@ -21,7 +21,7 @@ tags: [ development,spikelet,fertility,floral,meristem,spikelet meristem,inflore
    - Regulation of meristem activity genes by TaAGL6 for both inflorescence and floral development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [The wheat AGL6-like MADS-box gene is a master regulator for floral organ identity and a target for spikelet meristem development manipulation.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13696)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13696](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13696)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34487615](https://pubmed.ncbi.nlm.nih.gov/34487615/)
@@ -33,7 +33,7 @@ tags: [ development,spikelet,fertility,floral,meristem,spikelet meristem,inflore
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6NT93](https://www.uniprot.org/uniprotkb/A0A3B6NT93/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

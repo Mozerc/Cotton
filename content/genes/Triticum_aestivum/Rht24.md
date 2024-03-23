@@ -20,7 +20,7 @@ tags: [ grain,grain yield,gibberellin,yield,breeding,height,plant height ]
    - **Rht24**b is an important reduced height gene for wheat breeding.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
    - [Rht24b, an ancient variation of TaGA2ox-A9, reduces plant height without yield penalty in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17808)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17808](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17808)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34655489](https://pubmed.ncbi.nlm.nih.gov/34655489/)
@@ -31,7 +31,7 @@ tags: [ grain,grain yield,gibberellin,yield,breeding,height,plant height ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6NRX9](https://www.uniprot.org/uniprotkb/A0A3B6NRX9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

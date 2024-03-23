@@ -18,7 +18,7 @@ tags: [ kinase,protein kinase ]
    - Previous studies have reported that total extraction from TaSnRK1α−1A could not directly phosphorylate substrates in vitro, but **TaGRIK1** (TraesCS4D02G045900, Serine/threonine‐protein kinase) kinase was able to activate the activity of TaSnRK1α to exercise kinase function.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)
 
 ## Literature:
    - [A TaSnRK1α Modulates TaPAP6L-Mediated Wheat Cold Tolerance through Regulating Endogenous Jasmonic Acid.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625090/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/advs.202303478](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625090/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37740426](https://pubmed.ncbi.nlm.nih.gov/37740426/)
@@ -30,7 +30,7 @@ tags: [ kinase,protein kinase ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6JED7](https://www.uniprot.org/uniprotkb/A0A3B6JED7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ kernel texture ]
    - Both Pin genes have been deleted from chromosomes 5A and 5B during the evolution of durum wheat (the contributor of A and B genomes of common wheat). In contrast, all three Gsp-1 genes (from the A, B and D genomes) are conserved in common wheat.
 
 ## Function-related keywords:
-[kernel-texture](/tags/kernel-texture/)
+   - [kernel-texture](/tags/kernel-texture/)
 
 ## Literature:
    - [Molecular genetics of puroindolines and related genes: allelic diversity in wheat and other grasses.]( https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9263-7](https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18049798](https://pubmed.ncbi.nlm.nih.gov/18049798/)
@@ -30,7 +30,7 @@ tags: [ kernel texture ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [B6Z278](https://www.uniprot.org/uniprotkb/B6Z278/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

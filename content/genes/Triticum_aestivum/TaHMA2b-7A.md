@@ -20,7 +20,7 @@ tags: [ grain,resistance,atpase,plasma membrane,heavy metal ]
    - Our results identified **TaHMA2b-7A** as a key candidate gene responsible for the differential plant Cd resistance and grain Cd accumulation between the two contrasting wheat genotypes.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[heavy-metal](/tags/heavy-metal/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[heavy-metal](/tags/heavy-metal/)
 
 ## Literature:
    - [Multiomics reveals an essential role of long-distance translocation in regulating plant cadmium resistance and grain accumulation in allohexaploid wheat (Triticum aestivum).]( https://academic.oup.com/jxb/article/73/22/7516/6692367?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac364](https://academic.oup.com/jxb/article/73/22/7516/6692367?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36063365](https://pubmed.ncbi.nlm.nih.gov/36063365/)
@@ -32,7 +32,7 @@ tags: [ grain,resistance,atpase,plasma membrane,heavy metal ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RP12](https://www.uniprot.org/uniprotkb/A0A3B6RP12/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

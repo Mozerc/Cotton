@@ -21,7 +21,7 @@ tags: [ floral,flowering,vernalization,photoperiod response,photoperiod ]
    - These results support the hypothesis that **TaVRT-2** is a putative repressor of the floral transition in wheat.
 
 ## Function-related keywords:
-[floral](/tags/floral/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [floral](/tags/floral/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
    - [TaVRT-2, a member of the StMADS-11 clade of flowering repressors, is regulated by vernalization and photoperiod in wheat.]( https://academic.oup.com/plphys/article/138/4/2354/6112986?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.105.061762 ](https://academic.oup.com/plphys/article/138/4/2354/6112986?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16024692](https://pubmed.ncbi.nlm.nih.gov/16024692/)
@@ -32,7 +32,7 @@ tags: [ floral,flowering,vernalization,photoperiod response,photoperiod ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6TG84](https://www.uniprot.org/uniprotkb/A0A3B6TG84/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

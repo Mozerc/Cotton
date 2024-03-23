@@ -21,7 +21,7 @@ tags: [ leaf,growth,development,grain,grain length,leaf development,plant develo
    - **TaGAMYB3** interacts with TaBA1 to additively activate TaMADS5 transcription during wheat spike development.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [The miR319/TaGAMYB3 module regulates plant architecture and improves grain yield in common wheat (Triticum aestivum).]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18216)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18216](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18216)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35538666](https://pubmed.ncbi.nlm.nih.gov/35538666/)
@@ -33,7 +33,7 @@ tags: [ leaf,growth,development,grain,grain length,leaf development,plant develo
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6EK12](https://www.uniprot.org/uniprotkb/A0A3B6EK12/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

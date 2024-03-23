@@ -21,7 +21,7 @@ tags: [ aba ]
    - **TaPI4K-2A** had an ABA-responsive element (ABRE) deletion (InDel-1359) in the promoter region and a missense mutation (SNP718, Ala240Thr) in the coding region, both of which were strongly associated with PHS, giving rise to two major haplotypes for this gene.
 
 ## Function-related keywords:
-[aba](/tags/aba/)
+   - [aba](/tags/aba/)
 
 ## Literature:
    - [A genome-wide association study uncovers that TaPI4K-2A regulates pre-harvest sprouting in wheat.]( https://www.sciencedirect.com/science/article/pii/S2590346223002857?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100739](https://www.sciencedirect.com/science/article/pii/S2590346223002857?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37897040](https://pubmed.ncbi.nlm.nih.gov/37897040/)
@@ -33,7 +33,7 @@ tags: [ aba ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6B869](https://www.uniprot.org/uniprotkb/A0A3B6B869/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

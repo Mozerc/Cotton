@@ -19,7 +19,7 @@ tags: [ drought,salt,tolerance,drought tolerance,salt tolerance,sterile,flowerin
    - **TaCSOD** overexpression induces early flowering in Arabidopsis.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [The vernalization-induced long non-coding RNA VAS functions with the transcription factor TaRF2b to promote TaVRN1 expression for flowering in hexaploid wheat.]( https://www.sciencedirect.com/science/article/pii/S2949798123000078)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.agrcom.2023.100007](https://www.sciencedirect.com/science/article/pii/S2949798123000078)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34052392](https://pubmed.ncbi.nlm.nih.gov/34052392/)
@@ -31,7 +31,7 @@ tags: [ drought,salt,tolerance,drought tolerance,salt tolerance,sterile,flowerin
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6HT65](https://www.uniprot.org/uniprotkb/A0A3B6HT65/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

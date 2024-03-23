@@ -22,7 +22,7 @@ tags: [ resistance,cell death,powdery mildew,mildew resistance,mildew,powdery mi
    - The rare c.G3033A SNV detected in **Pm5e** by allelic association analysis of a diversified wheat panel proved to be the key causal variant responsible for powdery mildew resistance.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [A rare single nucleotide variant in Pm5e confers powdery mildew resistance in common wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16762)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16762](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16762)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32569398](https://pubmed.ncbi.nlm.nih.gov/32569398/)
@@ -34,7 +34,7 @@ tags: [ resistance,cell death,powdery mildew,mildew resistance,mildew,powdery mi
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6ST18](https://www.uniprot.org/uniprotkb/A0A3B6ST18/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

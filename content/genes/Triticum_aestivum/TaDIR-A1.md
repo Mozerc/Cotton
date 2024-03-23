@@ -19,7 +19,7 @@ tags: [ resistance,cell wall,crown,lignin ]
    - Therefore, improvement of FCR resistance caused by loss of function of the TaDIR genes may be attributed to accumulation of lignin in wheat plants. 
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[lignin](/tags/lignin/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[lignin](/tags/lignin/)
 
 ## Literature:
    - [A loss-of-function of the dirigent gene TaDIR-B1 improves resistance to Fusarium crown rot in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13554)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13554](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13554)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33567136](https://pubmed.ncbi.nlm.nih.gov/33567136/)
@@ -31,7 +31,7 @@ tags: [ resistance,cell wall,crown,lignin ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6KUV9](https://www.uniprot.org/uniprotkb/A0A3B6KUV9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

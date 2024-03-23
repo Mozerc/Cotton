@@ -19,7 +19,7 @@ tags: [ growth,development,grain,plant development,stress,grain number,plant gro
    - **TaSINA** and had increased vigour and water use efficiency early in development, as well as increased biomass, grain number, and grain weight following heat stress.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
    - [The wheat Seven in absentia gene is associated with increases in biomass and yield in hot climates.]( https://academic.oup.com/jxb/article/72/10/3774/6128899?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab044](https://academic.oup.com/jxb/article/72/10/3774/6128899?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33543261](https://pubmed.ncbi.nlm.nih.gov/33543261/)
@@ -30,7 +30,7 @@ tags: [ growth,development,grain,plant development,stress,grain number,plant gro
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5YQS8](https://www.uniprot.org/uniprotkb/A0A3B5YQS8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

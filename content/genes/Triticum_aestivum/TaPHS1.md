@@ -20,7 +20,7 @@ tags: [ grain,resistance,grain yield,grain quality,quality,yield,breeding,flower
    - RNA interference-mediated knockdown of the gene confirmed that **TaPHS1** positively regulates PHS resistance.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Cloning and characterization of a critical regulator for preharvest sprouting in wheat.]( https://academic.oup.com/genetics/article/195/1/263/5935442?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1534/genetics.113.152330](https://academic.oup.com/genetics/article/195/1/263/5935442?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23821595](https://pubmed.ncbi.nlm.nih.gov/23821595/)
@@ -31,7 +31,7 @@ tags: [ grain,resistance,grain yield,grain quality,quality,yield,breeding,flower
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [G1UE17](https://www.uniprot.org/uniprotkb/G1UE17/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

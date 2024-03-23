@@ -21,7 +21,7 @@ tags: [ stem,resistance,disease,disease resistance,rust resistance,rust ]
    - **Sr22b** was successfully introgressed into the common wheat variety Fielder, where it conferred good levels of resistance to Pgt.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [stem](/tags/stem/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Identification and characterization of Sr22b, a new allele of the wheat stem rust resistance gene Sr22 effective against the Ug99 race group.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13737)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13737](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13737)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34695276](https://pubmed.ncbi.nlm.nih.gov/34695276/)
@@ -34,7 +34,7 @@ tags: [ stem,resistance,disease,disease resistance,rust resistance,rust ]
 - **NCBI ID:**  [LN883743](https://www.ncbi.nlm.nih.gov/gene/?term=LN883743)
 - **UniProt accessions:** [A0A3B6RRD0](https://www.uniprot.org/uniprotkb/A0A3B6RRD0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

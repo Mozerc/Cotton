@@ -21,7 +21,7 @@ tags: [ resistance,breeding,resistant,rust resistance,rust ]
    - **YrAS2388R** suppression might conceivably be caused by close homologues of NLR4DS-1 that are present in Triticeae.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [An ancestral NB-LRR with duplicated 3&#x27;UTRs confers stripe rust resistance in wheat and barley.]( https://www.nature.com/articles/s41467-019-11872-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-019-11872-9](https://www.nature.com/articles/s41467-019-11872-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31492844](https://pubmed.ncbi.nlm.nih.gov/31492844/)
@@ -33,7 +33,7 @@ tags: [ resistance,breeding,resistant,rust resistance,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6JE24](https://www.uniprot.org/uniprotkb/A0A3B6JE24/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

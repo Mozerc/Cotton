@@ -20,7 +20,7 @@ tags: [ starch,transcription regulator,starch biosynthesis ]
    - Yeast one-hybrid assay showing association between **TaMYB44-D** and promoters of starch biosynthesis-related genes.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
+   - [starch](/tags/starch/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
 
 ## Literature:
    - [Expression and regulation of genes involved in the reserve starch biosynthesis pathway in hexaploid wheat (Triticum aestivum L.)]( https://www.sciencedirect.com/science/article/pii/S2214514120301227#s0105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.08.002](https://www.sciencedirect.com/science/article/pii/S2214514120301227#s0105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ starch,transcription regulator,starch biosynthesis ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6JPQ6](https://www.uniprot.org/uniprotkb/A0A3B6JPQ6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

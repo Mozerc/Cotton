@@ -22,7 +22,7 @@ tags: [ resistance,disease,disease resistance,pathogen,broad-spectrum disease re
    - The data indicate that **TaVTC2** recruits WYMV NIb to down-regulate its own enzymatic activity, reducing AsA accumulation to elicit a burst of ROS which confers the resistance to WYMV infection.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[broad-spectrum-disease-resistance](/tags/broad-spectrum-disease-resistance/)&nbsp;,&nbsp;[viral-resistance](/tags/viral-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[broad-spectrum-disease-resistance](/tags/broad-spectrum-disease-resistance/)&nbsp;,&nbsp;[viral-resistance](/tags/viral-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [Wheat yellow mosaic virus NIb targets TaVTC2 to elicit broad-spectrum pathogen resistance in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14019)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14019](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14019)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36715229](https://pubmed.ncbi.nlm.nih.gov/36715229/)
@@ -34,7 +34,7 @@ tags: [ resistance,disease,disease resistance,pathogen,broad-spectrum disease re
 - **NCBI ID:**  [MK514263.1](https://www.ncbi.nlm.nih.gov/gene/?term=MK514263.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

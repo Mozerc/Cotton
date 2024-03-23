@@ -21,7 +21,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,grain,auxin,auxin r
    - **TaARF15-A1** is a negative regulator of leaf senescence in wheat.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[grain-ripening](/tags/grain-ripening/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[grain-ripening](/tags/grain-ripening/)
 
 ## Literature:
    - [The auxin response factor TaARF15-A1 negatively regulates senescence in common wheat (Triticum aestivum L.).]( https://academic.oup.com/plphys/article/191/2/1254/6772533?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac497](https://academic.oup.com/plphys/article/191/2/1254/6772533?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36282536](https://pubmed.ncbi.nlm.nih.gov/36282536/)
@@ -33,7 +33,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,grain,auxin,auxin r
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6NMM8](https://www.uniprot.org/uniprotkb/A0A3B6NMM8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

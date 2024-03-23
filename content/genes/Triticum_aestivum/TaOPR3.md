@@ -19,7 +19,7 @@ tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmon
    - A JA synthesis gene **TaOPR3** was identified in wheat.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)
 
 ## Literature:
    - [Changes in the concentrations and transcripts for gibberellins and other hormones in a growing leaf and roots of wheat seedlings in response to water restriction.]( https://www.sciencedirect.com/science/article/pii/S2214514123000090)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-022-03667-w](https://www.sciencedirect.com/science/article/pii/S2214514123000090)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35676624](https://pubmed.ncbi.nlm.nih.gov/35676624/)
@@ -33,7 +33,7 @@ tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmon
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RNQ6](https://www.uniprot.org/uniprotkb/A0A3B6RNQ6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

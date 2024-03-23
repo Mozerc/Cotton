@@ -19,7 +19,7 @@ tags: [ seedlings,resistance,disease,disease resistance,insect,insect resistance
    - This gene is expressed in wheat kernels and seedlings of **Sm1** carrier lines, and the lack of cDNA amplification of the NB-ARC domain for non-carrier lines further supported an alternative gene structure.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)
+   - [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)
 
 ## Literature:
    - [Multiple wheat genomes reveal global variation in modern breeding.]( https://www.nature.com/articles/s41586-020-2961-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41586-020-2961-x](https://www.nature.com/articles/s41586-020-2961-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33239791](https://pubmed.ncbi.nlm.nih.gov/33239791/)
@@ -30,7 +30,7 @@ tags: [ seedlings,resistance,disease,disease resistance,insect,insect resistance
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6BXF9](https://www.uniprot.org/uniprotkb/A0A3B6BXF9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

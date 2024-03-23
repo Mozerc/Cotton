@@ -21,7 +21,7 @@ tags: [ leaf,breeding,height,heading date,plant height ]
    - **TaPRR73** is an Agronomically Important Heading Date Gene in Wheat Breeding.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
    - [Functional Studies of Heading Date-Related Gene TaPRR73, a Paralog of Ppd1 in Common Wheat.]( https://www.frontiersin.org/articles/10.3389/fpls.2016.00772/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2016.00772](https://www.frontiersin.org/articles/10.3389/fpls.2016.00772/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27313595](https://pubmed.ncbi.nlm.nih.gov/27313595/)
@@ -32,7 +32,7 @@ tags: [ leaf,breeding,height,heading date,plant height ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6JIG0](https://www.uniprot.org/uniprotkb/A0A3B6JIG0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

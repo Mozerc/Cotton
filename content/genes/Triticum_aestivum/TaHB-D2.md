@@ -22,7 +22,7 @@ tags: [ leaf,development,spikelet,grain,leaf development,inflorescence,branching
    - Together, these results suggest that increased expression of HB-2 facilitates the production of grain with more protein by modifying vascular development, which increases the supply of assimilates to the inflorescence and developing grain.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[grain-protein-content](/tags/grain-protein-content/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[vascular-development](/tags/vascular-development/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[grain-protein-content](/tags/grain-protein-content/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
    - [MicroRNA-resistant alleles of HOMEOBOX DOMAIN-2 modify inflorescence branching and increase grain protein content of wheat.]( https://www.science.org/doi/full/10.1126/sciadv.abn5907?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/sciadv.abn5907](https://www.science.org/doi/full/10.1126/sciadv.abn5907?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35544571](https://pubmed.ncbi.nlm.nih.gov/35544571/)
@@ -33,7 +33,7 @@ tags: [ leaf,development,spikelet,grain,leaf development,inflorescence,branching
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5ZS95](https://www.uniprot.org/uniprotkb/A0A3B5ZS95/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

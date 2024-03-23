@@ -20,7 +20,7 @@ tags: [ breeding,heading date,flowering ]
    - Validate function of the **TaELF3** gene on flowering by linkage mapping.
 
 ## Function-related keywords:
-[breeding](/tags/breeding/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [breeding](/tags/breeding/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [TaELF3-1DL, a homolog of ELF3, is associated with heading date in bread wheat]( https://link.springer.com/article/10.1007/s11032-016-0585-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-016-0585-5](https://link.springer.com/article/10.1007/s11032-016-0585-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ breeding,heading date,flowering ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6A2F8](https://www.uniprot.org/uniprotkb/A0A3B6A2F8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

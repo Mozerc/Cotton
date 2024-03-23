@@ -22,7 +22,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,resistant ]
    - Overexpression of **TaNACL-D1** provided quantitative resistance to FHB but cannot conclude that this toxin-responsive gene significantly affects DON resistance, at least under the conditions analyzed herein.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
    - [A wheat NAC interacts with an orphan protein and enhances resistance to Fusarium head blight disease.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13105](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30821405](https://pubmed.ncbi.nlm.nih.gov/30821405/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,resistant ]
 - **NCBI ID:**  [MG701911](https://www.ncbi.nlm.nih.gov/gene/?term=MG701911)
 - **UniProt accessions:** [A0A385JIX1](https://www.uniprot.org/uniprotkb/A0A385JIX1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

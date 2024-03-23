@@ -21,7 +21,7 @@ tags: [ leaf,temperature,resistance,map-based cloning,cell death,programmed cell
    - Yr27(TraesKAR2B01G0121530LC) is allelic to the leaf rust resistance gene **Lr13**, the Yr27 and **Lr13** proteins show 97% sequence identity.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[temperature](/tags/temperature/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Fine Mapping of the Wheat Leaf Rust Resistance Gene LrLC10 (Lr13) and Validation of Its Co-segregation Markers.]( https://www.frontiersin.org/articles/10.3389/fpls.2020.00470/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.00470](https://www.frontiersin.org/articles/10.3389/fpls.2020.00470/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32477377](https://pubmed.ncbi.nlm.nih.gov/32477377/)
@@ -35,7 +35,7 @@ tags: [ leaf,temperature,resistance,map-based cloning,cell death,programmed cell
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6C240](https://www.uniprot.org/uniprotkb/A0A3B6C240/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

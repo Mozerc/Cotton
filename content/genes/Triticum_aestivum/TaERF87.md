@@ -23,7 +23,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
    - **TaERF87** and TaAKS1 are targets of abscisic acid-responsive element binding factor 2 (TaABF2).
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[abscisic-acid-biosynthesis](/tags/abscisic-acid-biosynthesis/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[abscisic-acid-biosynthesis](/tags/abscisic-acid-biosynthesis/)
 
 ## Literature:
    - [TaERF87 and TaAKS1 synergistically regulate TaP5CS1/TaP5CR1-mediated proline biosynthesis to enhance drought tolerance in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18549)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18549](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18549)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36264565](https://pubmed.ncbi.nlm.nih.gov/36264565/)
@@ -35,7 +35,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6HNR7](https://www.uniprot.org/uniprotkb/A0A3B6HNR7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

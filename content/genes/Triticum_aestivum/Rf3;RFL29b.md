@@ -21,7 +21,7 @@ tags: [ fertility,pollen,sterility,male sterility,male fertility,pollen fertilit
    - Testing the restoring capabilities of Rf1 and **Rf3** candidate genes by transgenesis
 
 ## Function-related keywords:
-[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)
+   - [fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)
 
 ## Literature:
    - [The genetic basis of cytoplasmic male sterility and fertility restoration in wheat.]( https://www.nature.com/articles/s41467-021-21225-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-21225-0](https://www.nature.com/articles/s41467-021-21225-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33589621](https://pubmed.ncbi.nlm.nih.gov/33589621/)
@@ -33,7 +33,7 @@ tags: [ fertility,pollen,sterility,male sterility,male fertility,pollen fertilit
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5YQT0](https://www.uniprot.org/uniprotkb/A0A3B5YQT0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

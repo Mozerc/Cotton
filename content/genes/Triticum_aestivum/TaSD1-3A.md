@@ -21,7 +21,7 @@ tags: [ stem,breeding,dwarf,height,plant height ]
    - Three homeologues of **TaSD1** have no differences in the stem among TNL, Rht-B1b-OE and Rht-B1b-KO lines, which allow breeders breeding semi-dwarf wheat combined **TaSD1** with Rht-B1b.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+   - [stem](/tags/stem/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
    - [In silico curation of QTL-rich clusters and candidate gene identification for plant height of bread wheat]( https://www.sciencedirect.com/science/article/pii/S2214514123000818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.05.007](https://www.sciencedirect.com/science/article/pii/S2214514123000818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ stem,breeding,dwarf,height,plant height ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6ERX3](https://www.uniprot.org/uniprotkb/A0A3B6ERX3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

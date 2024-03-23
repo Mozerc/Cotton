@@ -22,7 +22,7 @@ tags: [ auxin,tiller,yield,architecture,plant architecture,tiller angle ]
    - Yield potential and evolutionary analysis of TaHST1L-A1b in wheat.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[tiller-angle](/tags/tiller-angle/)
+   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[tiller-angle](/tags/tiller-angle/)
 
 ## Literature:
    - [A HST1-like gene controls tiller angle through regulating endogenous auxin in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13930](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36128872](https://pubmed.ncbi.nlm.nih.gov/36128872/)
@@ -33,7 +33,7 @@ tags: [ auxin,tiller,yield,architecture,plant architecture,tiller angle ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6LR17](https://www.uniprot.org/uniprotkb/A0A3B6LR17/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

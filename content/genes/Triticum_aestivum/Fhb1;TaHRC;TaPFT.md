@@ -20,7 +20,7 @@ tags: [ grain,resistance,blight,calcium,grain protein ]
    - **Fhb1** results from a rare deletion involving the 3 exon of the histidine-rich calcium-binding-protein gene on chromosome 3BS. Both wheat and Arabidopsis transformed with the **Fhb1** sequence showed enhanced resistance to Fusarium graminearum spread.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [Mutation of a histidine-rich calcium-binding-protein gene in wheat confers resistance to Fusarium head blight.]( https://www.nature.com/articles/s41588-019-0426-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0426-7](https://www.nature.com/articles/s41588-019-0426-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31182810](https://pubmed.ncbi.nlm.nih.gov/31182810/)
@@ -31,7 +31,7 @@ tags: [ grain,resistance,blight,calcium,grain protein ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [D8L9U3](https://www.uniprot.org/uniprotkb/D8L9U3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

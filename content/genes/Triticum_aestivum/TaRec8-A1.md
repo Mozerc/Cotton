@@ -19,7 +19,7 @@ tags: [ meiotic ]
    - **TaRec8-A1** is one of the homoeologous genes for the Rec8-like meiotic cohesin in polyploid wheat.
 
 ## Function-related keywords:
-[meiotic](/tags/meiotic/)
+   - [meiotic](/tags/meiotic/)
 
 ## Literature:
    - [Cloning and characterization of the homoeologous genes for the Rec8-like meiotic cohesin in polyploid wheat.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1442-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1442-y ](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1442-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30305022](https://pubmed.ncbi.nlm.nih.gov/30305022/)
@@ -30,7 +30,7 @@ tags: [ meiotic ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5Y7B5](https://www.uniprot.org/uniprotkb/A0A3B5Y7B5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

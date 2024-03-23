@@ -21,7 +21,7 @@ tags: [ leaf,root,resistance,tiller,tiller number,reactive oxygen species,glucan
    - These results indicated that stable expression of **TaTLP1** increased resistance against both diseases.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[glucanase](/tags/glucanase/)&nbsp;,&nbsp;[root-number](/tags/root-number/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[glucanase](/tags/glucanase/)&nbsp;,&nbsp;[root-number](/tags/root-number/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Transgenic expression of TaTLP1, a thaumatin-like protein gene, reduces susceptibility to common root rot and leaf rust in wheat]( https://www.sciencedirect.com/science/article/pii/S2214514121000891?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.021](https://www.sciencedirect.com/science/article/pii/S2214514121000891?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -35,7 +35,7 @@ tags: [ leaf,root,resistance,tiller,tiller number,reactive oxygen species,glucan
 - **NCBI ID:**  [KJ764822](https://www.ncbi.nlm.nih.gov/gene/?term=KJ764822)
 - **UniProt accessions:** [A0A3B6SH31](https://www.uniprot.org/uniprotkb/A0A3B6SH31/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

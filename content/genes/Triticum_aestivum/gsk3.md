@@ -19,7 +19,7 @@ tags: [ kinase,br,br signaling,protein kinase,flowering ]
    - Our study provides direct evidence that **GSK3**, the core kinase in the BR signaling pathway, regulates flowering in wheat by modulating the protein stability of VRN1.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [GSK3 regulates VRN1 to control flowering time in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13507)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13507](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13507)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37199274](https://pubmed.ncbi.nlm.nih.gov/37199274/)
@@ -31,7 +31,7 @@ tags: [ kinase,br,br signaling,protein kinase,flowering ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

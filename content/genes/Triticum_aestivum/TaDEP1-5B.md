@@ -19,7 +19,7 @@ tags: [ growth,development,plant development,plant growth,dwarf,height,plant hei
    - TaDEP1, the aabbdd mutant plants with frameshift mutations in all six alleles exhibited an extremely dwarf phenotype (with a mean plant height of 36.7 cm) compared with their WT counterparts.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
    - [Efficient and transgene-free genome editing in wheat through transient expression of CRISPR/Cas9 DNA or RNA.]( https://www.nature.com/articles/ncomms12617)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms12617](https://www.nature.com/articles/ncomms12617)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27558837](https://pubmed.ncbi.nlm.nih.gov/27558837/)
@@ -30,7 +30,7 @@ tags: [ growth,development,plant development,plant growth,dwarf,height,plant hei
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A385HBV3](https://www.uniprot.org/uniprotkb/A0A385HBV3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

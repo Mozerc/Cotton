@@ -21,7 +21,7 @@ tags: [ ssp ]
    - Both the transcription of SSP genes and the accumulation of SSPs were inhibited in TaNAC77 RNAi wheat.
 
 ## Function-related keywords:
-[ssp](/tags/ssp/)
+   - [ssp](/tags/ssp/)
 
 ## Literature:
    - [Genome-wide identification of seed storage protein gene regulators in wheat through coexpression analysis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15538)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15538](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15538)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34634158](https://pubmed.ncbi.nlm.nih.gov/34634158/)
@@ -33,7 +33,7 @@ tags: [ ssp ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6SEP7](https://www.uniprot.org/uniprotkb/A0A3B6SEP7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

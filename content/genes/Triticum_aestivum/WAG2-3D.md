@@ -17,7 +17,7 @@ tags: [ development,spikelet,spikelet development ]
    - WAG2 gene regulates wheat phenotype: wheat ear and spikelet and floret development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
 
 ## Literature:
    - [Genome-wide analysis of MIKC-type MADS-box genes in wheat: pervasive duplications, functional conservation and putative neofunctionalization.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16122](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31418861](https://pubmed.ncbi.nlm.nih.gov/31418861/)
@@ -28,7 +28,7 @@ tags: [ development,spikelet,spikelet development ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6GNG1](https://www.uniprot.org/uniprotkb/A0A3B6GNG1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

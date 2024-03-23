@@ -21,7 +21,7 @@ tags: [ auxin,stress,atpase,tolerance,stress tolerance,plasma membrane,phosphata
    - **TaCCD1** enhances the binding of TaSAUR215 with TaPP2C.D1/8 and its inhibition of TaPP2C.D1/8 phosphatase activity.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
+   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
    - [Ca(2+)-dependent TaCCD1 cooperates with TaSAUR215 to enhance plasma membrane H(+)-ATPase activity and alkali stress tolerance by inhibiting PP2C-mediated dephosphorylation of TaHA2 in wheat.]( https://www.sciencedirect.com/science/article/pii/S1674205223000102?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.01.010](https://www.sciencedirect.com/science/article/pii/S1674205223000102?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36681864](https://pubmed.ncbi.nlm.nih.gov/36681864/)
@@ -33,7 +33,7 @@ tags: [ auxin,stress,atpase,tolerance,stress tolerance,plasma membrane,phosphata
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

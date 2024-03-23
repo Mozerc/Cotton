@@ -21,7 +21,7 @@ tags: [ leaf,drought,tolerance,nucleus,aba,drought tolerance,blast,cytoplasm ]
    - TaPYL1 acts as a component of the core ABA signalling pathway in wheat.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[blast](/tags/blast/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[blast](/tags/blast/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)
 
 ## Literature:
    - [The wheat ABA receptor gene TaPYL1-1B contributes to drought tolerance and grain yield by increasing water-use efficiency.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13764)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13764](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13764)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34890091](https://pubmed.ncbi.nlm.nih.gov/34890091/)
@@ -33,7 +33,7 @@ tags: [ leaf,drought,tolerance,nucleus,aba,drought tolerance,blast,cytoplasm ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5ZVE9](https://www.uniprot.org/uniprotkb/A0A3B5ZVE9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

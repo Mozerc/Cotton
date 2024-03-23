@@ -19,7 +19,7 @@ tags: [ kinase,drought,stress,drought stress,tolerance,aba,drought tolerance,str
    - Mitogen-activated protein kinase TaMPK3 suppresses ABA response by destabilizing TaPYL4 receptor in wheat.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [TaPYL4, an ABA receptor gene of wheat, positively regulates plant drought adaptation through modulating the osmotic stress-associated processes.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03799-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-022-03799-z](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03799-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36050643](https://pubmed.ncbi.nlm.nih.gov/36050643/)
@@ -31,7 +31,7 @@ tags: [ kinase,drought,stress,drought stress,tolerance,aba,drought tolerance,str
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6HSL7](https://www.uniprot.org/uniprotkb/A0A3B6HSL7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

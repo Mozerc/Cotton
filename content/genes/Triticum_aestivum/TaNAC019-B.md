@@ -22,7 +22,7 @@ tags: [ transcription factor,grain,starch,grain quality,quality,breeding,endospe
    - Identified an elite allele (**TaNAC019-B**I) associated with flour processing quality, providing a candidate gene for breeding wheat with improved quality.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)&nbsp;,&nbsp;[ssp](/tags/ssp/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)&nbsp;,&nbsp;[ssp](/tags/ssp/)
 
 ## Literature:
    - [The endosperm-specific transcription factor TaNAC019 regulates glutenin and starch accumulation and its elite allele improves wheat grain quality.]( https://academic.oup.com/plcell/article/33/3/603/6059236?login=true#246809756)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koaa040](https://academic.oup.com/plcell/article/33/3/603/6059236?login=true#246809756)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33955492](https://pubmed.ncbi.nlm.nih.gov/33955492/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,grain,starch,grain quality,quality,breeding,endospe
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [W5D096](https://www.uniprot.org/uniprotkb/W5D096/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
    - Knock-out of TaEDR1 by CRISPR/Cas9 enhances powdery mildew resistance in bread wheat.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Simultaneous modification of three homoeologs of TaEDR1 by genome editing enhances powdery mildew resistance in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13599)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13599](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13599)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28502081](https://pubmed.ncbi.nlm.nih.gov/28502081/)
@@ -31,7 +31,7 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
 - **NCBI ID:**  [ AAU89661.2](https://www.ncbi.nlm.nih.gov/gene/?term= AAU89661.2)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

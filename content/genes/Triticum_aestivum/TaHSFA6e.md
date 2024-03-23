@@ -20,7 +20,7 @@ tags: [ transcription factor,stress,stress response,heat stress,heat stress resp
    - We reveal that the heat shock transcription factor gene **TaHSFA6e** is alternatively spliced in response to heat stress. **TaHSFA6e** generates two major functional transcripts: **TaHSFA6e**-II and **TaHSFA6e**-III. **TaHSFA6e**-III enhances the transcriptional activity of three downstream heat shock protein 70 (TaHSP70) genes to a greater extent than does **TaHSFA6e**-II.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [Alternative splicing of TaHSFA6e modulates heat shock protein-mediated translational regulation in response to heat stress in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19100)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19100](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19100)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403528](https://pubmed.ncbi.nlm.nih.gov/37403528/)
@@ -32,7 +32,7 @@ tags: [ transcription factor,stress,stress response,heat stress,heat stress resp
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

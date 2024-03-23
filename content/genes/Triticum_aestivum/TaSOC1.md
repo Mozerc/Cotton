@@ -20,7 +20,7 @@ tags: [ flowering time,flowering,vernalization,photoperiod ]
    - Natural variation at **TaSOC1** affects flowering time.
 
 ## Function-related keywords:
-[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
    - [The TaSOC1-TaVRN1 module integrates photoperiod and vernalization signals to regulate wheat flowering.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14211)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14211](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14211)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37938892](https://pubmed.ncbi.nlm.nih.gov/37938892/)
@@ -32,7 +32,7 @@ tags: [ flowering time,flowering,vernalization,photoperiod ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A9J202](https://www.uniprot.org/uniprotkb/A9J202/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

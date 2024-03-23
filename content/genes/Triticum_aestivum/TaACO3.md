@@ -18,7 +18,7 @@ tags: [  ]
    - BSMV-mediated VIGS also was conducted for the orthologous gene of TuMYB46L in common wheat (TraesCS5A02G101000, TaMYB46L), which led to substantial increase of **TaACO3** transcript level and considerable decrease of the susceptibility to Bgt.
 
 ## Function-related keywords:
-[](/tags//)
+   - [](/tags//)
 
 ## Literature:
    - [The TuMYB46L-TuACO3 module regulates ethylene biosynthesis in einkorn wheat defense to powdery mildew.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16305)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16305](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16305)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31675430](https://pubmed.ncbi.nlm.nih.gov/31675430/)
@@ -29,7 +29,7 @@ tags: [  ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6NV68](https://www.uniprot.org/uniprotkb/A0A3B6NV68/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

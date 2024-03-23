@@ -19,7 +19,7 @@ tags: [ seed,dormancy,seed dormancy ]
    - Genome-Edited Triple-Recessive Mutation of TaQsd1 Alters Seed Dormancy in Wheat.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[dormancy](/tags/dormancy/)&nbsp;,&nbsp;[seed-dormancy](/tags/seed-dormancy/)
+   - [seed](/tags/seed/)&nbsp;,&nbsp;[dormancy](/tags/dormancy/)&nbsp;,&nbsp;[seed-dormancy](/tags/seed-dormancy/)
 
 ## Literature:
    - [Sequence differences in the seed dormancy gene Qsd1 among various wheat genomes.]( https://www.sciencedirect.com/science/article/pii/S2211124719308708?via%3Dihub#app2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12864-017-3880-6](https://www.sciencedirect.com/science/article/pii/S2211124719308708?via%3Dihub#app2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28662630](https://pubmed.ncbi.nlm.nih.gov/28662630/)
@@ -32,7 +32,7 @@ tags: [ seed,dormancy,seed dormancy ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A1D5YM85](https://www.uniprot.org/uniprotkb/A0A1D5YM85/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

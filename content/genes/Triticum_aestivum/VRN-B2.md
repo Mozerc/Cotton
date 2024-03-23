@@ -19,7 +19,7 @@ tags: [ temperature,flower,flowering,vernalization ]
    - Mapping of the **VRN-B2** gene indicated that both **VRN-B2** copies in 2174 were tightly linked with SNPs on chromosome 4BL, indicating that the duplicated **VRN-B2** genes were arranged in a tandem pattern at the same locus.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
+   - [temperature](/tags/temperature/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
 
 ## Literature:
    - [Duplicated, deleted and translocated VRN2 genes in hexaploid wheat]( https://link.springer.com/article/10.1007/s10681-015-1589-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10681-015-1589-7](https://link.springer.com/article/10.1007/s10681-015-1589-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -30,7 +30,7 @@ tags: [ temperature,flower,flowering,vernalization ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6J050](https://www.uniprot.org/uniprotkb/A0A3B6J050/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ growth,gibberellin,plant growth,height,plant height ]
    - Overexpression of TaCRY1 reduces wheat plant height.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
    - [The blue light receptor CRY1 interacts with GID1 and DELLA proteins to repress gibberellin signaling and plant growth.]( https://www.sciencedirect.com/science/article/pii/S2590346221001516?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2021.100245](https://www.sciencedirect.com/science/article/pii/S2590346221001516?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34778751](https://pubmed.ncbi.nlm.nih.gov/34778751/)
@@ -32,7 +32,7 @@ tags: [ growth,gibberellin,plant growth,height,plant height ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6QEL8](https://www.uniprot.org/uniprotkb/A0A3B6QEL8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

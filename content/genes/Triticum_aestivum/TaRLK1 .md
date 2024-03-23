@@ -22,7 +22,7 @@ tags: [ resistance,oxidative,breeding,defence,defence response,powdery mildew,mi
    - **TaRLK1 **and TaRLK2 contribute to powdery mildew resistance of wheat, providing new resistance gene resources for wheat breeding.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Two members of TaRLK family confer powdery mildew resistance in common wheat.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-016-0713-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-016-0713-8](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-016-0713-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26810982](https://pubmed.ncbi.nlm.nih.gov/26810982/)
@@ -35,7 +35,7 @@ tags: [ resistance,oxidative,breeding,defence,defence response,powdery mildew,mi
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

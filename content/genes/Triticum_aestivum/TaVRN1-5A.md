@@ -21,7 +21,7 @@ tags: [ temperature,growth,flower,vernalization,temperature response ]
    - We also present the expression patterns of two MADS-box genes completely linked to VRN1 and discuss the evidence supporting one of these genes as a strong candidate gene for VRN1.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[temperature-response](/tags/temperature-response/)
+   - [temperature](/tags/temperature/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[temperature-response](/tags/temperature-response/)
 
 ## Literature:
    - [Positional cloning of the wheat vernalization gene VRN1.]( https://www.pnas.org/doi/10.1073/pnas.0937399100?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.0937399100](https://www.pnas.org/doi/10.1073/pnas.0937399100?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12730378](https://pubmed.ncbi.nlm.nih.gov/12730378/)
@@ -32,7 +32,7 @@ tags: [ temperature,growth,flower,vernalization,temperature response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [Q5ETV1](https://www.uniprot.org/uniprotkb/Q5ETV1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

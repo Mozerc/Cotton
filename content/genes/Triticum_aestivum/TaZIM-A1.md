@@ -21,7 +21,7 @@ tags: [ heading date,flowering time,flowering,heading time,photoperiod ]
    - Overexpression of **TaZIM-A1** caused a delay in flowering time and a decrease in thousand-kernel weight (TKW) in wheat under long-day conditions.
 
 ## Function-related keywords:
-[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[heading-time](/tags/heading-time/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [heading-date](/tags/heading-date/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[heading-time](/tags/heading-time/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
    - [TaZIM-A1 negatively regulates flowering time in common wheat (Triticum aestivum L.).]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12720 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30226297](https://pubmed.ncbi.nlm.nih.gov/30226297/)
@@ -32,7 +32,7 @@ tags: [ heading date,flowering time,flowering,heading time,photoperiod ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RP42](https://www.uniprot.org/uniprotkb/A0A3B6RP42/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

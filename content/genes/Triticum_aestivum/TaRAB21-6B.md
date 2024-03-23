@@ -19,7 +19,7 @@ tags: [ drought,aba ]
    - RT-PCR analysis revealed higher expression levels of the three homologs of TaRAB21s in transgenic wheat under drought conditions, indicating that TaFDL2-1A enhances ABA responses by promoting expression of ABA-inducible genes.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[aba](/tags/aba/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[aba](/tags/aba/)
 
 ## Literature:
    - [TaFDL2-1A confers drought stress tolerance by promoting ABA biosynthesis, ABA responses, and ROS scavenging in transgenic wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15975)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15975](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15975)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36097863](https://pubmed.ncbi.nlm.nih.gov/36097863/)
@@ -31,7 +31,7 @@ tags: [ drought,aba ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6PTM2](https://www.uniprot.org/uniprotkb/A0A3B6PTM2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

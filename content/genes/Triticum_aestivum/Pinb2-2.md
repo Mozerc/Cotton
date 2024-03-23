@@ -20,7 +20,7 @@ tags: [ seed,quality ]
    - PINB2 proteins have several features conserved for the Pin/Pinb2 phylogenetic cluster but lack a structural basis of significant impact on kernel hardness. Pinb2 are seed-specifically expressed with varied expression levels between the homoeologous copies and among wheat varieties.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)
+   - [seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)
 
 ## Literature:
    - [Genomics-Enabled Analysis of Puroindoline b2 Genes Identifies New Alleles in Wheat and Related Triticeae Species.]( https://www.mdpi.com/1422-0067/21/4/1304)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms21041304](https://www.mdpi.com/1422-0067/21/4/1304)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32075191](https://pubmed.ncbi.nlm.nih.gov/32075191/)
@@ -31,7 +31,7 @@ tags: [ seed,quality ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [H6U7Z1](https://www.uniprot.org/uniprotkb/H6U7Z1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

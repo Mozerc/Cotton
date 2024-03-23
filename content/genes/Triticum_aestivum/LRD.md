@@ -22,7 +22,7 @@ tags: [ root,growth,stress,yield,root growth,stomatal,lateral root,stomatal dens
    - Pleiotropic effect of **LRD** on yield components.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [The LATERAL ROOT DENSITY gene regulates root growth during water stress in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13355)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13355](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13355)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32031318](https://pubmed.ncbi.nlm.nih.gov/32031318/)
@@ -34,7 +34,7 @@ tags: [ root,growth,stress,yield,root growth,stomatal,lateral root,stomatal dens
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6TRJ0](https://www.uniprot.org/uniprotkb/A0A3B6TRJ0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

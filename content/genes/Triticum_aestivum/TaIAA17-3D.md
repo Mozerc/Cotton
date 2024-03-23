@@ -20,7 +20,7 @@ tags: [ leaf,auxin,sheath,signal transduction,tillers ]
    - Since TaHST1L was possibly involved in auxin signal transduction through interacting with TaIAA17, the leaf sheath pulvinus of TaHST1L-OE and WT LX987 plants was used to perform transcriptomics and metabolomics analysis.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[tillers](/tags/tillers/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[tillers](/tags/tillers/)
 
 ## Literature:
    - [A HST1-like gene controls tiller angle through regulating endogenous auxin in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13930](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36128872](https://pubmed.ncbi.nlm.nih.gov/36128872/)
@@ -31,7 +31,7 @@ tags: [ leaf,auxin,sheath,signal transduction,tillers ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6GTR9](https://www.uniprot.org/uniprotkb/A0A3B6GTR9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

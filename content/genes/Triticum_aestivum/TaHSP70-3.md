@@ -20,7 +20,7 @@ tags: [ stress,heat stress,thermotolerance ]
    - TaHSP70s are localized in stress granule following exposure to heat stress and are involved in regulating stress granule disassembly and translation re-initiation upon stress relief. Polysome profiling analysis confirms that the translational efficiency of stress granule stored mRNAs is lower at the recovery stage in Tahsp70s mutants than in the wild types.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [Alternative splicing of TaHSFA6e modulates heat shock protein-mediated translational regulation in response to heat stress in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19100)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19100](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19100)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403528](https://pubmed.ncbi.nlm.nih.gov/37403528/)
@@ -32,7 +32,7 @@ tags: [ stress,heat stress,thermotolerance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6JIR3](https://www.uniprot.org/uniprotkb/A0A3B6JIR3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ tillering,tiller,tiller number ]
    - The fused repression motif SRDX allows **TaPIL1** to increase wheat tiller number.
 
 ## Function-related keywords:
-[tillering](/tags/tillering/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)
+   - [tillering](/tags/tillering/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)
 
 ## Literature:
    - [PIL transcription factors directly interact with SPLs and repress tillering/branching in plants.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17872)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17872](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17872)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34800046](https://pubmed.ncbi.nlm.nih.gov/34800046/)
@@ -32,7 +32,7 @@ tags: [ tillering,tiller,tiller number ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6KP05](https://www.uniprot.org/uniprotkb/A0A3B6KP05/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

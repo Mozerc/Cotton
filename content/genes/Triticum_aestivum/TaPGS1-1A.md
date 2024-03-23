@@ -21,7 +21,7 @@ tags: [ development,grain,grain size,seed,grain yield,yield,grain weight,seed we
    - TaPGS1 increased grain weight and size in wheat and rice.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [The PGS1 basic helix-loop-helix protein regulates Fl3 to impact seed growth and grain yield in cereals.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13809)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13809](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13809)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35315196](https://pubmed.ncbi.nlm.nih.gov/35315196/)
@@ -32,7 +32,7 @@ tags: [ development,grain,grain size,seed,grain yield,yield,grain weight,seed we
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5XWC5](https://www.uniprot.org/uniprotkb/A0A3B5XWC5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

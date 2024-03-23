@@ -21,7 +21,7 @@ tags: [ development,grain,breeding ]
    - **TaABI19** still can be considered as a target locus for marker-assisted selection breeding to increase TGW in China.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
    - [TaABI19 positively regulates grain development in wheat
@@ -34,7 +34,7 @@ tags: [ development,grain,breeding ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [C1KV22](https://www.uniprot.org/uniprotkb/C1KV22/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

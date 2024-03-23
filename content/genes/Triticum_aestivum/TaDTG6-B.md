@@ -20,7 +20,7 @@ tags: [ transcription factor,drought,tolerance,drought tolerance ]
    - **TaDTG6-B** has a function in wheat drought tolerance.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
    - [A gain-of-function allele of a DREB transcription factor gene ameliorates drought tolerance in wheat.]( https://academic.oup.com/plcell/article/34/11/4472/6663768?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac248](https://academic.oup.com/plcell/article/34/11/4472/6663768?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35959993](https://pubmed.ncbi.nlm.nih.gov/35959993/)
@@ -32,7 +32,7 @@ tags: [ transcription factor,drought,tolerance,drought tolerance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6CAU9](https://www.uniprot.org/uniprotkb/A0A3B6CAU9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

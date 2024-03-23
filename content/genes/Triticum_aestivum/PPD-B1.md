@@ -24,7 +24,7 @@ tags: [ flowering,photoperiod response,photoperiod ]
    - Five Ppd-D1 alleles were found but only the 2 kb deletion was associated with photoperiod insensitivity.
 
 ## Function-related keywords:
-[flowering](/tags/flowering/)&nbsp;,&nbsp;[photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [flowering](/tags/flowering/)&nbsp;,&nbsp;[photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
    - [A pseudo-response regulator is misexpressed in the photoperiod insensitive Ppd-D1a mutant of wheat (Triticum aestivum L.).]( https://link.springer.com/article/10.1007/s00122-007-0603-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-007-0603-4](https://link.springer.com/article/10.1007/s00122-007-0603-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17634915](https://pubmed.ncbi.nlm.nih.gov/17634915/)
@@ -36,7 +36,7 @@ tags: [ flowering,photoperiod response,photoperiod ]
 - **NCBI ID:**  [DQ885757](https://www.ncbi.nlm.nih.gov/gene/?term=DQ885757)
 - **UniProt accessions:** [A0A3B6U888](https://www.uniprot.org/uniprotkb/A0A3B6U888/entry)&nbsp;,&nbsp;[A0A3B6D6S4 ](https://www.uniprot.org/uniprotkb/A0A3B6D6S4 /entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

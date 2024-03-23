@@ -21,7 +21,7 @@ tags: [ transcription factor,stress,seedling,salt,tolerance,salt tolerance,salt 
    - Based on the performance of **TabZIP15** in transgenic plants, we propose that manipulating the expression of this gene leads to enhanced salt stress tolerance.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
 
 ## Literature:
    - [The bZIP transcription factor TabZIP15 improves salt stress tolerance in wheat.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13453)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13453](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13453)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32702168](https://pubmed.ncbi.nlm.nih.gov/32702168/)
@@ -33,7 +33,7 @@ tags: [ transcription factor,stress,seedling,salt,tolerance,salt tolerance,salt 
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RR47](https://www.uniprot.org/uniprotkb/A0A3B6RR47/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

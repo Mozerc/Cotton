@@ -22,7 +22,7 @@ tags: [ development,plant development,yield,floral,architecture,breeding,height,
 
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
    - [Wheat MADS-box gene TaSEP3-D1 negatively regulates heading date]( https://www.sciopen.com/article/10.1016/j.cj.2020.12.007)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.12.007](https://www.sciopen.com/article/10.1016/j.cj.2020.12.007)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ development,plant development,yield,floral,architecture,breeding,height,
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A7BJ56](https://www.uniprot.org/uniprotkb/A7BJ56/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

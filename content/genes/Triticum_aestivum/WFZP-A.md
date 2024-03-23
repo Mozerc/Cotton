@@ -21,7 +21,7 @@ tags: [ development,spikelet,awn,yield,breeding,spikelet development ]
    - WFZP suppresses spikelet formation but promotes awn elongation and, more importantly, define WFZP-D as a favourable gene for high-yield crop breeding.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[awn](/tags/awn/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[awn](/tags/awn/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
 
 ## Literature:
    - [FRIZZY PANICLE defines a regulatory hub for simultaneously controlling spikelet formation and awn elongation in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17388](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33837555](https://pubmed.ncbi.nlm.nih.gov/33837555/)
@@ -35,7 +35,7 @@ tags: [ development,spikelet,awn,yield,breeding,spikelet development ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A0A7TWE6](https://www.uniprot.org/uniprotkb/A0A0A7TWE6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

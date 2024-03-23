@@ -22,7 +22,7 @@ tags: [ stress,seedling,salinity,salt,tolerance,salt tolerance,salt stress,stres
    - Though knockout of solely **TaCYP81D5** showed no effect on salinity tolerance, knockdown of BdCYP81D1 or all TaCYP81D members in the cluster caused the sensitivity to salt stress.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[salt-sensitivity](/tags/salt-sensitivity/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[salt-sensitivity](/tags/salt-sensitivity/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [TaCYP81D5, one member in a wheat cytochrome P450 gene cluster, confers salinity tolerance via reactive oxygen species scavenging.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13247)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13247](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13247)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31472082](https://pubmed.ncbi.nlm.nih.gov/31472082/)
@@ -34,7 +34,7 @@ tags: [ stress,seedling,salinity,salt,tolerance,salt tolerance,salt stress,stres
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6LTM1](https://www.uniprot.org/uniprotkb/A0A3B6LTM1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

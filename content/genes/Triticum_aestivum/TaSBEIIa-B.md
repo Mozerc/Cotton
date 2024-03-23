@@ -21,7 +21,7 @@ tags: [ starch,quality,breeding,amylose content ]
    - Our finding provides deep insights on the role of TaSBEIIa in determining starch composition, structure, properties and end-use quality in different genetic backgrounds and improving RS content with multiple breeding and end-use applications in cereal crop species through genome editing for health benefits.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
+   - [starch](/tags/starch/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
 
 ## Literature:
    - [Modification of starch composition, structure and properties through editing of TaSBEIIa in both winter and spring wheat varieties by CRISPR/Cas9.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13519)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13519](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13519)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33236499](https://pubmed.ncbi.nlm.nih.gov/33236499/)
@@ -32,7 +32,7 @@ tags: [ starch,quality,breeding,amylose content ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6C9D0](https://www.uniprot.org/uniprotkb/A0A3B6C9D0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

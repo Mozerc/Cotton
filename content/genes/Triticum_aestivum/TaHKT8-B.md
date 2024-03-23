@@ -19,7 +19,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,homeostasis ]
    - TaHKT8, TaHKT9 and TaHKT10 overexpression mediate K+/Na+ homeostasis and attenuate salt tolerance.
 
 ## Function-related keywords:
-[shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)
+   - [shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)
 
 ## Literature:
    - [Natural variation in a K(+) -preferring HKT transporter contributes to wheat shoot K(+) accumulation and salt tolerance.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14746)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14746](https://onlinelibrary.wiley.com/doi/10.1111/pce.14746)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37876337](https://pubmed.ncbi.nlm.nih.gov/37876337/)
@@ -31,7 +31,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,homeostasis ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6SQY5](https://www.uniprot.org/uniprotkb/A0A3B6SQY5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

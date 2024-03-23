@@ -21,7 +21,7 @@ tags: [ development,plant development,architecture,plant architecture ]
    - Characterized the biological roles of the TaD27 genes in the regulation of wheat plant architecture in detail.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
    - [TaD27-B gene controls the tiller number in hexaploid wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13220)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13220](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13220)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31350929](https://pubmed.ncbi.nlm.nih.gov/31350929/)
@@ -33,7 +33,7 @@ tags: [ development,plant development,architecture,plant architecture ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6TJ73](https://www.uniprot.org/uniprotkb/A0A3B6TJ73/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

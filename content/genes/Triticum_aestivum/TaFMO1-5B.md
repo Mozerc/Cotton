@@ -22,7 +22,7 @@ tags: [ root,growth,root growth ]
    - The lines silenced for **TaFMO1-5B** consistently showed significantly larger seminal roots in different genetic backgrounds.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
 
 ## Literature:
    - [Integration of genome-wide association study, linkage analysis, and population transcriptome analysis to reveal the TaFMO1-5B modulating seminal root growth in bread wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16432)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16432](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16432)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37713270](https://pubmed.ncbi.nlm.nih.gov/37713270/)
@@ -34,7 +34,7 @@ tags: [ root,growth,root growth ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6LRV2](https://www.uniprot.org/uniprotkb/A0A3B6LRV2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

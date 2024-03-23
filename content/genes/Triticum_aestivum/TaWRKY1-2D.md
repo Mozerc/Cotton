@@ -21,7 +21,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,tolerance,
    - **TaWRKY1-2D** may play essential roles in wheat drought tolerance through posttranslational regulation of TaDHN3.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
    - [The wheat WRKY transcription factor TaWRKY1-2D confers drought resistance in transgenic Arabidopsis and wheat (Triticum aestivum L.).]( https://www.sciencedirect.com/science/article/pii/S0141813022027970?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2022.11.234](https://www.sciencedirect.com/science/article/pii/S0141813022027970?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36442571](https://pubmed.ncbi.nlm.nih.gov/36442571/)
@@ -33,7 +33,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,tolerance,
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A1D5UZW0](https://www.uniprot.org/uniprotkb/A0A1D5UZW0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

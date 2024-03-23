@@ -20,7 +20,7 @@ tags: [ resistance,rust resistance,rust ]
    - It is reasonable that the repressed functional transcripts of TaXa21-H and **TaWRKY53** by Pst_A23 might contribute to the compromised wheat resistance to stripe rust.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [A rust fungus effector directly binds plant pre-mRNA splice site to reprogram alternative splicing and suppress host immunity.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13800)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13800](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13800)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35247281](https://pubmed.ncbi.nlm.nih.gov/35247281/)
@@ -32,7 +32,7 @@ tags: [ resistance,rust resistance,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5XUY1](https://www.uniprot.org/uniprotkb/A0A3B5XUY1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

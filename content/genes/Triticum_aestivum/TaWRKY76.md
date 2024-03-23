@@ -20,7 +20,7 @@ tags: [ nucleus,resistant,sa,transcriptional activator,defence,defence response,
    - Protein–protein interaction assays showed that SmCSP4 directly interacts with wheat transcriptional factor **TaWRKY76** in plant nucleus.
 
 ## Function-related keywords:
-[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[mildew](/tags/mildew/)
+   - [nucleus](/tags/nucleus/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[mildew](/tags/mildew/)
 
 ## Literature:
    - [SmCSP4 from aphid saliva stimulates salicylic acid-mediated defence responses in wheat by interacting with transcription factor TaWKRY76.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14139)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14139](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14139)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37540474](https://pubmed.ncbi.nlm.nih.gov/37540474/)
@@ -32,7 +32,7 @@ tags: [ nucleus,resistant,sa,transcriptional activator,defence,defence response,
 - **NCBI ID:**  [XM_044541645](https://www.ncbi.nlm.nih.gov/gene/?term=XM_044541645)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ seedlings,root,growth,development,resistance,drought,stress,drought stre
    - **TaNAC14** promotes root growth and development in wheat seedlings and enhances drought tolerance, while tae-miR164 inhibits root development and reduces drought and salinity tolerance by down-regulating the expression of **TaNAC14**. 
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
+   - [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
    - [The miR164-TaNAC14 module regulates root development and abiotic-stress tolerance in wheat seedlings]( https://www.sciencedirect.com/science/article/pii/S2095311922000946#cesec280)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.08.016](https://www.sciencedirect.com/science/article/pii/S2095311922000946#cesec280)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ seedlings,root,growth,development,resistance,drought,stress,drought stre
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6B205](https://www.uniprot.org/uniprotkb/A0A3B6B205/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

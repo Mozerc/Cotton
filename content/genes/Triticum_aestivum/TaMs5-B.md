@@ -21,7 +21,7 @@ tags: [ development,fertility,pollen,sterility,pollen development,male sterility
    - Consistent with reduced functionality, transcript abundance in developing anthers was found to be lower for TaMs5-D than TaMs5-A. At the 3B homoeolocus, we found only non-functional alleles among 178 diverse hexaploid and tetraploid wheats that include landraces and Triticum dicoccoides.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
 
 ## Literature:
    - [Wheat ms5 male-sterility is induced by recessive homoeologous A and D genome non-specific lipid transfer proteins.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14350)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14350](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14350)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31009129](https://pubmed.ncbi.nlm.nih.gov/31009129/)
@@ -32,7 +32,7 @@ tags: [ development,fertility,pollen,sterility,pollen development,male sterility
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [W5D509](https://www.uniprot.org/uniprotkb/W5D509/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

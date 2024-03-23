@@ -21,7 +21,7 @@ tags: [ root,growth,auxin,root growth,auxin transport,signaling pathway gene,roo
    - Further studies revealed that TaSRL1 induced expression of the auxin transport gene TaPIN2 by directly binding to its promoter, while the interaction of TaSRL1 and TaTIFY9 repressed TaPIN2 expression.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
    - [The wheat SHORT ROOT LENGTH 1 gene TaSRL1 controls root length in an auxin-dependent pathway.]( https://academic.oup.com/jxb/article/72/20/6977/6330931?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab357](https://academic.oup.com/jxb/article/72/20/6977/6330931?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34328188](https://pubmed.ncbi.nlm.nih.gov/34328188/)
@@ -33,7 +33,7 @@ tags: [ root,growth,auxin,root growth,auxin transport,signaling pathway gene,roo
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6JPR1](https://www.uniprot.org/uniprotkb/A0A3B6JPR1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

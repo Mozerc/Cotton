@@ -21,7 +21,7 @@ tags: [ nitrogen,growth,br,photosynthesis,yield,plant growth,biomass,biomass pro
    - OTaDWF4-B overexpression maintains photosynthesis under N limitation.
 
 ## Function-related keywords:
-[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[biomass-production](/tags/biomass-production/)
+   - [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[biomass-production](/tags/biomass-production/)
 
 ## Literature:
    - [Over-expression of TaDWF4 increases wheat productivity under low and sufficient nitrogen through enhanced carbon assimilation.]( https://www.nature.com/articles/s42003-022-03139-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s42003-022-03139-9](https://www.nature.com/articles/s42003-022-03139-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35241776](https://pubmed.ncbi.nlm.nih.gov/35241776/)
@@ -32,7 +32,7 @@ tags: [ nitrogen,growth,br,photosynthesis,yield,plant growth,biomass,biomass pro
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6IT88](https://www.uniprot.org/uniprotkb/A0A3B6IT88/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

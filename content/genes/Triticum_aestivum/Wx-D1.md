@@ -20,7 +20,7 @@ tags: [  ]
    - Two-dimensional gel electrophoresis revealed polymorphisms of the three Wx proteins that varied according to isoelectric points or molecular weight.
 
 ## Function-related keywords:
-[](/tags//)
+   - [](/tags//)
 
 ## Literature:
    - [Waxy protein deficiency and chromosomal location of coding genes in common wheat.]( https://link.springer.com/article/10.1007/BF00225138)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/BF00225138](https://link.springer.com/article/10.1007/BF00225138)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24177825](https://pubmed.ncbi.nlm.nih.gov/24177825/)
@@ -31,7 +31,7 @@ tags: [  ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [Q9S7N5](https://www.uniprot.org/uniprotkb/Q9S7N5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

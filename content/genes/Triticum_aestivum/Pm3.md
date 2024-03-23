@@ -19,7 +19,7 @@ tags: [ resistance,resistant,powdery mildew,mildew resistance,mildew,powdery mil
    - **Pm3** allele pyramiding is a successful approach for enhancing powdery mildew field resistance.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Pyramiding of transgenic Pm3 alleles in wheat results in improved powdery mildew resistance in the field.]( https://link.springer.com/article/10.1007/s00122-017-3043-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-017-3043-9](https://link.springer.com/article/10.1007/s00122-017-3043-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29302719](https://pubmed.ncbi.nlm.nih.gov/29302719/)
@@ -30,7 +30,7 @@ tags: [ resistance,resistant,powdery mildew,mildew resistance,mildew,powdery mil
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [Q15J16](https://www.uniprot.org/uniprotkb/Q15J16/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

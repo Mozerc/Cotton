@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
    - A wheat NAC gene (**TaNAC071-A**) that is tightly associated with drought tolerance by a genome-wide association study.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)
 
 ## Literature:
    - [Variation in cis-regulation of a NAC transcription factor contributes to drought tolerance in wheat.]( https://www.sciencedirect.com/science/article/pii/S167420522100438X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2021.11.007](https://www.sciencedirect.com/science/article/pii/S167420522100438X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34793983](https://pubmed.ncbi.nlm.nih.gov/34793983/)
@@ -33,7 +33,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6HWP6](https://www.uniprot.org/uniprotkb/A0A3B6HWP6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

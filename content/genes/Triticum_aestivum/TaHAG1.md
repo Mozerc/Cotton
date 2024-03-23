@@ -21,7 +21,7 @@ tags: [ resistance,stress,salt,tolerance,salt tolerance,salt stress,stress toler
    - The histone acetyltransferase **TaHAG1** plays a pivotal role in resistance to powdery mildew via promoting SA and ROS accumulation in wheat.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[acetyltransferase](/tags/acetyltransferase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[acetyltransferase](/tags/acetyltransferase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Histone acetyltransferase TaHAG1 interacts with TaPLATZ5 to activate TaPAD4 expression and positively contributes to powdery mildew resistance in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18372)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18372](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18372)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35832009](https://pubmed.ncbi.nlm.nih.gov/35832009/)
@@ -36,7 +36,7 @@ tags: [ resistance,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5ZT81](https://www.uniprot.org/uniprotkb/A0A3B5ZT81/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

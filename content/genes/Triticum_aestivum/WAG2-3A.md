@@ -19,7 +19,7 @@ tags: [  ]
    - WP1 and WAP3, are not expressed in the primordia of pistil-like stamens in the line [(cr)-CSdt7BS], indicating that the induction of pistillody is caused by alterations to the expression pattern of class-B MADS-box genes in the alloplasmic wheat.
 
 ## Function-related keywords:
-[](/tags//)
+   - [](/tags//)
 
 ## Literature:
    - [Pistillody is caused by alterations to the class-B MADS-box gene expression pattern in alloplasmic wheats.]( https://link.springer.com/article/10.1007/s00425-003-1157-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-003-1157-6](https://link.springer.com/article/10.1007/s00425-003-1157-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[14652757](https://pubmed.ncbi.nlm.nih.gov/14652757/)
@@ -30,7 +30,7 @@ tags: [  ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [C0STS7](https://www.uniprot.org/uniprotkb/C0STS7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

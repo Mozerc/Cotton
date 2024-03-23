@@ -20,7 +20,7 @@ tags: [ grain,grain protein ]
    - TaASN2 gene in wheat cv. Cadenza using CRISPR/Cas9, to reduce asparagine synthetase gene expression in the grain without affecting its expression elsewhere in the plant.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [Wheat with greatly reduced accumulation of free asparagine in the grain, produced by CRISPR/Cas9 editing of asparagine synthetase gene TaASN2.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13573)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13573](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13573)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33638281](https://pubmed.ncbi.nlm.nih.gov/33638281/)
@@ -31,7 +31,7 @@ tags: [ grain,grain protein ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5Y673](https://www.uniprot.org/uniprotkb/A0A3B5Y673/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

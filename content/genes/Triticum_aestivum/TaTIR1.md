@@ -20,7 +20,7 @@ tags: [ auxin,resistance,auxin response ]
    - That disruption of the expression of the well-known auxin receptor gene **TaTIR1** via RNA interference increased wheat resistance to FHB, causing significant inhibition of F. graminearum hyphal extension in the rachis of RNA interference (RNAi) plants.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
+   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
 
 ## Literature:
    - [Integrated metabolo-transcriptomics and functional characterization reveals that the wheat auxin receptor TIR1 negatively regulates defense against Fusarium graminearum.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12992)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12992](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12992)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32678930](https://pubmed.ncbi.nlm.nih.gov/32678930/)
@@ -32,7 +32,7 @@ tags: [ auxin,resistance,auxin response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5XVN8](https://www.uniprot.org/uniprotkb/A0A3B5XVN8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

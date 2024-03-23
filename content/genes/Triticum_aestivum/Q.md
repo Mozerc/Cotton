@@ -21,7 +21,7 @@ tags: [ domestication,floral,spike,free-threshing ]
    - **Q** is incompletely dominant to **Q**, and plants with the genotype **Q****Q** have a spike morphology that is intermediate to speltoid and s**Q**uare headed.
 
 ## Function-related keywords:
-[domestication](/tags/domestication/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[spike](/tags/spike/)&nbsp;,&nbsp;[free-threshing](/tags/free-threshing/)
+   - [domestication](/tags/domestication/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[spike](/tags/spike/)&nbsp;,&nbsp;[free-threshing](/tags/free-threshing/)
 
 ## Literature:
    - [A bacterial artificial chromosome contig spanning the major domestication locus Q in wheat and identification of a candidate gene.]( https://academic.oup.com/genetics/article/164/1/311/6052638?login=true#325737277)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/genetics/164.1.311](https://academic.oup.com/genetics/article/164/1/311/6052638?login=true#325737277)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12750342](https://pubmed.ncbi.nlm.nih.gov/12750342/)
@@ -32,7 +32,7 @@ tags: [ domestication,floral,spike,free-threshing ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6LWJ2](https://www.uniprot.org/uniprotkb/A0A3B6LWJ2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

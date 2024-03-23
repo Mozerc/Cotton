@@ -19,7 +19,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,drou
    - TaBZR2 positively regulates wheat resistance to stripe rust through a different pathway than the one by which it enhances drought tolerance.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Transcription factor BZR2 activates chitinase Cht20.2 transcription to confer resistance to wheat stripe rust.]( https://academic.oup.com/plphys/article/187/4/2749/6346990?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab383](https://academic.oup.com/plphys/article/187/4/2749/6346990?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618056](https://pubmed.ncbi.nlm.nih.gov/34618056/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,drou
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6EEX6](https://www.uniprot.org/uniprotkb/A0A3B6EEX6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

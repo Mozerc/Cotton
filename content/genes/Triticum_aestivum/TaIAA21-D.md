@@ -21,7 +21,7 @@ tags: [ development,grain,grain length,grain size,grain yield,yield,iaa,grain we
    - TaIAA21 represses TaARF25-mediated expression of TaERFs required for grain size and weight development in wheat.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[grain-width](/tags/grain-width/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[grain-width](/tags/grain-width/)
 
 ## Literature:
    - [TaIAA21 represses TaARF25-mediated expression of TaERFs required for grain size and weight development in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15541](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34643010](https://pubmed.ncbi.nlm.nih.gov/34643010/)
@@ -33,7 +33,7 @@ tags: [ development,grain,grain length,grain size,grain yield,yield,iaa,grain we
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6TU02](https://www.uniprot.org/uniprotkb/A0A3B6TU02/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

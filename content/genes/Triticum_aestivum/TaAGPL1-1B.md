@@ -18,7 +18,7 @@ tags: [ starch,starch biosynthesis,phosphate ]
    - TaAGPL-1B and TaISA2-1B were involved in the starch and protein biosynthesis.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)
+   - [starch](/tags/starch/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)
 
 ## Literature:
    - [Chromatin accessibility landscapes revealed the subgenome-divergent regulation networks during wheat grain development.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10199822/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s42994-023-00095-8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10199822/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37220536](https://pubmed.ncbi.nlm.nih.gov/37220536/)
@@ -30,7 +30,7 @@ tags: [ starch,starch biosynthesis,phosphate ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5Z6A6](https://www.uniprot.org/uniprotkb/A0A3B5Z6A6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

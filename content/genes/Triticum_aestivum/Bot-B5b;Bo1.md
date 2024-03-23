@@ -19,7 +19,7 @@ tags: [ root,resistance,tolerance,transporter,boron transporter,boron,recombinat
    - Analysis of neighbouring genes on 7BL in current bread wheat cultivars indicates conservation of the tetraploid-derived segment, presenting a barrier to recombination and the exploitation of agronomically important loci linked to **Bo1**, such as resistance to late-maturity α-amylase.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[boron-transporter](/tags/boron-transporter/)&nbsp;,&nbsp;[boron](/tags/boron/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[boron-transporter](/tags/boron-transporter/)&nbsp;,&nbsp;[boron](/tags/boron/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
 
 ## Literature:
    - [Molecular basis of adaptation to high soil boron in wheat landraces and elite cultivars.]( https://www.nature.com/articles/nature13538)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/nature13538](https://www.nature.com/articles/nature13538)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25043042](https://pubmed.ncbi.nlm.nih.gov/25043042/)
@@ -30,7 +30,7 @@ tags: [ root,resistance,tolerance,transporter,boron transporter,boron,recombinat
 - **NCBI ID:**  [KF148625](https://www.ncbi.nlm.nih.gov/gene/?term=KF148625)
 - **UniProt accessions:** [A0A067ZUK4](https://www.uniprot.org/uniprotkb/A0A067ZUK4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

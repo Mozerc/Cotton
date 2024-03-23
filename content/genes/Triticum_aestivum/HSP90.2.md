@@ -20,7 +20,7 @@ tags: [ resistance,pathogen,resistant,pathogen resistance,powdery mildew,mildew 
    - The 2Q2 protein resided in chloroplasts, and **HSP90.2** played a critical role in the accumulation of 2Q2 in thylakoids.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [HSP90.2 modulates 2Q2-mediated wheat resistance against powdery mildew.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14579)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14579](https://onlinelibrary.wiley.com/doi/10.1111/pce.14579)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36890722](https://pubmed.ncbi.nlm.nih.gov/36890722/)
@@ -32,7 +32,7 @@ tags: [ resistance,pathogen,resistant,pathogen resistance,powdery mildew,mildew 
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [F4Y593](https://www.uniprot.org/uniprotkb/F4Y593/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

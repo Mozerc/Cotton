@@ -21,7 +21,7 @@ tags: [ resistance,pathogen,defence,defence response,pathogen resistance ]
    - The wheat NB-LRR gene **TaRCR1** is required for host defence response to the necrotrophic fungal pathogen Rhizoctonia cerealis.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [The wheat NB-LRR gene TaRCR1 is required for host defence response to the necrotrophic fungal pathogen Rhizoctonia cerealis.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12665)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12665](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12665)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27862842](https://pubmed.ncbi.nlm.nih.gov/27862842/)
@@ -33,7 +33,7 @@ tags: [ resistance,pathogen,defence,defence response,pathogen resistance ]
 - **NCBI ID:**  [AK335348](https://www.ncbi.nlm.nih.gov/gene/?term=AK335348)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

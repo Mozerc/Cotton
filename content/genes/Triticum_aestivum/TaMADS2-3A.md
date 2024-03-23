@@ -19,7 +19,7 @@ tags: [ transcription factor,phosphate,pi,phosphate starvation ]
    - Further work is needed to determine whether overexpression of **TaMADS2-3A** or TaMADS2-3B could also lead to constitutive PSRs in plants and whether the three homoeologs of TaMADS2 differ in their regulation of plant PSRs.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
 
 ## Literature:
    - [TaMADS2-3D, a MADS transcription factor gene, regulates phosphate starvation responses in plants]( https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.020](https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ transcription factor,phosphate,pi,phosphate starvation ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6ENZ9](https://www.uniprot.org/uniprotkb/A0A3B6ENZ9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

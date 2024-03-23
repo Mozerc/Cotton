@@ -21,7 +21,7 @@ tags: [ heading date,sugar,flowering time,flowering,heading time ]
    - Transgenic complementation analysis shows that constitutive overexpression of **TaOGT1**b from Billings accelerates the heading of transgenic Duster plants. **TaOGT1** is able to transfer an O-GlcNAc group to wheat protein TaGRP2.
 
 ## Function-related keywords:
-[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[heading-time](/tags/heading-time/)
+   - [heading-date](/tags/heading-date/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[heading-time](/tags/heading-time/)
 
 ## Literature:
    - [O-linked N-acetylglucosamine transferase is involved in fine regulation of flowering time in winter wheat.]( https://www.nature.com/articles/s41467-021-22564-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-22564-8](https://www.nature.com/articles/s41467-021-22564-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33863881](https://pubmed.ncbi.nlm.nih.gov/33863881/)
@@ -33,7 +33,7 @@ tags: [ heading date,sugar,flowering time,flowering,heading time ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ transcription factor,root,growth,stress,vegetative,architecture,root gro
    - Overexpressing **TaMADS2-3D** increased H2O2 and O2− production in Arabidopsis roots.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
 
 ## Literature:
    - [TaMADS2-3D, a MADS transcription factor gene, regulates phosphate starvation responses in plants]( https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.020](https://www.sciencedirect.com/science/article/pii/S221451412100088X)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ transcription factor,root,growth,stress,vegetative,architecture,root gro
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [G1FP79](https://www.uniprot.org/uniprotkb/G1FP79/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

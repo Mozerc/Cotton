@@ -21,7 +21,7 @@ tags: [ leaf,resistance,breeding,heterosis,rust resistance,rust ]
    - Frequency of **Ne2** allele is significantly increased in wheat breeding.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Ne2, a typical CC-NBS-LRR-type gene, is responsible for hybrid necrosis in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17575](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17575)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34160845](https://pubmed.ncbi.nlm.nih.gov/34160845/)
@@ -33,7 +33,7 @@ tags: [ leaf,resistance,breeding,heterosis,rust resistance,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6C240](https://www.uniprot.org/uniprotkb/A0A3B6C240/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

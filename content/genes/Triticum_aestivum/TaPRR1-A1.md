@@ -21,7 +21,7 @@ tags: [ grain,grain yield,yield,grain weight,height,heading date,plant height,gr
    - In addition, geographical distribution analysis indicated higher distribution frequencies of TaPRR1-6A-Hapla, TaPRR1-6B-Haplb, and TaPRR1-6D-Haplb in different agro-ecological production zones.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [The Circadian Clock Gene, TaPRR1, Is Associated With Yield-Related Traits in Wheat (Triticum aestivum L.).]( https://www.frontiersin.org/articles/10.3389/fpls.2020.00285/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.00285](https://www.frontiersin.org/articles/10.3389/fpls.2020.00285/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32226438](https://pubmed.ncbi.nlm.nih.gov/32226438/)
@@ -32,7 +32,7 @@ tags: [ grain,grain yield,yield,grain weight,height,heading date,plant height,gr
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [W5G950](https://www.uniprot.org/uniprotkb/W5G950/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

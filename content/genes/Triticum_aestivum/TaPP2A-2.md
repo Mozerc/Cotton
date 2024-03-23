@@ -20,7 +20,7 @@ tags: [ drought,tolerance,drought tolerance ]
    - These data indicate that **TaPP2A-2** negatively regulates wheat drought tolerance.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
    - [TaTIP41 and TaTAP46 positively regulate drought tolerance in wheat by inhibiting PP2A activity.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13542)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13542](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13542)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37310066](https://pubmed.ncbi.nlm.nih.gov/37310066/)
@@ -32,7 +32,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6MZU1](https://www.uniprot.org/uniprotkb/A0A3B6MZU1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

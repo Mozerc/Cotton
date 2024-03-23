@@ -20,7 +20,7 @@ tags: [ transcription factor,kinase,resistance,pathogen,receptor kinase,pathogen
    - We identify and characterize a wheat receptor-like cytoplasmic kinase gene, TaPsIPK1, that confers susceptibility to this pathogen. PsSpg1, a secreted fungal effector vital for Pst virulence, can bind TaPsIPK1, enhance its kinase activity, and promote its nuclear localization, where it phosphorylates the transcription factor **TaCBF1d** for gene regulation.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Inactivation of a wheat protein kinase gene confers broad-spectrum resistance to rust fungi.]( https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cell.2022.06.027](https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35839760](https://pubmed.ncbi.nlm.nih.gov/35839760/)
@@ -32,7 +32,7 @@ tags: [ transcription factor,kinase,resistance,pathogen,receptor kinase,pathogen
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6PJN3](https://www.uniprot.org/uniprotkb/A0A3B6PJN3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

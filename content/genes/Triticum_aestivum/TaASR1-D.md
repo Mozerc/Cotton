@@ -21,7 +21,7 @@ tags: [ resistance,stress,abiotic stress,aba,aba sensitivity ]
    - **TaASR1-D** can be used to breed new wheat cultivars with increased multiple abiotic stress tolerances, and **TaASR1-D** enhances abiotic stress tolerances by reinforcing antioxidant capacity and ABA signalling.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
    - [TaASR1-D confers abiotic stress resistance by affecting ROS accumulation and ABA signalling in transgenic wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13572)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13572](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13572)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33638922](https://pubmed.ncbi.nlm.nih.gov/33638922/)
@@ -33,7 +33,7 @@ tags: [ resistance,stress,abiotic stress,aba,aba sensitivity ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [J7EJB7](https://www.uniprot.org/uniprotkb/J7EJB7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

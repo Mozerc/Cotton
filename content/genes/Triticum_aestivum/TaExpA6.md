@@ -19,7 +19,7 @@ tags: [ grain,grain size,grain yield,yield,grain weight ]
    - **TaExpA6** ectopic expression increases average grain weight and grain yield in transgenic wheat.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
 
 ## Literature:
    - [Overcoming the trade-off between grain weight and number in wheat by the ectopic expression of expansin in developing seeds leads to increased yield potential.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17048)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17048](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17048)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33124693](https://pubmed.ncbi.nlm.nih.gov/33124693/)
@@ -31,7 +31,7 @@ tags: [ grain,grain size,grain yield,yield,grain weight ]
 - **NCBI ID:**  [AY543532](https://www.ncbi.nlm.nih.gov/gene/?term=AY543532)
 - **UniProt accessions:** [Q6QFA7](https://www.uniprot.org/uniprotkb/Q6QFA7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

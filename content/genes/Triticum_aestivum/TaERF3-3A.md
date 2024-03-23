@@ -20,7 +20,7 @@ tags: [ transcription factor,development,grain,grain size,auxin,down-regulated g
    - ERF3 was up-regulated in the taiaa21 mutant and down-regulated in ttarf25 mutant. Transactivation assays showed that ARF25 promoted ERF3 transcription, while mutation of TtERF3 resulted in reduced grain size and weight.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
 
 ## Literature:
    - [TaIAA21 represses TaARF25-mediated expression of TaERFs required for grain size and weight development in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15541](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34643010](https://pubmed.ncbi.nlm.nih.gov/34643010/)
@@ -31,7 +31,7 @@ tags: [ transcription factor,development,grain,grain size,auxin,down-regulated g
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A7XA11](https://www.uniprot.org/uniprotkb/A7XA11/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ phloem,flowering,vernalization ]
    - Winter wheat plants transformed with the TaFT allele carrying the promoter retroelement insertion flowered significantly earlier than nontransgenic plants, supporting the identity between TaFT and VRN-B3.
 
 ## Function-related keywords:
-[phloem](/tags/phloem/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
+   - [phloem](/tags/phloem/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
 
 ## Literature:
    - [The wheat and barley vernalization gene VRN3 is an orthologue of FT.]( https://www.pnas.org/doi/10.1073/pnas.0607142103?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.0607142103](https://www.pnas.org/doi/10.1073/pnas.0607142103?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17158798](https://pubmed.ncbi.nlm.nih.gov/17158798/)
@@ -31,7 +31,7 @@ tags: [ phloem,flowering,vernalization ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [B1B5D6](https://www.uniprot.org/uniprotkb/B1B5D6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

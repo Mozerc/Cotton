@@ -20,7 +20,7 @@ tags: [ development,plant development,floral,inflorescence,height,plant height,i
    - The results achieved in this study will help us to understand the regulating mechanisms of TaAQ and **TaDq** alleles on wheat floral organs and inflorescence development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [CRISPR/Cas9 editing of wheat TaQ genes alters spike morphogenesis and grain threshability.]( https://www.sciencedirect.com/science/article/abs/pii/S1673852720301454?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2020.08.004](https://www.sciencedirect.com/science/article/abs/pii/S1673852720301454?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33187879](https://pubmed.ncbi.nlm.nih.gov/33187879/)
@@ -32,7 +32,7 @@ tags: [ development,plant development,floral,inflorescence,height,plant height,i
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [I2FGV8](https://www.uniprot.org/uniprotkb/I2FGV8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

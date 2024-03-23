@@ -19,7 +19,7 @@ tags: [ leaf,seedlings,development,leaf development,stomatal,leaf size,stomatal 
    - TaHXK3 associated with stomatal index.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[stomatal-development](/tags/stomatal-development/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[stomatal-development](/tags/stomatal-development/)
 
 ## Literature:
    - [Genome-wide association study revealed TaHXK3-2A as a candidate gene controlling stomatal index in wheat seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14342](https://onlinelibrary.wiley.com/doi/10.1111/pce.14342)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35545896](https://pubmed.ncbi.nlm.nih.gov/35545896/)
@@ -31,7 +31,7 @@ tags: [ leaf,seedlings,development,leaf development,stomatal,leaf size,stomatal 
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6BX05](https://www.uniprot.org/uniprotkb/A0A3B6BX05/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

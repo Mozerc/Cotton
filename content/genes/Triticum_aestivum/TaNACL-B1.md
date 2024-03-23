@@ -18,7 +18,7 @@ tags: [ resistance ]
    - We present evidence that TaNACL contributes to FHB resistance in wheat, as also shown in a previous study for TaFROG.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)
+   - [resistance](/tags/resistance/)
 
 ## Literature:
    - [A wheat NAC interacts with an orphan protein and enhances resistance to Fusarium head blight disease.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13105](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30821405](https://pubmed.ncbi.nlm.nih.gov/30821405/)
@@ -30,7 +30,7 @@ tags: [ resistance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6LGG0](https://www.uniprot.org/uniprotkb/A0A3B6LGG0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

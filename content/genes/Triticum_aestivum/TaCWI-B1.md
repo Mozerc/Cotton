@@ -19,7 +19,7 @@ tags: [ resistance ]
    - EMS mutants and overexpression revealed **TaCWI-B1** modulating FCR resistance.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)
+   - [resistance](/tags/resistance/)
 
 ## Literature:
    - [A cell wall invertase modulates resistance to fusarium crown rot and sharp eyespot in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13478)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13478](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13478)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36912577](https://pubmed.ncbi.nlm.nih.gov/36912577/)
@@ -31,7 +31,7 @@ tags: [ resistance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6C6X0](https://www.uniprot.org/uniprotkb/A0A3B6C6X0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

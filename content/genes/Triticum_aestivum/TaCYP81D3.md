@@ -19,7 +19,7 @@ tags: [ stress,salinity,tolerance,abiotic stress,biotic stress,stress tolerance,
    - **TaCYP81D3** confers salinity tolerance via reactive oxygen species scavenging.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[biotic-stress](/tags/biotic-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[biotic-stress](/tags/biotic-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
    - [TaCYP81D5, one member in a wheat cytochrome P450 gene cluster, confers salinity tolerance via reactive oxygen species scavenging.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13247)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13247](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13247)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31472082](https://pubmed.ncbi.nlm.nih.gov/31472082/)
@@ -31,7 +31,7 @@ tags: [ stress,salinity,tolerance,abiotic stress,biotic stress,stress tolerance,
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6LTK3](https://www.uniprot.org/uniprotkb/A0A3B6LTK3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

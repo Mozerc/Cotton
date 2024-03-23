@@ -21,7 +21,7 @@ tags: [ grain,grain length,grain size,grain number,grain weight,grain width ]
    - The effects of gene editing on grain morphology and weight traits were dosage dependent with the double-copy mutant showing larger effect than the respective single copy mutants.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[grain-width](/tags/grain-width/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[grain-width](/tags/grain-width/)
 
 ## Literature:
    - [Gene editing of the wheat homologs of TONNEAU1-recruiting motif encoding gene affects grain shape and weight in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14440)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14440](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14440)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31219637](https://pubmed.ncbi.nlm.nih.gov/31219637/)
@@ -32,7 +32,7 @@ tags: [ grain,grain length,grain size,grain number,grain weight,grain width ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6AUP3](https://www.uniprot.org/uniprotkb/A0A3B6AUP3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

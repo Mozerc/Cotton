@@ -21,7 +21,7 @@ tags: [ stress,salt,potassium,salt stress,salt sensitivity,osmotic stress ]
    - TaNHX2 has significant sequence homology to NHX sodium exchangers from Arabidopsis, is abundant in roots and leaves and is induced by salt or dehydration treatments.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[potassium](/tags/potassium/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[salt-sensitivity](/tags/salt-sensitivity/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[potassium](/tags/potassium/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[salt-sensitivity](/tags/salt-sensitivity/)&nbsp;,&nbsp;[osmotic-stress](/tags/osmotic-stress/)
 
 ## Literature:
    - [Functional characterization of a wheat NHX antiporter gene TaNHX2 that encodes a K(+)/H(+) exchanger.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0078098](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078098)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24223765](https://pubmed.ncbi.nlm.nih.gov/24223765/)
@@ -33,7 +33,7 @@ tags: [ stress,salt,potassium,salt stress,salt sensitivity,osmotic stress ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A1D6DAW7](https://www.uniprot.org/uniprotkb/A0A1D6DAW7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

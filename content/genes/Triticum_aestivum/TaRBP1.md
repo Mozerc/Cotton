@@ -21,7 +21,7 @@ tags: [ resistance,cell death,ubiquitin,reactive oxygen species ]
    - **TaRBP1** formed a homopolymer and interacted with **TaRBP1** C-terminus in plants. Additionally, **TaRBP1** physically interacted with TaGLTP, a sphingosine transfer protein. Knockdown of TaGLTP enhanced wheat resistance to the virulent Pst CYR31.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
 
 ## Literature:
    - [TaRBP1 stabilizes TaGLTP and negatively regulates stripe rust resistance in wheat.]( https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13364)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/mpp.13364](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13364)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37306522](https://pubmed.ncbi.nlm.nih.gov/37306522/)
@@ -33,7 +33,7 @@ tags: [ resistance,cell death,ubiquitin,reactive oxygen species ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

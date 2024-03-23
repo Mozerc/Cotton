@@ -19,7 +19,7 @@ tags: [ starch,endosperm ]
    - The interaction between **TaNF-YB1** and TabHLH95 may improve the efficiency of starch synthesis in wheat endosperm.
 
 ## Function-related keywords:
-[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
+   - [starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
 
 ## Literature:
    - [TabHLH95-TaNF-YB1 module promotes grain starch synthesis in bread wheat.]( https://www.sciencedirect.com/science/article/pii/S1673852723000899?via%3Dihub#appsec1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.002](https://www.sciencedirect.com/science/article/pii/S1673852723000899?via%3Dihub#appsec1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37062449](https://pubmed.ncbi.nlm.nih.gov/37062449/)
@@ -31,7 +31,7 @@ tags: [ starch,endosperm ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6NTW2](https://www.uniprot.org/uniprotkb/A0A3B6NTW2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

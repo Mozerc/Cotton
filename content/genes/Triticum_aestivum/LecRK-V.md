@@ -22,7 +22,7 @@ tags: [ kinase,resistance,resistant,callus,receptor kinase,powdery mildew,mildew
    - Overexpressing **LecRK-V** in transgenic wheat resulted in broad-spectrum powdery mildew resistance.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [LecRK-V, an L-type lectin receptor kinase in Haynaldia villosa, plays positive role in resistance to wheat powdery mildew.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12748)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12748](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12748)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28436098](https://pubmed.ncbi.nlm.nih.gov/28436098/)
@@ -34,7 +34,7 @@ tags: [ kinase,resistance,resistant,callus,receptor kinase,powdery mildew,mildew
 - **NCBI ID:**  [KY612459](https://www.ncbi.nlm.nih.gov/gene/?term=KY612459)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ development,auxin,plant development,auxin response,height,plant height,i
    - Knocked down the expression of TaARF12 by RNAi in cv. Fielder which carries the green revolution gene Rht-B1b. We found that the transgenic plants were further reduced by up to 20.7% , which occurred at each internode. Meanwhile, spikes of ARF12 RNAi plants became significantly longer leading to significantly more seeds per spike.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[internode-development](/tags/internode-development/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[internode-development](/tags/internode-development/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [Wheat breeding history reveals synergistic selection of pleiotropic genomic sites for plant architecture and grain yield.]( https://www.sciencedirect.com/science/article/pii/S1674205222000041?via%3Dihub#fig3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.01.004](https://www.sciencedirect.com/science/article/pii/S1674205222000041?via%3Dihub#fig3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35026438](https://pubmed.ncbi.nlm.nih.gov/35026438/)
@@ -32,7 +32,7 @@ tags: [ development,auxin,plant development,auxin response,height,plant height,i
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6DNJ0](https://www.uniprot.org/uniprotkb/A0A3B6DNJ0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

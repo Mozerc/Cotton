@@ -21,7 +21,7 @@ tags: [ stress,tolerance,stress tolerance,breeding,stress response,heat toleranc
    - TaMBF1c in regulating the heat stress response via the translation process, and provide a new target for improving heat tolerance in wheat breeding programs.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
    - [Stress granule-associated TaMBF1c confers thermotolerance through regulating specific mRNA translation in wheat (Triticum aestivum).]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17865)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17865](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17865)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34787921](https://pubmed.ncbi.nlm.nih.gov/34787921/)
@@ -33,7 +33,7 @@ tags: [ stress,tolerance,stress tolerance,breeding,stress response,heat toleranc
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6TUG1](https://www.uniprot.org/uniprotkb/A0A3B6TUG1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

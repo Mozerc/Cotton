@@ -21,7 +21,7 @@ tags: [ development,drought,stress,drought stress,tolerance,drought tolerance,st
    - Coordination of TaAKS1 and TaERF87 has additive effects on TaP5CS1s and TaP5CR1s activation.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
 
 ## Literature:
    - [TaERF87 and TaAKS1 synergistically regulate TaP5CS1/TaP5CR1-mediated proline biosynthesis to enhance drought tolerance in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18549)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18549](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18549)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36264565](https://pubmed.ncbi.nlm.nih.gov/36264565/)
@@ -33,7 +33,7 @@ tags: [ development,drought,stress,drought stress,tolerance,drought tolerance,st
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A077RXE4](https://www.uniprot.org/uniprotkb/A0A077RXE4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,cell death,cadmium,cadmium 
    - AetSRG1 prevents the degradation of phenylalanine ammonia lyase and programmed cell death.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[cadmium-tolerance](/tags/cadmium-tolerance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[cadmium-tolerance](/tags/cadmium-tolerance/)
 
 ## Literature:
    - [AetSRG1 contributes to the inhibition of wheat Cd accumulation by stabilizing phenylalanine ammonia lyase.]( https://www.sciencedirect.com/science/article/pii/S0304389422000140?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jhazmat.2022.128226 ](https://www.sciencedirect.com/science/article/pii/S0304389422000140?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35032956](https://pubmed.ncbi.nlm.nih.gov/35032956/)
@@ -31,7 +31,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,cell death,cadmium,cadmium 
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RA57](https://www.uniprot.org/uniprotkb/A0A3B6RA57/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [  ]
    - Demonstrate the presence of an additive effect of the TaDA1-A and **TaGW2-B** haplotypes on the regulation of TKW.
 
 ## Function-related keywords:
-[](/tags//)
+   - [](/tags//)
 
 ## Literature:
    - [TaDA1, a conserved negative regulator of kernel size, has an additive effect with TaGW2 in common wheat (Triticum aestivum L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13298)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13298](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13298)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31733093](https://pubmed.ncbi.nlm.nih.gov/31733093/)
@@ -32,7 +32,7 @@ tags: [  ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [K7QJZ1](https://www.uniprot.org/uniprotkb/K7QJZ1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

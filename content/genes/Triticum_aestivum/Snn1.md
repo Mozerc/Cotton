@@ -20,7 +20,7 @@ tags: [ kinase,resistance,cell death,pathogen,cell wall,protein kinase,programme
    - Recognition of SnTox1 by **Snn1** activates programmed cell death, which allows this necrotroph to gain nutrients and sporulate.
 
 ## Function-related keywords:
-[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [The hijacking of a receptor kinase-driven pathway by a wheat fungal pathogen leads to disease.]( https://www.science.org/doi/full/10.1126/sciadv.1600822?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/sciadv.1600822](https://www.science.org/doi/full/10.1126/sciadv.1600822?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27819043](https://pubmed.ncbi.nlm.nih.gov/27819043/)
@@ -31,7 +31,7 @@ tags: [ kinase,resistance,cell death,pathogen,cell wall,protein kinase,programme
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [W5AB81](https://www.uniprot.org/uniprotkb/W5AB81/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

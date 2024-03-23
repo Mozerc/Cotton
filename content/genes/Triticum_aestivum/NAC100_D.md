@@ -19,7 +19,7 @@ tags: [ development,grain,starch,starch biosynthesis,grain protein ]
    - **NAC100_D** is involved in the starch and protein biosynthesis during wheat grain development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
    - [Chromatin accessibility landscapes revealed the subgenome-divergent regulation networks during wheat grain development.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10199822/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s42994-023-00095-8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10199822/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37220536](https://pubmed.ncbi.nlm.nih.gov/37220536/)
@@ -31,7 +31,7 @@ tags: [ development,grain,starch,starch biosynthesis,grain protein ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A1D5UHY0](https://www.uniprot.org/uniprotkb/A0A1D5UHY0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ grain,drought,grain yield,tolerance,yield,aba,drought tolerance,drought 
    - **TaPYL1-1B** overexpression increases water-use efficiency.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
    - [The wheat ABA receptor gene TaPYL1-1B contributes to drought tolerance and grain yield by increasing water-use efficiency.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13764)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13764](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13764)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34890091](https://pubmed.ncbi.nlm.nih.gov/34890091/)
@@ -34,7 +34,7 @@ tags: [ grain,drought,grain yield,tolerance,yield,aba,drought tolerance,drought 
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5YX52](https://www.uniprot.org/uniprotkb/A0A3B5YX52/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

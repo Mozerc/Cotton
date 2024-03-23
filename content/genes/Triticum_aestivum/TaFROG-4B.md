@@ -21,7 +21,7 @@ tags: [ leaf,resistance,stress,disease,disease resistance,biotic stress,sucrose 
    - Overexpression of TaFROG Retards the Spread of FHB Disease Symptoms.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[biotic-stress](/tags/biotic-stress/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[biotic-stress](/tags/biotic-stress/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
    - [TaFROG Encodes a Pooideae Orphan Protein That Interacts with SnRK1 and Enhances Resistance to the Mycotoxigenic Fungus Fusarium graminearum.]( https://academic.oup.com/plphys/article/169/4/2895/6114242?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.15.01056](https://academic.oup.com/plphys/article/169/4/2895/6114242?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26508775](https://pubmed.ncbi.nlm.nih.gov/26508775/)
@@ -32,7 +32,7 @@ tags: [ leaf,resistance,stress,disease,disease resistance,biotic stress,sucrose 
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6ILY4](https://www.uniprot.org/uniprotkb/A0A3B6ILY4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

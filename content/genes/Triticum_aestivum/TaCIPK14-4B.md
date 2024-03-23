@@ -22,7 +22,7 @@ tags: [ resistance,disease,disease resistance,broad-spectrum disease resistance,
 
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[broad-spectrum-disease-resistance](/tags/broad-spectrum-disease-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[broad-spectrum-disease-resistance](/tags/broad-spectrum-disease-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Simultaneous editing of three homoeologues of TaCIPK14 confers broad-spectrum resistance to stripe rust in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13956)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13956](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13956)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36326663](https://pubmed.ncbi.nlm.nih.gov/36326663/)
@@ -34,7 +34,7 @@ tags: [ resistance,disease,disease resistance,broad-spectrum disease resistance,
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [K4HME9](https://www.uniprot.org/uniprotkb/K4HME9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ drought,tolerance,aba,drought tolerance,adaptability,drought response ]
    - Both TaTIP41 and **TaTAP46** inhibit PP2A activity via their interaction with PP2A catalytic subunits.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[adaptability](/tags/adaptability/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[adaptability](/tags/adaptability/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [TaTIP41 and TaTAP46 positively regulate drought tolerance in wheat by inhibiting PP2A activity.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13542)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13542](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13542)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37310066](https://pubmed.ncbi.nlm.nih.gov/37310066/)
@@ -32,7 +32,7 @@ tags: [ drought,tolerance,aba,drought tolerance,adaptability,drought response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

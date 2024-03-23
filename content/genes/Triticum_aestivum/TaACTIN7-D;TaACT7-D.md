@@ -20,7 +20,7 @@ tags: [ grain,auxin,gibberellin,height,plant height,grain shape,phytohormone,gra
    - Further evidence shows that the G65S mutation in **TaACT7-D** hinders the polymerization of actin from monomeric (G-actin) to filamentous (F-actin) status while attenuates wheat responses to multiple phytohormones, including brassinosteroids, auxin, and gibberellin.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[grain-shape](/tags/grain-shape/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[actin-protein](/tags/actin-protein/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[grain-shape](/tags/grain-shape/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[actin-protein](/tags/actin-protein/)
 
 ## Literature:
    - [TaACTIN7-D regulates plant height and grain shape in bread wheat.]( https://www.sciencedirect.com/science/article/pii/S1673852723001856?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.09.001](https://www.sciencedirect.com/science/article/pii/S1673852723001856?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709194](https://pubmed.ncbi.nlm.nih.gov/37709194/)
@@ -32,7 +32,7 @@ tags: [ grain,auxin,gibberellin,height,plant height,grain shape,phytohormone,gra
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [Q5EWZ1](https://www.uniprot.org/uniprotkb/Q5EWZ1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

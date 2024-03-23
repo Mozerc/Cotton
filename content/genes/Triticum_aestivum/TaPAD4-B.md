@@ -20,7 +20,7 @@ tags: [ resistance,sa,acetyltransferase,powdery mildew,mildew resistance,mildew,
    - TaHAG1 is physically associated with TaPAD4 and facilitates its expression by modulating histone acetylation.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[acetyltransferase](/tags/acetyltransferase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[acetyltransferase](/tags/acetyltransferase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Histone acetyltransferase TaHAG1 interacts with TaPLATZ5 to activate TaPAD4 expression and positively contributes to powdery mildew resistance in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18372)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18372](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18372)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35832009](https://pubmed.ncbi.nlm.nih.gov/35832009/)
@@ -32,7 +32,7 @@ tags: [ resistance,sa,acetyltransferase,powdery mildew,mildew resistance,mildew,
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6IN88](https://www.uniprot.org/uniprotkb/A0A3B6IN88/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

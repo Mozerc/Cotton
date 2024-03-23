@@ -19,7 +19,7 @@ tags: [ temperature,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,plas
    - Among several interacting proteins, a client TaPAP6L‐2B (TraesCS2B02G171300, plastid‐lipid‐associated protein 6, chloroplastic‐like) on 2B was selected for further analysis because TaPAP6L is a member of the PAP/ FBNs protein family and it has been reported that this family was involved in plant response to temperature.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[plastid](/tags/plastid/)&nbsp;,&nbsp;[temperature-response](/tags/temperature-response/)
+   - [temperature](/tags/temperature/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[plastid](/tags/plastid/)&nbsp;,&nbsp;[temperature-response](/tags/temperature-response/)
 
 ## Literature:
    - [A TaSnRK1α Modulates TaPAP6L-Mediated Wheat Cold Tolerance through Regulating Endogenous Jasmonic Acid.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625090/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/advs.202303478](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625090/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37740426](https://pubmed.ncbi.nlm.nih.gov/37740426/)
@@ -31,7 +31,7 @@ tags: [ temperature,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,plas
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6C222](https://www.uniprot.org/uniprotkb/A0A3B6C222/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

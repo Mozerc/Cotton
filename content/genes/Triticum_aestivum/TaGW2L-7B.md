@@ -21,7 +21,7 @@ tags: [ heading date,ubiquitin,ubiquitin e3 ligase ]
    - **TaGW2L** is a novel positive regulator of heading date in wheat.
 
 ## Function-related keywords:
-[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)
+   - [heading-date](/tags/heading-date/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)
 
 ## Literature:
    - [TaGW2L, a GW2-like RING finger E3 ligase, positively regulates heading date in common wheat (Triticum aestivum L.)]( https://www.sciencedirect.com/science/article/pii/S2214514122000046)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.12.002](https://www.sciencedirect.com/science/article/pii/S2214514122000046)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ heading date,ubiquitin,ubiquitin e3 ligase ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6SCX1](https://www.uniprot.org/uniprotkb/A0A3B6SCX1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

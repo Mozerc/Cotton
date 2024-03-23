@@ -22,7 +22,7 @@ tags: [ growth,grain,auxin,grain yield,yield,breeding,plant growth,grain weight,
    - Naturally occurring variations in the promoter of **TaCYP78A5-2A** contribute to thousand-grain weight (TGW) and grain yield per plant of wheat;**TaCYP78A5-2A** haplotype Ap-HapII with higher activity is favourable for improving grain weight and grain yield per plant and has been positively selected in wheat breeding.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
 
 ## Literature:
    - [Modified expression of TaCYP78A5 enhances grain weight with yield potential by accumulating auxin in wheat (Triticum aestivum L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13704)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13704](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13704)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34510688](https://pubmed.ncbi.nlm.nih.gov/34510688/)
@@ -34,7 +34,7 @@ tags: [ growth,grain,auxin,grain yield,yield,breeding,plant growth,grain weight,
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6AV25](https://www.uniprot.org/uniprotkb/A0A3B6AV25/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

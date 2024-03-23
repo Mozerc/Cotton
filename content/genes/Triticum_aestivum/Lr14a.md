@@ -21,7 +21,7 @@ tags: [ leaf,resistance,seedling,disease,disease resistance,calcium,rust resista
    - These unique properties of phenotypic and genetic interactions of a major seedling disease resistance gene make **Lr14a** an interesting target for molecular functional analyses.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [A membrane-bound ankyrin repeat protein confers race-specific leaf rust disease resistance in wheat.]( https://www.nature.com/articles/s41467-020-20777-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-20777-x](https://www.nature.com/articles/s41467-020-20777-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33574268](https://pubmed.ncbi.nlm.nih.gov/33574268/)
@@ -33,7 +33,7 @@ tags: [ leaf,resistance,seedling,disease,disease resistance,calcium,rust resista
 - **NCBI ID:**  [MT123593](https://www.ncbi.nlm.nih.gov/gene/?term=MT123593)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ resistance,rust resistance,rust ]
    - Transgenic wheat harboring **YrNAM** gene driven by its endogenous promoter confers resistance to stripe rust races CYR32 and CYR33.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Sequencing trait-associated mutations to clone wheat rust-resistance gene YrNAM.]( https://www.nature.com/articles/s41467-023-39993-2#Sec20)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-39993-2](https://www.nature.com/articles/s41467-023-39993-2#Sec20)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37468469](https://pubmed.ncbi.nlm.nih.gov/37468469/)
@@ -32,7 +32,7 @@ tags: [ resistance,rust resistance,rust ]
 - **NCBI ID:**  [OP490604	OP490605](https://www.ncbi.nlm.nih.gov/gene/?term=OP490604	OP490605)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ growth,development,resistance,plant development,defense response,defense
    - Identified the wheat susceptibility factor TaBln1, which interacts with TaCaM3 to impair Ca2+ influx and inhibit plant defenses.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [TaBln1, a member of the Blufensin family, negatively regulates wheat resistance to stripe rust by reducing Ca2+ influx.]( https://academic.oup.com/plphys/article/189/3/1380/6548166?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac112](https://academic.oup.com/plphys/article/189/3/1380/6548166?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35285499](https://pubmed.ncbi.nlm.nih.gov/35285499/)
@@ -34,7 +34,7 @@ tags: [ growth,development,resistance,plant development,defense response,defense
 - **NCBI ID:**  [AK333112.1](https://www.ncbi.nlm.nih.gov/gene/?term=AK333112.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

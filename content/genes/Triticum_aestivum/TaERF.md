@@ -20,7 +20,7 @@ tags: [ transcription factor,ethylene,nitrate ]
    - Speculating that **TaERF** functions in N assimilation and remobilization in wheat, we assigned **TaERF** as the most promising candidate gene.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
    - [Genome-wide association study of seedling nitrogen-use efficiency-associated traits in common wheat (Triticum aestivum L.)]( https://www.sciencedirect.com/science/article/pii/S2214514123001514)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.10.014](https://www.sciencedirect.com/science/article/pii/S2214514123001514)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ transcription factor,ethylene,nitrate ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5Y4F4](https://www.uniprot.org/uniprotkb/A0A3B5Y4F4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

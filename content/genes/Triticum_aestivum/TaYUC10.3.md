@@ -20,7 +20,7 @@ tags: [ auxin,seed ]
    - Present study revealed that specific expression of **TaYUC10.3** in wheat young seeds could increase the content of auxin, and protein.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)
+   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)
 
 ## Literature:
    - [Seed-specific expression of TaYUC10 significantly increases auxin and protein content in wheat seeds.]( https://link.springer.com/article/10.1007/s00299-020-02631-y#Sec2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-020-02631-y ](https://link.springer.com/article/10.1007/s00299-020-02631-y#Sec2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33179162](https://pubmed.ncbi.nlm.nih.gov/33179162/)
@@ -32,7 +32,7 @@ tags: [ auxin,seed ]
 - **NCBI ID:**  [KF924402](https://www.ncbi.nlm.nih.gov/gene/?term=KF924402)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

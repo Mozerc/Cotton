@@ -18,7 +18,7 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
    - These results indicated that NLRWE18 is functional powdery mildew resistance allele **MlWE18**.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Bulked segregant CGT-Seq-facilitated map-based cloning of a powdery mildew resistance gene originating from wild emmer wheat (Triticum dicoccoides).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13609](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33949081](https://pubmed.ncbi.nlm.nih.gov/33949081/)
@@ -30,7 +30,7 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
 - **NCBI ID:**  [MW375697](https://www.ncbi.nlm.nih.gov/gene/?term=MW375697)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

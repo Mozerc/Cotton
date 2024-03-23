@@ -21,7 +21,7 @@ tags: [ transcription factor,grain,spike ]
    - Spike morphology of transgenic plants overexpressing **TaVRT-A2**.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [A natural variation of an SVP MADS-box transcription factor in Triticum petropavlovskyi leads to its ectopic expression and contributes to elongated glume.]( https://www.sciencedirect.com/science/article/pii/S1674205221001830?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2021.05.022](https://www.sciencedirect.com/science/article/pii/S1674205221001830?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34048949](https://pubmed.ncbi.nlm.nih.gov/34048949/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,grain,spike ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A9J209](https://www.uniprot.org/uniprotkb/A9J209/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

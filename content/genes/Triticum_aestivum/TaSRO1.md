@@ -21,7 +21,7 @@ tags: [ transcription factor,growth,stress,mitochondria,salinity,tolerance,nucle
    - The interaction of **TaSRO1**/TaSIP1, in the cytoplasm, arrested more TaSIP1 on the membrane of ER, and in the nucleus, attenuated the trans-activation activity of TaSIP1, therefore reducing the TaSIP1-mediated activation of MDS genes.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[er-stress](/tags/er-stress/)&nbsp;,&nbsp;[endoplasmic-reticulum-stress-response](/tags/endoplasmic-reticulum-stress-response/)&nbsp;,&nbsp;[reticulum-stress-response](/tags/reticulum-stress-response/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[er-stress](/tags/er-stress/)&nbsp;,&nbsp;[endoplasmic-reticulum-stress-response](/tags/endoplasmic-reticulum-stress-response/)&nbsp;,&nbsp;[reticulum-stress-response](/tags/reticulum-stress-response/)
 
 ## Literature:
    - [TaSRO1 plays a dual role in suppressing TaSIP1 to fine tune mitochondrial retrograde signalling and enhance salinity stress tolerance.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18340](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35751377](https://pubmed.ncbi.nlm.nih.gov/35751377/)
@@ -34,7 +34,7 @@ tags: [ transcription factor,growth,stress,mitochondria,salinity,tolerance,nucle
 - **NCBI ID:**  [JN202574](https://www.ncbi.nlm.nih.gov/gene/?term=JN202574)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

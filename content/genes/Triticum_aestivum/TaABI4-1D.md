@@ -19,7 +19,7 @@ tags: [ transcription factor,seed,seed germination,aba,dormancy,seed dormancy ]
    - The role of **TaABI4** in the ABA-induced seed dormancy pathway.
 
 ## Function-related keywords:
-[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[dormancy](/tags/dormancy/)&nbsp;,&nbsp;[seed-dormancy](/tags/seed-dormancy/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[dormancy](/tags/dormancy/)&nbsp;,&nbsp;[seed-dormancy](/tags/seed-dormancy/)
 
 ## Literature:
    - [Characterization and expression QTL analysis of TaABI4, a pre-harvest sprouting related gene in wheat](https://www.biorxiv.org/content/10.1101/2020.09.18.303065v1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1017/s0960258521000015](https://www.biorxiv.org/content/10.1101/2020.09.18.303065v1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ transcription factor,seed,seed germination,aba,dormancy,seed dormancy ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

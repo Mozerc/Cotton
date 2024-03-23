@@ -21,7 +21,7 @@ tags: [ pollen,anther,sterility,seed,sterile,male sterility,seed phenotype,hybri
    - TRIM-induced expression of the intact **Ms2** reveals a potential mechanism of gene activation in plants.
 
 ## Function-related keywords:
-[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
+   - [pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
 
 ## Literature:
    - [A TRIM insertion in the promoter of Ms2 causes male sterility in wheat.]( https://www.nature.com/articles/ncomms15407)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms15121 10.1038/ncomms15407](https://www.nature.com/articles/ncomms15407)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28497807](https://pubmed.ncbi.nlm.nih.gov/28497807/)
@@ -34,7 +34,7 @@ tags: [ pollen,anther,sterility,seed,sterile,male sterility,seed phenotype,hybri
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

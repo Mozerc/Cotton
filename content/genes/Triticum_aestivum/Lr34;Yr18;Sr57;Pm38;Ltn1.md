@@ -20,7 +20,7 @@ tags: [ leaf,resistance,map-based cloning,powdery mildew,rust resistance,rust,mi
    - Previous studies have localized the codominant gene **Lr34** on the short arm of chromosome 7D between the two markers gwm1220 and SWM10. We further reduced the target interval in a map-based cloning approach based on three high-resolution populations.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [A putative ABC transporter confers durable resistance to multiple fungal pathogens in wheat.]( https://www.science.org/doi/10.1126/science.1166453?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.1166453 ](https://www.science.org/doi/10.1126/science.1166453?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19229000](https://pubmed.ncbi.nlm.nih.gov/19229000/)
@@ -31,7 +31,7 @@ tags: [ leaf,resistance,map-based cloning,powdery mildew,rust resistance,rust,mi
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [C0JSA8](https://www.uniprot.org/uniprotkb/C0JSA8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

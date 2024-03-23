@@ -19,7 +19,7 @@ tags: [ stress,stress response ]
    - The role of **DnaJ** in wheat (Triticum aestivum), and the interaction mechanism between TaDnaJs and plant viruses.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [Genome-wide identification and analysis of the regulation wheat DnaJ family genes following wheat yellow mosaic virus infection]( https://www.sciencedirect.com/science/article/pii/S2095311921636195)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(21)63619-5](https://www.sciencedirect.com/science/article/pii/S2095311921636195)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -31,7 +31,7 @@ tags: [ stress,stress response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RNK8](https://www.uniprot.org/uniprotkb/A0A3B6RNK8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

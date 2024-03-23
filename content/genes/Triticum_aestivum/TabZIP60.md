@@ -20,7 +20,7 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
    - **TabZIP60** has impact on the loss of leaf N during grain filling.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
    - [Reducing expression of a nitrate-responsive bZIP transcription factor increases grain yield and N use in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13103](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30811829](https://pubmed.ncbi.nlm.nih.gov/30811829/)
@@ -32,7 +32,7 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
 - **NCBI ID:**  [KJ806560.1](https://www.ncbi.nlm.nih.gov/gene/?term=KJ806560.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

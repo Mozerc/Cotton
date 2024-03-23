@@ -20,7 +20,7 @@ tags: [ resistance,zinc,acetyltransferase,powdery mildew,mildew resistance,milde
    - We demonstrate that TaHAG1 interacts directly with a plant-specific zinc-dependent protein **TaPLATZ5** to potentiate the expression of TaPAD4 by increasing the levels of histone acetylation.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[acetyltransferase](/tags/acetyltransferase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[acetyltransferase](/tags/acetyltransferase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Histone acetyltransferase TaHAG1 interacts with TaPLATZ5 to activate TaPAD4 expression and positively contributes to powdery mildew resistance in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18372)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18372](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18372)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35832009](https://pubmed.ncbi.nlm.nih.gov/35832009/)
@@ -32,7 +32,7 @@ tags: [ resistance,zinc,acetyltransferase,powdery mildew,mildew resistance,milde
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6DJ62](https://www.uniprot.org/uniprotkb/A0A3B6DJ62/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

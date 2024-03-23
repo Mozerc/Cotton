@@ -20,7 +20,7 @@ tags: [ development,flower,flower development ]
    - The Three WLHS1 Homoeologs Show a Differential Contribution to Flower Development in Hexaploid Wheat.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)
 
 ## Literature:
    - [Genetic and epigenetic alteration among three homoeologous genes of a class E MADS box gene in hexaploid wheat.]( https://academic.oup.com/plcell/article/19/6/1723/6092115?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.107.051813](https://academic.oup.com/plcell/article/19/6/1723/6092115?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17586655](https://pubmed.ncbi.nlm.nih.gov/17586655/)
@@ -32,7 +32,7 @@ tags: [ development,flower,flower development ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A7BJ58](https://www.uniprot.org/uniprotkb/A7BJ58/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

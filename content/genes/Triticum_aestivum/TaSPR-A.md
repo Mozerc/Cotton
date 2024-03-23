@@ -21,7 +21,7 @@ tags: [ seed,quality,ssp ]
    - Both TuSPR and TaSPR could be superior targets in genetic engineering to manipulate SSP content in wheat, and this work undoubtedly expands our knowledge of SSP gene regulation.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[ssp](/tags/ssp/)
+   - [seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[ssp](/tags/ssp/)
 
 ## Literature:
    - [A novel NAC family transcription factor SPR suppresses seed storage protein synthesis in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13524)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13524](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13524)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33305445](https://pubmed.ncbi.nlm.nih.gov/33305445/)
@@ -33,7 +33,7 @@ tags: [ seed,quality,ssp ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6U236](https://www.uniprot.org/uniprotkb/A0A3B6U236/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

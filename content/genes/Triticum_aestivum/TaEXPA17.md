@@ -19,7 +19,7 @@ tags: [ tiller,stress,cell wall,branching,tiller number ]
    - The transcriptome and transgene results demonstrated that EXP genes and their co-expressed cell wall-related genes played a central role in the new tiller formation after low light stress.
 
 ## Function-related keywords:
-[tiller](/tags/tiller/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)
+   - [tiller](/tags/tiller/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)
 
 ## Literature:
    - [Low light stress promotes new tiller regeneration by changing source-sink relationship and activating expression of expansin genes in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14548)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14548](https://onlinelibrary.wiley.com/doi/10.1111/pce.14548)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36695201](https://pubmed.ncbi.nlm.nih.gov/36695201/)
@@ -31,7 +31,7 @@ tags: [ tiller,stress,cell wall,branching,tiller number ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A1B1LIY8](https://www.uniprot.org/uniprotkb/A0A1B1LIY8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -21,7 +21,7 @@ tags: [ grain,grain size,resistance,ja,defense,immunity,innate immunity,grain we
    - Overexpression of **TaSTT3b-2B** increased grain size in transgenic wheat with R.cerealis infection.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[innate-immunity](/tags/innate-immunity/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[innate-immunity](/tags/innate-immunity/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
 
 ## Literature:
    - [Overexpression of TaSTT3b-2B improves resistance to sharp eyespot and increases grain weight in wheat.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13760](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873799](https://pubmed.ncbi.nlm.nih.gov/34873799/)
@@ -33,7 +33,7 @@ tags: [ grain,grain size,resistance,ja,defense,immunity,innate immunity,grain we
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6CGC5](https://www.uniprot.org/uniprotkb/A0A3B6CGC5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,auxin,stems,auxin r
    - The auxin response factor TaARF15 negatively regulates senescence in common wheat.
 
 ## Function-related keywords:
-[leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)
 
 ## Literature:
    - [The auxin response factor TaARF15-A1 negatively regulates senescence in common wheat (Triticum aestivum L.).]( https://academic.oup.com/plphys/article/191/2/1254/6772533?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac497](https://academic.oup.com/plphys/article/191/2/1254/6772533?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36282536](https://pubmed.ncbi.nlm.nih.gov/36282536/)
@@ -32,7 +32,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,auxin,stems,auxin r
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6PK25](https://www.uniprot.org/uniprotkb/A0A3B6PK25/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid ]
    - **TaSnRK1α−1A** Phosphorylated TaPAP6L‐2B and Improved the Protein Level of TaPAP6L‐2B In Vivo.
 
 ## Function-related keywords:
-[ja](/tags/ja/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)
+   - [ja](/tags/ja/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)
 
 ## Literature:
    - [A TaSnRK1α Modulates TaPAP6L-Mediated Wheat Cold Tolerance through Regulating Endogenous Jasmonic Acid.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625090/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/advs.202303478](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625090/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37740426](https://pubmed.ncbi.nlm.nih.gov/37740426/)
@@ -32,7 +32,7 @@ tags: [ ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5Y4P9](https://www.uniprot.org/uniprotkb/A0A3B5Y4P9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

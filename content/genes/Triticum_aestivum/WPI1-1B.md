@@ -19,7 +19,7 @@ tags: [ pi ]
    - In situ hybridization study revealed that the WPI1 gene is expressed in the primordia of lodicules and stamens in developing florets of wheat, indicating that WPI1 is a putative wheat ortholog of PI.
 
 ## Function-related keywords:
-[pi](/tags/pi/)
+   - [pi](/tags/pi/)
 
 ## Literature:
    - [Pistillody is caused by alterations to the class-B MADS-box gene expression pattern in alloplasmic wheats.]( https://link.springer.com/article/10.1007/s00425-003-1157-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-003-1157-6](https://link.springer.com/article/10.1007/s00425-003-1157-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[14652757](https://pubmed.ncbi.nlm.nih.gov/14652757/)
@@ -30,7 +30,7 @@ tags: [ pi ]
 - **NCBI ID:**  [AB107991](https://www.ncbi.nlm.nih.gov/gene/?term=AB107991)
 - **UniProt accessions:** [A0A3B5YZ70](https://www.uniprot.org/uniprotkb/A0A3B5YZ70/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

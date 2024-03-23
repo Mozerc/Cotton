@@ -20,7 +20,7 @@ tags: [ dwarf,height,plant height,spike,free-threshing,spike compactness ]
    - We proposed that a mutation within the miR172 target site in the 5Dq led to the dwarf and compact spike phenotype of the **Rht23** mutant.
 
 ## Function-related keywords:
-[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[spike](/tags/spike/)&nbsp;,&nbsp;[free-threshing](/tags/free-threshing/)&nbsp;,&nbsp;[spike-compactness](/tags/spike-compactness/)
+   - [dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[spike](/tags/spike/)&nbsp;,&nbsp;[free-threshing](/tags/free-threshing/)&nbsp;,&nbsp;[spike-compactness](/tags/spike-compactness/)
 
 ## Literature:
    - [Rht23 (5Dq&#x27;) likely encodes a Q homeologue with pleiotropic effects on plant height and spike compactness.]( https://link.springer.com/article/10.1007/s00122-018-3115-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-018-3115-5](https://link.springer.com/article/10.1007/s00122-018-3115-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29855673](https://pubmed.ncbi.nlm.nih.gov/29855673/)
@@ -32,7 +32,7 @@ tags: [ dwarf,height,plant height,spike,free-threshing,spike compactness ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [I2FGV8](https://www.uniprot.org/uniprotkb/I2FGV8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

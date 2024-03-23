@@ -21,7 +21,7 @@ tags: [ drought,tolerance,drought tolerance ]
    - By contrast, transgenic wheat plants with drought-induced **TaIPT8** showed increased drought tolerance. 
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
    - [Genomic analysis of isopentenyltransferase genes and functional characterization of TaIPT8 indicates positive effects of cytokinins on drought tolerance in wheat]( https://www.sciencedirect.com/science/article/pii/S2214514122000964)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.04.010](https://www.sciencedirect.com/science/article/pii/S2214514122000964)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6KS04](https://www.uniprot.org/uniprotkb/A0A3B6KS04/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ grain,grain number,inflorescence,architecture,inflorescence architecture
    - **DUO-D1** promotes grain number per spike.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [Improving bread wheat yield through modulating an unselected AP2/ERF gene.]( https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01197-9](https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851621](https://pubmed.ncbi.nlm.nih.gov/35851621/)
@@ -30,7 +30,7 @@ tags: [ grain,grain number,inflorescence,architecture,inflorescence architecture
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5ZYF2](https://www.uniprot.org/uniprotkb/A0A3B5ZYF2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

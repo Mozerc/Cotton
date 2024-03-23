@@ -21,7 +21,7 @@ tags: [ stress,stress response ]
    - **TaBOX** mutant showed lower PDW than the WT under LN conditions indicates that **TaBOX** positively regulates NUE under LN conditions.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
    - [Genome-wide association study of seedling nitrogen-use efficiency-associated traits in common wheat (Triticum aestivum L.)]( https://www.sciencedirect.com/science/article/pii/S2214514123001514)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.10.014](https://www.sciencedirect.com/science/article/pii/S2214514123001514)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -33,7 +33,7 @@ tags: [ stress,stress response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6J0N6](https://www.uniprot.org/uniprotkb/A0A3B6J0N6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

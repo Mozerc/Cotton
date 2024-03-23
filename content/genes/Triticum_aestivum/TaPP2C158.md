@@ -19,7 +19,7 @@ tags: [ drought,aba,phosphatase,protein phosphatase,drought response ]
    - Protein phosphatase 2C (**TaPP2C158**) with enhanced protein phosphatase activity.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [DIW1 encoding a clade I PP2C phosphatase negatively regulates drought tolerance by de-phosphorylating TaSnRK1.1 in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13504)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13504](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13504)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37158049](https://pubmed.ncbi.nlm.nih.gov/37158049/)
@@ -31,7 +31,7 @@ tags: [ drought,aba,phosphatase,protein phosphatase,drought response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

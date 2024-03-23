@@ -20,7 +20,7 @@ tags: [ development,grain,nucleus,transcriptional activator ]
    - Haplotype association showed that **TaABI19-B1** is significantly associated with TGW.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
 
 ## Literature:
    - [TaABI19 positively regulates grain development in wheat]( https://www.sciencedirect.com/science/article/pii/S2095311922001277)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.08.049](https://www.sciencedirect.com/science/article/pii/S2095311922001277)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ development,grain,nucleus,transcriptional activator ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [O04168](https://www.uniprot.org/uniprotkb/O04168/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

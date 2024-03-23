@@ -20,7 +20,7 @@ tags: [ transporter,sugar,sucrose,sucrose transporter,rust ]
    - The Pst-induced sugar transporter TaSTP3 is transcriptionally activated by TaWRKY19/61/82 and facilitates wheat susceptibility to stripe rust possibly through elevated sucrose concentration.
 
 ## Function-related keywords:
-[transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Sugar transporter TaSTP3 activation by TaWRKY19/61/82 enhances stripe rust susceptibility in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18331](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35729085](https://pubmed.ncbi.nlm.nih.gov/35729085/)
@@ -32,7 +32,7 @@ tags: [ transporter,sugar,sucrose,sucrose transporter,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RJQ2](https://www.uniprot.org/uniprotkb/A0A3B6RJQ2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

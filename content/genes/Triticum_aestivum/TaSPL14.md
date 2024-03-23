@@ -19,7 +19,7 @@ tags: [ root,development,root development ]
    - The SQUAMOSA PROMOTER BINDING PROTEIN-LIKE 9 (SPL9) homolog **TaSPL14** was identified to be key regulator in several vasculature cell types, including protoxylem (cluster 13), protophloem (cluster 16), and companion cells (cluster 21).
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)
 
 ## Literature:
    - [Asymmetric gene expression and cell-type-specific regulatory networks in the root of bread wheat revealed by single-cell multiomics analysis.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02908-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-023-02908-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02908-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37016448](https://pubmed.ncbi.nlm.nih.gov/37016448/)
@@ -31,7 +31,7 @@ tags: [ root,development,root development ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6JJR7](https://www.uniprot.org/uniprotkb/A0A3B6JJR7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

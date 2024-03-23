@@ -22,7 +22,7 @@ tags: [ grain,grain length,auxin,grain yield,yield,auxin response,height,plant h
    - The regulatory mechanisms of TaARF12 in reducing plant height but making larger spikes when mutated.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[peduncle](/tags/peduncle/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[peduncle](/tags/peduncle/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [Grain yield improvement by genome editing of TaARF12 that decoupled peduncle and rachis development trajectories via differential regulation of gibberellin signalling in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14107)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14107](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14107)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37589238](https://pubmed.ncbi.nlm.nih.gov/37589238/)
@@ -34,7 +34,7 @@ tags: [ grain,grain length,auxin,grain yield,yield,auxin response,height,plant h
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6DNJ0](https://www.uniprot.org/uniprotkb/A0A3B6DNJ0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

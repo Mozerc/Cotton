@@ -19,7 +19,7 @@ tags: [ growth,grain,resistance,grain yield,yield,transporter,plant growth,heigh
    - The reduced plant height and grain yield losses caused by the mlo triple knockout were also rescued by **TaTMT3B** overexpression without compromising powdery mildew resistance.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
    - [Genome-edited powdery mildew resistance in wheat without growth penalties.]( https://www.nature.com/articles/s41586-022-04395-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41586-022-04395-9](https://www.nature.com/articles/s41586-022-04395-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35140403](https://pubmed.ncbi.nlm.nih.gov/35140403/)
@@ -30,7 +30,7 @@ tags: [ growth,grain,resistance,grain yield,yield,transporter,plant growth,heigh
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6IY11](https://www.uniprot.org/uniprotkb/A0A3B6IY11/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

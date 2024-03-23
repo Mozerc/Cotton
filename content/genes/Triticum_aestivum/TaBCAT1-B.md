@@ -21,7 +21,7 @@ tags: [ stem,defense,sa,rust ]
    - TaBCAT1 mutant lines have constitutively high levels of SA and PR gene expression.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [stem](/tags/stem/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [The branched-chain amino acid aminotransferase TaBCAT1 modulates amino acid metabolism and positively regulates wheat rust susceptibility.]( https://academic.oup.com/plcell/article/33/5/1728/6132265?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab049](https://academic.oup.com/plcell/article/33/5/1728/6132265?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33565586](https://pubmed.ncbi.nlm.nih.gov/33565586/)
@@ -33,7 +33,7 @@ tags: [ stem,defense,sa,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6IV24](https://www.uniprot.org/uniprotkb/A0A3B6IV24/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

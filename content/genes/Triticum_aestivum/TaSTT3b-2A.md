@@ -19,7 +19,7 @@ tags: [ grain,resistance,defense response,defense,grain weight,immune response ]
    - TaSTT3a and TaSTT3b, two STT3 subunit genes from wheat and reported their functional roles in wheat defense against R.cerealis and increasing grain weight.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[immune-response](/tags/immune-response/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[immune-response](/tags/immune-response/)
 
 ## Literature:
    - [Overexpression of TaSTT3b-2B improves resistance to sharp eyespot and increases grain weight in wheat.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13760](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873799](https://pubmed.ncbi.nlm.nih.gov/34873799/)
@@ -31,7 +31,7 @@ tags: [ grain,resistance,defense response,defense,grain weight,immune response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6B8R2](https://www.uniprot.org/uniprotkb/A0A3B6B8R2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

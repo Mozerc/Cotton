@@ -19,7 +19,7 @@ tags: [ resistance,blight ]
    - Horizontal gene transfer of **Fhb7** from fungus underlies Fusarium head blight resistance in wheat.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[blight](/tags/blight/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[blight](/tags/blight/)
 
 ## Literature:
    - [Horizontal gene transfer of Fhb7 from fungus underlies Fusarium head blight resistance in wheat.]( https://www.science.org/doi/10.1126/science.aba5435?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.aba5435](https://www.science.org/doi/10.1126/science.aba5435?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32273397](https://pubmed.ncbi.nlm.nih.gov/32273397/)
@@ -31,7 +31,7 @@ tags: [ resistance,blight ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

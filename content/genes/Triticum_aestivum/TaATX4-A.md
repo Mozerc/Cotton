@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,tolerance,aba,drought tolerance,stress tol
    - The simultaneous triple knockout (KO) of all three TaATX4 homoeologs in wheat to observe the effects on drought tolerance.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Improvement of wheat drought tolerance through editing of TaATX4 by CRISPR/Cas9.]( https://www.sciencedirect.com/science/article/pii/S1673852723002096?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.10.001](https://www.sciencedirect.com/science/article/pii/S1673852723002096?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37820936](https://pubmed.ncbi.nlm.nih.gov/37820936/)
@@ -33,7 +33,7 @@ tags: [ drought,stress,drought stress,tolerance,aba,drought tolerance,stress tol
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6ECV7](https://www.uniprot.org/uniprotkb/A0A3B6ECV7/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,7 +22,7 @@ tags: [ root,development,root development,root elongation ]
    - TaVSR1-B regulates root depth by influencing the ratio of elongation zone to differentiated zone.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)
 
 ## Literature:
    - [A transposon in the vacuolar sorting receptor gene TaVSR1-B promoter region is associated with wheat root depth at booting stage.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13564)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13564](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13564)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33555662](https://pubmed.ncbi.nlm.nih.gov/33555662/)
@@ -33,7 +33,7 @@ tags: [ root,development,root development,root elongation ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6ATJ8](https://www.uniprot.org/uniprotkb/A0A3B6ATJ8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

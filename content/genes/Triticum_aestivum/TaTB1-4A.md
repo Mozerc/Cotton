@@ -21,7 +21,7 @@ tags: [ development,spikelet,tiller,inflorescence,architecture,inflorescence arc
    - We have shown that increased dosage of TB1 promotes inflorescence branching in the form of paired spikelets and that allelic diversity for TB1 is associated with spikelet architecture traits in modern wheat cultivars.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[tillers](/tags/tillers/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[tillers](/tags/tillers/)
 
 ## Literature:
    - [TEOSINTE BRANCHED1 Regulates Inflorescence Architecture and Development in Bread Wheat (Triticum aestivum).]( https://academic.oup.com/plcell/article/30/3/563/6099252?login=true#supplementary-data)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00961](https://academic.oup.com/plcell/article/30/3/563/6099252?login=true#supplementary-data)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29444813](https://pubmed.ncbi.nlm.nih.gov/29444813/)
@@ -32,7 +32,7 @@ tags: [ development,spikelet,tiller,inflorescence,architecture,inflorescence arc
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6I0T6](https://www.uniprot.org/uniprotkb/A0A3B6I0T6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

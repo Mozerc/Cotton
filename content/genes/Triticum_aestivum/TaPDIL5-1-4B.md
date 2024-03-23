@@ -21,7 +21,7 @@ tags: [ resistance ]
    - Since loss of the TaPDIL5-1 homoeoalleles did not affect agronomic performance, the simultaneous knockout of all three copies of this susceptibility factor gene can be used to improve virus resistance in wheat.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)
+   - [resistance](/tags/resistance/)
 
 ## Literature:
    - [Simultaneous editing of host factor gene TaPDIL5-1 homoeoalleles confers wheat yellow mosaic virus resistance in hexaploid wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18002)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18002](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18002)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35092005](https://pubmed.ncbi.nlm.nih.gov/35092005/)
@@ -33,7 +33,7 @@ tags: [ resistance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [D8L9A6](https://www.uniprot.org/uniprotkb/D8L9A6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

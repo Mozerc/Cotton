@@ -20,7 +20,7 @@ tags: [ grain,grain length,floral,floral organ,spike ]
    - Transgenic lines of hexaploid wheat carrying the T. polonicum **VRT-A2** allele show that expression levels of **VRT-A2** are highly correlated with spike, glume, grain, and floral organ length.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [Ectopic expression of Triticum polonicum VRT-A2 underlies elongated glumes and grains in hexaploid wheat in a dosage-dependent manner.]( https://academic.oup.com/plcell/article/33/7/2296/6261941?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab119](https://academic.oup.com/plcell/article/33/7/2296/6261941?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34009390](https://pubmed.ncbi.nlm.nih.gov/34009390/)
@@ -31,7 +31,7 @@ tags: [ grain,grain length,floral,floral organ,spike ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A9J209](https://www.uniprot.org/uniprotkb/A9J209/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

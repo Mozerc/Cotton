@@ -19,7 +19,7 @@ tags: [ seed,seed germination,tolerance,aba,embryo,dormancy,seed dormancy,aba se
    - A 4 bp InDel in the Promoter of Wheat Gene TaAFP-B Affecting Seed Dormancy Confirmed in Transgenic Rice.
 
 ## Function-related keywords:
-[seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[dormancy](/tags/dormancy/)&nbsp;,&nbsp;[seed-dormancy](/tags/seed-dormancy/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
+   - [seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[dormancy](/tags/dormancy/)&nbsp;,&nbsp;[seed-dormancy](/tags/seed-dormancy/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
    - [A 4 bp InDel in the Promoter of Wheat Gene TaAFP-B Affecting Seed Dormancy Confirmed in Transgenic Rice.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.837805/full#F4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.837805](https://www.frontiersin.org/articles/10.3389/fpls.2022.837805/full#F4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35432414](https://pubmed.ncbi.nlm.nih.gov/35432414/)
@@ -30,7 +30,7 @@ tags: [ seed,seed germination,tolerance,aba,embryo,dormancy,seed dormancy,aba se
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A1D5V1Z5](https://www.uniprot.org/uniprotkb/A0A1D5V1Z5/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

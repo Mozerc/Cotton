@@ -19,7 +19,7 @@ tags: [ tillering,grain,grain yield,yield,architecture,plant architecture ]
    - Suggesting that TaCOL might regulate multiple agronomic traits through its different domains.
 
 ## Function-related keywords:
-[tillering](/tags/tillering/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+   - [tillering](/tags/tillering/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
    - [TaCol-B5 modifies spike architecture and enhances grain yield in wheat.]( https://www.science.org/doi/10.1126/science.abm0717?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.abm0717](https://www.science.org/doi/10.1126/science.abm0717?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35389775](https://pubmed.ncbi.nlm.nih.gov/35389775/)
@@ -30,7 +30,7 @@ tags: [ tillering,grain,grain yield,yield,architecture,plant architecture ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

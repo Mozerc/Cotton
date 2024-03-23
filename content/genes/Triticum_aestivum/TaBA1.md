@@ -21,7 +21,7 @@ tags: [ development,transcription regulator,spike ]
    - TaGAMYB3 interacts with **TaBA1** to additively activate TaMADS5 transcription during wheat spike development.
 
 ## Function-related keywords:
-[development](/tags/development/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [The miR319/TaGAMYB3 module regulates plant architecture and improves grain yield in common wheat (Triticum aestivum).]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18216)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18216](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18216)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35538666](https://pubmed.ncbi.nlm.nih.gov/35538666/)
@@ -33,7 +33,7 @@ tags: [ development,transcription regulator,spike ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6H0X2](https://www.uniprot.org/uniprotkb/A0A3B6H0X2/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

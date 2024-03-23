@@ -19,7 +19,7 @@ tags: [ heading date,photoperiod ]
    - TaZIM-A1 and TaZIM-B1 haplotypes might have experienced positive selection, globally, contingent upon local environmental conditions.
 
 ## Function-related keywords:
-[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [heading-date](/tags/heading-date/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
    - [TaZIM-A1 negatively regulates flowering time in common wheat (Triticum aestivum L.).]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12720 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30226297](https://pubmed.ncbi.nlm.nih.gov/30226297/)
@@ -30,7 +30,7 @@ tags: [ heading date,photoperiod ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6TJC9](https://www.uniprot.org/uniprotkb/A0A3B6TJC9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

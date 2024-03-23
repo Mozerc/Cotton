@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
    - The **TaVQ4-D** protein physically interacts with two mitogen-activated protein kinases (MPK3 and MPK6) and plays a role in plant drought stress as the phosphorylated substrates of MPK3 and MPK6.
 
 ## Function-related keywords:
-[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
 
 ## Literature:
    - [The wheat VQ motif-containing protein TaVQ4-D positively regulates drought tolerance in transgenic plants.]( https://academic.oup.com/jxb/article/74/18/5591/7227005?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad280](https://academic.oup.com/jxb/article/74/18/5591/7227005?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37471263](https://pubmed.ncbi.nlm.nih.gov/37471263/)
@@ -33,7 +33,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5ZYR6](https://www.uniprot.org/uniprotkb/A0A3B5ZYR6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

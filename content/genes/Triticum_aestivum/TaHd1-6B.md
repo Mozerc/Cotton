@@ -20,7 +20,7 @@ tags: [ photoperiod response,photoperiod ]
    - It is a question whether wheat itself displays bifunctional responses under different photoperiod conditions, although TaHd1 exhibited diurnal oscillation pattern of expression in the wheat background.
 
 ## Function-related keywords:
-[photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
    - [Characterization and functional analysis of three wheat genes with homology to the CONSTANS flowering time gene in transgenic rice.]( https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-313X.2003.01859.x?sid=nlm%3Apubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1046/j.1365-313X.2003.01859.x](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-313X.2003.01859.x?sid=nlm%3Apubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12974813](https://pubmed.ncbi.nlm.nih.gov/12974813/)
@@ -31,7 +31,7 @@ tags: [ photoperiod response,photoperiod ]
 - **NCBI ID:**  [AB094488](https://www.ncbi.nlm.nih.gov/gene/?term=AB094488)
 - **UniProt accessions:** [Q76K64](https://www.uniprot.org/uniprotkb/Q76K64/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

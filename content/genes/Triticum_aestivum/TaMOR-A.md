@@ -21,7 +21,7 @@ tags: [ root,grain,auxin,panicle,grain number,grain yield,yield,crown root initi
    - Auxin signalling regulates TaMOR expression in wheat.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[panicle](/tags/panicle/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[crown-root-initiation](/tags/crown-root-initiation/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[higher-yield-rice](/tags/higher-yield-rice/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[panicle](/tags/panicle/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[crown-root-initiation](/tags/crown-root-initiation/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[crown-root](/tags/crown-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[higher-yield-rice](/tags/higher-yield-rice/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
    - [Overexpression of wheat gene TaMOR improves root system architecture and grain yield in Oryza sativa.]( https://academic.oup.com/jxb/article/67/14/4155/2197669?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erw193](https://academic.oup.com/jxb/article/67/14/4155/2197669?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27229732](https://pubmed.ncbi.nlm.nih.gov/27229732/)
@@ -34,7 +34,7 @@ tags: [ root,grain,auxin,panicle,grain number,grain yield,yield,crown root initi
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6I4J3](https://www.uniprot.org/uniprotkb/A0A3B6I4J3/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -20,7 +20,7 @@ tags: [ resistance,oxidative,defence,rust resistance,rust ]
    - Oxidative burst, which is important in the process of plant defence, was observed in TaRLK1, TaRLK2, RLK-V and LecRK-V mediated wheat defence to Bgt infection.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Efficient expression and function of a receptor-like kinase in wheat powdery mildew defence require an intron-located MYB binding site.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13512)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13512](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13512)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33225586](https://pubmed.ncbi.nlm.nih.gov/33225586/)
@@ -32,7 +32,7 @@ tags: [ resistance,oxidative,defence,rust resistance,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5ZMK0](https://www.uniprot.org/uniprotkb/A0A3B5ZMK0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

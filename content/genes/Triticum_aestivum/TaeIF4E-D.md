@@ -21,7 +21,7 @@ tags: [ resistance,yield,height,plant height,viral resistance,protein translatio
    - The simultaneous targeting of the three TaeIF4E homoeoalleles resulted in pleiotropic changes in plant height and heading/maturity, but without yield penalty.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[viral-resistance](/tags/viral-resistance/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[viral-resistance](/tags/viral-resistance/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
 
 ## Literature:
    - [CRISPR/Cas9-guided knockout of eIF4E improves Wheat yellow mosaic virus resistance without yield penalty.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14002)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14002](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14002)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36628413](https://pubmed.ncbi.nlm.nih.gov/36628413/)
@@ -33,7 +33,7 @@ tags: [ resistance,yield,height,plant height,viral resistance,protein translatio
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [P29557](https://www.uniprot.org/uniprotkb/P29557/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

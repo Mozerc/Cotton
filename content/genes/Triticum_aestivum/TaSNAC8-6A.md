@@ -21,7 +21,7 @@ tags: [ seedlings,auxin,drought,seedling,tolerance,drought tolerance ]
    - Overexpression of **TaSNAC8-6A** confers seedling drought tolerance.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+   - [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
    - [Regulatory changes in TaSNAC8-6A are associated with drought tolerance in wheat seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13277)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13277](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13277)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31617659](https://pubmed.ncbi.nlm.nih.gov/31617659/)
@@ -33,7 +33,7 @@ tags: [ seedlings,auxin,drought,seedling,tolerance,drought tolerance ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6NLQ4](https://www.uniprot.org/uniprotkb/A0A3B6NLQ4/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

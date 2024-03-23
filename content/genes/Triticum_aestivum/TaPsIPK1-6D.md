@@ -23,7 +23,7 @@ tags: [ growth,kinase,resistance,yield,immunity,rust resistance,rust ]
    - **TaPsIPK1** is an ideal target for engineering broad-spectrum resistance to one of the most damaging diseases in wheat.
 
 ## Function-related keywords:
-[growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Inactivation of a wheat protein kinase gene confers broad-spectrum resistance to rust fungi.]( https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cell.2022.06.027](https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35839760](https://pubmed.ncbi.nlm.nih.gov/35839760/)
@@ -35,7 +35,7 @@ tags: [ growth,kinase,resistance,yield,immunity,rust resistance,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6QF07](https://www.uniprot.org/uniprotkb/A0A3B6QF07/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

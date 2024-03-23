@@ -19,7 +19,7 @@ tags: [ aba,aba biosynthesis ]
    - Two genes related to ABA biosynthesis, TaNCED1 and TaNCED2, have been characterized in wheat.
 
 ## Function-related keywords:
-[aba](/tags/aba/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)
+   - [aba](/tags/aba/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)
 
 ## Literature:
    - [TaFDL2-1A confers drought stress tolerance by promoting ABA biosynthesis, ABA responses, and ROS scavenging in transgenic wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15975)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15975](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15975)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36097863](https://pubmed.ncbi.nlm.nih.gov/36097863/)
@@ -31,7 +31,7 @@ tags: [ aba,aba biosynthesis ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A1B3B582](https://www.uniprot.org/uniprotkb/A0A1B3B582/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

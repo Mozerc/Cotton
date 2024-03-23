@@ -21,7 +21,7 @@ tags: [ seedlings,growth,drought,stress,drought stress,tolerance,drought toleran
    - Overexpression of TaSHN1 increased survival of transgenic seedlings following severe drought.
 
 ## Function-related keywords:
-[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)
+   - [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[biomass](/tags/biomass/)&nbsp;,&nbsp;[stomatal-density](/tags/stomatal-density/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)
 
 ## Literature:
    - [Overexpression of the TaSHN1 transcription factor in bread wheat leads to leaf surface modifications, improved drought tolerance, and no yield penalty under controlled growth conditions.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13339)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13339](https://onlinelibrary.wiley.com/doi/10.1111/pce.13339)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29761511](https://pubmed.ncbi.nlm.nih.gov/29761511/)
@@ -32,7 +32,7 @@ tags: [ seedlings,growth,drought,stress,drought stress,tolerance,drought toleran
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6NQ08](https://www.uniprot.org/uniprotkb/A0A3B6NQ08/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

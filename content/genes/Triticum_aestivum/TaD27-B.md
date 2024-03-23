@@ -22,7 +22,7 @@ tags: [ auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth,tille
    - **TaD27-B** gene controls the tiller number in hexaploid wheat.
 
 ## Function-related keywords:
-[auxin](/tags/auxin/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)&nbsp;,&nbsp;[tillers](/tags/tillers/)
+   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)&nbsp;,&nbsp;[tillers](/tags/tillers/)
 
 ## Literature:
    - [TaD27-B gene controls the tiller number in hexaploid wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13220)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13220](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13220)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31350929](https://pubmed.ncbi.nlm.nih.gov/31350929/)
@@ -34,7 +34,7 @@ tags: [ auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth,tille
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6SKX6](https://www.uniprot.org/uniprotkb/A0A3B6SKX6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

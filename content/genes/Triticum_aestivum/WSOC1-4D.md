@@ -21,7 +21,7 @@ tags: [ seedling leaves,seedling,gibberellin,flowering,vernalization,photoperiod
    - These findings indicate that **WSOC1** acts in a pathway different from the WAP1-related vernalization and photoperiod pathways.
 
 ## Function-related keywords:
-[seedling-leaves](/tags/seedling-leaves/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [seedling-leaves](/tags/seedling-leaves/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
    - [Wheat SOC1 functions independently of WAP1/VRN1, an integrator of vernalization and photoperiod flowering promotion pathways]( https://onlinelibrary.wiley.com/doi/full/10.1111/j.1399-3054.2007.00927.x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1399-3054.2007.00927.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1399-3054.2007.00927.x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
@@ -32,7 +32,7 @@ tags: [ seedling leaves,seedling,gibberellin,flowering,vernalization,photoperiod
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A4UXS0](https://www.uniprot.org/uniprotkb/A4UXS0/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

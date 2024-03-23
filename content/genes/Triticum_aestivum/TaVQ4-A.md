@@ -19,7 +19,7 @@ tags: [ stress,abiotic stress,stress response,abiotic stress response ]
    - Our results provide more evidence for the further study of VQ protein family members involved in abiotic stress in wheat.
 
 ## Function-related keywords:
-[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
    - [The wheat VQ motif-containing protein TaVQ4-D positively regulates drought tolerance in transgenic plants.]( https://academic.oup.com/jxb/article/74/18/5591/7227005?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad280](https://academic.oup.com/jxb/article/74/18/5591/7227005?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37471263](https://pubmed.ncbi.nlm.nih.gov/37471263/)
@@ -31,7 +31,7 @@ tags: [ stress,abiotic stress,stress response,abiotic stress response ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5Y4R6](https://www.uniprot.org/uniprotkb/A0A3B5Y4R6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

@@ -19,7 +19,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,aba,drought tolerance
    - **TaFDL2-1A** in ABA biosynthesis, ABA responses, and ROS scavenging lead to increased drought stress resistance in transgenic wheat.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
    - [TaFDL2-1A confers drought stress tolerance by promoting ABA biosynthesis, ABA responses, and ROS scavenging in transgenic wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15975)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15975](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15975)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36097863](https://pubmed.ncbi.nlm.nih.gov/36097863/)
@@ -31,7 +31,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,aba,drought tolerance
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B5Y3P1](https://www.uniprot.org/uniprotkb/A0A3B5Y3P1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

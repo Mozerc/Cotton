@@ -21,7 +21,7 @@ tags: [ resistance,defense,transporter,sugar,sucrose,sugar transport,as transpor
    - The Pst-induced sugar transporter **TaSTP3** is transcriptionally activated by TaWRKY19/61/82 and facilitates wheat susceptibility to stripe rust possibly through elevated sucrose concentration, and suggest **TaSTP3** as a strong target for engineering wheat resistance to stripe rust.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [Sugar transporter TaSTP3 activation by TaWRKY19/61/82 enhances stripe rust susceptibility in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18331](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35729085](https://pubmed.ncbi.nlm.nih.gov/35729085/)
@@ -33,7 +33,7 @@ tags: [ resistance,defense,transporter,sugar,sucrose,sugar transport,as transpor
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6C605](https://www.uniprot.org/uniprotkb/A0A3B6C605/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

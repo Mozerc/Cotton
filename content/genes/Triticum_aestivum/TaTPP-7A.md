@@ -21,7 +21,7 @@ tags: [ temperature,development,grain,domestication,starch,grain quality,quality
    - **TaTPP-7A** enhances starch synthesis and grain filling mainly through T6P-SnRK1 pathway and sugar–ABA interaction.
 
 ## Function-related keywords:
-[temperature](/tags/temperature/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
+   - [temperature](/tags/temperature/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
 
 ## Literature:
    - [TaTPP-7A positively feedback regulates grain filling and wheat grain yield through T6P-SnRK1 signalling pathway and sugar-ABA interaction.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14025](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14025)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36752567](https://pubmed.ncbi.nlm.nih.gov/36752567/)
@@ -33,7 +33,7 @@ tags: [ temperature,development,grain,domestication,starch,grain quality,quality
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6RFQ9](https://www.uniprot.org/uniprotkb/A0A3B6RFQ9/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

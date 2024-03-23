@@ -21,7 +21,7 @@ tags: [ resistance,calcium ]
    - TaCam3 might be the target for TaBln1 in the wheat response to Pst infection. Our results provide insights that may lead to improved understanding of the roles of susceptibility factors in plant resistance.
 
 ## Function-related keywords:
-[resistance](/tags/resistance/)&nbsp;,&nbsp;[calcium](/tags/calcium/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[calcium](/tags/calcium/)
 
 ## Literature:
    - [TaBln1, a member of the Blufensin family, negatively regulates wheat resistance to stripe rust by reducing Ca2+ influx.]( https://academic.oup.com/plphys/article/189/3/1380/6548166?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac112](https://academic.oup.com/plphys/article/189/3/1380/6548166?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35285499](https://pubmed.ncbi.nlm.nih.gov/35285499/)
@@ -33,7 +33,7 @@ tags: [ resistance,calcium ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [W5EIR1](https://www.uniprot.org/uniprotkb/W5EIR1/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

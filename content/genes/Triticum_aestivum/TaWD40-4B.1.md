@@ -20,7 +20,7 @@ tags: [ grain,grain length,drought,grain yield,tolerance,yield,drought tolerance
    -  The full-length allele **TaWD40-4B.1**C but not the truncated allele **TaWD40-4B.1**T possessing a nonsense nucleotide variation enhances drought tolerance and grain yield of wheat under drought.
 
 ## Function-related keywords:
-[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[catalase](/tags/catalase/)
+   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[catalase](/tags/catalase/)
 
 ## Literature:
    - [Allelic variation of TaWD40-4B.1 contributes to drought tolerance by modulating catalase activity in wheat.]( https://www.nature.com/articles/s41467-023-36901-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-36901-6](https://www.nature.com/articles/s41467-023-36901-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36864053](https://pubmed.ncbi.nlm.nih.gov/36864053/)
@@ -32,7 +32,7 @@ tags: [ grain,grain length,drought,grain yield,tolerance,yield,drought tolerance
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6IPQ6](https://www.uniprot.org/uniprotkb/A0A3B6IPQ6/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

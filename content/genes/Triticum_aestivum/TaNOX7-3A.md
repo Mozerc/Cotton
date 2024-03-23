@@ -20,7 +20,7 @@ tags: [ root,growth,development,plant development,fertility,drought,tolerance,yi
    - Further results indicate that TaCDPK13, a member of calcium-dependent protein kinases (CDPKs), can directly interact with TaNOX7 and enhance ROS production in plants.
 
 ## Function-related keywords:
-[root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[higher-yield-rice](/tags/higher-yield-rice/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[higher-yield-rice](/tags/higher-yield-rice/)
 
 ## Literature:
    - [Interaction between TaNOX7 and TaCDPK13 Contributes to Plant Fertility and Drought Tolerance by Regulating ROS Production.]( https://pubs.acs.org/doi/10.1021/acs.jafc.0c02146)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1021/acs.jafc.0c02146](https://pubs.acs.org/doi/10.1021/acs.jafc.0c02146)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32551586](https://pubmed.ncbi.nlm.nih.gov/32551586/)
@@ -32,7 +32,7 @@ tags: [ root,growth,development,plant development,fertility,drought,tolerance,yi
 - **NCBI ID:**  [AK334324](https://www.ncbi.nlm.nih.gov/gene/?term=AK334324)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**

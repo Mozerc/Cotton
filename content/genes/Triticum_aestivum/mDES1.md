@@ -21,7 +21,7 @@ tags: [ stem,disease,cell division,cell death,pcd,rust ]
    - The point mutation in **mDES1** did not cause changes in this protein in the oligomeric state, but **mDES1** failed to interact with replication protein A leading to abnormal mitotic cell division.
 
 ## Function-related keywords:
-[stem](/tags/stem/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[pcd](/tags/pcd/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [stem](/tags/stem/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[pcd](/tags/pcd/)&nbsp;,&nbsp;[rust](/tags/rust/)
 
 ## Literature:
    - [A semi-dominant NLR allele causes whole-seedling necrosis in wheat.]( https://academic.oup.com/plphys/article/186/1/483/6134101?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab058 ](https://academic.oup.com/plphys/article/186/1/483/6134101?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33576803](https://pubmed.ncbi.nlm.nih.gov/33576803/)
@@ -32,7 +32,7 @@ tags: [ stem,disease,cell division,cell death,pcd,rust ]
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A3B6H5B8](https://www.uniprot.org/uniprotkb/A0A3B6H5B8/entry)
 
-## Orthologs:
+
 
 ## Sequences:
 - **CDS Sequence:**
