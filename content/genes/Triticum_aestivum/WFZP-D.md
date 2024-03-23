@@ -3,19 +3,25 @@ description: TraesCS2D01G118200 ; Triticum aestivum
 meta_title:
 title: WFZP-D
 categories: [Triticum aestivum]
-tags: [ spikelet,awn ]
+tags: [ development,spikelet,awn,yield,breeding,spikelet development ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS2D01G118200]()
+- **Gene ID:**	[TraesCS2D01G118200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2D01G118200)
 - **Gene Symbol:** WFZP-D
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
+## Functional Descriptions:
    - WFZP-A/D were critically required for not only the repression of spikelet formation, but also for the promotion of awn elongation, in a dose-dependent manner.
-   -  wfzp-a/d mutants highlighted the essential role of WFZP in awn elongation
+   - WFZP-A/D mutants highlighted the essential role of WFZP in awn elongation.
+   - That the null mutation in WFZP-A together with deletion of **WFZP-D** led to the TRS trait in Zang734.
+   - WFZP plays a dual role in simultaneously repressing spikelet formation gene TaBA1 and activating awn development genes, basically through the recruitments of chromatin remodelling elements and the Mediator complex.
+   - WFZP suppresses spikelet formation but promotes awn elongation and, more importantly, define **WFZP-D** as a favourable gene for high-yield crop breeding.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[awn](/tags/awn/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
 
 ## Literature:
    - [FRIZZY PANICLE defines a regulatory hub for simultaneously controlling spikelet formation and awn elongation in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17388](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33837555](https://pubmed.ncbi.nlm.nih.gov/33837555/)
@@ -26,13 +32,10 @@ tags: [ spikelet,awn ]
    - [PBJ | 遗传发育所/作物所等单位合作解析FRIZZY PANICLE在小麦中的功能- 该基因为控制小麦产量的重要基因！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247502581&idx=1&sn=566fa6f2f4c15964ad35d44f54f875ac&chksm=ce9067a0f9e7eeb631c7636636ce5a90cd9d4b4f3ef5f68c53212ed814230e8bb3ee8786c31d&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A0A7TVL8](https://www.uniprot.org/uniprotkb/A0A0A7TVL8/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-spikelet,awn
 
 ## Sequences:
 - **CDS Sequence:**

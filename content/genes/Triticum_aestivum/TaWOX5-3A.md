@@ -3,18 +3,26 @@ description: TraesCS3A02G368100 ; Triticum aestivum
 meta_title:
 title: TaWOX5-3A
 categories: [Triticum aestivum]
-tags: [ root,development,shoot,root development,calli ]
+tags: [ root,development,shoot,root development,embryo,embryo development,calli ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS3A02G368100]()
+- **Gene ID:**	[TraesCS3A02G368100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G368100)
 - **Gene Symbol:** TaWOX5-3A
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
+## Functional Descriptions:
    - The expression of TaWOX5 in wheat calli prohibited neither shoot differentiation nor root development.
+   - The gene TaWOX5 overcomes genotype dependency in wheat genetic transformation.
+   - Overexpression of the wheat gene TaWOX5 from the WUSCHEL family dramatically increases transformation efficiency with less genotype dependency than other methods.
+   - The expression of TaWOX5 in wheat calli prohibited neither shoot differentiation nor root development. 
+   - Application of TaWOX5 improved wheat immature embryo transformation and regeneration.
+   - The use of TaWOX5 in improvement of transformation efficiency also showed promising results in Triticum monococcum, triticale, rye, barley and maize.
+
+## Function-related keywords:
+[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[calli](/tags/calli/)
 
 ## Literature:
    - [The gene TaWOX5 overcomes genotype dependency in wheat genetic transformation.]( https://www.nature.com/articles/s41477-021-01085-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-021-01085-8](https://www.nature.com/articles/s41477-021-01085-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35027699](https://pubmed.ncbi.nlm.nih.gov/35027699/)
@@ -22,13 +30,10 @@ tags: [ root,development,shoot,root development,calli ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [T1WFN3](https://www.uniprot.org/uniprotkb/T1WFN3/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-root,development,shoot,root development,calli
 
 ## Sequences:
 - **CDS Sequence:**

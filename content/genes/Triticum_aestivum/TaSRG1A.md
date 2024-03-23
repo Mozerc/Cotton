@@ -3,19 +3,24 @@ description: TraesCS7A02G140500 ; Triticum aestivum
 meta_title:
 title: TaSRG1A
 categories: [Triticum aestivum]
-tags: [ cadmium,cadmium accumulation ]
+tags: [ resistance,stress,tolerance,stress tolerance,cell death,cadmium,cadmium accumulation,stress response,programmed cell death,cadmium tolerance ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS7A02G140500]()
+- **Gene ID:**	[TraesCS7A02G140500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G140500)
 - **Gene Symbol:** TaSRG1A
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
+## Functional Descriptions:
    - Transcriptome profiling reveals key genes involved in Cd response progress of Aegilops tauschii.
-   - cadmium accumulation
+   - A novel stress resistance gene AetSRG1 is identified for Aegilops tauschii Cd tolerance.
+   - Transgenic wheat expressing AetSRG1 showed low cadmium accumulation.
+   - AetSRG1 prevents the degradation of phenylalanine ammonia lyase and programmed cell death.
+
+## Function-related keywords:
+[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[programmed-cell-death](/tags/programmed-cell-death/)&nbsp;,&nbsp;[cadmium-tolerance](/tags/cadmium-tolerance/)
 
 ## Literature:
    - [AetSRG1 contributes to the inhibition of wheat Cd accumulation by stabilizing phenylalanine ammonia lyase.]( https://www.sciencedirect.com/science/article/pii/S0304389422000140?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jhazmat.2022.128226 ](https://www.sciencedirect.com/science/article/pii/S0304389422000140?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35032956](https://pubmed.ncbi.nlm.nih.gov/35032956/)
@@ -23,13 +28,10 @@ tags: [ cadmium,cadmium accumulation ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B6RA57](https://www.uniprot.org/uniprotkb/A0A3B6RA57/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-cadmium,cadmium accumulation
 
 ## Sequences:
 - **CDS Sequence:**

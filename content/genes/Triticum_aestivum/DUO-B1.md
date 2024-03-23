@@ -3,20 +3,24 @@ description: TraesCS1B02G326500 ; Triticum aestivum
 meta_title:
 title: DUO-B1
 categories: [Triticum aestivum]
-tags: [ grain,grain number,grain yield,yield,cell division,inflorescence,architecture,inflorescence architecture,breeding ]
+tags: [ transcription factor,grain,grain number,grain yield,yield,cell division,ethylene,inflorescence,architecture,inflorescence architecture,ethylene response,spike ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS1B02G326500]()
+- **Gene ID:**	[TraesCS1B02G326500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G326500)
 - **Gene Symbol:** DUO-B1
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
-   - B1 suppresses cell division and promotes the expression of BHt/WFZP, whose mutations could lead to branched ‘miracle-wheat’
-   - **DUO-B1** has not been utilized in breeding, and holds promise to increase wheat yield further.
-   - Spike inflorescence architecture;mild supernumerary spikelets;grain number per spike
+## Functional Descriptions:
+   - **DUO-B1** suppresses cell division and promotes the expression of BHt/WFZP, whose mutations could lead to branched ‘miracle-wheat’.
+   - Mutations of **DUO-B1** lead to mild supernumerary spikelets, increased grain number per spike and, importantly, increased yield under field conditions without affecting other major agronomic traits.
+   - Using Brachypodium distachyon as a wheat proxy, we identified **DUO-B1**, encoding an APETALA2-ethylene response factor (AP2-ERF) transcription factor, regulating spike inflorescence architecture in bread wheat.
+   - **DUO-B1** suppresses cell division and promotes the expression of BHt-WFZP, whose mutations could lead to branched miracle-wheat.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[ethylene-response](/tags/ethylene-response/)&nbsp;,&nbsp;[spike](/tags/spike/)
 
 ## Literature:
    - [Improving bread wheat yield through modulating an unselected AP2/ERF gene.]( https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01197-9](https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851621](https://pubmed.ncbi.nlm.nih.gov/35851621/)
@@ -24,13 +28,10 @@ tags: [ grain,grain number,grain yield,yield,cell division,inflorescence,archite
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B5Z1A5](https://www.uniprot.org/uniprotkb/A0A3B5Z1A5/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-grain,grain number,grain yield,yield,cell division,inflorescence,architecture,inflorescence architecture,breeding
 
 ## Sequences:
 - **CDS Sequence:**

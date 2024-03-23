@@ -7,17 +7,22 @@ tags: [ auxin,tiller,yield,architecture,plant architecture,tiller angle ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS5A02G316400]()
+- **Gene ID:**	[TraesCS5A02G316400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G316400)
 - **Gene Symbol:** TaHST1L-5A
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
+## Functional Descriptions:
+   - A HST1-like gene controls tiller angle through regulating endogenous auxin in common wheat.
    - TaHST1L involved in the auxin signalling pathway showed the big potential to improve wheat yield by controlling plant architecture.
-   - A deacetylase HST1-like (TaHST1L) gene controlling wheat tiller angle was identified by the combination of a genome-wide association study (GWAS) and bulked segregant analysis (BSA).
-   - Mutation of TaHST1L altered the tiller angle of tetraploid wheat
-   - TaHST1L affected endogenous auxin level by interacting with TaIAA17
+   - Mutation of TaHST1L altered the tiller angle of tetraploid wheat.
+   - TaHST1L-A1 altered the tiller angle in transgenic wheat plants.
+   - TaHST1L affected endogenous auxin level by interacting with TaIAA17.
+   - Yield potential and evolutionary analysis of TaHST1L-A1b in wheat.
+
+## Function-related keywords:
+[auxin](/tags/auxin/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[tiller-angle](/tags/tiller-angle/)
 
 ## Literature:
    - [A HST1-like gene controls tiller angle through regulating endogenous auxin in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13930](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13930)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36128872](https://pubmed.ncbi.nlm.nih.gov/36128872/)
@@ -25,13 +30,10 @@ tags: [ auxin,tiller,yield,architecture,plant architecture,tiller angle ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B6KMU4](https://www.uniprot.org/uniprotkb/A0A3B6KMU4/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-auxin,tiller,yield,architecture,plant architecture,tiller angle
 
 ## Sequences:
 - **CDS Sequence:**

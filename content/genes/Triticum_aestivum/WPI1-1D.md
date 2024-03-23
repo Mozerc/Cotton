@@ -1,21 +1,25 @@
 ---
-description: TraesCS1D02G264500 ; Triticum aestivum
+description: wheat PI STILLATA 1 ; TraesCS1D02G264500 ; Triticum aestivum
 meta_title:
 title: WPI1-1D
 categories: [Triticum aestivum]
-tags: [ development,spikelet,spikelet development ]
+tags: [ pi ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS1D02G264500]()
+- **Gene ID:**	[TraesCS1D02G264500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G264500)
 - **Gene Symbol:** WPI1-1D
-- **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Gene Name:** wheat PI STILLATA 1
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
-   - **WPI1-1D** wheat spike and spikelet
-   - **WPI1-1D** florets development
+## Functional Descriptions:
+   - An in situ hybridization study demonstrated that the WPI1 gene is expressed in primordia of lodicules and stamens in developing florets in wheat.
+   - In the alloplasmic wheat line exhibiting pistillody, the WPI1 transcripts were not detected in the primordia of pistil-like stamens, whereas WPI1 was expressed in the lodicules.
+   - In situ hybridization study revealed that the WPI1 gene is expressed in the primordia of lodicules and stamens in developing florets of wheat, indicating that WPI1 is a putative wheat ortholog of PI.
+
+## Function-related keywords:
+[pi](/tags/pi/)
 
 ## Literature:
    - [Pistillody is caused by alterations to the class-B MADS-box gene expression pattern in alloplasmic wheats.]( https://link.springer.com/article/10.1007/s00425-003-1157-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-003-1157-6](https://link.springer.com/article/10.1007/s00425-003-1157-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[14652757](https://pubmed.ncbi.nlm.nih.gov/14652757/)
@@ -23,13 +27,10 @@ tags: [ development,spikelet,spikelet development ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [AB107991](https://www.ncbi.nlm.nih.gov/gene/?term=AB107991)
+- **UniProt accessions:** [A0A3B5ZW63](https://www.uniprot.org/uniprotkb/A0A3B5ZW63/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,spikelet,spikelet development
 
 ## Sequences:
 - **CDS Sequence:**

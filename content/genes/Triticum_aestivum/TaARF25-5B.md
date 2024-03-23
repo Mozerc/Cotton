@@ -3,19 +3,25 @@ description: TraesCS5B02G039800 ; Triticum aestivum
 meta_title:
 title: TaARF25-5B
 categories: [Triticum aestivum]
-tags: [ development,grain,grain size,auxin,auxin response,grain weight ]
+tags: [ transcription factor,development,grain,grain size,auxin,down-regulated genes,auxin response,grain weight,pericarp,transcription regulator ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS5B02G039800]()
+- **Gene ID:**	[TraesCS5B02G039800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B02G039800)
 - **Gene Symbol:** TaARF25-5B
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
+## Functional Descriptions:
    - Screening of auxin response factor (ARF) genes highly expressed in early developing grains revealed that TaARF25 interacts with TaIAA21.
    - These results support the predicted role of TaARF25 as a positive regulator of grain size and weight development.
+   - Cross-section of mutant grains observed elongated outer pericarp cells than those of the wild type where the expression of TaIAA21 was detected by in situ hybridization. Screening of auxin response factor genes highly expressed in early developing grains identified TaARF25 that interacted with TaIAA21.
+   - In contrast, mutation of the tetraploid wheat (Triticum turgidum) ARF25 gene significantly reduced grain size and weight.
+   - ERF3 was up-regulated in the taiaa21 mutant and down-regulated in ttarf25 mutant. Transactivation assays showed that ARF25 promoted ERF3 transcription, while mutation of TtERF3 resulted in reduced grain size and weight.
+
+## Function-related keywords:
+[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)
 
 ## Literature:
    - [TaIAA21 represses TaARF25-mediated expression of TaERFs required for grain size and weight development in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15541](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34643010](https://pubmed.ncbi.nlm.nih.gov/34643010/)
@@ -23,13 +29,10 @@ tags: [ development,grain,grain size,auxin,auxin response,grain weight ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B6LGA4](https://www.uniprot.org/uniprotkb/A0A3B6LGA4/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,grain,grain size,auxin,auxin response,grain weight
 
 ## Sequences:
 - **CDS Sequence:**

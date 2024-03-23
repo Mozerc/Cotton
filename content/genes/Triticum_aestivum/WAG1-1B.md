@@ -7,15 +7,17 @@ tags: [ development,spikelet,spikelet development ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS1B02G144800]()
+- **Gene ID:**	[TraesCS1B02G144800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G144800)
 - **Gene Symbol:** WAG1-1B
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
-   - wheat spike and spikelet
-   - florets development
+## Functional Descriptions:
+   - WAG1 gene regulates wheat phenotype: wheat ear and spikelet and floret development.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
 
 ## Literature:
    - [Genome-wide analysis of MIKC-type MADS-box genes in wheat: pervasive duplications, functional conservation and putative neofunctionalization.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16122](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16122)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31418861](https://pubmed.ncbi.nlm.nih.gov/31418861/)
@@ -23,13 +25,10 @@ tags: [ development,spikelet,spikelet development ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B5YUF2](https://www.uniprot.org/uniprotkb/A0A3B5YUF2/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,spikelet,spikelet development
 
 ## Sequences:
 - **CDS Sequence:**

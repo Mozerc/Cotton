@@ -7,16 +7,20 @@ tags: [ nitrogen,growth,stress,salinity,salt,salt stress,salinity stress ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS4B02G125700]()
+- **Gene ID:**	[TraesCS4B02G125700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G125700)
 - **Gene Symbol:** TaNHX1-4B
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
+## Functional Descriptions:
    - To a lesser extent of TaNHX1 were associated with a better genotypic performance in growth, nitrogen, and carbon photosynthetic metabolism under salinity and water stress.
-   - The TaNHX1 gene was also cloned and it was reported that salt-stressed wheat plants showed substantial increases in TaNHX1
-   - TaNHX1 expression and ion accumulation
+   - The TaNHX1 gene was also cloned and it was reported that salt-stressed wheat plants showed substantial increases in TaNHX1.
+   - TaNHX1 expression and ion accumulation.
+   - In general terms, higher expression of TaGS1, TaGS2, TaDREB2B, and to a lesser extent of TaNHX1 were associated with a better genotypic performance in growth, nitrogen, and carbon photosynthetic metabolism under salinity and water stress.
+
+## Function-related keywords:
+[nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)
 
 ## Literature:
    - [Gene expression and physiological responses to salinity and water stress of contrasting durum wheat genotypes.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12359)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12359](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12359)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25869057](https://pubmed.ncbi.nlm.nih.gov/25869057/)
@@ -25,13 +29,10 @@ tags: [ nitrogen,growth,stress,salinity,salt,salt stress,salinity stress ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B6IRM1](https://www.uniprot.org/uniprotkb/A0A3B6IRM1/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-nitrogen,growth,stress,salinity,salt,salt stress,salinity stress
 
 ## Sequences:
 - **CDS Sequence:**

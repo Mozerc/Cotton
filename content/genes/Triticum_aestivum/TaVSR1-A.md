@@ -3,19 +3,26 @@ description: TraesCS2A02G105500 ; Triticum aestivum
 meta_title:
 title: TaVSR1-A
 categories: [Triticum aestivum]
-tags: [ root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stress tolerance,architecture,root growth,grain growth,root architecture ]
+tags: [ root,development,root development,root elongation ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS2A02G105500]()
+- **Gene ID:**	[TraesCS2A02G105500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G105500)
 - **Gene Symbol:** TaVSR1-A
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
-   - Root depth, as an important component of root architecture, plays a significant role in growth, grain yield determination and abiotic stress tolerance in crop plants.
-   - Root depth
+## Functional Descriptions:
+   - Increased TaVSR1-B expression made the root elongation zone shorter and the differentiation zone longer.
+   - A transposon in the vacuolar sorting receptor gene TaVSR1-B promoter region is associated with wheat root depth at booting stage.
+   - TaVSR1-B is associated with root depth at the booting stage.
+   - TaVSR1-B is involved in regulation of root development in wheat.
+   - Increased expression of TaVSR1-B confers deeper roots.
+   - TaVSR1-B regulates root depth by influencing the ratio of elongation zone to differentiated zone.
+
+## Function-related keywords:
+[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)
 
 ## Literature:
    - [A transposon in the vacuolar sorting receptor gene TaVSR1-B promoter region is associated with wheat root depth at booting stage.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13564)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13564](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13564)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33555662](https://pubmed.ncbi.nlm.nih.gov/33555662/)
@@ -23,13 +30,10 @@ tags: [ root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stre
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B6ATJ8](https://www.uniprot.org/uniprotkb/A0A3B6ATJ8/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-root,growth,grain,stress,grain yield,tolerance,yield,abiotic stress,stress tolerance,architecture,root growth,grain growth,root architecture
 
 ## Sequences:
 - **CDS Sequence:**

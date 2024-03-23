@@ -7,17 +7,20 @@ tags: [ fertility,pollen,sterility,male sterility,male fertility,pollen fertilit
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS1B02G038500]()
+- **Gene ID:**	[TraesCS1B02G038500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G038500)
 - **Gene Symbol:** Rf3
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
-   - One promising system involves the Rf1 and **Rf3** genes that restore fertility of wheat plants carrying Triticum timopheevii-type cytoplasmic male sterility
-   - We identify Rf1 and **Rf3** candidates that can restore normal pollen production in transgenic wheat plants carrying T-CMS
-   - Rf1 and **Rf3** bind to the mitochondrial orf279 transcript and induce cleavage, preventing expression of the CMS trait
-   - Expression of Rf1 and **Rf3** candidates in anthers during pollen formation
+## Functional Descriptions:
+   - One promising system involves the Rf1 and **Rf3** genes that restore fertility of wheat plants carrying Triticum timopheevii-type cytoplasmic male sterility.
+   - We identify Rf1 and **Rf3** candidates that can restore normal pollen production in transgenic wheat plants carrying T-CMS.
+   - Rf1 and **Rf3** bind to the mitochondrial orf279 transcript and induce cleavage, preventing expression of the CMS trait.
+   - Expression of Rf1 and **Rf3** candidates in anthers during pollen formation.
+
+## Function-related keywords:
+[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)
 
 ## Literature:
    - [The genetic basis of cytoplasmic male sterility and fertility restoration in wheat.]( https://www.nature.com/articles/s41467-021-21225-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-21225-0](https://www.nature.com/articles/s41467-021-21225-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33589621](https://pubmed.ncbi.nlm.nih.gov/33589621/)
@@ -25,13 +28,10 @@ tags: [ fertility,pollen,sterility,male sterility,male fertility,pollen fertilit
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [A0A3B5YQT0](https://www.uniprot.org/uniprotkb/A0A3B5YQT0/entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-fertility,pollen,sterility,male sterility,male fertility,pollen fertility,pollen formation
 
 ## Sequences:
 - **CDS Sequence:**

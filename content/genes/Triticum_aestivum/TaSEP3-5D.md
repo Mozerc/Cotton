@@ -7,16 +7,18 @@ tags: [ development,flower,flower development ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[TraesCS5D02G294500]()
+- **Gene ID:**	[TraesCS5D02G294500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G294500)
 - **Gene Symbol:** TaSEP3-5D
 - **Gene Name:** 
-- **Genome:** [Chinese_Spring1.0]()
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
-## Functional Description:
-   - Transcription factors encoded by MIKC-type MADS-box genes control many important functions in plants, including flower development and morphogenesis. 
-   - flower development
-   - morphogenesis
+## Functional Descriptions:
+   - **TaSEPs** are transcription factors encoded by MIKC-type MADS-box genes control many important functions in plants, including flower development and morphogenesis.
+   - **TaSEP3** is involved in flower development and morphogenesis of wheat.
+
+## Function-related keywords:
+[development](/tags/development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)
 
 ## Literature:
    - [Molecular and phylogenetic analysis of MADS-box genes of MIKC type and chromosome location of SEP-like genes in wheat (Triticum aestivum L.).]( https://link.springer.com/article/10.1007/s00438-007-0285-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00438-007-0285-2](https://link.springer.com/article/10.1007/s00438-007-0285-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17846794](https://pubmed.ncbi.nlm.nih.gov/17846794/)
@@ -24,13 +26,10 @@ tags: [ development,flower,flower development ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **UniProt accessions:** [Q718F3 ](https://www.uniprot.org/uniprotkb/Q718F3 /entry)
 
 ## Orthologs:
-
-## Function-related keywords:
-development,flower,flower development
 
 ## Sequences:
 - **CDS Sequence:**
