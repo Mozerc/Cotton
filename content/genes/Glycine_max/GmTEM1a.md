@@ -7,16 +7,19 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.20G186200]()
+- **Gene ID:**	[Glyma.20G186200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.20G186200)
 - **Gene Symbol:** GmTEM1a
 - **Gene Name:** 
-- **Genome:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
-   - Despite their key role in Arabidopsis, the effect of TEM orthologs on flowering time in soybean, especially **GmTEM1a** 
-   - **GmTEM1a** regulates photoperiodic flowering time
-   - **GmTEM1a** regulates photoperiodic days to maturity
+## Functional Descriptions:
+   - Despite their key role in Arabidopsis, the effect of TEM orthologs on flowering time in soybean, especially **GmTEM1a**.
+   - **GmTEM1a** regulates photoperiodic flowering time.
+   - **GmTEM1a** regulates photoperiodic days to maturity.
+
+## Function-related keywords:
+   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Candidate Genes Modulating Reproductive Timing in Elite US Soybean Lines Identified in Soybean Alleles of Arabidopsis Flowering Orthologs With Divergent Latitude Distribution.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.889066](https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35574141](https://pubmed.ncbi.nlm.nih.gov/35574141/)
@@ -25,13 +28,10 @@ tags: [ flowering time,flowering ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

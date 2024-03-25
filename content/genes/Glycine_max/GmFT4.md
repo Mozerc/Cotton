@@ -7,17 +7,22 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.08G363100]()
+- **Gene ID:**	[Glyma.08G363100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.08G363100)
 - **Gene Symbol:** GmFT4
 - **Gene Name:** 
-- **Genome:** [Wm82.a2.v1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
-   - **GmFT4**, a homolog of FLOWERING LOCUS T, is positively regulated by E1 and functions as a flowering repressor in soybean
+## Functional Descriptions:
+   - **GmFT4**, a homolog of FLOWERING LOCUS T, is positively regulated by E1 and functions as a flowering repressor in soybean.
    - E1 inhibits the expression of flowering-inducing factors GmFT2a and GmFT5a and promotes the expression of flowering-inhibitory factors GmFT1a and **GmFT4**.
-   - **GmFT4** negatively regulates photoperiodic flowering time
-   - **GmFT4** negatively regulates days to maturity
+   - **GmFT4** negatively regulates photoperiodic flowering time.
+   - **GmFT4** negatively regulates days to maturity.
+   - **GmFT4** expression was strongly up-regulated by long days exhibiting a diurnal rhythm, but down-regulated by short days.
+   - Overexpression of **GmFT4** delayed the flowering time in transgenic Arabidopsis.
+
+## Function-related keywords:
+   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [GmFT4, a homolog of FLOWERING LOCUS T, is positively regulated by E1 and functions as a flowering repressor in soybean.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089030)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0089030](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089030)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24586488](https://pubmed.ncbi.nlm.nih.gov/24586488/)
@@ -27,13 +32,10 @@ tags: [ flowering time,flowering ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

@@ -7,15 +7,18 @@ tags: [ ga,height,plant height,flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.19G260900]()
+- **Gene ID:**	[Glyma.19G260900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.19G260900)
 - **Gene Symbol:** LHY2a
 - **Gene Name:** 
-- **Genome:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
-   - **LHY2a** encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean
-   - **LHY2a** positively regulates photoperiodic flowering time
+## Functional Descriptions:
+   - **LHY2a** encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean.
+   - **LHY2a** positively regulates photoperiodic flowering time.
+
+## Function-related keywords:
+   - [ga](/tags/ga/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Molecular mechanisms for the photoperiodic regulation of flowering in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13021](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33090664](https://pubmed.ncbi.nlm.nih.gov/33090664/)
@@ -24,13 +27,10 @@ tags: [ ga,height,plant height,flowering time,flowering ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-ga,height,plant height,flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

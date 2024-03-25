@@ -7,15 +7,19 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.04G143300]()
+- **Gene ID:**	[Glyma.04G143300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.04G143300)
 - **Gene Symbol:** E1Lb
 - **Gene Name:** E1-like-b
-- **Genome:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
-   - **E1Lb** negatively regulates photoperiodic flowering time
-   - **E1Lb** negatively regulates photoperiodic days to maturity
+## Functional Descriptions:
+   - E1, E1La, and **E1Lb** function similarly in flowering. Regulation of E1 and E1L expression by light was under the control of E3 and E4, which encode phytochrome A proteins
+   - **E1Lb** negatively regulates photoperiodic flowering time.
+   - **E1Lb** negatively regulates photoperiodic days to maturity.
+
+## Function-related keywords:
+   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [A map-based cloning strategy employing a residual heterozygous line reveals that the GIGANTEA gene is involved in soybean maturity and flowering.]( https://academic.oup.com/genetics/article/188/2/395/6063333?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1534/genetics.110.125062](https://academic.oup.com/genetics/article/188/2/395/6063333?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21406680](https://pubmed.ncbi.nlm.nih.gov/21406680/)
@@ -24,13 +28,10 @@ tags: [ flowering time,flowering ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

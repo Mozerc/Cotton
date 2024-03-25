@@ -3,18 +3,24 @@ description: Glyma.10G082800 ; Glycine max
 meta_title:
 title: GmNFYA-C
 categories: [Glycine max]
-tags: [  ]
+tags: [ signaling pathway gene ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.10G082800]()
+- **Gene ID:**	[Glyma.10G082800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.10G082800)
 - **Gene Symbol:** GmNFYA-C
 - **Gene Name:** 
-- **Genome:** []()
+- **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
+## Functional Descriptions:
+   - Overexpression of miR169c inhibited nodulation through targeting 3′-UTR of **GmNFYA-C**, whereas knockout miR169c through CRISPR-cas9 promoted nodulation.
+   - Overexpression of **GmNFYA-C** promoted soybean nodulation through facilitating rhizobium infection and increasing the expression of symbiotic signaling gene GmENOD40.
+   - **GmNFYA-C** directly induced the expression of GmENOD40. In addition, overexpression of **GmNFYA-C** without the target site of miR169c partially attenuated the inhibitory effect of high N on soybean nodulation.
    - We discovered a new regulatory pathway involving the miR169c-NFYA-C-ENOD40 module that regulates soybean nodulation in response to N availability.
+
+## Function-related keywords:
+   - [signaling-pathway-gene](/tags/signaling-pathway-gene/)
 
 ## Literature:
    - [miR169c-NFYA-C-ENOD40 modulates nitrogen inhibitory effects in soybean nodulation.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17115)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17115](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17115)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33245793](https://pubmed.ncbi.nlm.nih.gov/33245793/)
@@ -23,12 +29,9 @@ tags: [  ]
    - [New Phytologist | 福建农林大学廖红、钟永嘉课题组揭示大豆结瘤中的氮抑制作用的调控机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247500849&idx=7&sn=b43c055fcca2cc80a22fd5a9e6efc008&chksm=ce906964f9e7e07295448c89eadf177f0e4f452fcbcb67a20f7aad750579c7f11659b61545a3&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
-
-## Function-related keywords:
 
 
 ## Sequences:

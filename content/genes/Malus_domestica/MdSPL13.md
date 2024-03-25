@@ -10,13 +10,16 @@ tags: [ resistance,salt,tolerance,salt tolerance ]
 - **Gene ID:**	[MDP0000323003]()
 - **Gene Symbol:** MdSPL13
 - **Gene Name:** 
-- **Genome:** [Malus × domestica genome GDDH13 v 1.1]()
+- **Genome:** [Malus × domestica genome GDDH13 v 1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
 
-## Functional Description:
+## Functional Descriptions:
    - MIR156a overexpression weakened salt resistance in apple whereas **MdSPL13** overexpression strengthened it.
    - The miR156 target **MdSPL13** regulates salt tolerance in apple.
    - **MdSPL13** overexpression improves salt tolerance in apple.
+
+## Function-related keywords:
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)
 
 ## Literature:
    - [The miR156/SPL module regulates apple salt stress tolerance by activating MdWRKY100 expression.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13464)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13464](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13464)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32885918](https://pubmed.ncbi.nlm.nih.gov/32885918/)
@@ -25,13 +28,10 @@ tags: [ resistance,salt,tolerance,salt tolerance ]
    - [沈阳农业大学张志宏教授团队揭示miR156/SPL模块通过上调MdWRKY100基因表达来调节苹果耐盐机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247499149&idx=3&sn=84eeeb0d13ec637f9c26588077a327f4&chksm=e8bd8f93dfca06853d0bd18da0b6497b7471fb1f3aadaa103ae99974e27ef1a8b1644ab1d68b&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-resistance,salt,tolerance,salt tolerance
 
 ## Sequences:
 - **CDS Sequence:**

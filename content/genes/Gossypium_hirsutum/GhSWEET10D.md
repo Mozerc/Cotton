@@ -10,13 +10,16 @@ tags: [ shoot,transporter,flowering time,sucrose,flowering,sucrose transporter ]
 - **Gene ID:**	[Gh_D12G1898]()
 - **Gene Symbol:** GhSWEET10D
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Gossypium hirsutum*
 
-## Functional Description:
+## Functional Descriptions:
    - **GhSWEET10D** as a relevant target of Avrb6 in cotton and an S gene.
    - **GhSWEET10D** encodes a member of the SWEET sucrose efflux transporter family proteins. Transcriptionally activated by long photoperiods; activation depends on FT and SOC1.
    - The ectopic expression of SWEET10 causes early flowering and leads to higher levels of transcription of flowering-time related genes in the shoot apex.
+
+## Function-related keywords:
+   - [shoot](/tags/shoot/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
    - [TAL effector driven induction of a SWEET gene confers susceptibility to bacterial blight of cotton.]( https://www.nature.com/articles/ncomms15588#Sec32)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms15588](https://www.nature.com/articles/ncomms15588#Sec32)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28537271](https://pubmed.ncbi.nlm.nih.gov/28537271/)
@@ -24,14 +27,10 @@ tags: [ shoot,transporter,flowering time,sucrose,flowering,sucrose transporter ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-
-## Function-related keywords:
-shoot,transporter,flowering time,sucrose,flowering,sucrose transporter
 
 ## Sequences:
 - **CDS Sequence:**

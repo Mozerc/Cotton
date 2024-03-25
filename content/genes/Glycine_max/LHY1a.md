@@ -3,19 +3,25 @@ description: Glyma.16G017400 ; Glycine max
 meta_title:
 title: LHY1a
 categories: [Glycine max]
-tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,flowering time,flowering ]
+tags: [ drought,stress,drought stress,tolerance,aba,drought tolerance,stress tolerance,homeostasis,abscisic acid,flowering time,flowering,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.16G017400]()
+- **Gene ID:**	[Glyma.16G017400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.16G017400)
 - **Gene Symbol:** LHY1a
 - **Gene Name:** 
-- **Genome:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
+## Functional Descriptions:
+   - Two homologous LHY pairs negatively control soybean drought tolerance by repressing the abscisic acid responses.
+   - Genetic dissections showed that two homologous pairs of **LHY1a** and LHY1b redundantly control the drought response.
+   - Functional characterization of **LHY1a** and LHY1b in Arabidopsis and soybean further supported the notion that GmLHYs can maintain cellular homeostasis through the ABA signaling pathway under drought stress.
    - The expressions of four GmLHYs were all induced by drought, and the quadruple mutants of GmLHYs demonstrated significantly improved drought tolerance. Transcriptome profiling suggested that the abscisic acid (ABA) signaling pathway is regulated by GmLHYs to respond to drought tolerance.
-   - LHY2a positively regulates photoperiodic flowering time
+   - LHY2a positively regulates photoperiodic flowering time.
+
+## Function-related keywords:
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [Two homologous LHY pairs negatively control soybean drought tolerance by repressing the abscisic acid responses.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17019)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17019](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17019)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33095906](https://pubmed.ncbi.nlm.nih.gov/33095906/)
@@ -26,13 +32,10 @@ tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,flowering time,flo
    - [New Phytologist︱广州大学刘宝辉和李美娜团队研究揭示生物钟基因调控大豆耐旱的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247498697&idx=5&sn=4a3047130ecbb359303bab16f1932dcb&chksm=ce90569cf9e7df8ab3ada2a257d6ee538dd6601c48ce2883fe405a642e990f0e8a067f4b5b38&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-drought,tolerance,aba,drought tolerance,abscisic acid,flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

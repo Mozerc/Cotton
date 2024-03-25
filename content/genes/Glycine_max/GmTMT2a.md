@@ -1,21 +1,27 @@
 ---
-description: Glyma12g01690 ; Glycine max
+description: Glyma.12g014300 ; Glycine max
 meta_title:
 title: GmTMT2a
 categories: [Glycine max]
-tags: [  ]
+tags: [ seed ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma12g01690]()
+- **Gene ID:**	[Glyma.12g014300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.12g014300)
 - **Gene Symbol:** GmTMT2a
 - **Gene Name:** 
-- **Genome:** [glyma.Wm82.gnm1.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
+## Functional Descriptions:
    - Overexpression of **GmTMT2a** enhanced α-tocopherol content 4–6-fold in transgenic Arabidopsis and 3–4.5-fold in transgenic maize seeds, resulting in an α-tocopherol content of up to ~90 % of the tocopherols in maize seeds.
    - Overexpression of **GmTMT2a** significantly increased the α-tocopherol content in transgenic maize.
+   - **GmTMT2a** from soybean elevates the α-tocopherol content in corn and Arabidopsis.
+   - Overexpression of **GmTMT2a** enhanced α-tocopherol content 4–6-fold in transgenic Arabidopsis, and α-tocopherol content increased 3–4.5-fold in transgenic maize seed, which correlated with the accumulation of **GmTMT2a**. 
+   - **GmTMT2a** was expressed in E. coli and the purified protein effectively converted γ-tocopherol into α-tocopherol in vitro.
+
+## Function-related keywords:
+   - [seed](/tags/seed/)
 
 ## Literature:
    - [GmTMT2a from soybean elevates the α-tocopherol content in corn and Arabidopsis.]( https://link.springer.com/article/10.1007/s11248-013-9713-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11248-013-9713-8](https://link.springer.com/article/10.1007/s11248-013-9713-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23645501](https://pubmed.ncbi.nlm.nih.gov/23645501/)
@@ -25,12 +31,9 @@ tags: [  ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
-
-## Function-related keywords:
 
 
 ## Sequences:

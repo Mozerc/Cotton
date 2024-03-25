@@ -10,12 +10,15 @@ tags: [  ]
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhCYP82L1
 - **Gene Name:** 
-- **Genome:** []()
+- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Gossypium hirsutum*
 
-## Functional Description:
+## Functional Descriptions:
    - Two CYP genes (**GhCYP82L1** and GhCYP82L2) involved in homoterpene biosynthesis in G. hirsutum were newly identified and characterized. 
    - **GhCYP82L1** and GhCYP82L2 could catalyse conversion of (E)-nerolidol to DMNT or (E,E)-geranyllinalool to TMTT.
+
+## Function-related keywords:
+   - [](/tags//)
 
 ## Literature:
    - [Identification and functional analysis of two P450 enzymes of Gossypium hirsutum involved in DMNT and TMTT biosynthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12797](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12797)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28710782](https://pubmed.ncbi.nlm.nih.gov/28710782/)
@@ -23,13 +26,9 @@ tags: [  ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [KY247144](https://www.ncbi.nlm.nih.gov/gene/?term=KY247144)
+- **NCBI ID:**  [KY247144](https://www.ncbi.nlm.nih.gov/gene/?term=KY247144)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
-
-
-## Function-related keywords:
 
 
 ## Sequences:

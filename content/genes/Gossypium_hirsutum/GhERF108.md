@@ -10,11 +10,14 @@ tags: [ auxin,ethylene,auxin biosynthesis ]
 - **Gene ID:**	[Gh_D08G13101]()
 - **Gene Symbol:** GhERF108
 - **Gene Name:** 
-- **Genome:** [cotton genome databases (https://www.cottonfgd.org/sequenceserver/)]()
+- **Genome:** [cotton genome databases (https://www.cottonfgd.org/sequenceserver/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Gossypium hirsutum*
 
-## Functional Description:
+## Functional Descriptions:
    - our findings demonstrate that the collaboration between **GhERF108** and GhARF7s establishes crosstalk in ethylene–auxin signaling to activate GhMYBL1, ultimately leading to the activation of fiber SCW biosynthesis.
+
+## Function-related keywords:
+   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)
 
 ## Literature:
    - [The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.]( https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad214](https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542517](https://pubmed.ncbi.nlm.nih.gov/37542517/)
@@ -23,14 +26,10 @@ tags: [ auxin,ethylene,auxin biosynthesis ]
    - [The Plant Cell | 华中师范大学李学宝团队揭示棉纤维细胞次生壁调控新机制](https://mp.weixin.qq.com/s/czUMZxfjz28uKXx-OauFCA)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-
-## Function-related keywords:
-auxin,ethylene,auxin biosynthesis
 
 ## Sequences:
 - **CDS Sequence:**

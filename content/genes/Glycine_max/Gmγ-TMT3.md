@@ -7,14 +7,19 @@ tags: [  ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.09g222800]()
+- **Gene ID:**	[Glyma.09g222800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.09g222800)
 - **Gene Symbol:** Gmγ-TMT3
 - **Gene Name:** 
-- **Genome:** [Williams 82 genome]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
+## Functional Descriptions:
    - GmMPBQ-MT1 and GM-γ-TMT3 are candidate genes that regulate the composition of different forms of tocopherols.
+   - Three known tocopherol biosynthetic genes were identified by the metabolic GWAS strategy: GmHPPD1 was associated with T-T content, and GmMPBQ-MT1 and Gmγ-TMTs were associated with tocopherol composition and/or ratios.
+   - Both expression levels of tocopherol biosynthetic genes (**Gmγ-TMT3**, GmHPPD1, GmHPT [Glyma.17G061900], and GmMPBQ-MT1) and α-T content were significantly increased in the GmZF351-OE hairy roots.
+
+## Function-related keywords:
+   - [](/tags//)
 
 ## Literature:
    - [Genome-wide scan for oil quality reveals a coregulation mechanism of tocopherols and fatty acids in soybean seeds.]( https://www.sciencedirect.com/science/article/pii/S2590346223001098?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100598](https://www.sciencedirect.com/science/article/pii/S2590346223001098?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37029487](https://pubmed.ncbi.nlm.nih.gov/37029487/)
@@ -23,12 +28,9 @@ tags: [  ]
    - [中科院遗传发育所王国栋/田志喜研究组合作发现大豆油脂和维生素E合成共调控机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247570241&idx=5&sn=ed550ac9984b0be99e9023f4d19a96c7&chksm=507dea5d02e8efa594bd0d975a0a3e5b7876d7f6b06bcafc1c152dc06f13d21ef4b93558f4ad&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
-
-## Function-related keywords:
 
 
 ## Sequences:

@@ -3,18 +3,24 @@ description: Malus domestica ABSCISIC ACID-INSENSITIVE 5 ; Malus domestica
 meta_title:
 title: MdABI5
 categories: [Malus domestica]
-tags: [ leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance ]
+tags: [ resistance,drought,tolerance,aba,drought tolerance,abscisic acid,drought resistance,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** MdABI5
 - **Gene Name:** Malus domestica ABSCISIC ACID-INSENSITIVE 5
-- **Genome:** []()
+- **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
 
-## Functional Description:
-   - MdHDA6 can facilitate histone deacetylation and gene repression on the positive drought-responsive genes to negatively regulate drought tolerance in apple.  On the other hand, MdHDA6 directly interacts with **MdABI5** and represses the expression of genes downstream of **MdABI5** via histone deacetylation around these genes to reduce drought tolerance.	**MdABI5** works with its positive or negative interaction partners to regulate ABA-mediated leaf senescence in apple, in which it acts as a core regulator.
+## Functional Descriptions:
+   - MdHDA6 interacted with the abscisic acid (ABA) signaling transcriptional factor, ABSCISIC ACID-INSENSITIVE 5 (**MdABI5**), forming the MdHDA6-**MdABI5** complex.
+   - Interestingly, MdHDA6 facilitated histone deacetylation on the drought-responsive genes regulated by **MdABI5**, resulting in gene repression. 
+   - Our study uncovers a different drought response regulatory mechanism in apple based on the MdHDA6-**MdABI5** complex function and provides the molecular basis for drought-resistance improvement in apple.
+   - MdHDA6 can facilitate histone deacetylation and gene repression on the positive drought-responsive genes to negatively regulate drought tolerance in apple. On the other hand, MdHDA6 directly interacts with **MdABI5** and represses the expression of genes downstream of **MdABI5** via histone deacetylation around these genes to reduce drought tolerance.
+
+## Function-related keywords:
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [HISTONE DEACETYLASE 6 interaction with ABSCISIC ACID-INSENSITIVE 5 decreases apple drought tolerance.]( https://academic.oup.com/plphys/article/193/4/2711/7248473?login=true#427278358)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad468](https://academic.oup.com/plphys/article/193/4/2711/7248473?login=true#427278358)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37607253](https://pubmed.ncbi.nlm.nih.gov/37607253/)
@@ -25,13 +31,10 @@ tags: [ leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance 
    - [Wiley植物学领域最新进展 | 苹果叶片衰老、小麦种子贮藏蛋白合成、拟南芥诱导子免疫、果胶杆菌感染关键酶](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247502037&idx=5&sn=e6b87526f0c92b9911a727568d562160&chksm=ce906580f9e7ec9696827a4452e503dfcfffb51b9462aed08427d8baac55f4cc711fee08f198&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC103430245](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103430245)
+- **NCBI ID:**  [LOC103430245](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103430245)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-leaf,leaf senescence,senescence,drought,tolerance,aba,drought tolerance
 
 ## Sequences:
 - **CDS Sequence:**

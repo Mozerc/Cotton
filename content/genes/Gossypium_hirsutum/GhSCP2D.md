@@ -10,13 +10,16 @@ tags: [ sugar,sucrose ]
 - **Gene ID:**	[Gh_D06G0145]()
 - **Gene Symbol:** GhSCP2D
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1]()
+- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Gossypium hirsutum*
 
-## Functional Description:
+## Functional Descriptions:
    - **GhSCP2D**, a putative sterol carrier protein gene from elongating cotton (Gossypium hirsutum) fibers.
    - Downregulation of **GhSCP2D** Shortens Fiber Length Due to the Reduced Sucrose and Hexose Levels.
    - Sugar Contents in Fibers of **GhSCP2D**-Downregulated and Wild-Type Plants.
+
+## Function-related keywords:
+   - [sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
    - [Suppressing a Putative Sterol Carrier Gene Reduces Plasmodesmal Permeability and Activates Sucrose Transporter Genes during Cotton Fiber Elongation.]( https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00358](https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28747422](https://pubmed.ncbi.nlm.nih.gov/28747422/)
@@ -24,14 +27,10 @@ tags: [ sugar,sucrose ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-
-## Function-related keywords:
-sugar,sucrose
 
 ## Sequences:
 - **CDS Sequence:**

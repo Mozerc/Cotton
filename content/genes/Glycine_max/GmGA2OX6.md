@@ -7,16 +7,19 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.13G259400]()
+- **Gene ID:**	[Glyma.13G259400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.13G259400)
 - **Gene Symbol:** GmGA2OX6
 - **Gene Name:** 
-- **Genome:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
+## Functional Descriptions:
    - Suggesting that **GmGA2OX6** may delay flowering, similar to its Arabidopsis ortholog GA2OX. However, further work is needed to test how each of these genes and the alleles described here affect flowering time in cultivated soybean.
-   - **GmGA2OX6** regulates photoperiodic flowering time
-   - **GmGA2OX6** regulates photoperiodic days to maturity
+   - **GmGA2OX6** regulates photoperiodic flowering time.
+   - **GmGA2OX6** regulates photoperiodic days to maturity.
+
+## Function-related keywords:
+   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Candidate Genes Modulating Reproductive Timing in Elite US Soybean Lines Identified in Soybean Alleles of Arabidopsis Flowering Orthologs With Divergent Latitude Distribution.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.889066](https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35574141](https://pubmed.ncbi.nlm.nih.gov/35574141/)
@@ -24,13 +27,10 @@ tags: [ flowering time,flowering ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

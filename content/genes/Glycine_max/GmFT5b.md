@@ -7,14 +7,19 @@ tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.19G108200]()
+- **Gene ID:**	[Glyma.19G108200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.19G108200)
 - **Gene Symbol:** GmFT5b
 - **Gene Name:** Flowering Time 5b
-- **Genome:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
-   - **GmFT5b** positively regulates photoperiodic flowering time
+## Functional Descriptions:
+   - **GmFT5b** positively regulates photoperiodic flowering time.
+   - Of the ten other FT genes, four (GmFT2b, GmFT4, **GmFT5b**, and GmFT6) are expressed at very low levels in trifoliate leaves under inductive SD conditions
+   - The GmFTs obtained in these studies have paved the way for the identification of the flowering regulatory networks in soybean that enable this crop to adapt to a wide range of photoperiods.
+
+## Function-related keywords:
+   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Molecular mechanisms for the photoperiodic regulation of flowering in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13021](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33090664](https://pubmed.ncbi.nlm.nih.gov/33090664/)
@@ -23,13 +28,10 @@ tags: [ flowering time,flowering ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

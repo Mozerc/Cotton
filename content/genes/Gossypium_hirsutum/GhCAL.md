@@ -10,11 +10,14 @@ tags: [ breeding,flowering ]
 - **Gene ID:**	[GH_D07G0876]()
 - **Gene Symbol:** GhCAL
 - **Gene Name:** 
-- **Genome:** [The TM-1 reference genome (Gossypium hirsutum, ZJU)]()
+- **Genome:** [The TM-1 reference genome (Gossypium hirsutum, ZJU)(https://cottonfgd.org/about/download.html)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Gossypium hirsutum*
 
-## Functional Description:
+## Functional Descriptions:
    - we propose a new flowering regulatory pathway mediated by **GhCAL**. This study elucidated the molecular mechanism of cotton flowering regulation and provides good genetic resources for cotton early-maturing breeding.
+
+## Function-related keywords:
+   - [breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [High-resolution temporal dynamic transcriptome landscape reveals a GhCAL-mediated flowering regulatory pathway in cotton (Gossypium hirsutum L.).]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13449)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13449](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13449)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32654381](https://pubmed.ncbi.nlm.nih.gov/32654381/)
@@ -23,14 +26,10 @@ tags: [ breeding,flowering ]
    - [PBJ 两篇连发 | 喻树迅院士团队通过棉花花芽分化高分辨率发育转录组图谱揭示陆地棉中GhCAL介导的开花调控通路](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247492429&idx=1&sn=a1582b3c677a84e89d39a2f470589f51&chksm=ce904e18f9e7c70e925ad6731656f37af145714f8bab005f85502cd2424d51ab085b2dce54dc&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-
-## Function-related keywords:
-breeding,flowering
 
 ## Sequences:
 - **CDS Sequence:**

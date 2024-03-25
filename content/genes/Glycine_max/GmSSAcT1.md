@@ -3,18 +3,24 @@ description: Glyma.18G258000 ; Glycine max
 meta_title:
 title: GmSSAcT1
 categories: [Glycine max]
-tags: [ breeding,detoxification ]
+tags: [ seed,seed germination,breeding,detoxification,acetyltransferase ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.18G258000]()
+- **Gene ID:**	[Glyma.18G258000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.18G258000)
 - **Gene Symbol:** GmSSAcT1
 - **Gene Name:** 
-- **Genome:** []()
+- **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
+## Functional Descriptions:
+   - Identify and characterize **GmSSAcT1**, encoding a BADH-type soyasaponin acetyltransferase that catalyzes three or four consecutive acetylations on type-A soyasaponins in vitro and in planta.
+   - **GmSSAcT1** likely evolved from acyltransferases present in leguminous plants involved in isoflavonoid acylation.
+   - Loss-of-function mutants of **GmSSAcT1** exhibited impaired seed germination, which attribute to the excessive accumulation of null-acetylated type-A soyasaponins.
    - We conclude that **GmSSAcT1** not only functions as a detoxification gene for high accumulation of type-A soyasaponins in soybean seeds but is also a promising target for breeding new soybean varieties with lower bitter soyasaponin content.
+
+## Function-related keywords:
+   - [seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[detoxification](/tags/detoxification/)&nbsp;,&nbsp;[acetyltransferase](/tags/acetyltransferase/)
 
 ## Literature:
    - [A recently evolved BAHD acetyltransferase, responsible for bitter soyasaponin A production, is indispensable for soybean seed germination.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13553)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13553](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13553)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37548097](https://pubmed.ncbi.nlm.nih.gov/37548097/)
@@ -23,13 +29,10 @@ tags: [ breeding,detoxification ]
    - [JIPB | 中国科学院遗传发育所所王国栋课题组解析大豆皂苷合成途径及其新功能](https://mp.weixin.qq.com/s/aop8Q65KFuUfMqsomiPWeg)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-breeding,detoxification
 
 ## Sequences:
 - **CDS Sequence:**

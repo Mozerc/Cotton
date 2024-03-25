@@ -3,18 +3,24 @@ description: Malus domestica
 meta_title:
 title: McHDA6
 categories: [Malus domestica]
-tags: [  ]
+tags: [ anthocyanin biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** McHDA6
 - **Gene Name:** 
-- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation]()
+- **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
 
-## Functional Description:
+## Functional Descriptions:
+   - **McHDA6** and McMET1 epigenetically modulate anthocyanin biosynthesis.
+   - **McHDA6** expression was significantly inhibited, whereas the expression of McMMK2 and anthocyanin metabolic genes was upregulated.
+   - The results suggest that McMET1, together with **McHDA6**, may regulate anthocyanin biosynthesis by epigenetic modification through methylation and acetylation of the McMYB10 promoter.
    - Silencing of **McHDA6** expression and treatment with the inhibitor trichostatin A suggested that the low expression of **McHDA6** simultaneously reduced the transcription of McMET1 and decreased the methylation level of the McMYB10 promoter
+
+## Function-related keywords:
+   - [anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
 
 ## Literature:
    - [MiR399d and epigenetic modification comodulate anthocyanin accumulation in Malus leaves suffering from phosphorus deficiency.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13697)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13697](https://onlinelibrary.wiley.com/doi/10.1111/pce.13697)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31833568](https://pubmed.ncbi.nlm.nih.gov/31833568/)
@@ -23,12 +29,9 @@ tags: [  ]
    - [Plant Cell and Environment|北京农学院姚允聪课题组揭示苹果属叶片缺磷胁迫下花色苷积累的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247486672&idx=4&sn=44fb4af2229b760867feee560cebd774&chksm=ce93a185f9e42893205178acf99af8aceb88ca2271521e6b871d28f66f8d060dd22665df4b68&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [LOC103415224](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103415224)
+- **NCBI ID:**  [LOC103415224](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103415224)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
-
-## Function-related keywords:
 
 
 ## Sequences:

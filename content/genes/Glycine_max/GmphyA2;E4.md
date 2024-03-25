@@ -1,21 +1,25 @@
 ---
 description: Earliness 4 ; Glyma.20G090000 ; Glycine max
 meta_title:
-title: GmphyA2
+title: GmphyA2;E4
 categories: [Glycine max]
 tags: [ flowering time,flowering ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.20G090000]()
-- **Gene Symbol:** GmphyA2
+- **Gene ID:**	[Glyma.20G090000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.20G090000)
+- **Gene Symbol:** GmphyA2;E4
 - **Gene Name:** Earliness 4
-- **Genome:** [glyma.Wm82.gnm2.ann1]()
+- **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
 
-## Functional Description:
-   - **GmphyA2** negatively regulates photoperiodic flowering time
-   - **GmphyA2** negatively regulates photoperiodic days to maturity
+## Functional Descriptions:
+   - **GmphyA2** negatively regulates photoperiodic flowering time.
+   - **GmphyA2** negatively regulates photoperiodic days to maturity.
+   - E3 and E4 both encode homologs of the Arabidopsis photoreceptor phytochrome A (phyA), i.e., GmphyA3 and **GmphyA2**, respectively.
+
+## Function-related keywords:
+   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
    - [Molecular mechanisms for the photoperiodic regulation of flowering in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13021](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33090664](https://pubmed.ncbi.nlm.nih.gov/33090664/)
@@ -24,13 +28,10 @@ tags: [ flowering time,flowering ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-## Function-related keywords:
-flowering time,flowering
 
 ## Sequences:
 - **CDS Sequence:**

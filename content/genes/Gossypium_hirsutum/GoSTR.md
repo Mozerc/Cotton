@@ -10,11 +10,14 @@ tags: [ stem,growth ]
 - **Gene ID:**	[GH_D08G0109]()
 - **Gene Symbol:** GoSTR
 - **Gene Name:** Gossypium Stem Trichome Repressor
-- **Genome:** [reference genome TM-1 v2.1]()
+- **Genome:** [reference genome TM-1 v2.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Gossypium hirsutum*
 
-## Functional Description:
+## Functional Descriptions:
    - these results indicate that **GoSTR** functions as an essential negative modulator of stem trichomes and its transcripts will greatly repress trichome cell differentiation and growth.
+
+## Function-related keywords:
+   - [stem](/tags/stem/)&nbsp;,&nbsp;[growth](/tags/growth/)
 
 ## Literature:
    - [GoSTR, a negative modulator of stem trichome formation in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16379)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16379](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16379)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403589](https://pubmed.ncbi.nlm.nih.gov/37403589/)
@@ -23,14 +26,10 @@ tags: [ stem,growth ]
    - [Plant Journal | 浙江大学棉花精准育种团队发现控制棉花茎秆绒毛发育的关键基因](https://mp.weixin.qq.com/s/80F-V2DiPWLufF5F0USiwg)
 
 ## Gene Resources:
-- **NCBI ID:** [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-## Orthologs:
 
-
-## Function-related keywords:
-stem,growth
 
 ## Sequences:
 - **CDS Sequence:**
