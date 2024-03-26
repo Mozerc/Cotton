@@ -3,21 +3,24 @@ description: Gohir.D06G173000 ; Gossypium hirsutum
 meta_title:
 title: GhHSP70-26
 categories: [Gossypium hirsutum]
-tags: [ drought,stress,drought stress,stress response,drought stress response,drought response ]
+tags: [ drought,stress,drought stress,salt,tolerance,cold tolerance,cold stress,drought tolerance,salt tolerance,salt stress,cold,stress tolerance,abscisic acid,stress response,heat tolerance,heat stress,drought stress response,heat stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gohir.D06G173000]()
 - **Gene Symbol:** GhHSP70-26
 - **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Gossypium hirsutum L. acc. TM-1 genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - The cotton 70-kDa heat shock protein **GhHSP70-26** plays a positive role in the drought stress response.
+   - The cotton cytoplasmic subgroup gene **GhHSP70-26** is transcribed in response to polyethylene glycol and abscisic acid treatment and salt, cold, and heat stress.
+   - Overexpression of the **GhHSP70-26** gene in tobacco and silencing of the **GhHSP70-26** gene in cotton showed that the **GhHSP70-26** gene can improve plant tolerance to drought stress.
    - These results indicate that by reducing the degrees of cell membrane damage and cellular damage caused by ROS stress, the **GhHSP70-26** protein plays a positive role in the response of plants to drought stress.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [The cotton 70-kDa heat shock protein GhHSP70-26 plays a positive role in the drought stress response]( https://www.sciencedirect.com/science/article/pii/S0098847221002586)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envexpbot.2021.104628](https://www.sciencedirect.com/science/article/pii/S0098847221002586)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)

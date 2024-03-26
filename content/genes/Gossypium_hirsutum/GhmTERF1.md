@@ -10,12 +10,13 @@ tags: [ transcription factor,development ]
 - **Gene ID:**	[Gh_A13G0336]()
 - **Gene Symbol:** GhmTERF1
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - Gh_A13G0336, which encodes a mitochondrial transcription termination factor family protein, designated as **GhmTERF1**, is orthologous to AT2G21710 in Arabidopsis.
    - The expression of **GhmTERF1** was higher at the early fibre development and elongation stages.
+   - Apoptosis-antagonizing transcription factor gene (GhAATF1) and mitochondrial transcription termination factor family protein gene (**GhmTERF1**) were highly involved in the determination of lint percentage.
 
 ## Function-related keywords:
    - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)

@@ -3,21 +3,24 @@ description: Gh_D08G13101 ; Gossypium hirsutum
 meta_title:
 title: GhERF108
 categories: [Gossypium hirsutum]
-tags: [ auxin,ethylene,auxin biosynthesis ]
+tags: [ transcription factor,auxin,ethylene,cell wall,auxin response,auxin biosynthesis,ethylene response,secondary cell wall,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D08G13101]()
 - **Gene Symbol:** GhERF108
 - **Gene Name:** 
-- **Genome:** [cotton genome databases (https://www.cottonfgd.org/sequenceserver/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - our findings demonstrate that the collaboration between **GhERF108** and GhARF7s establishes crosstalk in ethylene–auxin signaling to activate GhMYBL1, ultimately leading to the activation of fiber SCW biosynthesis.
+   - The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.
+   - **GhERF108** RNA interference (RNAi) cotton displayed remarkably reduced cell wall thickness compared with controls.
+   - **GhERF108** interacted with GhARF7-1 and GhARF7-2 to enhance the activation of the MYB transcription factor gene GhMYBL1 (MYB domain-like protein 1) in fibers.
+   - Our findings demonstrate that the collaboration between **GhERF108** and GhARF7s establishes crosstalk in ethylene–auxin signaling to activate GhMYBL1, ultimately leading to the activation of fiber SCW biosynthesis.
 
 ## Function-related keywords:
-   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[ethylene-response](/tags/ethylene-response/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.]( https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad214](https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542517](https://pubmed.ncbi.nlm.nih.gov/37542517/)

@@ -3,21 +3,24 @@ description: Ghir D12G012350.1 ; Gossypium hirsutum
 meta_title:
 title: GhCYP703A2
 categories: [Gossypium hirsutum]
-tags: [ fertility,sterile,heterosis,male fertility ]
+tags: [ fertility,anther,sterile,heterosis,male fertility,fatty acid hydroxylation,fatty acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Ghir D12G012350.1]()
 - **Gene Symbol:** GhCYP703A2
 - **Gene Name:** 
-- **Genome:** [Gossypium hirsutum (TM-1) reference genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Gossypium hirsutum (TM-1) reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   -  our characterization uncovered functions of **GhCYP703A2** in sporopollenin formation and fertility, providing guidance for creating male-sterile lines to facilitate hybrid cotton production and therefore exploit heterosis for improvement of cotton.
+   - Cytochrome P450 mono-oxygenase CYP703A2 plays a central role in sporopollenin formation and ms5ms6 fertility in cotton.
+   - Ms5 and Ms6 encode **GhCYP703A2** and function in fatty acid hydroxylation.
+   - **GhCYP703A2** mutations in ms5ms6A alter anther fatty acid and lipid profiles.
+   - Our characterization uncovered functions of **GhCYP703A2** in sporopollenin formation and fertility, providing guidance for creating male-sterile lines to facilitate hybrid cotton production and therefore exploit heterosis for improvement of cotton.
 
 ## Function-related keywords:
-   - [fertility](/tags/fertility/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)
+   - [fertility](/tags/fertility/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[fatty-acid-hydroxylation](/tags/fatty-acid-hydroxylation/)&nbsp;,&nbsp;[fatty-acid](/tags/fatty-acid/)
 
 ## Literature:
    - [Cytochrome P450 mono-oxygenase CYP703A2 plays a central role in sporopollenin formation and ms5ms6 fertility in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13340)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13340](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13340)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35929662](https://pubmed.ncbi.nlm.nih.gov/35929662/)

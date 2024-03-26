@@ -3,21 +3,24 @@ description: Gossypium hirsutum
 meta_title:
 title: GhAP1-D3
 categories: [Gossypium hirsutum]
-tags: [ flowering ]
+tags: [ quality,yield,flowering time,flowering,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhAP1-D3
 - **Gene Name:** 
-- **Genome:** [cotton reference genome v2.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [cotton reference genome v2.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - **GhAP1-D3** positively regulates flowering time and early maturity with no yield and fiber quality penalties in upland cotton
+   - Transgenic plants overexpressing **GhAP1-D3** showed significantly early flowering and early maturity without penalties for yield and fiber quality compared to wild-type (WT) plants.
+   - Changes in **GhAP1-D3** transcript levels clearly affected the expression of multiple key flowering regulatory genes.
    - We propose that epigenetic modifications modulate **GhAP1-D3** expression to positively regulate FTi in cotton through interaction of the encoded GhAP1 with GhSOC1 and affecting the transcription of multiple flowering-related genes.
 
 ## Function-related keywords:
-   - [flowering](/tags/flowering/)
+   - [quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [GhAP1-D3 positively regulates flowering time and early maturity with no yield and fiber quality penalties in upland cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13409)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13409](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13409)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36398758](https://pubmed.ncbi.nlm.nih.gov/36398758/)

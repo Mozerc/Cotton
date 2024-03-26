@@ -3,21 +3,24 @@ description: Gh_D06G2316 ; Gossypium hirsutum
 meta_title:
 title: GhTCE1
 categories: [Gossypium hirsutum]
-tags: [ callus,callus formation ]
+tags: [ transcription factor,growth,cell elongation,callus,callus formation,cell fate transition ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D06G2316]()
 - **Gene Symbol:** GhTCE1
 - **Gene Name:** 
-- **Genome:** [cotton genome database (https://cottonfgd.org/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [M-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - **GhTCE1**–GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton
+   - Identify **GhTCE1**, a basic helix–loop–helix family transcription factor, and its interacting partners as a central regulatory module of early cell fate transition during in vitro dedifferentiation of cotton (Gossypium hirsutum).
+   - **GhTCE1**-overexpressing tissues underwent callus cell growth, but organogenesis was repressed.
+   - **GhTCE1** promotes callus cell elongation during dedifferentiation of cotton cells.
 
 ## Function-related keywords:
-   - [callus](/tags/callus/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)&nbsp;,&nbsp;[cell-fate-transition](/tags/cell-fate-transition/)
 
 ## Literature:
    - [GhTCE1-GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton.]( https://academic.oup.com/plcell/article/34/11/4554/6668317?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac252](https://academic.oup.com/plcell/article/34/11/4554/6668317?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35972347](https://pubmed.ncbi.nlm.nih.gov/35972347/)

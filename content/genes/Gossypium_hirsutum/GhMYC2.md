@@ -3,21 +3,24 @@ description: CotAD_32778 ; Gossypium hirsutum
 meta_title:
 title: GhMYC2
 categories: [Gossypium hirsutum]
-tags: [ resistance,flavonoid,flavonoid biosynthesis ]
+tags: [ kinase,resistance,protein kinase,flavonoid,protoplasts,flavonoid biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[CotAD_32778]()
 - **Gene Symbol:** GhMYC2
 - **Gene Name:** 
-- **Genome:** [Gossypium hirsutum (AD1) 'TM-1' genome CGP-BGI_v1(AD1_BGI database; downloaded from www.cottongen.org)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Gossypium hirsutum (AD1) 'TM-1' genome CGP-BGI_v1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - A novel mitogen-activated protein kinase (MAPK) cascade composed of GhMKK2, GhNTF6 and **GhMYC2** was identified. 
+   - The **GhMYC2**-mediated expression of several flavonoid biosynthesis-related genes, which led to flavonoid accumulation.
+   - The expression of flavonoid biosynthesis-related genes was significantly reduced in **GhMYC2**-silenced cotton after Fov infection but increased in **GhMYC2**-overexpressing cotton protoplasts.
    - The functional analysis indicated that group IIc WRKY TFs induced the GhMKK2-GhNTF6 pathway to increase resistance to Fov by upregulating the **GhMYC2**-mediated expression of several flavonoid biosynthesis-related genes, which led to flavonoid accumulation.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[protoplasts](/tags/protoplasts/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
 
 ## Literature:
    - [Group IIc WRKY transcription factors regulate cotton resistance to Fusarium oxysporum by promoting GhMKK2-mediated flavonoid biosynthesis.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18329)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18329](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18329)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35727190](https://pubmed.ncbi.nlm.nih.gov/35727190/)

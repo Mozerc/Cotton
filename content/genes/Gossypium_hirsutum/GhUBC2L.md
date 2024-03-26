@@ -3,21 +3,25 @@ description: Gh_D08G2323 ; Gossypium hirsutum
 meta_title:
 title: GhUBC2L
 categories: [Gossypium hirsutum]
-tags: [ organ size ]
+tags: [ growth,development,plant development,plant growth,cell cycle,cell proliferation,organ size,cell expansion ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D08G2323]()
 - **Gene Symbol:** GhUBC2L
 - **Gene Name:** 
-- **Genome:** [G. hirsutum cv. TM-1 genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum cv. TM-1 genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   -  we identified an E2 enzyme **GhUBC2L** that modulates histone monoubiquitination synergistically with an E3 ligase GhUbox8 to mediate organ size control in cotton.
+   - Identify an E2 gene **GhUBC2L** and show its positive role in cell proliferation and expansion.
+   - Complete knock-down of **GhUBC2L** in cotton resulted in retarded growth and reduced organ size.
+   - Overexpression of **GhUBC2L** promoted cotton growth, generating enlarged organs in size. Monoubiquitination of H2A and H2B was strongly impaired in **GhUBC2L**-suppressed cotton but slightly enhanced in **GhUBC2L**-overexpressed plant.
+   - **GhUBC2L** modulates histone monoubiquitination synergistically with GhUbox8 to regulate the expression of genes involved in organ development and cell cycle, thus controlling organ size in cotton.
+   - We identified an E2 enzyme **GhUBC2L** that modulates histone monoubiquitination synergistically with an E3 ligase GhUbox8 to mediate organ size control in cotton.
 
 ## Function-related keywords:
-   - [organ-size](/tags/organ-size/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[organ-size](/tags/organ-size/)&nbsp;,&nbsp;[cell-expansion](/tags/cell-expansion/)
 
 ## Literature:
    - [Histone ubiquitination controls organ size in cotton (Gossypium hirsutum).]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15716)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15716](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15716)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35218092](https://pubmed.ncbi.nlm.nih.gov/35218092/)

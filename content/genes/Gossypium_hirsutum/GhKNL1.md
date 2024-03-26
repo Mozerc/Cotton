@@ -3,23 +3,24 @@ description: Gossypium hirsutum
 meta_title:
 title: GhKNL1
 categories: [Gossypium hirsutum]
-tags: [ cell wall,ubiquitin ]
+tags: [ cell wall,cell elongation,ubiquitin,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhKNL1
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - Overexpression of **GhKNL1** reduces the expression of GhXTH1, Gh1,3-β-G, the cell wall protein GhAGP4, and SCW biosynthesis genes such as GhCesA4, thus resulting in decreased fiber length and thinner SCWs.
    - GhHUB2 ubiquitinates **GhKNL1** and directs its degradation through the ubiquitin–26S proteasome-dependent pathway. Our study thus reveals a novel function of HUB2 in plants.
-   -  **GhKNL1**, which is predominantly expressed in developing fibers.
+   - **GhKNL1**, which is predominantly expressed in developing fibers.
+   - hHUB2 negatively regulated **GhKNL1** protein levels and lead to the disinhibition of genes such as GhXTH1, Gh1,3-β-G, GhCesA4, GhAGP4, GhCTL1, and GhCOBL4, thus promoting fiber elongation and enhancing SCW biosynthesis.
 
 ## Function-related keywords:
-   - [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)
+   - [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [GhHUB2, a ubiquitin ligase, is involved in cotton fiber development via the ubiquitin-26S proteasome pathway.]( https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery269](https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30053051](https://pubmed.ncbi.nlm.nih.gov/30053051/)

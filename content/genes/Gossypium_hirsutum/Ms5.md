@@ -3,23 +3,24 @@ description: Ghir_A12G012140 ; Gossypium hirsutum
 meta_title:
 title: Ms5
 categories: [Gossypium hirsutum]
-tags: [ development,anther,sterility,map-based cloning,sterile,anther development,male sterility ]
+tags: [ fertility,sterility,map-based cloning,male sterility,male fertility,fatty acid hydroxylation,fatty acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Ghir_A12G012140]()
 - **Gene Symbol:** Ms5
 - **Gene Name:** 
-- **Genome:** [genome sequence of G. hirsutum cv. TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genome sequence of G. hirsutum cv. TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - **Ms5** and Ms6 loci through map-based cloning and confirmed their function in male sterility through CRISPR/Cas9 gene editing.
+   - Identified the **Ms5** and Ms6 loci through map-based cloning and confirmed their function in male sterility through CRISPR/Cas9 gene editing.
    - **Ms5** and Ms6 are highly expressed in stages 7–9 anthers and encode the cytochrome P450 mono-oxygenases CYP703A2-A and CYP703A2-D. 
-   - The male-sterile line **Ms5**ms6A has defective anther development.
+   - Cytochrome P450 mono-oxygenase CYP703A2 plays a central role in sporopollenin formation and **Ms5**ms6 fertility in cotton.
+   - **Ms5** and Ms6 encode GhCYP703A2 and function in fatty acid hydroxylation.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)
+   - [fertility](/tags/fertility/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[fatty-acid-hydroxylation](/tags/fatty-acid-hydroxylation/)&nbsp;,&nbsp;[fatty-acid](/tags/fatty-acid/)
 
 ## Literature:
    - [Cytochrome P450 mono-oxygenase CYP703A2 plays a central role in sporopollenin formation and ms5ms6 fertility in cotton.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13340)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13340](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13340)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35929662](https://pubmed.ncbi.nlm.nih.gov/35929662/)

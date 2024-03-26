@@ -3,21 +3,24 @@ description: CotAD_36041 ; Gossypium hirsutum
 meta_title:
 title: GhKNOX2-1
 categories: [Gossypium hirsutum]
-tags: [ leaf,auxin,leaf shape ]
+tags: [ leaf,development,leaf development,auxin,leaf shape ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[CotAD_36041]()
 - **Gene Symbol:** GhKNOX2-1
 - **Gene Name:** 
-- **Genome:** [ G. hirsutum (AADD genome)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum (AADD genome)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - suggesting that the GhARF16-1 and **GhKNOX2-1** interaction paradigm also functions to regulate leaf shape in Arabidopsis. To our knowledge, our results uncover a novel mechanism by which auxin, through the key component ARF16-1 and its downstream-activated gene KNOX2-1, determines leaf morphology in eudicots.
+   - GhARF16-1 modulates leaf development by transcriptionally regulating the **GhKNOX2-1** gene in cotton.
+   - Comparative transcriptome analysis revealed that the GhARF16-1 and **GhKNOX2-1** genes might be potential regulators of leaf shape.
+   - We functionally characterized the auxin-responsive factor ARF16-1 acting upstream of **GhKNOX2-1** to determine leaf morphology in cotton.
+   - Suggesting that the GhARF16-1 and **GhKNOX2-1** interaction paradigm also functions to regulate leaf shape in Arabidopsis. To our knowledge, our results uncover a novel mechanism by which auxin, through the key component ARF16-1 and its downstream-activated gene KNOX2-1, determines leaf morphology in eudicots.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)
 
 ## Literature:
    - [GhARF16-1 modulates leaf development by transcriptionally regulating the GhKNOX2-1 gene in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13484)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13484](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13484)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32981232](https://pubmed.ncbi.nlm.nih.gov/32981232/)

@@ -3,21 +3,24 @@ description: Gh_A08G2417 ; Gossypium hirsutum
 meta_title:
 title: GhWRKY41
 categories: [Gossypium hirsutum]
-tags: [ lignin ]
+tags: [ resistance,lignin,defence,defence response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A08G2417]()
 - **Gene Symbol:** GhWRKY41
 - **Gene Name:** 
-- **Genome:** [G. hirsutum cv. TM-1 reference genome (https://cottonfgd.org/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum cv. TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - **GhWRKY41** forms a positive feedback regulation loop and increases cotton defence response against Verticillium dahliae by regulating phenylpropanoid metabolism.
+   - Overexpression of **GhWRKY41** in transgenic cotton and Arabidopsis enhances resistance to V. dahliae, while knock-down increases cotton more susceptibility to the fungus.
+   - **GhWRKY41** homodimer directly activates the expression of GhC4H and Gh4CL, thereby modulating the accumulation of lignin and flavonoids.
    - We also show that **GhWRKY41** homodimer directly activates the expression of GhC4H and Gh4CL, thereby modulating the accumulation of lignin and flavonoids.
 
 ## Function-related keywords:
-   - [lignin](/tags/lignin/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)
 
 ## Literature:
    - [GhWRKY41 forms a positive feedback regulation loop and increases cotton defence response against Verticillium dahliae by regulating phenylpropanoid metabolism.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14008)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14008](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14008)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36632704](https://pubmed.ncbi.nlm.nih.gov/36632704/)

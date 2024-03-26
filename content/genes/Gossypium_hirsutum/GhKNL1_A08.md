@@ -3,14 +3,14 @@ description: Gh_A03G021900 ; Gossypium hirsutum
 meta_title:
 title: GhKNL1_A08
 categories: [Gossypium hirsutum]
-tags: [ development,quality,breeding,cell wall,cell elongation,cell wall synthesis,secondary cell wall ]
+tags: [ development,quality,breeding,cell wall,cell elongation,cell wall synthesis,secondary cell wall,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A03G021900]()
 - **Gene Symbol:** GhKNL1_A08
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
@@ -19,7 +19,7 @@ tags: [ development,quality,breeding,cell wall,cell elongation,cell wall synthes
    - An effective clue for potentially improving fiber quality by genetic manipulation of GhKNL1 in cotton breeding.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [GhKNL1 controls fiber elongation and secondary cell wall synthesis by repressing its downstream genes in cotton (Gossypium hirsutum).]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13192)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13192](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13192)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34796654](https://pubmed.ncbi.nlm.nih.gov/34796654/)

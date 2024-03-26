@@ -10,10 +10,12 @@ tags: [ transporter,sugar ]
 - **Gene ID:**	[Gh_D01G0848]()
 - **Gene Symbol:** GhTST2
 - **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - Overexpression of either GhCBL2, GhCIPK6, or **GhTST2** was sufficient to promote sugar accumulation in transgenic cotton, whereas RNAi-mediated knockdown of GhCIPK6 expression or CRISPR-Cas9-mediated knockout of **GhTST2** resulted in significantly decreased Glc content.
+   - Mutation of GhCBL2 or **GhTST2** in GhCIPK6-overexpressing cotton reinstated sugar contents comparable to wild-type plants.
    - GhCIPK6 is recruited to the tonoplast by GhCBL2 and interacts with the tonoplast-localized sugar transporter **GhTST2**. Overexpression of either GhCBL2, GhCIPK6, or **GhTST2** was sufficient to promote sugar accumulation in transgenic cotton
 
 ## Function-related keywords:

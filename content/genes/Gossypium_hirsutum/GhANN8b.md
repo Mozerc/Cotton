@@ -10,13 +10,14 @@ tags: [ salinity,salt,tolerance,salt tolerance,calcium,phosphatase,protein phosp
 - **Gene ID:**	[Gh_D10G1895]()
 - **Gene Symbol:** GhANN8b
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - Phosphatase GhDsPTP3a interacts with annexin protein **GhANN8b** to reversely regulate salt tolerance in cotton
    - A cotton phosphatase GhDsPTP3a and an annexin protein **GhANN8b** interact and reversely modulate Ca2+ and Na+ fluxes in cotton salinity responses.
    - **GhANN8b** mediates calcium influx and is involved in GhDsPTP3a-mediated salt response.
+   - Ectopic expression of GhDsPTP3a and **GhANN8b** oppositely regulates plant salt tolerance and calcium influx.
 
 ## Function-related keywords:
    - [salinity](/tags/salinity/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)

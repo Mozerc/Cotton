@@ -3,14 +3,14 @@ description: ubiquitin-conjugating enzyme ; Gh_D03G0718 ; Gossypium hirsutum
 meta_title:
 title: GhUCE
 categories: [Gossypium hirsutum]
-tags: [ flowering,ubiquitin ]
+tags: [ flowering,ubiquitin,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D03G0718]()
 - **Gene Symbol:** GhUCE
 - **Gene Name:** ubiquitin-conjugating enzyme
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
@@ -19,7 +19,7 @@ tags: [ flowering,ubiquitin ]
    - GhCIP1 and **GhUCE** are previously undescribed genes contributing to FD and fiber initiation in cotton.
 
 ## Function-related keywords:
-   - [flowering](/tags/flowering/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)
+   - [flowering](/tags/flowering/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [Resequencing a core collection of upland cotton identifies genomic variation and loci influencing fiber quality and yield.]( https://www.nature.com/articles/s41588-018-0119-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-018-0119-7](https://www.nature.com/articles/s41588-018-0119-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29736016](https://pubmed.ncbi.nlm.nih.gov/29736016/)

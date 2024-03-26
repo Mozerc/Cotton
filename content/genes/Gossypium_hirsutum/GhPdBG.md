@@ -3,21 +3,24 @@ description: Gh_D05G3800 ; Gossypium hirsutum
 meta_title:
 title: GhPdBG
 categories: [Gossypium hirsutum]
-tags: [ development ]
+tags: [ development,glucanase,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D05G3800]()
 - **Gene Symbol:** GhPdBG
 - **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [M-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - The plasmodesmata-associated β-1,3-glucanase gene **GhPdBG** regulates fiber development in cotton.
+   - Identified a plasmodesmal β-1,3-glucanase gene (designated **GhPdBG**) controlling the opening and closing of plasmodesmata in cotton fibers.
+   - This finding suggests that plasmodesmal targeting of **GhPdBG**, as a switch of intercellular channels, regulates single-celled fiber and trichome development in cotton.
    - Ectopic expression of **GhPdBG** revealed that it functions in regulating fiber and trichome length and/or density by modulating plasmodesmatal permeability. This finding suggests that plasmodesmal targeting of **GhPdBG**, as a switch of intercellular channels, regulates single-celled fiber and trichome development in cotton.
 
 ## Function-related keywords:
-   - [development](/tags/development/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[glucanase](/tags/glucanase/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [The plasmodesmata-associated β-1,3-glucanase gene GhPdBG regulates fiber development in cotton]( https://www.sciencedirect.com/science/article/pii/S2214514123000958)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.06.010](https://www.sciencedirect.com/science/article/pii/S2214514123000958)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)

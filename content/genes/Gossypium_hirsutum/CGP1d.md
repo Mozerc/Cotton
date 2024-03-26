@@ -3,23 +3,24 @@ description: Gh_D07G0770 ; Gossypium hirsutum
 meta_title:
 title: CGP1d
 categories: [Gossypium hirsutum]
-tags: [ pigmentation ]
+tags: [ pigmentation,gossypol,gland ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D07G0770]()
 - **Gene Symbol:** CGP1d
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - The gland localized CGP1 controls gland pigmentation and gossypol accumulation in cotton.
    - **CGP1d** encodes a non-functional protein due to a fragment deletion, which causes premature termination.
    - CGP1 knockout did not affect gland structure or density, but affected gland pigmentation.
    - CGP1 and GoPGF form heterodimers to control the synthesis of gossypol and other secondary metabolites in cotton.
 
 ## Function-related keywords:
-   - [pigmentation](/tags/pigmentation/)
+   - [pigmentation](/tags/pigmentation/)&nbsp;,&nbsp;[gossypol](/tags/gossypol/)&nbsp;,&nbsp;[gland](/tags/gland/)
 
 ## Literature:
    - [The gland localized CGP1 controls gland pigmentation and gossypol accumulation in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13323)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13323](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13323)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31883409](https://pubmed.ncbi.nlm.nih.gov/31883409/)

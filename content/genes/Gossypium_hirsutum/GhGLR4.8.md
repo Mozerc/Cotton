@@ -3,23 +3,24 @@ description: Gh_D03G0209 ; Gossypium hirsutum
 meta_title:
 title: GhGLR4.8
 categories: [Gossypium hirsutum]
-tags: [ resistance ]
+tags: [ development,resistance,plant development,disease,disease resistance,pathogen,resistant,disease development,pathogen resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D03G0209]()
 - **Gene Symbol:** GhGLR4.8
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - A GLUTAMATE RECEPTOR‐LIKE gene (**GhGLR4.8**) is identified as an atypical disease‐resistance gene specifying resistance to Fov race 7 through a genome‐wide association study in upland cotton, which provides a new insight into plant–pathogen interactions and facilitates the development of elite Fov‐resistant cultivars.
    - **GhGLR4.8** Is Significantly Associated with Fusarium Wilt Resistance.
    - **GhGLR4.8**A Confers Resistance to Fusarium Wilt in Upland Cotton.
    - Cosegregation between **GhGLR4.8**SNP(A/C) Marker and Fusarium Wilt Resistance.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[disease-development](/tags/disease-development/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
    - [A Single-Nucleotide Mutation in a GLUTAMATE RECEPTOR-LIKE Gene Confers Resistance to Fusarium Wilt in Gossypium hirsutum.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8025038/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/advs.202002723](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8025038/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33854882](https://pubmed.ncbi.nlm.nih.gov/33854882/)

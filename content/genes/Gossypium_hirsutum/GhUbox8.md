@@ -3,21 +3,24 @@ description: Gh_A10G0168 ; Gossypium hirsutum
 meta_title:
 title: GhUbox8
 categories: [Gossypium hirsutum]
-tags: [ organ size ]
+tags: [ development,cell cycle,organ size ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A10G0168]()
 - **Gene Symbol:** GhUbox8
 - **Gene Name:** 
-- **Genome:** [G. hirsutum cv. TM-1 genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum cv. TM-1 genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   -  we identified an E2 enzyme GhUBC2L that modulates histone monoubiquitination synergistically with an E3 ligase **GhUbox8** to mediate organ size control in cotton.
+   - **GhUbox8**, a U-box type E3 ligase protein, was found to interact with GhUBC2L both in vivo and in vitro, indicating their synergistical function in protein ubiquitination.
+   - **GhUbox8** was shown to interact with a series of histone proteins, including histone H2A and H2B, indicating its potential monoubiquitination on H2A and H2B.
+   - Our results show that GhUBC2L modulates histone monoubiquitination synergistically with **GhUbox8** to regulate the expression of genes involved in organ development and cell cycle, thus controlling organ size in cotton.
+   - Identified an E2 enzyme GhUBC2L that modulates histone monoubiquitination synergistically with an E3 ligase **GhUbox8** to mediate organ size control in cotton.
 
 ## Function-related keywords:
-   - [organ-size](/tags/organ-size/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[organ-size](/tags/organ-size/)
 
 ## Literature:
    - [Histone ubiquitination controls organ size in cotton (Gossypium hirsutum).]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15716)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15716](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15716)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35218092](https://pubmed.ncbi.nlm.nih.gov/35218092/)

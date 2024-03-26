@@ -3,21 +3,23 @@ description: Gossypium hirsutum
 meta_title:
 title: GhBIN2
 categories: [Gossypium hirsutum]
-tags: [ resistance ]
+tags: [ kinase,resistance,protein kinase,defence ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhBIN2
 - **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [reference genome sequence for G.hirsutum ZJU v2.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - **GhBIN2** negatively regulates plant defence against Verticillium dahliae in Arabidopsis and cotton.
+   - A protein kinase **GhBIN2** from Gossypium hirsutum, and identified **GhBIN2** as a negative regulator of resistance to V. dahliae.
    - Collectively, these results show that BIN2 interacts with JAZ proteins and plays a negative role in plant resistance to V. dahliae.  Thus, BIN2 may be a potential target gene for genetic engineering against Verticillium wilt in crops.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[defence](/tags/defence/)
 
 ## Literature:
    - [BIN2 negatively regulates plant defence against Verticillium dahliae in Arabidopsis and cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13640)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13640](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13640)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34036698](https://pubmed.ncbi.nlm.nih.gov/34036698/)

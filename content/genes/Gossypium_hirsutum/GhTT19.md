@@ -3,21 +3,24 @@ description: GH_A07G0814 ; Gossypium hirsutum
 meta_title:
 title: GhTT19
 categories: [Gossypium hirsutum]
-tags: [ pigmentation ]
+tags: [ flower,pigmentation ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GH_A07G0814]()
 - **Gene Symbol:** GhTT19
 - **Gene Name:** 
-- **Genome:** [G. hirsutum L. acc. TM-1 (http://cotton.zju.edu.cn/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum L. acc. TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - A glutathione S-transferase **GhTT19** determines flower petal pigmentation via regulating anthocyanin accumulation in cotton.
+   - The transgenic analysis confirmed the function of **GhTT19** in regulating the red flower phenotype in cotton.
+   - **GhTT19** expression to mediate the light-activation of petal anthocyanin pigmentation in cotton.
    - The essential light signalling component GhHY5 bonded to and activated the promoter of GhPAP1, and the GhHY5-GhPAP1 module together regulated **GhTT19** expression to mediate the light-activation of petal anthocyanin pigmentation in cotton.
 
 ## Function-related keywords:
-   - [pigmentation](/tags/pigmentation/)
+   - [flower](/tags/flower/)&nbsp;,&nbsp;[pigmentation](/tags/pigmentation/)
 
 ## Literature:
    - [A glutathione S-transferase GhTT19 determines flower petal pigmentation via regulating anthocyanin accumulation in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13965)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13965](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13965)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36385569](https://pubmed.ncbi.nlm.nih.gov/36385569/)

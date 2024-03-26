@@ -3,21 +3,23 @@ description: Ghir_D04G017310 ; Gossypium hirsutum
 meta_title:
 title: GhGASL3
 categories: [Gossypium hirsutum]
-tags: [ breeding,fe ]
+tags: [ development,seed,quality,yield,breeding,seed development,fe,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Ghir_D04G017310]()
 - **Gene Symbol:** GhGASL3
 - **Gene Name:** 
-- **Genome:** [TM-1 genome (HAU-AD1_genome_v1.0_v1.1)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 genome (HAU-AD1_genome_v1.0_v1.1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - GhACT1 and **GhGASL3**, reported to have clear functions, were, respectively, located in qFE-A05-4 and qFE-D04-3, two stable QTLs for FE. This study revealed the genetic basis of important agronomic traits of Upland cotton, and the results will facilitate molecular breeding in cotton.
+   - The gene **GhGASL3** in qFE-D04-3 has also been reported to be related to the development of cotton fibers and had significant expression differences between light seed mutants and wild type.
+   - Most of the functions reported for these genes were related to fiber development, and genes such as GhACT1, GhCaM7, **GhGASL3**, GhMADS14, GhMYB25, GhPRF1_A, GhSusA1 and GhPHYA1 were located in QTLs for fiber quality or fiber yield traits. 
 
 ## Function-related keywords:
-   - [breeding](/tags/breeding/)&nbsp;,&nbsp;[fe](/tags/fe/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[fe](/tags/fe/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [Genome-wide association mapping for agronomic traits in an 8-way Upland cotton MAGIC population by SLAF-seq.]( https://link.springer.com/article/10.1007/s00122-021-03835-w#Tab3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-021-03835-w](https://link.springer.com/article/10.1007/s00122-021-03835-w#Tab3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33912997](https://pubmed.ncbi.nlm.nih.gov/33912997/)

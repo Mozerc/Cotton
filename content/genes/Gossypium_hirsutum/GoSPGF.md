@@ -3,21 +3,23 @@ description: Gossypium STEM PIGMENT GLAND FORMING GENE ; GH_D08G1984 ; Gossypium
 meta_title:
 title: GoSPGF
 categories: [Gossypium hirsutum]
-tags: [ stems ]
+tags: [ stem,stems,map-based cloning,pigment biosynthesis,virus,gossypol,gland ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GH_D08G1984]()
 - **Gene Symbol:** GoSPGF
 - **Gene Name:** Gossypium STEM PIGMENT GLAND FORMING GENE
-- **Genome:** [TM-1 reference genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - virus-induced gene silencing of **GoSPGF** resulted in glandless stems and dramatically reduced gossypol content. Comparative transcriptomic data showed that loss of **GoSPGF** significantly suppressed expression of many genes involved in gossypol biosynthesis and altered expression of genes involved in gibberellic acid signaling/biosynthesis. 
+   - The discovery of the novel stem pigment gland-forming gene **GoSPGF** by map-based cloning.
+   - Virus-induced gene silencing of **GoSPGF** resulted in glandless stems and dramatically reduced gossypol content. Comparative transcriptomic data showed that loss of **GoSPGF** significantly suppressed expression of many genes involved in gossypol biosynthesis and altered expression of genes involved in gibberellic acid signaling/biosynthesis. 
+   - Comparative transcriptomic data showed that loss of **GoSPGF** significantly suppressed expression of many genes involved in gossypol biosynthesis and altered expression of genes involved in gibberellic acid signaling/biosynthesis. 
 
 ## Function-related keywords:
-   - [stems](/tags/stems/)
+   - [stem](/tags/stem/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[pigment-biosynthesis](/tags/pigment-biosynthesis/)&nbsp;,&nbsp;[virus](/tags/virus/)&nbsp;,&nbsp;[gossypol](/tags/gossypol/)&nbsp;,&nbsp;[gland](/tags/gland/)
 
 ## Literature:
    - [Identification and characteristics of a novel gland-forming gene in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15477)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15477](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15477)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34492144](https://pubmed.ncbi.nlm.nih.gov/34492144/)

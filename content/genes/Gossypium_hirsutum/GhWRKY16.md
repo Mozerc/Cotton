@@ -3,21 +3,24 @@ description: Gh_D06G0175 ; Gossypium hirsutum
 meta_title:
 title: GhWRKY16
 categories: [Gossypium hirsutum]
-tags: [ development ]
+tags: [ transcription factor,development,kinase,protein kinase,ovule,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D06G0175]()
 - **Gene Symbol:** GhWRKY16
 - **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - our data demonstrate that **GhWRKY16** plays a crucial role in fiber initiation and elongation, and that **GhWRKY16** phosphorylation by GhMPK3-1 is essential for the transcriptional activation on downstream genes during the fiber development of cotton.
+   - Our data demonstrate that **GhWRKY16** plays a crucial role in fiber initiation and elongation, and that **GhWRKY16** phosphorylation by GhMPK3-1 is essential for the transcriptional activation on downstream genes during the fiber development of cotton.
+   - A fiber-preferential WRKY transcription factor, **GhWRKY16**, positively regulates fiber initiation and elongation.
+   - **GhWRKY16**-silenced transgenic cotton displayed a remarkably reduced number of fiber protrusions on the ovule and shorter fibers compared to the wild-type.
+   - **GhWRKY16** is phosphorylated by the mitogen-activated protein kinase GhMPK3-1 at residues T-130 and S-260.
 
 ## Function-related keywords:
-   - [development](/tags/development/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[ovule](/tags/ovule/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [Phosphorylation of WRKY16 by MPK3-1 is essential for its transcriptional activity during fiber initiation and elongation in cotton (Gossypium hirsutum).]( https://academic.oup.com/plcell/article/33/8/2736/6287074?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab153](https://academic.oup.com/plcell/article/33/8/2736/6287074?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34043792](https://pubmed.ncbi.nlm.nih.gov/34043792/)

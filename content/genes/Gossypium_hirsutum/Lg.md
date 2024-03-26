@@ -3,23 +3,25 @@ description: Gh_D11G3168 ; Gossypium hirsutum
 meta_title:
 title: Lg
 categories: [Gossypium hirsutum]
-tags: [ cell wall,cell wall synthesis,secondary cell wall ]
+tags: [ cell wall,cell wall synthesis,secondary cell wall,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D11G3168]()
 - **Gene Symbol:** Lg
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - Identified the green fiber gene (**Lg**), which specifically expressed in fibers of secondary cell wall synthesis stage.
+   - **Lg** confers to green coloration in both lint and fuzz, while **Lg**f cotton produces green fuzz, but white lint.
    - **Lg**, an R2R3-MYB transcriptional factor activated suberin pathway genes and promoted suberin accumulation in green fiber.
    - The green fiber gene (**Lg**), which specifically expressed in fibers of secondary cell wall synthesis stage.
    - **Lg** promotes suberin synthesis and accumulation in green fiber.
 
 ## Function-related keywords:
-   - [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
+   - [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [Cotton green fiber promotes suberin synthesis interfering cellulose deposition in the secondary cell wall]( https://www.sciencedirect.com/science/article/pii/S0926669023001103)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.indcrop.2023.116346](https://www.sciencedirect.com/science/article/pii/S0926669023001103)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)

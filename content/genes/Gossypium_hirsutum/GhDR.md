@@ -10,11 +10,13 @@ tags: [ dwarf ]
 - **Gene ID:**	[GH_A09G2280]()
 - **Gene Symbol:** GhDR
 - **Gene Name:** 
-- **Genome:** [ reference genome TM-1_ZJU_v2.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [reference genome TM-1_ZJU_v2.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - Based on gene annotation and expression changes between the mutant and normal plants, **GH_A09G2280** was considered to be the best candidate gene responsible for the dwarf and red mutant phenotypes.
+   - A 2-bp frameshift deletion at **GhDR**, which encodes a B-BOX protein that co-segregates with the dwarf-red phenotype in Gossypium hirsutums L.
+   - As further evidence that GH_A09G2280 is the best candidate of **GhDR**, of the 25 genes in the mapping interval, GH_A09G2280 was annotated as a homolog of Arabidopsis BBX24, a gene reported to be associated with hypocotyl elongation and anthocyanin accumulation.
+   - Based on gene annotation and expression changes between the mutant and normal plants, GH_A09G2280 was considered to be the best candidate gene responsible for the dwarf and red mutant phenotypes.
 
 ## Function-related keywords:
    - [dwarf](/tags/dwarf/)

@@ -3,21 +3,23 @@ description: Ghir_D08G018460 ; Gossypium hirsutum
 meta_title:
 title: GhMYB66
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ sterility,tapetum,male sterility ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Ghir_D08G018460]()
 - **Gene Symbol:** GhMYB66
 - **Gene Name:** 
-- **Genome:** [TM-1 reference genome TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - we shed light on the **GhMYB66**–GhMYB4–GhCKI regulatory pathway in response to HT in cotton anthers.
+   - **GhMYB66** interacts with GhMYB4 and promotes its binding to ProGhCKI.
+   - The expression of GhMYB4 in tetrad stage anthers and promoted the formation of the GhMYB4/**GhMYB66** heterodimer, which in turn elevated the transcription of GhCKI in the tapetum, leading to male sterility.
+   - We shed light on the **GhMYB66**–GhMYB4–GhCKI regulatory pathway in response to HT in cotton anthers.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [sterility](/tags/sterility/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)
 
 ## Literature:
    - [High temperature induces male sterility via MYB66-MYB4-Casein kinase I signaling in cotton.]( https://academic.oup.com/plphys/article/189/4/2091/6581721?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac213](https://academic.oup.com/plphys/article/189/4/2091/6581721?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35522025](https://pubmed.ncbi.nlm.nih.gov/35522025/)

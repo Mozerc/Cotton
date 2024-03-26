@@ -10,11 +10,13 @@ tags: [ architecture,breeding,plant architecture ]
 - **Gene ID:**	[Gh_A11G1857]()
 - **Gene Symbol:** GhCUL1
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - GhUBP15 and **GhCUL1** were identified to influence PH in further analysis. We obtained a time series of PH values for three field conditions based on remote sensing with UAV. The key genes identified in this study are of great value for the breeding of ideal plant architecture in cotton.
+   - Knockdown of GhUBP15 and **GhCUL1** expression was associated with reduced PH in R15 VIGS plants.
+   - VIGS of GhUBP15 and **GhCUL1** reduced PH in cotton.
 
 ## Function-related keywords:
    - [architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)

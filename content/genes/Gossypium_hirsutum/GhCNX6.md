@@ -3,23 +3,24 @@ description: Gh_D09G2402.1 ; Gossypium hirsutum
 meta_title:
 title: GhCNX6
 categories: [Gossypium hirsutum]
-tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance ]
+tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress tolerance,er stress,virus ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D09G2402.1]()
 - **Gene Symbol:** GhCNX6
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - Virus-induced gene silencing (VIGS) mediated **GhCNX6** silenced cotton plants were found highly sensitive to drought stress.
    - Arabidopsis thaliana plants overexpressing **GhCNX6** showed stronger tolerance to drought stress, indicating that the **GhCNX6** gene is involved in the action mechanism of cotton drought stress and enhances the tolerance to drought stress.
    - Gossypium plants with **GhCNX6** gene silenced by VIGS were sensitive to drought stress.
+   - ER whorls triggered by **GhCNX6** were discovered involved in drought stress on cotton.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[er-stress](/tags/er-stress/)&nbsp;,&nbsp;[virus](/tags/virus/)
 
 ## Literature:
    - [ER whorls triggered by GhCNX6 were discovered involved in drought stress on cotton]( https://www.sciencedirect.com/science/article/pii/S0098847222002842?via%3Dihub#sec0010)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envexpbot.2022.105062](https://www.sciencedirect.com/science/article/pii/S0098847222002842?via%3Dihub#sec0010)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)

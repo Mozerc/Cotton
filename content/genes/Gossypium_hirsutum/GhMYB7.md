@@ -10,7 +10,7 @@ tags: [ cellulose ]
 - **Gene ID:**	[Gh 410G0516]()
 - **Gene Symbol:** GhMYB7
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:

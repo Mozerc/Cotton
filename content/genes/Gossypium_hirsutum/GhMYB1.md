@@ -10,7 +10,7 @@ tags: [ development,cell wall,cell wall synthesis ]
 - **Gene ID:**	[CotAD_64719]()
 - **Gene Symbol:** GhMYB1
 - **Gene Name:** 
-- **Genome:** [Gossypium hirsutum genome (AD)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Gossypium hirsutum genome (AD)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:

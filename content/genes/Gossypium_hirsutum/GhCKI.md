@@ -1,23 +1,25 @@
 ---
-description: Gossypium hirsutum
+description: Gossypium hirsutum Casein kinase I ; Gossypium hirsutum
 meta_title:
 title: GhCKI
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ temperature,sterility,tapetum,male sterility,temperature response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhCKI
-- **Gene Name:** 
-- **Genome:** [TM-1 reference genome TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Gene Name:** Gossypium hirsutum Casein kinase I
+- **Genome:** [TM-1 reference genome TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - we shed light on the GhMYB66–GhMYB4–**GhCKI** regulatory pathway in response to HT in cotton anthers.
+   - **GhCKI** DNA methylation are all involved in HT-induced male sterility in cotton.
+   - In the tapetum of early-stage cotton anthers, upregulated expression of GhMYB4 under HT and overexpressed GhMYB4 under normal temperature both led to severe male sterility phenotypes, coupled with enhanced expression of **GhCKI**.
+   - We shed light on the GhMYB66–GhMYB4–**GhCKI** regulatory pathway in response to HT in cotton anthers.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [temperature](/tags/temperature/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[temperature-response](/tags/temperature-response/)
 
 ## Literature:
    - [High temperature induces male sterility via MYB66-MYB4-Casein kinase I signaling in cotton.]( https://academic.oup.com/plphys/article/189/4/2091/6581721?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac213](https://academic.oup.com/plphys/article/189/4/2091/6581721?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35522025](https://pubmed.ncbi.nlm.nih.gov/35522025/)

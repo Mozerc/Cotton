@@ -1,5 +1,5 @@
 ---
-description: Gh D10G0333 ; Gossypium hirsutum
+description: Gh_D10G0333 ; Gossypium hirsutum
 meta_title:
 title: GhCesA8-2
 categories: [Gossypium hirsutum]
@@ -7,15 +7,16 @@ tags: [ development,cellulose ]
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Gh D10G0333]()
+- **Gene ID:**	[Gh_D10G0333]()
 - **Gene Symbol:** GhCesA8-2
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - GhMYB7 regulated cotton fibre SCW cellulose synthases by directly binding to three distinct cis-elements in the respective GhCesA4, GhCesA7 and GhCesA8 promoters.
    - During fibre development three representative genes: GhCesA4-2, GhCesA7-3, **GhCesA8-2**.
+   - **GhCesA8-2** did not display a similar expression curve and more closely followed that of the wild-type fibres.
 
 ## Function-related keywords:
    - [development](/tags/development/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)

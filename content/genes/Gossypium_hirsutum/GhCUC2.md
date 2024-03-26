@@ -1,23 +1,26 @@
 ---
-description: Gossypium hirsutum
+description: CUP-SHAPED COTYLEDON2 ; Gossypium hirsutum
 meta_title:
 title: GhCUC2
 categories: [Gossypium hirsutum]
-tags: [ aba,abscisic acid ]
+tags: [ development,shoot,plant development,aba,architecture,branching,abscisic acid,plant architecture,shoot architecture ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhCUC2
-- **Gene Name:** 
-- **Genome:** [reference genome TM-1 (AD1) genome NAU-NBI](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Gene Name:** CUP-SHAPED COTYLEDON2
+- **Genome:** [reference genome TM-1 (AD1) genome NAU-NBI]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - The miR164-**GhCUC2**-GhBRC1 module regulates plant architecture through abscisic acid in cotton.
+   - **GhCUC2** interacted with GhBRC1 and exhibited similar negative regulation of branching. Overexpression of GhBRC1 in the brc1-2 mutant partially rescued the mutant phenotype and decreased branch number.
    - GhBRC1 directly bound to the NCED1 promoter and activated its transcription, leading to local abscisic acid (ABA) accumulation and response.
+   - The miR164-**GhCUC2** (CUP-SHAPED COTYLEDON2) module regulates lateral shoot development in cotton and Arabidopsis.
 
 ## Function-related keywords:
-   - [aba](/tags/aba/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[shoot-architecture](/tags/shoot-architecture/)
 
 ## Literature:
    - [The miR164-GhCUC2-GhBRC1 module regulates plant architecture through abscisic acid in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13599)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13599](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13599)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33960609](https://pubmed.ncbi.nlm.nih.gov/33960609/)

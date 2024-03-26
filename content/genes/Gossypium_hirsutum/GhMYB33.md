@@ -10,13 +10,14 @@ tags: [ growth,resistance,defense,plant growth,height,plant height ]
 - **Gene ID:**	[Gh_D05G2713]()
 - **Gene Symbol:** GhMYB33
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - The cotton MYB33 gene is a hub gene regulating the trade-off between plant growth and defense in Verticillium dahliae infection.
    - **GhMYB33** binds to the GhSPL9 promoter and activates its expression to increase plant height.
    - Under Verticillium dahliae infection, **GhMYB33** expression is repressed to promote GhDFR1 transcription, increasing plant resistance.
+   - Our work focuses on the dissection of the molecular mechanism by which **GhMYB33** regulates plant growth and defense.
 
 ## Function-related keywords:
    - [growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)

@@ -3,21 +3,23 @@ description: CONSTANS-like 2 ; Ghir_D03G011010.1 ; Gossypium hirsutum
 meta_title:
 title: Ghir_COL2
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ breeding,recombination ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Ghir_D03G011010.1]()
 - **Gene Symbol:** Ghir_COL2
 - **Gene Name:** CONSTANS-like 2
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - hese results suggest that the gene Ghir_D03G011010.1 encodes CONSTANS-like 2 (**Ghir_COL2**) and is therefore a candidate gene contributing to the early maturity of cotton 
+   - A genome-wide association study (GWAS) was performed with 15 agronomic traits using 267 cotton accessions and identified 163 quantitative trait loci (QTL) and an important candidate gene (**Ghir_COL2**) for early maturity traits.
+   - We inferred that **Ghir_COL2** is a previously unreported gene contributing to the early maturity of cotton and is located between two high-recombination regions, this provides a basis for designing breeding programmes of early maturity cotton.
+   - These results suggest that the gene Ghir_D03G011010.1 encodes CONSTANS-like 2 (**Ghir_COL2**) and is therefore a candidate gene contributing to the early maturity of cotton 
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [breeding](/tags/breeding/)&nbsp;,&nbsp;[recombination](/tags/recombination/)
 
 ## Literature:
    - [Population genomics reveals a fine-scale recombination landscape for genetic improvement of cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14339)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14339](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14339)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31002209](https://pubmed.ncbi.nlm.nih.gov/31002209/)

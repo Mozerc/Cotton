@@ -3,21 +3,23 @@ description: Ghir_A05G042500 ; Gossypium hirsutum
 meta_title:
 title: GhARF18
 categories: [Gossypium hirsutum]
-tags: [ growth,auxin,stress,salt,salt stress ]
+tags: [ growth,development,auxin,resistance,plant development,stress,salt,salt stress,plant growth ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Ghir_A05G042500]()
 - **Gene Symbol:** GhARF18
 - **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum genome (CRI)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - The overexpressed GhARF17 and **GhARF18** transgenic plants had fewer roots dry weight, and smaller leaves but normal in morphology.
+   - The two targets, GhARF17 and **GhARF18**, suppressed plant development and resistance to salt stress. 
    - Our results show that the lncRNA354-miR160b effect on GhARF17/18 expression may modulate auxin signalling and thus affect growth. These results also shed new light on a mechanism of lncRNA-associated responses to salt stress.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
    - [Long noncoding RNA lncRNA354 functions as a competing endogenous RNA of miR160b to regulate ARF genes in response to salt stress in upland cotton.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14133)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14133](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14133)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34164822](https://pubmed.ncbi.nlm.nih.gov/34164822/)

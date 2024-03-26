@@ -1,23 +1,26 @@
 ---
-description: Gossypium hirsutum
+description: bZIP transcription factor 1 ; Gossypium hirsutum
 meta_title:
 title: GhVIP1
 categories: [Gossypium hirsutum]
-tags: [ drought,drought response ]
+tags: [ transcription factor,root,development,plant development,drought,stress,drought stress,seed,seed germination,tolerance,drought tolerance,root development,stress tolerance,seed development,stress response,drought stress response,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhVIP1
-- **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Gene Name:** bZIP transcription factor 1
+- **Genome:** [cotton genome (G. hirsutum TM-1 (AD)1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - A bZIP transcription factor **GhVIP1** increased drought tolerance in upland cotton.
+   - Overexpression of **GhVIP1** in Arabidopsis enhanced plant drought tolerance through increasing the seed germination rate and improving the development of root.
+   - The exogenous expression of **GhVIP1** up-regulated the transcription of genes associated with drought response and proline biosynthesis during drought stress in Arabidopsis.
    - **GhVIP1** plays an essential role in the drought response in plants by activating the expression of genes related to the proline biosynthetic pathway.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [A bZIP transcription factor GhVIP1 increased drought tolerance in upland cotton]( https://jcottonres.biomedcentral.com/articles/10.1186/s42397-023-00148-9#Sec16)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s42397-023-00148-9](https://jcottonres.biomedcentral.com/articles/10.1186/s42397-023-00148-9#Sec16)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)

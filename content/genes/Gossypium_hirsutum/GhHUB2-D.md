@@ -3,23 +3,24 @@ description: Gossypium hirsutum
 meta_title:
 title: GhHUB2-D
 categories: [Gossypium hirsutum]
-tags: [ development,ubiquitin ]
+tags: [ development,cell wall,cell elongation,ubiquitin,secondary cell wall,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhHUB2-D
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - GhHUB2, a ubiquitin ligase, is involved in cotton fiber development via the ubiquitin–26S proteasome pathway.
-   - GhHUB2 ubiquitinated and degraded GhKNL1 via the ubiquitin-26S proteasome pathway.
-   - Overexpression of GhHUB2 in cotton increased fiber length and SCW thickness.
+   - **GhHUB2**, a functional homolog of AtHUB2, controls fiber elongation and secondary cell wall (SCW) deposition.
+   - **GhHUB2**, a ubiquitin ligase, is involved in cotton fiber development via the ubiquitin–26S proteasome pathway.
+   - **GhHUB2** ubiquitinated and degraded GhKNL1 via the ubiquitin-26S proteasome pathway.
+   - Overexpression of **GhHUB2** in cotton increased fiber length and SCW thickness.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [GhHUB2, a ubiquitin ligase, is involved in cotton fiber development via the ubiquitin-26S proteasome pathway.]( https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery269](https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30053051](https://pubmed.ncbi.nlm.nih.gov/30053051/)

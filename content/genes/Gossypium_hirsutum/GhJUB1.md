@@ -3,21 +3,23 @@ description: Gossypium hirsutum
 meta_title:
 title: GhJUB1
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ transcription factor,gland ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhJUB1
 - **Gene Name:** 
-- **Genome:** [](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - we showed that GoPGF, a key gene regulating gland formation, was expressed in gland cells and roots. The chromatin immunoprecipitation sequencing (ChIP-seq) analysis demonstrated that GoPGF targets **GhJUB1** to regulate gland morphogenesis.
+   - Analysis demonstrated that GoPGF targets **GhJUB1** to regulate gland morphogenesis.
+   - A NAC transcription factor, **GhJUB1**, was found to be specifically expressed in pigment gland cells through single-cell sequencing.
+   - We showed that GoPGF, a key gene regulating gland formation, was expressed in gland cells and roots. The chromatin immunoprecipitation sequencing (ChIP-seq) analysis demonstrated that GoPGF targets **GhJUB1** to regulate gland morphogenesis.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[gland](/tags/gland/)
 
 ## Literature:
    - [The dual role of GoPGF reveals that the pigment glands are synthetic sites of gossypol in aerial parts of cotton.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19331)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19331](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19331)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37865884](https://pubmed.ncbi.nlm.nih.gov/37865884/)

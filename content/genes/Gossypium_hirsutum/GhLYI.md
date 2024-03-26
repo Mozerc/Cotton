@@ -3,21 +3,23 @@ description: LINT YIELD INCREASING ; Gh_D08G0312 ; Gossypium hirsutum
 meta_title:
 title: GhLYI
 categories: [Gossypium hirsutum]
-tags: [ leaf,leaf senescence,senescence ]
+tags: [ leaf,leaf senescence,senescence,yield,ethylene,ethylene response,virus ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D08G0312]()
 - **Gene Symbol:** GhLYI
 - **Gene Name:** LINT YIELD INCREASING
-- **Genome:** [eference genome of G. hirsutum (TM-1_V2.1)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [eference genome of G. hirsutum (TM-1_V2.1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - A truncated ETHYLENE INSENSITIVE3-like protein, **GhLYI**, regulates senescence in cotton.
+   - A unique EIN3-LIKE 1 (EIL1) gene, cotton LINT YIELD INCREASING (**GhLYI**), encodes a truncated EIN3 protein in upland cotton (Gossypium hirsutum L.) that functions as an ET signal response factor and a positive regulator of senescence.
    - Virus-induced gene silencing (VIGS) preliminarily confirmed that knockdown of GhSAG20 delayed leaf senescence. Collectively, our findings provide a regulatory module involving **GhLYI**-GhSAG20 in controlling senescence in cotton.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)
+   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[ethylene-response](/tags/ethylene-response/)&nbsp;,&nbsp;[virus](/tags/virus/)
 
 ## Literature:
    - [A truncated ETHYLENE INSENSITIVE3-like protein, GhLYI, regulates senescence in cotton.]( https://academic.oup.com/plphys/article/193/2/1177/7222396?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad395](https://academic.oup.com/plphys/article/193/2/1177/7222396?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37430389](https://pubmed.ncbi.nlm.nih.gov/37430389/)

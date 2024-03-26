@@ -10,11 +10,13 @@ tags: [ callus,callus formation ]
 - **Gene ID:**	[Gh_D11G3523]()
 - **Gene Symbol:** GhTCEE1
 - **Gene Name:** 
-- **Genome:** [cotton genome database (https://cottonfgd.org/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [M-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - GhTCE1–**GhTCEE1** dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton
+   - GhTCE1–**GhTCEE1** dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton.
+   - **GhTCEE1** enhances the activation ability of GhTCE1 by forming heterodimers.
+   - We show that GhTCE1, with its partner protein **GhTCEE1**, is a part of a critical regulatory module involving LTPs and ROS.
 
 ## Function-related keywords:
    - [callus](/tags/callus/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)

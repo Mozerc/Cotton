@@ -10,10 +10,11 @@ tags: [ ethylene,ethylene response ]
 - **Gene ID:**	[Gh_D13G2062]()
 - **Gene Symbol:** GhCKX3-1
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - Suppression of GhCKX3 in cotton results in delayed defoliation in response to treatment with either thidiazuron and ethephon or water.
    - Down-regulation of GhCKX3 resulted in delayed defoliation and a reduced ethylene response.
    - The expression of GhCKX3 reduced the response to ethylene and the TE defoliant in cotton.
    - Suppression of GhCKX3 is known to result in an enhancement of endogenous cytokinins.

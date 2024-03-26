@@ -3,14 +3,14 @@ description: Gh_A10G1256 ; Gossypium hirsutum
 meta_title:
 title: GhFL1
 categories: [Gossypium hirsutum]
-tags: [ ga,cell elongation ]
+tags: [ ga,cell elongation,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A10G1256]()
 - **Gene Symbol:** GhFL1
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
@@ -18,7 +18,7 @@ tags: [ ga,cell elongation ]
    - **GhFL1** showed higher expression in long-fiber varieties with GA than in short-fiber varieties with AG.
 
 ## Function-related keywords:
-   - [ga](/tags/ga/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)
+   - [ga](/tags/ga/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [Resequencing a core collection of upland cotton identifies genomic variation and loci influencing fiber quality and yield.]( https://www.nature.com/articles/s41588-018-0119-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-018-0119-7](https://www.nature.com/articles/s41588-018-0119-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29736016](https://pubmed.ncbi.nlm.nih.gov/29736016/)

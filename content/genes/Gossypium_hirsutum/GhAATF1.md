@@ -10,12 +10,13 @@ tags: [ transcription factor,development ]
 - **Gene ID:**	[Gh_A13G0332]()
 - **Gene Symbol:** GhAATF1
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - Gh_A13G0332, an orthologous gene to AT5G61330 in Arabidopsis, encodes apoptosis-antagonizing transcription factor (AATF) and was designated as **GhAATF1**.
    - The **GhAATF1** gene was dominantly expressed during the early fibre development
+   - Apoptosis-antagonizing transcription factor gene (**GhAATF1**) and mitochondrial transcription termination factor family protein gene (GhmTERF1) were highly involved in the determination of lint percentage.
 
 ## Function-related keywords:
    - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)

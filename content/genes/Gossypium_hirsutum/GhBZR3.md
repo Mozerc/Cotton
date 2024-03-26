@@ -3,21 +3,25 @@ description: Gh_A10G0312 ; Gossypium hirsutum
 meta_title:
 title: GhBZR3
 categories: [Gossypium hirsutum]
-tags: [ development ]
+tags: [ root,development,plant development,root development,root elongation,cell elongation,height,plant height,root hair,root length,fatty acid biosynthesis,fatty acid,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A10G0312]()
 - **Gene Symbol:** GhBZR3
 - **Gene Name:** 
-- **Genome:** [genome version is NBI v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genome version is NBI v1.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - these results indicate that **GhBZR3** negatively regulates cotton fiber development by reducing VLCFA biosynthesis.
+   - **GhBZR3** suppresses cotton fiber elongation by inhibiting very-long-chain fatty acid biosynthesis.
+   - Overexpression of **GhBZR3** in Arabidopsis caused shorter root hair length, hypocotyl length, and hypocotyl cell length, indicating that **GhBZR3** negatively regulates cell elongation.
+   - Pathway enrichment analysis from VIGS-**GhBZR3** cotton plants found that fatty acid metabolism and degradation might be the regulatory pathway that is primarily controlled by **GhBZR3**. 
+   - Silencing **GhBZR3** expression in cotton resulted in taller plant height as well as longer fibers.
+   - These results indicate that **GhBZR3** negatively regulates cotton fiber development by reducing VLCFA biosynthesis.
 
 ## Function-related keywords:
-   - [development](/tags/development/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[root-hair](/tags/root-hair/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[fatty-acid-biosynthesis](/tags/fatty-acid-biosynthesis/)&nbsp;,&nbsp;[fatty-acid](/tags/fatty-acid/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [GhBZR3 suppresses cotton fiber elongation by inhibiting very-long-chain fatty acid biosynthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15852)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15852](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15852)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35653239](https://pubmed.ncbi.nlm.nih.gov/35653239/)

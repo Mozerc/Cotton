@@ -3,21 +3,24 @@ description: Fibre-related Protein 1 ; Gh_A11G2808 ; Gossypium hirsutum
 meta_title:
 title: GhFP1
 categories: [Gossypium hirsutum]
-tags: [ br ]
+tags: [ brassinosteroid,br,cell elongation,brassinosteroid biosynthesis ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A11G2808]()
 - **Gene Symbol:** GhFP1
 - **Gene Name:** Fibre-related Protein 1
-- **Genome:** [AADD genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [AADD genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - our data suggest that **GhFP1** as a positive regulator participates in controlling fibre elongation by activating BR biosynthesis and signalling. 
+   - A basic helix–loop–helix protein (**GhFP1**) promotes fibre elongation of cotton (Gossypium hirsutum) by modulating brassinosteroid biosynthesis and signalling.
+   - A cotton bHLH protein (**GhFP1**) positively regulates fibre elongation. **GhFP1** transgenic cotton and Arabidopsis plants were generated to study how **GhFP1** regulates fibre cell elongation.
+   - Fibre length of the transgenic cotton overexpressing **GhFP1** was significantly longer than that of wild-type, whereas suppression of **GhFP1** expression hindered fibre elongation. 
+   - Our data suggest that **GhFP1** as a positive regulator participates in controlling fibre elongation by activating BR biosynthesis and signalling. 
 
 ## Function-related keywords:
-   - [br](/tags/br/)
+   - [brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[brassinosteroid-biosynthesis](/tags/brassinosteroid-biosynthesis/)
 
 ## Literature:
    - [A basic helix-loop-helix protein (GhFP1) promotes fibre elongation of cotton (Gossypium hirsutum) by modulating brassinosteroid biosynthesis and signalling.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16301)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16301](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16301)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31667846](https://pubmed.ncbi.nlm.nih.gov/31667846/)

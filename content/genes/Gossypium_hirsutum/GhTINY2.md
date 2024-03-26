@@ -3,21 +3,24 @@ description: GhD06G0642 ; Gossypium hirsutum
 meta_title:
 title: GhTINY2
 categories: [Gossypium hirsutum]
-tags: [ growth,br,br signaling,immunity,sa ]
+tags: [ transcription factor,growth,development,br,br signaling,plant development,defense,salicylic acid,immunity,plant growth,sa,plant immunity,plant defense signaling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[GhD06G0642]()
 - **Gene Symbol:** GhTINY2
 - **Gene Name:** 
-- **Genome:** [Cotton Functional Genomics Database (https://cottonfgd.org/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Cotton Functional Genomics Database]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - Orchestration of plant development and defense by indirect crosstalk of salicylic acid and brassinosteorid signaling via transcription factor **GhTINY2**.
+   - **GhTINY2** was found to promote SA accumulation and SA signaling transduction by directly activating expression of WRKY51.
+   - **GhTINY2**-overexpressing cotton and Arabidopsis showed retardation of growth, increased sensitivity to inhibitors of BR biosynthesis, down-regulation of several BR-induced genes, and up-regulation of BR-repressed genes, while **GhTINY2**-RNAi cotton showed the opposite effects
    - These findings indicate that **GhTINY2** fine-tunes the trade-off between immunity and growth via indirect crosstalk between WRKY51-mediated SA biosynthesis and BZR1-IAA19-regulated BR signaling.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[sa](/tags/sa/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)&nbsp;,&nbsp;[plant-defense-signaling](/tags/plant-defense-signaling/)
 
 ## Literature:
    - [Orchestration of plant development and defense by indirect crosstalk of salicylic acid and brassinosteorid signaling via transcription factor GhTINY2.]( https://academic.oup.com/jxb/article/72/13/4721/6259341?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab186](https://academic.oup.com/jxb/article/72/13/4721/6259341?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33928361](https://pubmed.ncbi.nlm.nih.gov/33928361/)

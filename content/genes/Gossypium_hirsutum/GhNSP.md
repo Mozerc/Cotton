@@ -3,21 +3,24 @@ description: NO SPINE POLLEN ; Ghir_D02G025140 ; Gossypium hirsutum
 meta_title:
 title: GhNSP
 categories: [Gossypium hirsutum]
-tags: [ pollen,pollen exine formation,pollen formation ]
+tags: [ fertility,pollen,sterile,male fertility,pollen fertility,pollen exine formation,pollen formation ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Ghir_D02G025140]()
 - **Gene Symbol:** GhNSP
 - **Gene Name:** NO SPINE POLLEN
-- **Genome:** [G.hirsutum cv TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G.hirsutum cv TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - The characterization of **GhNSP** provides new understanding of the role of polygalacturonase and de-esterified homogalacturonan in pollen exine formation.
+   - Degradation of de-esterified pctin/homogalacturonan by the polygalacturonase **GhNSP** is necessary for pollen exine formation and male fertility in cotton.
+   - The male sterile line 1355A of cotton mutated in NO SPINE POLLEN (**GhNSP**) leads to defective exine formation.
+   - The characterization of **GhNSP** provides new understanding of the role of polygalacturonase and de-esterified homogalacturonan in pollen exine formation.
 
 ## Function-related keywords:
-   - [pollen](/tags/pollen/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)
+   - [fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)
 
 ## Literature:
    - [Degradation of de-esterified pctin/homogalacturonan by the polygalacturonase GhNSP is necessary for pollen exine formation and male fertility in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13785)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13785](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13785)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35114063](https://pubmed.ncbi.nlm.nih.gov/35114063/)

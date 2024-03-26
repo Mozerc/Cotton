@@ -3,23 +3,24 @@ description: Gh_A09G1509 ; Gossypium hirsutum
 meta_title:
 title: GhGST
 categories: [Gossypium hirsutum]
-tags: [ resistance,stress ]
+tags: [ resistance,stress,tolerance,stress tolerance,h2o2 ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A09G1509]()
 - **Gene Symbol:** GhGST
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - The tau-class gene **GhGST** (EU074792) from the SSH library under V. dahliae stress.
    - The Gh_A09G1509 (**GhGST**) product exhibited obvious activity against 1-chloro-2,4-dinitrobenzene (CDNB) substrate in our previous study.
-   - Overexpression of **GhGST** enhanced Verticillium wilt resistance in tobacco.
+   - These results suggested that V. dahliae treatment significantly increased **GhGST** expression and that the overexpression of **GhGST** greatly enhanced Verticillium wilt resistance in tobacco.
+   - Considering these results, the overexpression of **GhGST** maybe enhance tolerance of transgenic tobacco plants to changes in the delicate balance of the H2O2 levels in vivo, resulting in an increase in the H2O2 level.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[h2o2](/tags/h2o2/)
 
 ## Literature:
    - [A newly identified cluster of glutathione S-transferase genes provides Verticillium wilt resistance in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14206)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14206](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14206)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30561788](https://pubmed.ncbi.nlm.nih.gov/30561788/)

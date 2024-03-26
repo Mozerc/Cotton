@@ -3,21 +3,24 @@ description: Gh_D04G1924 ; Gossypium hirsutum
 meta_title:
 title: GhEXPA3-1
 categories: [Gossypium hirsutum]
-tags: [ root,growth,br,br signaling,root growth ]
+tags: [ root,growth,br,br signaling,root elongation,root growth,plant growth,cell elongation,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D04G1924]()
 - **Gene Symbol:** GhEXPA3-1
 - **Gene Name:** 
-- **Genome:** [cotton genome (Gossypium hirsutum, NAU)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [cotton genome (Gossypium hirsutum, NAU)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - GhBES1 directly binds to E-box of GhCERP and regulates the transcription of GhCERP, which further binds to E-box of **GhEXPA3-1** to enhance its transcription to promote plant cell elongation.
+   - **GhEXPA3-1** is a downstream gene of GhCERP and positively regulates cotton fiber cell elongation.
+   - **GhEXPA3-1** promotes fiber cell elongation.
    - Inter-species functional analysis of the BR-mediated BES1-CERP-EXPA3 signaling cascade also promotes Arabidopsis root and hypocotyl growth.
 
 ## Function-related keywords:
-   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [A conserved brassinosteroid-mediated BES1-CERP-EXPA3 signaling cascade controls plant cell elongation.]( https://www.sciencedirect.com/science/article/pii/S2211124723003121?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.celrep.2023.112301](https://www.sciencedirect.com/science/article/pii/S2211124723003121?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36952343](https://pubmed.ncbi.nlm.nih.gov/36952343/)

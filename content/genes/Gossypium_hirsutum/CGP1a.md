@@ -3,14 +3,14 @@ description: Gh_A07G0703 ; Gossypium hirsutum
 meta_title:
 title: CGP1a
 categories: [Gossypium hirsutum]
-tags: [ transcription factor,pigmentation ]
+tags: [ transcription factor,pigmentation,gossypol,gland ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A07G0703]()
 - **Gene Symbol:** CGP1a
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
@@ -19,7 +19,7 @@ tags: [ transcription factor,pigmentation ]
    - CGP1 and GoPGF form heterodimers to control the synthesis of gossypol and other secondary metabolites in cotton.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[pigmentation](/tags/pigmentation/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[pigmentation](/tags/pigmentation/)&nbsp;,&nbsp;[gossypol](/tags/gossypol/)&nbsp;,&nbsp;[gland](/tags/gland/)
 
 ## Literature:
    - [The gland localized CGP1 controls gland pigmentation and gossypol accumulation in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13323)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13323](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13323)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31883409](https://pubmed.ncbi.nlm.nih.gov/31883409/)

@@ -3,21 +3,23 @@ description: Gh_D12G245100 ; Gossypium hirsutum
 meta_title:
 title: GhDREB1B
 categories: [Gossypium hirsutum]
-tags: [ architecture,plant architecture ]
+tags: [ transcription factor,architecture,height,plant height,plant architecture ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D12G245100]()
 - **Gene Symbol:** GhDREB1B
 - **Gene Name:** 
-- **Genome:** [TM-1 reference genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - A copy number variant at the HPDA locus on Chromosome D12 (HPDA-D12), encoding a dehydration-responsive element-binding (DREB) transcription factor, **GhDREB1B**, strongly affects plant architecture in the AS98 mutant.
+   - **GhDREB1B** overexpression confers a significant decrease in plant height and branch length, and reduced branch angle.
    - Our results suggest that fine-tuning **GhDREB1B** expression may be a viable engineering strategy for modification of plant architecture favorable to high planting density in cotton.
 
 ## Function-related keywords:
-   - [architecture](/tags/architecture/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
    - [A copy number variant at the HPDA-D12 locus confers compact plant architecture in cotton.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17059)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17059](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17059)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33129229](https://pubmed.ncbi.nlm.nih.gov/33129229/)

@@ -3,21 +3,23 @@ description: Gossypium hirsutum
 meta_title:
 title: GhAPX
 categories: [Gossypium hirsutum]
-tags: [ stress ]
+tags: [ root,growth,stress,seedling,tolerance,abiotic stress,stress tolerance,root growth,seedling growth ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhAPX
 - **Gene Name:** 
-- **Genome:** [Cotton Genome Database (https://www.cottongen.org/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Cotton Genome Database]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - Root growth of **GhAPX**-overexpressing Arabidopsis subjected to abiotic stress.
+   - **GhAPX** expression may increase seedling tolerance to mannitol.
    - Four stress-related genes identified from the library, designated as GhCAS, **GhAPX**, GhSDH, and GhPOD, were cloned from cotton complementary DNA, and their expression patterns under stress were analyzed.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)
+   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
    - [Screening of abiotic stress-responsive cotton genes using a cotton full-length cDNA overexpressing Arabidopsis library.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12861)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12861](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12861)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31393066](https://pubmed.ncbi.nlm.nih.gov/31393066/)

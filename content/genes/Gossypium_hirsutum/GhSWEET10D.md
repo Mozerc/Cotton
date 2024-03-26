@@ -10,7 +10,7 @@ tags: [ shoot,transporter,flowering time,sucrose,flowering,sucrose transporter ]
 - **Gene ID:**	[Gh_D12G1898]()
 - **Gene Symbol:** GhSWEET10D
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:

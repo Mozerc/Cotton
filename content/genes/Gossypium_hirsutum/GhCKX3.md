@@ -10,10 +10,12 @@ tags: [ ethylene,cytokinin,ethylene response,cytokinin response ]
 - **Gene ID:**	[Gh_D06G0733]()
 - **Gene Symbol:** GhCKX3
 - **Gene Name:** 
-- **Genome:** [cotton genome (G. hirsutum TM-1 (AD)1)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [cotton genome (G. hirsutum TM-1 (AD)1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - **GhCKX3**-RNAi transgenic lines and a control WT line were planted in the field and in a greenhouse of glass and brick construction of ~60 m2 size at Huazhong Agricultural University.
+   - These results suggested that down-regulation of the expression of **GhCKX3** reduced the response to ethylene and the TE defoliant in cotton.
    - Down-regulation of **GhCKX3** resulted in delayed defoliation and a reduced ethylene response.  The results show that crosstalk between cytokinin and ethylene regulates cotton defoliation, and provide new insights into the molecular mechanisms underlying the mode of action of defoliants in cotton.
 
 ## Function-related keywords:

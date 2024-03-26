@@ -10,13 +10,14 @@ tags: [ development,cellulose ]
 - **Gene ID:**	[Gh_D08G0509]()
 - **Gene Symbol:** GhCesA4-2
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - GhMYB7 regulated cotton fibre SCW cellulose synthases by directly binding to three distinct cis-elements in the respective GhCesA4, GhCesA7 and GhCesA8 promoters.
    - During fibre development three representative genes: **GhCesA4-2**, GhCesA7-3, GhCesA8-2.
    - These data confirmed that the SMRE is the cis-element in the **GhCesA4-2** promoter activated by GhMYB7.
+   - GhMYB7 overexpression promotes expression of GhCesAs during fibre development.
 
 ## Function-related keywords:
    - [development](/tags/development/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)

@@ -3,21 +3,23 @@ description: Gh_D07G2413 ; Gossypium hirsutum
 meta_title:
 title: RE8
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D07G2413]()
 - **Gene Symbol:** RE8
 - **Gene Name:** 
-- **Genome:** [TM-1 reference genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - **RE8** enhances anthocyanin and proanthocyanidin accumulation to produce red foliated cotton and brown fiber.
+   - RE3 and **RE8** should be involved in the metabolic pathway of anthocyanins.
    - **RE8** should be the main reason for the production of red foliated cotton, and was identified as the final candidate gene of Re.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [fiber](/tags/fiber/)
 
 ## Literature:
    - [Re enhances anthocyanin and proanthocyanidin accumulation to produce red foliated cotton and brown fiber.]( https://academic.oup.com/plphys/article/189/3/1466/6548804?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac118](https://academic.oup.com/plphys/article/189/3/1466/6548804?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35289870](https://pubmed.ncbi.nlm.nih.gov/35289870/)

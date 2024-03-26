@@ -3,22 +3,25 @@ description: Gossypium hirsutum
 meta_title:
 title: GhRVE2D
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ transcription factor,resistance,disease,disease resistance,ja,jasmonic,jasmonic acid ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhRVE2D
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - A unique truncated RVE2 widely existing in D-subgenome (**GhRVE2D**) of natural Upland cotton represses the ability of the MYC2 to activate GhRVE2A promoter but not GausRVE2 or GbRVE2.
    - These studies have shown the involvement of **GhRVE2D** in regulating the transcription of GhRVE2A.
+   - RVE2, a new regulatory factor in jasmonic acid pathway, orchestrates resistance to Verticillium wilt.
+   - RVE2 expression was essentially required for the activation of JA-mediated disease-resistance response.
+   - RVE2 overexpression significantly enhanced the resistance to VW.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)
 
 ## Literature:
    - [RVE2, a new regulatory factor in jasmonic acid pathway, orchestrates resistance to Verticillium wilt.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14149)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14149](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14149)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37553251](https://pubmed.ncbi.nlm.nih.gov/37553251/)

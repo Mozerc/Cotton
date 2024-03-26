@@ -3,21 +3,23 @@ description: Gossypium hirsutum
 meta_title:
 title: GhSOC1
 categories: [Gossypium hirsutum]
-tags: [ flowering ]
+tags: [ floral,transcription regulator,flowering,transcription suppressor ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhSOC1
 - **Gene Name:** 
-- **Genome:** [cotton reference genome v2.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [cotton reference genome v2.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - We determined that GhAP1-D3 interacts with the floral regulator **GhSOC1**.
+   - GhAP1-D3 interacted with **GhSOC1** (SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1), a pivotal regulator of FTi, both in vitro and in vivo. Changes in GhAP1-D3 transcript levels clearly affected the expression of multiple key flowering regulatory genes.
    - We propose that epigenetic modifications modulate GhAP1-D3 expression to positively regulate FTi in cotton through interaction of the encoded GhAP1 with **GhSOC1** and affecting the transcription of multiple flowering-related genes.
 
 ## Function-related keywords:
-   - [flowering](/tags/flowering/)
+   - [floral](/tags/floral/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[transcription-suppressor](/tags/transcription-suppressor/)
 
 ## Literature:
    - [GhAP1-D3 positively regulates flowering time and early maturity with no yield and fiber quality penalties in upland cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13409)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13409](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13409)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36398758](https://pubmed.ncbi.nlm.nih.gov/36398758/)

@@ -3,21 +3,24 @@ description: Gh A02G0727 ; Gossypium hirsutum
 meta_title:
 title: GhWAK7A
 categories: [Gossypium hirsutum]
-tags: [ kinase ]
+tags: [ kinase,defense response,defense,cell wall,chitin ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh A02G0727]()
 - **Gene Symbol:** GhWAK7A
 - **Gene Name:** 
-- **Genome:** [G. hirsutum (AD1)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum (AD1)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - The Cotton Wall-Associated Kinase **GhWAK7A** Mediates Responses to Fungal Wilt Pathogens by Complexing with the Chitin Sensory Receptors.
+   - Identified Gossypium hirsutum **GhWAK7A**, a wall-associated kinase, that positively regulates cotton response to both Vd and Fov infections. Chitin, the major constituent of the fungal cell wall, is perceived by lysin-motif-containing RLKs (LYKs/CERK1), leading to the activation of plant defense against fungal pathogens.
+   - **GhWAK7A** directly interacts with both GhLYK5 and GhCERK1 and promotes chitin-induced GhLYK5-GhCERK1 dimerization.
    - **GhWAK7A** phosphorylates GhLYK5, which itself does not have kinase activity, but requires phosphorylation for its function. Consequently, **GhWAK7A** plays a crucial role in chitin-induced responses
 
 ## Function-related keywords:
-   - [kinase](/tags/kinase/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[chitin](/tags/chitin/)
 
 ## Literature:
    - [The Cotton Wall-Associated Kinase GhWAK7A Mediates Responses to Fungal Wilt Pathogens by Complexing with the Chitin Sensory Receptors.]( https://academic.oup.com/plcell/article/32/12/3978/6118606?login=true#supplementary-data)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00950](https://academic.oup.com/plcell/article/32/12/3978/6118606?login=true#supplementary-data)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33037150](https://pubmed.ncbi.nlm.nih.gov/33037150/)

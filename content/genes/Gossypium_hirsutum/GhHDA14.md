@@ -3,21 +3,24 @@ description: Gossypium hirsutum
 meta_title:
 title: GhHDA14
 categories: [Gossypium hirsutum]
-tags: [ stress,abiotic stress ]
+tags: [ stress,abiotic stress,stomatal,protein translation ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhHDA14
 - **Gene Name:** 
-- **Genome:** [Gossypium hirsutum (AD1) 'TM-1' genome NAU-NBI_v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [M-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - The regulation circuit composed of GhHSP24.7 and **GhHDA14** represents a post-translation level mechanism in plant abiotic stress responses that integrates the regulation of ROS and ATP.
+   - We identified a new client protein of GhHSP24.7, cotton lysine deacetylase (**GhHDA14**), which is involved in mitochondrial protein modification.
+   - GhHSP24.7 regulates stomatal movement via **GhHDA14**.
+   -  These results suggested that **GhHDA14** mediated regulation might not directly influence ROS release.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
 
 ## Literature:
    - [GhHSP24.7 mediates mitochondrial protein acetylation to regulate stomatal conductance in response to abiotic stress in cotton]( https://www.sciencedirect.com/science/article/pii/S2214514122002185#s0195)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.09.005](https://www.sciencedirect.com/science/article/pii/S2214514122002185#s0195)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)

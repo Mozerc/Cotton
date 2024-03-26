@@ -1,25 +1,25 @@
 ---
 description: Gh_A04G0377 ; Gossypium hirsutum
 meta_title:
-title: Gh_A04G0377
+title: Gh_A04G0377;GhDNRs
 categories: [Gossypium hirsutum]
-tags: [ drought,tolerance,drought tolerance ]
+tags: [ drought,tolerance,drought tolerance,virus ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A04G0377]()
-- **Gene Symbol:** Gh_A04G0377
+- **Gene Symbol:** Gh_A04G0377;GhDNRs
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - **Gh_A04G0377** and Gh_A04G0378, named as drought negative regulators (GhDNRs).
-   - Further functional validation of GhDNRs in cotton was carried out by virus-induced gene silencing (VIGS) technology.
-   - GhDNRs were shown to negatively regulate drought tolerance at physiological and transcriptional levels through VIGS experiments.
+   - **Gh_A04G0377** and Gh_A04G0378, named as drought negative regulators (**GhDNRs**).
+   - Further functional validation of **GhDNRs** in cotton was carried out by virus-induced gene silencing (VIGS) technology.
+   - **GhDNRs** were shown to negatively regulate drought tolerance at physiological and transcriptional levels through VIGS experiments.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+   - [drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[virus](/tags/virus/)
 
 ## Literature:
    - [Phenomics-based GWAS analysis reveals the genetic architecture for drought resistance in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13431)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13431](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13431)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32558152](https://pubmed.ncbi.nlm.nih.gov/32558152/)

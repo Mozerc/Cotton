@@ -3,21 +3,25 @@ description: Gh_D11G206800 ; Gossypium hirsutum
 meta_title:
 title: GhKRP6
 categories: [Gossypium hirsutum]
-tags: [ kinase,br,br signaling,cell cycle,cell expansion ]
+tags: [ kinase,br,br signaling,seed,cell cycle,seed size,cell expansion,seed length,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D11G206800]()
 - **Gene Symbol:** GhKRP6
 - **Gene Name:** 
-- **Genome:** [G. hirsutum genome (CRI)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum genome (CRI)]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   -  Our study also found that **GhKRP6** could interact directly with a cell cycle-dependent kinase called GhCDKG. Taken together, these results suggest that BR signaling influences cell expansion by directly modulating the expression of cell cycle-dependent kinase inhibitor **GhKRP6** via GhBES1.4.
+   - Cell cycle-dependent kinase inhibitor **GhKRP6**, a direct target of GhBES1.4, participates in BR regulation of cell expansion in cotton.
+   - The study found that **GhKRP6** was significantly induced by the BR hormone and that GhBES1.4 directly promoted the expression of **GhKRP6** by binding to the CACGTG motif in its promoter region.
+   - **GhKRP6**-silenced cotton plants had smaller leaves with more cells and reduced cell size.
+   - Furthermore, endoreduplication was inhibited, which affected cell expansion and ultimately decreased fiber length and seed size in **GhKRP6**-silenced plants compared with the control.
+   - Our study also found that **GhKRP6** could interact directly with a cell cycle-dependent kinase called GhCDKG. Taken together, these results suggest that BR signaling influences cell expansion by directly modulating the expression of cell cycle-dependent kinase inhibitor **GhKRP6** via GhBES1.4.
 
 ## Function-related keywords:
-   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[cell-expansion](/tags/cell-expansion/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[cell-expansion](/tags/cell-expansion/)&nbsp;,&nbsp;[seed-length](/tags/seed-length/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
    - [Cell cycle-dependent kinase inhibitor GhKRP6, a direct target of GhBES1.4, participates in BR regulation of cell expansion in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16353)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16353](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16353)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37326240](https://pubmed.ncbi.nlm.nih.gov/37326240/)

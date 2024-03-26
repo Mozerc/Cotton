@@ -3,22 +3,22 @@ description: Gh_A07G0717 ; Gossypium hirsutum
 meta_title:
 title: GhGAI1
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ growth,defense,plant growth ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A07G0717]()
 - **Gene Symbol:** GhGAI1
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - **GhGAI1** interacts with GhMYB33 and affects its transcriptional activity.
    - **GhGAI1** can counteract the down-regulating effect of GhMYB33 on GhDFR1.
+   - **GhGAI1** interacts with GhMYB33 and regulates trade-offs between plant growth and defense.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [growth](/tags/growth/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
    - [The cotton MYB33 gene is a hub gene regulating the trade-off between plant growth and defense in Verticillium dahliae infection.]( https://www.sciencedirect.com/science/article/pii/S2090123223002333?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jare.2023.08.017](https://www.sciencedirect.com/science/article/pii/S2090123223002333?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37648022](https://pubmed.ncbi.nlm.nih.gov/37648022/)

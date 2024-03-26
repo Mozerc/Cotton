@@ -3,21 +3,24 @@ description: Gh_D09G1474 ; Gossypium hirsutum
 meta_title:
 title: GhXB38D
 categories: [Gossypium hirsutum]
-tags: [ ethylene ]
+tags: [ ethylene,ubiquitin,ubiquitin e3 ligase ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D09G1474]()
 - **Gene Symbol:** GhXB38D
 - **Gene Name:** 
-- **Genome:** [reference genome sequence for G. hirsutum ZJU v2.1(https://www.cottongen.org/data/download/genome_tetraploid/AD1)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [reference genome sequence for G.hirsutum ZJU v2.1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - **GhXB38D** represses cotton fibre elongation through ubiquitination of ethylene biosynthesis enzymes GhACS4 and GhACO1.
+   - Identify an E3 ubiquitin ligase, **GhXB38D**, that regulates ethylene biosynthesis during fibre elongation in cotton.
+   - Suppressing **GhXB38D** expression in cotton significantly enhanced fibre elongation and length, accompanied by the up-regulation of genes associated with ethylene signalling and fibre elongation. 
    - We demonstrated that **GhXB38D** interacts with the ethylene biosynthesis enzymes GhACS4 and GhACO1 in elongating fibres and specifically mediates their ubiquitination and degradation.
 
 ## Function-related keywords:
-   - [ethylene](/tags/ethylene/)
+   - [ethylene](/tags/ethylene/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)
 
 ## Literature:
    - [GhXB38D represses cotton fibre elongation through ubiquitination of ethylene biosynthesis enzymes GhACS4 and GhACO1.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14138)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14138](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14138)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37596974](https://pubmed.ncbi.nlm.nih.gov/37596974/)

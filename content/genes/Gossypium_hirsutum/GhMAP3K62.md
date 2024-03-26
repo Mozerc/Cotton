@@ -3,23 +3,24 @@ description: Gh_A10G0115 ; Gossypium hirsutum
 meta_title:
 title: GhMAP3K62
 categories: [Gossypium hirsutum]
-tags: [ kinase,drought,tolerance,aba,drought tolerance ]
+tags: [ kinase,drought,tolerance,aba,drought tolerance,stomatal,drought response ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A10G0115]()
 - **Gene Symbol:** GhMAP3K62
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
    - The **GhMAP3K62**-GhMKK16-GhMPK32 kinase cascade regulates drought tolerance by activating GhEDT1-mediated ABA accumulation in cotton.
    - **GhMAP3K62** regulates drought tolerance by phosphorylating GhMKK16 in cotton.
    - **GhMAP3K62** interacts with GhMKK16 and involved in improving drought.
+   - It was proposed that the MAPK cascade **GhMAP3K62**-GhMKK16-GhMPK32 pathway functions in the cotton drought response through ABA-dependent stomatal movement.
 
 ## Function-related keywords:
-   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
    - [The GhMAP3K62-GhMKK16-GhMPK32 kinase cascade regulates drought tolerance by activating GhEDT1-mediated ABA accumulation in cotton.]( https://www.sciencedirect.com/science/article/pii/S2090123222002491?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jare.2022.11.002 ](https://www.sciencedirect.com/science/article/pii/S2090123222002491?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36414168](https://pubmed.ncbi.nlm.nih.gov/36414168/)

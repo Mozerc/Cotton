@@ -3,21 +3,23 @@ description: Gossypium hirsutum
 meta_title:
 title: GhCAS
 categories: [Gossypium hirsutum]
-tags: [ stress ]
+tags: [ resistance,drought,stress,drought stress,drought resistance ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhCAS
 - **Gene Name:** 
-- **Genome:** [Cotton Genome Database (https://www.cottongen.org/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Cotton Genome Database]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - **GhCAS**, GhAPX, GhSDH, and GhPOD, were cloned from cotton complementary DNA, and their expression patterns under stress were analyzed.
+   - **GhCAS** thus has a function similar to that in Arabidopsis and rice, namely, slowing down transpiration, increasing water use efficiency, and improving plant drought resistance when outside temperatures are high.
    - Four stress-related genes identified from the library, designated as **GhCAS**, GhAPX, GhSDH, and GhPOD, were cloned from cotton complementary DNA, and their expression patterns under stress were analyzed.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)
+   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
    - [Screening of abiotic stress-responsive cotton genes using a cotton full-length cDNA overexpressing Arabidopsis library.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12861)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12861](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12861)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31393066](https://pubmed.ncbi.nlm.nih.gov/31393066/)

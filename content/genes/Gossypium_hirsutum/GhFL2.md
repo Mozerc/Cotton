@@ -3,14 +3,14 @@ description: Gh_D11G1929 ; Gossypium hirsutum
 meta_title:
 title: GhFL2
 categories: [Gossypium hirsutum]
-tags: [  ]
+tags: [ fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D11G1929]()
 - **Gene Symbol:** GhFL2
 - **Gene Name:** 
-- **Genome:** [genomes of G.hirsutum TM-1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
@@ -18,7 +18,7 @@ tags: [  ]
    - The results showed that **GhFL2** was more highly expressed in high-fiber-strength varieties than in low-fiber-strength.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [fiber](/tags/fiber/)
 
 ## Literature:
    - [Resequencing a core collection of upland cotton identifies genomic variation and loci influencing fiber quality and yield.]( https://www.nature.com/articles/s41588-018-0119-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-018-0119-7](https://www.nature.com/articles/s41588-018-0119-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29736016](https://pubmed.ncbi.nlm.nih.gov/29736016/)

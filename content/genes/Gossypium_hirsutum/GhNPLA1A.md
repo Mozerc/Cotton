@@ -10,10 +10,13 @@ tags: [  ]
 - **Gene ID:**	[GH_A05G4329]()
 - **Gene Symbol:** GhNPLA1A
 - **Gene Name:** 
-- **Genome:** [TM-1 reference genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - Enzyme activity and cotton fibre culture assays further demonstrated that the substrate of **GhNPLA1A** regulates fibre elongation directly. 
+   - We found that ectopic expression of **GhNPLA1A** (GhNPLA1 from A subgenome) can promote fibre elongation in transgenic lines of upland cotton.
+   - Retrieving the disrupted gene GhNPLA1D using its homoeolog **GhNPLA1A** achieved longer fibre length in G. hirsutum. Further enzyme activity and lipids analysis confirmed that **GhNPLA1A** encodes a typical phospholipase A and promotes cotton fibre elongation via elevating intracellular levels of linolenic acid and 34:3 phosphatidylinositol.
    - Further enzyme activity and lipids analysis confirmed that **GhNPLA1A** encodes a typical phospholipase A and promotes cotton fibre elongation via elevating intracellular levels of linolenic acid and 34:3 phosphatidylinositol.
 
 ## Function-related keywords:

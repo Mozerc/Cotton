@@ -3,21 +3,23 @@ description: Gossypium hirsutum
 meta_title:
 title: GhPOD
 categories: [Gossypium hirsutum]
-tags: [ stress ]
+tags: [ stress,seed,seed germination ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** GhPOD
 - **Gene Name:** 
-- **Genome:** [Cotton Genome Database (https://www.cottongen.org/)](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [Cotton Genome Database]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - GhCAS, GhAPX, GhSDH, and **GhPOD**, were cloned from cotton complementary DNA, and their expression patterns under stress were analyzed.
+   - Seed germination of **GhPOD**-overexpressing Arabidopsis.
    - Four stress-related genes identified from the library, designated as GhCAS, GhAPX, GhSDH, and **GhPOD**, were cloned from cotton complementary DNA, and their expression patterns under stress were analyzed.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)
+   - [stress](/tags/stress/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)
 
 ## Literature:
    - [Screening of abiotic stress-responsive cotton genes using a cotton full-length cDNA overexpressing Arabidopsis library.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12861)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12861](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12861)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31393066](https://pubmed.ncbi.nlm.nih.gov/31393066/)

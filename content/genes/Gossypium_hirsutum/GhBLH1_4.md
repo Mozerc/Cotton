@@ -3,24 +3,27 @@ description: CotAD_48024 ; Gossypium hirsutum
 meta_title:
 title: GhBLH1_4
 categories: [Gossypium hirsutum]
-tags: [ cell elongation ]
+tags: [ development,brassinosteroid,auxin,cell elongation,ovule,fiber ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[CotAD_48024]()
 - **Gene Symbol:** GhBLH1_4
 - **Gene Name:** 
-- **Genome:** [G. hirsutum genome](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
+- **Genome:** [G. hirsutum genome]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
+   - A genome-wide identification of the BLH gene family reveals BLH1 involved in cotton fiber development.
+   - The expression levels of these genes were significantly induced by gibberellic acid and brassinosteroid, but not auxin. Exogenous application of gibberellic acid significantly enhanced GhBLH1_3, **GhBLH1_4**, and GhBLH1_5 transcripts. Expression levels of GhBLH1_3 and **GhBLH1_4** genes were significantly increased under brassinosteroid treatment.
+   - BLH1 is described as a key regulator of ovule development in Arabidopsis.
    - BLH1 subfamily were upregulated in  the fiber cells at 10 days post anthesis (DPA) and 15 DPA, indicating that these genes may play an important role in fiber cell elongation period.
 
 ## Function-related keywords:
-   - [cell-elongation](/tags/cell-elongation/)
+   - [development](/tags/development/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[ovule](/tags/ovule/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [A genome-wide identification of the BLH gene family reveals BLH1 involved in cotton fiber development]( https://jcottonres.biomedcentral.com/articles/10.1186/s42397-020-00068-y#Sec16)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s42397-020-00068-y](https://jcottonres.biomedcentral.com/articles/10.1186/s42397-020-00068-y#Sec16)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [NA]( https://jcottonres.biomedcentral.com/articles/10.1186/s42397-020-00068-y#Sec16)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s42397-020-00068-y](https://jcottonres.biomedcentral.com/articles/10.1186/s42397-020-00068-y#Sec16)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [Journal of Cotton Research | BLH 基因家族的全基因组鉴定揭示BLH1基因参与棉花纤维发育](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247495941&idx=4&sn=db07e964bf1db7b92b2496b938c774a4&chksm=ce905c50f9e7d5464f3c0d93d4db46a85b610ab581ab9afa2cb1ba01ad9998eea48dfbd0c6a3&scene=27#wechat_redirect)
