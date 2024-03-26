@@ -1,23 +1,23 @@
 ---
 description: Brassica napus
 meta_title:
-title: Bnlpat2
+title: BnLPAT5
 categories: [Brassica napus]
 tags: [ seed,starch,seed size,starch biosynthesis,oil bodies,starch accumulation,oil content ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** Bnlpat2
+- **Gene Symbol:** BnLPAT5
 - **Gene Name:** 
 - **Genome:** [Brassica_napus_v4.1]()
 - **Species:** *Brassica napus*
 
 ## Functional Descriptions:
-   - Increased size of oil bodies in **Bnlpat2**/Bnlpat5 mutant mature seed of B. napus.
-   - The seeds of the **Bnlpat2**/Bnlpat5 mutant were wizened and showed enlarged oil bodies, disrupted distribution of protein bodies and increased accumulation of starch in mature seeds.
-   - We speculated that **Bnlpat2** and BnLPAT5 are of great importance for TAG accumulation in the Kennedy pathway.
-   - The size of the oil bodies increased significantly while the oil content decreased, confirming that **Bnlpat2** and BnLPAT5 play a role in oil biosynthesis. The present study lays a foundation for further oil production improvement in oilseed crop species.
+   - Increased size of oil bodies in Bnlpat2/**BnLPAT5** mutant mature seed of B. napus.
+   - The seeds of the Bnlpat2/**BnLPAT5** mutant were wizened and showed enlarged oil bodies, disrupted distribution of protein bodies and increased accumulation of starch in mature seeds.
+   - We speculated that BnLPAT2 and **BnLPAT5** are of great importance for TAG accumulation in the Kennedy pathway.
+   - The size of the oil bodies increased significantly while the oil content decreased, confirming that BnLPAT2 and **BnLPAT5** play a role in oil biosynthesis. The present study lays a foundation for further oil production improvement in oilseed crop species.
 
 ## Function-related keywords:
    - [seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[oil-bodies](/tags/oil-bodies/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)&nbsp;,&nbsp;[oil-content](/tags/oil-content/)
