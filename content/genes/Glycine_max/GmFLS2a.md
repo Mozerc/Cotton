@@ -1,5 +1,5 @@
 ---
-description: Glyma.08g083300	 ; Glycine max
+description: Glyma.08g083300 ; Glycine max
 meta_title:
 title: GmFLS2a
 categories: [Glycine max]
