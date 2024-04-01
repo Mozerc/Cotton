@@ -1,5 +1,5 @@
 ---
-description:  ; Oryza sativa
+description: Oryza sativa
 meta_title:
 title: OsXrn4
 categories: [Oryza sativa]
@@ -11,17 +11,16 @@ tags:
 - **RAPdb gene ID:** None  
 - **Gene Symbol:** OsXrn4
 - **Gene Name:**
-- **Genome:**  [MSU7](http://rice.uga.edu/)&nbsp;,&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
+- **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*
 
 ## Functional Descriptions:
-   - .
 
 ## Function-related keywords:
    - [](/tags//)
 
 ## Literature:
-   - [Over-expression of Oryza sativa Xrn4 confers plant resistance to virus infection](https://www.doi.org/10.1016/j.gene.2017.10.004)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.gene.2017.10.004](https://www.doi.org/10.1016/j.gene.2017.10.004)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28987346](https://pubmed.ncbi.nlm.nih.gov/28987346/)
+   - [Over-expression of Oryza sativa Xrn4 confers plant resistance to virus infection](https://www.doi.org/10.1016/j.gene.2017.10.004).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.gene.2017.10.004](https://www.doi.org/10.1016/j.gene.2017.10.004);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28987346](https://pubmed.ncbi.nlm.nih.gov/28987346/)
 
 ## Related News:
 
