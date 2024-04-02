@@ -22,8 +22,8 @@ tags: [ development,spikelet,plant development,spikelet development ]
 - [development](/tags/development/),&nbsp;&nbsp;[spikelet](/tags/spikelet/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[spikelet-development](/tags/spikelet-development/)
 
 ## Literature:
-   - [Expression of MADS box genes ZMM8 and ZMM14 during inflorescence development of Zea mays discriminates between the upper and the lower floret of each spikelet.]( https://link.springer.com/article/10.1007/s004270050271).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s004270050271](https://link.springer.com/article/10.1007/s004270050271);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10370124](https://pubmed.ncbi.nlm.nih.gov/10370124/)
-   - [Gene duplication at the Fascicled ear1 locus controls the fate of inflorescence meristem cells in maize.]( https://www.pnas.org/doi/full/10.1073/pnas.2019218118).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2019218118](https://www.pnas.org/doi/full/10.1073/pnas.2019218118);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33579824](https://pubmed.ncbi.nlm.nih.gov/33579824/)
+   - [Expression of MADS box genes ZMM8 and ZMM14 during inflorescence development of Zea mays discriminates between the upper and the lower floret of each spikelet.]( https://link.springer.com/article/10.1007/s004270050271)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s004270050271](https://link.springer.com/article/10.1007/s004270050271);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10370124](https://pubmed.ncbi.nlm.nih.gov/10370124/)
+   - [Gene duplication at the Fascicled ear1 locus controls the fate of inflorescence meristem cells in maize.]( https://www.pnas.org/doi/full/10.1073/pnas.2019218118)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2019218118](https://www.pnas.org/doi/full/10.1073/pnas.2019218118);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33579824](https://pubmed.ncbi.nlm.nih.gov/33579824/)
 
 ## Related News:
    - [PNAS | 华中农业大学玉米团队和美国加州大学合作解析玉米簇生花序形成的遗传基础](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247505124&idx=1&sn=9b8ee5f5ae1aea8fb439c8dfd5fb5f68&chksm=ce9079b1f9e7f0a7981773330d04c4981748d8b5fd7f118aec1c5fcf2fc2654c2967942cca76&scene=27#wechat_redirect)

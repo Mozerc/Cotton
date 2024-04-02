@@ -21,7 +21,7 @@ tags: [ methyltransferase ]
 - [methyltransferase](/tags/methyltransferase/)
 
 ## Literature:
-   - [Genetic Variation, DIMBOA Accumulation, and Candidate Gene Identification in Maize Multiple Insect-Resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916695/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032138](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916695/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768464](https://pubmed.ncbi.nlm.nih.gov/36768464/)
+   - [Genetic Variation, DIMBOA Accumulation, and Candidate Gene Identification in Maize Multiple Insect-Resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916695/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032138](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916695/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768464](https://pubmed.ncbi.nlm.nih.gov/36768464/)
 
 ## Related News:
 

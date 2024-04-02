@@ -20,10 +20,10 @@ tags: [ transporter,iron ]
    - TaVIT1 and TaVIT2 are both expressed in the aleurone, correlating with high levels of iron in this tissue, which is removed from white flours during the milling process.
 
 ## Function-related keywords:
-   - [transporter](/tags/transporter/)&nbsp;,&nbsp;[iron](/tags/iron/)
+   - [transporter](/tags/transporter/),&nbsp;&nbsp;[iron](/tags/iron/)
 
 ## Literature:
-   - [Wheat Vacuolar Iron Transporter TaVIT2 Transports Fe and Mn and Is Effective for Biofortification.]( https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.17.00672](https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28684433](https://pubmed.ncbi.nlm.nih.gov/28684433/)
+   - [Wheat Vacuolar Iron Transporter TaVIT2 Transports Fe and Mn and Is Effective for Biofortification.]( https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.17.00672](https://academic.oup.com/plphys/article/174/4/2434/6117663?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28684433](https://pubmed.ncbi.nlm.nih.gov/28684433/)
 
 ## Related News:
 

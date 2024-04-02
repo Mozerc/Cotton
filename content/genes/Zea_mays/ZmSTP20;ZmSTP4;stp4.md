@@ -22,7 +22,7 @@ tags: [ resistance,disease,disease resistance,breeding ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
-   - [Identification and expression analysis of sugar transporter family genes reveal the role of ZmSTP2 and ZmSTP20 in maize disease resistance]( https://www.sciencedirect.com/science/article/pii/S2095311922003008).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.12.014](https://www.sciencedirect.com/science/article/pii/S2095311922003008);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Identification and expression analysis of sugar transporter family genes reveal the role of ZmSTP2 and ZmSTP20 in maize disease resistance]( https://www.sciencedirect.com/science/article/pii/S2095311922003008)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.12.014](https://www.sciencedirect.com/science/article/pii/S2095311922003008);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

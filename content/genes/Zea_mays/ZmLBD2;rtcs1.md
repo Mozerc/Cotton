@@ -21,7 +21,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,home
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
-   - [ZmLBD2 a maize (Zea mays L.) lateral organ boundaries domain (LBD) transcription factor enhances drought tolerance in transgenic Arabidopsis thaliana.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.1000149/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1000149](https://www.frontiersin.org/articles/10.3389/fpls.2022.1000149/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36311096](https://pubmed.ncbi.nlm.nih.gov/36311096/)
+   - [ZmLBD2 a maize (Zea mays L.) lateral organ boundaries domain (LBD) transcription factor enhances drought tolerance in transgenic Arabidopsis thaliana.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.1000149/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1000149](https://www.frontiersin.org/articles/10.3389/fpls.2022.1000149/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36311096](https://pubmed.ncbi.nlm.nih.gov/36311096/)
 
 ## Related News:
 

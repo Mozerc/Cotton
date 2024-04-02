@@ -23,8 +23,8 @@ tags: [ leaf,breeding,internode length,leaf size ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[internode-length](/tags/internode-length/),&nbsp;&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
-   - [Cloning of a new allele of ZmAMP1 and evaluation of its breeding value in hybrid maize]( https://www.sciencedirect.com/science/article/pii/S2214514122001350).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.06.001](https://www.sciencedirect.com/science/article/pii/S2214514122001350);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [An in situ sequencing approach maps PLASTOCHRON1 at the boundary between indeterminate and determinate cells.]( https://academic.oup.com/plphys/article/188/2/782/6428669).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab533](https://academic.oup.com/plphys/article/188/2/782/6428669);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34791481](https://pubmed.ncbi.nlm.nih.gov/34791481/)
+   - [Cloning of a new allele of ZmAMP1 and evaluation of its breeding value in hybrid maize]( https://www.sciencedirect.com/science/article/pii/S2214514122001350)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.06.001](https://www.sciencedirect.com/science/article/pii/S2214514122001350);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [An in situ sequencing approach maps PLASTOCHRON1 at the boundary between indeterminate and determinate cells.]( https://academic.oup.com/plphys/article/188/2/782/6428669)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab533](https://academic.oup.com/plphys/article/188/2/782/6428669);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34791481](https://pubmed.ncbi.nlm.nih.gov/34791481/)
 
 ## Related News:
    - [The Crop Journal | 中国农科院作科所联合中国农大发现玉米绿色革命“矮密早”基因资源](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247534343&idx=6&sn=cad9284bf85f0baafd0ab838c24afab5&chksm=ce90ea52f9e763443e4c32955572d382f585557e0fd78b2c1b08c4a5c158f24869d276676da5&scene=27#wechat_redirect)

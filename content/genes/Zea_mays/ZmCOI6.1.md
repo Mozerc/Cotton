@@ -22,7 +22,7 @@ tags: [ drought,stress,drought stress,salinity,cold stress,abiotic stress,salicy
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[salinity](/tags/salinity/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[salinity-stress](/tags/salinity-stress/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/)
 
 ## Literature:
-   - [ZmCOI6.1, a novel, alternatively spliced maize gene, whose transcript level changes under abiotic stress]( https://www.sciencedirect.com/science/article/pii/S0168945209000909).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2009.03.004](https://www.sciencedirect.com/science/article/pii/S0168945209000909);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZmCOI6.1, a novel, alternatively spliced maize gene, whose transcript level changes under abiotic stress]( https://www.sciencedirect.com/science/article/pii/S0168945209000909)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2009.03.004](https://www.sciencedirect.com/science/article/pii/S0168945209000909);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

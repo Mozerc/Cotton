@@ -22,7 +22,7 @@ tags: [ grain,grain yield,yield ]
 - [grain](/tags/grain/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/)
 
 ## Literature:
-   - [Genetic determinants controlling maize rubisco activase gene expression and a comparison with rice counterparts.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6692957/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1965-x](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6692957/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31412785](https://pubmed.ncbi.nlm.nih.gov/31412785/)
+   - [Genetic determinants controlling maize rubisco activase gene expression and a comparison with rice counterparts.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6692957/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1965-x](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6692957/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31412785](https://pubmed.ncbi.nlm.nih.gov/31412785/)
 
 ## Related News:
 

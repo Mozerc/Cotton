@@ -23,9 +23,9 @@ tags: [ leaf,floral,floral organ,homeobox gene ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[floral-organ](/tags/floral-organ/),&nbsp;&nbsp;[homeobox-gene](/tags/homeobox-gene/)
 
 ## Literature:
-   - [ROUGH SHEATH2: a Myb protein that represses knox homeobox genes in maize lateral organ primordia.]( https://www.science.org/doi/10.1126/science.284.5411.151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.284.5411.151](https://www.science.org/doi/10.1126/science.284.5411.151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10102816](https://pubmed.ncbi.nlm.nih.gov/10102816/)
-   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
-   - [Getting closer: vein density in C(4) leaves.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15491](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30368826](https://pubmed.ncbi.nlm.nih.gov/30368826/)
+   - [ROUGH SHEATH2: a Myb protein that represses knox homeobox genes in maize lateral organ primordia.]( https://www.science.org/doi/10.1126/science.284.5411.151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.284.5411.151](https://www.science.org/doi/10.1126/science.284.5411.151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10102816](https://pubmed.ncbi.nlm.nih.gov/10102816/)
+   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
+   - [Getting closer: vein density in C(4) leaves.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15491](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30368826](https://pubmed.ncbi.nlm.nih.gov/30368826/)
 
 ## Related News:
 

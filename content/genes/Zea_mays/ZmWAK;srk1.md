@@ -22,7 +22,7 @@ tags: [ kinase,resistance ]
 - [kinase](/tags/kinase/),&nbsp;&nbsp;[resistance](/tags/resistance/)
 
 ## Literature:
-   - [A maize wall-associated kinase confers quantitative resistance to head smut.]( https://www.nature.com/articles/ng.3170).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ng.3170](https://www.nature.com/articles/ng.3170);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25531751](https://pubmed.ncbi.nlm.nih.gov/25531751/)
+   - [A maize wall-associated kinase confers quantitative resistance to head smut.]( https://www.nature.com/articles/ng.3170)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ng.3170](https://www.nature.com/articles/ng.3170);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25531751](https://pubmed.ncbi.nlm.nih.gov/25531751/)
 
 ## Related News:
 

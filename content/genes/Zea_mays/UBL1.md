@@ -25,7 +25,7 @@ tags: [ development,seedling,pre-mrna splicing ]
 - [development](/tags/development/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[pre-mrna-splicing](/tags/pre-mrna-splicing/)
 
 ## Literature:
-   - [The U6 Biogenesis-Like 1 Plays an Important Role in Maize Kernel and Seedling Development by Affecting the 3&#x27; End Processing of U6 snRNA.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(16)30263-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205216302635%3Fshowall%3Dtrue).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2016.10.016](https://www.cell.com/molecular-plant/fulltext/S1674-2052(16)30263-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205216302635%3Fshowall%3Dtrue);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27825944](https://pubmed.ncbi.nlm.nih.gov/27825944/)
+   - [The U6 Biogenesis-Like 1 Plays an Important Role in Maize Kernel and Seedling Development by Affecting the 3&#x27; End Processing of U6 snRNA.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(16)30263-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205216302635%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2016.10.016](https://www.cell.com/molecular-plant/fulltext/S1674-2052(16)30263-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205216302635%3Fshowall%3Dtrue);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27825944](https://pubmed.ncbi.nlm.nih.gov/27825944/)
 
 ## Related News:
    - [作科所发现UBL1基因调控玉米籽粒发育的分子机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247483680&idx=1&sn=efe0e501bf87d7e0d1ebc03c54c09777&chksm=e8be733edfc9fa281cd0119ab7900b3eb7537ae4faaf66cacce9085402066964f166e754c0a1&scene=27#wechat_redirect)

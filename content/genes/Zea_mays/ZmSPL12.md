@@ -24,7 +24,7 @@ tags: [ stem,grain,resistance,seedling,grain yield,nucleus,yield,lodging,lodging
 - [stem](/tags/stem/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[lodging](/tags/lodging/),&nbsp;&nbsp;[lodging-resistance](/tags/lodging-resistance/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/),&nbsp;&nbsp;[stem-strength](/tags/stem-strength/)
 
 ## Literature:
-   - [Overexpression of ZmSPL12 confers enhanced lodging resistance through transcriptional regulation of D1 in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13787).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13787](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13787);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35150020](https://pubmed.ncbi.nlm.nih.gov/35150020/)
+   - [Overexpression of ZmSPL12 confers enhanced lodging resistance through transcriptional regulation of D1 in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13787)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13787](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13787);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35150020](https://pubmed.ncbi.nlm.nih.gov/35150020/)
 
 ## Related News:
    - [PBJ|中国农业科学院和华南农业大学合作研究发现“类绿色革命”基因ZmSPL12通过调控D1基因转录增强玉米抗倒伏性的新机制。](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247533425&idx=3&sn=be63928a42b36cf94f46e4894fe666d5&chksm=e8bd316fdfcab879a92e37a3d1abc1a7729c075e066c6d913829e371cadf0b8540b6ac3f9438&scene=27#wechat_redirect)

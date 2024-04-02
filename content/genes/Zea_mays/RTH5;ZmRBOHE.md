@@ -23,8 +23,8 @@ tags: [ root,root elongation,root initiation,primary root,root hair,root length,
 - [root](/tags/root/),&nbsp;&nbsp;[root-elongation](/tags/root-elongation/),&nbsp;&nbsp;[root-initiation](/tags/root-initiation/),&nbsp;&nbsp;[primary-root](/tags/primary-root/),&nbsp;&nbsp;[root-hair](/tags/root-hair/),&nbsp;&nbsp;[root-length](/tags/root-length/),&nbsp;&nbsp;[root-epidermal-cells](/tags/root-epidermal-cells/)
 
 ## Literature:
-   - [Roothairless5, which functions in maize (Zea mays L.) root hair initiation and elongation encodes a monocot-specific NADPH oxidase.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.12578).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.12578](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12578);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24902980](https://pubmed.ncbi.nlm.nih.gov/24902980/)
-   - [Characterization of maize roothairless6 which encodes a D-type cellulose synthase and controls the switch from bulge formation to tip growth.]( https://www.nature.com/articles/srep34395).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep34395](https://www.nature.com/articles/srep34395);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27708345](https://pubmed.ncbi.nlm.nih.gov/27708345/)
+   - [Roothairless5, which functions in maize (Zea mays L.) root hair initiation and elongation encodes a monocot-specific NADPH oxidase.](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12578)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.12578](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12578);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24902980](https://pubmed.ncbi.nlm.nih.gov/24902980/)
+   - [Characterization of maize roothairless6 which encodes a D-type cellulose synthase and controls the switch from bulge formation to tip growth.]( https://www.nature.com/articles/srep34395)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep34395](https://www.nature.com/articles/srep34395);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27708345](https://pubmed.ncbi.nlm.nih.gov/27708345/)
 
 ## Related News:
 

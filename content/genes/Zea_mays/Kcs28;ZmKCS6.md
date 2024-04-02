@@ -21,7 +21,7 @@ tags: [ development,cuticle ]
 - [development](/tags/development/),&nbsp;&nbsp;[cuticle](/tags/cuticle/)
 
 ## Literature:
-   - [The FUSED LEAVES1-ADHERENT1 regulatory module is required for maize cuticle development and organ separation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754373/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16837](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754373/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32738820](https://pubmed.ncbi.nlm.nih.gov/32738820/)
+   - [The FUSED LEAVES1-ADHERENT1 regulatory module is required for maize cuticle development and organ separation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754373/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16837](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754373/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32738820](https://pubmed.ncbi.nlm.nih.gov/32738820/)
 
 ## Related News:
 

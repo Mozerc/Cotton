@@ -23,7 +23,7 @@ tags: [ seedlings,drought,stress,drought stress,tolerance,aba,drought tolerance,
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[water-loss](/tags/water-loss/)
 
 ## Literature:
-   - [ZmHDT103 Negatively Regulates Drought Stress Tolerance in Maize Seedlings]( https://www.mdpi.com/2073-4395/14/1/134).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy14010134](https://www.mdpi.com/2073-4395/14/1/134);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZmHDT103 Negatively Regulates Drought Stress Tolerance in Maize Seedlings]( https://www.mdpi.com/2073-4395/14/1/134)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy14010134](https://www.mdpi.com/2073-4395/14/1/134);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

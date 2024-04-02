@@ -23,7 +23,7 @@ tags: [ development,seed,seed development ]
 - [development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[seed-development](/tags/seed-development/)
 
 ## Literature:
-   - [DEK48 Is Required for RNA Editing at Multiple Mitochondrial Sites and Seed Development in Maize.]( https://www.mdpi.com/1422-0067/23/6/3064).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23063064](https://www.mdpi.com/1422-0067/23/6/3064);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35328485](https://pubmed.ncbi.nlm.nih.gov/35328485/)
+   - [DEK48 Is Required for RNA Editing at Multiple Mitochondrial Sites and Seed Development in Maize.]( https://www.mdpi.com/1422-0067/23/6/3064)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23063064](https://www.mdpi.com/1422-0067/23/6/3064);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35328485](https://pubmed.ncbi.nlm.nih.gov/35328485/)
 
 ## Related News:
    - [陈化榜研究组在玉米籽粒发育机制研究中取得新进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247586260&idx=4&sn=bbfc6091aeba23e7efc9ad528dcdda5e&chksm=dafcf99026cca538a3f9193927cff46ee354181523c2b12cfe97ae7a07c6aef87b7ef0ca92f3&scene=27#wechat_redirect)

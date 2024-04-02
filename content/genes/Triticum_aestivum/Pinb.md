@@ -22,7 +22,7 @@ tags: [ kernel texture ]
    - [kernel-texture](/tags/kernel-texture/)
 
 ## Literature:
-   - [Molecular genetics of puroindolines and related genes: allelic diversity in wheat and other grasses.]( https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9263-7](https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18049798](https://pubmed.ncbi.nlm.nih.gov/18049798/)
+   - [Molecular genetics of puroindolines and related genes: allelic diversity in wheat and other grasses.]( https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9263-7](https://link.springer.com/article/10.1007/s11103-007-9263-7);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18049798](https://pubmed.ncbi.nlm.nih.gov/18049798/)
 
 ## Related News:
 

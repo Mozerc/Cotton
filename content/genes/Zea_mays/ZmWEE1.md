@@ -23,7 +23,7 @@ tags: [ growth,kinase,nucleus,cell division,plant growth,cell elongation,height,
 - [growth](/tags/growth/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
+   - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
 
 ## Related News:
 

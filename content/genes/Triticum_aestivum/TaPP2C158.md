@@ -19,10 +19,10 @@ tags: [ drought,aba,phosphatase,protein phosphatase,drought response ]
    - Protein phosphatase 2C (**TaPP2C158**) with enhanced protein phosphatase activity.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [drought](/tags/drought/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[protein-phosphatase](/tags/protein-phosphatase/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [DIW1 encoding a clade I PP2C phosphatase negatively regulates drought tolerance by de-phosphorylating TaSnRK1.1 in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13504)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13504](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13504)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37158049](https://pubmed.ncbi.nlm.nih.gov/37158049/)
+   - [DIW1 encoding a clade I PP2C phosphatase negatively regulates drought tolerance by de-phosphorylating TaSnRK1.1 in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13504)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13504](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13504);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37158049](https://pubmed.ncbi.nlm.nih.gov/37158049/)
 
 ## Related News:
    - [JIPB | 中国农业科学院作物科学研究所景蕊莲课题组发现小麦抗旱新机制](https://mp.weixin.qq.com/s/mySG5mru468G8sANb_N5bQ)

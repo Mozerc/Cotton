@@ -18,10 +18,10 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal ]
    - One of these genes,TRITD5Bv1G197370, encodes a P1B-type heavy-metal ATPase 3 that is orthologous to rice HMA3.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[heavy-metal](/tags/heavy-metal/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[atpase](/tags/atpase/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[cadmium](/tags/cadmium/),&nbsp;&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/),&nbsp;&nbsp;[heavy-metal](/tags/heavy-metal/)
 
 ## Literature:
-   - [Durum wheat genome highlights past domestication signatures and future improvement targets.]( https://www.nature.com/articles/s41588-019-0381-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0381-3 ](https://www.nature.com/articles/s41588-019-0381-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30962619](https://pubmed.ncbi.nlm.nih.gov/30962619/)
+   - [Durum wheat genome highlights past domestication signatures and future improvement targets.]( https://www.nature.com/articles/s41588-019-0381-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0381-3 ](https://www.nature.com/articles/s41588-019-0381-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30962619](https://pubmed.ncbi.nlm.nih.gov/30962619/)
 
 ## Related News:
 

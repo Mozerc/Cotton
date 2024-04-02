@@ -21,10 +21,10 @@ tags: [ development,spikelet,fertility,floral,meristem,spikelet meristem,inflore
    - Regulation of meristem activity genes by TaAGL6 for both inflorescence and floral development.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[spikelet-meristem](/tags/spikelet-meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[floral-meristem](/tags/floral-meristem/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [development](/tags/development/),&nbsp;&nbsp;[spikelet](/tags/spikelet/),&nbsp;&nbsp;[fertility](/tags/fertility/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[spikelet-meristem](/tags/spikelet-meristem/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[floral-meristem](/tags/floral-meristem/),&nbsp;&nbsp;[floral-organ](/tags/floral-organ/),&nbsp;&nbsp;[spikelet-development](/tags/spikelet-development/),&nbsp;&nbsp;[inflorescence-development](/tags/inflorescence-development/),&nbsp;&nbsp;[spike](/tags/spike/)
 
 ## Literature:
-   - [The wheat AGL6-like MADS-box gene is a master regulator for floral organ identity and a target for spikelet meristem development manipulation.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13696)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13696](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13696)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34487615](https://pubmed.ncbi.nlm.nih.gov/34487615/)
+   - [The wheat AGL6-like MADS-box gene is a master regulator for floral organ identity and a target for spikelet meristem development manipulation.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13696)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13696](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13696);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34487615](https://pubmed.ncbi.nlm.nih.gov/34487615/)
 
 ## Related News:
    - [PBJ | 作物所毛龙团队与四川农大兰秀锦团队合作揭示AGL6 基因在花器官调控和小穗发育过程中的功能为小麦高产育种提供重要参考](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516941&idx=1&sn=6c4564d4f19f4c36159b48b8d3095343&chksm=ce902e58f9e7a74e6ed2f63a2b55971232a5aa729d0d148fb484d5841ff2aaeda7bde5f9606d&scene=27#wechat_redirect)

@@ -22,7 +22,7 @@ tags: [ stem,root,auxin,dwarf,auxin transport,as transport ]
 - [stem](/tags/stem/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[auxin-transport](/tags/auxin-transport/),&nbsp;&nbsp;[as-transport](/tags/as-transport/)
 
 ## Literature:
-   - [Functional analysis revealed the involvement of ZmABCB15 in resistance to rice black-streaked dwarf virus infection.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03861-w).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-022-03861-w ](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03861-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36217105](https://pubmed.ncbi.nlm.nih.gov/36217105/)
+   - [Functional analysis revealed the involvement of ZmABCB15 in resistance to rice black-streaked dwarf virus infection.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03861-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-022-03861-w ](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03861-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36217105](https://pubmed.ncbi.nlm.nih.gov/36217105/)
 
 ## Related News:
 

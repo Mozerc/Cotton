@@ -24,7 +24,7 @@ tags: [ development,grain,grain size,auxin,grain number,grain yield,yield,merist
 - [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/),&nbsp;&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
-   - [Genetic variation in YIGE1 contributes to ear length and grain yield in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17882).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17882](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17882);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34837389](https://pubmed.ncbi.nlm.nih.gov/34837389/)
+   - [Genetic variation in YIGE1 contributes to ear length and grain yield in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17882)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17882](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17882);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34837389](https://pubmed.ncbi.nlm.nih.gov/34837389/)
 
 ## Related News:
    - [New Phytologist | 华中农业大学严建兵团队发现调控玉米穗长和产量的新基因YIGE1](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247521593&idx=1&sn=e4c5acbd612deb610f08f914c424b487&chksm=ce90386cf9e7b17aa4e00a0efea3b77174b618c64343baa368da7e89e9cd733b6bd6ee174f79&scene=27#wechat_redirect)

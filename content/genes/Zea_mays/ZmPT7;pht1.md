@@ -25,7 +25,7 @@ tags: [ growth,phosphate,pi,pi uptake,phosphate starvation,phosphate acquisition
 - [growth](/tags/growth/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[pi](/tags/pi/),&nbsp;&nbsp;[pi-uptake](/tags/pi-uptake/),&nbsp;&nbsp;[phosphate-starvation](/tags/phosphate-starvation/),&nbsp;&nbsp;[phosphate-acquisition](/tags/phosphate-acquisition/)
 
 ## Literature:
-   - [Maize ZmPT7 regulates Pi uptake and redistribution which is modulated by phosphorylation.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13414).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13414](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13414);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32431055](https://pubmed.ncbi.nlm.nih.gov/32431055/)
+   - [Maize ZmPT7 regulates Pi uptake and redistribution which is modulated by phosphorylation.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13414)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13414](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13414);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32431055](https://pubmed.ncbi.nlm.nih.gov/32431055/)
 
 ## Related News:
    - [PBJ|中国农业大学在玉米磷吸收和再分配研究中取得进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247495790&idx=4&sn=bfb3a905fe56ac0e477162e0100504ce&chksm=e8bd8270dfca0b66449c5966f6445f7c49744da612838915719b777677b7e52a66e6c6655a88&scene=27#wechat_redirect)

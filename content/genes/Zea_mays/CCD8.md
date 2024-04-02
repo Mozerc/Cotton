@@ -25,7 +25,7 @@ tags: [ root,vegetative,inflorescence,reproductive,architecture,inflorescence ar
 - [root](/tags/root/),&nbsp;&nbsp;[vegetative](/tags/vegetative/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/),&nbsp;&nbsp;[root-architecture](/tags/root-architecture/)
 
 ## Literature:
-   - [Diverse roles of strigolactone signaling in maize architecture and the uncoupling of a branching-specific subnetwork.]( https://academic.oup.com/plphys/article/160/3/1303/6109377?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.112.204503](https://academic.oup.com/plphys/article/160/3/1303/6109377?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22961131](https://pubmed.ncbi.nlm.nih.gov/22961131/)
+   - [Diverse roles of strigolactone signaling in maize architecture and the uncoupling of a branching-specific subnetwork.]( https://academic.oup.com/plphys/article/160/3/1303/6109377?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.112.204503](https://academic.oup.com/plphys/article/160/3/1303/6109377?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22961131](https://pubmed.ncbi.nlm.nih.gov/22961131/)
 
 ## Related News:
 

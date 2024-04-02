@@ -18,10 +18,10 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
    - These results indicated that NLRWE18 is functional powdery mildew resistance allele **MlWE18**.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[powdery-mildew](/tags/powdery-mildew/),&nbsp;&nbsp;[mildew-resistance](/tags/mildew-resistance/),&nbsp;&nbsp;[mildew](/tags/mildew/),&nbsp;&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
-   - [Bulked segregant CGT-Seq-facilitated map-based cloning of a powdery mildew resistance gene originating from wild emmer wheat (Triticum dicoccoides).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13609](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33949081](https://pubmed.ncbi.nlm.nih.gov/33949081/)
+   - [Bulked segregant CGT-Seq-facilitated map-based cloning of a powdery mildew resistance gene originating from wild emmer wheat (Triticum dicoccoides).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13609](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13609);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33949081](https://pubmed.ncbi.nlm.nih.gov/33949081/)
 
 ## Related News:
    - [PBJ | BSA-CGT-Seq助力抗白粉病基因MlWE18克隆](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247509894&idx=3&sn=3ea9e643233016321a12f84f691726e8&chksm=ce900ad3f9e783c537ebf21a059cebccfb7837a5b9848e7ef5f7d041144b89a6b5d40f1a7c0a&scene=27#wechat_redirect)

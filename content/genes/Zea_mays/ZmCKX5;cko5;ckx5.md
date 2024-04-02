@@ -22,7 +22,7 @@ tags: [ root,development,seed,root development,lateral root,seed development,roo
 - [root](/tags/root/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[root-length](/tags/root-length/),&nbsp;&nbsp;[seed-length](/tags/seed-length/),&nbsp;&nbsp;[root-number](/tags/root-number/),&nbsp;&nbsp;[lateral-root-number](/tags/lateral-root-number/),&nbsp;&nbsp;[lateral-root-length](/tags/lateral-root-length/)
 
 ## Literature:
-   - [Natural Variation and Domestication Selection of ZmCKX5 with Root Morphological Traits at the Seedling Stage in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830956/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants10010001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830956/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33375032](https://pubmed.ncbi.nlm.nih.gov/33375032/)
+   - [Natural Variation and Domestication Selection of ZmCKX5 with Root Morphological Traits at the Seedling Stage in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830956/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants10010001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830956/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33375032](https://pubmed.ncbi.nlm.nih.gov/33375032/)
 
 ## Related News:
 

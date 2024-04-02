@@ -22,10 +22,10 @@ tags: [ leaf,seedlings,development,leaf development,drought,tolerance,drought to
    - **TaHXK3-2A** is able to modulate the metabolism of hexose sugars and that the resulting metabolites can promote stomatal development in wheat seedlings.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)&nbsp;,&nbsp;[stomatal-development](/tags/stomatal-development/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[seedlings](/tags/seedlings/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[leaf-size](/tags/leaf-size/),&nbsp;&nbsp;[stomatal-development](/tags/stomatal-development/)
 
 ## Literature:
-   - [Genome-wide association study revealed TaHXK3-2A as a candidate gene controlling stomatal index in wheat seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14342](https://onlinelibrary.wiley.com/doi/10.1111/pce.14342)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35545896](https://pubmed.ncbi.nlm.nih.gov/35545896/)
+   - [Genome-wide association study revealed TaHXK3-2A as a candidate gene controlling stomatal index in wheat seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14342](https://onlinelibrary.wiley.com/doi/10.1111/pce.14342);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35545896](https://pubmed.ncbi.nlm.nih.gov/35545896/)
 
 ## Related News:
    - [PCE | 西北农林康振生课题组通过全基因组关联研究解析并挖掘了小麦幼苗叶片气孔指数的遗传基础和重要调控基因TaHXK3-2A](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247529592&idx=3&sn=f123e5285838462a4df336cc9dfc3c8b&chksm=ce90d92df9e7503b20ec3d5e551515bf06ed65554c65ee618ca6a0498516aa90a7fc26c26e7b&scene=27#wechat_redirect)

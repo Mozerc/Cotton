@@ -21,10 +21,10 @@ tags: [ development,grain,grain length,awn,photosynthesis,cytokinin,cell elongat
    - **ALI-1** represses cytokinin-mediated cell proliferation in awn.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[awn](/tags/awn/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)
+   - [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[awn](/tags/awn/),&nbsp;&nbsp;[photosynthesis](/tags/photosynthesis/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[cell-proliferation](/tags/cell-proliferation/)
 
 ## Literature:
-   - [Natural variations in the promoter of Awn Length Inhibitor 1 (ALI-1) are associated with awn elongation and grain length in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14575](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31628879](https://pubmed.ncbi.nlm.nih.gov/31628879/)
+   - [Natural variations in the promoter of Awn Length Inhibitor 1 (ALI-1) are associated with awn elongation and grain length in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14575](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14575);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31628879](https://pubmed.ncbi.nlm.nih.gov/31628879/)
 
 ## Related News:
 

@@ -24,7 +24,7 @@ tags: [ transcription factor,root,growth,development,drought,tolerance,aba,droug
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[phosphate-starvation](/tags/phosphate-starvation/),&nbsp;&nbsp;[root-number](/tags/root-number/),&nbsp;&nbsp;[lateral-root-number](/tags/lateral-root-number/)
 
 ## Literature:
-   - [The bHLH family member ZmPTF1 regulates drought tolerance in maize by promoting root development and abscisic acid synthesis.]( https://academic.oup.com/jxb/article/70/19/5471/5527430?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erz307](https://academic.oup.com/jxb/article/70/19/5471/5527430?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31267122](https://pubmed.ncbi.nlm.nih.gov/31267122/)
+   - [The bHLH family member ZmPTF1 regulates drought tolerance in maize by promoting root development and abscisic acid synthesis.]( https://academic.oup.com/jxb/article/70/19/5471/5527430?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erz307](https://academic.oup.com/jxb/article/70/19/5471/5527430?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31267122](https://pubmed.ncbi.nlm.nih.gov/31267122/)
 
 ## Related News:
 

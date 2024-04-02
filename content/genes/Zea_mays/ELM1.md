@@ -24,8 +24,8 @@ tags: [ seedlings,flowering time,flowering ]
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [Elongated mesocotyl1, a phytochrome-deficient mutant of maize.]( https://academic.oup.com/plphys/article/130/1/155/6110319?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.006411](https://academic.oup.com/plphys/article/130/1/155/6110319?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12226496](https://pubmed.ncbi.nlm.nih.gov/12226496/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [Elongated mesocotyl1, a phytochrome-deficient mutant of maize.]( https://academic.oup.com/plphys/article/130/1/155/6110319?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.006411](https://academic.oup.com/plphys/article/130/1/155/6110319?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12226496](https://pubmed.ncbi.nlm.nih.gov/12226496/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
 
 ## Related News:
 

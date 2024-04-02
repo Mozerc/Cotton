@@ -21,8 +21,8 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [ZmILI1 regulates leaf angle by directly affecting liguleless1 expression in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13255](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31529573](https://pubmed.ncbi.nlm.nih.gov/31529573/)
-   - [ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19192](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37583092](https://pubmed.ncbi.nlm.nih.gov/37583092/)
+   - [ZmILI1 regulates leaf angle by directly affecting liguleless1 expression in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13255](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13255);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31529573](https://pubmed.ncbi.nlm.nih.gov/31529573/)
+   - [ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19192](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37583092](https://pubmed.ncbi.nlm.nih.gov/37583092/)
 
 ## Related News:
 

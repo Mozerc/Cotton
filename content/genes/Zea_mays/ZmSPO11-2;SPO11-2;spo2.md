@@ -23,7 +23,7 @@ tags: [ sterility,meiotic,male sterility,meiotic recombination,female sterility,
 - [sterility](/tags/sterility/),&nbsp;&nbsp;[meiotic](/tags/meiotic/),&nbsp;&nbsp;[male-sterility](/tags/male-sterility/),&nbsp;&nbsp;[meiotic-recombination](/tags/meiotic-recombination/),&nbsp;&nbsp;[female-sterility](/tags/female-sterility/),&nbsp;&nbsp;[recombination](/tags/recombination/)
 
 ## Literature:
-   - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
+   - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
 
 ## Related News:
 

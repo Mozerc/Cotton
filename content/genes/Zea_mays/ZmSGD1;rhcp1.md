@@ -23,7 +23,7 @@ tags: [ root,grain,grain length,grain size,panicle,grain number,grain yield,yiel
 - [root](/tags/root/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[panicle](/tags/panicle/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[root-initiation](/tags/root-initiation/),&nbsp;&nbsp;[panicle-size](/tags/panicle-size/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[panicle-length](/tags/panicle-length/),&nbsp;&nbsp;[root-length](/tags/root-length/),&nbsp;&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
-   - [An E2-E3 pair contributes to seed size control in grain crops.]( https://www.nature.com/articles/s41467-023-38812-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-38812-y](https://www.nature.com/articles/s41467-023-38812-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37248257](https://pubmed.ncbi.nlm.nih.gov/37248257/)
+   - [An E2-E3 pair contributes to seed size control in grain crops.]( https://www.nature.com/articles/s41467-023-38812-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-38812-y](https://www.nature.com/articles/s41467-023-38812-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37248257](https://pubmed.ncbi.nlm.nih.gov/37248257/)
 
 ## Related News:
 

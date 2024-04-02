@@ -25,7 +25,7 @@ tags: [ development,embryo,endosperm,cell cycle,endosperm development,embryo dev
 - [development](/tags/development/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
-   - [A Systemic Investigation of Genetic Architecture and Gene Resources Controlling Kernel Size-Related Traits in Maize.]( https://academic.oup.com/plcell/article/31/2/465/5985441).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021025](https://academic.oup.com/plcell/article/31/2/465/5985441);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36674545](https://pubmed.ncbi.nlm.nih.gov/36674545/)
+   - [A Systemic Investigation of Genetic Architecture and Gene Resources Controlling Kernel Size-Related Traits in Maize.]( https://academic.oup.com/plcell/article/31/2/465/5985441)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021025](https://academic.oup.com/plcell/article/31/2/465/5985441);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36674545](https://pubmed.ncbi.nlm.nih.gov/36674545/)
 
 ## Related News:
 

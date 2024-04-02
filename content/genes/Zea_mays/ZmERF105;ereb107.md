@@ -22,7 +22,7 @@ tags: [ transcription factor,resistance,transcription activator ]
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[transcription-activator](/tags/transcription-activator/)
 
 ## Literature:
-   - [A Novel ERF Transcription Factor, ZmERF105, Positively Regulates Maize Resistance to Exserohilum turcicum.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308562/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.00850](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308562/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32612628](https://pubmed.ncbi.nlm.nih.gov/32612628/)
+   - [A Novel ERF Transcription Factor, ZmERF105, Positively Regulates Maize Resistance to Exserohilum turcicum.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308562/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.00850](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308562/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32612628](https://pubmed.ncbi.nlm.nih.gov/32612628/)
 
 ## Related News:
 

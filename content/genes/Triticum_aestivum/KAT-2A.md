@@ -20,10 +20,10 @@ tags: [ grain,grain yield,ja,yield,grain weight,sucrose,ja biosynthesis ]
    - These results suggested that wheat KAT-2B is very likely involved in the biosynthesis of JA.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)
 
 ## Literature:
-   - [Cloning of wheat keto-acyl thiolase 2B reveals a role of jasmonic acid in grain weight determination.]( https://www.nature.com/articles/s41467-020-20133-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-20133-z](https://www.nature.com/articles/s41467-020-20133-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33293512](https://pubmed.ncbi.nlm.nih.gov/33293512/)
+   - [Cloning of wheat keto-acyl thiolase 2B reveals a role of jasmonic acid in grain weight determination.]( https://www.nature.com/articles/s41467-020-20133-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-20133-z](https://www.nature.com/articles/s41467-020-20133-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33293512](https://pubmed.ncbi.nlm.nih.gov/33293512/)
 
 ## Related News:
 

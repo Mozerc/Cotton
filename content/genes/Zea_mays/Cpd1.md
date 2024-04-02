@@ -23,7 +23,7 @@ tags: [ development,plant development,phloem ]
 - [development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[phloem](/tags/phloem/)
 
 ## Literature:
-   - [Maize Carbohydrate partitioning defective1 impacts carbohydrate distribution, callose accumulation, and phloem function.]( https://academic.oup.com/jxb/article/69/16/3917/5006194?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery203](https://academic.oup.com/jxb/article/69/16/3917/5006194?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29846660](https://pubmed.ncbi.nlm.nih.gov/29846660/)
+   - [Maize Carbohydrate partitioning defective1 impacts carbohydrate distribution, callose accumulation, and phloem function.]( https://academic.oup.com/jxb/article/69/16/3917/5006194?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery203](https://academic.oup.com/jxb/article/69/16/3917/5006194?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29846660](https://pubmed.ncbi.nlm.nih.gov/29846660/)
 
 ## Related News:
    - [玉米Cpd1基因的鉴定及其调控碳水化合物分配的机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247488034&idx=4&sn=170ffaaa7d9c67166977ee790ad174a5&chksm=fd708845ca0701531fcdcf37215cfbc9fcfc33e08ce328d7cc71e25287fb720a0810457416bd&scene=27#wechat_redirect)

@@ -23,7 +23,7 @@ tags: [ development,yield,sugar,sucrose ]
 - [development](/tags/development/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
-   - [Sucrose transporter2 contributes to maize growth, development, and crop yield.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12527).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12527](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12527);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28206710](https://pubmed.ncbi.nlm.nih.gov/28206710/)
+   - [Sucrose transporter2 contributes to maize growth, development, and crop yield.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12527)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12527](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12527);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28206710](https://pubmed.ncbi.nlm.nih.gov/28206710/)
 
 ## Related News:
 

@@ -22,7 +22,7 @@ tags: [ growth,development,seedling,seedling growth ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
-   - [ZmFdC2 Encoding a Ferredoxin Protein With C-Terminus Extension Is Indispensable for Maize Growth.]( https://muhendisi.com/grow-protein-c-terminal).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2021.646359](https://muhendisi.com/grow-protein-c-terminal);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33968104](https://pubmed.ncbi.nlm.nih.gov/33968104/)
+   - [ZmFdC2 Encoding a Ferredoxin Protein With C-Terminus Extension Is Indispensable for Maize Growth.]( https://muhendisi.com/grow-protein-c-terminal)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2021.646359](https://muhendisi.com/grow-protein-c-terminal);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33968104](https://pubmed.ncbi.nlm.nih.gov/33968104/)
 
 ## Related News:
 

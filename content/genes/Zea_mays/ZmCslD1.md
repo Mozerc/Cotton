@@ -24,8 +24,8 @@ tags: [ cell division,cell wall,cellulose,organ size ]
 - [cell-division](/tags/cell-division/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cellulose](/tags/cellulose/),&nbsp;&nbsp;[organ-size](/tags/organ-size/)
 
 ## Literature:
-   - [Cellulose synthase-like D1 controls organ size in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1453-8).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1453-8](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1453-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30326832](https://pubmed.ncbi.nlm.nih.gov/30326832/)
-   - [The thick aleurone1 Gene Encodes a NOT1 Subunit of the CCR4-NOT Complex and Regulates Cell Patterning in Endosperm.]( https://academic.oup.com/plphys/article/184/2/960/6117901?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00703](https://academic.oup.com/plphys/article/184/2/960/6117901?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32737073](https://pubmed.ncbi.nlm.nih.gov/32737073/)
+   - [Cellulose synthase-like D1 controls organ size in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1453-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1453-8](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1453-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30326832](https://pubmed.ncbi.nlm.nih.gov/30326832/)
+   - [The thick aleurone1 Gene Encodes a NOT1 Subunit of the CCR4-NOT Complex and Regulates Cell Patterning in Endosperm.]( https://academic.oup.com/plphys/article/184/2/960/6117901?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00703](https://academic.oup.com/plphys/article/184/2/960/6117901?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32737073](https://pubmed.ncbi.nlm.nih.gov/32737073/)
 
 ## Related News:
 

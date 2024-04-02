@@ -25,7 +25,7 @@ tags: [ development,auxin,vegetative,meristem,inflorescence,reproductive,auxin b
 - [development](/tags/development/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[vegetative](/tags/vegetative/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/),&nbsp;&nbsp;[reproductive-development](/tags/reproductive-development/),&nbsp;&nbsp;[tryptophan-aminotransferase](/tags/tryptophan-aminotransferase/),&nbsp;&nbsp;[axillary-meristem](/tags/axillary-meristem/),&nbsp;&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
-   - [vanishing tassel2 encodes a grass-specific tryptophan aminotransferase required for vegetative and reproductive development in maize.]( https://academic.oup.com/plcell/article/23/2/550/6095115?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.110.075267](https://academic.oup.com/plcell/article/23/2/550/6095115?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21335375](https://pubmed.ncbi.nlm.nih.gov/21335375/)
+   - [vanishing tassel2 encodes a grass-specific tryptophan aminotransferase required for vegetative and reproductive development in maize.]( https://academic.oup.com/plcell/article/23/2/550/6095115?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.110.075267](https://academic.oup.com/plcell/article/23/2/550/6095115?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21335375](https://pubmed.ncbi.nlm.nih.gov/21335375/)
 
 ## Related News:
 

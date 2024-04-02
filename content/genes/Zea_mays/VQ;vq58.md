@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,abiotic stress,osmotic stress ]
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[osmotic-stress](/tags/osmotic-stress/)
 
 ## Literature:
-   - [Genome-Wide Identification of VQ Motif-Containing Proteins and their Expression Profiles Under Abiotic Stresses in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2015.01177/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2015.01177](https://www.frontiersin.org/articles/10.3389/fpls.2015.01177/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26779214](https://pubmed.ncbi.nlm.nih.gov/26779214/)
+   - [Genome-Wide Identification of VQ Motif-Containing Proteins and their Expression Profiles Under Abiotic Stresses in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2015.01177/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2015.01177](https://www.frontiersin.org/articles/10.3389/fpls.2015.01177/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26779214](https://pubmed.ncbi.nlm.nih.gov/26779214/)
 
 ## Related News:
 

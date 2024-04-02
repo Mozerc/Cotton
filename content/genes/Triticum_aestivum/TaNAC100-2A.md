@@ -22,10 +22,10 @@ tags: [ seed,starch,seed weight,height,heading date,plant height,seed size,seed 
    - TaNAC100 has pleiotropic effects on plant phenotype.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[heading-date](/tags/heading-date/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[seed-weight](/tags/seed-weight/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[heading-date](/tags/heading-date/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[seed-size](/tags/seed-size/),&nbsp;&nbsp;[seed-phenotype](/tags/seed-phenotype/)
 
 ## Literature:
-   - [TaNAC100 acts as an integrator of seed protein and starch synthesis exerting pleiotropic effects on agronomic traits in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15485)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15485](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15485)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34492155](https://pubmed.ncbi.nlm.nih.gov/34492155/)
+   - [TaNAC100 acts as an integrator of seed protein and starch synthesis exerting pleiotropic effects on agronomic traits in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15485)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15485](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15485);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34492155](https://pubmed.ncbi.nlm.nih.gov/34492155/)
 
 ## Related News:
    - [The Plant Journal | 中国农科院作物所曹双河团队发现TaNAC100是控制种子蛋白质和淀粉合成的中枢](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516983&idx=4&sn=ba83c34e39e30a6a45583fb02152074b&chksm=ce902e62f9e7a774db21454bc97710025966d249e5af0b0eeefbb9f1e07acd6204beeb948e80&scene=27#wechat_redirect)

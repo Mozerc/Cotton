@@ -23,7 +23,7 @@ tags: [ endosperm,transcriptional activator ]
 - [endosperm](/tags/endosperm/),&nbsp;&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)
 
 ## Literature:
-   - [The promoter of ZmMRP-1, a maize transfer cell-specific transcriptional activator, is induced at solute exchange surfaces and responds to transport demands.]( https://link.springer.com/article/10.1007/s00425-008-0823-0).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-008-0823-0](https://link.springer.com/article/10.1007/s00425-008-0823-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18830706](https://pubmed.ncbi.nlm.nih.gov/18830706/)
+   - [The promoter of ZmMRP-1, a maize transfer cell-specific transcriptional activator, is induced at solute exchange surfaces and responds to transport demands.]( https://link.springer.com/article/10.1007/s00425-008-0823-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-008-0823-0](https://link.springer.com/article/10.1007/s00425-008-0823-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18830706](https://pubmed.ncbi.nlm.nih.gov/18830706/)
 
 ## Related News:
 

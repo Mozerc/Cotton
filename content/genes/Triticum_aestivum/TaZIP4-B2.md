@@ -21,10 +21,10 @@ tags: [ crossover,synapsis ]
    - Interestingly, increasing the copy number of 5B chromosomes carrying **TaZIP4-B2** reduces homologous crossover.
 
 ## Function-related keywords:
-   - [crossover](/tags/crossover/)&nbsp;,&nbsp;[synapsis](/tags/synapsis/)
+   - [crossover](/tags/crossover/),&nbsp;&nbsp;[synapsis](/tags/synapsis/)
 
 ## Literature:
-   - [Exploiting the ZIP4 homologue within the wheat Ph1 locus has identified two lines exhibiting homoeologous crossover in wheat-wild relative hybrids.]( https://link.springer.com/article/10.1007/s11032-017-0700-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-017-0700-2](https://link.springer.com/article/10.1007/s11032-017-0700-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28781573](https://pubmed.ncbi.nlm.nih.gov/28781573/)
+   - [Exploiting the ZIP4 homologue within the wheat Ph1 locus has identified two lines exhibiting homoeologous crossover in wheat-wild relative hybrids.]( https://link.springer.com/article/10.1007/s11032-017-0700-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-017-0700-2](https://link.springer.com/article/10.1007/s11032-017-0700-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28781573](https://pubmed.ncbi.nlm.nih.gov/28781573/)
 
 ## Related News:
 

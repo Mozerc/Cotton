@@ -20,7 +20,7 @@ tags: [ stress,stress response,heat stress,heat stress response ]
 - [stress](/tags/stress/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/),&nbsp;&nbsp;[heat-stress-response](/tags/heat-stress-response/)
 
 ## Literature:
-   - [Transcriptomic and weighted gene co-expression network analysis of tropic and temperate maize inbred lines recovering from heat stress.]( https://www.sciencedirect.com/science/article/pii/S0168945222003636?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2022.111538](https://www.sciencedirect.com/science/article/pii/S0168945222003636?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36423743](https://pubmed.ncbi.nlm.nih.gov/36423743/)
+   - [Transcriptomic and weighted gene co-expression network analysis of tropic and temperate maize inbred lines recovering from heat stress.]( https://www.sciencedirect.com/science/article/pii/S0168945222003636?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2022.111538](https://www.sciencedirect.com/science/article/pii/S0168945222003636?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36423743](https://pubmed.ncbi.nlm.nih.gov/36423743/)
 
 ## Related News:
 

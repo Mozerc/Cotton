@@ -22,7 +22,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,er stress,heat stress ]
 - [stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[heat-tolerance](/tags/heat-tolerance/),&nbsp;&nbsp;[er-stress](/tags/er-stress/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
-   - [Maize HEAT UP-REGULATED GENE 1 plays vital roles in heat stress tolerance.]( https://academic.oup.com/jxb/article/73/18/6417/6609530).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac262](https://academic.oup.com/jxb/article/73/18/6417/6609530);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35709944](https://pubmed.ncbi.nlm.nih.gov/35709944/)
+   - [Maize HEAT UP-REGULATED GENE 1 plays vital roles in heat stress tolerance.]( https://academic.oup.com/jxb/article/73/18/6417/6609530)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac262](https://academic.oup.com/jxb/article/73/18/6417/6609530);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35709944](https://pubmed.ncbi.nlm.nih.gov/35709944/)
 
 ## Related News:
 

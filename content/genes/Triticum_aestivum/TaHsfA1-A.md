@@ -21,10 +21,10 @@ tags: [ stress,ubiquitin,stress response,heat stress,heat stress response,thermo
    - TaHsfA1 is SUMO-modified in a thermosensitive manner.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[thermotolerance](/tags/thermotolerance/)
+   - [stress](/tags/stress/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/),&nbsp;&nbsp;[heat-stress-response](/tags/heat-stress-response/),&nbsp;&nbsp;[thermotolerance](/tags/thermotolerance/)
 
 ## Literature:
-   - [Thermosensitive SUMOylation of TaHsfA1 defines a dynamic ON/OFF molecular switch for the heat stress response in wheat.]( https://academic.oup.com/plcell/article/35/10/3889/7218295?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad192](https://academic.oup.com/plcell/article/35/10/3889/7218295?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37399070](https://pubmed.ncbi.nlm.nih.gov/37399070/)
+   - [Thermosensitive SUMOylation of TaHsfA1 defines a dynamic ON/OFF molecular switch for the heat stress response in wheat.]( https://academic.oup.com/plcell/article/35/10/3889/7218295?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad192](https://academic.oup.com/plcell/article/35/10/3889/7218295?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37399070](https://pubmed.ncbi.nlm.nih.gov/37399070/)
 
 ## Related News:
    - [The Plant Cell丨中国农业大学小麦研究中心揭示小麦热胁迫响应新机制](https://mp.weixin.qq.com/s/Yh3rUuJYnwVLgeNHEVe6Nw)

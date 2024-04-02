@@ -22,7 +22,7 @@ tags: [ stress,seed,seed germination,aba,ga ]
 - [stress](/tags/stress/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[ga](/tags/ga/)
 
 ## Literature:
-   - [ZmCIPK32 positively regulates germination of stressed seeds via gibberellin signal.]( https://www.sciencedirect.com/science/article/pii/S0981942823002279?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2023.107716](https://www.sciencedirect.com/science/article/pii/S0981942823002279?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37116226](https://pubmed.ncbi.nlm.nih.gov/37116226/)
+   - [ZmCIPK32 positively regulates germination of stressed seeds via gibberellin signal.]( https://www.sciencedirect.com/science/article/pii/S0981942823002279?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2023.107716](https://www.sciencedirect.com/science/article/pii/S0981942823002279?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37116226](https://pubmed.ncbi.nlm.nih.gov/37116226/)
 
 ## Related News:
 

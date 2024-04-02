@@ -21,7 +21,7 @@ tags: [ development,starch,endosperm,endosperm development,pyrophosphorylase,sta
 - [development](/tags/development/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[pyrophosphorylase](/tags/pyrophosphorylase/),&nbsp;&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
-   - [Genetic analysis and molecular characterization of a novel maize Bt2 gene mutant]( https://www.sciengine.com/AAS/doi/10.3724/SP.J.1006.2022.13005).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3724/SP.J.1006.2022.13005](https://www.sciengine.com/AAS/doi/10.3724/SP.J.1006.2022.13005);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Genetic analysis and molecular characterization of a novel maize Bt2 gene mutant]( https://www.sciengine.com/AAS/doi/10.3724/SP.J.1006.2022.13005)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3724/SP.J.1006.2022.13005](https://www.sciengine.com/AAS/doi/10.3724/SP.J.1006.2022.13005);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

@@ -23,7 +23,7 @@ tags: [ tillering,tiller,tiller number,tiller bud outgrowth ]
 - [tillering](/tags/tillering/),&nbsp;&nbsp;[tiller](/tags/tiller/),&nbsp;&nbsp;[tiller-number](/tags/tiller-number/),&nbsp;&nbsp;[tiller-bud-outgrowth](/tags/tiller-bud-outgrowth/)
 
 ## Literature:
-   - [The tin1 gene retains the function of promoting tillering in maize.]( https://www.nature.com/articles/s41467-019-13425-6).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-019-13425-6](https://www.nature.com/articles/s41467-019-13425-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31811145](https://pubmed.ncbi.nlm.nih.gov/31811145/)
+   - [The tin1 gene retains the function of promoting tillering in maize.]( https://www.nature.com/articles/s41467-019-13425-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-019-13425-6](https://www.nature.com/articles/s41467-019-13425-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31811145](https://pubmed.ncbi.nlm.nih.gov/31811145/)
 
 ## Related News:
    - [Nature Communications | 中国农大林中伟团队揭示决定玉米分蘖的基因由大刍草渗入](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247486639&idx=3&sn=aeee83717fb283d664a36123959d3dfc&chksm=ce93a1faf9e428ec4e35f46be94560e240149ebbc71b483a46280f980f80090460fa5f3473b0&scene=27#wechat_redirect)

@@ -22,8 +22,8 @@ tags: [ seedlings,temperature,resistance,stress,cold stress,cold,low-temperature
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[temperature](/tags/temperature/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[low-temperature](/tags/low-temperature/)
 
 ## Literature:
-   - [Analysis of the C2H2 Gene Family in Maize (Zea mays L.) under Cold Stress: Identification and Expression.]( https://www.mdpi.com/2075-1729/13/1/122).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/life13010122](https://www.mdpi.com/2075-1729/13/1/122);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36676071](https://pubmed.ncbi.nlm.nih.gov/36676071/)
-   - [Reconstructing the maize leaf regulatory network using ChIP-seq data of 104 transcription factors.]( https://www.nature.com/articles/s41467-020-18832-8).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-18832-8](https://www.nature.com/articles/s41467-020-18832-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33037196](https://pubmed.ncbi.nlm.nih.gov/33037196/)
+   - [Analysis of the C2H2 Gene Family in Maize (Zea mays L.) under Cold Stress: Identification and Expression.]( https://www.mdpi.com/2075-1729/13/1/122)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/life13010122](https://www.mdpi.com/2075-1729/13/1/122);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36676071](https://pubmed.ncbi.nlm.nih.gov/36676071/)
+   - [Reconstructing the maize leaf regulatory network using ChIP-seq data of 104 transcription factors.]( https://www.nature.com/articles/s41467-020-18832-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-18832-8](https://www.nature.com/articles/s41467-020-18832-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33037196](https://pubmed.ncbi.nlm.nih.gov/33037196/)
 
 ## Related News:
 

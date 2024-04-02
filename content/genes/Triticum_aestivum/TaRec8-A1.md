@@ -22,7 +22,7 @@ tags: [ meiotic ]
    - [meiotic](/tags/meiotic/)
 
 ## Literature:
-   - [Cloning and characterization of the homoeologous genes for the Rec8-like meiotic cohesin in polyploid wheat.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1442-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1442-y ](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1442-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30305022](https://pubmed.ncbi.nlm.nih.gov/30305022/)
+   - [Cloning and characterization of the homoeologous genes for the Rec8-like meiotic cohesin in polyploid wheat.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1442-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1442-y ](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1442-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30305022](https://pubmed.ncbi.nlm.nih.gov/30305022/)
 
 ## Related News:
 

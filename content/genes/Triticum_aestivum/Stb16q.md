@@ -19,10 +19,10 @@ tags: [ growth,kinase,resistance,pathogen,plasma membrane,receptor kinase,pathog
    - **Stb16q** stops Z. tritici at early infection stage,does not confer susceptibility to other diseases.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[pathogen](/tags/pathogen/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/),&nbsp;&nbsp;[receptor-kinase](/tags/receptor-kinase/),&nbsp;&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
-   - [A wheat cysteine-rich receptor-like kinase confers broad-spectrum resistance against Septoria tritici blotch.]( https://www.nature.com/articles/s41467-020-20685-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-20685-0](https://www.nature.com/articles/s41467-020-20685-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33469010](https://pubmed.ncbi.nlm.nih.gov/33469010/)
+   - [A wheat cysteine-rich receptor-like kinase confers broad-spectrum resistance against Septoria tritici blotch.]( https://www.nature.com/articles/s41467-020-20685-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-20685-0](https://www.nature.com/articles/s41467-020-20685-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33469010](https://pubmed.ncbi.nlm.nih.gov/33469010/)
 
 ## Related News:
 

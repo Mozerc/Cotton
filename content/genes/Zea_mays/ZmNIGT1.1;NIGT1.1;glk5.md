@@ -22,7 +22,7 @@ tags: [ nitrogen,stress,phosphorus,pi,pi uptake ]
 - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[phosphorus](/tags/phosphorus/),&nbsp;&nbsp;[pi](/tags/pi/),&nbsp;&nbsp;[pi-uptake](/tags/pi-uptake/)
 
 ## Literature:
-   - [The Transcription Factor NIGT1.2 Modulates Both Phosphate Uptake and Nitrate Influx during Phosphate Starvation in Arabidopsis and Maize.]( https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00361](https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32958562](https://pubmed.ncbi.nlm.nih.gov/32958562/)
+   - [The Transcription Factor NIGT1.2 Modulates Both Phosphate Uptake and Nitrate Influx during Phosphate Starvation in Arabidopsis and Maize.]( https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00361](https://academic.oup.com/plcell/article/32/11/3519/6099361?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32958562](https://pubmed.ncbi.nlm.nih.gov/32958562/)
 
 ## Related News:
    - [Plant Cell | 中国农业大学武维华/陈益芳团队阐明低磷胁迫条件下植物氮磷协同吸收的分子调控机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247498430&idx=1&sn=6106e96d646bdd38a6513310b737f9a0&chksm=fd7360d9ca04e9cf524e4cc0ab98c6f33b0e8d23c12db9d379b94e0c590a83f206a18c1ae718&scene=27#wechat_redirect)

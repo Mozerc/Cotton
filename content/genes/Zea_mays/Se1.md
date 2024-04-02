@@ -25,7 +25,7 @@ tags: [ leaf,root,starch,quality,endosperm,starch biosynthesis ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
 
 ## Literature:
-   - [Maize sugary enhancer1 (se1) is a gene affecting endosperm starch metabolism.]( https://www.pnas.org/doi/full/10.1073/pnas.1902747116).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1902747116](https://www.pnas.org/doi/full/10.1073/pnas.1902747116);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31548423](https://pubmed.ncbi.nlm.nih.gov/31548423/)
+   - [Maize sugary enhancer1 (se1) is a gene affecting endosperm starch metabolism.]( https://www.pnas.org/doi/full/10.1073/pnas.1902747116)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1902747116](https://www.pnas.org/doi/full/10.1073/pnas.1902747116);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31548423](https://pubmed.ncbi.nlm.nih.gov/31548423/)
 
 ## Related News:
    - [PNAS | 影响玉米胚乳淀粉代谢的一个基因](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247492594&idx=2&sn=8f7cd2266424d24ea3795457fcd4f86d&chksm=fd737995ca04f0837103e6c5e4442fdf5b89fe97f160fedc880763769b52c824415e3d510ed4&scene=27#wechat_redirect)

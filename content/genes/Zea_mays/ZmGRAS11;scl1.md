@@ -25,7 +25,7 @@ tags: [ transcription factor,grain,grain size,starch,grain filling,breeding,grai
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[grain-filling](/tags/grain-filling/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/),&nbsp;&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
-   - [ZmGRAS11, transactivated by Opaque2, positively regulates kernel size in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13198).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13198](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13198);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34850567](https://pubmed.ncbi.nlm.nih.gov/34850567/)
+   - [ZmGRAS11, transactivated by Opaque2, positively regulates kernel size in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13198)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13198](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13198);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34850567](https://pubmed.ncbi.nlm.nih.gov/34850567/)
 
 ## Related News:
    - [中国农科院生物所陈茹梅课题发现调控玉米籽粒大小与重量的新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247528433&idx=1&sn=d73e5b28314bab958aa52cc4b62584b3&chksm=e8bd1defdfca94f9d7b8d38577c055732f03cd7294dad9e0c83cdb73341b3ce4846fc44f81f6&scene=27#wechat_redirect)

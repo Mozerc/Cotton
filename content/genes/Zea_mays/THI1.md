@@ -23,8 +23,8 @@ tags: [ development,shoot,plant development,inflorescence,inflorescence developm
 - [development](/tags/development/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
-   - [The Thiamine Biosynthesis Gene THI1 Promotes Nodule Growth and Seed Maturation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.01254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27702844](https://pubmed.ncbi.nlm.nih.gov/27702844/)
-   - [Multi-scale physiological responses to nitrogen supplementation of maize hybrids.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad583/7334394).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad583](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad583/7334394);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37925649](https://pubmed.ncbi.nlm.nih.gov/37925649/)
+   - [The Thiamine Biosynthesis Gene THI1 Promotes Nodule Growth and Seed Maturation.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.01254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100774/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27702844](https://pubmed.ncbi.nlm.nih.gov/27702844/)
+   - [Multi-scale physiological responses to nitrogen supplementation of maize hybrids.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad583/7334394)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad583](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad583/7334394);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37925649](https://pubmed.ncbi.nlm.nih.gov/37925649/)
 
 ## Related News:
 

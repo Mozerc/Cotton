@@ -22,7 +22,7 @@ tags: [ drought,tolerance,drought tolerance ]
 - [drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
-   - [Genomic basis underlying the metabolome-mediated drought adaptation of maize.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-021-02481-1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34488839](https://pubmed.ncbi.nlm.nih.gov/34488839/)
+   - [Genomic basis underlying the metabolome-mediated drought adaptation of maize.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-021-02481-1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02481-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34488839](https://pubmed.ncbi.nlm.nih.gov/34488839/)
 
 ## Related News:
    - [Genome Biology |华中农业大学代明球课题组合作揭示代谢介导的玉米抗旱遗传机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516845&idx=1&sn=f1a3566862b2040170e123598c570273&chksm=ce902ff8f9e7a6ee4a436340d97844a856e81535aa6df39d84a560e2d5e61061534a1446b37f&scene=27#wechat_redirect)

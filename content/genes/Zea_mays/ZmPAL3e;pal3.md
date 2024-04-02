@@ -21,7 +21,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
+   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
 
 ## Related News:
 

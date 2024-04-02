@@ -23,7 +23,7 @@ tags: [ development,stress,tolerance,stress tolerance,embryo,cell proliferation,
 - [development](/tags/development/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[cell-proliferation](/tags/cell-proliferation/),&nbsp;&nbsp;[phosphorus](/tags/phosphorus/),&nbsp;&nbsp;[pi](/tags/pi/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
-   - [Chromatin remodeling analysis reveals the RdDM pathway responds to low-phosphorus stress in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16468).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16468](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16468);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37731059](https://pubmed.ncbi.nlm.nih.gov/37731059/)
+   - [Chromatin remodeling analysis reveals the RdDM pathway responds to low-phosphorus stress in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16468)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16468](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16468);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37731059](https://pubmed.ncbi.nlm.nih.gov/37731059/)
 
 ## Related News:
    - [四川农业大学玉米研究所高世斌教授团队揭示了玉米在三维染色质空间层面响应低磷胁迫的机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247581551&idx=6&sn=86736fbefe8c2b2a5e9ffbda81ab5025&chksm=e9f214bc2acbff351cd1713ae024af9f23b5e35d99cbf559a4696ad3795cdad7a340d8f278f1&scene=27#wechat_redirect)

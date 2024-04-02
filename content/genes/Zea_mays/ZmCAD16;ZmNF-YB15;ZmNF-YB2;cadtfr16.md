@@ -22,7 +22,7 @@ tags: [ drought,stress,drought stress ]
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/)
 
 ## Literature:
-   - [Isolation, structural analysis, and expression characteristics of the maize nuclear factor Y gene families.]( https://www.sciencedirect.com/science/article/pii/S0006291X1631275X?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.bbrc.2016.08.020](https://www.sciencedirect.com/science/article/pii/S0006291X1631275X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27498027](https://pubmed.ncbi.nlm.nih.gov/27498027/)
+   - [Isolation, structural analysis, and expression characteristics of the maize nuclear factor Y gene families.]( https://www.sciencedirect.com/science/article/pii/S0006291X1631275X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.bbrc.2016.08.020](https://www.sciencedirect.com/science/article/pii/S0006291X1631275X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27498027](https://pubmed.ncbi.nlm.nih.gov/27498027/)
 
 ## Related News:
 

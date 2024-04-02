@@ -22,7 +22,7 @@ tags: [ flowering ]
 - [flowering](/tags/flowering/)
 
 ## Literature:
-   - [ZmCCT9 enhances maize adaptation to higher latitudes.]( https://www.pnas.org/doi/full/10.1073/pnas.1718058115).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1718058115](https://www.pnas.org/doi/full/10.1073/pnas.1718058115);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29279404](https://pubmed.ncbi.nlm.nih.gov/29279404/)
+   - [ZmCCT9 enhances maize adaptation to higher latitudes.]( https://www.pnas.org/doi/full/10.1073/pnas.1718058115)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1718058115](https://www.pnas.org/doi/full/10.1073/pnas.1718058115);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29279404](https://pubmed.ncbi.nlm.nih.gov/29279404/)
 
 ## Related News:
 

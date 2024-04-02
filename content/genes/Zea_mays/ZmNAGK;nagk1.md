@@ -22,7 +22,7 @@ tags: [ stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,to
 - [stem](/tags/stem/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[brassinosteroid](/tags/brassinosteroid/),&nbsp;&nbsp;[flower](/tags/flower/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [Over-Expression of a Maize N-Acetylglutamate Kinase Gene (ZmNAGK) Improves Drought Tolerance in Tobacco.]( https://www.frontiersin.org/articles/10.3389/fpls.2018.01902/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2018.01902](https://www.frontiersin.org/articles/10.3389/fpls.2018.01902/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30662448](https://pubmed.ncbi.nlm.nih.gov/30662448/)
+   - [Over-Expression of a Maize N-Acetylglutamate Kinase Gene (ZmNAGK) Improves Drought Tolerance in Tobacco.]( https://www.frontiersin.org/articles/10.3389/fpls.2018.01902/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2018.01902](https://www.frontiersin.org/articles/10.3389/fpls.2018.01902/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30662448](https://pubmed.ncbi.nlm.nih.gov/30662448/)
 
 ## Related News:
 

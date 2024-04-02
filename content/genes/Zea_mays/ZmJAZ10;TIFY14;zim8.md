@@ -21,7 +21,7 @@ tags: [ jasmonate,defense ]
 - [jasmonate](/tags/jasmonate/),&nbsp;&nbsp;[defense](/tags/defense/)
 
 ## Literature:
-   - [Key Genes in the JAZ Signaling Pathway Are Up-Regulated Faster and More Abundantly in Caterpillar-Resistant Maize.]( https://link.springer.com/article/10.1007/s10886-021-01342-2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10886-021-01342-2](https://link.springer.com/article/10.1007/s10886-021-01342-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34982368](https://pubmed.ncbi.nlm.nih.gov/34982368/)
+   - [Key Genes in the JAZ Signaling Pathway Are Up-Regulated Faster and More Abundantly in Caterpillar-Resistant Maize.]( https://link.springer.com/article/10.1007/s10886-021-01342-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10886-021-01342-2](https://link.springer.com/article/10.1007/s10886-021-01342-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34982368](https://pubmed.ncbi.nlm.nih.gov/34982368/)
 
 ## Related News:
 

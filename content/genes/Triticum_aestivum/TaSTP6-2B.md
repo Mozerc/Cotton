@@ -22,10 +22,10 @@ tags: [ aba,transporter,abscisic acid,sugar,powdery mildew,rust,mildew ]
    - **TaSTP6** overexpression in Arabidopsis (Arabidopsis thaliana) promoted plant susceptibility to powdery mildew and led to increased Glc accumulation in the leaves.
 
 ## Function-related keywords:
-   - [aba](/tags/aba/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[rust](/tags/rust/)&nbsp;,&nbsp;[mildew](/tags/mildew/)
+   - [aba](/tags/aba/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[powdery-mildew](/tags/powdery-mildew/),&nbsp;&nbsp;[rust](/tags/rust/),&nbsp;&nbsp;[mildew](/tags/mildew/)
 
 ## Literature:
-   - [ABA-Induced Sugar Transporter TaSTP6 Promotes Wheat Susceptibility to Stripe Rust.]( https://academic.oup.com/plphys/article/181/3/1328/6044943?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00632](https://academic.oup.com/plphys/article/181/3/1328/6044943?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31540949](https://pubmed.ncbi.nlm.nih.gov/31540949/)
+   - [ABA-Induced Sugar Transporter TaSTP6 Promotes Wheat Susceptibility to Stripe Rust.]( https://academic.oup.com/plphys/article/181/3/1328/6044943?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00632](https://academic.oup.com/plphys/article/181/3/1328/6044943?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31540949](https://pubmed.ncbi.nlm.nih.gov/31540949/)
 
 ## Related News:
    - [西北农林康振生院士团队在条锈菌调控寄主糖分转运机制研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247492941&idx=1&sn=785c1bbc640b8d3afba9f1424245dac9&chksm=e8bd9753dfca1e45f0ef0d87a4db57bf23922a0771ee31d9130eceab486886dd00278739bd79&scene=27#wechat_redirect)

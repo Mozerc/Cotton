@@ -23,7 +23,7 @@ tags: [ seedlings,kinase,mature leaves,stems,aba,salicylic acid,abscisic acid,pr
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[mature-leaves](/tags/mature-leaves/),&nbsp;&nbsp;[stems](/tags/stems/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[sa](/tags/sa/)
 
 ## Literature:
-   - [Maize ZmMEK1 is a single-copy gene.]( https://link.springer.com/article/10.1007/s11033-011-1057-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-011-1057-y](https://link.springer.com/article/10.1007/s11033-011-1057-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21691709](https://pubmed.ncbi.nlm.nih.gov/21691709/)
+   - [Maize ZmMEK1 is a single-copy gene.]( https://link.springer.com/article/10.1007/s11033-011-1057-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-011-1057-y](https://link.springer.com/article/10.1007/s11033-011-1057-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21691709](https://pubmed.ncbi.nlm.nih.gov/21691709/)
 
 ## Related News:
 

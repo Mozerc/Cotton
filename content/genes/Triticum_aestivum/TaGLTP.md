@@ -21,10 +21,10 @@ tags: [ ubiquitin,defence ]
    - Silencing of wheat **TaGLTP** perturbs sphingolipid levels.
 
 ## Function-related keywords:
-   - [ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[defence](/tags/defence/)
+   - [ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[defence](/tags/defence/)
 
 ## Literature:
-   - [TaRBP1 stabilizes TaGLTP and negatively regulates stripe rust resistance in wheat.]( https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13364)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/mpp.13364](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13364)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37306522](https://pubmed.ncbi.nlm.nih.gov/37306522/)
+   - [TaRBP1 stabilizes TaGLTP and negatively regulates stripe rust resistance in wheat.]( https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13364)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/mpp.13364](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13364);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37306522](https://pubmed.ncbi.nlm.nih.gov/37306522/)
 
 ## Related News:
    - [MPP | 四川农大许强团队揭示TaRBP1稳定TaGLTP并负调控对小麦条锈病抗性](https://mp.weixin.qq.com/s/ib03uhxgHcZgfh4AkVL4BA)

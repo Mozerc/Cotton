@@ -22,7 +22,7 @@ tags: [ cell cycle,phosphatase ]
 - [cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/)
 
 ## Literature:
-   - [Maize CDKA2;1a and CDKB1;1 kinases have different requirements for their activation and participate in substrate recognition.]( https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16659).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/febs.16659](https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16659);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36259272](https://pubmed.ncbi.nlm.nih.gov/36259272/)
+   - [Maize CDKA2;1a and CDKB1;1 kinases have different requirements for their activation and participate in substrate recognition.]( https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16659)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/febs.16659](https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16659);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36259272](https://pubmed.ncbi.nlm.nih.gov/36259272/)
 
 ## Related News:
 

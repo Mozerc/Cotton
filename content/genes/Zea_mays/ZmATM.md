@@ -24,8 +24,8 @@ tags: [ growth,kinase,fertility,cell cycle,dna repair,meiotic ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[fertility](/tags/fertility/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[dna-repair](/tags/dna-repair/),&nbsp;&nbsp;[meiotic](/tags/meiotic/)
 
 ## Literature:
-   - [Maize ATR safeguards genome stability during kernel development to prevent early endosperm endocycle onset and cell death.]( https://academic.oup.com/plcell/article/33/8/2662/6292123?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab158](https://academic.oup.com/plcell/article/33/8/2662/6292123?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34086963](https://pubmed.ncbi.nlm.nih.gov/34086963/)
-   - [Exploring key developmental phases and phase-specific genes across the entirety of anther development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13276).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13276](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13276);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35607822](https://pubmed.ncbi.nlm.nih.gov/35607822/)
+   - [Maize ATR safeguards genome stability during kernel development to prevent early endosperm endocycle onset and cell death.]( https://academic.oup.com/plcell/article/33/8/2662/6292123?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab158](https://academic.oup.com/plcell/article/33/8/2662/6292123?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34086963](https://pubmed.ncbi.nlm.nih.gov/34086963/)
+   - [Exploring key developmental phases and phase-specific genes across the entirety of anther development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13276)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13276](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13276);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35607822](https://pubmed.ncbi.nlm.nih.gov/35607822/)
 
 ## Related News:
    - [The Plant Cell  | 玉米DNA损伤响应依赖激酶ATR在影响胚发育和细胞死亡过程中的关键作用](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247511730&idx=4&sn=41e025b70872e9421c3ad2927fd8d312&chksm=ce9003e7f9e78af17fb09d2bdd80033bea198b05b88a432bda3904e6a41662307abae2151488&scene=27#wechat_redirect)

@@ -23,7 +23,7 @@ tags: [ drought,stress,drought stress,defense response,defense,tolerance,abiotic
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[cell-death](/tags/cell-death/),&nbsp;&nbsp;[zinc](/tags/zinc/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [Transcription factors ZmNF-YA1 and ZmNF-YB16 regulate plant growth and drought tolerance in maize.]( https://academic.oup.com/plphys/article/190/2/1506/6647864?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac340](https://academic.oup.com/plphys/article/190/2/1506/6647864?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35861438](https://pubmed.ncbi.nlm.nih.gov/35861438/)
+   - [Transcription factors ZmNF-YA1 and ZmNF-YB16 regulate plant growth and drought tolerance in maize.]( https://academic.oup.com/plphys/article/190/2/1506/6647864?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac340](https://academic.oup.com/plphys/article/190/2/1506/6647864?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35861438](https://pubmed.ncbi.nlm.nih.gov/35861438/)
 
 ## Related News:
 

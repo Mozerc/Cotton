@@ -21,10 +21,10 @@ tags: [ leaf,resistance,breeding,heterosis,rust resistance,rust ]
    - Frequency of **Ne2** allele is significantly increased in wheat breeding.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[heterosis](/tags/heterosis/),&nbsp;&nbsp;[rust-resistance](/tags/rust-resistance/),&nbsp;&nbsp;[rust](/tags/rust/)
 
 ## Literature:
-   - [Ne2, a typical CC-NBS-LRR-type gene, is responsible for hybrid necrosis in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17575](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17575)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34160845](https://pubmed.ncbi.nlm.nih.gov/34160845/)
+   - [Ne2, a typical CC-NBS-LRR-type gene, is responsible for hybrid necrosis in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17575](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17575);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34160845](https://pubmed.ncbi.nlm.nih.gov/34160845/)
 
 ## Related News:
    - [New Phyto | 中科院遗传发育究所凌宏清课题组在小麦杂种坏死方面取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247512975&idx=4&sn=9d8511329eef6e4a19472aaec778597a&chksm=ce901edaf9e797cc37763b4d0dad03cdce82e97e1f8de585fa7c882b73503f50f4356ebecd45&scene=27#wechat_redirect)

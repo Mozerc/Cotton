@@ -25,7 +25,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [A Pectin Methylesterase ZmPme3 Is Expressed in Gametophyte factor1-s (Ga1-s) Silks and Maps to that Locus in Maize (Zea mays L.).]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01926](https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29170674](https://pubmed.ncbi.nlm.nih.gov/29170674/)
+   - [A Pectin Methylesterase ZmPme3 Is Expressed in Gametophyte factor1-s (Ga1-s) Silks and Maps to that Locus in Maize (Zea mays L.).]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01926](https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29170674](https://pubmed.ncbi.nlm.nih.gov/29170674/)
 
 ## Related News:
 

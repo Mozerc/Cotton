@@ -22,8 +22,8 @@ tags: [ domestication ]
 - [domestication](/tags/domestication/)
 
 ## Literature:
-   - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2095311923004719?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.12.024](https://www.sciencedirect.com/science/article/pii/S2095311923004719?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
+   - [NA]( https://www.sciencedirect.com/science/article/pii/S2095311923004719?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.12.024](https://www.sciencedirect.com/science/article/pii/S2095311923004719?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [JEB | 中国农业大学林中伟教授课题组发现调控玉米分蘖发育的新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516449&idx=8&sn=0ca9a532d60f2f00d4d5fd7294f39bc5&chksm=ce902c74f9e7a56226264f6288b36eadc4f946f40b6288a1865343981bb71509c23e3d7488d3&scene=27#wechat_redirect)

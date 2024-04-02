@@ -24,7 +24,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Genetic Variation in ZmPAT7 Contributes to Tassel Branch Number in Maize.]( https://www.mdpi.com/1422-0067/23/5/2586).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23052586](https://www.mdpi.com/1422-0067/23/5/2586);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35269730](https://pubmed.ncbi.nlm.nih.gov/35269730/)
+   - [Genetic Variation in ZmPAT7 Contributes to Tassel Branch Number in Maize.]( https://www.mdpi.com/1422-0067/23/5/2586)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23052586](https://www.mdpi.com/1422-0067/23/5/2586);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35269730](https://pubmed.ncbi.nlm.nih.gov/35269730/)
 
 ## Related News:
 

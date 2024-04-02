@@ -22,7 +22,7 @@ tags: [ drought,stress,drought stress,salt,tolerance,aba,drought tolerance,salt 
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[salt-sensitivity](/tags/salt-sensitivity/),&nbsp;&nbsp;[drought-sensitivity](/tags/drought-sensitivity/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
-   - [Transcriptome analysis in contrasting maize inbred lines and functional analysis of five maize NAC genes under drought stress treatment.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9892906/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1097719](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9892906/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36743547](https://pubmed.ncbi.nlm.nih.gov/36743547/)
+   - [Transcriptome analysis in contrasting maize inbred lines and functional analysis of five maize NAC genes under drought stress treatment.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9892906/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1097719](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9892906/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36743547](https://pubmed.ncbi.nlm.nih.gov/36743547/)
 
 ## Related News:
 

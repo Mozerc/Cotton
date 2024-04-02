@@ -22,7 +22,7 @@ tags: [ transcription factor,growth,seedling,seed,seed germination,cell division
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[internode-elongation](/tags/internode-elongation/),&nbsp;&nbsp;[seed-growth](/tags/seed-growth/),&nbsp;&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
-   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
+   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
 
 ## Related News:
 

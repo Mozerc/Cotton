@@ -22,7 +22,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[drought-sensitivity](/tags/drought-sensitivity/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [ZmCCT regulates photoperiod-dependent flowering and response to stresses in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03231-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-021-03231-y](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03231-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34615461](https://pubmed.ncbi.nlm.nih.gov/34615461/)
+   - [ZmCCT regulates photoperiod-dependent flowering and response to stresses in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03231-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-021-03231-y](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03231-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34615461](https://pubmed.ncbi.nlm.nih.gov/34615461/)
 
 ## Related News:
 

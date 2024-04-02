@@ -24,8 +24,8 @@ tags: [ stem,development,architecture ]
 - [stem](/tags/stem/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[architecture](/tags/architecture/)
 
 ## Literature:
-   - [Evidence That the Origin of Naked Kernels During Maize Domestication Was Caused by a Single Amino Acid Substitution in tga1.]( https://academic.oup.com/genetics/article/200/3/965/5936224).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[](https://academic.oup.com/genetics/article/200/3/965/5936224);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25943393](https://pubmed.ncbi.nlm.nih.gov/25943393/)
-   - [Maize domestication phenotypes reveal strigolactone networks coordinating grain size evolution with kernel-bearing cupule architecture.]( https://academic.oup.com/plcell/article/35/3/1013/6961125).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[](https://academic.oup.com/plcell/article/35/3/1013/6961125);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36573016](https://pubmed.ncbi.nlm.nih.gov/36573016/)
+   - [Evidence That the Origin of Naked Kernels During Maize Domestication Was Caused by a Single Amino Acid Substitution in tga1.]( https://academic.oup.com/genetics/article/200/3/965/5936224)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[](https://academic.oup.com/genetics/article/200/3/965/5936224);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25943393](https://pubmed.ncbi.nlm.nih.gov/25943393/)
+   - [Maize domestication phenotypes reveal strigolactone networks coordinating grain size evolution with kernel-bearing cupule architecture.]( https://academic.oup.com/plcell/article/35/3/1013/6961125)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[](https://academic.oup.com/plcell/article/35/3/1013/6961125);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36573016](https://pubmed.ncbi.nlm.nih.gov/36573016/)
 
 ## Related News:
 

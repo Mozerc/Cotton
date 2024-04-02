@@ -21,8 +21,8 @@ tags: [ resistance,disease,disease resistance,pi ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[pi](/tags/pi/)
 
 ## Literature:
-   - [Expression analysis of phosphate induced genes in contrasting maize genotypes for phosphorus use efficiency.]( https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1590/1519-6984.261797](https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36350935](https://pubmed.ncbi.nlm.nih.gov/36350935/)
-   - [Integrated IBD Analysis, GWAS Analysis and Transcriptome Analysis to Identify the Candidate Genes for White Spot Disease in Maize.]( https://www.mdpi.com/1422-0067/24/12/10005).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241210005](https://www.mdpi.com/1422-0067/24/12/10005);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37373152](https://pubmed.ncbi.nlm.nih.gov/37373152/)
+   - [Expression analysis of phosphate induced genes in contrasting maize genotypes for phosphorus use efficiency.]( https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1590/1519-6984.261797](https://www.scielo.br/j/bjb/a/JbxYTHmdgjyWzXKZnsxJvkM/?lang=en);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36350935](https://pubmed.ncbi.nlm.nih.gov/36350935/)
+   - [Integrated IBD Analysis, GWAS Analysis and Transcriptome Analysis to Identify the Candidate Genes for White Spot Disease in Maize.]( https://www.mdpi.com/1422-0067/24/12/10005)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241210005](https://www.mdpi.com/1422-0067/24/12/10005);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37373152](https://pubmed.ncbi.nlm.nih.gov/37373152/)
 
 ## Related News:
 

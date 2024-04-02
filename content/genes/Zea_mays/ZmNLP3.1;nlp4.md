@@ -24,7 +24,7 @@ tags: [ growth,yield,cytokinin,plant growth,biomass,cytokinin response ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[biomass](/tags/biomass/),&nbsp;&nbsp;[cytokinin-response](/tags/cytokinin-response/)
 
 ## Literature:
-   - [ZmNRT1.1B (ZmNPF6.6) determines nitrogen use efficiency via regulation of nitrate transport and signalling in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14185](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37786281](https://pubmed.ncbi.nlm.nih.gov/37786281/)
+   - [ZmNRT1.1B (ZmNPF6.6) determines nitrogen use efficiency via regulation of nitrate transport and signalling in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14185](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37786281](https://pubmed.ncbi.nlm.nih.gov/37786281/)
 
 ## Related News:
 

@@ -22,7 +22,7 @@ tags: [ transcription factor,fertility,endosperm,height ]
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[fertility](/tags/fertility/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[height](/tags/height/)
 
 ## Literature:
-   - [DNA demethylation affects imprinted gene expression in maize endosperm.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-022-02641-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35264226](https://pubmed.ncbi.nlm.nih.gov/35264226/)
+   - [DNA demethylation affects imprinted gene expression in maize endosperm.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-022-02641-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02641-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35264226](https://pubmed.ncbi.nlm.nih.gov/35264226/)
 
 ## Related News:
    - [Genome Biology | 华中农业大学李青团队在玉米籽粒发育表观调控研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247526583&idx=2&sn=3b425c4f0cd32b493fa102bfc3914034&chksm=ce90c5e2f9e74cf4d74dcc8254deee4fa701f01641c9bfb89bf154b7bd38af1703a52b9a41d1&scene=27#wechat_redirect)

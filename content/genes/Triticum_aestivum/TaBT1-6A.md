@@ -22,10 +22,10 @@ tags: [ grain,grain size,starch,grain yield,yield,breeding,grain weight ]
    - High diversity was detected at the TaBT1-6B locus, with 24 polymorphic sites forming three haplotypes (Hap1, Hap2, and Hap3). Association analysis revealed that Hap1 and Hap2 were preferred haplotypes in modern breeding, for their significant correlations with higher TKW.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/)
 
 ## Literature:
-   - [TaBT1, affecting starch synthesis and thousand kernel weight, underwent strong selection during wheat improvement.]( https://academic.oup.com/jxb/article/70/5/1497/5308890?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erz032 ](https://academic.oup.com/jxb/article/70/5/1497/5308890?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30753656](https://pubmed.ncbi.nlm.nih.gov/30753656/)
+   - [TaBT1, affecting starch synthesis and thousand kernel weight, underwent strong selection during wheat improvement.]( https://academic.oup.com/jxb/article/70/5/1497/5308890?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erz032 ](https://academic.oup.com/jxb/article/70/5/1497/5308890?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30753656](https://pubmed.ncbi.nlm.nih.gov/30753656/)
 
 ## Related News:
 

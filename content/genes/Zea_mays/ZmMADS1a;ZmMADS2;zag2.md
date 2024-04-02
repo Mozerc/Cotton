@@ -22,7 +22,7 @@ tags: [ transcription factor,development,seed,starch,transcription regulator,see
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
 
 ## Literature:
-   - [Functional analysis of ZmMADS1a reveals its role in regulating starch biosynthesis in maize endosperm.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6397188/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-019-39612-5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6397188/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30824731](https://pubmed.ncbi.nlm.nih.gov/30824731/)
+   - [Functional analysis of ZmMADS1a reveals its role in regulating starch biosynthesis in maize endosperm.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6397188/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-019-39612-5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6397188/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30824731](https://pubmed.ncbi.nlm.nih.gov/30824731/)
 
 ## Related News:
 

@@ -21,11 +21,11 @@ tags: [ development,spikelet,awn,yield,breeding,spikelet development ]
    - WFZP suppresses spikelet formation but promotes awn elongation and, more importantly, define **WFZP-D** as a favourable gene for high-yield crop breeding.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[awn](/tags/awn/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)
+   - [development](/tags/development/),&nbsp;&nbsp;[spikelet](/tags/spikelet/),&nbsp;&nbsp;[awn](/tags/awn/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[spikelet-development](/tags/spikelet-development/)
 
 ## Literature:
-   - [FRIZZY PANICLE defines a regulatory hub for simultaneously controlling spikelet formation and awn elongation in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17388](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33837555](https://pubmed.ncbi.nlm.nih.gov/33837555/)
-   - [Wheat FRIZZY PANICLE activates VERNALIZATION1-A and HOMEOBOX4-A to regulate spike development in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13535)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13535](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13535)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33368973](https://pubmed.ncbi.nlm.nih.gov/33368973/)
+   - [FRIZZY PANICLE defines a regulatory hub for simultaneously controlling spikelet formation and awn elongation in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17388](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17388);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33837555](https://pubmed.ncbi.nlm.nih.gov/33837555/)
+   - [Wheat FRIZZY PANICLE activates VERNALIZATION1-A and HOMEOBOX4-A to regulate spike development in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13535)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13535](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13535);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33368973](https://pubmed.ncbi.nlm.nih.gov/33368973/)
 
 ## Related News:
    - [New Phytologist | 中国农业大学倪中福教授团队克隆控制小麦多小穗的基因，揭示小穗形成的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247508240&idx=3&sn=99389891f66648bb6b5a7a2e3ea3a188&chksm=ce900c45f9e78553ec6de0c03263f933eb57a8fd236926cc98ff19d06b890606c8e355011512&scene=27#wechat_redirect)

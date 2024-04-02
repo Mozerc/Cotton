@@ -24,9 +24,9 @@ tags: [ resistance,disease,disease resistance ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/)
 
 ## Literature:
-   - [Genome editing of the susceptibility gene ZmNANMT confers multiple disease resistance without agronomic penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14078](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37254611](https://pubmed.ncbi.nlm.nih.gov/37254611/)
-   - [Maize nicotinate N-methyltransferase interacts with the NLR protein Rp1-D21 and modulates the hypersensitive response.]( https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13044).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/mpp.13044](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13044);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33675291](https://pubmed.ncbi.nlm.nih.gov/33675291/)
-   - [Biosynthesis and antifungal activity of fungus-induced O-methylated flavonoids in maize.]( https://academic.oup.com/plphys/article/188/1/167/6412572).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab496](https://academic.oup.com/plphys/article/188/1/167/6412572);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34718797](https://pubmed.ncbi.nlm.nih.gov/34718797/)
+   - [Genome editing of the susceptibility gene ZmNANMT confers multiple disease resistance without agronomic penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14078](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14078);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37254611](https://pubmed.ncbi.nlm.nih.gov/37254611/)
+   - [Maize nicotinate N-methyltransferase interacts with the NLR protein Rp1-D21 and modulates the hypersensitive response.]( https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/mpp.13044](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13044);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33675291](https://pubmed.ncbi.nlm.nih.gov/33675291/)
+   - [Biosynthesis and antifungal activity of fungus-induced O-methylated flavonoids in maize.]( https://academic.oup.com/plphys/article/188/1/167/6412572)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab496](https://academic.oup.com/plphys/article/188/1/167/6412572);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34718797](https://pubmed.ncbi.nlm.nih.gov/34718797/)
 
 ## Related News:
    - [PBJ | 山东大学王官锋团队通过基因编辑ZmNANMT提高玉米广谱抗性](https://mp.weixin.qq.com/s/KNZwKdOEwmEvqFGkI0cXog)

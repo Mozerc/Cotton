@@ -21,7 +21,7 @@ tags: [ transcription factor,auxin,iaa,auxin response,auxin transport,transcript
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/),&nbsp;&nbsp;[auxin-transport](/tags/auxin-transport/),&nbsp;&nbsp;[transcriptional-repressor](/tags/transcriptional-repressor/),&nbsp;&nbsp;[as-transport](/tags/as-transport/)
 
 ## Literature:
-   - [The Genetic Structures and Molecular Mechanisms Underlying Ear Traits in Maize (Zea mays L.).]( https://www.mdpi.com/2073-4409/12/14/1900).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/cells12141900](https://www.mdpi.com/2073-4409/12/14/1900);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37508564](https://pubmed.ncbi.nlm.nih.gov/37508564/)
+   - [The Genetic Structures and Molecular Mechanisms Underlying Ear Traits in Maize (Zea mays L.).]( https://www.mdpi.com/2073-4409/12/14/1900)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/cells12141900](https://www.mdpi.com/2073-4409/12/14/1900);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37508564](https://pubmed.ncbi.nlm.nih.gov/37508564/)
 
 ## Related News:
 

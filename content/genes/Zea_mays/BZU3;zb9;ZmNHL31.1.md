@@ -23,7 +23,7 @@ tags: [ homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthes
 - [homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[cellulose](/tags/cellulose/),&nbsp;&nbsp;[glycosylation](/tags/glycosylation/),&nbsp;&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)
 
 ## Literature:
-   - [A maize epimerase modulates cell wall synthesis and glycosylation during stomatal morphogenesis.]( https://www.nature.com/articles/s41467-023-40013-6).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-40013-6](https://www.nature.com/articles/s41467-023-40013-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37474494](https://pubmed.ncbi.nlm.nih.gov/37474494/)
+   - [A maize epimerase modulates cell wall synthesis and glycosylation during stomatal morphogenesis.]( https://www.nature.com/articles/s41467-023-40013-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-40013-6](https://www.nature.com/articles/s41467-023-40013-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37474494](https://pubmed.ncbi.nlm.nih.gov/37474494/)
 
 ## Related News:
    - [Nature Communications | 河南大学解析玉米哑铃形气孔形态建成机制](https://mp.weixin.qq.com/s/rDWFNDoDr9OFNGohKpfKjQ)

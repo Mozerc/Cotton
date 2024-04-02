@@ -24,8 +24,8 @@ tags: [ root,gibberellin,ga,dwarf,small leaves,root number ]
 - [root](/tags/root/),&nbsp;&nbsp;[gibberellin](/tags/gibberellin/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[small-leaves](/tags/small-leaves/),&nbsp;&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
-   - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
-   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514123000661?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.04.008](https://www.sciencedirect.com/science/article/pii/S2214514123000661?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
+   - [NA]( https://www.sciencedirect.com/science/article/pii/S2214514123000661?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.04.008](https://www.sciencedirect.com/science/article/pii/S2214514123000661?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

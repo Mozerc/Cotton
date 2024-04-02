@@ -22,7 +22,7 @@ tags: [ kinase,stress,tolerance,abiotic stress,stress tolerance,protein kinase,c
 - [kinase](/tags/kinase/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[calcium](/tags/calcium/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[calcium-signaling](/tags/calcium-signaling/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [The Roles of CDPKs as a Convergence Point of Different Signaling Pathways in Maize Adaptation to Abiotic Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9917105/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032325](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9917105/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768648](https://pubmed.ncbi.nlm.nih.gov/36768648/)
+   - [The Roles of CDPKs as a Convergence Point of Different Signaling Pathways in Maize Adaptation to Abiotic Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9917105/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24032325](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9917105/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36768648](https://pubmed.ncbi.nlm.nih.gov/36768648/)
 
 ## Related News:
 

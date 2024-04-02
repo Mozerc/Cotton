@@ -20,7 +20,7 @@ tags: [ cell wall ]
 - [cell-wall](/tags/cell-wall/)
 
 ## Literature:
-   - [Leaf cell wall properties and stomatal density influence oxygen isotope enrichment of leaf water.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14612).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14612](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14612);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37219338](https://pubmed.ncbi.nlm.nih.gov/37219338/)
+   - [Leaf cell wall properties and stomatal density influence oxygen isotope enrichment of leaf water.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14612)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14612](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14612);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37219338](https://pubmed.ncbi.nlm.nih.gov/37219338/)
 
 ## Related News:
 

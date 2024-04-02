@@ -22,7 +22,7 @@ tags: [ ja ]
 - [ja](/tags/ja/)
 
 ## Literature:
-   - [Genome-Wide Characterization of Jasmonates Signaling Components Reveals the Essential Role of ZmCOI1a-ZmJAZ15 Action Module in Regulating Maize Immunity to Gibberella Stalk Rot.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms22020870](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33467172](https://pubmed.ncbi.nlm.nih.gov/33467172/)
+   - [Genome-Wide Characterization of Jasmonates Signaling Components Reveals the Essential Role of ZmCOI1a-ZmJAZ15 Action Module in Regulating Maize Immunity to Gibberella Stalk Rot.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms22020870](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33467172](https://pubmed.ncbi.nlm.nih.gov/33467172/)
 
 ## Related News:
 

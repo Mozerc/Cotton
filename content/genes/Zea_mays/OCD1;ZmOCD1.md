@@ -24,7 +24,7 @@ tags: [ development,quality,endosperm,endosperm development,nutritional quality 
 - [development](/tags/development/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[nutritional-quality](/tags/nutritional-quality/)
 
 ## Literature:
-   - [Maize Oxalyl-CoA Decarboxylase1 Degrades Oxalate and Affects the Seed Metabolome and Nutritional Quality.]( https://academic.oup.com/plcell/article/30/10/2447/6099345?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00266](https://academic.oup.com/plcell/article/30/10/2447/6099345?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30201823](https://pubmed.ncbi.nlm.nih.gov/30201823/)
+   - [Maize Oxalyl-CoA Decarboxylase1 Degrades Oxalate and Affects the Seed Metabolome and Nutritional Quality.]( https://academic.oup.com/plcell/article/30/10/2447/6099345?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00266](https://academic.oup.com/plcell/article/30/10/2447/6099345?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30201823](https://pubmed.ncbi.nlm.nih.gov/30201823/)
 
 ## Related News:
    - [Plant Cell | 中科院植生所巫永睿组揭示草酸代谢途径关键酶影响玉米营养品质的机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247487928&idx=1&sn=5a10d8e92eebe72aabd15e05399899e7&chksm=fd708bdfca0702c9c8cdcb106b3999ea8fc7a96b60896c965cddfa32d401a8d4ae60274f47c0&scene=27#wechat_redirect)

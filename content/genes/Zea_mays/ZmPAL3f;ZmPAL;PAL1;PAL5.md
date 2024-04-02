@@ -22,7 +22,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Expression of Phenylalanine Ammonia Lyase Genes in Maize Lines Differing in Susceptibility to Meloidogyne incognita.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[NA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25580029](https://pubmed.ncbi.nlm.nih.gov/25580029/)
+   - [Expression of Phenylalanine Ammonia Lyase Genes in Maize Lines Differing in Susceptibility to Meloidogyne incognita.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[NA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25580029](https://pubmed.ncbi.nlm.nih.gov/25580029/)
 
 ## Related News:
 

@@ -23,7 +23,7 @@ tags: [ leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion 
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[cell-death](/tags/cell-death/),&nbsp;&nbsp;[chlorophyll](/tags/chlorophyll/),&nbsp;&nbsp;[sa](/tags/sa/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[lesion](/tags/lesion/),&nbsp;&nbsp;[lesion-mimic](/tags/lesion-mimic/)
 
 ## Literature:
-   - [Underlying mechanism of accelerated cell death and multiple disease resistance in a maize lethal leaf spot 1 allele.]( https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac116](https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35303096](https://pubmed.ncbi.nlm.nih.gov/35303096/)
+   - [Underlying mechanism of accelerated cell death and multiple disease resistance in a maize lethal leaf spot 1 allele.]( https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac116](https://academic.oup.com/jxb/article/73/12/3991/6550641?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35303096](https://pubmed.ncbi.nlm.nih.gov/35303096/)
 
 ## Related News:
    - [JXB│河南农业大学苟明月教授课题组揭示叶绿素降解通路介导的玉米广谱抗病性新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247527008&idx=3&sn=fd1587319619be517e11df560dd883c2&chksm=ce90c735f9e74e238ee0e1de7489404763585b16d73aabbe14f7a58ae3e58cfe1ec1e9e5c045&scene=27#wechat_redirect)

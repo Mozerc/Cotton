@@ -22,7 +22,7 @@ tags: [ root,resistance,resistant,al resistance ]
 - [root](/tags/root/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[resistant](/tags/resistant/),&nbsp;&nbsp;[al-resistance](/tags/al-resistance/)
 
 ## Literature:
-   - [ZmMATE6 from maize encodes a citrate transporter that enhances aluminum tolerance in transgenic Arabidopsis thaliana.]( https://www.sciencedirect.com/science/article/pii/S0168945221002120).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2021.111016](https://www.sciencedirect.com/science/article/pii/S0168945221002120);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34482919](https://pubmed.ncbi.nlm.nih.gov/34482919/)
+   - [ZmMATE6 from maize encodes a citrate transporter that enhances aluminum tolerance in transgenic Arabidopsis thaliana.]( https://www.sciencedirect.com/science/article/pii/S0168945221002120)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2021.111016](https://www.sciencedirect.com/science/article/pii/S0168945221002120);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34482919](https://pubmed.ncbi.nlm.nih.gov/34482919/)
 
 ## Related News:
 

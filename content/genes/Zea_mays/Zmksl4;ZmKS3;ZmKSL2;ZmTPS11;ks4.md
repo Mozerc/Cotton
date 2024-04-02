@@ -22,7 +22,7 @@ tags: [ root,shoot,stress,abiotic stress,architecture,plant architecture,water l
 - [root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/),&nbsp;&nbsp;[water-loss](/tags/water-loss/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[node](/tags/node/),&nbsp;&nbsp;[root-architecture](/tags/root-architecture/),&nbsp;&nbsp;[shoot-architecture](/tags/shoot-architecture/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [A dolabralexin-deficient mutant provides insight into specialized diterpenoid metabolism in maize.]( https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad150](https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36896653](https://pubmed.ncbi.nlm.nih.gov/36896653/)
+   - [A dolabralexin-deficient mutant provides insight into specialized diterpenoid metabolism in maize.]( https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad150](https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36896653](https://pubmed.ncbi.nlm.nih.gov/36896653/)
 
 ## Related News:
 

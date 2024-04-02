@@ -24,8 +24,8 @@ tags: [ growth,seedling,plant growth,seedling growth ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
-   - [ZmNRT1.1B (ZmNPF6.6) determines nitrogen use efficiency via regulation of nitrate transport and signalling in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14185](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37786281](https://pubmed.ncbi.nlm.nih.gov/37786281/)
-   - [Lateral root elongation in maize is related to auxin synthesis and transportation mediated by N metabolism under a mixed NO3− and NH4+ supply]( https://www.sciencedirect.com/science/article/pii/S2095311923002277?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.07.012](https://www.sciencedirect.com/science/article/pii/S2095311923002277?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZmNRT1.1B (ZmNPF6.6) determines nitrogen use efficiency via regulation of nitrate transport and signalling in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14185](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14185);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37786281](https://pubmed.ncbi.nlm.nih.gov/37786281/)
+   - [Lateral root elongation in maize is related to auxin synthesis and transportation mediated by N metabolism under a mixed NO3− and NH4+ supply]( https://www.sciencedirect.com/science/article/pii/S2095311923002277?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.07.012](https://www.sciencedirect.com/science/article/pii/S2095311923002277?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

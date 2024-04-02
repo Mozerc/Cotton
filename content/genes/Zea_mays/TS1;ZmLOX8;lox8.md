@@ -25,7 +25,7 @@ tags: [ inflorescence,jasmonic,jasmonic acid,plastid ]
 - [inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[plastid](/tags/plastid/)
 
 ## Literature:
-   - [tasselseed1 is a lipoxygenase affecting jasmonic acid signaling in sex determination of maize.]( https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.1164645](https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19131630](https://pubmed.ncbi.nlm.nih.gov/19131630/)
+   - [tasselseed1 is a lipoxygenase affecting jasmonic acid signaling in sex determination of maize.]( https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.1164645](https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19131630](https://pubmed.ncbi.nlm.nih.gov/19131630/)
 
 ## Related News:
 

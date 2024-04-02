@@ -24,7 +24,7 @@ tags: [ transcription factor,root,development,stress,tolerance,root development,
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[phosphorus](/tags/phosphorus/),&nbsp;&nbsp;[pi](/tags/pi/),&nbsp;&nbsp;[phosphate-transport](/tags/phosphate-transport/)
 
 ## Literature:
-   - [ZmARF1 positively regulates low phosphorus stress tolerance via modulating lateral root development in maize.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011135).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1011135](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011135);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38315718](https://pubmed.ncbi.nlm.nih.gov/38315718/)
+   - [ZmARF1 positively regulates low phosphorus stress tolerance via modulating lateral root development in maize.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011135)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1011135](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011135);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38315718](https://pubmed.ncbi.nlm.nih.gov/38315718/)
 
 ## Related News:
 

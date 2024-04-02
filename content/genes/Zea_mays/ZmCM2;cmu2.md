@@ -22,7 +22,7 @@ tags: [ salicylic acid,sa ]
 - [salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[sa](/tags/sa/)
 
 ## Literature:
-   - [Sporisorium reilianum infection changes inflorescence and branching architectures of maize.]( https://www.mse.rwth-aachen.de/cms/MSE/Forschung/Publikationen/~ifmz/Details/?file=479017&lidx=1).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.111.179499](https://www.mse.rwth-aachen.de/cms/MSE/Forschung/Publikationen/~ifmz/Details/?file=479017&lidx=1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21653782](https://pubmed.ncbi.nlm.nih.gov/21653782/)
+   - [Sporisorium reilianum infection changes inflorescence and branching architectures of maize.]( https://www.mse.rwth-aachen.de/cms/MSE/Forschung/Publikationen/~ifmz/Details/?file=479017&lidx=1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.111.179499](https://www.mse.rwth-aachen.de/cms/MSE/Forschung/Publikationen/~ifmz/Details/?file=479017&lidx=1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21653782](https://pubmed.ncbi.nlm.nih.gov/21653782/)
 
 ## Related News:
 

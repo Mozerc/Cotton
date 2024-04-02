@@ -21,10 +21,10 @@ tags: [ growth,gibberellin,plant growth,ga,height,plant height ]
    - The photoreceptor CRY1 competitively inhibits the GID1-DELLA interaction, thereby stabilizing DELLA proteins and enhancing their repression of plant growth.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[gibberellin](/tags/gibberellin/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [The blue light receptor CRY1 interacts with GID1 and DELLA proteins to repress gibberellin signaling and plant growth.]( https://www.sciencedirect.com/science/article/pii/S2590346221001516?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2021.100245](https://www.sciencedirect.com/science/article/pii/S2590346221001516?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34778751](https://pubmed.ncbi.nlm.nih.gov/34778751/)
+   - [The blue light receptor CRY1 interacts with GID1 and DELLA proteins to repress gibberellin signaling and plant growth.]( https://www.sciencedirect.com/science/article/pii/S2590346221001516?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2021.100245](https://www.sciencedirect.com/science/article/pii/S2590346221001516?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34778751](https://pubmed.ncbi.nlm.nih.gov/34778751/)
 
 ## Related News:
 

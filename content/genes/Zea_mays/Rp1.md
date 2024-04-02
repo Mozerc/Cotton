@@ -23,7 +23,7 @@ tags: [ resistance,disease,disease resistance,resistant,meiotic ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[resistant](/tags/resistant/),&nbsp;&nbsp;[meiotic](/tags/meiotic/)
 
 ## Literature:
-   - [Structural analysis of the maize rp1 complex reveals numerous sites and unexpected mechanisms of local rearrangement.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151213/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.006338](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151213/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12468738](https://pubmed.ncbi.nlm.nih.gov/12468738/)
+   - [Structural analysis of the maize rp1 complex reveals numerous sites and unexpected mechanisms of local rearrangement.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151213/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.006338](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151213/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12468738](https://pubmed.ncbi.nlm.nih.gov/12468738/)
 
 ## Related News:
 

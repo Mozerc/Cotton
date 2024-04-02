@@ -22,10 +22,10 @@ tags: [ growth,kinase,resistance,drought,tolerance,aba,vegetative,drought tolera
    - TaMPK3 overexpression decreases drought tolerance and wheat sensitivity to ABA, significantly weakening ABA's inhibitory effects on growth.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[receptor-kinase](/tags/receptor-kinase/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[drought-sensitivity](/tags/drought-sensitivity/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[vegetative](/tags/vegetative/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[receptor-kinase](/tags/receptor-kinase/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/),&nbsp;&nbsp;[drought-sensitivity](/tags/drought-sensitivity/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
-   - [Mitogen-activated protein kinase TaMPK3 suppresses ABA response by destabilising TaPYL4 receptor in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18326)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18326](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18326)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35719110](https://pubmed.ncbi.nlm.nih.gov/35719110/)
+   - [Mitogen-activated protein kinase TaMPK3 suppresses ABA response by destabilising TaPYL4 receptor in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18326)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18326](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18326);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35719110](https://pubmed.ncbi.nlm.nih.gov/35719110/)
 
 ## Related News:
 

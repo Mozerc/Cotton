@@ -23,8 +23,8 @@ tags: [ leaf,shoot,floral,flowering ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32579713](https://pubmed.ncbi.nlm.nih.gov/32579713/)
-   - [Integration of high-throughput phenotyping, GWAS, and predictive models reveals the genetic architecture of plant height in maize.]( https://www.sciencedirect.com/science/article/pii/S167420522200435X?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.11.016](https://www.sciencedirect.com/science/article/pii/S167420522200435X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36447436](https://pubmed.ncbi.nlm.nih.gov/36447436/)
+   - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32579713](https://pubmed.ncbi.nlm.nih.gov/32579713/)
+   - [Integration of high-throughput phenotyping, GWAS, and predictive models reveals the genetic architecture of plant height in maize.]( https://www.sciencedirect.com/science/article/pii/S167420522200435X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.11.016](https://www.sciencedirect.com/science/article/pii/S167420522200435X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36447436](https://pubmed.ncbi.nlm.nih.gov/36447436/)
 
 ## Related News:
    - [New Phytologist│中国农业大学金危危课题组和田丰课题组合作研究揭示了玉米成花转变的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491288&idx=2&sn=e4aeedcffb3ee172da1ac0936acc6d36&chksm=ce93b38df9e43a9b4a9ff2207d1cfb2c760e922db152e1cc4722d7933ea96ece2b9ea57e462b&scene=27#wechat_redirect)

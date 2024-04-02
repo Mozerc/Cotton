@@ -23,7 +23,7 @@ tags: [ development,auxin,plant development,reproductive,reproductive developmen
 - [development](/tags/development/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[reproductive-development](/tags/reproductive-development/)
 
 ## Literature:
-   - [NEEDLE1 encodes a mitochondria localized ATP-dependent metalloprotease required for thermotolerant maize growth.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765280/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1907071116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765280/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31501327](https://pubmed.ncbi.nlm.nih.gov/31501327/)
+   - [NEEDLE1 encodes a mitochondria localized ATP-dependent metalloprotease required for thermotolerant maize growth.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765280/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1907071116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765280/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31501327](https://pubmed.ncbi.nlm.nih.gov/31501327/)
 
 ## Related News:
 

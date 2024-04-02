@@ -21,10 +21,10 @@ tags: [ resistance,defense,transporter,sugar,sucrose,sugar transport,as transpor
    - The Pst-induced sugar transporter **TaSTP3** is transcriptionally activated by TaWRKY19/61/82 and facilitates wheat susceptibility to stripe rust possibly through elevated sucrose concentration, and suggest **TaSTP3** as a strong target for engineering wheat resistance to stripe rust.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)&nbsp;,&nbsp;[sucrose-transport](/tags/sucrose-transport/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[sugar-transport](/tags/sugar-transport/),&nbsp;&nbsp;[as-transport](/tags/as-transport/),&nbsp;&nbsp;[sucrose-transporter](/tags/sucrose-transporter/),&nbsp;&nbsp;[sucrose-transport](/tags/sucrose-transport/),&nbsp;&nbsp;[rust-resistance](/tags/rust-resistance/),&nbsp;&nbsp;[rust](/tags/rust/)
 
 ## Literature:
-   - [Sugar transporter TaSTP3 activation by TaWRKY19/61/82 enhances stripe rust susceptibility in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18331](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35729085](https://pubmed.ncbi.nlm.nih.gov/35729085/)
+   - [Sugar transporter TaSTP3 activation by TaWRKY19/61/82 enhances stripe rust susceptibility in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18331](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35729085](https://pubmed.ncbi.nlm.nih.gov/35729085/)
 
 ## Related News:
    - [西北农林科技大学康振生院士/刘杰教授课题组揭示糖转运蛋白TaSTP3介导小麦感条锈病的分子机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247544420&idx=1&sn=15cdc6110e245f8f4f72e2fb783d2f09&chksm=e8bd5c7adfcad56cda94a2bb25b723a0baf066cc8e50ffa11434133979ed9b0b0370aa1e9744&scene=27#wechat_redirect)

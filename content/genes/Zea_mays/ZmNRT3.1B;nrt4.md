@@ -22,7 +22,7 @@ tags: [ nitrogen,aba ]
 - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[aba](/tags/aba/)
 
 ## Literature:
-   - [Genome-Wide Identification and Functional Analysis of Nitrate Transporter Genes (NPF, NRT2 and NRT3) in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241612941](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37629121](https://pubmed.ncbi.nlm.nih.gov/37629121/)
+   - [Genome-Wide Identification and Functional Analysis of Nitrate Transporter Genes (NPF, NRT2 and NRT3) in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241612941](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37629121](https://pubmed.ncbi.nlm.nih.gov/37629121/)
 
 ## Related News:
 

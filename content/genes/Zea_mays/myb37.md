@@ -21,7 +21,7 @@ tags: [ sheath ]
 - [sheath](/tags/sheath/)
 
 ## Literature:
-   - [Unoccupied aerial systems discovered overlooked loci capturing the variation of entire growing period in maize.]( https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20102).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/tpg2.20102](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20102);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34009740](https://pubmed.ncbi.nlm.nih.gov/34009740/)
+   - [Unoccupied aerial systems discovered overlooked loci capturing the variation of entire growing period in maize.]( https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20102)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/tpg2.20102](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20102);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34009740](https://pubmed.ncbi.nlm.nih.gov/34009740/)
 
 ## Related News:
 

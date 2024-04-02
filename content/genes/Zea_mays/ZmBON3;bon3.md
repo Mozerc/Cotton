@@ -22,7 +22,7 @@ tags: [ grain,grain length,resistance,seedling,grain number,disease,disease resi
 - [grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[sa](/tags/sa/)
 
 ## Literature:
-   - [Cloning and Disease Resistance Analysis of the Maize ZmBON3 Gene]( https://www.mdpi.com/2073-4395/13/1/152).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy13010152](https://www.mdpi.com/2073-4395/13/1/152);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Cloning and Disease Resistance Analysis of the Maize ZmBON3 Gene]( https://www.mdpi.com/2073-4395/13/1/152)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy13010152](https://www.mdpi.com/2073-4395/13/1/152);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

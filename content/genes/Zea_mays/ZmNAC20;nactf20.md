@@ -24,7 +24,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,aba,stomat
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
-   - [Transcription Factor ZmNAC20 Improves Drought Resistance by Promoting Stomatal Closure and Activating Expression of Stress-Responsive Genes in Maize.]( https://www.mdpi.com/1422-0067/24/5/4712).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24054712](https://www.mdpi.com/1422-0067/24/5/4712);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36902144](https://pubmed.ncbi.nlm.nih.gov/36902144/)
+   - [Transcription Factor ZmNAC20 Improves Drought Resistance by Promoting Stomatal Closure and Activating Expression of Stress-Responsive Genes in Maize.]( https://www.mdpi.com/1422-0067/24/5/4712)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24054712](https://www.mdpi.com/1422-0067/24/5/4712);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36902144](https://pubmed.ncbi.nlm.nih.gov/36902144/)
 
 ## Related News:
 

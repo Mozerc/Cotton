@@ -20,10 +20,10 @@ tags: [ stem,resistance,resistant,rust resistance,rust ]
    - **SuSr-D1** gene encodes Med15, a subunit of the Mediator Complex, a conserved protein complex in eukaryotes that regulates expression of protein-coding genes. Nonsense mutations in Med15b.D result in expression of stem rust resistance.
 
 ## Function-related keywords:
-   - [stem](/tags/stem/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [stem](/tags/stem/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[resistant](/tags/resistant/),&nbsp;&nbsp;[rust-resistance](/tags/rust-resistance/),&nbsp;&nbsp;[rust](/tags/rust/)
 
 ## Literature:
-   - [Stem rust resistance in wheat is suppressed by a subunit of the mediator complex.]( https://www.nature.com/articles/s41467-020-14937-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14937-2 ](https://www.nature.com/articles/s41467-020-14937-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32111840](https://pubmed.ncbi.nlm.nih.gov/32111840/)
+   - [Stem rust resistance in wheat is suppressed by a subunit of the mediator complex.]( https://www.nature.com/articles/s41467-020-14937-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14937-2 ](https://www.nature.com/articles/s41467-020-14937-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32111840](https://pubmed.ncbi.nlm.nih.gov/32111840/)
 
 ## Related News:
 

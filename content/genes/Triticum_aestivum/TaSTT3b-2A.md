@@ -19,10 +19,10 @@ tags: [ grain,resistance,defense response,defense,grain weight,immune response ]
    - TaSTT3a and TaSTT3b, two STT3 subunit genes from wheat and reported their functional roles in wheat defense against R.cerealis and increasing grain weight.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[immune-response](/tags/immune-response/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[immune-response](/tags/immune-response/)
 
 ## Literature:
-   - [Overexpression of TaSTT3b-2B improves resistance to sharp eyespot and increases grain weight in wheat.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13760](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873799](https://pubmed.ncbi.nlm.nih.gov/34873799/)
+   - [Overexpression of TaSTT3b-2B improves resistance to sharp eyespot and increases grain weight in wheat.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13760](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873799](https://pubmed.ncbi.nlm.nih.gov/34873799/)
 
 ## Related News:
    - [PBJ | 中国农科院作物所张增艳研究组鉴定出小麦纹枯病抗性基因TaSTT3b-2B，为小麦抗病生物育种提供了基因储备和材料基础](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247522004&idx=1&sn=b34b448ae478a29c44d0bd7d55d6dce8&chksm=ce903b81f9e7b297527f455e1f97e670fa873ec283168de33569f95887d364a54a8077f9071f&scene=27#wechat_redirect)

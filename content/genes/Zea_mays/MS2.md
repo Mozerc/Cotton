@@ -24,7 +24,7 @@ tags: [ development,pollen,anther,map-based cloning,pollen development,transport
 - [development](/tags/development/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[anther](/tags/anther/),&nbsp;&nbsp;[map-based-cloning](/tags/map-based-cloning/),&nbsp;&nbsp;[pollen-development](/tags/pollen-development/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[cuticle](/tags/cuticle/),&nbsp;&nbsp;[anther-development](/tags/anther-development/),&nbsp;&nbsp;[cutin](/tags/cutin/)
 
 ## Literature:
-   - [Maize MS2 encodes an ATP-binding cassette transporter that is essential for anther development]( https://www.sciencedirect.com/science/article/pii/S2214514121000696).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.04.001](https://www.sciencedirect.com/science/article/pii/S2214514121000696);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Maize MS2 encodes an ATP-binding cassette transporter that is essential for anther development]( https://www.sciencedirect.com/science/article/pii/S2214514121000696)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.04.001](https://www.sciencedirect.com/science/article/pii/S2214514121000696);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | 中国农业科学院作物科学研究所刘允军团队克隆玉米雄性不育基因MS2](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247508790&idx=3&sn=cdad3c6d80a6f1c3a223e7ca7af6dac5&chksm=ce900e63f9e787756b0ceaafc2c6fa62af93c8af6be5daee7be07c1a55cd0557273b5fb83c44&scene=27#wechat_redirect)

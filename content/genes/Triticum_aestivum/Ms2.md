@@ -21,11 +21,11 @@ tags: [ pollen,anther,sterility,seed,sterile,male sterility,seed phenotype,hybri
    - TRIM-induced expression of the intact **Ms2** reveals a potential mechanism of gene activation in plants.
 
 ## Function-related keywords:
-   - [pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[seed-phenotype](/tags/seed-phenotype/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
+   - [pollen](/tags/pollen/),&nbsp;&nbsp;[anther](/tags/anther/),&nbsp;&nbsp;[sterility](/tags/sterility/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[sterile](/tags/sterile/),&nbsp;&nbsp;[male-sterility](/tags/male-sterility/),&nbsp;&nbsp;[seed-phenotype](/tags/seed-phenotype/),&nbsp;&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
 
 ## Literature:
-   - [A TRIM insertion in the promoter of Ms2 causes male sterility in wheat.]( https://www.nature.com/articles/ncomms15407)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms15121 10.1038/ncomms15407](https://www.nature.com/articles/ncomms15407)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28497807](https://pubmed.ncbi.nlm.nih.gov/28497807/)
-   - [Fertility recovery of wheat male sterility controlled by Ms2 using CRISPR/Cas9.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13482)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13482 ](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13482)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32970905](https://pubmed.ncbi.nlm.nih.gov/32970905/)
+   - [A TRIM insertion in the promoter of Ms2 causes male sterility in wheat.]( https://www.nature.com/articles/ncomms15407)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms15121 10.1038/ncomms15407](https://www.nature.com/articles/ncomms15407);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28497807](https://pubmed.ncbi.nlm.nih.gov/28497807/)
+   - [Fertility recovery of wheat male sterility controlled by Ms2 using CRISPR/Cas9.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13482)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13482 ](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13482);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32970905](https://pubmed.ncbi.nlm.nih.gov/32970905/)
 
 ## Related News:
    - [PBJ | 中国农科院作物所叶兴国实验室利用CRISPR/Cas9编辑MS2基因实现矮败小麦育性完全恢复](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247496825&idx=1&sn=8dcc045253560eb9c125c87732a24b18&chksm=ce90592cf9e7d03afbb78d4e00a2e3f985f7c23cfedd00fa191cf72a07c18fd07525905a90ce&scene=27#wechat_redirect)

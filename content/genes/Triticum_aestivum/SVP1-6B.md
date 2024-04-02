@@ -21,11 +21,11 @@ tags: [ stem,development,spikelet,stems,vegetative,floral,spikelet number,spikel
    - These **SVP**-SQUAMOSA genetic interactions were paralleled by physical interactions among their encoded proteins. **SVP** proteins were able to reduce SQUAMOSA-SEPALLATA interactions in yeast-three-hybrid experiments.
 
 ## Function-related keywords:
-   - [stem](/tags/stem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [stem](/tags/stem/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[spikelet](/tags/spikelet/),&nbsp;&nbsp;[stems](/tags/stems/),&nbsp;&nbsp;[vegetative](/tags/vegetative/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[spikelet-number](/tags/spikelet-number/),&nbsp;&nbsp;[spikelet-development](/tags/spikelet-development/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[spike](/tags/spike/)
 
 ## Literature:
-   - [Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regulate meristem transitions during wheat spike development.]( https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab243](https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34726755](https://pubmed.ncbi.nlm.nih.gov/34726755/)
-   - [Interactions Between SQUAMOSA and SVP MADS-box Proteins Regulate Meristem Transitions During Wheat Spike Development]( https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1101/2020.12.01.405779](https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regulate meristem transitions during wheat spike development.]( https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab243](https://academic.oup.com/plcell/article/33/12/3621/6415951?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34726755](https://pubmed.ncbi.nlm.nih.gov/34726755/)
+   - [Interactions Between SQUAMOSA and SVP MADS-box Proteins Regulate Meristem Transitions During Wheat Spike Development]( https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1101/2020.12.01.405779](https://biorxiv.org/content/10.1101/2020.12.01.405779v2.full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

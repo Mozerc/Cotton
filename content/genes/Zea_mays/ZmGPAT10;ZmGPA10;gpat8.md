@@ -21,7 +21,7 @@ tags: [ salt,cold ]
 - [salt](/tags/salt/),&nbsp;&nbsp;[cold](/tags/cold/)
 
 ## Literature:
-   - [Characterization and expression analysis of GPAT gene family in maize]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Characterization and expression analysis of GPAT gene family in maize]( https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1139/cjps-2018-0188](https://cdnsciencepub.com/doi/10.1139/cjps-2018-0188);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

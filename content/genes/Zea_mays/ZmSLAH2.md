@@ -23,7 +23,7 @@ tags: [ root,growth,resistance,stress,root growth,stress response,al resistance 
 - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[al-resistance](/tags/al-resistance/)
 
 ## Literature:
-   - [Nitrate improves aluminium resistance through SLAH-mediated citrate exudation from roots.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14688).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14688](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37574955](https://pubmed.ncbi.nlm.nih.gov/37574955/)
+   - [Nitrate improves aluminium resistance through SLAH-mediated citrate exudation from roots.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14688](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37574955](https://pubmed.ncbi.nlm.nih.gov/37574955/)
 
 ## Related News:
    - [PCE | 山东大学杨中宝课题组揭示氮信号调控植物耐铝性的新机制](https://mp.weixin.qq.com/s/gGzU-aOaWQKsNwCWJ-0VhA)

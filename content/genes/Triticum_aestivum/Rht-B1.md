@@ -19,10 +19,10 @@ tags: [ gibberellin,yield,dwarf,height ]
    - Transgenic rice plants containing a mutant GAI allele give reduced responses to gibberellin and are dwarfed, indicating that mutant GAI orthologues ( **Rht-B1**/Rht-D1) could be used to increase yield in a wide range of crop species.
 
 ## Function-related keywords:
-   - [gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[height](/tags/height/)
+   - [gibberellin](/tags/gibberellin/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[height](/tags/height/)
 
 ## Literature:
-   - [&#x27;Green revolution&#x27; genes encode mutant gibberellin response modulators.]( https://www.nature.com/articles/22307)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/22307 ](https://www.nature.com/articles/22307)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10421366](https://pubmed.ncbi.nlm.nih.gov/10421366/)
+   - [&#x27;Green revolution&#x27; genes encode mutant gibberellin response modulators.]( https://www.nature.com/articles/22307)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/22307 ](https://www.nature.com/articles/22307);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10421366](https://pubmed.ncbi.nlm.nih.gov/10421366/)
 
 ## Related News:
 

@@ -24,7 +24,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [TANGLED1 mediates microtubule interactions that may promote division plane positioning in maize.]( https://rupress.org/jcb/article/219/8/e201907184/151878/TANGLED1-mediates-microtubule-interactions-that).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1083/jcb.201907184](https://rupress.org/jcb/article/219/8/e201907184/151878/TANGLED1-mediates-microtubule-interactions-that);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32568386](https://pubmed.ncbi.nlm.nih.gov/32568386/)
+   - [TANGLED1 mediates microtubule interactions that may promote division plane positioning in maize.]( https://rupress.org/jcb/article/219/8/e201907184/151878/TANGLED1-mediates-microtubule-interactions-that)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1083/jcb.201907184](https://rupress.org/jcb/article/219/8/e201907184/151878/TANGLED1-mediates-microtubule-interactions-that);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32568386](https://pubmed.ncbi.nlm.nih.gov/32568386/)
 
 ## Related News:
 

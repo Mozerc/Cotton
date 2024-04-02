@@ -24,8 +24,8 @@ tags: [ growth,development ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/)
 
 ## Literature:
-   - [The maize milkweed pod1 mutant reveals a mechanism to modify organ morphology.]( https://onlinelibrary.wiley.com/doi/full/10.1002/dvg.20622).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/dvg.20622](https://onlinelibrary.wiley.com/doi/full/10.1002/dvg.20622);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20213690](https://pubmed.ncbi.nlm.nih.gov/20213690/)
-   - [Differential manipulation of leaf angle throughout the canopy: current status and prospects.]( https://academic.oup.com/jxb/article/68/21-22/5699/4595581).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erx378](https://academic.oup.com/jxb/article/68/21-22/5699/4595581);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29126242](https://pubmed.ncbi.nlm.nih.gov/29126242/)
+   - [The maize milkweed pod1 mutant reveals a mechanism to modify organ morphology.]( https://onlinelibrary.wiley.com/doi/full/10.1002/dvg.20622)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/dvg.20622](https://onlinelibrary.wiley.com/doi/full/10.1002/dvg.20622);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20213690](https://pubmed.ncbi.nlm.nih.gov/20213690/)
+   - [Differential manipulation of leaf angle throughout the canopy: current status and prospects.]( https://academic.oup.com/jxb/article/68/21-22/5699/4595581)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erx378](https://academic.oup.com/jxb/article/68/21-22/5699/4595581);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29126242](https://pubmed.ncbi.nlm.nih.gov/29126242/)
 
 ## Related News:
 

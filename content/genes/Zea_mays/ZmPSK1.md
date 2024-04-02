@@ -22,7 +22,7 @@ tags: [ resistance,defense,pathogen,lesion,pathogen resistance ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[pathogen](/tags/pathogen/),&nbsp;&nbsp;[lesion](/tags/lesion/),&nbsp;&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
-   - [Maize Phytocytokines Modulate Pro-Survival Host Responses and Pathogen Resistance.]( https://apsjournals.apsnet.org/doi/10.1094/MPMI-01-23-0005-R).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1094/MPMI-01-23-0005-R](https://apsjournals.apsnet.org/doi/10.1094/MPMI-01-23-0005-R);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37102770](https://pubmed.ncbi.nlm.nih.gov/37102770/)
+   - [Maize Phytocytokines Modulate Pro-Survival Host Responses and Pathogen Resistance.]( https://apsjournals.apsnet.org/doi/10.1094/MPMI-01-23-0005-R)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1094/MPMI-01-23-0005-R](https://apsjournals.apsnet.org/doi/10.1094/MPMI-01-23-0005-R);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37102770](https://pubmed.ncbi.nlm.nih.gov/37102770/)
 
 ## Related News:
 

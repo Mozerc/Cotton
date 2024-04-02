@@ -23,7 +23,7 @@ tags: [ starch,branching,endosperm,amylose content,plastid ]
 - [starch](/tags/starch/),&nbsp;&nbsp;[branching](/tags/branching/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[amylose-content](/tags/amylose-content/),&nbsp;&nbsp;[plastid](/tags/plastid/)
 
 ## Literature:
-   - [Evidence that the Allelic Segregation of starch branching enzyme 1 (sbe1) is the Source of a High Amylose QTL in Maize]( https://acsess.onlinelibrary.wiley.com/doi/full/10.2135/cropsci2017.01.0026).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.2135/cropsci2017.01.0026](https://acsess.onlinelibrary.wiley.com/doi/full/10.2135/cropsci2017.01.0026);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Evidence that the Allelic Segregation of starch branching enzyme 1 (sbe1) is the Source of a High Amylose QTL in Maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.2135/cropsci2017.01.0026)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.2135/cropsci2017.01.0026](https://acsess.onlinelibrary.wiley.com/doi/full/10.2135/cropsci2017.01.0026);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

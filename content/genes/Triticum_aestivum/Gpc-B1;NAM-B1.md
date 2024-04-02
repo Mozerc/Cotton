@@ -20,10 +20,10 @@ tags: [ transcription factor,senescence,grain,zinc,iron,grain protein content,gr
    - Reduction in RNA levels of the multiple NAM homologs by RNA interference delayed senescence by more than 3 weeks and reduced wheat grain protein, zinc, and iron content by more than 30%.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[iron](/tags/iron/)&nbsp;,&nbsp;[grain-protein-content](/tags/grain-protein-content/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[iron-content](/tags/iron-content/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[zinc](/tags/zinc/),&nbsp;&nbsp;[iron](/tags/iron/),&nbsp;&nbsp;[grain-protein-content](/tags/grain-protein-content/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/),&nbsp;&nbsp;[iron-content](/tags/iron-content/)
 
 ## Literature:
-   - [A NAC Gene regulating senescence improves grain protein, zinc, and iron content in wheat.]( https://www.science.org/doi/10.1126/science.1133649?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.1133649](https://www.science.org/doi/10.1126/science.1133649?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17124321](https://pubmed.ncbi.nlm.nih.gov/17124321/)
+   - [A NAC Gene regulating senescence improves grain protein, zinc, and iron content in wheat.]( https://www.science.org/doi/10.1126/science.1133649?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.1133649](https://www.science.org/doi/10.1126/science.1133649?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17124321](https://pubmed.ncbi.nlm.nih.gov/17124321/)
 
 ## Related News:
 

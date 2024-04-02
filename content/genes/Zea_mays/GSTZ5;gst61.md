@@ -21,7 +21,7 @@ tags: [ detoxification ]
 - [detoxification](/tags/detoxification/)
 
 ## Literature:
-   - [Transcriptomic analysis of maize uncovers putative genes involved in metabolic detoxification under four safeners treatment.]( https://www.sciencedirect.com/science/article/pii/S004835752300130X?via%3Dihub#s0055).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pestbp.2023.105465](https://www.sciencedirect.com/science/article/pii/S004835752300130X?via%3Dihub#s0055);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37532342](https://pubmed.ncbi.nlm.nih.gov/37532342/)
+   - [Transcriptomic analysis of maize uncovers putative genes involved in metabolic detoxification under four safeners treatment.]( https://www.sciencedirect.com/science/article/pii/S004835752300130X?via%3Dihub#s0055)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pestbp.2023.105465](https://www.sciencedirect.com/science/article/pii/S004835752300130X?via%3Dihub#s0055);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37532342](https://pubmed.ncbi.nlm.nih.gov/37532342/)
 
 ## Related News:
 

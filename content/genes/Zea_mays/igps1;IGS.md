@@ -22,8 +22,8 @@ tags: [ auxin,iaa,secondary metabolism ]
 - [auxin](/tags/auxin/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[secondary-metabolism](/tags/secondary-metabolism/)
 
 ## Literature:
-   - [The Integration of Metabolomics and Transcriptomics Provides New Insights for the Identification of Genes Key to Auxin Synthesis at Different Growth Stages of Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9659120/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms232113195](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9659120/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36361983](https://pubmed.ncbi.nlm.nih.gov/36361983/)
-   - [ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13404](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36349965](https://pubmed.ncbi.nlm.nih.gov/36349965/)
+   - [The Integration of Metabolomics and Transcriptomics Provides New Insights for the Identification of Genes Key to Auxin Synthesis at Different Growth Stages of Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9659120/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms232113195](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9659120/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36361983](https://pubmed.ncbi.nlm.nih.gov/36361983/)
+   - [ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13404](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36349965](https://pubmed.ncbi.nlm.nih.gov/36349965/)
 
 ## Related News:
 

@@ -24,7 +24,7 @@ tags: [ seedlings,root,growth,drought,stress,drought stress,tolerance,yield,drou
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[reproductive-growth](/tags/reproductive-growth/),&nbsp;&nbsp;[root-length](/tags/root-length/)
 
 ## Literature:
-   - [Genomic insight into changes of root architecture under drought stress in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14567).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14567](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14567);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36785485](https://pubmed.ncbi.nlm.nih.gov/36785485/)
+   - [Genomic insight into changes of root architecture under drought stress in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14567)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14567](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14567);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36785485](https://pubmed.ncbi.nlm.nih.gov/36785485/)
 
 ## Related News:
    - [中国农业科学院黎裕/王天宇课题组揭示干旱胁迫下玉米根系结构变化的基因组学基础](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247566182&idx=6&sn=852170513f9a29e48d3d2f3cf241215d&chksm=e8bcb178dfcb386e93feb05e91a8cd2783ba0886097205928303bc1c3e3d4a23ee762dc5be21&scene=27#wechat_redirect)

@@ -21,10 +21,10 @@ tags: [ flowering time,flowering ]
    - Suggesting that the localization of TaGI1 transcripts in leaves may function to regulate flowering in response to photoperiods.
 
 ## Function-related keywords:
-   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [The wheat TaGI1, involved in photoperiodic flowering, encodes an Arabidopsis GI ortholog.]( https://link.springer.com/article/10.1007/s11103-005-4162-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-005-4162-2](https://link.springer.com/article/10.1007/s11103-005-4162-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16028116](https://pubmed.ncbi.nlm.nih.gov/16028116/)
+   - [The wheat TaGI1, involved in photoperiodic flowering, encodes an Arabidopsis GI ortholog.]( https://link.springer.com/article/10.1007/s11103-005-4162-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-005-4162-2](https://link.springer.com/article/10.1007/s11103-005-4162-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16028116](https://pubmed.ncbi.nlm.nih.gov/16028116/)
 
 ## Related News:
 

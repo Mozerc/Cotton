@@ -22,7 +22,7 @@ tags: [ growth,stress,salt,salt stress,plant growth,cell elongation,stress respo
 - [growth](/tags/growth/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
-   - [Histone acetylation associated up-regulation of the cell wall related genes is involved in salt stress induced maize root swelling.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2229-14-105](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24758373](https://pubmed.ncbi.nlm.nih.gov/24758373/)
+   - [Histone acetylation associated up-regulation of the cell wall related genes is involved in salt stress induced maize root swelling.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2229-14-105](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24758373](https://pubmed.ncbi.nlm.nih.gov/24758373/)
 
 ## Related News:
 

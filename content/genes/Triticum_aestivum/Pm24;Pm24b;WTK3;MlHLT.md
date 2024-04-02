@@ -20,10 +20,10 @@ tags: [ kinase,resistance,map-based cloning,protein kinase,powdery mildew,mildew
    - The 6-bp deletion in the fifth exon of WTK3 is critical for the powdery mildew resistance of **Pm24**.
 
 ## Function-related keywords:
-   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [kinase](/tags/kinase/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[map-based-cloning](/tags/map-based-cloning/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[powdery-mildew](/tags/powdery-mildew/),&nbsp;&nbsp;[mildew-resistance](/tags/mildew-resistance/),&nbsp;&nbsp;[mildew](/tags/mildew/),&nbsp;&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
-   - [A rare gain of function mutation in a wheat tandem kinase confers resistance to powdery mildew.]( https://www.nature.com/articles/s41467-020-14294-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14294-0](https://www.nature.com/articles/s41467-020-14294-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32015344](https://pubmed.ncbi.nlm.nih.gov/32015344/)
+   - [A rare gain of function mutation in a wheat tandem kinase confers resistance to powdery mildew.]( https://www.nature.com/articles/s41467-020-14294-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14294-0](https://www.nature.com/articles/s41467-020-14294-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32015344](https://pubmed.ncbi.nlm.nih.gov/32015344/)
 
 ## Related News:
    - [Nature Com | 遗传发育所刘志勇组发现新的小麦抗白粉病基因！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247509018&idx=2&sn=46c96471fc39f5cf96f820b517299f31&chksm=ce90094ff9e78059dceeeb3b7493086ccdb29c7f7007cc3ab6e91d589585b42bb9baf665e88c&scene=27#wechat_redirect)

@@ -20,7 +20,7 @@ tags: [ defense ]
 - [defense](/tags/defense/)
 
 ## Literature:
-   - [Comparative transcriptomic reveals the molecular mechanism of maize hybrid Zhengdan538 in response to water deficit.]( https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/ppl.13818](https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36345780](https://pubmed.ncbi.nlm.nih.gov/36345780/)
+   - [Comparative transcriptomic reveals the molecular mechanism of maize hybrid Zhengdan538 in response to water deficit.]( https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/ppl.13818](https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13818);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36345780](https://pubmed.ncbi.nlm.nih.gov/36345780/)
 
 ## Related News:
 

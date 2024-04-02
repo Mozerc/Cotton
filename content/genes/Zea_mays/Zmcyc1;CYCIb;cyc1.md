@@ -23,7 +23,7 @@ tags: [ jasmonate,defense,salicylic acid,meiosis,wounding,methyl jasmonate ]
 - [jasmonate](/tags/jasmonate/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[meiosis](/tags/meiosis/),&nbsp;&nbsp;[wounding](/tags/wounding/),&nbsp;&nbsp;[methyl-jasmonate](/tags/methyl-jasmonate/)
 
 ## Literature:
-   - [https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2]( https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11738-017-2425-6](https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2]( https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11738-017-2425-6](https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

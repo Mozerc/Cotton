@@ -22,7 +22,7 @@ tags: [ growth,development,plant development,stress,plant growth,stress response
 - [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
-   - [The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize.]( https://www.nature.com/articles/s41587-022-01470-4).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41587-022-01470-4](https://www.nature.com/articles/s41587-022-01470-4);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36229611](https://pubmed.ncbi.nlm.nih.gov/36229611/)
+   - [The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize.]( https://www.nature.com/articles/s41587-022-01470-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41587-022-01470-4](https://www.nature.com/articles/s41587-022-01470-4);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36229611](https://pubmed.ncbi.nlm.nih.gov/36229611/)
 
 ## Related News:
 

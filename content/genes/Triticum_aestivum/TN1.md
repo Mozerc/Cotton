@@ -21,10 +21,10 @@ tags: [ tillering,tiller,aba ]
    - Tiller Number1 encodes an ankyrin repeat protein that controls tillering in bread wheat.
 
 ## Function-related keywords:
-   - [tillering](/tags/tillering/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[aba](/tags/aba/)
+   - [tillering](/tags/tillering/),&nbsp;&nbsp;[tiller](/tags/tiller/),&nbsp;&nbsp;[aba](/tags/aba/)
 
 ## Literature:
-   - [Tiller Number1 encodes an ankyrin repeat protein that controls tillering in bread wheat.]( https://www.nature.com/articles/s41467-023-36271-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-36271-z](https://www.nature.com/articles/s41467-023-36271-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36788238](https://pubmed.ncbi.nlm.nih.gov/36788238/)
+   - [Tiller Number1 encodes an ankyrin repeat protein that controls tillering in bread wheat.]( https://www.nature.com/articles/s41467-023-36271-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-36271-z](https://www.nature.com/articles/s41467-023-36271-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36788238](https://pubmed.ncbi.nlm.nih.gov/36788238/)
 
 ## Related News:
    - [Nature Commun. | 中国农科院克隆小麦分蘖调控新基因并解析其分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247545747&idx=5&sn=51ed30959329569809e6923c7ca9ab73&chksm=ce909ec6f9e717d057a2e3acd74ce01a662fe8da7dc59548b640841730f4c7f00b0b547b8fd5&scene=27#wechat_redirect)

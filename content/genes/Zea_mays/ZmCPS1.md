@@ -22,7 +22,7 @@ tags: [ chloroplast,sugar ]
 - [chloroplast](/tags/chloroplast/),&nbsp;&nbsp;[sugar](/tags/sugar/)
 
 ## Literature:
-   - [Introducing selective agrochemical manipulation of gibberellin metabolism into a cereal crop.]( https://www.nature.com/articles/s41477-019-0582-x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0582-x](https://www.nature.com/articles/s41477-019-0582-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32015514](https://pubmed.ncbi.nlm.nih.gov/32015514/)
+   - [Introducing selective agrochemical manipulation of gibberellin metabolism into a cereal crop.]( https://www.nature.com/articles/s41477-019-0582-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0582-x](https://www.nature.com/articles/s41477-019-0582-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32015514](https://pubmed.ncbi.nlm.nih.gov/32015514/)
 
 ## Related News:
    - [Nature Plants | 中国农业大学作物化控中心揭示作物株型塑造的新途径](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487225&idx=1&sn=ec5960e4497eb9cfbb99b18985ed3391&chksm=ce93a3acf9e42abafe431cdc482915ff04fb94c473b2e98b96af5105a8d7a3f8e3dab1591611&scene=27#wechat_redirect)

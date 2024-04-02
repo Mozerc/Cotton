@@ -22,7 +22,7 @@ tags: [ defense ]
 - [defense](/tags/defense/)
 
 ## Literature:
-   - [Systematic dissection of disease resistance to southern corn rust by bulked-segregant and transcriptome analysis](https://www.sciencedirect.com/science/article/pii/S2214514121001550?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.07.001](https://www.sciencedirect.com/science/article/pii/S2214514121001550?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Systematic dissection of disease resistance to southern corn rust by bulked-segregant and transcriptome analysis](https://www.sciencedirect.com/science/article/pii/S2214514121001550?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.07.001](https://www.sciencedirect.com/science/article/pii/S2214514121001550?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [Frontiers in Plant Science | 北京市农林科学院在玉米南方锈病抗性研究方面取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247500597&idx=6&sn=a78ff1e13f7b38ce3e7ca03b8c18a4a9&chksm=ce906e60f9e7e776442a62e46355d47b0bde34cf8bcf42bbbbf84e99ea044cf69f57bc402a40&scene=27#wechat_redirect)

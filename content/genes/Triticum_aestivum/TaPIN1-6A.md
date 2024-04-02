@@ -22,10 +22,10 @@ tags: [ spikelet,grain,auxin,panicle,tiller,grain number,grain yield,yield,spike
    - By contrast, the spikelet number, grain number per panicle, and the 1000-grain weight were decreased in the TaPIN1-RNAi transgenic wheat plants compared with those in the wild type. In summary, a reduction of TaPIN1s expression increased the tiller number and grain yield per plant of wheat.
 
 ## Function-related keywords:
-   - [spikelet](/tags/spikelet/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[panicle](/tags/panicle/)&nbsp;,&nbsp;[tiller](/tags/tiller/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)
+   - [spikelet](/tags/spikelet/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[panicle](/tags/panicle/),&nbsp;&nbsp;[tiller](/tags/tiller/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[spikelet-number](/tags/spikelet-number/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[tiller-number](/tags/tiller-number/)
 
 ## Literature:
-   - [Down-expression of TaPIN1s Increases the Tiller Number and Grain Yield in Wheat.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03217-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-021-03217-w](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03217-w)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34592922](https://pubmed.ncbi.nlm.nih.gov/34592922/)
+   - [Down-expression of TaPIN1s Increases the Tiller Number and Grain Yield in Wheat.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03217-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-021-03217-w](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03217-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34592922](https://pubmed.ncbi.nlm.nih.gov/34592922/)
 
 ## Related News:
 

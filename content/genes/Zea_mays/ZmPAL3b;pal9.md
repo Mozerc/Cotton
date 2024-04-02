@@ -22,7 +22,7 @@ tags: [monolignol]
 - [monolignol](/tags/monolignol/)
 
 ## Literature:
-   - [Investigating the unusually high cell wall digestibility of the old INRA early flint F4 maize inbred line]( https://www.researchgate.net/publication/321997734_Open_Access_Investigating_the_unusually_high_cell_wall_digestibility_of_the_old_INRA_early_flint_F4_maize_inbred_line).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.02.016](https://www.cabidigitallibrary.org/doi/full/10.5555/20193326331);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Investigating the unusually high cell wall digestibility of the old INRA early flint F4 maize inbred line]( https://www.researchgate.net/publication/321997734_Open_Access_Investigating_the_unusually_high_cell_wall_digestibility_of_the_old_INRA_early_flint_F4_maize_inbred_line)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2023.02.016](https://www.cabidigitallibrary.org/doi/full/10.5555/20193326331);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

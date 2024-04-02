@@ -22,10 +22,10 @@ tags: [ shoot,auxin,salt,tolerance,salt tolerance,homeostasis ]
    - TaHKT8, TaHKT9 and TaHKT10 overexpression mediate K+/Na+ homeostasis and attenuate salt tolerance.
 
 ## Function-related keywords:
-   - [shoot](/tags/shoot/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)
+   - [shoot](/tags/shoot/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/)
 
 ## Literature:
-   - [Natural variation in a K(+) -preferring HKT transporter contributes to wheat shoot K(+) accumulation and salt tolerance.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14746)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14746](https://onlinelibrary.wiley.com/doi/10.1111/pce.14746)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37876337](https://pubmed.ncbi.nlm.nih.gov/37876337/)
+   - [Natural variation in a K(+) -preferring HKT transporter contributes to wheat shoot K(+) accumulation and salt tolerance.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14746)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14746](https://onlinelibrary.wiley.com/doi/10.1111/pce.14746);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37876337](https://pubmed.ncbi.nlm.nih.gov/37876337/)
 
 ## Related News:
    - [PCE | 西北农林科技大学康振生团队揭示钾离子转运体TaHKT9-B自然变异影响小麦离子稳态及耐盐性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247558805&idx=6&sn=0c02a884eb499eab2d598993cc5ce05f&chksm=b3d50bc3846507383be66a7cfc24950110853aef707ad51d54a8922c2480c0afe0e9ed00d625&scene=27#wechat_redirect)

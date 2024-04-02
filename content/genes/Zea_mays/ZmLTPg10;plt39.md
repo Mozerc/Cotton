@@ -22,7 +22,7 @@ tags: [ fertility,stress,abiotic stress,biotic stress,male fertility,stress resp
 - [fertility](/tags/fertility/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[biotic-stress](/tags/biotic-stress/),&nbsp;&nbsp;[male-fertility](/tags/male-fertility/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[as-transport](/tags/as-transport/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [A Systematic Investigation of Lipid Transfer Proteins Involved in Male Fertility and Other Biological Processes in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021660](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36675174](https://pubmed.ncbi.nlm.nih.gov/36675174/)
+   - [A Systematic Investigation of Lipid Transfer Proteins Involved in Male Fertility and Other Biological Processes in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021660](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36675174](https://pubmed.ncbi.nlm.nih.gov/36675174/)
 
 ## Related News:
 

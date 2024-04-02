@@ -21,10 +21,10 @@ tags: [ resistance,breeding,resistant,rust resistance,rust ]
    - **YrAS2388R** suppression might conceivably be caused by close homologues of NLR4DS-1 that are present in Triticeae.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[resistant](/tags/resistant/),&nbsp;&nbsp;[rust-resistance](/tags/rust-resistance/),&nbsp;&nbsp;[rust](/tags/rust/)
 
 ## Literature:
-   - [An ancestral NB-LRR with duplicated 3&#x27;UTRs confers stripe rust resistance in wheat and barley.]( https://www.nature.com/articles/s41467-019-11872-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-019-11872-9](https://www.nature.com/articles/s41467-019-11872-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31492844](https://pubmed.ncbi.nlm.nih.gov/31492844/)
+   - [An ancestral NB-LRR with duplicated 3&#x27;UTRs confers stripe rust resistance in wheat and barley.]( https://www.nature.com/articles/s41467-019-11872-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-019-11872-9](https://www.nature.com/articles/s41467-019-11872-9);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31492844](https://pubmed.ncbi.nlm.nih.gov/31492844/)
 
 ## Related News:
    - [Nature Commun突破！山农川农等单位合作成功克隆小麦条锈病抗性基因YrAS2388！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247485675&idx=3&sn=1c98bff0674bd1356577639bc720dfd7&chksm=ce93a5bef9e42ca88f9c3af805364ee7875efbb543fe8d8e5fb8d5c5e53bc23eee681b0c8d32&scene=27#wechat_redirect)

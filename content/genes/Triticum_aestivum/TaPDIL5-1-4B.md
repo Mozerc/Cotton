@@ -24,7 +24,7 @@ tags: [ resistance ]
    - [resistance](/tags/resistance/)
 
 ## Literature:
-   - [Simultaneous editing of host factor gene TaPDIL5-1 homoeoalleles confers wheat yellow mosaic virus resistance in hexaploid wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18002)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18002](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18002)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35092005](https://pubmed.ncbi.nlm.nih.gov/35092005/)
+   - [Simultaneous editing of host factor gene TaPDIL5-1 homoeoalleles confers wheat yellow mosaic virus resistance in hexaploid wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18002)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18002](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18002);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35092005](https://pubmed.ncbi.nlm.nih.gov/35092005/)
 
 ## Related News:
    - [打破多倍体基因功能冗余-中国农科院作科所证实首个小麦隐性抗病毒基因](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247532445&idx=1&sn=7f13dfb0db122d7670cdfca6a813c3f2&chksm=e8bd0d83dfca849596f1596dbc89146578a870d0401265b7e73bb447d491a28e9db846b13b23&scene=27#wechat_redirect)

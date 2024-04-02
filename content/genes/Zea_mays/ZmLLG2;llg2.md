@@ -21,7 +21,7 @@ tags: [ growth,pollen,pollen wall,cell wall ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[pollen-wall](/tags/pollen-wall/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/)
 
 ## Literature:
-   - [The RALF signaling pathway regulates cell wall integrity during pollen tube growth in maize.]( https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad324/7492839?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad324](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad324/7492839?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38142229](https://pubmed.ncbi.nlm.nih.gov/38142229/)
+   - [The RALF signaling pathway regulates cell wall integrity during pollen tube growth in maize.]( https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad324/7492839?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad324](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad324/7492839?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38142229](https://pubmed.ncbi.nlm.nih.gov/38142229/)
 
 ## Related News:
 

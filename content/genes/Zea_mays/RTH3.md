@@ -24,8 +24,8 @@ tags: [ root,growth,root growth ]
 - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[root-growth](/tags/root-growth/)
 
 ## Literature:
-   - [Heterogeneous nutrient supply promotes maize growth and phosphorus acquisition: additive and compensatory effects of lateral roots and root hairs.]( https://academic.oup.com/aob/article/128/4/431/6328529?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/aob/mcab097](https://academic.oup.com/aob/article/128/4/431/6328529?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34309655](https://pubmed.ncbi.nlm.nih.gov/34309655/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [Heterogeneous nutrient supply promotes maize growth and phosphorus acquisition: additive and compensatory effects of lateral roots and root hairs.]( https://academic.oup.com/aob/article/128/4/431/6328529?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/aob/mcab097](https://academic.oup.com/aob/article/128/4/431/6328529?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34309655](https://pubmed.ncbi.nlm.nih.gov/34309655/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
 
 ## Related News:
 

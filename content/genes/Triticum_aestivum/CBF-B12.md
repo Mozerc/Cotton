@@ -22,7 +22,7 @@ tags: [ winter hardiness ]
    - [winter-hardiness](/tags/winter-hardiness/)
 
 ## Literature:
-   - [Copy number variations of CBF genes at the Fr-A2 locus are essential components of winter hardiness in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13424](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27859852](https://pubmed.ncbi.nlm.nih.gov/27859852/)
+   - [Copy number variations of CBF genes at the Fr-A2 locus are essential components of winter hardiness in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13424](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13424);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27859852](https://pubmed.ncbi.nlm.nih.gov/27859852/)
 
 ## Related News:
 

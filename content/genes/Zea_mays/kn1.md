@@ -23,9 +23,9 @@ tags: [ resistance,cytokinin,herbicide resistance,herbicide ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/),&nbsp;&nbsp;[herbicide-resistance](/tags/herbicide-resistance/),&nbsp;&nbsp;[herbicide](/tags/herbicide/)
 
 ## Literature:
-   - [The maize Knotted1 gene is an effective positive selectable marker gene for Agrobacterium-mediated tobacco transformation.]( https://link.springer.com/article/10.1007/s00299-005-0051-z).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-005-0051-z](https://link.springer.com/article/10.1007/s00299-005-0051-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16369767](https://pubmed.ncbi.nlm.nih.gov/16369767/)
-   - [Hormonal regulation of inflorescence and intercalary meristems in grasses.]( https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pbi.2023.102451](https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37739867](https://pubmed.ncbi.nlm.nih.gov/37739867/)
-   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
+   - [The maize Knotted1 gene is an effective positive selectable marker gene for Agrobacterium-mediated tobacco transformation.]( https://link.springer.com/article/10.1007/s00299-005-0051-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-005-0051-z](https://link.springer.com/article/10.1007/s00299-005-0051-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16369767](https://pubmed.ncbi.nlm.nih.gov/16369767/)
+   - [Hormonal regulation of inflorescence and intercalary meristems in grasses.]( https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pbi.2023.102451](https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37739867](https://pubmed.ncbi.nlm.nih.gov/37739867/)
+   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
 
 ## Related News:
 

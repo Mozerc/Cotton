@@ -22,7 +22,7 @@ tags: [ stem,root,auxin,ja,jasmonic,jasmonic acid ]
 - [stem](/tags/stem/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)
 
 ## Literature:
-   - [The inhibition of maize (Zea mays L.) root stem cell regeneration by low oxygen is attenuated by Phytoglobin 1 (Pgb1) through changes in auxin and jasmonic acid.]( https://link.springer.com/article/10.1007/s00425-023-04144-w).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-023-04144-w](https://link.springer.com/article/10.1007/s00425-023-04144-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37178357](https://pubmed.ncbi.nlm.nih.gov/37178357/)
+   - [The inhibition of maize (Zea mays L.) root stem cell regeneration by low oxygen is attenuated by Phytoglobin 1 (Pgb1) through changes in auxin and jasmonic acid.]( https://link.springer.com/article/10.1007/s00425-023-04144-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-023-04144-w](https://link.springer.com/article/10.1007/s00425-023-04144-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37178357](https://pubmed.ncbi.nlm.nih.gov/37178357/)
 
 ## Related News:
 

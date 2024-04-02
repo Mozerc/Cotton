@@ -24,7 +24,7 @@ tags: [ grain,starch,grain yield,grain filling,yield,aba,endosperm,abscisic acid
 - [grain](/tags/grain/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[grain-filling](/tags/grain-filling/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
-   - [ABA-induced phosphorylation of basic leucine zipper 29, ABSCISIC ACID INSENSITIVE 19, and Opaque2 by SnRK2.2 enhances gene transactivation for endosperm filling in maize.]( https://academic.oup.com/plcell/article/34/5/1933/6528333?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac044](https://academic.oup.com/plcell/article/34/5/1933/6528333?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35157077](https://pubmed.ncbi.nlm.nih.gov/35157077/)
+   - [ABA-induced phosphorylation of basic leucine zipper 29, ABSCISIC ACID INSENSITIVE 19, and Opaque2 by SnRK2.2 enhances gene transactivation for endosperm filling in maize.]( https://academic.oup.com/plcell/article/34/5/1933/6528333?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac044](https://academic.oup.com/plcell/article/34/5/1933/6528333?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35157077](https://pubmed.ncbi.nlm.nih.gov/35157077/)
 
 ## Related News:
    - [巫永睿研究组发现玉米胚乳灌浆起始期ABA信号诱导的磷酸化机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247533579&idx=4&sn=af8b9ab74ed4b72bcae6a22a51cf379d&chksm=e8bd3615dfcabf031180afd4e8e6a225c7a132dcccaa4eb3fa546cb9f86bd88aa12311110932&scene=27#wechat_redirect)

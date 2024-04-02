@@ -22,7 +22,7 @@ tags: [ kinase,protein kinase,phosphatase,dehydrogenase,protein phosphatase ]
 - [kinase](/tags/kinase/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[dehydrogenase](/tags/dehydrogenase/),&nbsp;&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
-   - [ZMPP2, a novel type‐2C protein phosphatase from maize]( https://academic.oup.com/jxb/article/52/361/1739/538474?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jexbot/52.361.1739](https://academic.oup.com/jxb/article/52/361/1739/538474?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZMPP2, a novel type‐2C protein phosphatase from maize]( https://academic.oup.com/jxb/article/52/361/1739/538474?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jexbot/52.361.1739](https://academic.oup.com/jxb/article/52/361/1739/538474?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

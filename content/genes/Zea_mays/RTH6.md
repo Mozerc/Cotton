@@ -24,8 +24,8 @@ tags: [ root,growth,down-regulated genes,root growth,cell wall,cellulose,primary
 - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[down-regulated-genes](/tags/down-regulated-genes/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cellulose](/tags/cellulose/),&nbsp;&nbsp;[primary-root](/tags/primary-root/),&nbsp;&nbsp;[root-hair](/tags/root-hair/)
 
 ## Literature:
-   - [Characterization of maize roothairless6 which encodes a D-type cellulose synthase and controls the switch from bulge formation to tip growth.]( https://www.nature.com/articles/srep34395).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep34395](https://www.nature.com/articles/srep34395);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27708345](https://pubmed.ncbi.nlm.nih.gov/27708345/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [Characterization of maize roothairless6 which encodes a D-type cellulose synthase and controls the switch from bulge formation to tip growth.]( https://www.nature.com/articles/srep34395)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep34395](https://www.nature.com/articles/srep34395);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27708345](https://pubmed.ncbi.nlm.nih.gov/27708345/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
 
 ## Related News:
 

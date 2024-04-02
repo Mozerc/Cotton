@@ -20,11 +20,11 @@ tags: [ development,grain,grain size,grain yield,yield,cell division,breeding,ce
    - TaGS5-3A, a grain size gene selected during wheat improvement for larger kernel and yield.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)
+   - [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/)
 
 ## Literature:
-   - [TaGS5-3A, a grain size gene selected during wheat improvement for larger kernel and yield.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12492)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12492](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12492)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26480952](https://pubmed.ncbi.nlm.nih.gov/26480952/)
-   - [A Single-Nucleotide Polymorphism of TaGS5 Gene Revealed its Association with Kernel Weight in Chinese Bread Wheat]( https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.01166/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2015.01166](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.01166/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [TaGS5-3A, a grain size gene selected during wheat improvement for larger kernel and yield.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12492)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12492](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12492);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26480952](https://pubmed.ncbi.nlm.nih.gov/26480952/)
+   - [A Single-Nucleotide Polymorphism of TaGS5 Gene Revealed its Association with Kernel Weight in Chinese Bread Wheat]( https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.01166/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2015.01166](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.01166/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

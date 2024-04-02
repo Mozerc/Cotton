@@ -24,8 +24,8 @@ tags: [ drought,stress,drought stress ]
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/)
 
 ## Literature:
-   - [Manipulating ZmEXPA4 expression ameliorates the drought-induced prolonged anthesis and silking interval in maize.]( https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab083](https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33730156](https://pubmed.ncbi.nlm.nih.gov/33730156/)
-   - [Genetic and molecular exploration of maize environmental stress resilience: Toward sustainable agriculture.]( https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.07.005](https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37464740](https://pubmed.ncbi.nlm.nih.gov/37464740/)
+   - [Manipulating ZmEXPA4 expression ameliorates the drought-induced prolonged anthesis and silking interval in maize.]( https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab083](https://academic.oup.com/plcell/article/33/6/2058/6175065?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33730156](https://pubmed.ncbi.nlm.nih.gov/33730156/)
+   - [Genetic and molecular exploration of maize environmental stress resilience: Toward sustainable agriculture.]( https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.07.005](https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37464740](https://pubmed.ncbi.nlm.nih.gov/37464740/)
 
 ## Related News:
    - [Plant Cell | 中国农业大学秦峰团队揭示干旱胁迫导致玉米ASI增大的新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247504319&idx=1&sn=ba6d8a9aa35917f8097201648896f0ae&chksm=fd734bd8ca04c2ceaed71c2d1f3e61dba1cf82344d7a230f6352fec0be1ddaceaf25cd347595&scene=27#wechat_redirect)

@@ -25,7 +25,7 @@ tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi,carotene,carotene a
 - [root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[biomass](/tags/biomass/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[phosphorus](/tags/phosphorus/),&nbsp;&nbsp;[pi](/tags/pi/),&nbsp;&nbsp;[carotene](/tags/carotene/),&nbsp;&nbsp;[carotene-accumulation](/tags/carotene-accumulation/)
 
 ## Literature:
-   - [ZmCCD10a Encodes a Distinct Type of Carotenoid Cleavage Dioxygenase and Enhances Plant Tolerance to Low Phosphate.]( https://academic.oup.com/plphys/article/184/1/374/6117832?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00378](https://academic.oup.com/plphys/article/184/1/374/6117832?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32586893](https://pubmed.ncbi.nlm.nih.gov/32586893/)
+   - [ZmCCD10a Encodes a Distinct Type of Carotenoid Cleavage Dioxygenase and Enhances Plant Tolerance to Low Phosphate.]( https://academic.oup.com/plphys/article/184/1/374/6117832?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00378](https://academic.oup.com/plphys/article/184/1/374/6117832?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32586893](https://pubmed.ncbi.nlm.nih.gov/32586893/)
 
 ## Related News:
    - [Plant Physiol | 中国农业大学李学贤课题组揭示玉米响应低磷新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247496513&idx=2&sn=8bf37814592a87fce7269835a58edc82&chksm=fd736926ca04e03087b49a21db4e387a674754f9f5e9d6d0ac412ae72b4339758b03df1f8693&scene=27#wechat_redirect)

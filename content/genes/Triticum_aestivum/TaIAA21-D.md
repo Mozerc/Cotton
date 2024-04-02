@@ -21,10 +21,10 @@ tags: [ development,grain,grain length,grain size,grain yield,yield,iaa,grain we
    - TaIAA21 represses TaARF25-mediated expression of TaERFs required for grain size and weight development in wheat.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[grain-width](/tags/grain-width/)
+   - [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[pericarp](/tags/pericarp/),&nbsp;&nbsp;[grain-width](/tags/grain-width/)
 
 ## Literature:
-   - [TaIAA21 represses TaARF25-mediated expression of TaERFs required for grain size and weight development in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15541](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34643010](https://pubmed.ncbi.nlm.nih.gov/34643010/)
+   - [TaIAA21 represses TaARF25-mediated expression of TaERFs required for grain size and weight development in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15541](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15541);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34643010](https://pubmed.ncbi.nlm.nih.gov/34643010/)
 
 ## Related News:
    - [Plant Journal | 作科所李爱丽/毛龙研究员揭示小麦籽粒发育新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247519674&idx=7&sn=5b4c80ad6621586b1757e8630496654d&chksm=ce9020eff9e7a9f93eb00a7c5369081ca4a49dd74b31ae60614d85552a31c7783f1e49a41c36&scene=27#wechat_redirect)

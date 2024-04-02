@@ -21,8 +21,8 @@ tags: [ flowering time,flowering ]
 - [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [A multi-omics integrative network map of maize.]( https://www.nature.com/articles/s41588-022-01262-1).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-022-01262-1](https://www.nature.com/articles/s41588-022-01262-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36581701](https://pubmed.ncbi.nlm.nih.gov/36581701/)
-   - [Compartmentation of photosynthesis gene expression in C4 maize depends on time of day.]( https://academic.oup.com/plphys/article/193/4/2306/7239778).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad447](https://academic.oup.com/plphys/article/193/4/2306/7239778);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37555432](https://pubmed.ncbi.nlm.nih.gov/37555432/)
+   - [A multi-omics integrative network map of maize.]( https://www.nature.com/articles/s41588-022-01262-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-022-01262-1](https://www.nature.com/articles/s41588-022-01262-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36581701](https://pubmed.ncbi.nlm.nih.gov/36581701/)
+   - [Compartmentation of photosynthesis gene expression in C4 maize depends on time of day.]( https://academic.oup.com/plphys/article/193/4/2306/7239778)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad447](https://academic.oup.com/plphys/article/193/4/2306/7239778);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37555432](https://pubmed.ncbi.nlm.nih.gov/37555432/)
 
 ## Related News:
 

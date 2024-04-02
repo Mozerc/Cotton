@@ -23,7 +23,7 @@ tags: [ seed,mitochondria,tolerance ]
 - [seed](/tags/seed/),&nbsp;&nbsp;[mitochondria](/tags/mitochondria/),&nbsp;&nbsp;[tolerance](/tags/tolerance/)
 
 ## Literature:
-   - [Maize PIMT2 repairs damaged 3-METHYLCROTONYL COA CARBOXYLASE in mitochondria, affecting seed vigor.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16225](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36999611](https://pubmed.ncbi.nlm.nih.gov/36999611/)
+   - [Maize PIMT2 repairs damaged 3-METHYLCROTONYL COA CARBOXYLASE in mitochondria, affecting seed vigor.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16225](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16225);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36999611](https://pubmed.ncbi.nlm.nih.gov/36999611/)
 
 ## Related News:
    - [西北农林科技大学赵天永课题组发现调控种子活力新机制并创制耐储性显著提高的玉米育种新材料](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247569549&idx=1&sn=39f5e1ec5340af3ddd3fef4826b85be3&chksm=5ff4b8c022c8ee6b7610033d4f3e5fe20848d28c98f46f5699bd0f0dbd49e3ee28e5fafe1c76&scene=27#wechat_redirect)

@@ -24,8 +24,8 @@ tags: [ root,shoot,salt,tolerance,salt tolerance ]
 - [root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/)
 
 ## Literature:
-   - [The classical SOS pathway confers natural variation of salt tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18278](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35633114](https://pubmed.ncbi.nlm.nih.gov/35633114/)
-   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
+   - [The classical SOS pathway confers natural variation of salt tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18278](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35633114](https://pubmed.ncbi.nlm.nih.gov/35633114/)
+   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
 
 ## Related News:
    - [中国农业大学蒋才富团队揭示玉米SOS途径的耐盐功能及其介导玉米耐盐性自然变异的分子基础](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247518941&idx=1&sn=310ce54f5a42f715e2e632199f44f745&chksm=fd7310baca0499ac0bd7aff1ea111aeb5b8de61adee5dec152bb42b43fae3f1f34e66f1edb4d&scene=27#wechat_redirect)

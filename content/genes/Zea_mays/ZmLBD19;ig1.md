@@ -22,7 +22,7 @@ tags: [ development,embryo,transcriptional regulator,female gametophyte developm
 - [development](/tags/development/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/),&nbsp;&nbsp;[female-gametophyte-development](/tags/female-gametophyte-development/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
-   - [Germline Development and Fertilization Mechanisms in Maize.]( https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.01.012](https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28267957](https://pubmed.ncbi.nlm.nih.gov/28267957/)
+   - [Germline Development and Fertilization Mechanisms in Maize.]( https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.01.012](https://www.sciencedirect.com/science/article/pii/S1674205217300138?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28267957](https://pubmed.ncbi.nlm.nih.gov/28267957/)
 
 ## Related News:
 

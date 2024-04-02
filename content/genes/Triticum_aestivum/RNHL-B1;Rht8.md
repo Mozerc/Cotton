@@ -20,11 +20,11 @@ tags: [ grain,grain length,grain yield,yield,height,plant height,spike ]
    - A natural variation in Ribonuclease H-like gene underlies **Rht8** to confer “Green Revolution” trait in wheat.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[spike](/tags/spike/)
 
 ## Literature:
-   - [A natural variation in Ribonuclease H-like gene underlies Rht8 to confer &quot;Green Revolution&quot; trait in wheat.]( https://www.sciencedirect.com/science/article/pii/S1674205222000132?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.01.013](https://www.sciencedirect.com/science/article/pii/S1674205222000132?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35063659](https://pubmed.ncbi.nlm.nih.gov/35063659/)
-   - [Cloning and functional characterization of Rht8, a &quot;Green Revolution&quot; replacement gene in wheat.]( https://www.sciencedirect.com/science/article/pii/S1674205222000144?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.01.014](https://www.sciencedirect.com/science/article/pii/S1674205222000144?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35063661](https://pubmed.ncbi.nlm.nih.gov/35063661/)
+   - [A natural variation in Ribonuclease H-like gene underlies Rht8 to confer &quot;Green Revolution&quot; trait in wheat.]( https://www.sciencedirect.com/science/article/pii/S1674205222000132?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.01.013](https://www.sciencedirect.com/science/article/pii/S1674205222000132?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35063659](https://pubmed.ncbi.nlm.nih.gov/35063659/)
+   - [Cloning and functional characterization of Rht8, a &quot;Green Revolution&quot; replacement gene in wheat.]( https://www.sciencedirect.com/science/article/pii/S1674205222000144?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.01.014](https://www.sciencedirect.com/science/article/pii/S1674205222000144?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35063661](https://pubmed.ncbi.nlm.nih.gov/35063661/)
 
 ## Related News:
 

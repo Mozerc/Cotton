@@ -23,7 +23,7 @@ tags: [ transcription factor,resistance,ethylene ]
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[ethylene](/tags/ethylene/)
 
 ## Literature:
-   - [ZmMYC7 directly regulates ZmERF147 to increase maize resistance to Fusarium graminearum]( https://www.sciencedirect.com/science/article/pii/S2214514122001258).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.05.006](https://www.sciencedirect.com/science/article/pii/S2214514122001258);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZmMYC7 directly regulates ZmERF147 to increase maize resistance to Fusarium graminearum]( https://www.sciencedirect.com/science/article/pii/S2214514122001258)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.05.006](https://www.sciencedirect.com/science/article/pii/S2214514122001258);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

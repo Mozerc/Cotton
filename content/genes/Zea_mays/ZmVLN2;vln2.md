@@ -23,7 +23,7 @@ tags: [ development,breeding,peduncle ]
 - [development](/tags/development/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[peduncle](/tags/peduncle/)
 
 ## Literature:
-   - [Dissection of the genetic architecture of peduncle vascular bundle-related traits in maize by a genome-wide association study.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13782](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35080335](https://pubmed.ncbi.nlm.nih.gov/35080335/)
+   - [Dissection of the genetic architecture of peduncle vascular bundle-related traits in maize by a genome-wide association study.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13782](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13782);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35080335](https://pubmed.ncbi.nlm.nih.gov/35080335/)
 
 ## Related News:
    - [PBJ | 河南农业大学汤继华团队揭示玉米穗柄维管束遗传结构](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247524542&idx=2&sn=a4be3c448093acaefabcb512bfb85a68&chksm=ce90cdebf9e744fdaff34aee91655c45b387f0495239190d1b313b2890c49a8d8f165c5c0709&scene=27#wechat_redirect)

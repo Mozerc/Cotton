@@ -22,7 +22,7 @@ tags: [ resistance,nucleus ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[nucleus](/tags/nucleus/)
 
 ## Literature:
-   - [Effector-mediated relocalization of a maize lipoxygenase protein triggers susceptibility to Ustilago maydis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252493/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac105](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252493/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35512341](https://pubmed.ncbi.nlm.nih.gov/35512341/)
+   - [Effector-mediated relocalization of a maize lipoxygenase protein triggers susceptibility to Ustilago maydis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252493/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac105](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252493/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35512341](https://pubmed.ncbi.nlm.nih.gov/35512341/)
 
 ## Related News:
 

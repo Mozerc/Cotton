@@ -22,8 +22,8 @@ tags: [ root,growth,root growth,plant growth ]
 - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
-   - [Sparse panicle1 is required for inflorescence development in Setaria viridis and maize.]( https://www.nature.com/articles/nplants201754).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/nplants.2017.54](https://www.nature.com/articles/nplants201754);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28418381](https://pubmed.ncbi.nlm.nih.gov/28418381/)
-   - [Auxin EvoDevo: Conservation and Diversification of Genes Regulating Auxin Biosynthesis, Transport, and Signaling.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(18)30379-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205218303794%3Fshowall%3Dtrue).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2018.12.012](https://www.cell.com/molecular-plant/fulltext/S1674-2052(18)30379-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205218303794%3Fshowall%3Dtrue);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30590136](https://pubmed.ncbi.nlm.nih.gov/30590136/)
+   - [Sparse panicle1 is required for inflorescence development in Setaria viridis and maize.]( https://www.nature.com/articles/nplants201754)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/nplants.2017.54](https://www.nature.com/articles/nplants201754);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28418381](https://pubmed.ncbi.nlm.nih.gov/28418381/)
+   - [Auxin EvoDevo: Conservation and Diversification of Genes Regulating Auxin Biosynthesis, Transport, and Signaling.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(18)30379-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205218303794%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2018.12.012](https://www.cell.com/molecular-plant/fulltext/S1674-2052(18)30379-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205218303794%3Fshowall%3Dtrue);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30590136](https://pubmed.ncbi.nlm.nih.gov/30590136/)
 
 ## Related News:
 

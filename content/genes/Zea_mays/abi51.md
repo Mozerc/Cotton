@@ -22,8 +22,8 @@ tags: [ stem,cell wall,cell cycle,sugar,sugar transport,dormancy ]
 - [stem](/tags/stem/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[sugar-transport](/tags/sugar-transport/),&nbsp;&nbsp;[dormancy](/tags/dormancy/)
 
 ## Literature:
-   - [Analysis of Global Gene Expression in Maize (Zea mays) Vegetative and Reproductive Tissues That Differ in Accumulation of Starch and Sucrose.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants11030238](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35161219](https://pubmed.ncbi.nlm.nih.gov/35161219/)
-   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article-abstract/74/15/4503/7160568?redirectedFrom=fulltext).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article-abstract/74/15/4503/7160568?redirectedFrom=fulltext);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
+   - [Analysis of Global Gene Expression in Maize (Zea mays) Vegetative and Reproductive Tissues That Differ in Accumulation of Starch and Sucrose.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants11030238](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35161219](https://pubmed.ncbi.nlm.nih.gov/35161219/)
+   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article-abstract/74/15/4503/7160568?redirectedFrom=fulltext)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article-abstract/74/15/4503/7160568?redirectedFrom=fulltext);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
 
 ## Related News:
 

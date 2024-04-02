@@ -22,10 +22,10 @@ tags: [ transcription factor,growth,development,grain,grain size,embryo,grain gr
    - This showed that **LYS3** mutant embryos were significantly larger than wild type embryos only after 23 DAF (Student's t-test, p = 0.01). Thus, in wild-type embryos, the onset of PBF expression precedes the suppression of embryo growth.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)&nbsp;,&nbsp;[prolamin](/tags/prolamin/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[embryo-growth](/tags/embryo-growth/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[grain-growth](/tags/grain-growth/),&nbsp;&nbsp;[prolamin](/tags/prolamin/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/),&nbsp;&nbsp;[embryo-growth](/tags/embryo-growth/)
 
 ## Literature:
-   - [LYS3 encodes a prolamin-box-binding transcription factor that controls embryo growth in barley and wheat.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263734/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jcs.2020.102965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263734/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32508376](https://pubmed.ncbi.nlm.nih.gov/32508376/)
+   - [LYS3 encodes a prolamin-box-binding transcription factor that controls embryo growth in barley and wheat.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263734/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jcs.2020.102965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263734/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32508376](https://pubmed.ncbi.nlm.nih.gov/32508376/)
 
 ## Related News:
 

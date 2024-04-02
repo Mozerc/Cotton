@@ -20,8 +20,8 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Melatonin Alleviates Chromium Toxicity in Maize by Modulation of Cell Wall Polysaccharides Biosynthesis, Glutathione Metabolism, and Antioxidant Capacity.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9966513/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043816](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9966513/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835227](https://pubmed.ncbi.nlm.nih.gov/36835227/)
-   - [Hydrogen sulfide alleviates chromium toxicity by promoting chromium sequestration and re-establishing redox homeostasis in Zea mays L.]( https://www.sciencedirect.com/science/article/abs/pii/S0269749123009600?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envpol.2023.121958](https://www.sciencedirect.com/science/article/abs/pii/S0269749123009600?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37286026](https://pubmed.ncbi.nlm.nih.gov/37286026/)
+   - [Melatonin Alleviates Chromium Toxicity in Maize by Modulation of Cell Wall Polysaccharides Biosynthesis, Glutathione Metabolism, and Antioxidant Capacity.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9966513/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043816](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9966513/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835227](https://pubmed.ncbi.nlm.nih.gov/36835227/)
+   - [Hydrogen sulfide alleviates chromium toxicity by promoting chromium sequestration and re-establishing redox homeostasis in Zea mays L.]( https://www.sciencedirect.com/science/article/abs/pii/S0269749123009600?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envpol.2023.121958](https://www.sciencedirect.com/science/article/abs/pii/S0269749123009600?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37286026](https://pubmed.ncbi.nlm.nih.gov/37286026/)
 
 ## Related News:
 

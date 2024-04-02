@@ -21,10 +21,10 @@ tags: [ growth,development,vernalization ]
    - Segregating populations generated from these isogenic lines revealed that **VRN-D4** has strong epistatic interactions with the other vernalization genes and is part of the same vernalization pathway.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[vernalization](/tags/vernalization/)
 
 ## Literature:
-   - [Identification of the VERNALIZATION 4 gene reveals the origin of spring growth habit in ancient wheats from South Asia.]( https://www.pnas.org/doi/10.1073/pnas.1514883112#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1514883112](https://www.pnas.org/doi/10.1073/pnas.1514883112#supplementary-materials)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26324889](https://pubmed.ncbi.nlm.nih.gov/26324889/)
+   - [Identification of the VERNALIZATION 4 gene reveals the origin of spring growth habit in ancient wheats from South Asia.]( https://www.pnas.org/doi/10.1073/pnas.1514883112#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1514883112](https://www.pnas.org/doi/10.1073/pnas.1514883112#supplementary-materials);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26324889](https://pubmed.ncbi.nlm.nih.gov/26324889/)
 
 ## Related News:
 

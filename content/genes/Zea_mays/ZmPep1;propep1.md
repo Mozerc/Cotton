@@ -22,7 +22,7 @@ tags: [ leaf,resistance,disease,disease resistance,blight,immunity,innate immuni
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[blight](/tags/blight/),&nbsp;&nbsp;[immunity](/tags/immunity/),&nbsp;&nbsp;[innate-immunity](/tags/innate-immunity/),&nbsp;&nbsp;[blight-disease](/tags/blight-disease/)
 
 ## Literature:
-   - [ZmPep1, an ortholog of Arabidopsis elicitor peptide 1, regulates maize innate immunity and enhances disease resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.110.166710](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21205619](https://pubmed.ncbi.nlm.nih.gov/21205619/)
+   - [ZmPep1, an ortholog of Arabidopsis elicitor peptide 1, regulates maize innate immunity and enhances disease resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.110.166710](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21205619](https://pubmed.ncbi.nlm.nih.gov/21205619/)
 
 ## Related News:
 

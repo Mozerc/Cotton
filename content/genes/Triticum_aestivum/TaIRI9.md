@@ -20,10 +20,10 @@ tags: [ tiller,height,plant height,tiller number,vernalization ]
    - Overexpression of **TaIRI9** in wild type wheat resulted in reduced plant height, increased tiller number and delayed heading days.
 
 ## Function-related keywords:
-   - [tiller](/tags/tiller/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[tiller-number](/tags/tiller-number/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
+   - [tiller](/tags/tiller/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[tiller-number](/tags/tiller-number/),&nbsp;&nbsp;[vernalization](/tags/vernalization/)
 
 ## Literature:
-   - [Molecular cloning and functional characterization of TaIRI9 gene in wheat (Triticum aestivum L.).]( https://www.sciencedirect.com/science/article/pii/S0378111921002882?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.gene.2021.145694](https://www.sciencedirect.com/science/article/pii/S0378111921002882?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33961976](https://pubmed.ncbi.nlm.nih.gov/33961976/)
+   - [Molecular cloning and functional characterization of TaIRI9 gene in wheat (Triticum aestivum L.).]( https://www.sciencedirect.com/science/article/pii/S0378111921002882?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.gene.2021.145694](https://www.sciencedirect.com/science/article/pii/S0378111921002882?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33961976](https://pubmed.ncbi.nlm.nih.gov/33961976/)
 
 ## Related News:
 

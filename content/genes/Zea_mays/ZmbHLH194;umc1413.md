@@ -22,7 +22,7 @@ tags: [ development ]
 - [development](/tags/development/)
 
 ## Literature:
-   - [Genome-wide analysis of the basic Helix-Loop-Helix (bHLH) transcription factor family in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192367/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1441-z](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192367/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30326829](https://pubmed.ncbi.nlm.nih.gov/30326829/)
+   - [Genome-wide analysis of the basic Helix-Loop-Helix (bHLH) transcription factor family in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192367/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-018-1441-z](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192367/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30326829](https://pubmed.ncbi.nlm.nih.gov/30326829/)
 
 ## Related News:
 

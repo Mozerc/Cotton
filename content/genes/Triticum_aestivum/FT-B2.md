@@ -21,10 +21,10 @@ tags: [ spikelet,grain,grain number,grain yield,yield,spikelet number,grain weig
    - Identification and characterization of a natural polymorphism in **FT-A2** associated with increased number of grains per spike in wheat.
 
 ## Function-related keywords:
-   - [spikelet](/tags/spikelet/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[heading-time](/tags/heading-time/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [spikelet](/tags/spikelet/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[spikelet-number](/tags/spikelet-number/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[heading-time](/tags/heading-time/),&nbsp;&nbsp;[spike](/tags/spike/)
 
 ## Literature:
-   - [Identification and characterization of a natural polymorphism in FT-A2 associated with increased number of grains per spike in wheat.]( https://link.springer.com/article/10.1007/s00122-021-03992-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-021-03992-y](https://link.springer.com/article/10.1007/s00122-021-03992-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34825926](https://pubmed.ncbi.nlm.nih.gov/34825926/)
+   - [Identification and characterization of a natural polymorphism in FT-A2 associated with increased number of grains per spike in wheat.]( https://link.springer.com/article/10.1007/s00122-021-03992-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-021-03992-y](https://link.springer.com/article/10.1007/s00122-021-03992-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34825926](https://pubmed.ncbi.nlm.nih.gov/34825926/)
 
 ## Related News:
 

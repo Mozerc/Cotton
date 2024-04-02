@@ -20,10 +20,10 @@ tags: [ spikelet,spikelet number,flowering time,flowering,vernalization,heading 
    - Individuals carrying the **FT-B1** allele with amino acid histidine had, on average, a higher number of spikelets (15.1) than individuals with the aspartic acid allele (14.3) independent of their VRN-A1 allele.
 
 ## Function-related keywords:
-   - [spikelet](/tags/spikelet/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[heading-time](/tags/heading-time/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [spikelet](/tags/spikelet/),&nbsp;&nbsp;[spikelet-number](/tags/spikelet-number/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[vernalization](/tags/vernalization/),&nbsp;&nbsp;[heading-time](/tags/heading-time/),&nbsp;&nbsp;[spike](/tags/spike/)
 
 ## Literature:
-   - [Linkage mapping identifies a non-synonymous mutation in FLOWERING LOCUS T (FT-B1) increasing spikelet number per spike.]( https://www.nature.com/articles/s41598-020-80473-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-020-80473-0 ](https://www.nature.com/articles/s41598-020-80473-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33452357](https://pubmed.ncbi.nlm.nih.gov/33452357/)
+   - [Linkage mapping identifies a non-synonymous mutation in FLOWERING LOCUS T (FT-B1) increasing spikelet number per spike.]( https://www.nature.com/articles/s41598-020-80473-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-020-80473-0 ](https://www.nature.com/articles/s41598-020-80473-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33452357](https://pubmed.ncbi.nlm.nih.gov/33452357/)
 
 ## Related News:
 

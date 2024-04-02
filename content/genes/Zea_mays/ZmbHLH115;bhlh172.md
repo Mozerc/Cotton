@@ -21,7 +21,7 @@ tags: [ inflorescence ]
 - [inflorescence](/tags/inflorescence/)
 
 ## Literature:
-   - [A key gene bHLH115 in iron homeostasis: comprehensive bioinformatics analyses in Arabidopsis, tomato, rice, and maize.]( https://link.springer.com/article/10.1007/s10534-019-00199-z).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10534-019-00199-z](https://link.springer.com/article/10.1007/s10534-019-00199-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31062267](https://pubmed.ncbi.nlm.nih.gov/31062267/)
+   - [A key gene bHLH115 in iron homeostasis: comprehensive bioinformatics analyses in Arabidopsis, tomato, rice, and maize.]( https://link.springer.com/article/10.1007/s10534-019-00199-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10534-019-00199-z](https://link.springer.com/article/10.1007/s10534-019-00199-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31062267](https://pubmed.ncbi.nlm.nih.gov/31062267/)
 
 ## Related News:
 

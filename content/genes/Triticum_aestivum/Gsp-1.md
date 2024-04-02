@@ -19,10 +19,10 @@ tags: [ grain,grain protein,kernel texture ]
    - Among members of the Triticeae, most notably wheat, much of the variation in texture is controlled by a single locus comprised of the Puroindoline a, Puroindoline b and Grain Softness Protein-1 (**Gsp-1**) genes.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[kernel-texture](/tags/kernel-texture/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/),&nbsp;&nbsp;[kernel-texture](/tags/kernel-texture/)
 
 ## Literature:
-   - [Molecular genetics of puroindolines and related genes: allelic diversity in wheat and other grasses.]( https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9263-7](https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18049798](https://pubmed.ncbi.nlm.nih.gov/18049798/)
+   - [Molecular genetics of puroindolines and related genes: allelic diversity in wheat and other grasses.]( https://link.springer.com/article/10.1007/s11103-007-9263-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9263-7](https://link.springer.com/article/10.1007/s11103-007-9263-7);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18049798](https://pubmed.ncbi.nlm.nih.gov/18049798/)
 
 ## Related News:
 

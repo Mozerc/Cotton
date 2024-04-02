@@ -22,7 +22,7 @@ tags: [ development,plant development ]
 - [development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/)
 
 ## Literature:
-   - [Genome-wide analysis of gibberellin-dioxygenases gene family and their responses to GA applications in maize.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250349).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0250349](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250349);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33961636](https://pubmed.ncbi.nlm.nih.gov/33961636/)
+   - [Genome-wide analysis of gibberellin-dioxygenases gene family and their responses to GA applications in maize.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250349)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0250349](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250349);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33961636](https://pubmed.ncbi.nlm.nih.gov/33961636/)
 
 ## Related News:
 

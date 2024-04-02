@@ -23,7 +23,7 @@ tags: [ transcription factor,growth,vegetative,zinc,transcriptional regulator,tr
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[vegetative](/tags/vegetative/),&nbsp;&nbsp;[zinc](/tags/zinc/),&nbsp;&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [The maize INDETERMINATE1 flowering time regulator defines a highly conserved zinc finger protein family in higher plants.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1586020/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-7-158](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1586020/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16784536](https://pubmed.ncbi.nlm.nih.gov/16784536/)
+   - [The maize INDETERMINATE1 flowering time regulator defines a highly conserved zinc finger protein family in higher plants.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1586020/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-7-158](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1586020/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16784536](https://pubmed.ncbi.nlm.nih.gov/16784536/)
 
 ## Related News:
 

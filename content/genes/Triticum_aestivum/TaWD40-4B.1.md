@@ -20,10 +20,10 @@ tags: [ grain,grain length,drought,grain yield,tolerance,yield,drought tolerance
    -  The full-length allele **TaWD40-4B.1**C but not the truncated allele **TaWD40-4B.1**T possessing a nonsense nucleotide variation enhances drought tolerance and grain yield of wheat under drought.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[catalase](/tags/catalase/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/),&nbsp;&nbsp;[catalase](/tags/catalase/)
 
 ## Literature:
-   - [Allelic variation of TaWD40-4B.1 contributes to drought tolerance by modulating catalase activity in wheat.]( https://www.nature.com/articles/s41467-023-36901-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-36901-6](https://www.nature.com/articles/s41467-023-36901-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36864053](https://pubmed.ncbi.nlm.nih.gov/36864053/)
+   - [Allelic variation of TaWD40-4B.1 contributes to drought tolerance by modulating catalase activity in wheat.]( https://www.nature.com/articles/s41467-023-36901-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-36901-6](https://www.nature.com/articles/s41467-023-36901-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36864053](https://pubmed.ncbi.nlm.nih.gov/36864053/)
 
 ## Related News:
    - [NC | 提高小麦抗旱性！山东大学研究团队发表最新成果](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247567241&idx=6&sn=714b3cd3bc469f17f2cab72e69922dd7&chksm=eddcec840ee4f1671db16e029b4ba61d81dc43a195d471fd13fc7b63b170caffdf8cf4427050&scene=27#wechat_redirect)

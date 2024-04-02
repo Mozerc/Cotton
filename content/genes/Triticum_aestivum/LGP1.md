@@ -21,10 +21,10 @@ tags: [ seed,endosperm,ssp ]
    - The reduced gluten level in the **LGP1** mutant makes it a good candidate for specific diets for patients with diabetes or kidney diease.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[ssp](/tags/ssp/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[ssp](/tags/ssp/)
 
 ## Literature:
-   - [Unprocessed wheat γ-gliadin reduces gluten accumulation associated with the endoplasmic reticulum stress and elevated cell death.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18316](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35714031](https://pubmed.ncbi.nlm.nih.gov/35714031/)
+   - [Unprocessed wheat γ-gliadin reduces gluten accumulation associated with the endoplasmic reticulum stress and elevated cell death.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18316](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18316);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35714031](https://pubmed.ncbi.nlm.nih.gov/35714031/)
 
 ## Related News:
 

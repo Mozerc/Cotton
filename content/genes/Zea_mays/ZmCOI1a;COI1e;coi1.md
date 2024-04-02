@@ -22,8 +22,8 @@ tags: [ ja,immunity,ja signaling ]
 - [ja](/tags/ja/),&nbsp;&nbsp;[immunity](/tags/immunity/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [Genome-Wide Characterization of Jasmonates Signaling Components Reveals the Essential Role of ZmCOI1a-ZmJAZ15 Action Module in Regulating Maize Immunity to Gibberella Stalk Rot.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms22020870](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33467172](https://pubmed.ncbi.nlm.nih.gov/33467172/)
-   - [Immature leaves are the dominant volatile-sensing organs of maize.]( https://www.cell.com/current-biology/fulltext/S0960-9822(23)00984-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223009843%3Fshowall%3Dtrue).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cub.2023.07.045](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00984-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223009843%3Fshowall%3Dtrue);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37597519](https://pubmed.ncbi.nlm.nih.gov/37597519/)
+   - [Genome-Wide Characterization of Jasmonates Signaling Components Reveals the Essential Role of ZmCOI1a-ZmJAZ15 Action Module in Regulating Maize Immunity to Gibberella Stalk Rot.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms22020870](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830991/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33467172](https://pubmed.ncbi.nlm.nih.gov/33467172/)
+   - [Immature leaves are the dominant volatile-sensing organs of maize.]( https://www.cell.com/current-biology/fulltext/S0960-9822(23)00984-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223009843%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cub.2023.07.045](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00984-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223009843%3Fshowall%3Dtrue);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37597519](https://pubmed.ncbi.nlm.nih.gov/37597519/)
 
 ## Related News:
 

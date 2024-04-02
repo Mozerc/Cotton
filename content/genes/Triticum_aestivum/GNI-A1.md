@@ -20,10 +20,10 @@ tags: [ transcription factor,growth,development,spikelet,grain,fertility,grain n
    - The RNAi-based knockdown of **GNI1** led to an increase in the number of both fertile florets and grains in hexaploid wheat.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[spikelet](/tags/spikelet/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[spikelet-number](/tags/spikelet-number/)&nbsp;,&nbsp;[spikelet-development](/tags/spikelet-development/)&nbsp;,&nbsp;[grain-growth](/tags/grain-growth/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[spikelet](/tags/spikelet/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[fertility](/tags/fertility/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[spikelet-number](/tags/spikelet-number/),&nbsp;&nbsp;[spikelet-development](/tags/spikelet-development/),&nbsp;&nbsp;[grain-growth](/tags/grain-growth/)
 
 ## Literature:
-   - [Unleashing floret fertility in wheat through the mutation of a homeobox gene.]( https://www.pnas.org/doi/abs/10.1073/pnas.1815465116?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1815465116](https://www.pnas.org/doi/abs/10.1073/pnas.1815465116?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30792353](https://pubmed.ncbi.nlm.nih.gov/30792353/)
+   - [Unleashing floret fertility in wheat through the mutation of a homeobox gene.]( https://www.pnas.org/doi/abs/10.1073/pnas.1815465116?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1815465116](https://www.pnas.org/doi/abs/10.1073/pnas.1815465116?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30792353](https://pubmed.ncbi.nlm.nih.gov/30792353/)
 
 ## Related News:
 

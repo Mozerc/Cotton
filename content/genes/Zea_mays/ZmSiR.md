@@ -23,8 +23,8 @@ tags: [ leaf,seedling ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[seedling](/tags/seedling/)
 
 ## Literature:
-   - [A natural single-nucleotide polymorphism variant in sulfite reductase influences sulfur assimilation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17616).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17616](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17616);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34254312](https://pubmed.ncbi.nlm.nih.gov/34254312/)
-   - [Multiomics approach reveals a role of translational machinery in shaping maize kernel amino acid composition.]( https://academic.oup.com/plphys/article/188/1/111/6352510?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab390](https://academic.oup.com/plphys/article/188/1/111/6352510?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618082](https://pubmed.ncbi.nlm.nih.gov/34618082/)
+   - [A natural single-nucleotide polymorphism variant in sulfite reductase influences sulfur assimilation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17616)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17616](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17616);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34254312](https://pubmed.ncbi.nlm.nih.gov/34254312/)
+   - [Multiomics approach reveals a role of translational machinery in shaping maize kernel amino acid composition.]( https://academic.oup.com/plphys/article/188/1/111/6352510?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab390](https://academic.oup.com/plphys/article/188/1/111/6352510?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618082](https://pubmed.ncbi.nlm.nih.gov/34618082/)
 
 ## Related News:
    - [中国农业大学贺岩/谭伟明/李溱科研团队揭示玉米亚硫酸盐还原酶中的天然SNP影响硫同化过程](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247518845&idx=3&sn=d7cd81c658129881a459db4bd519c3f1&chksm=e8bdf863dfca7175d48236c899342b39b206c11a655410e52e12eef21c4969a9e301ec7f3cf1&scene=27#wechat_redirect)

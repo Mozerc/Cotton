@@ -21,10 +21,10 @@ tags: [ grain,grain size,resistance,ja,defense,immunity,innate immunity,grain we
    - Overexpression of **TaSTT3b-2B** increased grain size in transgenic wheat with R.cerealis infection.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[innate-immunity](/tags/innate-immunity/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[plant-immunity](/tags/plant-immunity/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[immunity](/tags/immunity/),&nbsp;&nbsp;[innate-immunity](/tags/innate-immunity/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[plant-immunity](/tags/plant-immunity/)
 
 ## Literature:
-   - [Overexpression of TaSTT3b-2B improves resistance to sharp eyespot and increases grain weight in wheat.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13760](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873799](https://pubmed.ncbi.nlm.nih.gov/34873799/)
+   - [Overexpression of TaSTT3b-2B improves resistance to sharp eyespot and increases grain weight in wheat.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13760](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13760);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873799](https://pubmed.ncbi.nlm.nih.gov/34873799/)
 
 ## Related News:
    - [PBJ | 中国农科院作物所张增艳研究组鉴定出小麦纹枯病抗性基因TaSTT3b-2B，为小麦抗病生物育种提供了基因储备和材料基础](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247522004&idx=1&sn=b34b448ae478a29c44d0bd7d55d6dce8&chksm=ce903b81f9e7b297527f455e1f97e670fa873ec283168de33569f95887d364a54a8077f9071f&scene=27#wechat_redirect)

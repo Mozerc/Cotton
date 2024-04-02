@@ -24,7 +24,7 @@ tags: [ transcription factor,development,cell proliferation ]
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[cell-proliferation](/tags/cell-proliferation/)
 
 ## Literature:
-   - [Loss of Function of an RNA Polymerase III Subunit Leads to Impaired Maize Kernel Development.]( https://academic.oup.com/plphys/article/184/1/359/6117828?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00502](https://academic.oup.com/plphys/article/184/1/359/6117828?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32591429](https://pubmed.ncbi.nlm.nih.gov/32591429/)
+   - [Loss of Function of an RNA Polymerase III Subunit Leads to Impaired Maize Kernel Development.]( https://academic.oup.com/plphys/article/184/1/359/6117828?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.00502](https://academic.oup.com/plphys/article/184/1/359/6117828?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32591429](https://pubmed.ncbi.nlm.nih.gov/32591429/)
 
 ## Related News:
    - [华中农业大学玉米团队邱法展课题组揭示玉米籽粒发育调控新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491434&idx=4&sn=e72870bd68163b4e9f3ada139b53b1a1&chksm=ce93b23ff9e43b297bdb51cb1d0ee362803af3ec6b8f85144c4e636c6bc1106321100a164228&scene=27#wechat_redirect)

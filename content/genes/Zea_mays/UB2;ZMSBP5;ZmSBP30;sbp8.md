@@ -23,8 +23,8 @@ tags: [ development,inflorescence,inflorescence development ]
 - [development](/tags/development/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[inflorescence-development](/tags/inflorescence-development/)
 
 ## Literature:
-   - [UB2/UB3/TSH4-anchored transcriptional networks regulate early maize inflorescence development in response to simulated shade.]( https://academic.oup.com/plcell/article/35/2/717/6874368?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac352](https://academic.oup.com/plcell/article/35/2/717/6874368?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36472157](https://pubmed.ncbi.nlm.nih.gov/36472157/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [UB2/UB3/TSH4-anchored transcriptional networks regulate early maize inflorescence development in response to simulated shade.]( https://academic.oup.com/plcell/article/35/2/717/6874368?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac352](https://academic.oup.com/plcell/article/35/2/717/6874368?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36472157](https://pubmed.ncbi.nlm.nih.gov/36472157/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
 
 ## Related News:
 

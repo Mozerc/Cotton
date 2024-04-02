@@ -22,7 +22,7 @@ tags: [ development,auxin,iaa,auxin biosynthesis,endosperm,endosperm development
 - [development](/tags/development/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/)
 
 ## Literature:
-   - [Impaired auxin biosynthesis in the defective endosperm18 mutant is due to mutational loss of expression in the ZmYuc1 gene encoding endosperm-specific YUCCA1 protein in maize.]( https://academic.oup.com/plphys/article/160/3/1318/6109423?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.112.204743](https://academic.oup.com/plphys/article/160/3/1318/6109423?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22961134](https://pubmed.ncbi.nlm.nih.gov/22961134/)
+   - [Impaired auxin biosynthesis in the defective endosperm18 mutant is due to mutational loss of expression in the ZmYuc1 gene encoding endosperm-specific YUCCA1 protein in maize.]( https://academic.oup.com/plphys/article/160/3/1318/6109423?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.112.204743](https://academic.oup.com/plphys/article/160/3/1318/6109423?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22961134](https://pubmed.ncbi.nlm.nih.gov/22961134/)
 
 ## Related News:
 

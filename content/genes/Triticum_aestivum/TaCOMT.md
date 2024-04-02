@@ -19,10 +19,10 @@ tags: [ development,drought,tolerance,drought tolerance,breeding,melatonin ]
    - **TaCOMT** Conferred Drought Tolerance in Transgenic Arabidopsis.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[melatonin](/tags/melatonin/)
+   - [development](/tags/development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[melatonin](/tags/melatonin/)
 
 ## Literature:
-   - [Characterization of TaCOMT genes associated with stem lignin content in common wheat and development of a gene-specific marker]( https://www.sciencedirect.com/science/article/pii/S2095311918619586?via%3Dihub#section-cited-by)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(18)61958-6](https://www.sciencedirect.com/science/article/pii/S2095311918619586?via%3Dihub#section-cited-by)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Characterization of TaCOMT genes associated with stem lignin content in common wheat and development of a gene-specific marker]( https://www.sciencedirect.com/science/article/pii/S2095311918619586?via%3Dihub#section-cited-by)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(18)61958-6](https://www.sciencedirect.com/science/article/pii/S2095311918619586?via%3Dihub#section-cited-by);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [JIA &quot;麦类研究&quot;文章精选](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487382&idx=6&sn=c0a5c58d0ac564ede794a61d7504dff2&chksm=ce93a2c3f9e42bd5e326e89a0f3511453e55ebf95b90e9a3a92be89ddc3c923ac471e5ac0123&scene=27#wechat_redirect)

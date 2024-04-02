@@ -22,8 +22,8 @@ tags: [ leaf,transcription factor,leaf angle ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
-   - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
-   - [Genetic architecture affecting maize agronomic traits identified by variance heterogeneity association mapping.]( https://www.sciencedirect.com/science/article/pii/S088875432100135X?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ygeno.2021.04.009](https://www.sciencedirect.com/science/article/pii/S088875432100135X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33839267](https://pubmed.ncbi.nlm.nih.gov/33839267/)
+   - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
+   - [Genetic architecture affecting maize agronomic traits identified by variance heterogeneity association mapping.]( https://www.sciencedirect.com/science/article/pii/S088875432100135X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ygeno.2021.04.009](https://www.sciencedirect.com/science/article/pii/S088875432100135X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33839267](https://pubmed.ncbi.nlm.nih.gov/33839267/)
 
 ## Related News:
 

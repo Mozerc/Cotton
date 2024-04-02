@@ -21,7 +21,7 @@ tags: [ kinase,aba,protein kinase ]
 - [kinase](/tags/kinase/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/)
 
 ## Literature:
-   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
+   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
 
 ## Related News:
 

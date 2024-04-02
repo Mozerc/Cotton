@@ -20,10 +20,10 @@ tags: [ kinase,grain,br,br signaling,drought,grain quality,quality,tolerance,dro
    - Multiple origins of Indian dwarf wheat by mutations targeting the TREE domain of a GSK3-like kinase for drought tolerance, phosphate uptake, and grain quality
 
 ## Function-related keywords:
-   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphate-signaling](/tags/phosphate-signaling/)
+   - [kinase](/tags/kinase/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[br-signaling](/tags/br-signaling/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[grain-quality](/tags/grain-quality/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[phosphate-signaling](/tags/phosphate-signaling/)
 
 ## Literature:
-   - [Multiple origins of Indian dwarf wheat by mutations targeting the TREE domain of a GSK3-like kinase for drought tolerance, phosphate uptake, and grain quality.]( https://link.springer.com/article/10.1007/s00122-020-03719-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-020-03719-5](https://link.springer.com/article/10.1007/s00122-020-03719-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33164159](https://pubmed.ncbi.nlm.nih.gov/33164159/)
+   - [Multiple origins of Indian dwarf wheat by mutations targeting the TREE domain of a GSK3-like kinase for drought tolerance, phosphate uptake, and grain quality.]( https://link.springer.com/article/10.1007/s00122-020-03719-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-020-03719-5](https://link.springer.com/article/10.1007/s00122-020-03719-5);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33164159](https://pubmed.ncbi.nlm.nih.gov/33164159/)
 
 ## Related News:
 

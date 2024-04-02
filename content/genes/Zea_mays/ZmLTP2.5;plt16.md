@@ -22,7 +22,7 @@ tags: [ development,plant development,fertility,pollen,anther,stress,seed,seed g
 - [development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[fertility](/tags/fertility/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[anther](/tags/anther/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[pollen-development](/tags/pollen-development/),&nbsp;&nbsp;[vegetative](/tags/vegetative/),&nbsp;&nbsp;[anther-development](/tags/anther-development/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[male-fertility](/tags/male-fertility/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[pollen-fertility](/tags/pollen-fertility/),&nbsp;&nbsp;[pollen-germination](/tags/pollen-germination/)
 
 ## Literature:
-   - [A Systematic Investigation of Lipid Transfer Proteins Involved in Male Fertility and Other Biological Processes in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021660](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36675174](https://pubmed.ncbi.nlm.nih.gov/36675174/)
+   - [A Systematic Investigation of Lipid Transfer Proteins Involved in Male Fertility and Other Biological Processes in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021660](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36675174](https://pubmed.ncbi.nlm.nih.gov/36675174/)
 
 ## Related News:
 

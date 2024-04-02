@@ -21,7 +21,7 @@ tags: [ drought,stress,drought stress,pi ]
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[pi](/tags/pi/)
 
 ## Literature:
-   - [Systematic analysis of differentially expressed ZmMYB genes related to drought stress in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8212317/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s12298-021-01013-2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8212317/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34177148](https://pubmed.ncbi.nlm.nih.gov/34177148/)
+   - [Systematic analysis of differentially expressed ZmMYB genes related to drought stress in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8212317/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s12298-021-01013-2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8212317/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34177148](https://pubmed.ncbi.nlm.nih.gov/34177148/)
 
 ## Related News:
 

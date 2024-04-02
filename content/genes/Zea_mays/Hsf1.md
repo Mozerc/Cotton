@@ -24,8 +24,8 @@ tags: [ leaf,sheath,cytokinin,leaf patterning ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[sheath](/tags/sheath/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/),&nbsp;&nbsp;[leaf-patterning](/tags/leaf-patterning/)
 
 ## Literature:
-   - [The Maize Hairy Sheath Frayed1 (Hsf1) Mutation Alters Leaf Patterning through Increased Cytokinin Signaling.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203929/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00677](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203929/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32205456](https://pubmed.ncbi.nlm.nih.gov/32205456/)
-   - [Genetic and Hormonal Blueprint of Shoot-Borne Adventitious Root Development in Rice and Maize.]( https://academic.oup.com/pcp/article/63/12/1806/6609709).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcac084](https://academic.oup.com/pcp/article/63/12/1806/6609709);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35713294](https://pubmed.ncbi.nlm.nih.gov/35713294/)
+   - [The Maize Hairy Sheath Frayed1 (Hsf1) Mutation Alters Leaf Patterning through Increased Cytokinin Signaling.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203929/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00677](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203929/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32205456](https://pubmed.ncbi.nlm.nih.gov/32205456/)
+   - [Genetic and Hormonal Blueprint of Shoot-Borne Adventitious Root Development in Rice and Maize.]( https://academic.oup.com/pcp/article/63/12/1806/6609709)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcac084](https://academic.oup.com/pcp/article/63/12/1806/6609709);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35713294](https://pubmed.ncbi.nlm.nih.gov/35713294/)
 
 ## Related News:
 

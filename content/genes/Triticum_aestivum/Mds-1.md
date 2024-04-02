@@ -21,10 +21,10 @@ tags: [ development,resistance,immunity,resistant,lesion,powdery mildew,mildew r
    - Silencing of Mayetiola destructor susceptibility-1 by RNA interference confers immunity to all Hessian fly biotypes on normally susceptible wheat genotypes. Mayetiola destructor susceptibility-1-silenced plants also show reduced lesion formation due to infection by the powdery mildew fungus Blumeria graminis f. sp. tritici.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[lesion](/tags/lesion/)&nbsp;,&nbsp;[powdery-mildew](/tags/powdery-mildew/)&nbsp;,&nbsp;[mildew-resistance](/tags/mildew-resistance/)&nbsp;,&nbsp;[mildew](/tags/mildew/)&nbsp;,&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
+   - [development](/tags/development/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[immunity](/tags/immunity/),&nbsp;&nbsp;[resistant](/tags/resistant/),&nbsp;&nbsp;[lesion](/tags/lesion/),&nbsp;&nbsp;[powdery-mildew](/tags/powdery-mildew/),&nbsp;&nbsp;[mildew-resistance](/tags/mildew-resistance/),&nbsp;&nbsp;[mildew](/tags/mildew/),&nbsp;&nbsp;[powdery-mildew-resistance](/tags/powdery-mildew-resistance/)
 
 ## Literature:
-   - [Wheat Mds-1 encodes a heat-shock protein and governs susceptibility towards the Hessian fly gall midge.]( https://www.nature.com/articles/ncomms3070#Abs1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms3070](https://www.nature.com/articles/ncomms3070#Abs1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23792912](https://pubmed.ncbi.nlm.nih.gov/23792912/)
+   - [Wheat Mds-1 encodes a heat-shock protein and governs susceptibility towards the Hessian fly gall midge.]( https://www.nature.com/articles/ncomms3070#Abs1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms3070](https://www.nature.com/articles/ncomms3070#Abs1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23792912](https://pubmed.ncbi.nlm.nih.gov/23792912/)
 
 ## Related News:
 

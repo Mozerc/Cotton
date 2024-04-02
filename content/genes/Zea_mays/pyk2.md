@@ -22,7 +22,7 @@ tags: [ root,shoot,root number ]
 - [root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
-   - [Mining genes regulating root system architecture in maize based on data integration analysis.]( https://link.springer.com/article/10.1007/s00122-023-04376-0).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04376-0](https://link.springer.com/article/10.1007/s00122-023-04376-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37188973](https://pubmed.ncbi.nlm.nih.gov/37188973/)
+   - [Mining genes regulating root system architecture in maize based on data integration analysis.]( https://link.springer.com/article/10.1007/s00122-023-04376-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04376-0](https://link.springer.com/article/10.1007/s00122-023-04376-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37188973](https://pubmed.ncbi.nlm.nih.gov/37188973/)
 
 ## Related News:
 

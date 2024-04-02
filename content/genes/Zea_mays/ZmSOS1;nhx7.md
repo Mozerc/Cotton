@@ -24,7 +24,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance,breeding ]
 - [root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
-   - [The classical SOS pathway confers natural variation of salt tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18278](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35633114](https://pubmed.ncbi.nlm.nih.gov/35633114/)
+   - [The classical SOS pathway confers natural variation of salt tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18278](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18278);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35633114](https://pubmed.ncbi.nlm.nih.gov/35633114/)
 
 ## Related News:
    - [New Phytologist | 中国农大蒋才富团队揭示玉米中植物耐盐经典通路的功能及其自然变异](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247530166&idx=3&sn=28cb95166d3b678a62a6185ab29612ad&chksm=ce90dbe3f9e752f55bbe04c16cf4acb2f34f6b856ab9854b0fd6481d37b3451f12926af00a6a&scene=27#wechat_redirect)

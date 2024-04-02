@@ -20,10 +20,10 @@ tags: [ development,grain,pollen,starch,pollen development,endosperm,endosperm d
    - Mutants lacking TaSS4 produce aberrant endosperm starch.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+   - [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[pollen-development](/tags/pollen-development/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [STARCH SYNTHASE 4 is required for normal starch granule initiation in amyloplasts of wheat endosperm.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17342](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17342)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33714222](https://pubmed.ncbi.nlm.nih.gov/33714222/)
+   - [STARCH SYNTHASE 4 is required for normal starch granule initiation in amyloplasts of wheat endosperm.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17342](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17342);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33714222](https://pubmed.ncbi.nlm.nih.gov/33714222/)
 
 ## Related News:
 

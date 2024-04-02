@@ -22,7 +22,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Efficient parthenogenesis via egg cell expression of maize BABY BOOM 1: a step toward synthetic apomixis.]( https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad461](https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37610248](https://pubmed.ncbi.nlm.nih.gov/37610248/)
+   - [Efficient parthenogenesis via egg cell expression of maize BABY BOOM 1: a step toward synthetic apomixis.]( https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad461](https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37610248](https://pubmed.ncbi.nlm.nih.gov/37610248/)
 
 ## Related News:
 

@@ -24,7 +24,7 @@ tags: [ development,plant development,defense response,defense ]
 - [development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/)
 
 ## Literature:
-   - [The maize ZmVPS23-like protein relocates the nucleotide-binding leucine-rich repeat protein Rp1-D21 to endosomes and suppresses the defense response.]( https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad061](https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36869653](https://pubmed.ncbi.nlm.nih.gov/36869653/)
+   - [The maize ZmVPS23-like protein relocates the nucleotide-binding leucine-rich repeat protein Rp1-D21 to endosomes and suppresses the defense response.]( https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad061](https://academic.oup.com/plcell/article/35/6/2369/7068313?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36869653](https://pubmed.ncbi.nlm.nih.gov/36869653/)
 
 ## Related News:
    - [山东大学王官锋团队解析ZmVPS23L在玉米NLR蛋白介导防卫反应中的分子机理](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247567200&idx=2&sn=3609c2b02c0c41028269a91e20420b3c&chksm=e4d5f57406ecf38c157869e633262f2bc0659d07c043944ab05c6c395a0467bc84d2092c41df&scene=27#wechat_redirect)

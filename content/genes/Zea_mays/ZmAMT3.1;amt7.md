@@ -25,9 +25,9 @@ tags: [ transporter ]
 - [transporter](/tags/transporter/)
 
 ## Literature:
-   - [The mycorrhiza-specific ammonium transporter ZmAMT3;1 mediates mycorrhiza-dependent nitrogen uptake in maize roots.]( https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac225](https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35880836](https://pubmed.ncbi.nlm.nih.gov/35880836/)
-   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
-   - [Dynamic transcriptome landscape of maize pericarp development.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16548).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16548](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16548);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37970738](https://pubmed.ncbi.nlm.nih.gov/37970738/)
+   - [The mycorrhiza-specific ammonium transporter ZmAMT3;1 mediates mycorrhiza-dependent nitrogen uptake in maize roots.]( https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac225](https://academic.oup.com/plcell/article/34/10/4066/6650110?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35880836](https://pubmed.ncbi.nlm.nih.gov/35880836/)
+   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
+   - [Dynamic transcriptome landscape of maize pericarp development.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16548)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16548](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16548);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37970738](https://pubmed.ncbi.nlm.nih.gov/37970738/)
 
 ## Related News:
    - [The Plant Cell | 研究揭示玉米根系依赖菌根共生吸收氮素的机制！](https://mp.weixin.qq.com/s/te4xUFNJzWLNQ8ISRpEQdw)

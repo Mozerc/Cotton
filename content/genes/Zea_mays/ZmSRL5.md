@@ -22,7 +22,7 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 - [drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[drought-sensitivity](/tags/drought-sensitivity/),&nbsp;&nbsp;[cuticular-wax-formation](/tags/cuticular-wax-formation/)
 
 ## Literature:
-   - [ZmSRL5 is involved in drought tolerance by maintaining cuticular wax structure in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12982 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32965083](https://pubmed.ncbi.nlm.nih.gov/32965083/)
+   - [ZmSRL5 is involved in drought tolerance by maintaining cuticular wax structure in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12982 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12982);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32965083](https://pubmed.ncbi.nlm.nih.gov/32965083/)
 
 ## Related News:
    - [JIPB | 华中农大玉米团队邱法展课题组发现玉米调控抗旱的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491172&idx=3&sn=25d925616879005a6adb63d0e3bfe476&chksm=ce93b331f9e43a277d83cbefab59a9754e56d07c78594d89e2beb0e91477b590dcc8bf66f5fd&scene=27#wechat_redirect)

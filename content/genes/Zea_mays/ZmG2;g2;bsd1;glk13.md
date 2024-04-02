@@ -24,7 +24,7 @@ tags: [ drought,stress,drought stress,photosynthesis,tolerance,abiotic stress,ab
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[photosynthesis](/tags/photosynthesis/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [Maize GOLDEN2-LIKE proteins enhance drought tolerance in rice by promoting stomatal closure.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad561](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37850886](https://pubmed.ncbi.nlm.nih.gov/37850886/)
+   - [Maize GOLDEN2-LIKE proteins enhance drought tolerance in rice by promoting stomatal closure.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad561](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37850886](https://pubmed.ncbi.nlm.nih.gov/37850886/)
 
 ## Related News:
 

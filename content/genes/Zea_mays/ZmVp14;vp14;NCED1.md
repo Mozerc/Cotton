@@ -22,7 +22,7 @@ tags: [ leaf,stress,salinity,aba,salinity stress,stomatal,aba biosynthesis,osmot
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[salinity](/tags/salinity/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[salinity-stress](/tags/salinity-stress/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/),&nbsp;&nbsp;[osmotic-stress](/tags/osmotic-stress/)
 
 ## Literature:
-   - [Leaf apoplastic alkalization promotes transcription of the ABA-synthesizing enzyme Vp14 and stomatal closure in Zea mays.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006549/#CIT0054).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa589](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006549/#CIT0054);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33345268](https://pubmed.ncbi.nlm.nih.gov/33345268/)
+   - [Leaf apoplastic alkalization promotes transcription of the ABA-synthesizing enzyme Vp14 and stomatal closure in Zea mays.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006549/#CIT0054)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa589](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006549/#CIT0054);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33345268](https://pubmed.ncbi.nlm.nih.gov/33345268/)
 
 ## Related News:
 

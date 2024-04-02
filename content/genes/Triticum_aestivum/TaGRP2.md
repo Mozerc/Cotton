@@ -21,10 +21,10 @@ tags: [ nucleus,cold,flowering,vernalization ]
    - **TaGRP2** protein accumulation in the nucleus and/or promotes **TaGRP2** dissociation from TaVRN1, leading to TaVRN1 mRNA accumulation. Our data reveal a new mechanism for sensing prolonged cold in temperate cereals.
 
 ## Function-related keywords:
-   - [nucleus](/tags/nucleus/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
+   - [nucleus](/tags/nucleus/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[vernalization](/tags/vernalization/)
 
 ## Literature:
-   - [O-GlcNAc-mediated interaction between VER2 and TaGRP2 elicits TaVRN1 mRNA accumulation during vernalization in winter wheat.]( https://www.nature.com/articles/ncomms5572)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms5572](https://www.nature.com/articles/ncomms5572)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25091017](https://pubmed.ncbi.nlm.nih.gov/25091017/)
+   - [O-GlcNAc-mediated interaction between VER2 and TaGRP2 elicits TaVRN1 mRNA accumulation during vernalization in winter wheat.]( https://www.nature.com/articles/ncomms5572)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms5572](https://www.nature.com/articles/ncomms5572);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25091017](https://pubmed.ncbi.nlm.nih.gov/25091017/)
 
 ## Related News:
 

@@ -22,8 +22,8 @@ tags: [ leaf,development,kinase,leaf development,endosperm,protein kinase,endosp
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [Zea mays GSK2 gene is involved in brassinosteroid signaling]( https://link.springer.com/article/10.1007/s10725-022-00806-z).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00806-z](https://link.springer.com/article/10.1007/s10725-022-00806-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
+   - [Zea mays GSK2 gene is involved in brassinosteroid signaling]( https://link.springer.com/article/10.1007/s10725-022-00806-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00806-z](https://link.springer.com/article/10.1007/s10725-022-00806-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
 
 ## Related News:
 

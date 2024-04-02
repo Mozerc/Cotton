@@ -21,7 +21,7 @@ tags: [ height,flowering time,flowering ]
 - [height](/tags/height/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [CUBIC: an atlas of genetic architecture promises directed maize improvement.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-020-1930-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31980033](https://pubmed.ncbi.nlm.nih.gov/31980033/)
+   - [CUBIC: an atlas of genetic architecture promises directed maize improvement.]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s13059-020-1930-x](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1930-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31980033](https://pubmed.ncbi.nlm.nih.gov/31980033/)
 
 ## Related News:
 

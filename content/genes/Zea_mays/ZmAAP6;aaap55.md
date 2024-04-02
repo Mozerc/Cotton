@@ -24,7 +24,7 @@ tags: [ quality,transporter,endosperm,nutritional quality,amino acid transporter
 - [quality](/tags/quality/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[nutritional-quality](/tags/nutritional-quality/),&nbsp;&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)
 
 ## Literature:
-   - [Amino acid permease 6 regulates grain protein content in maize]( https://www.sciencedirect.com/science/article/pii/S2214514122000794).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.03.007](https://www.sciencedirect.com/science/article/pii/S2214514122000794);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Amino acid permease 6 regulates grain protein content in maize]( https://www.sciencedirect.com/science/article/pii/S2214514122000794)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.03.007](https://www.sciencedirect.com/science/article/pii/S2214514122000794);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | 金危危团队揭示氨基酸通透酶参与调控玉米籽粒蛋白含量](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247528686&idx=3&sn=7b576ba1b3ef1ea660bb5cc92b0fdff6&chksm=ce90ddbbf9e754ad7952399ecbfd77c3a9e3d364ed8705879d592edda28a87edc1da17602b93&scene=27#wechat_redirect)

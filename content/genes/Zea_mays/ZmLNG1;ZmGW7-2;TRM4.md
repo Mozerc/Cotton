@@ -25,7 +25,7 @@ tags: [ leaf,leaf shape ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-shape](/tags/leaf-shape/)
 
 ## Literature:
-   - [Natural variation of ZmLNG1 alters organ shapes in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18563).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18563](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18563);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36266960](https://pubmed.ncbi.nlm.nih.gov/36266960/)
+   - [Natural variation of ZmLNG1 alters organ shapes in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18563)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18563](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18563);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36266960](https://pubmed.ncbi.nlm.nih.gov/36266960/)
 
 ## Related News:
    - [New Phytol | 上海师范大学黄学辉团队鉴定到杂交玉米中调控多器官形态的QTL基因](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247523298&idx=2&sn=a94f0bcf0de169634b0b1fb903b61fad&chksm=fd730185ca048893a159ba30b354eb6065f8c33f7d468ce590f524d25f266823c2028a63ed2f&scene=27#wechat_redirect)

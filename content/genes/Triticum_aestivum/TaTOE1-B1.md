@@ -20,10 +20,10 @@ tags: [ flowering time,flowering,photoperiod response,photoperiod ]
    - Significant association was observed in the GEDIFLUX collection for **TaTOE1-B1**, a putative flowering repressor.
 
 ## Function-related keywords:
-   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[photoperiod-response](/tags/photoperiod-response/),&nbsp;&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
-   - [Effect of Flowering Time-Related Genes on Biomass, Harvest Index, and Grain Yield in CIMMYT Elite Spring Bread Wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13018)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/biology10090855](https://onlinelibrary.wiley.com/doi/10.1111/pce.13018)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34571732](https://pubmed.ncbi.nlm.nih.gov/34571732/)
+   - [Effect of Flowering Time-Related Genes on Biomass, Harvest Index, and Grain Yield in CIMMYT Elite Spring Bread Wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13018)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/biology10090855](https://onlinelibrary.wiley.com/doi/10.1111/pce.13018);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34571732](https://pubmed.ncbi.nlm.nih.gov/34571732/)
 
 ## Related News:
 

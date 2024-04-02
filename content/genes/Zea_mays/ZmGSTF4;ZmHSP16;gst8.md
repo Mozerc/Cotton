@@ -22,7 +22,7 @@ tags: [ stress ]
 - [stress](/tags/stress/)
 
 ## Literature:
-   - [Role of ZmGST Gene Family Involved in Nicosulfuron Stress Tolerance Revealed by Genomic and Transcriptomic Analyses]( https://www.mdpi.com/2073-4395/12/11/2598).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy12112598](https://www.mdpi.com/2073-4395/12/11/2598);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Role of ZmGST Gene Family Involved in Nicosulfuron Stress Tolerance Revealed by Genomic and Transcriptomic Analyses]( https://www.mdpi.com/2073-4395/12/11/2598)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy12112598](https://www.mdpi.com/2073-4395/12/11/2598);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

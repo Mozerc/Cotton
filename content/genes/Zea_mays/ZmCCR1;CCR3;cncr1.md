@@ -22,7 +22,7 @@ tags: [ growth,development,plant development,drought,plant growth ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
-   - [Characterization of a cinnamoyl-CoA reductase 1 (CCR1) mutant in maize: effects on lignification, fibre development, and global gene expression.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/err077](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21493812](https://pubmed.ncbi.nlm.nih.gov/21493812/)
+   - [Characterization of a cinnamoyl-CoA reductase 1 (CCR1) mutant in maize: effects on lignification, fibre development, and global gene expression.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/err077](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21493812](https://pubmed.ncbi.nlm.nih.gov/21493812/)
 
 ## Related News:
 

@@ -21,7 +21,7 @@ tags: [ xylem,potassium,homeostasis,transporter ]
 - [xylem](/tags/xylem/),&nbsp;&nbsp;[potassium](/tags/potassium/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
-   - [Identification of Germplasm and Sugar Transporter Gene ZmSWEET1b Associated with Salt Tolerance in Maize ]( https://link.springer.com/article/10.1007/s00344-023-11033-9).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11033-9](https://link.springer.com/article/10.1007/s00344-023-11033-9);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Identification of Germplasm and Sugar Transporter Gene ZmSWEET1b Associated with Salt Tolerance in Maize ]( https://link.springer.com/article/10.1007/s00344-023-11033-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11033-9](https://link.springer.com/article/10.1007/s00344-023-11033-9);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

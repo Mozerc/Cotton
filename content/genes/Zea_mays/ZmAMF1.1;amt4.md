@@ -22,7 +22,7 @@ tags: [ nitrogen,growth ]
 - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[growth](/tags/growth/)
 
 ## Literature:
-   - [Tissue and nitrogen-linked expression profiles of ammonium and nitrate transporters in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1768-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31109290](https://pubmed.ncbi.nlm.nih.gov/31109290/)
+   - [Tissue and nitrogen-linked expression profiles of ammonium and nitrate transporters in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1768-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31109290](https://pubmed.ncbi.nlm.nih.gov/31109290/)
 
 ## Related News:
 

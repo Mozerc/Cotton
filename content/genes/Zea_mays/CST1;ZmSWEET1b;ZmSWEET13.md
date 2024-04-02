@@ -26,7 +26,7 @@ tags: [ senescence,map-based cloning,salt,photosynthesis,tolerance,salt toleranc
 - [senescence](/tags/senescence/),&nbsp;&nbsp;[map-based-cloning](/tags/map-based-cloning/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[photosynthesis](/tags/photosynthesis/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[stomatal](/tags/stomatal/)
 
 ## Literature:
-   - [A Subsidiary Cell-Localized Glucose Transporter Promotes Stomatal Conductance and Photosynthesis.]( https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00736](https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30996077](https://pubmed.ncbi.nlm.nih.gov/30996077/)
+   - [A Subsidiary Cell-Localized Glucose Transporter Promotes Stomatal Conductance and Photosynthesis.]( https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00736](https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30996077](https://pubmed.ncbi.nlm.nih.gov/30996077/)
 
 ## Related News:
    - [Plant Cell | 中国农科院生物技术所揭示调控玉米气孔开关和光合作用的新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247490407&idx=3&sn=9ef4440e20bac174261ed09beca215c9&chksm=fd708100ca070816484e85ef4f50073485a7cab7fdfaae02cc5de699554dfe71fd1b9eed0bc1&scene=27#wechat_redirect)

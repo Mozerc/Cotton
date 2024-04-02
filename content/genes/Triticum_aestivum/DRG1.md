@@ -21,10 +21,10 @@ tags: [ grain,grain length,br,height,plant height,grain shape,grain protein,acti
    - **DRG1**-D affects the BR response.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[grain-shape](/tags/grain-shape/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)&nbsp;,&nbsp;[actin-protein](/tags/actin-protein/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[grain-shape](/tags/grain-shape/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/),&nbsp;&nbsp;[actin-protein](/tags/actin-protein/)
 
 ## Literature:
-   - [A Glu209Lys substitution in DRG1/TaACT7, which disturbs F-actin organization, reduces plant height and grain length in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19246)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19246](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19246)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37668262](https://pubmed.ncbi.nlm.nih.gov/37668262/)
+   - [A Glu209Lys substitution in DRG1/TaACT7, which disturbs F-actin organization, reduces plant height and grain length in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19246)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19246](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19246);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37668262](https://pubmed.ncbi.nlm.nih.gov/37668262/)
 
 ## Related News:
    - [New Phytologist | 中国农业科学院作物科学研究所小麦基因资源挖掘与利用创新团队揭示小麦株高和粒形调控新机制!](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247555974&idx=3&sn=a60e7d7d408b1dea0eab4f59ce64ff9d&chksm=2c98f93c81f3fa2a4bf0b0213069d5c6f7f4003e900168eaf3ac14d28636ce568c179ca869cc&scene=27#wechat_redirect)

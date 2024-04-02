@@ -22,7 +22,7 @@ tags: [ root,growth,development,down-regulated genes,root development,root growt
 - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[down-regulated-genes](/tags/down-regulated-genes/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/)
 
 ## Literature:
-   - [Histone acetylation associated up-regulation of the cell wall related genes is involved in salt stress induced maize root swelling.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2229-14-105](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24758373](https://pubmed.ncbi.nlm.nih.gov/24758373/)
+   - [Histone acetylation associated up-regulation of the cell wall related genes is involved in salt stress induced maize root swelling.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2229-14-105](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24758373](https://pubmed.ncbi.nlm.nih.gov/24758373/)
 
 ## Related News:
 

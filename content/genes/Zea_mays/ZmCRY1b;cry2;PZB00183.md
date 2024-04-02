@@ -23,8 +23,8 @@ tags: [ resistance,seedling,ga,lodging,lodging resistance,height,plant height ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[lodging](/tags/lodging/),&nbsp;&nbsp;[lodging-resistance](/tags/lodging-resistance/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [Cryptochrome 1b represses gibberellin signaling to enhance lodging resistance in maize.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad546/7338758?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad546](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad546/7338758?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37934825](https://pubmed.ncbi.nlm.nih.gov/37934825/)
-   - [Maize cryptochromes 1a1 and 1a2 promote seedling photomorphogenesis and shade resistance in Zea mays and Arabidopsis]( https://www.sciencedirect.com/science/article/pii/S2214514123000429?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.03.011](https://www.sciencedirect.com/science/article/pii/S2214514123000429?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Cryptochrome 1b represses gibberellin signaling to enhance lodging resistance in maize.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad546/7338758?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad546](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad546/7338758?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37934825](https://pubmed.ncbi.nlm.nih.gov/37934825/)
+   - [Maize cryptochromes 1a1 and 1a2 promote seedling photomorphogenesis and shade resistance in Zea mays and Arabidopsis]( https://www.sciencedirect.com/science/article/pii/S2214514123000429?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.03.011](https://www.sciencedirect.com/science/article/pii/S2214514123000429?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

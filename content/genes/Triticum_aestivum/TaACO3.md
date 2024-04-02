@@ -21,7 +21,7 @@ tags: [  ]
    - [](/tags//)
 
 ## Literature:
-   - [The TuMYB46L-TuACO3 module regulates ethylene biosynthesis in einkorn wheat defense to powdery mildew.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16305)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16305](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16305)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31675430](https://pubmed.ncbi.nlm.nih.gov/31675430/)
+   - [The TuMYB46L-TuACO3 module regulates ethylene biosynthesis in einkorn wheat defense to powdery mildew.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16305)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16305](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16305);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31675430](https://pubmed.ncbi.nlm.nih.gov/31675430/)
 
 ## Related News:
 

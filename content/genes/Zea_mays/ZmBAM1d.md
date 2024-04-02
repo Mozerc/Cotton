@@ -23,7 +23,7 @@ tags: [ development,kinase,seed,meristem,seed weight,protein kinase,plasma membr
 - [development](/tags/development/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[seed-weight](/tags/seed-weight/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[receptor-kinase](/tags/receptor-kinase/)
 
 ## Literature:
-   - [Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement.]( https://www.nature.com/articles/s41588-019-0427-6).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0427-6](https://www.nature.com/articles/s41588-019-0427-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31152161](https://pubmed.ncbi.nlm.nih.gov/31152161/)
+   - [Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement.]( https://www.nature.com/articles/s41588-019-0427-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-019-0427-6](https://www.nature.com/articles/s41588-019-0427-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31152161](https://pubmed.ncbi.nlm.nih.gov/31152161/)
 
 ## Related News:
    - [Nature Genet. | 华中农大严建兵团队公布热带玉米高质量基因组，并克隆了一个玉米产量基因](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247490931&idx=1&sn=a5220aaa077df391db46e1c9723147cf&chksm=fd708714ca070e0299e9b1c7401ea75d16c1a2cf55eac9266e22dd33a94efdbb96da3c29eece&scene=27#wechat_redirect)

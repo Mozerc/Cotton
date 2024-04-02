@@ -24,7 +24,7 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[insect](/tags/insect/),&nbsp;&nbsp;[salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[wounding](/tags/wounding/),&nbsp;&nbsp;[insect-resistance](/tags/insect-resistance/)
 
 ## Literature:
-   - [ZmMPK6 and ethylene signalling negatively regulate the accumulation of anti-insect metabolites DIMBOA and DIMBOA-Glc in maize inbred line A188.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16974](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32996127](https://pubmed.ncbi.nlm.nih.gov/32996127/)
+   - [ZmMPK6 and ethylene signalling negatively regulate the accumulation of anti-insect metabolites DIMBOA and DIMBOA-Glc in maize inbred line A188.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16974](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16974);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32996127](https://pubmed.ncbi.nlm.nih.gov/32996127/)
 
 ## Related News:
    - [New Phytologist | 昆明植物所在玉米抗虫次生代谢产物丁布类化合物的合成调控机制研究中取得进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247497704&idx=3&sn=ceb1a2e3e528b585366b7383484cbd3c&chksm=ce905abdf9e7d3abd3ae38dfa6ec3222b411afab91d1ce03fb1a51df97ac9d81a22f9af8d004&scene=27#wechat_redirect)

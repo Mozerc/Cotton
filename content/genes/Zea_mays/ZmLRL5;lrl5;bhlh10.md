@@ -25,8 +25,8 @@ tags: [ transcription factor,root,growth,root elongation,root initiation,root gr
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[root-elongation](/tags/root-elongation/),&nbsp;&nbsp;[root-initiation](/tags/root-initiation/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[root-hair](/tags/root-hair/),&nbsp;&nbsp;[translation-elongation-factor](/tags/translation-elongation-factor/)
 
 ## Literature:
-   - [Characterization of LRL5 as a key regulator of root hair growth in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14200).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14200](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14200);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30556198](https://pubmed.ncbi.nlm.nih.gov/30556198/)
-   - [Complexity and specificity of the maize (Zea mays L.) root hair transcriptome.]( https://academic.oup.com/jxb/article/68/9/2175/3192113).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erx104](https://academic.oup.com/jxb/article/68/9/2175/3192113);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28398587](https://pubmed.ncbi.nlm.nih.gov/28398587/)
+   - [Characterization of LRL5 as a key regulator of root hair growth in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14200)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14200](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14200);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30556198](https://pubmed.ncbi.nlm.nih.gov/30556198/)
+   - [Complexity and specificity of the maize (Zea mays L.) root hair transcriptome.]( https://academic.oup.com/jxb/article/68/9/2175/3192113)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erx104](https://academic.oup.com/jxb/article/68/9/2175/3192113);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28398587](https://pubmed.ncbi.nlm.nih.gov/28398587/)
 
 ## Related News:
 

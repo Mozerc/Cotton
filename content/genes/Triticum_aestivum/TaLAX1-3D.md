@@ -20,10 +20,10 @@ tags: [ transcription factor,grain,domestication,lignin,lignin biosynthesis,spik
    - The two transcription factors TaLAX1 and Q disturb each others activity to antagonistically regulate the expression of the lignin biosynthesis-related gene TaKNAT7-4D.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[domestication](/tags/domestication/),&nbsp;&nbsp;[lignin](/tags/lignin/),&nbsp;&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/),&nbsp;&nbsp;[spike](/tags/spike/)
 
 ## Literature:
-   - [The transcription factor TaLAX1 interacts with Q to antagonistically regulate grain threshability and spike morphogenesis in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17235)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17235](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17235)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33521967](https://pubmed.ncbi.nlm.nih.gov/33521967/)
+   - [The transcription factor TaLAX1 interacts with Q to antagonistically regulate grain threshability and spike morphogenesis in bread wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17235)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17235](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17235);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33521967](https://pubmed.ncbi.nlm.nih.gov/33521967/)
 
 ## Related News:
 

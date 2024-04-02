@@ -24,8 +24,8 @@ tags: [ temperature,low-temperature ]
 - [temperature](/tags/temperature/),&nbsp;&nbsp;[low-temperature](/tags/low-temperature/)
 
 ## Literature:
-   - [QTL-seq and transcriptomic integrative analyses reveal two positively regulated genes that control the low-temperature germination ability of MTP-maize introgression lines.]( https://link.springer.com/article/10.1007/s00122-023-04362-6).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04362-6](https://link.springer.com/article/10.1007/s00122-023-04362-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37093290](https://pubmed.ncbi.nlm.nih.gov/37093290/)
-   - [Horizontal transfer and evolution of the biosynthetic gene cluster for benzoxazinoids in plants.]( https://www.sciencedirect.com/science/article/pii/S2590346222000700?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2022.100320](https://www.sciencedirect.com/science/article/pii/S2590346222000700?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35576160](https://pubmed.ncbi.nlm.nih.gov/35576160/)
+   - [QTL-seq and transcriptomic integrative analyses reveal two positively regulated genes that control the low-temperature germination ability of MTP-maize introgression lines.]( https://link.springer.com/article/10.1007/s00122-023-04362-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04362-6](https://link.springer.com/article/10.1007/s00122-023-04362-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37093290](https://pubmed.ncbi.nlm.nih.gov/37093290/)
+   - [Horizontal transfer and evolution of the biosynthetic gene cluster for benzoxazinoids in plants.]( https://www.sciencedirect.com/science/article/pii/S2590346222000700?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2022.100320](https://www.sciencedirect.com/science/article/pii/S2590346222000700?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35576160](https://pubmed.ncbi.nlm.nih.gov/35576160/)
 
 ## Related News:
    - [TAG | 四川农业大学唐祈林团队鉴定玉米渐渗系萌芽期耐冷关键基因](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247527512&idx=2&sn=ab483fb7fc0576c05bf7a40497f316e7&chksm=fc6f48d7b49bd4fb936064cf6512cf90b9561119a1677a734e67b0b3cadb11a1f1f001886b53&scene=27#wechat_redirect)

@@ -25,7 +25,7 @@ tags: [ gravitropic response,root,auxin,resistance,cytoplasm,breeding,auxin resp
 - [gravitropic-response](/tags/gravitropic-response/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[cytoplasm](/tags/cytoplasm/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/),&nbsp;&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/),&nbsp;&nbsp;[lodging](/tags/lodging/),&nbsp;&nbsp;[lodging-resistance](/tags/lodging-resistance/),&nbsp;&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
-   - [Local auxin biosynthesis regulates brace root angle and lodging resistance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18733](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36636793](https://pubmed.ncbi.nlm.nih.gov/36636793/)
+   - [Local auxin biosynthesis regulates brace root angle and lodging resistance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18733](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36636793](https://pubmed.ncbi.nlm.nih.gov/36636793/)
 
 ## Related News:
    - [华南农业大学/中国农科院等单位合作揭示生长素局部合成调控玉米气生根生长角度和抗倒伏性](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247563239&idx=1&sn=996e9d8798f3937a0268350b4e8fea01&chksm=e8bc85f9dfcb0ceff60c3be0efcdd4cf394f022431e7635d44ea1f01922774b4737f6e425db3&scene=27#wechat_redirect)

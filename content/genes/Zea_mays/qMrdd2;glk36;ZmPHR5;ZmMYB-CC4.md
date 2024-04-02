@@ -23,7 +23,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,ja,dwarf,jasm
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[defence](/tags/defence/),&nbsp;&nbsp;[defence-response](/tags/defence-response/)
 
 ## Literature:
-   - [A transcription factor ZmGLK36 confers broad resistance to maize rough dwarf disease in cereal crops.]( https://www.nature.com/articles/s41477-023-01514-w).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01514-w](https://www.nature.com/articles/s41477-023-01514-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709955](https://pubmed.ncbi.nlm.nih.gov/37709955/)
+   - [A transcription factor ZmGLK36 confers broad resistance to maize rough dwarf disease in cereal crops.]( https://www.nature.com/articles/s41477-023-01514-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01514-w](https://www.nature.com/articles/s41477-023-01514-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709955](https://pubmed.ncbi.nlm.nih.gov/37709955/)
 
 ## Related News:
 

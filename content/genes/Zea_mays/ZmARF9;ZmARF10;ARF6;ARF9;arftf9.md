@@ -21,7 +21,7 @@ tags: [ auxin,auxin response ]
 - [auxin](/tags/auxin/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/)
 
 ## Literature:
-   - [ZmGLR, a cell membrane localized microtubule-associated protein, mediated leaf morphogenesis in maize.]( https://www.sciencedirect.com/science/article/pii/S0168945219306909?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110248](https://www.sciencedirect.com/science/article/pii/S0168945219306909?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31623783](https://pubmed.ncbi.nlm.nih.gov/31623783/)
+   - [ZmGLR, a cell membrane localized microtubule-associated protein, mediated leaf morphogenesis in maize.]( https://www.sciencedirect.com/science/article/pii/S0168945219306909?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110248](https://www.sciencedirect.com/science/article/pii/S0168945219306909?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31623783](https://pubmed.ncbi.nlm.nih.gov/31623783/)
 
 ## Related News:
 

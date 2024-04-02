@@ -21,7 +21,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,breeding,metal transport,co
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[metal-transport](/tags/metal-transport/),&nbsp;&nbsp;[copper](/tags/copper/),&nbsp;&nbsp;[lignin](/tags/lignin/),&nbsp;&nbsp;[heavy-metal](/tags/heavy-metal/),&nbsp;&nbsp;[glycoprotein](/tags/glycoprotein/)
 
 ## Literature:
-   - [Genetic dissection of maize seedling traits in an IBM Syn10 DH population under the combined stress of lead and cadmium.]( https://link.springer.com/article/10.1007/s00438-021-01800-2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00438-021-01800-2](https://link.springer.com/article/10.1007/s00438-021-01800-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34117523](https://pubmed.ncbi.nlm.nih.gov/34117523/)
+   - [Genetic dissection of maize seedling traits in an IBM Syn10 DH population under the combined stress of lead and cadmium.]( https://link.springer.com/article/10.1007/s00438-021-01800-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00438-021-01800-2](https://link.springer.com/article/10.1007/s00438-021-01800-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34117523](https://pubmed.ncbi.nlm.nih.gov/34117523/)
 
 ## Related News:
 

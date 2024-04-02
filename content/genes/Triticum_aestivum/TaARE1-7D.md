@@ -20,10 +20,10 @@ tags: [ nitrogen,senescence,grain,grain yield,tolerance,yield,nitrate ]
    - All transgene-free mutant lines (TaARE1) showed enhanced tolerance to nitrogen starvation, and delayed senescence and increased grain yield in a field experiment.
 
 ## Function-related keywords:
-   - [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
+   - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
-   - [Increasing yield potential through manipulating of an ARE1 ortholog related to nitrogen use efficiency in wheat by CRISPR/Cas9.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13151)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13151](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13151)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270164](https://pubmed.ncbi.nlm.nih.gov/34270164/)
+   - [Increasing yield potential through manipulating of an ARE1 ortholog related to nitrogen use efficiency in wheat by CRISPR/Cas9.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13151)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13151](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13151);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270164](https://pubmed.ncbi.nlm.nih.gov/34270164/)
 
 ## Related News:
 

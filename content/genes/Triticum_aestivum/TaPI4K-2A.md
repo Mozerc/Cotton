@@ -24,7 +24,7 @@ tags: [ aba ]
    - [aba](/tags/aba/)
 
 ## Literature:
-   - [A genome-wide association study uncovers that TaPI4K-2A regulates pre-harvest sprouting in wheat.]( https://www.sciencedirect.com/science/article/pii/S2590346223002857?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100739](https://www.sciencedirect.com/science/article/pii/S2590346223002857?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37897040](https://pubmed.ncbi.nlm.nih.gov/37897040/)
+   - [A genome-wide association study uncovers that TaPI4K-2A regulates pre-harvest sprouting in wheat.]( https://www.sciencedirect.com/science/article/pii/S2590346223002857?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100739](https://www.sciencedirect.com/science/article/pii/S2590346223002857?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37897040](https://pubmed.ncbi.nlm.nih.gov/37897040/)
 
 ## Related News:
    - [Plant Communications | 西北农林科技大学陈坤明团队发现小麦穗发芽调控新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247558503&idx=5&sn=95b457a2b7927e2d7d3bdee1b922600b&chksm=aa580138a8490cc243fb31c5c534333de9f52de2098f1b4f46efe53394215bc15afaa84c104a&scene=27#wechat_redirect)

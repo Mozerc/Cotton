@@ -22,7 +22,7 @@ tags: [ chloroplast,development,chloroplast development,plastid ]
 - [chloroplast](/tags/chloroplast/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[chloroplast-development](/tags/chloroplast-development/),&nbsp;&nbsp;[plastid](/tags/plastid/)
 
 ## Literature:
-   - [Complementary expression of two plastid-localized sigma-like factors in maize.]( https://academic.oup.com/plphys/article/123/3/883/6087632?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.123.3.883](https://academic.oup.com/plphys/article/123/3/883/6087632?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10889237](https://pubmed.ncbi.nlm.nih.gov/10889237/)
+   - [Complementary expression of two plastid-localized sigma-like factors in maize.]( https://academic.oup.com/plphys/article/123/3/883/6087632?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.123.3.883](https://academic.oup.com/plphys/article/123/3/883/6087632?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10889237](https://pubmed.ncbi.nlm.nih.gov/10889237/)
 
 ## Related News:
 

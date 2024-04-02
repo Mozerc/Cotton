@@ -22,7 +22,7 @@ tags: [ meiosis,meiotic ]
 - [meiosis](/tags/meiosis/),&nbsp;&nbsp;[meiotic](/tags/meiotic/)
 
 ## Literature:
-   - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
+   - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
 
 ## Related News:
 

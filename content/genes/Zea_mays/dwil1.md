@@ -22,8 +22,8 @@ tags: [ leaf,transcription factor,leaf shape,dwarf,cell elongation,internode elo
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[leaf-shape](/tags/leaf-shape/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[internode-elongation](/tags/internode-elongation/),&nbsp;&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
-   - [Developmental genetics of maize vegetative shoot architecture.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236122/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-021-01208-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236122/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37309417](https://pubmed.ncbi.nlm.nih.gov/37309417/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [Developmental genetics of maize vegetative shoot architecture.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236122/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-021-01208-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236122/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37309417](https://pubmed.ncbi.nlm.nih.gov/37309417/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
 
 ## Related News:
 

@@ -21,7 +21,7 @@ tags: [ stomatal,height ]
 - [stomatal](/tags/stomatal/),&nbsp;&nbsp;[height](/tags/height/)
 
 ## Literature:
-   - [Microdissection of shoot meristem functional domains.]( https://www.researchgate.net/publication/24410336_Microdissection_of_Shoot_Meristem_Functional_Domains).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1000476](https://www.researchgate.net/publication/24410336_Microdissection_of_Shoot_Meristem_Functional_Domains);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19424435](https://pubmed.ncbi.nlm.nih.gov/19424435/)
+   - [Microdissection of shoot meristem functional domains.]( https://www.researchgate.net/publication/24410336_Microdissection_of_Shoot_Meristem_Functional_Domains)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1000476](https://www.researchgate.net/publication/24410336_Microdissection_of_Shoot_Meristem_Functional_Domains);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19424435](https://pubmed.ncbi.nlm.nih.gov/19424435/)
 
 ## Related News:
 

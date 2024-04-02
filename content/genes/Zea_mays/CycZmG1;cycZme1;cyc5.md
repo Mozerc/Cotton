@@ -22,7 +22,7 @@ tags: [ leaf,root,development,leaf development,root development,meristem,endospe
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[root-apical-meristem](/tags/root-apical-meristem/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[root-meristem](/tags/root-meristem/)
 
 ## Literature:
-   - [Alternative splicing of cyclin transcripts in maize endosperm.]( https://www.sciencedirect.com/science/article/pii/S0378111997001339).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/s0378-1119(97)00133-9](https://www.sciencedirect.com/science/article/pii/S0378111997001339);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9305761](https://pubmed.ncbi.nlm.nih.gov/9305761/)
+   - [Alternative splicing of cyclin transcripts in maize endosperm.]( https://www.sciencedirect.com/science/article/pii/S0378111997001339)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/s0378-1119(97)00133-9](https://www.sciencedirect.com/science/article/pii/S0378111997001339);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9305761](https://pubmed.ncbi.nlm.nih.gov/9305761/)
 
 ## Related News:
 

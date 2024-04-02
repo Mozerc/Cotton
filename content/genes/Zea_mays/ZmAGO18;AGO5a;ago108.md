@@ -22,8 +22,8 @@ tags: [ leaf,resistance,seedling,blight,resistant ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[blight](/tags/blight/),&nbsp;&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
-   - [ZmAGO18b negatively regulates maize resistance against southern leaf blight.]( https://link.springer.com/article/10.1007/s00122-023-04405-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04405-y](https://link.springer.com/article/10.1007/s00122-023-04405-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37341790](https://pubmed.ncbi.nlm.nih.gov/37341790/)
-   - [Maize germinal cell initials accommodate hypoxia and precociously express meiotic genes.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.12414).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.12414](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12414);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24387628](https://pubmed.ncbi.nlm.nih.gov/24387628/)
+   - [ZmAGO18b negatively regulates maize resistance against southern leaf blight.]( https://link.springer.com/article/10.1007/s00122-023-04405-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-023-04405-y](https://link.springer.com/article/10.1007/s00122-023-04405-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37341790](https://pubmed.ncbi.nlm.nih.gov/37341790/)
+   - [Maize germinal cell initials accommodate hypoxia and precociously express meiotic genes.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.12414)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.12414](https://onlinelibrary.wiley.com/doi/10.1111/tpj.12414);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24387628](https://pubmed.ncbi.nlm.nih.gov/24387628/)
 
 ## Related News:
 

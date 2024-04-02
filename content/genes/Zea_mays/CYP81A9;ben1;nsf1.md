@@ -23,7 +23,7 @@ tags: [ resistant ]
 - [resistant](/tags/resistant/)
 
 ## Literature:
-   - [Rapid identification of a candidate nicosulfuron sensitivity gene (Nss) in maize (Zea mays L.) via combining bulked segregant analysis and RNA-seq.]( https://link.springer.com/article/10.1007/s00122-019-03282-8).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-019-03282-8](https://link.springer.com/article/10.1007/s00122-019-03282-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30652203](https://pubmed.ncbi.nlm.nih.gov/30652203/)
+   - [Rapid identification of a candidate nicosulfuron sensitivity gene (Nss) in maize (Zea mays L.) via combining bulked segregant analysis and RNA-seq.]( https://link.springer.com/article/10.1007/s00122-019-03282-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-019-03282-8](https://link.springer.com/article/10.1007/s00122-019-03282-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30652203](https://pubmed.ncbi.nlm.nih.gov/30652203/)
 
 ## Related News:
 

@@ -22,7 +22,7 @@ tags: [ development,plant development,seedling,height,plant height ]
 - [development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [Role of heterotrimeric Gα proteins in maize development and enhancement of agronomic traits.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1007374](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29708966](https://pubmed.ncbi.nlm.nih.gov/29708966/)
+   - [Role of heterotrimeric Gα proteins in maize development and enhancement of agronomic traits.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1007374](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29708966](https://pubmed.ncbi.nlm.nih.gov/29708966/)
 
 ## Related News:
 

@@ -19,10 +19,10 @@ tags: [ transcription factor,grain ]
    - **Tamyb10** is red grain colour gene (R) of wheat is a Myb-type transcription factor.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[grain](/tags/grain/)
 
 ## Literature:
-   - [Red grain colour gene (R) of wheat is a Myb-type transcription factor]( https://link.springer.com/article/10.1007/s10681-005-7854-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10681-005-7854-4](https://link.springer.com/article/10.1007/s10681-005-7854-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Red grain colour gene (R) of wheat is a Myb-type transcription factor]( https://link.springer.com/article/10.1007/s10681-005-7854-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10681-005-7854-4](https://link.springer.com/article/10.1007/s10681-005-7854-4);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

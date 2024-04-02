@@ -21,7 +21,7 @@ tags: [ stress,quality,abiotic stress,breeding,phosphatase,protein phosphatase ]
 - [stress](/tags/stress/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
-   - [Maize protein phosphatase gene family: identification and molecular characterization.]( https://pubmed.ncbi.nlm.nih.gov/25199535/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-15-773](https://pubmed.ncbi.nlm.nih.gov/25199535/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25199535](https://pubmed.ncbi.nlm.nih.gov/25199535/)
+   - [Maize protein phosphatase gene family: identification and molecular characterization.]( https://pubmed.ncbi.nlm.nih.gov/25199535/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-15-773](https://pubmed.ncbi.nlm.nih.gov/25199535/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25199535](https://pubmed.ncbi.nlm.nih.gov/25199535/)
 
 ## Related News:
 

@@ -22,7 +22,7 @@ tags: [ transcription factor,growth,drought,tolerance,drought tolerance,plant gr
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[heat-tolerance](/tags/heat-tolerance/)
 
 ## Literature:
-   - [Identification and analysis of differentially expressed trihelix genes in maize (Zea mays) under abiotic stresses.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158769/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.15312](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158769/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37151290](https://pubmed.ncbi.nlm.nih.gov/37151290/)
+   - [Identification and analysis of differentially expressed trihelix genes in maize (Zea mays) under abiotic stresses.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158769/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.15312](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158769/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37151290](https://pubmed.ncbi.nlm.nih.gov/37151290/)
 
 ## Related News:
 

@@ -24,8 +24,8 @@ tags: [ flowering time,flowering ]
 - [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [A single nucleotide polymorphism in conz1 enhances maize adaptation to higher latitudes.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14148](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37558498](https://pubmed.ncbi.nlm.nih.gov/37558498/)
-   - [A maize CONSTANS-like gene, conz1, exhibits distinct diurnal expression patterns in varied photoperiods.]( https://link.springer.com/article/10.1007/s00425-008-0709-1).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-008-0709-1](https://link.springer.com/article/10.1007/s00425-008-0709-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18301915](https://pubmed.ncbi.nlm.nih.gov/18301915/)
+   - [A single nucleotide polymorphism in conz1 enhances maize adaptation to higher latitudes.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14148](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14148);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37558498](https://pubmed.ncbi.nlm.nih.gov/37558498/)
+   - [A maize CONSTANS-like gene, conz1, exhibits distinct diurnal expression patterns in varied photoperiods.]( https://link.springer.com/article/10.1007/s00425-008-0709-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-008-0709-1](https://link.springer.com/article/10.1007/s00425-008-0709-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18301915](https://pubmed.ncbi.nlm.nih.gov/18301915/)
 
 ## Related News:
    - [PBJ | 中国农业大学田丰教授团队解析光周期基因conz1突变增强玉米对中、高纬度温带地区的适应性机制](https://mp.weixin.qq.com/s/82yyhq-gMSaLu5IpLfBEXQ)

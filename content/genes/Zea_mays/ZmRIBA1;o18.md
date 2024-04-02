@@ -24,7 +24,7 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 - [development](/tags/development/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[plastid](/tags/plastid/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
-   - [Riboflavin integrates cellular energetics and cell cycle to regulate maize seed development.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13826](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35426230](https://pubmed.ncbi.nlm.nih.gov/35426230/)
+   - [Riboflavin integrates cellular energetics and cell cycle to regulate maize seed development.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13826](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13826);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35426230](https://pubmed.ncbi.nlm.nih.gov/35426230/)
 
 ## Related News:
    - [PBJ |河南农业大学王桂凤课题组揭示维生素B2（核黄素）整合胞内能量和细胞周期调控玉米籽粒发育的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247528255&idx=1&sn=e6594d6dfda22ab92f2bdeb2e943a2ed&chksm=ce90c26af9e74b7ce2d638105b4a0c4788cfee7756343d682bf409607867b73722a25a1520e8&scene=27#wechat_redirect)

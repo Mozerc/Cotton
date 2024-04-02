@@ -22,7 +22,7 @@ tags: [ development,stress,cold stress,abiotic stress,cold,cell wall,stomatal,st
 - [development](/tags/development/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/),&nbsp;&nbsp;[heat-stress-response](/tags/heat-stress-response/),&nbsp;&nbsp;[stomatal-development](/tags/stomatal-development/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [Evolutionary Analysis of Respiratory Burst Oxidase Homolog (RBOH) Genes in Plants and Characterization of ZmRBOHs.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043858](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835269](https://pubmed.ncbi.nlm.nih.gov/36835269/)
+   - [Evolutionary Analysis of Respiratory Burst Oxidase Homolog (RBOH) Genes in Plants and Characterization of ZmRBOHs.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043858](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835269](https://pubmed.ncbi.nlm.nih.gov/36835269/)
 
 ## Related News:
 

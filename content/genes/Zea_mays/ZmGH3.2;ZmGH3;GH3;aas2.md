@@ -22,7 +22,7 @@ tags: [ auxin,seedling,iaa,embryo,protoplasts ]
 - [auxin](/tags/auxin/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[protoplasts](/tags/protoplasts/)
 
 ## Literature:
-   - [ZmDREB2A regulates ZmGH3.2 and ZmRAFS, shifting metabolism towards seed aging tolerance over seedling growth.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14922).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14922](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14922);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32662115](https://pubmed.ncbi.nlm.nih.gov/32662115/)
+   - [ZmDREB2A regulates ZmGH3.2 and ZmRAFS, shifting metabolism towards seed aging tolerance over seedling growth.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14922)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14922](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14922);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32662115](https://pubmed.ncbi.nlm.nih.gov/32662115/)
 
 ## Related News:
 

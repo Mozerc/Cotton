@@ -22,8 +22,8 @@ tags: [ grain,starch,grain filling,aba,ethylene,grain weight,endosperm,aba biosy
 - [grain](/tags/grain/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[grain-filling](/tags/grain-filling/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/),&nbsp;&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
-   - [Striking a growth-defense balance: Stress regulators that function in maize development.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13570).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13570](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13570);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37787439](https://pubmed.ncbi.nlm.nih.gov/37787439/)
-   - [Understanding the regulation of cereal grain filling: The way forward.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13456](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36648157](https://pubmed.ncbi.nlm.nih.gov/36648157/)
+   - [Striking a growth-defense balance: Stress regulators that function in maize development.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13570)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13570](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13570);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37787439](https://pubmed.ncbi.nlm.nih.gov/37787439/)
+   - [Understanding the regulation of cereal grain filling: The way forward.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13456](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36648157](https://pubmed.ncbi.nlm.nih.gov/36648157/)
 
 ## Related News:
 

@@ -20,10 +20,10 @@ tags: [ development,grain,grain length,endosperm,endosperm development ]
    - As a consequence this influences the expression of Psy-A1b leading to reduced grain YP content.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+   - [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [Characterization of phytoene synthase 1 gene (Psy1) located on common wheat chromosome 7A and development of a functional marker.]( https://link.springer.com/article/10.1007/s00122-007-0660-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-007-0660-8](https://link.springer.com/article/10.1007/s00122-007-0660-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17943267](https://pubmed.ncbi.nlm.nih.gov/17943267/)
+   - [Characterization of phytoene synthase 1 gene (Psy1) located on common wheat chromosome 7A and development of a functional marker.]( https://link.springer.com/article/10.1007/s00122-007-0660-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-007-0660-8](https://link.springer.com/article/10.1007/s00122-007-0660-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17943267](https://pubmed.ncbi.nlm.nih.gov/17943267/)
 
 ## Related News:
 

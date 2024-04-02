@@ -24,7 +24,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,drought tolerance,str
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[lodging](/tags/lodging/),&nbsp;&nbsp;[lodging-resistance](/tags/lodging-resistance/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
-   - [Functions and regulatory framework of ZmNST3 in maize under lodging and drought stress.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13829).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13829](https://onlinelibrary.wiley.com/doi/10.1111/pce.13829);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32562291](https://pubmed.ncbi.nlm.nih.gov/32562291/)
+   - [Functions and regulatory framework of ZmNST3 in maize under lodging and drought stress.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13829)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13829](https://onlinelibrary.wiley.com/doi/10.1111/pce.13829);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32562291](https://pubmed.ncbi.nlm.nih.gov/32562291/)
 
 ## Related News:
 

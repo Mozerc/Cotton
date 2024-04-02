@@ -22,7 +22,7 @@ tags: [ transcription factor,chloroplast,homeostasis,transporter,zinc,plasma mem
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[chloroplast](/tags/chloroplast/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[zinc](/tags/zinc/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
-   - [Zinc Transporter ZmLAZ1-4 Modulates Zinc Homeostasis on Plasma and Vacuolar Membrane in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.881055/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.881055](https://www.frontiersin.org/articles/10.3389/fpls.2022.881055/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35586216](https://pubmed.ncbi.nlm.nih.gov/35586216/)
+   - [Zinc Transporter ZmLAZ1-4 Modulates Zinc Homeostasis on Plasma and Vacuolar Membrane in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.881055/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.881055](https://www.frontiersin.org/articles/10.3389/fpls.2022.881055/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35586216](https://pubmed.ncbi.nlm.nih.gov/35586216/)
 
 ## Related News:
 

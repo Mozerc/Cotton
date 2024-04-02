@@ -21,10 +21,10 @@ tags: [ flowering,vernalization,photoperiod ]
    - WPCL1 affects the vernalization requirement through Vrn-2.
 
 ## Function-related keywords:
-   - [flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [flowering](/tags/flowering/),&nbsp;&nbsp;[vernalization](/tags/vernalization/),&nbsp;&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
-   - [Loss-of-Function Mutations in Three Homoeologous PHYTOCLOCK 1 Genes in Common Wheat Are Associated with the Extra-Early Flowering Phenotype.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165618)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0165618](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165618)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27788250](https://pubmed.ncbi.nlm.nih.gov/27788250/)
+   - [Loss-of-Function Mutations in Three Homoeologous PHYTOCLOCK 1 Genes in Common Wheat Are Associated with the Extra-Early Flowering Phenotype.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165618)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0165618](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165618);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27788250](https://pubmed.ncbi.nlm.nih.gov/27788250/)
 
 ## Related News:
 

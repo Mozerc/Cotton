@@ -24,7 +24,7 @@ tags: [ kinase,grain,grain length,grain number,grain yield,yield,meristem,inflor
 - [kinase](/tags/kinase/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
-   - [A serine/threonine protein kinase encoding gene KERNEL NUMBER PER ROW6 regulates maize grain yield.]( https://www.nature.com/articles/s41467-020-14746-7).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14746-7](https://www.nature.com/articles/s41467-020-14746-7);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32080171](https://pubmed.ncbi.nlm.nih.gov/32080171/)
+   - [A serine/threonine protein kinase encoding gene KERNEL NUMBER PER ROW6 regulates maize grain yield.]( https://www.nature.com/articles/s41467-020-14746-7)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-14746-7](https://www.nature.com/articles/s41467-020-14746-7);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32080171](https://pubmed.ncbi.nlm.nih.gov/32080171/)
 
 ## Related News:
    - [NC|华中农大张祖新教授课题组鉴定到控制玉米穗粒数重要基因-KNR6, 为提高玉米杂交种产量提供了理论依据和基因资源](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487446&idx=1&sn=6953250c86f15de3b9438224e875e677&chksm=ce93a283f9e42b9566962940a337f303d035c7b3112f88085c2544d9bfa7c8f902e932e404f2&scene=27#wechat_redirect)

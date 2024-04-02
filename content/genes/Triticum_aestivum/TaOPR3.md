@@ -19,11 +19,11 @@ tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmon
    - A JA synthesis gene **TaOPR3** was identified in wheat.
 
 ## Function-related keywords:
-   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)
+   - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)
 
 ## Literature:
-   - [Changes in the concentrations and transcripts for gibberellins and other hormones in a growing leaf and roots of wheat seedlings in response to water restriction.]( https://www.sciencedirect.com/science/article/pii/S2214514123000090)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-022-03667-w](https://www.sciencedirect.com/science/article/pii/S2214514123000090)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35676624](https://pubmed.ncbi.nlm.nih.gov/35676624/)
-   - [Heat shock transcription factor A1b regulates heat tolerance in wheat and Arabidopsis through OPR3 and jasmonate signalling pathway.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13268)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13268](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13268)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31559685](https://pubmed.ncbi.nlm.nih.gov/31559685/)
+   - [Changes in the concentrations and transcripts for gibberellins and other hormones in a growing leaf and roots of wheat seedlings in response to water restriction.]( https://www.sciencedirect.com/science/article/pii/S2214514123000090)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-022-03667-w](https://www.sciencedirect.com/science/article/pii/S2214514123000090);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35676624](https://pubmed.ncbi.nlm.nih.gov/35676624/)
+   - [Heat shock transcription factor A1b regulates heat tolerance in wheat and Arabidopsis through OPR3 and jasmonate signalling pathway.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13268)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13268](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13268);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31559685](https://pubmed.ncbi.nlm.nih.gov/31559685/)
 
 ## Related News:
    - [中国农业大学揭示茎基腐病侵染对小麦根系内源激素含量的影响](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247566944&idx=3&sn=508218647c9449a649d9aa923efebcf6&chksm=e8bcb47edfcb3d68926bf8679cf57dac80ce040e05c279aa9c1141c9f504791a500794fe15bb&scene=27#wechat_redirect)

@@ -23,7 +23,7 @@ tags: [ brassinosteroid,brassinosteroid signaling,stress,defense,oxidative stres
 - [brassinosteroid](/tags/brassinosteroid/),&nbsp;&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[oxidative-stress](/tags/oxidative-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[oxidative](/tags/oxidative/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)
 
 ## Literature:
-   - [ZmMPK5 phosphorylates ZmNAC49 to enhance oxidative stress tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17761](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618923](https://pubmed.ncbi.nlm.nih.gov/34618923/)
+   - [ZmMPK5 phosphorylates ZmNAC49 to enhance oxidative stress tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17761](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618923](https://pubmed.ncbi.nlm.nih.gov/34618923/)
 
 ## Related News:
 

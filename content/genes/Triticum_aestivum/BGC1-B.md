@@ -21,10 +21,10 @@ tags: [ development,grain,grain size,starch,grain protein content,grain protein 
 
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-protein-content](/tags/grain-protein-content/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+   - [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[grain-protein-content](/tags/grain-protein-content/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
-   - [A carbohydrate-binding protein, B-GRANULE CONTENT 1, influences starch granule size distribution in a dose-dependent manner in polyploid wheat.]( https://academic.oup.com/jxb/article/71/1/105/5601560?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erz405](https://academic.oup.com/jxb/article/71/1/105/5601560?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31633795](https://pubmed.ncbi.nlm.nih.gov/31633795/)
+   - [A carbohydrate-binding protein, B-GRANULE CONTENT 1, influences starch granule size distribution in a dose-dependent manner in polyploid wheat.]( https://academic.oup.com/jxb/article/71/1/105/5601560?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erz405](https://academic.oup.com/jxb/article/71/1/105/5601560?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31633795](https://pubmed.ncbi.nlm.nih.gov/31633795/)
 
 ## Related News:
 

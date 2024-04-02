@@ -22,10 +22,10 @@ tags: [ transcription factor,grain,starch,grain quality,quality,breeding,endospe
    - Identified an elite allele (**TaNAC019-B**I) associated with flour processing quality, providing a candidate gene for breeding wheat with improved quality.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-quality](/tags/grain-quality/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[starch-accumulation](/tags/starch-accumulation/)&nbsp;,&nbsp;[ssp](/tags/ssp/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[grain-quality](/tags/grain-quality/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[starch-accumulation](/tags/starch-accumulation/),&nbsp;&nbsp;[ssp](/tags/ssp/)
 
 ## Literature:
-   - [The endosperm-specific transcription factor TaNAC019 regulates glutenin and starch accumulation and its elite allele improves wheat grain quality.]( https://academic.oup.com/plcell/article/33/3/603/6059236?login=true#246809756)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koaa040](https://academic.oup.com/plcell/article/33/3/603/6059236?login=true#246809756)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33955492](https://pubmed.ncbi.nlm.nih.gov/33955492/)
+   - [The endosperm-specific transcription factor TaNAC019 regulates glutenin and starch accumulation and its elite allele improves wheat grain quality.]( https://academic.oup.com/plcell/article/33/3/603/6059236?login=true#246809756)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koaa040](https://academic.oup.com/plcell/article/33/3/603/6059236?login=true#246809756);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33955492](https://pubmed.ncbi.nlm.nih.gov/33955492/)
 
 ## Related News:
    - [Plant Cell | 中国农业大学小麦研究中心揭示NAC转运蛋白TaNAC019调节小麦籽粒中贮藏蛋白和淀粉积累的机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247503174&idx=7&sn=213563ce48e6f48dee60bc57bb2fcd38&chksm=ce906013f9e7e9052ad18fef5255c9009167fd5f723c9553dddfc57f38e0442ecbe7a76ac539&scene=27#wechat_redirect)

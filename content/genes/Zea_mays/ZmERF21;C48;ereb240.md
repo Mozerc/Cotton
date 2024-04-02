@@ -22,7 +22,7 @@ tags: [ leaf,seedlings,root,drought,stress,drought stress,tolerance,drought tole
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[seedlings](/tags/seedlings/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[chlorophyll](/tags/chlorophyll/),&nbsp;&nbsp;[chlorophyll-content](/tags/chlorophyll-content/)
 
 ## Literature:
-   - [ZmERF21 directly regulates hormone signaling and stress-responsive gene expression to influence drought tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14243).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14243](https://onlinelibrary.wiley.com/doi/10.1111/pce.14243);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873716](https://pubmed.ncbi.nlm.nih.gov/34873716/)
+   - [ZmERF21 directly regulates hormone signaling and stress-responsive gene expression to influence drought tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14243)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14243](https://onlinelibrary.wiley.com/doi/10.1111/pce.14243);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34873716](https://pubmed.ncbi.nlm.nih.gov/34873716/)
 
 ## Related News:
 

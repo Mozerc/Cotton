@@ -20,10 +20,10 @@ tags: [ transcription factor,cold,floral,transcription regulator,flowering,verna
    - The vernalization-induced long non-coding RNA VAS functions with the transcription factor TaRF2b to promote **TaVRN1** expression for flowering in hexaploid wheat.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[vernalization](/tags/vernalization/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[vernalization](/tags/vernalization/)
 
 ## Literature:
-   - [The vernalization-induced long non-coding RNA VAS functions with the transcription factor TaRF2b to promote TaVRN1 expression for flowering in hexaploid wheat.]( https://www.sciencedirect.com/science/article/pii/S1674205221001878?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2021.05.026](https://www.sciencedirect.com/science/article/pii/S1674205221001878?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34052392](https://pubmed.ncbi.nlm.nih.gov/34052392/)
+   - [The vernalization-induced long non-coding RNA VAS functions with the transcription factor TaRF2b to promote TaVRN1 expression for flowering in hexaploid wheat.]( https://www.sciencedirect.com/science/article/pii/S1674205221001878?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2021.05.026](https://www.sciencedirect.com/science/article/pii/S1674205221001878?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34052392](https://pubmed.ncbi.nlm.nih.gov/34052392/)
 
 ## Related News:
 

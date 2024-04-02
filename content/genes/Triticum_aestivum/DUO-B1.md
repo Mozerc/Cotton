@@ -20,10 +20,10 @@ tags: [ transcription factor,grain,grain number,grain yield,yield,cell division,
    - **DUO-B1** suppresses cell division and promotes the expression of BHt-WFZP, whose mutations could lead to branched miracle-wheat.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/)&nbsp;,&nbsp;[ethylene-response](/tags/ethylene-response/)&nbsp;,&nbsp;[spike](/tags/spike/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[inflorescence-architecture](/tags/inflorescence-architecture/),&nbsp;&nbsp;[ethylene-response](/tags/ethylene-response/),&nbsp;&nbsp;[spike](/tags/spike/)
 
 ## Literature:
-   - [Improving bread wheat yield through modulating an unselected AP2/ERF gene.]( https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01197-9](https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851621](https://pubmed.ncbi.nlm.nih.gov/35851621/)
+   - [Improving bread wheat yield through modulating an unselected AP2/ERF gene.]( https://www.nature.com/articles/s41477-022-01197-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-022-01197-9](https://www.nature.com/articles/s41477-022-01197-9);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35851621](https://pubmed.ncbi.nlm.nih.gov/35851621/)
 
 ## Related News:
 

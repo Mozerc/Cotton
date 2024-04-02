@@ -22,8 +22,8 @@ tags: [ grain,grain protein ]
 - [grain](/tags/grain/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
-   - [The genetic architecture of the dynamic changes in grain moisture in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13541).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13541](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13541);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33386670](https://pubmed.ncbi.nlm.nih.gov/33386670/)
-   - [Biosynthesis, structure and functionality of starch granules in maize inbred lines with different kernel dehydration rate.]( https://www.sciencedirect.com/science/article/abs/pii/S0308814621018021?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.foodchem.2021.130796](https://www.sciencedirect.com/science/article/abs/pii/S0308814621018021?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34418691](https://pubmed.ncbi.nlm.nih.gov/34418691/)
+   - [The genetic architecture of the dynamic changes in grain moisture in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13541](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13541);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33386670](https://pubmed.ncbi.nlm.nih.gov/33386670/)
+   - [Biosynthesis, structure and functionality of starch granules in maize inbred lines with different kernel dehydration rate.]( https://www.sciencedirect.com/science/article/abs/pii/S0308814621018021?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.foodchem.2021.130796](https://www.sciencedirect.com/science/article/abs/pii/S0308814621018021?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34418691](https://pubmed.ncbi.nlm.nih.gov/34418691/)
 
 ## Related News:
    - [PBJ | 华中农大玉米团队严建兵/肖英杰解析玉米籽粒含水量动态变化的遗传基础，助力籽粒快速脱水新品种培育！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247502996&idx=1&sn=2e0599b76b046cc97f16f89fadd6296c&chksm=ce9061c1f9e7e8d7195233a8510db0011a5645429e5fcf43122d467996df9bed7dcce547566a&scene=27#wechat_redirect)

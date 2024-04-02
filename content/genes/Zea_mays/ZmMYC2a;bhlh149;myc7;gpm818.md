@@ -24,7 +24,7 @@ tags: [ transcription factor,resistance,jasmonate,ja,ja biosynthesis,ja signalin
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[jasmonate](/tags/jasmonate/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13404](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36349965](https://pubmed.ncbi.nlm.nih.gov/36349965/)
+   - [ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13404](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36349965](https://pubmed.ncbi.nlm.nih.gov/36349965/)
 
 ## Related News:
 

@@ -22,7 +22,7 @@ tags: [ stem ]
 - [stem](/tags/stem/)
 
 ## Literature:
-   - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
+   - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
 
 ## Related News:
 

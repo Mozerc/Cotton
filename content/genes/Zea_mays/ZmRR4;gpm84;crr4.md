@@ -22,7 +22,7 @@ tags: [ nucleus,cytokinin,cytokinin response,cytosol ]
 - [nucleus](/tags/nucleus/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/),&nbsp;&nbsp;[cytokinin-response](/tags/cytokinin-response/),&nbsp;&nbsp;[cytosol](/tags/cytosol/)
 
 ## Literature:
-   - [Molecular characterization of His-Asp phosphorelay signaling factors in maize leaves: implications of the signal divergence by cytokinin-inducible response regulators in the cytosol and the nuclei.]( https://link.springer.com/article/10.1023/A:1023971315108).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1023/a:1023971315108](https://link.springer.com/article/10.1023/A:1023971315108);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12856940](https://pubmed.ncbi.nlm.nih.gov/12856940/)
+   - [Molecular characterization of His-Asp phosphorelay signaling factors in maize leaves: implications of the signal divergence by cytokinin-inducible response regulators in the cytosol and the nuclei.]( https://link.springer.com/article/10.1023/A:1023971315108)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1023/a:1023971315108](https://link.springer.com/article/10.1023/A:1023971315108);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12856940](https://pubmed.ncbi.nlm.nih.gov/12856940/)
 
 ## Related News:
 

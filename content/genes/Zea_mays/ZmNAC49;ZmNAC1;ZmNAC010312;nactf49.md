@@ -23,7 +23,7 @@ tags: [ transcription factor,drought,stress,drought stress,oxidative stress,tole
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[oxidative-stress](/tags/oxidative-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[oxidative](/tags/oxidative/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[stomatal-density](/tags/stomatal-density/),&nbsp;&nbsp;[drought-and-oxidative-stress](/tags/drought-and-oxidative-stress/)
 
 ## Literature:
-   - [ZmMPK5 phosphorylates ZmNAC49 to enhance oxidative stress tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17761](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618923](https://pubmed.ncbi.nlm.nih.gov/34618923/)
+   - [ZmMPK5 phosphorylates ZmNAC49 to enhance oxidative stress tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17761](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17761);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618923](https://pubmed.ncbi.nlm.nih.gov/34618923/)
 
 ## Related News:
 

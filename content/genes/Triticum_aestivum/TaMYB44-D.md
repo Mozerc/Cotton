@@ -20,10 +20,10 @@ tags: [ starch,transcription regulator,starch biosynthesis ]
    - Yeast one-hybrid assay showing association between **TaMYB44-D** and promoters of starch biosynthesis-related genes.
 
 ## Function-related keywords:
-   - [starch](/tags/starch/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
+   - [starch](/tags/starch/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)
 
 ## Literature:
-   - [Expression and regulation of genes involved in the reserve starch biosynthesis pathway in hexaploid wheat (Triticum aestivum L.)]( https://www.sciencedirect.com/science/article/pii/S2214514120301227#s0105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.08.002](https://www.sciencedirect.com/science/article/pii/S2214514120301227#s0105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Expression and regulation of genes involved in the reserve starch biosynthesis pathway in hexaploid wheat (Triticum aestivum L.)]( https://www.sciencedirect.com/science/article/pii/S2214514120301227#s0105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.08.002](https://www.sciencedirect.com/science/article/pii/S2214514120301227#s0105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal │ 首都师范大学绘制小麦贮藏淀粉的生物合成通路](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247497151&idx=6&sn=dacb705546ab3f786ce52fb34537eb21&chksm=ce9058eaf9e7d1fc1b61327373085003d5059c1793755ff687507493ecaa4bffb7bfffbdfe69&scene=27#wechat_redirect)

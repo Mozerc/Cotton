@@ -24,7 +24,7 @@ tags: [ seedling leaves,seedling ]
 - [seedling-leaves](/tags/seedling-leaves/),&nbsp;&nbsp;[seedling](/tags/seedling/)
 
 ## Literature:
-   - [The Endoplasmic reticulum-associated maize GL8 protein is a component of the acyl-coenzyme A elongase involved in the production of cuticular waxes.]( https://academic.oup.com/plphys/article/128/3/924/6110244?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.010621](https://academic.oup.com/plphys/article/128/3/924/6110244?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[11891248](https://pubmed.ncbi.nlm.nih.gov/11891248/)
+   - [The Endoplasmic reticulum-associated maize GL8 protein is a component of the acyl-coenzyme A elongase involved in the production of cuticular waxes.]( https://academic.oup.com/plphys/article/128/3/924/6110244?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.010621](https://academic.oup.com/plphys/article/128/3/924/6110244?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[11891248](https://pubmed.ncbi.nlm.nih.gov/11891248/)
 
 ## Related News:
 

@@ -24,7 +24,7 @@ tags: [ development,starch,endosperm,phytohormone,endosperm development,starch b
 - [development](/tags/development/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[phytohormone](/tags/phytohormone/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/),&nbsp;&nbsp;[starch-accumulation](/tags/starch-accumulation/)
 
 ## Literature:
-   - [RNA polymerase common subunit ZmRPABC5b is transcriptionally activated by Opaque2 and essential for endosperm development in maize.]( https://academic.oup.com/nar/article/51/15/7832/7219415#414928044).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/nar/gkad571](https://academic.oup.com/nar/article/51/15/7832/7219415#414928044);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403778](https://pubmed.ncbi.nlm.nih.gov/37403778/)
+   - [RNA polymerase common subunit ZmRPABC5b is transcriptionally activated by Opaque2 and essential for endosperm development in maize.]( https://academic.oup.com/nar/article/51/15/7832/7219415#414928044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/nar/gkad571](https://academic.oup.com/nar/article/51/15/7832/7219415#414928044);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403778](https://pubmed.ncbi.nlm.nih.gov/37403778/)
 
 ## Related News:
    - [NAR | 中国农科院/中国农业大学联合揭示玉米籽粒发育新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247577004&idx=3&sn=285db7212fcff72e841debfafd199b06&chksm=e92e6906f7926e9414adaa2f1d2ca5dbc51480262d44e463eac0cdad9290901f3c57bc06ee4e&scene=27#wechat_redirect)

@@ -22,7 +22,7 @@ tags: [ root,seedling,lateral root ]
 - [root](/tags/root/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/)
 
 ## Literature:
-   - [Maize Breeding for Low Nitrogen Inputs in Agriculture: Mechanisms Underlying the Tolerance to the Abiotic Stress]( https://www.mdpi.com/2673-7140/3/1/11).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/stresses3010011](https://www.mdpi.com/2673-7140/3/1/11);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Maize Breeding for Low Nitrogen Inputs in Agriculture: Mechanisms Underlying the Tolerance to the Abiotic Stress]( https://www.mdpi.com/2673-7140/3/1/11)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/stresses3010011](https://www.mdpi.com/2673-7140/3/1/11);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

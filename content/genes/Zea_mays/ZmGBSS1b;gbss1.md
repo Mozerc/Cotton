@@ -23,8 +23,8 @@ tags: [ grain,starch,glycosyltransferase ]
 - [grain](/tags/grain/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)
 
 ## Literature:
-   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
-   - [Nitrogen-dependent binding of the transcription factor PBF1 contributes to the balance of protein and carbohydrate storage in maize endosperm.]( https://academic.oup.com/plcell/article/35/1/409/6759374?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac302](https://academic.oup.com/plcell/article/35/1/409/6759374?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36222567](https://pubmed.ncbi.nlm.nih.gov/36222567/)
+   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
+   - [Nitrogen-dependent binding of the transcription factor PBF1 contributes to the balance of protein and carbohydrate storage in maize endosperm.]( https://academic.oup.com/plcell/article/35/1/409/6759374?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac302](https://academic.oup.com/plcell/article/35/1/409/6759374?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36222567](https://pubmed.ncbi.nlm.nih.gov/36222567/)
 
 ## Related News:
 

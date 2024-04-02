@@ -22,7 +22,7 @@ tags: [ resistance,ja,defense,jasmonic,jasmonic acid,signaling pathway gene,ja b
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [Ascorbate peroxidase 1 confers resistance to southern corn leaf blight in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13254).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13254](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13254);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35319160](https://pubmed.ncbi.nlm.nih.gov/35319160/)
+   - [Ascorbate peroxidase 1 confers resistance to southern corn leaf blight in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13254)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13254](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13254);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35319160](https://pubmed.ncbi.nlm.nih.gov/35319160/)
 
 ## Related News:
 

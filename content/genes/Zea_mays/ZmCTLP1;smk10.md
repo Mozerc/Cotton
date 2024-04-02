@@ -23,7 +23,7 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [ZmCTLP1 is required for the maintenance of lipid homeostasis and the basal endosperm transfer layer in maize kernels.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17754](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34559890](https://pubmed.ncbi.nlm.nih.gov/34559890/)
+   - [ZmCTLP1 is required for the maintenance of lipid homeostasis and the basal endosperm transfer layer in maize kernels.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17754](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17754);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34559890](https://pubmed.ncbi.nlm.nih.gov/34559890/)
 
 ## Related News:
    - [New Phytologist | 中国农业大学宋伟彬课题组揭示胆碱转运蛋白ZmCTLP1调控玉米籽粒发育的功能机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247517871&idx=4&sn=829778529b8090baaef5a7cf701c06d8&chksm=ce902bfaf9e7a2ec8099eebd815005708f9e09e202cbd0383225b4cf5e705371bb360abc60c5&scene=27#wechat_redirect)

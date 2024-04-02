@@ -24,7 +24,7 @@ tags: [ development,seed,mitochondria,embryo,endosperm,seed development,endosper
 - [development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[mitochondria](/tags/mitochondria/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
-   - [The mitochondrial pentatricopeptide repeat protein EMP12 is involved in the splicing of three nad2 introns and seed development in maize.]( https://academic.oup.com/jxb/article/70/3/963/5232764?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery432](https://academic.oup.com/jxb/article/70/3/963/5232764?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30535370](https://pubmed.ncbi.nlm.nih.gov/30535370/)
+   - [The mitochondrial pentatricopeptide repeat protein EMP12 is involved in the splicing of three nad2 introns and seed development in maize.]( https://academic.oup.com/jxb/article/70/3/963/5232764?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery432](https://academic.oup.com/jxb/article/70/3/963/5232764?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30535370](https://pubmed.ncbi.nlm.nih.gov/30535370/)
 
 ## Related News:
 

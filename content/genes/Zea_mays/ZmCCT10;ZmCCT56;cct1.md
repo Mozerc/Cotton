@@ -23,8 +23,8 @@ tags: [ flowering time,flowering ]
 - [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [A differentially methylated region of the ZmCCT10 promoter affects flowering time in hybrid maize]( https://www.sciencedirect.com/science/article/pii/S221451412300079X).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.05.006](https://www.sciencedirect.com/science/article/pii/S221451412300079X);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://academic.oup.com/plcell/article/35/1/369/6730753).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://academic.oup.com/plcell/article/35/1/369/6730753);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
+   - [A differentially methylated region of the ZmCCT10 promoter affects flowering time in hybrid maize]( https://www.sciencedirect.com/science/article/pii/S221451412300079X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.05.006](https://www.sciencedirect.com/science/article/pii/S221451412300079X);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://academic.oup.com/plcell/article/35/1/369/6730753)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://academic.oup.com/plcell/article/35/1/369/6730753);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
 
 ## Related News:
    - [The Crop Journal | 中国农科院作科所揭示ZmCCT10启动子甲基化影响玉米杂交种开花期的机制](https://mp.weixin.qq.com/s/eLDft0MYzG5Aa74XK8nWOg)

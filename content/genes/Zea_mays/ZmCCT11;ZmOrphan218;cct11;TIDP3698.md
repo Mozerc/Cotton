@@ -20,7 +20,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [New insights into light spectral quality inhibits the plasticity elongation of maize mesocotyl and coleoptile during seed germination.]( https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1152399](https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37008499](https://pubmed.ncbi.nlm.nih.gov/37008499/)
+   - [New insights into light spectral quality inhibits the plasticity elongation of maize mesocotyl and coleoptile during seed germination.]( https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1152399](https://www.frontiersin.org/articles/10.3389/fpls.2023.1152399/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37008499](https://pubmed.ncbi.nlm.nih.gov/37008499/)
 
 ## Related News:
 

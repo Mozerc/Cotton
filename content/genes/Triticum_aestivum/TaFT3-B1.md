@@ -23,10 +23,10 @@ tags: [ flowering time,flowering,photoperiod response,photoperiod ]
    - Significant association was observed in the GEDIFLUX collection for TaTOE1-B1, a putative flowering repressor.
 
 ## Function-related keywords:
-   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[photoperiod-response](/tags/photoperiod-response/)&nbsp;,&nbsp;[photoperiod](/tags/photoperiod/)
+   - [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[photoperiod-response](/tags/photoperiod-response/),&nbsp;&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
-   - [The identification of new candidate genes Triticum aestivum FLOWERING LOCUS T3-B1 (TaFT3-B1) and TARGET OF EAT1 (TaTOE1-B1) controlling the short-day photoperiod response in bread wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13018)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13018](https://onlinelibrary.wiley.com/doi/10.1111/pce.13018)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28667827](https://pubmed.ncbi.nlm.nih.gov/28667827/)
+   - [The identification of new candidate genes Triticum aestivum FLOWERING LOCUS T3-B1 (TaFT3-B1) and TARGET OF EAT1 (TaTOE1-B1) controlling the short-day photoperiod response in bread wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13018)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13018](https://onlinelibrary.wiley.com/doi/10.1111/pce.13018);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28667827](https://pubmed.ncbi.nlm.nih.gov/28667827/)
 
 ## Related News:
 

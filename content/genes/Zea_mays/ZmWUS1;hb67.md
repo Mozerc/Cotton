@@ -22,7 +22,7 @@ tags: [ stem,meristem,inflorescence ]
 - [stem](/tags/stem/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/)
 
 ## Literature:
-   - [Structural variation at the maize WUSCHEL1 locus alters stem cell organization in inflorescences.]( https://www.nature.com/articles/s41467-021-22699-8).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-22699-8](https://www.nature.com/articles/s41467-021-22699-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33888716](https://pubmed.ncbi.nlm.nih.gov/33888716/)
+   - [Structural variation at the maize WUSCHEL1 locus alters stem cell organization in inflorescences.]( https://www.nature.com/articles/s41467-021-22699-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-22699-8](https://www.nature.com/articles/s41467-021-22699-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33888716](https://pubmed.ncbi.nlm.nih.gov/33888716/)
 
 ## Related News:
    - [Nature Communications | 发现玉米WUS1基因的结构变异导致了花序的异常发育](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247508973&idx=2&sn=04fe85069851d30c77174d0227960e47&chksm=ce900eb8f9e787aeb4d304ab1c98982f9d5e2ccb549897829cf0e7d3e515dc6b5c5dfcfaf3aa&scene=27#wechat_redirect)

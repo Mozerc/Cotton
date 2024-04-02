@@ -21,10 +21,10 @@ tags: [ resistance,stress,abiotic stress,aba,aba sensitivity ]
    - **TaASR1-D** can be used to breed new wheat cultivars with increased multiple abiotic stress tolerances, and **TaASR1-D** enhances abiotic stress tolerances by reinforcing antioxidant capacity and ABA signalling.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
-   - [TaASR1-D confers abiotic stress resistance by affecting ROS accumulation and ABA signalling in transgenic wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13572)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13572](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13572)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33638922](https://pubmed.ncbi.nlm.nih.gov/33638922/)
+   - [TaASR1-D confers abiotic stress resistance by affecting ROS accumulation and ABA signalling in transgenic wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13572)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13572](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13572);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33638922](https://pubmed.ncbi.nlm.nih.gov/33638922/)
 
 ## Related News:
    - [PBJ | 华中科技大学何光源课题组在提高小麦非生物胁迫抗性研究中取得新进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247509362&idx=5&sn=3e723af89bca66fd2c0645035a2c707c&chksm=e8bdd76cdfca5e7a0028c82226064cbfa7679fdf6ea1a275fccf205c2bb47d669668c39a52af&scene=27#wechat_redirect)

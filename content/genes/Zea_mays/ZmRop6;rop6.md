@@ -22,7 +22,7 @@ tags: [ resistance,defense response,defense ]
 - [resistance](/tags/resistance/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/)
 
 ## Literature:
-   - [ZmRop1 participates in maize defense response to the damage of Spodoptera frugiperda larvae through mediating ROS and soluble phenol production.]( https://onlinelibrary.wiley.com/doi/full/10.1002/pld3.468).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/pld3.468](https://onlinelibrary.wiley.com/doi/full/10.1002/pld3.468);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36540415](https://pubmed.ncbi.nlm.nih.gov/36540415/)
+   - [ZmRop1 participates in maize defense response to the damage of Spodoptera frugiperda larvae through mediating ROS and soluble phenol production.]( https://onlinelibrary.wiley.com/doi/full/10.1002/pld3.468)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/pld3.468](https://onlinelibrary.wiley.com/doi/full/10.1002/pld3.468);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36540415](https://pubmed.ncbi.nlm.nih.gov/36540415/)
 
 ## Related News:
 

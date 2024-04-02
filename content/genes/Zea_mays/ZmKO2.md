@@ -22,7 +22,7 @@ tags: [ architecture,ga,plant architecture ]
 - [architecture](/tags/architecture/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
-   - [Multiple genes recruited from hormone pathways partition maize diterpenoid defences.]( https://www.nature.com/articles/s41477-019-0509-6).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0509-6](https://www.nature.com/articles/s41477-019-0509-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31527844](https://pubmed.ncbi.nlm.nih.gov/31527844/)
+   - [Multiple genes recruited from hormone pathways partition maize diterpenoid defences.]( https://www.nature.com/articles/s41477-019-0509-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0509-6](https://www.nature.com/articles/s41477-019-0509-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31527844](https://pubmed.ncbi.nlm.nih.gov/31527844/)
 
 ## Related News:
 

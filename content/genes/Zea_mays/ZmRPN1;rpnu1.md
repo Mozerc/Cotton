@@ -24,7 +24,7 @@ tags: [ pollen,seed,plasma membrane ]
 - [pollen](/tags/pollen/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
-   - [ZmRPN1 confers quantitative variation in pollen number and boosts hybrid seed production in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14105](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37341033](https://pubmed.ncbi.nlm.nih.gov/37341033/)
+   - [ZmRPN1 confers quantitative variation in pollen number and boosts hybrid seed production in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14105](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37341033](https://pubmed.ncbi.nlm.nih.gov/37341033/)
 
 ## Related News:
    - [PBJ | 中国农大贺岩教授课题组发现调控玉米花粉数量关键特异基因ZmRPN1](https://mp.weixin.qq.com/s/AodLIhzfADrHhE3yibz8Yw)

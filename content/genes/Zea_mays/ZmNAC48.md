@@ -24,7 +24,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[water-loss](/tags/water-loss/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[protoplasts](/tags/protoplasts/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [A natural antisense transcript acts as a negative regulator for the maize drought stress response gene ZmNAC48.]( https://academic.oup.com/jxb/article/72/7/2790/6106568?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab023](https://academic.oup.com/jxb/article/72/7/2790/6106568?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33481006](https://pubmed.ncbi.nlm.nih.gov/33481006/)
+   - [A natural antisense transcript acts as a negative regulator for the maize drought stress response gene ZmNAC48.]( https://academic.oup.com/jxb/article/72/7/2790/6106568?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab023](https://academic.oup.com/jxb/article/72/7/2790/6106568?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33481006](https://pubmed.ncbi.nlm.nih.gov/33481006/)
 
 ## Related News:
    - [JXB | 四川农业大学卢艳丽团队揭示玉米ZmNAC48及其自然反义转录本调控玉米干旱新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247504144&idx=2&sn=708abf1b0b1215ee2381ac530bcbb11e&chksm=ce907c45f9e7f5531e1b77925eb447f71dc8064a8c7c25fcf792abec08af3288adc57e3401bd&scene=27#wechat_redirect)

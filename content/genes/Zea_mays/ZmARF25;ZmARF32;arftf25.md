@@ -22,7 +22,7 @@ tags: [ leaf,development,leaf development,heterosis,cell proliferation,cellular 
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[heterosis](/tags/heterosis/),&nbsp;&nbsp;[cell-proliferation](/tags/cell-proliferation/),&nbsp;&nbsp;[cellular-proliferation](/tags/cellular-proliferation/),&nbsp;&nbsp;[organ-size](/tags/organ-size/),&nbsp;&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
-   - [Ectopic expression of a maize hybrid down-regulated gene ZmARF25 decreases organ size by affecting cellular proliferation in Arabidopsis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0094830](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24756087](https://pubmed.ncbi.nlm.nih.gov/24756087/)
+   - [Ectopic expression of a maize hybrid down-regulated gene ZmARF25 decreases organ size by affecting cellular proliferation in Arabidopsis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0094830](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24756087](https://pubmed.ncbi.nlm.nih.gov/24756087/)
 
 ## Related News:
 

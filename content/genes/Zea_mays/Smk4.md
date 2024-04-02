@@ -24,7 +24,7 @@ tags: [ growth,development,plant development,mitochondria,plant growth,flowering
 - [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[mitochondria](/tags/mitochondria/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [SMALL KERNEL4 is required for mitochondrial cox1 transcript editing and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12856).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12856](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12856);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31332949](https://pubmed.ncbi.nlm.nih.gov/31332949/)
+   - [SMALL KERNEL4 is required for mitochondrial cox1 transcript editing and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12856)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12856](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12856);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31332949](https://pubmed.ncbi.nlm.nih.gov/31332949/)
 
 ## Related News:
    - [山东大学谭保才教授团队揭示玉米SMK4蛋白在线粒体RNA编辑及种子发育中的作用](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247492541&idx=3&sn=49148b53c1de8ab03afb965020465ae9&chksm=e8bd91a3dfca18b52263a472adb4e3347ab3b65359ad96127a9c70e765189e8aa1117340c698&scene=27#wechat_redirect)

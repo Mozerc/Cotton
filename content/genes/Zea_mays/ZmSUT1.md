@@ -24,9 +24,9 @@ tags: [ photosynthesis,stomatal,biomass,phloem,chlorophyll,sucrose ]
 - [photosynthesis](/tags/photosynthesis/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[biomass](/tags/biomass/),&nbsp;&nbsp;[phloem](/tags/phloem/),&nbsp;&nbsp;[chlorophyll](/tags/chlorophyll/),&nbsp;&nbsp;[sucrose](/tags/sucrose/)
 
 ## Literature:
-   - [Maize SUT1 functions in phloem loading.]( https://www.tandfonline.com/doi/full/10.4161/psb.5.6.11575).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.4161/psb.5.6.11575](https://www.tandfonline.com/doi/full/10.4161/psb.5.6.11575);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20404497](https://pubmed.ncbi.nlm.nih.gov/20404497/)
-   - [Effect of nicosulfuron on dynamic changes in the starch-sugar interconversion in sweet maize (Zea mays L.).]( https://link.springer.com/article/10.1007/s11356-023-26766-z).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11356-023-26766-z](https://link.springer.com/article/10.1007/s11356-023-26766-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37010681](https://pubmed.ncbi.nlm.nih.gov/37010681/)
-   - [A transcriptional landscape underlying sugar import for grain set in maize]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Maize SUT1 functions in phloem loading.]( https://www.tandfonline.com/doi/full/10.4161/psb.5.6.11575)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.4161/psb.5.6.11575](https://www.tandfonline.com/doi/full/10.4161/psb.5.6.11575);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20404497](https://pubmed.ncbi.nlm.nih.gov/20404497/)
+   - [Effect of nicosulfuron on dynamic changes in the starch-sugar interconversion in sweet maize (Zea mays L.).]( https://link.springer.com/article/10.1007/s11356-023-26766-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11356-023-26766-z](https://link.springer.com/article/10.1007/s11356-023-26766-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37010681](https://pubmed.ncbi.nlm.nih.gov/37010681/)
+   - [A transcriptional landscape underlying sugar import for grain set in maize]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15668);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

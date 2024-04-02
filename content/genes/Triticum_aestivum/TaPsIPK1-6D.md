@@ -23,10 +23,10 @@ tags: [ growth,kinase,resistance,yield,immunity,rust resistance,rust ]
    - **TaPsIPK1** is an ideal target for engineering broad-spectrum resistance to one of the most damaging diseases in wheat.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[immunity](/tags/immunity/),&nbsp;&nbsp;[rust-resistance](/tags/rust-resistance/),&nbsp;&nbsp;[rust](/tags/rust/)
 
 ## Literature:
-   - [Inactivation of a wheat protein kinase gene confers broad-spectrum resistance to rust fungi.]( https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cell.2022.06.027](https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35839760](https://pubmed.ncbi.nlm.nih.gov/35839760/)
+   - [Inactivation of a wheat protein kinase gene confers broad-spectrum resistance to rust fungi.]( https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cell.2022.06.027](https://www.sciencedirect.com/science/article/pii/S0092867422007796?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35839760](https://pubmed.ncbi.nlm.nih.gov/35839760/)
 
 ## Related News:
    - [Cell | 西北农林科技大学植物免疫团队在小麦感条锈病机制取得重大突破](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247533597&idx=2&sn=f2f010e697fc73b32153f19cf853a933&chksm=ce90e948f9e7605e9882ba4f3b7202dadbbb157c19d3072e2c2f159510893d7733e82045d869&scene=27#wechat_redirect)

@@ -22,7 +22,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,breeding,dwar
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[dwarf](/tags/dwarf/)
 
 ## Literature:
-   - [A transcription factor ZmGLK36 confers broad resistance to maize rough dwarf disease in cereal crops.]( https://www.nature.com/articles/s41477-023-01514-w).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01514-w](https://www.nature.com/articles/s41477-023-01514-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709955](https://pubmed.ncbi.nlm.nih.gov/37709955/)
+   - [A transcription factor ZmGLK36 confers broad resistance to maize rough dwarf disease in cereal crops.]( https://www.nature.com/articles/s41477-023-01514-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01514-w](https://www.nature.com/articles/s41477-023-01514-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709955](https://pubmed.ncbi.nlm.nih.gov/37709955/)
 
 ## Related News:
    - [Nature Plants | 中国农科院作科所发现广谱抗黑条矮缩病毒新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247556203&idx=4&sn=a08f69330fd875bc89473288ee517757&chksm=5a1d9fc95bdbf6cd03fc5da06a55c0a45fc8a7a10860cc671b3ed352ea546db101714f31b4b1&scene=27#wechat_redirect)

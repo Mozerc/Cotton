@@ -22,7 +22,7 @@ tags: [ root,growth,development,tolerance,root development,root growth,lateral r
 - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[primary-root](/tags/primary-root/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[pi](/tags/pi/),&nbsp;&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
-   - [Overexpression of the protein phosphatase 2A regulatory subunit a gene ZmPP2AA1 improves low phosphate tolerance by remodeling the root system architecture of maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407761/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0176538](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407761/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28448624](https://pubmed.ncbi.nlm.nih.gov/28448624/)
+   - [Overexpression of the protein phosphatase 2A regulatory subunit a gene ZmPP2AA1 improves low phosphate tolerance by remodeling the root system architecture of maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407761/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0176538](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407761/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28448624](https://pubmed.ncbi.nlm.nih.gov/28448624/)
 
 ## Related News:
 

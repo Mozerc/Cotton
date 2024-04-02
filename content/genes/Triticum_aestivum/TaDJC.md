@@ -19,10 +19,10 @@ tags: [ stress,stress response ]
    - The role of **DnaJ** in wheat (Triticum aestivum), and the interaction mechanism between TaDnaJs and plant viruses.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+   - [stress](/tags/stress/),&nbsp;&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
-   - [Genome-wide identification and analysis of the regulation wheat DnaJ family genes following wheat yellow mosaic virus infection]( https://www.sciencedirect.com/science/article/pii/S2095311921636195)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(21)63619-5](https://www.sciencedirect.com/science/article/pii/S2095311921636195)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Genome-wide identification and analysis of the regulation wheat DnaJ family genes following wheat yellow mosaic virus infection]( https://www.sciencedirect.com/science/article/pii/S2095311921636195)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(21)63619-5](https://www.sciencedirect.com/science/article/pii/S2095311921636195);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [JIA | 宁波大学陈剑平院士团队完成小麦DnaJ家族的全基因组鉴定及其调控小麦黄花叶病毒侵染的分子机制研究](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247506050&idx=7&sn=2a0184a470ca53e120b125c9c0394910&chksm=ce9075d7f9e7fcc167faecb791787210bee2dfaf614de9eccf96c3d9cda1944cfbc13ca827ad&scene=27#wechat_redirect)

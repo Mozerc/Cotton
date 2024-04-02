@@ -24,7 +24,7 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,abiotic str
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[pathogen](/tags/pathogen/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[phytohormone](/tags/phytohormone/),&nbsp;&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [Maize WRKY Transcription Factor ZmWRKY79 Positively Regulates Drought Tolerance through Elevating ABA Biosynthesis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8468953/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms221810080](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8468953/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34576244](https://pubmed.ncbi.nlm.nih.gov/34576244/)
+   - [Maize WRKY Transcription Factor ZmWRKY79 Positively Regulates Drought Tolerance through Elevating ABA Biosynthesis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8468953/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms221810080](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8468953/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34576244](https://pubmed.ncbi.nlm.nih.gov/34576244/)
 
 ## Related News:
 

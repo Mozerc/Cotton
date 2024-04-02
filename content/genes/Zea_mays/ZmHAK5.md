@@ -24,7 +24,7 @@ tags: [ growth,seedling leaves,seedling,homeostasis,seedling growth ]
 - [growth](/tags/growth/),&nbsp;&nbsp;[seedling-leaves](/tags/seedling-leaves/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
-   - [ZmHAK5 and ZmHAK1 function in K(+) uptake and distribution in maize under low K(+) conditions.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12756](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30548401](https://pubmed.ncbi.nlm.nih.gov/30548401/)
+   - [ZmHAK5 and ZmHAK1 function in K(+) uptake and distribution in maize under low K(+) conditions.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12756](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12756);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30548401](https://pubmed.ncbi.nlm.nih.gov/30548401/)
 
 ## Related News:
 

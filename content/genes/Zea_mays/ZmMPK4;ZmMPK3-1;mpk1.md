@@ -22,7 +22,7 @@ tags: [ temperature,stress,tolerance,stress tolerance,sugar,reactive oxygen spec
 - [temperature](/tags/temperature/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/),&nbsp;&nbsp;[catalase](/tags/catalase/)
 
 ## Literature:
-   - [Overexpression of a multiple stress-responsive gene, ZmMPK4, enhances tolerance to low temperature in transgenic tobacco.]( https://www.sciencedirect.com/science/article/pii/S0981942812001623).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2012.06.020](https://www.sciencedirect.com/science/article/pii/S0981942812001623);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22820152](https://pubmed.ncbi.nlm.nih.gov/22820152/)
+   - [Overexpression of a multiple stress-responsive gene, ZmMPK4, enhances tolerance to low temperature in transgenic tobacco.]( https://www.sciencedirect.com/science/article/pii/S0981942812001623)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2012.06.020](https://www.sciencedirect.com/science/article/pii/S0981942812001623);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22820152](https://pubmed.ncbi.nlm.nih.gov/22820152/)
 
 ## Related News:
 

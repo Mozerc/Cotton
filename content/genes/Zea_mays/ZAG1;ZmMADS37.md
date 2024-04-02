@@ -24,7 +24,7 @@ tags: [ development,floral,stamen,endosperm,endosperm development,protein transl
 - [development](/tags/development/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[stamen](/tags/stamen/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[protein-translation](/tags/protein-translation/)
 
 ## Literature:
-   - [Identification and molecular characterization of ZAG1, the maize homolog of the Arabidopsis floral homeotic gene AGAMOUS.]( https://academic.oup.com/plcell/article/5/7/729/5984525?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.5.7.729](https://academic.oup.com/plcell/article/5/7/729/5984525?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[8103379](https://pubmed.ncbi.nlm.nih.gov/8103379/)
+   - [Identification and molecular characterization of ZAG1, the maize homolog of the Arabidopsis floral homeotic gene AGAMOUS.]( https://academic.oup.com/plcell/article/5/7/729/5984525?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.5.7.729](https://academic.oup.com/plcell/article/5/7/729/5984525?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[8103379](https://pubmed.ncbi.nlm.nih.gov/8103379/)
 
 ## Related News:
 

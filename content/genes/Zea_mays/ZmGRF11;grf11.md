@@ -22,7 +22,7 @@ tags: [ growth,stress,stems,tolerance,stress tolerance,inflorescence,plant growt
 - [growth](/tags/growth/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[stems](/tags/stems/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
-   - [Genome-wide analysis of growth-regulating factor genes in grape (Vitis vinifera L.): identification, characterization and their responsive expression to osmotic stress.]( https://link.springer.com/article/10.1007/s00299-022-02939-x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-022-02939-x](https://link.springer.com/article/10.1007/s00299-022-02939-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36284021](https://pubmed.ncbi.nlm.nih.gov/36284021/)
+   - [Genome-wide analysis of growth-regulating factor genes in grape (Vitis vinifera L.): identification, characterization and their responsive expression to osmotic stress.]( https://link.springer.com/article/10.1007/s00299-022-02939-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-022-02939-x](https://link.springer.com/article/10.1007/s00299-022-02939-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36284021](https://pubmed.ncbi.nlm.nih.gov/36284021/)
 
 ## Related News:
 

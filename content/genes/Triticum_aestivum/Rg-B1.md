@@ -19,10 +19,10 @@ tags: [ transcription factor,quality,flavonoid,flavonoid biosynthesis ]
    - A single region at the **Rg-B1** locus on chromosome 1BS was associated with glume color in the diversity panel. Haplotype comparisons across ten high-quality wheat genomes revealed a MYB transcription factor as candidate gene.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[flavonoid](/tags/flavonoid/),&nbsp;&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
 
 ## Literature:
-   - [Population genomics and haplotype analysis in spelt and bread wheat identifies a gene regulating glume color.]( https://www.nature.com/articles/s42003-021-01908-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s42003-021-01908-6](https://www.nature.com/articles/s42003-021-01908-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33742098](https://pubmed.ncbi.nlm.nih.gov/33742098/)
+   - [Population genomics and haplotype analysis in spelt and bread wheat identifies a gene regulating glume color.]( https://www.nature.com/articles/s42003-021-01908-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s42003-021-01908-6](https://www.nature.com/articles/s42003-021-01908-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33742098](https://pubmed.ncbi.nlm.nih.gov/33742098/)
 
 ## Related News:
 

@@ -22,7 +22,7 @@ tags: [ brassinosteroid,br,auxin,gibberellin,iaa,auxin biosynthesis,cellulose,au
 - [brassinosteroid](/tags/brassinosteroid/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[gibberellin](/tags/gibberellin/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/),&nbsp;&nbsp;[cellulose](/tags/cellulose/),&nbsp;&nbsp;[auxin-transport](/tags/auxin-transport/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[brassinosteroid-biosynthesis](/tags/brassinosteroid-biosynthesis/),&nbsp;&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/),&nbsp;&nbsp;[gibberellin-biosynthesis](/tags/gibberellin-biosynthesis/)
 
 ## Literature:
-   - [A new allele of the Brachytic2 gene in maize can efficiently modify plant architecture.]( https://www.nature.com/articles/s41437-018-0056-3).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41437-018-0056-3](https://www.nature.com/articles/s41437-018-0056-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29472693](https://pubmed.ncbi.nlm.nih.gov/29472693/)
+   - [A new allele of the Brachytic2 gene in maize can efficiently modify plant architecture.]( https://www.nature.com/articles/s41437-018-0056-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41437-018-0056-3](https://www.nature.com/articles/s41437-018-0056-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29472693](https://pubmed.ncbi.nlm.nih.gov/29472693/)
 
 ## Related News:
 

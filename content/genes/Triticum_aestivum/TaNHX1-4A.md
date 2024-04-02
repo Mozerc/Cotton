@@ -20,11 +20,11 @@ tags: [ nitrogen,growth,stress,salinity,salt,salt stress,salinity stress ]
    - In general terms, higher expression of TaGS1, TaGS2, TaDREB2B, and to a lesser extent of TaNHX1 were associated with a better genotypic performance in growth, nitrogen, and carbon photosynthetic metabolism under salinity and water stress.
 
 ## Function-related keywords:
-   - [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)
+   - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[salinity](/tags/salinity/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[salinity-stress](/tags/salinity-stress/)
 
 ## Literature:
-   - [Gene expression and physiological responses to salinity and water stress of contrasting durum wheat genotypes.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12359)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12359](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12359)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25869057](https://pubmed.ncbi.nlm.nih.gov/25869057/)
-   - [Identification and characterization of multiple abiotic stress tolerance genes in wheat.]( https://link.springer.com/article/10.1007/s11033-020-05906-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-020-05906-5](https://link.springer.com/article/10.1007/s11033-020-05906-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33068231](https://pubmed.ncbi.nlm.nih.gov/33068231/)
+   - [Gene expression and physiological responses to salinity and water stress of contrasting durum wheat genotypes.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12359)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12359](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12359);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25869057](https://pubmed.ncbi.nlm.nih.gov/25869057/)
+   - [Identification and characterization of multiple abiotic stress tolerance genes in wheat.]( https://link.springer.com/article/10.1007/s11033-020-05906-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11033-020-05906-5](https://link.springer.com/article/10.1007/s11033-020-05906-5);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33068231](https://pubmed.ncbi.nlm.nih.gov/33068231/)
 
 ## Related News:
 

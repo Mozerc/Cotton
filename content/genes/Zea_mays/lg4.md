@@ -23,9 +23,9 @@ tags: [ leaf,development,leaf development,leaf angle ]
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
-   - [Genome-wide association studies of leaf angle in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236034/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-021-01241-0](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236034/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37309541](https://pubmed.ncbi.nlm.nih.gov/37309541/)
-   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [Genome-wide association studies of leaf angle in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236034/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-021-01241-0](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236034/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37309541](https://pubmed.ncbi.nlm.nih.gov/37309541/)
+   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
 
 ## Related News:
 

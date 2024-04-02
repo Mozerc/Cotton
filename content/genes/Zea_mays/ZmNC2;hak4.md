@@ -22,7 +22,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
 - [shoot](/tags/shoot/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
-   - [A HAK family Na(+) transporter confers natural variation of salt tolerance in maize.]( https://www.nature.com/articles/s41477-019-0565-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0565-y](https://www.nature.com/articles/s41477-019-0565-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31819228](https://pubmed.ncbi.nlm.nih.gov/31819228/)
+   - [A HAK family Na(+) transporter confers natural variation of salt tolerance in maize.]( https://www.nature.com/articles/s41477-019-0565-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0565-y](https://www.nature.com/articles/s41477-019-0565-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31819228](https://pubmed.ncbi.nlm.nih.gov/31819228/)
 
 ## Related News:
    - [中国农业大学蒋才富课题组发现第三类具有抗盐生理功能的Na+选择性离子转运蛋白](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247493306&idx=2&sn=02c4a322e4cf9cb49c3c83b0ccf6056f&chksm=fd737cddca04f5cbf7cf1b7be6dfd4a8cc7702e962678095eabfa7109e5bd807762c5bbeb927&scene=27#wechat_redirect)

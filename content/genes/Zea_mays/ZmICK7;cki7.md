@@ -22,7 +22,7 @@ tags: [ development,seed,endosperm,seed development,endosperm development,seed f
 - [development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[seed-filling](/tags/seed-filling/)
 
 ## Literature:
-   - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
+   - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
 
 ## Related News:
 

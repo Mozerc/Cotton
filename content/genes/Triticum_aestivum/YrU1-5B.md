@@ -20,10 +20,10 @@ tags: [ resistance,rust resistance,rust ]
    - The ankyrin-repeat and coiled-coil domains of YrU1 self-associate, suggesting that homodimerisation is critical for YrU1 function.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[rust-resistance](/tags/rust-resistance/)&nbsp;,&nbsp;[rust](/tags/rust/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[rust-resistance](/tags/rust-resistance/),&nbsp;&nbsp;[rust](/tags/rust/)
 
 ## Literature:
-   - [An ankyrin-repeat and WRKY-domain-containing immune receptor confers stripe rust resistance in wheat.]( https://www.nature.com/articles/s41467-020-15139-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-15139-6](https://www.nature.com/articles/s41467-020-15139-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32170056](https://pubmed.ncbi.nlm.nih.gov/32170056/)
+   - [An ankyrin-repeat and WRKY-domain-containing immune receptor confers stripe rust resistance in wheat.]( https://www.nature.com/articles/s41467-020-15139-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-15139-6](https://www.nature.com/articles/s41467-020-15139-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32170056](https://pubmed.ncbi.nlm.nih.gov/32170056/)
 
 ## Related News:
 

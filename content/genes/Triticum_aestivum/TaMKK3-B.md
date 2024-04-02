@@ -19,10 +19,10 @@ tags: [ kinase,seed,protein kinase,seed length,dormancy,seed dormancy ]
    - MKK3 gene is a causal gene of seed dormancy in wheat.
 
 ## Function-related keywords:
-   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[seed-length](/tags/seed-length/)&nbsp;,&nbsp;[dormancy](/tags/dormancy/)&nbsp;,&nbsp;[seed-dormancy](/tags/seed-dormancy/)
+   - [kinase](/tags/kinase/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[seed-length](/tags/seed-length/),&nbsp;&nbsp;[dormancy](/tags/dormancy/),&nbsp;&nbsp;[seed-dormancy](/tags/seed-dormancy/)
 
 ## Literature:
-   - [A Causal Gene for Seed Dormancy on Wheat Chromosome 4A Encodes a MAP Kinase Kinase.]( https://www.sciencedirect.com/science/article/pii/S0960982216300100?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cub.2016.01.063](https://www.sciencedirect.com/science/article/pii/S0960982216300100?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26948878](https://pubmed.ncbi.nlm.nih.gov/26948878/)
+   - [A Causal Gene for Seed Dormancy on Wheat Chromosome 4A Encodes a MAP Kinase Kinase.]( https://www.sciencedirect.com/science/article/pii/S0960982216300100?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cub.2016.01.063](https://www.sciencedirect.com/science/article/pii/S0960982216300100?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26948878](https://pubmed.ncbi.nlm.nih.gov/26948878/)
 
 ## Related News:
 

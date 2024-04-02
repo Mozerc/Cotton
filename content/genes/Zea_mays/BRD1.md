@@ -23,7 +23,7 @@ tags: [ brassinosteroid,br,brassinosteroid biosynthesis,protoplasts ]
 - [brassinosteroid](/tags/brassinosteroid/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[brassinosteroid-biosynthesis](/tags/brassinosteroid-biosynthesis/),&nbsp;&nbsp;[protoplasts](/tags/protoplasts/)
 
 ## Literature:
-   - [Regulation of brassinosteroid biosynthesis and inactivation.]( https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1744-7909.2012.01168.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22963251](https://pubmed.ncbi.nlm.nih.gov/22963251/)
+   - [Regulation of brassinosteroid biosynthesis and inactivation.]( https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1744-7909.2012.01168.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7909.2012.01168.x#b64);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22963251](https://pubmed.ncbi.nlm.nih.gov/22963251/)
 
 ## Related News:
 

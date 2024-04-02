@@ -22,7 +22,7 @@ tags: [ transcription factor,stem,seed,aba,inflorescence,sugar,sugar transport ]
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[stem](/tags/stem/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[sugar-transport](/tags/sugar-transport/)
 
 ## Literature:
-   - [Analysis of Global Gene Expression in Maize (Zea mays) Vegetative and Reproductive Tissues That Differ in Accumulation of Starch and Sucrose.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants11030238](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35161219](https://pubmed.ncbi.nlm.nih.gov/35161219/)
+   - [Analysis of Global Gene Expression in Maize (Zea mays) Vegetative and Reproductive Tissues That Differ in Accumulation of Starch and Sucrose.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants11030238](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838981/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35161219](https://pubmed.ncbi.nlm.nih.gov/35161219/)
 
 ## Related News:
 

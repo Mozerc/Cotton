@@ -20,10 +20,10 @@ tags: [ transcription factor,drought,tolerance,drought tolerance ]
    - **TaDTG6-B** has a function in wheat drought tolerance.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
-   - [A gain-of-function allele of a DREB transcription factor gene ameliorates drought tolerance in wheat.]( https://academic.oup.com/plcell/article/34/11/4472/6663768?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac248](https://academic.oup.com/plcell/article/34/11/4472/6663768?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35959993](https://pubmed.ncbi.nlm.nih.gov/35959993/)
+   - [A gain-of-function allele of a DREB transcription factor gene ameliorates drought tolerance in wheat.]( https://academic.oup.com/plcell/article/34/11/4472/6663768?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac248](https://academic.oup.com/plcell/article/34/11/4472/6663768?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35959993](https://pubmed.ncbi.nlm.nih.gov/35959993/)
 
 ## Related News:
    - [Plant Cell | 西北农林科技大学植物保护学院植物免疫研究团队发掘了小麦抗旱基因 TaDTG6-B 并揭示了其分子机理](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247535943&idx=4&sn=be5edceb6f17f42997f1aa4ce8d7d0d4&chksm=ce90e012f9e76904bea96a796852a2b022889548a351077cac8b54d5a90ad0bf72a9a98c5e9b&scene=27#wechat_redirect)

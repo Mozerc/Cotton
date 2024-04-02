@@ -21,7 +21,7 @@ tags: [ seedlings,chloroplast,development,endosperm,abscisic acid,chloroplast de
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[chloroplast](/tags/chloroplast/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[chloroplast-development](/tags/chloroplast-development/),&nbsp;&nbsp;[flavonoid](/tags/flavonoid/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
+   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
 
 ## Related News:
 

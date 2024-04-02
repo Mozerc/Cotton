@@ -24,7 +24,7 @@ tags: [ drought,cell wall,stomatal,stomatal density,secondary cell wall,drought 
 - [drought](/tags/drought/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[stomatal-density](/tags/stomatal-density/),&nbsp;&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [Natural polymorphisms in ZmIRX15A affect water-use efficiency by modulating stomatal density in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14153).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14153](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14153);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37572352](https://pubmed.ncbi.nlm.nih.gov/37572352/)
+   - [Natural polymorphisms in ZmIRX15A affect water-use efficiency by modulating stomatal density in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14153)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14153](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14153);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37572352](https://pubmed.ncbi.nlm.nih.gov/37572352/)
 
 ## Related News:
    - [中国农大贺岩/周于毅课题组首次在玉米自然群体中鉴定到调控叶片气孔密度的关键基因](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247578874&idx=2&sn=a08cd65fce6e08e1094b085ba88d41ca&chksm=e90dae2dbb4513c3f1da2f4513953c31b2afead986a39267fed3879eef341855f0567127d741&scene=27#wechat_redirect)

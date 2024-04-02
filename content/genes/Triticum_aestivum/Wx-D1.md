@@ -23,7 +23,7 @@ tags: [  ]
    - [](/tags//)
 
 ## Literature:
-   - [Waxy protein deficiency and chromosomal location of coding genes in common wheat.]( https://link.springer.com/article/10.1007/BF00225138)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/BF00225138](https://link.springer.com/article/10.1007/BF00225138)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24177825](https://pubmed.ncbi.nlm.nih.gov/24177825/)
+   - [Waxy protein deficiency and chromosomal location of coding genes in common wheat.]( https://link.springer.com/article/10.1007/BF00225138)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/BF00225138](https://link.springer.com/article/10.1007/BF00225138);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24177825](https://pubmed.ncbi.nlm.nih.gov/24177825/)
 
 ## Related News:
 

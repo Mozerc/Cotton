@@ -22,7 +22,7 @@ tags: [ resistance ]
    - [resistance](/tags/resistance/)
 
 ## Literature:
-   - [A cell wall invertase modulates resistance to fusarium crown rot and sharp eyespot in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13478)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13478](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13478)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36912577](https://pubmed.ncbi.nlm.nih.gov/36912577/)
+   - [A cell wall invertase modulates resistance to fusarium crown rot and sharp eyespot in common wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13478)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13478](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13478);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36912577](https://pubmed.ncbi.nlm.nih.gov/36912577/)
 
 ## Related News:
    - [河南农业大学陈锋课题组发现小麦茎基腐病抗性新基因](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247568026&idx=4&sn=59d644685eb48fe97d9a8ff13459f6cb&chksm=f4d1a9de2ac0f67edb1b1c20885999b395f8661ee552dd850b2bf7741d828f9b62e5081e45cb&scene=27#wechat_redirect)

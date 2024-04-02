@@ -22,7 +22,7 @@ tags: [ xylem,root,shoot,domestication,salt,tolerance,salt tolerance,homeostasis
 - [xylem](/tags/xylem/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[domestication](/tags/domestication/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[amino-acid-transporter](/tags/amino-acid-transporter/)
 
 ## Literature:
-   - [A domestication-associated reduction in K(+) -preferring HKT transporter activity underlies maize shoot K(+) accumulation and salt tolerance.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15605).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15605](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15605);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30461018](https://pubmed.ncbi.nlm.nih.gov/30461018/)
+   - [A domestication-associated reduction in K(+) -preferring HKT transporter activity underlies maize shoot K(+) accumulation and salt tolerance.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15605)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15605](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15605);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30461018](https://pubmed.ncbi.nlm.nih.gov/30461018/)
 
 ## Related News:
 

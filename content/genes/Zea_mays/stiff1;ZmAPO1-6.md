@@ -23,8 +23,8 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [A Large Transposon Insertion in the stiff1 Promoter Increases Stalk Strength in Maize.]( https://academic.oup.com/plcell/article/32/1/152/6099189?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00486](https://academic.oup.com/plcell/article/32/1/152/6099189?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31690654](https://pubmed.ncbi.nlm.nih.gov/31690654/)
-   - [Effects of overexpression of ZmAPO1-9 gene on maize yield]( https://link.springer.com/article/10.1007/s10725-022-00920-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00920-y](https://link.springer.com/article/10.1007/s10725-022-00920-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [A Large Transposon Insertion in the stiff1 Promoter Increases Stalk Strength in Maize.]( https://academic.oup.com/plcell/article/32/1/152/6099189?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00486](https://academic.oup.com/plcell/article/32/1/152/6099189?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31690654](https://pubmed.ncbi.nlm.nih.gov/31690654/)
+   - [Effects of overexpression of ZmAPO1-9 gene on maize yield]( https://link.springer.com/article/10.1007/s10725-022-00920-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00920-y](https://link.springer.com/article/10.1007/s10725-022-00920-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [Plant Cell | 中国农业大学农学院林中伟课题组在玉米抗倒伏性研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247492875&idx=1&sn=4e02118c04acf364d0467248017c90b8&chksm=fd737f6cca04f67a7330efa0fa209e8734379c373c554edea28d7142e0e1625b1d4446765f88&scene=27#wechat_redirect)

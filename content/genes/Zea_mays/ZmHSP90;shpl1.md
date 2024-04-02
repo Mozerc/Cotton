@@ -22,7 +22,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeos
 - [stress](/tags/stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/)
 
 ## Literature:
-   - [Maize ZmHSP90 plays a role in acclimation to salt stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557940/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.15819](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557940/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37810777](https://pubmed.ncbi.nlm.nih.gov/37810777/)
+   - [Maize ZmHSP90 plays a role in acclimation to salt stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557940/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.15819](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557940/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37810777](https://pubmed.ncbi.nlm.nih.gov/37810777/)
 
 ## Related News:
 

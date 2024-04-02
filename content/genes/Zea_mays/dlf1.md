@@ -24,9 +24,9 @@ tags: [ development,shoot,floral,flowering time,flowering ]
 - [development](/tags/development/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32579713](https://pubmed.ncbi.nlm.nih.gov/32579713/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
-   - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32579713](https://pubmed.ncbi.nlm.nih.gov/32579713/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [dlf1 promotes floral transition by directly activating ZmMADS4 and ZmMADS67 in the maize shoot apex]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16772](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

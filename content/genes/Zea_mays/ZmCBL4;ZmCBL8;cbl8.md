@@ -22,7 +22,7 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 - [stress](/tags/stress/),&nbsp;&nbsp;[salinity](/tags/salinity/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[salinity-stress](/tags/salinity-stress/),&nbsp;&nbsp;[calcium](/tags/calcium/),&nbsp;&nbsp;[calcium-signaling](/tags/calcium-signaling/)
 
 ## Literature:
-   - [Overexpression of a putative maize calcineurin B-like protein in Arabidopsis confers salt tolerance.]( https://link.springer.com/article/10.1007/s11103-007-9238-8).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9238-8](https://link.springer.com/article/10.1007/s11103-007-9238-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17882512](https://pubmed.ncbi.nlm.nih.gov/17882512/)
+   - [Overexpression of a putative maize calcineurin B-like protein in Arabidopsis confers salt tolerance.]( https://link.springer.com/article/10.1007/s11103-007-9238-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-007-9238-8](https://link.springer.com/article/10.1007/s11103-007-9238-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17882512](https://pubmed.ncbi.nlm.nih.gov/17882512/)
 
 ## Related News:
 

@@ -24,7 +24,7 @@ tags: [ seedlings,root,drought,tolerance,drought tolerance,lateral root,primary 
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[primary-root](/tags/primary-root/),&nbsp;&nbsp;[root-number](/tags/root-number/),&nbsp;&nbsp;[lateral-root-number](/tags/lateral-root-number/)
 
 ## Literature:
-   - [Positional cloning and characterization reveal the role of a miRNA precursor gene ZmLRT in the regulation of lateral root number and drought tolerance in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13408).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13408](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13408);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36354146](https://pubmed.ncbi.nlm.nih.gov/36354146/)
+   - [Positional cloning and characterization reveal the role of a miRNA precursor gene ZmLRT in the regulation of lateral root number and drought tolerance in maize.]( https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13408)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13408](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.13408);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36354146](https://pubmed.ncbi.nlm.nih.gov/36354146/)
 
 ## Related News:
    - [中国农大张义荣/邢界文克隆调控玉米侧根数的基因ZmLRT](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247558436&idx=6&sn=a40646b675cbcd31ef34eae14cdb1c55&chksm=e8bc973adfcb1e2c4b09d1fb6aa2920ccc9c18c24583c081e682cdce8a889419efe2529988cc&scene=27#wechat_redirect)
