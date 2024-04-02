@@ -20,16 +20,16 @@ tags: [ transcription factor,resistance,disease,disease resistance,ja,dwarf,jasm
    - Represents **QMrdd2** a QTL associated with maize rough dwarf disease resistance.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[defence](/tags/defence/)&nbsp;,&nbsp;[defence-response](/tags/defence-response/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[defence](/tags/defence/),&nbsp;&nbsp;[defence-response](/tags/defence-response/)
 
 ## Literature:
-   - [A transcription factor ZmGLK36 confers broad resistance to maize rough dwarf disease in cereal crops.]( https://www.nature.com/articles/s41477-023-01514-w)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01514-w](https://www.nature.com/articles/s41477-023-01514-w)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709955](https://pubmed.ncbi.nlm.nih.gov/37709955/)
+   - [A transcription factor ZmGLK36 confers broad resistance to maize rough dwarf disease in cereal crops.]( https://www.nature.com/articles/s41477-023-01514-w).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01514-w](https://www.nature.com/articles/s41477-023-01514-w);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37709955](https://pubmed.ncbi.nlm.nih.gov/37709955/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100281611](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281611)
-- **UniProt accessions:** [A0A1D6E0Q9](https://www.uniprot.org/uniprotkb/A0A1D6E0Q9/entry)&nbsp;,&nbsp;[A0A1D6E0R0](https://www.uniprot.org/uniprotkb/A0A1D6E0R0/entry)
+- **UniProt accessions:** [A0A1D6E0Q9](https://www.uniprot.org/uniprotkb/A0A1D6E0Q9/entry),&nbsp;&nbsp;[A0A1D6E0R0](https://www.uniprot.org/uniprotkb/A0A1D6E0R0/entry)
 
 
 

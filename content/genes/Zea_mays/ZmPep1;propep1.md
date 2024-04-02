@@ -19,16 +19,16 @@ tags: [ leaf,resistance,disease,disease resistance,blight,immunity,innate immuni
    - **ZmPep1** also stimulates the expression of Benzoxazineless1, a gene required for the biosynthesis of benzoxazinoid defenses, and the accumulation of 2-hydroxy-4,7-dimethoxy-1,4-benzoxazin-3-one glucoside in leaves.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[immunity](/tags/immunity/)&nbsp;,&nbsp;[innate-immunity](/tags/innate-immunity/)&nbsp;,&nbsp;[blight-disease](/tags/blight-disease/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[blight](/tags/blight/),&nbsp;&nbsp;[immunity](/tags/immunity/),&nbsp;&nbsp;[innate-immunity](/tags/innate-immunity/),&nbsp;&nbsp;[blight-disease](/tags/blight-disease/)
 
 ## Literature:
-   - [ZmPep1, an ortholog of Arabidopsis elicitor peptide 1, regulates maize innate immunity and enhances disease resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.110.166710](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21205619](https://pubmed.ncbi.nlm.nih.gov/21205619/)
+   - [ZmPep1, an ortholog of Arabidopsis elicitor peptide 1, regulates maize innate immunity and enhances disease resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.110.166710](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046589/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21205619](https://pubmed.ncbi.nlm.nih.gov/21205619/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC103645871](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103645871)
-- **UniProt accessions:** [A0A1D6DWZ3](https://www.uniprot.org/uniprotkb/A0A1D6DWZ3/entry)&nbsp;,&nbsp;[A0A1D6DWZ4](https://www.uniprot.org/uniprotkb/A0A1D6DWZ4/entry)
+- **UniProt accessions:** [A0A1D6DWZ3](https://www.uniprot.org/uniprotkb/A0A1D6DWZ3/entry),&nbsp;&nbsp;[A0A1D6DWZ4](https://www.uniprot.org/uniprotkb/A0A1D6DWZ4/entry)
 
 
 

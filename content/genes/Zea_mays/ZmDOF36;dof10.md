@@ -19,10 +19,10 @@ tags: [ transcription factor,starch,endosperm ]
    - **ZmDOF36** acts as an important regulatory factor in starch synthesis, and could be helpful in devising strategies for modulating starch production in maize endosperm.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[endosperm](/tags/endosperm/)
 
 ## Literature:
-   - [The DOF-Domain Transcription Factor ZmDOF36 Positively Regulates Starch Synthesis in Transgenic Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6474321/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2019.00465](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6474321/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31031791](https://pubmed.ncbi.nlm.nih.gov/31031791/)
+   - [The DOF-Domain Transcription Factor ZmDOF36 Positively Regulates Starch Synthesis in Transgenic Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6474321/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2019.00465](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6474321/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31031791](https://pubmed.ncbi.nlm.nih.gov/31031791/)
 
 ## Related News:
 

@@ -19,10 +19,10 @@ tags: [ development,drought,seed,seed germination,tolerance,drought tolerance,en
    - **ZmRBOH7** is a candidate gene for drought tolerance.
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [Evolutionary Analysis of Respiratory Burst Oxidase Homolog (RBOH) Genes in Plants and Characterization of ZmRBOHs.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043858](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835269](https://pubmed.ncbi.nlm.nih.gov/36835269/)
+   - [Evolutionary Analysis of Respiratory Burst Oxidase Homolog (RBOH) Genes in Plants and Characterization of ZmRBOHs.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24043858](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965149/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36835269](https://pubmed.ncbi.nlm.nih.gov/36835269/)
 
 ## Related News:
 

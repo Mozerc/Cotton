@@ -21,7 +21,7 @@ tags: [ tolerance ]
 - [tolerance](/tags/tolerance/)
 
 ## Literature:
-   - [A group VII ethylene response factor gene, ZmEREB180, coordinates waterlogging tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13140](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31033158](https://pubmed.ncbi.nlm.nih.gov/31033158/)
+   - [A group VII ethylene response factor gene, ZmEREB180, coordinates waterlogging tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13140](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13140);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31033158](https://pubmed.ncbi.nlm.nih.gov/31033158/)
 
 ## Related News:
 

@@ -21,7 +21,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Correlated retrograde and developmental regulons implicate multiple retrograde signals as coordinators of chloroplast development in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9709983/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac276](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9709983/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36073948](https://pubmed.ncbi.nlm.nih.gov/36073948/)
+   - [Correlated retrograde and developmental regulons implicate multiple retrograde signals as coordinators of chloroplast development in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9709983/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac276](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9709983/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36073948](https://pubmed.ncbi.nlm.nih.gov/36073948/)
 
 ## Related News:
 

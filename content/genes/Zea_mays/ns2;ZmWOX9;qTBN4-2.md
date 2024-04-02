@@ -21,11 +21,11 @@ tags: [ seedlings,shoot,sheath,vegetative,homeobox gene ]
    - Mutations in ns1 and **NS2** together confer the deletion of a lateral domain in maize leaves that extends from the midpoint of the distal blade and includes the entire length of the proximal sheath.
 
 ## Function-related keywords:
-- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[vegetative](/tags/vegetative/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)
+- [seedlings](/tags/seedlings/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[sheath](/tags/sheath/),&nbsp;&nbsp;[vegetative](/tags/vegetative/),&nbsp;&nbsp;[homeobox-gene](/tags/homeobox-gene/)
 
 ## Literature:
-   - [The maize duplicate genes narrow sheath1 and narrow sheath2 encode a conserved homeobox gene function in a lateral domain of shoot apical meristems.]( https://journals.biologists.com/dev/article/131/12/2827/42216/The-maize-duplicate-genes-narrow-sheath1-and)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.01164](https://journals.biologists.com/dev/article/131/12/2827/42216/The-maize-duplicate-genes-narrow-sheath1-and)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[15169755](https://pubmed.ncbi.nlm.nih.gov/15169755/)
-   - [Plant homeodomain proteins provide a mechanism for how leaves grow wide.]( https://journals.biologists.com/dev/article/147/20/dev193623/225929/Plant-homeodomain-proteins-provide-a-mechanism-for)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.193623](https://journals.biologists.com/dev/article/147/20/dev193623/225929/Plant-homeodomain-proteins-provide-a-mechanism-for)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32994171](https://pubmed.ncbi.nlm.nih.gov/32994171/)
+   - [The maize duplicate genes narrow sheath1 and narrow sheath2 encode a conserved homeobox gene function in a lateral domain of shoot apical meristems.]( https://journals.biologists.com/dev/article/131/12/2827/42216/The-maize-duplicate-genes-narrow-sheath1-and).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.01164](https://journals.biologists.com/dev/article/131/12/2827/42216/The-maize-duplicate-genes-narrow-sheath1-and);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[15169755](https://pubmed.ncbi.nlm.nih.gov/15169755/)
+   - [Plant homeodomain proteins provide a mechanism for how leaves grow wide.]( https://journals.biologists.com/dev/article/147/20/dev193623/225929/Plant-homeodomain-proteins-provide-a-mechanism-for).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.193623](https://journals.biologists.com/dev/article/147/20/dev193623/225929/Plant-homeodomain-proteins-provide-a-mechanism-for);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32994171](https://pubmed.ncbi.nlm.nih.gov/32994171/)
 
 ## Related News:
 

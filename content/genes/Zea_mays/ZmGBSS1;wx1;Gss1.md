@@ -19,10 +19,10 @@ tags: [ pollen,starch,embryo,endosperm ]
    - Opaque endosperm of smooth, firm non-corneous starch, consisting almost entirely of amylopectin (stains red with iodine), which replaces amylose (blue staining) in endosperm, and also in the pollen and embryo sac.
 
 ## Function-related keywords:
-- [pollen](/tags/pollen/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)
+- [pollen](/tags/pollen/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[endosperm](/tags/endosperm/)
 
 ## Literature:
-   - [The transcription factors ZmNAC128 and ZmNAC130 coordinate with Opaque2 to promote endosperm filling in maize.]( https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad215](https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542515](https://pubmed.ncbi.nlm.nih.gov/37542515/)
+   - [The transcription factors ZmNAC128 and ZmNAC130 coordinate with Opaque2 to promote endosperm filling in maize.]( https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad215](https://academic.oup.com/plcell/article/35/11/4066/7237770?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542515](https://pubmed.ncbi.nlm.nih.gov/37542515/)
 
 ## Related News:
 

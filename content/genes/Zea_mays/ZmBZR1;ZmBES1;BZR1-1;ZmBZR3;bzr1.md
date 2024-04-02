@@ -21,12 +21,12 @@ tags: [ br,cell elongation,resistant ]
    - Our previous study also indicated that overexpression of **ZmBZR1** in transgenic Arabidopsis plants leads to a significant increase in plant size.
 
 ## Function-related keywords:
-- [br](/tags/br/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+- [br](/tags/br/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
-   - [A spatiotemporal transcriptomic network dynamically modulates stalk development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13909](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070002](https://pubmed.ncbi.nlm.nih.gov/36070002/)
-   - [Characterization of regulatory modules controlling leaf angle in maize.]( https://academic.oup.com/plphys/article/190/1/500/6618538)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac308](https://academic.oup.com/plphys/article/190/1/500/6618538)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35758633](https://pubmed.ncbi.nlm.nih.gov/35758633/)
-   - [Overexpression of a maize BR transcription factor ZmBZR1 in Arabidopsis enlarges organ and seed size of the transgenic plants.]( https://www.sciencedirect.com/science/article/abs/pii/S0168945219315511?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110378](https://www.sciencedirect.com/science/article/abs/pii/S0168945219315511?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32005383](https://pubmed.ncbi.nlm.nih.gov/32005383/)
+   - [A spatiotemporal transcriptomic network dynamically modulates stalk development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13909](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13909);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070002](https://pubmed.ncbi.nlm.nih.gov/36070002/)
+   - [Characterization of regulatory modules controlling leaf angle in maize.]( https://academic.oup.com/plphys/article/190/1/500/6618538).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac308](https://academic.oup.com/plphys/article/190/1/500/6618538);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35758633](https://pubmed.ncbi.nlm.nih.gov/35758633/)
+   - [Overexpression of a maize BR transcription factor ZmBZR1 in Arabidopsis enlarges organ and seed size of the transgenic plants.]( https://www.sciencedirect.com/science/article/abs/pii/S0168945219315511?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110378](https://www.sciencedirect.com/science/article/abs/pii/S0168945219315511?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32005383](https://pubmed.ncbi.nlm.nih.gov/32005383/)
 
 ## Related News:
    - [PBJ | 中国农业科学院生物技术研究所通过时空特异转录组揭示调控玉米节间发育的新模式](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247536431&idx=1&sn=c58346b1187202a0fa998cf66850701e&chksm=ce90e27af9e76b6cec098bde546a7b38a9cc98e7eb026c716de2b8e99e96ecad0dd6dee47202&scene=27#wechat_redirect)

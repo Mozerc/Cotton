@@ -20,16 +20,16 @@ tags: [ leaf,leaf patterning ]
    - In double mutants with scro1, most leaf veins are separated by one rather than two mesophyll cells.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-patterning](/tags/leaf-patterning/)
 
 ## Literature:
-   - [SCARECROW gene function is required for photosynthetic development in maize.]( https://onlinelibrary.wiley.com/doi/10.1002/pld3.264)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/pld3.264](https://onlinelibrary.wiley.com/doi/10.1002/pld3.264)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32999956](https://pubmed.ncbi.nlm.nih.gov/32999956/)
+   - [SCARECROW gene function is required for photosynthetic development in maize.]( https://onlinelibrary.wiley.com/doi/10.1002/pld3.264).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/pld3.264](https://onlinelibrary.wiley.com/doi/10.1002/pld3.264);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32999956](https://pubmed.ncbi.nlm.nih.gov/32999956/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100274320](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100274320)
-- **UniProt accessions:** [A0A1D6EIU2](https://www.uniprot.org/uniprotkb/A0A1D6EIU2/entry)&nbsp;,&nbsp;[A0A3L6FWS6](https://www.uniprot.org/uniprotkb/A0A3L6FWS6/entry)
+- **UniProt accessions:** [A0A1D6EIU2](https://www.uniprot.org/uniprotkb/A0A1D6EIU2/entry),&nbsp;&nbsp;[A0A3L6FWS6](https://www.uniprot.org/uniprotkb/A0A3L6FWS6/entry)
 
 
 

@@ -21,13 +21,13 @@ tags: [ ga ]
 - [ga](/tags/ga/)
 
 ## Literature:
-   - [Multiple genes recruited from hormone pathways partition maize diterpenoid defences.]( https://www.nature.com/articles/s41477-019-0509-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0509-6](https://www.nature.com/articles/s41477-019-0509-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31527844](https://pubmed.ncbi.nlm.nih.gov/31527844/)
+   - [Multiple genes recruited from hormone pathways partition maize diterpenoid defences.]( https://www.nature.com/articles/s41477-019-0509-6).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0509-6](https://www.nature.com/articles/s41477-019-0509-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31527844](https://pubmed.ncbi.nlm.nih.gov/31527844/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:** [100274015](https://www.ncbi.nlm.nih.gov/gene/?term=100274015)
-- **UniProt accessions:** [B4FYL7](https://www.uniprot.org/uniprotkb/B4FYL7/entry)&nbsp;,&nbsp;[A0A1D6P256](https://www.uniprot.org/uniprotkb/A0A1D6P256/entry)
+- **UniProt accessions:** [B4FYL7](https://www.uniprot.org/uniprotkb/B4FYL7/entry),&nbsp;&nbsp;[A0A1D6P256](https://www.uniprot.org/uniprotkb/A0A1D6P256/entry)
 
 
 

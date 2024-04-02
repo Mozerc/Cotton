@@ -19,10 +19,10 @@ tags: [ resistance,defense ]
    - **ZmMPK6-1** can interact with ZmERF061 which enhanced the transcriptional activation activity of ZmERF061.
 
 ## Function-related keywords:
-- [resistance](/tags/resistance/)&nbsp;,&nbsp;[defense](/tags/defense/)
+- [resistance](/tags/resistance/),&nbsp;&nbsp;[defense](/tags/defense/)
 
 ## Literature:
-   - [ZmMPK6-1 positively regulates maize resistance to E. turcicum through enhancing ZmERF061 activity]( https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1080/17429145.2023.2261772](https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZmMPK6-1 positively regulates maize resistance to E. turcicum through enhancing ZmERF061 activity]( https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1080/17429145.2023.2261772](https://www.tandfonline.com/doi/full/10.1080/17429145.2023.2261772);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

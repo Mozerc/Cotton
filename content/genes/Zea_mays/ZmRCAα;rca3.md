@@ -20,16 +20,16 @@ tags: [ grain,stems,grain yield,grain filling,yield,grain protein ]
    - **ZmRCAα** encodes alpha form of RUBISCO activase.
 
 ## Function-related keywords:
-- [grain](/tags/grain/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/),&nbsp;&nbsp;[stems](/tags/stems/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[grain-filling](/tags/grain-filling/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
-   - [Characterization of Rubisco activase genes in maize: an α-isoform gene functions alongside a β-isoform gene.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982765/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.113.230854](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982765/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24510763](https://pubmed.ncbi.nlm.nih.gov/24510763/)
+   - [Characterization of Rubisco activase genes in maize: an α-isoform gene functions alongside a β-isoform gene.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982765/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.113.230854](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982765/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24510763](https://pubmed.ncbi.nlm.nih.gov/24510763/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100382265](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382265)
-- **UniProt accessions:** [A0A3L6F7J8](https://www.uniprot.org/uniprotkb/A0A3L6F7J8/entry)&nbsp;,&nbsp;[C0P5X6](https://www.uniprot.org/uniprotkb/C0P5X6/entry)&nbsp;,&nbsp;[K9S0H6](https://www.uniprot.org/uniprotkb/K9S0H6/entry)
+- **UniProt accessions:** [A0A3L6F7J8](https://www.uniprot.org/uniprotkb/A0A3L6F7J8/entry),&nbsp;&nbsp;[C0P5X6](https://www.uniprot.org/uniprotkb/C0P5X6/entry),&nbsp;&nbsp;[K9S0H6](https://www.uniprot.org/uniprotkb/K9S0H6/entry)
 
 
 

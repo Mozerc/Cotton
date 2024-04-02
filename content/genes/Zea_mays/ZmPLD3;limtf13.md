@@ -22,7 +22,7 @@ tags: [ pollen ]
 - [pollen](/tags/pollen/)
 
 ## Literature:
-   - [Loss-of-function alleles of ZmPLD3 cause haploid induction in maize.]( https://www.nature.com/articles/s41477-021-01037-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-021-01037-2](https://www.nature.com/articles/s41477-021-01037-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34887519](https://pubmed.ncbi.nlm.nih.gov/34887519/)
+   - [Loss-of-function alleles of ZmPLD3 cause haploid induction in maize.]( https://www.nature.com/articles/s41477-021-01037-2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-021-01037-2](https://www.nature.com/articles/s41477-021-01037-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34887519](https://pubmed.ncbi.nlm.nih.gov/34887519/)
 
 ## Related News:
 

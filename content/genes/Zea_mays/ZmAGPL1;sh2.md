@@ -18,10 +18,10 @@ tags: [ starch,cytoplasm,starch biosynthesis,pyrophosphorylase ]
    - **ZmAGPL1** encodes a ADP glucose pyrophosphorylase,Locates in the cytoplasm.
 
 ## Function-related keywords:
-- [starch](/tags/starch/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/)&nbsp;,&nbsp;[pyrophosphorylase](/tags/pyrophosphorylase/)
+- [starch](/tags/starch/),&nbsp;&nbsp;[cytoplasm](/tags/cytoplasm/),&nbsp;&nbsp;[starch-biosynthesis](/tags/starch-biosynthesis/),&nbsp;&nbsp;[pyrophosphorylase](/tags/pyrophosphorylase/)
 
 ## Literature:
-   - [Overexpression of ZmbZIP22 gene alters endosperm starch content and composition in maize and rice.]( https://www.sciencedirect.com/science/article/pii/S0168945218315395)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.03.001](https://www.sciencedirect.com/science/article/pii/S0168945218315395)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31128711](https://pubmed.ncbi.nlm.nih.gov/31128711/)
+   - [Overexpression of ZmbZIP22 gene alters endosperm starch content and composition in maize and rice.]( https://www.sciencedirect.com/science/article/pii/S0168945218315395).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.03.001](https://www.sciencedirect.com/science/article/pii/S0168945218315395);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31128711](https://pubmed.ncbi.nlm.nih.gov/31128711/)
 
 ## Related News:
 

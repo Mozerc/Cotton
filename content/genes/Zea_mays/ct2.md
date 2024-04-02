@@ -21,17 +21,17 @@ tags: [ leaf,development,leaf development,shoot,meristem,inflorescence,leaf angl
    - **Ct2** mutants have enlarged SAMs, fasciated ears with enlarged ear inflorescence meristems and more rows of kernels.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[inflorescence-development](/tags/inflorescence-development/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[leaf-angle](/tags/leaf-angle/),&nbsp;&nbsp;[inflorescence-development](/tags/inflorescence-development/),&nbsp;&nbsp;[shoot-meristem](/tags/shoot-meristem/)
 
 ## Literature:
-   - [Role of heterotrimeric Gα proteins in maize development and enhancement of agronomic traits.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1007374](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29708966](https://pubmed.ncbi.nlm.nih.gov/29708966/)
-   - [The G protein-coupled receptor COLD1 promotes chilling tolerance in maize during germination.]( https://www.sciencedirect.com/science/article/abs/pii/S0141813023037741?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2023.126877](https://www.sciencedirect.com/science/article/abs/pii/S0141813023037741?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37716664](https://pubmed.ncbi.nlm.nih.gov/37716664/)
+   - [Role of heterotrimeric Gα proteins in maize development and enhancement of agronomic traits.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1007374](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007374);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29708966](https://pubmed.ncbi.nlm.nih.gov/29708966/)
+   - [The G protein-coupled receptor COLD1 promotes chilling tolerance in maize during germination.]( https://www.sciencedirect.com/science/article/abs/pii/S0141813023037741?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2023.126877](https://www.sciencedirect.com/science/article/abs/pii/S0141813023037741?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37716664](https://pubmed.ncbi.nlm.nih.gov/37716664/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:** [ct2](https://www.ncbi.nlm.nih.gov/gene/?term=ct2)
-- **UniProt accessions:** [A0A1D6JQD6](https://www.uniprot.org/uniprotkb/A0A1D6JQD6/entry)&nbsp;,&nbsp;[A0A1D6JQD7](https://www.uniprot.org/uniprotkb/A0A1D6JQD7/entry)&nbsp;,&nbsp;[B6TWS6](https://www.uniprot.org/uniprotkb/B6TWS6/entry)
+- **UniProt accessions:** [A0A1D6JQD6](https://www.uniprot.org/uniprotkb/A0A1D6JQD6/entry),&nbsp;&nbsp;[A0A1D6JQD7](https://www.uniprot.org/uniprotkb/A0A1D6JQD7/entry),&nbsp;&nbsp;[B6TWS6](https://www.uniprot.org/uniprotkb/B6TWS6/entry)
 
 
 

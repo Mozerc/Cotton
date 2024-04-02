@@ -19,10 +19,10 @@ tags: [ grain,pollen,grain filling,pericarp,pollen tube elongation,pollen germin
    - In vitro pollen germination test showed approximately 50% of pollens obtained from heterozygous **Spp1**-d1 plants elongated pollen tubes, suggesting that **Spp1** is required for pollen tube elongation.
 
 ## Function-related keywords:
-- [grain](/tags/grain/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[grain-filling](/tags/grain-filling/)&nbsp;,&nbsp;[pericarp](/tags/pericarp/)&nbsp;,&nbsp;[pollen-tube-elongation](/tags/pollen-tube-elongation/)&nbsp;,&nbsp;[pollen-germination](/tags/pollen-germination/)
+- [grain](/tags/grain/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[grain-filling](/tags/grain-filling/),&nbsp;&nbsp;[pericarp](/tags/pericarp/),&nbsp;&nbsp;[pollen-tube-elongation](/tags/pollen-tube-elongation/),&nbsp;&nbsp;[pollen-germination](/tags/pollen-germination/)
 
 ## Literature:
-   - [Suppressor of pericarp pigmentation 1 (spp1), a novel gene involved in phlobaphene accumulation in maize (Zea mays L.) pericarps]( https://www.researchgate.net/publication/234396049_Suppressor_of_pericarp_pigmentation_1_spp1_a_novel_gene_involved_in_phlobaphene_accumulation_in_maize_Zea_mays_L_pericarps)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://www.researchgate.net/publication/234396049_Suppressor_of_pericarp_pigmentation_1_spp1_a_novel_gene_involved_in_phlobaphene_accumulation_in_maize_Zea_mays_L_pericarps)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Suppressor of pericarp pigmentation 1 (spp1), a novel gene involved in phlobaphene accumulation in maize (Zea mays L.) pericarps]( https://www.researchgate.net/publication/234396049_Suppressor_of_pericarp_pigmentation_1_spp1_a_novel_gene_involved_in_phlobaphene_accumulation_in_maize_Zea_mays_L_pericarps).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15668](https://www.researchgate.net/publication/234396049_Suppressor_of_pericarp_pigmentation_1_spp1_a_novel_gene_involved_in_phlobaphene_accumulation_in_maize_Zea_mays_L_pericarps);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

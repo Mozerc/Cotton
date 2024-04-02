@@ -21,7 +21,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19192)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19192](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19192)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37583092](https://pubmed.ncbi.nlm.nih.gov/37583092/)
+   - [ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19192).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19192](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19192);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37583092](https://pubmed.ncbi.nlm.nih.gov/37583092/)
 
 ## Related News:
 

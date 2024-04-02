@@ -21,11 +21,11 @@ tags: [ height,plant height ]
    - Dominant **Clt1** plants have variable dwarfing, developmental anomalies.
 
 ## Function-related keywords:
-- [height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+- [height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [The Role of Clt1-Regulated Xylan Metabolism in Melanin and Toxin Formation for the Pathogenicity of Curvularia lunata in Maize.]( https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-20-0235-R?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1094/MPMI-08-20-0235-R](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-20-0235-R?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33417477](https://pubmed.ncbi.nlm.nih.gov/33417477/)
-   - [Integration of high-throughput phenotyping, GWAS, and predictive models reveals the genetic architecture of plant height in maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00435-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS167420522200435X%3Fshowall%3Dtrue)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.11.016](https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00435-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS167420522200435X%3Fshowall%3Dtrue)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36447436](https://pubmed.ncbi.nlm.nih.gov/36447436/)
+   - [The Role of Clt1-Regulated Xylan Metabolism in Melanin and Toxin Formation for the Pathogenicity of Curvularia lunata in Maize.]( https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-20-0235-R?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1094/MPMI-08-20-0235-R](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-20-0235-R?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33417477](https://pubmed.ncbi.nlm.nih.gov/33417477/)
+   - [Integration of high-throughput phenotyping, GWAS, and predictive models reveals the genetic architecture of plant height in maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00435-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS167420522200435X%3Fshowall%3Dtrue).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2022.11.016](https://www.cell.com/molecular-plant/fulltext/S1674-2052(22)00435-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS167420522200435X%3Fshowall%3Dtrue);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36447436](https://pubmed.ncbi.nlm.nih.gov/36447436/)
 
 ## Related News:
 

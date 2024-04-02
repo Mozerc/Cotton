@@ -20,7 +20,7 @@ tags: [ transporter ]
 - [transporter](/tags/transporter/)
 
 ## Literature:
-   - [Shared Genetic Control of Root System Architecture between Zea mays and Sorghum bicolor.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6997706/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00752](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6997706/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31740504](https://pubmed.ncbi.nlm.nih.gov/31740504/)
+   - [Shared Genetic Control of Root System Architecture between Zea mays and Sorghum bicolor.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6997706/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00752](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6997706/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31740504](https://pubmed.ncbi.nlm.nih.gov/31740504/)
 
 ## Related News:
 

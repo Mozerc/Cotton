@@ -22,13 +22,13 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Characterization of Maize Phytochrome-Interacting Factors in Light Signaling and Photomorphogenesis.]( https://academic.oup.com/plphys/article/181/2/789/6000153?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00239](https://academic.oup.com/plphys/article/181/2/789/6000153?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31350363](https://pubmed.ncbi.nlm.nih.gov/31350363/)
+   - [Characterization of Maize Phytochrome-Interacting Factors in Light Signaling and Photomorphogenesis.]( https://academic.oup.com/plphys/article/181/2/789/6000153?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.19.00239](https://academic.oup.com/plphys/article/181/2/789/6000153?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31350363](https://pubmed.ncbi.nlm.nih.gov/31350363/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100281419](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281419)
-- **UniProt accessions:** [A0A1D6KXA0](https://www.uniprot.org/uniprotkb/A0A1D6KXA0/entry)&nbsp;,&nbsp;[B6SV80](https://www.uniprot.org/uniprotkb/B6SV80/entry)
+- **UniProt accessions:** [A0A1D6KXA0](https://www.uniprot.org/uniprotkb/A0A1D6KXA0/entry),&nbsp;&nbsp;[B6SV80](https://www.uniprot.org/uniprotkb/B6SV80/entry)
 
 
 

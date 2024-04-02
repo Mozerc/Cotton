@@ -19,16 +19,16 @@ tags: [ fertility,stress,abiotic stress,biotic stress,male fertility,stress resp
    - ZmLTPs may be involved in diverse biological processes, such as lipid binding, lipid transport and localization, and biotic and abiotic stress response.
 
 ## Function-related keywords:
-- [fertility](/tags/fertility/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[biotic-stress](/tags/biotic-stress/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
+- [fertility](/tags/fertility/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[biotic-stress](/tags/biotic-stress/),&nbsp;&nbsp;[male-fertility](/tags/male-fertility/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[as-transport](/tags/as-transport/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [A Systematic Investigation of Lipid Transfer Proteins Involved in Male Fertility and Other Biological Processes in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021660](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36675174](https://pubmed.ncbi.nlm.nih.gov/36675174/)
+   - [A Systematic Investigation of Lipid Transfer Proteins Involved in Male Fertility and Other Biological Processes in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021660](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864150/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36675174](https://pubmed.ncbi.nlm.nih.gov/36675174/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100281998](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281998)
-- **UniProt accessions:** [B6T2C5](https://www.uniprot.org/uniprotkb/B6T2C5/entry)&nbsp;,&nbsp;[B6T960](https://www.uniprot.org/uniprotkb/B6T960/entry)
+- **UniProt accessions:** [B6T2C5](https://www.uniprot.org/uniprotkb/B6T2C5/entry),&nbsp;&nbsp;[B6T960](https://www.uniprot.org/uniprotkb/B6T960/entry)
 
 
 

@@ -21,12 +21,12 @@ tags: [ leaf,sheath,cell proliferation,cellular proliferation ]
    - Rsl mutants alter cellular identity and organization in leaf tissues.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[sheath](/tags/sheath/),&nbsp;&nbsp;[cell-proliferation](/tags/cell-proliferation/),&nbsp;&nbsp;[cellular-proliferation](/tags/cellular-proliferation/)
 
 ## Literature:
-   - [Genetic analysis of Rough sheath1 developmental mutants of maize.]( https://academic.oup.com/genetics/article/136/1/295/6012255?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/genetics/136.1.295](https://academic.oup.com/genetics/article/136/1/295/6012255?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[8138166](https://pubmed.ncbi.nlm.nih.gov/8138166/)
-   - [Identification and utilization of genetic determinants of trait measurement errors in image-based, high-throughput phenotyping.]( https://academic.oup.com/plcell/article/33/8/2562/6279089)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab134](https://academic.oup.com/plcell/article/33/8/2562/6279089)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34015121](https://pubmed.ncbi.nlm.nih.gov/34015121/)
-   - [Getting closer: vein density in C(4) leaves.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15491](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30368826](https://pubmed.ncbi.nlm.nih.gov/30368826/)
+   - [Genetic analysis of Rough sheath1 developmental mutants of maize.]( https://academic.oup.com/genetics/article/136/1/295/6012255?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/genetics/136.1.295](https://academic.oup.com/genetics/article/136/1/295/6012255?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[8138166](https://pubmed.ncbi.nlm.nih.gov/8138166/)
+   - [Identification and utilization of genetic determinants of trait measurement errors in image-based, high-throughput phenotyping.]( https://academic.oup.com/plcell/article/33/8/2562/6279089).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab134](https://academic.oup.com/plcell/article/33/8/2562/6279089);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34015121](https://pubmed.ncbi.nlm.nih.gov/34015121/)
+   - [Getting closer: vein density in C(4) leaves.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15491](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15491);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30368826](https://pubmed.ncbi.nlm.nih.gov/30368826/)
 
 ## Related News:
 

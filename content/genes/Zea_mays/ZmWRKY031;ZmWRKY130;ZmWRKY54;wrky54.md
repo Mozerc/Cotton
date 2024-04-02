@@ -18,10 +18,10 @@ tags: [ transcription factor,sugar,sugar transport,as transport ]
    - These WRKY TFs can control sugar transport in the context of fungal infection. 
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sugar-transport](/tags/sugar-transport/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[sugar-transport](/tags/sugar-transport/),&nbsp;&nbsp;[as-transport](/tags/as-transport/)
 
 ## Literature:
-   - [Genome-Wide Characterization of the Maize (Zea mays L.) WRKY Transcription Factor Family and Their Responses to Ustilago maydis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10573107/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241914916](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10573107/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37834371](https://pubmed.ncbi.nlm.nih.gov/37834371/)
+   - [Genome-Wide Characterization of the Maize (Zea mays L.) WRKY Transcription Factor Family and Their Responses to Ustilago maydis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10573107/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241914916](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10573107/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37834371](https://pubmed.ncbi.nlm.nih.gov/37834371/)
 
 ## Related News:
 

@@ -21,10 +21,10 @@ tags: [ seedlings,architecture,height,plant height,signal transduction,plant arc
    - **ZmCOP1** involved in regulating photomorphogenesis.
 
 ## Function-related keywords:
-- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[secondary-metabolism](/tags/secondary-metabolism/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)
+- [seedlings](/tags/seedlings/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[signal-transduction](/tags/signal-transduction/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/),&nbsp;&nbsp;[secondary-metabolism](/tags/secondary-metabolism/),&nbsp;&nbsp;[as-transport](/tags/as-transport/)
 
 ## Literature:
-   - [ZmCOP1 Regulates Maize Mesocotyl Length and Plant Height through the Phytohormone Pathways.]( https://www.mdpi.com/2075-1729/13/7/1522)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/life13071522](https://www.mdpi.com/2075-1729/13/7/1522)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37511897](https://pubmed.ncbi.nlm.nih.gov/37511897/)
+   - [ZmCOP1 Regulates Maize Mesocotyl Length and Plant Height through the Phytohormone Pathways.]( https://www.mdpi.com/2075-1729/13/7/1522).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/life13071522](https://www.mdpi.com/2075-1729/13/7/1522);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37511897](https://pubmed.ncbi.nlm.nih.gov/37511897/)
 
 ## Related News:
 

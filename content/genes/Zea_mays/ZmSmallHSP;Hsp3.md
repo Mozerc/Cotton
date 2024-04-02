@@ -21,7 +21,7 @@ tags: [ stress ]
 - [stress](/tags/stress/)
 
 ## Literature:
-   - [Maize heat shock proteins-prospection, validation, categorization and in silico analysis of the different ZmHSP families.]( https://link.springer.com/article/10.1007/s44154-023-00104-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s44154-023-00104-2](https://link.springer.com/article/10.1007/s44154-023-00104-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37981586](https://pubmed.ncbi.nlm.nih.gov/37981586/)
+   - [Maize heat shock proteins-prospection, validation, categorization and in silico analysis of the different ZmHSP families.]( https://link.springer.com/article/10.1007/s44154-023-00104-2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s44154-023-00104-2](https://link.springer.com/article/10.1007/s44154-023-00104-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37981586](https://pubmed.ncbi.nlm.nih.gov/37981586/)
 
 ## Related News:
 

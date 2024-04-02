@@ -20,10 +20,10 @@ tags: [ flowering time,flowering ]
    - Overexpression delayed flowering time by approximately 4 days, in either long-day or short-day conditions.
 
 ## Function-related keywords:
-- [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+- [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806612/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806612/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
+   - [The evening complex promotes maize flowering and adaptation to temperate regions.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806612/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac296](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806612/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36173348](https://pubmed.ncbi.nlm.nih.gov/36173348/)
 
 ## Related News:
 

@@ -19,11 +19,11 @@ tags: [ jasmonate,defense,salicylic acid,wounding,methyl jasmonate ]
    - Zmcyc1 and **Zmcyc5** encoding PR proteins could also play defense roles in the maize defense systems against fungi.
 
 ## Function-related keywords:
-- [jasmonate](/tags/jasmonate/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[wounding](/tags/wounding/)&nbsp;,&nbsp;[methyl-jasmonate](/tags/methyl-jasmonate/)
+- [jasmonate](/tags/jasmonate/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[wounding](/tags/wounding/),&nbsp;&nbsp;[methyl-jasmonate](/tags/methyl-jasmonate/)
 
 ## Literature:
-   - [Induction of two cyclotide-like genes Zmcyc1 and Zmcyc5 by abiotic and biotic stresses in Zea mays]( https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11738-017-2425-6](https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [Maize tubulin folding cofactor B is required for cell division and cell growth through modulating microtubule homeostasis.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18839)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18839](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18839)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36843261](https://pubmed.ncbi.nlm.nih.gov/36843261/)
+   - [Induction of two cyclotide-like genes Zmcyc1 and Zmcyc5 by abiotic and biotic stresses in Zea mays]( https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11738-017-2425-6](https://link.springer.com/article/10.1007/s11738-017-2425-6#Sec2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Maize tubulin folding cofactor B is required for cell division and cell growth through modulating microtubule homeostasis.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18839).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18839](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18839);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36843261](https://pubmed.ncbi.nlm.nih.gov/36843261/)
 
 ## Related News:
 

@@ -20,10 +20,10 @@ tags: [ root,seedling,root elongation,lateral root,primary root,root length,late
    - **ZmMADS60** was associated with primary root length (PRL), lateral root length (LRL), root length between 0 and 0.5 mm in diameter (RL005) and total root length (TRL), which indicated that this gene might be involved in elongation of the primary and lateral root in the seedling stage.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[primary-root](/tags/primary-root/)&nbsp;,&nbsp;[root-length](/tags/root-length/)&nbsp;,&nbsp;[lateral-root-length](/tags/lateral-root-length/)
+- [root](/tags/root/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[root-elongation](/tags/root-elongation/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[primary-root](/tags/primary-root/),&nbsp;&nbsp;[root-length](/tags/root-length/),&nbsp;&nbsp;[lateral-root-length](/tags/lateral-root-length/)
 
 ## Literature:
-   - [Nucleotide Diversity and Association Analysis of ZmMADS60 with Root Length in the Maize Seedling Stage]( https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy10030342](https://www.mdpi.com/2073-4395/10/3/342)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Nucleotide Diversity and Association Analysis of ZmMADS60 with Root Length in the Maize Seedling Stage]( https://www.mdpi.com/2073-4395/10/3/342).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agronomy10030342](https://www.mdpi.com/2073-4395/10/3/342);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

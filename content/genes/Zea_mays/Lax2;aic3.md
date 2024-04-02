@@ -20,11 +20,11 @@ tags: [ root,auxin,down-regulated genes,root initiation,signal transduction,late
    - **Lax2** involved in auxin signal transduction.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)
+- [root](/tags/root/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[down-regulated-genes](/tags/down-regulated-genes/),&nbsp;&nbsp;[root-initiation](/tags/root-initiation/),&nbsp;&nbsp;[signal-transduction](/tags/signal-transduction/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/)
 
 ## Literature:
-   - [The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize (Zea mays L.) primary roots.]( https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru249](https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24928984](https://pubmed.ncbi.nlm.nih.gov/24928984/)
-   - [Local auxin biosynthesis regulates brace root angle and lodging resistance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18733](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36636793](https://pubmed.ncbi.nlm.nih.gov/36636793/)
+   - [The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize (Zea mays L.) primary roots.]( https://academic.oup.com/jxb/article/65/17/4919/557377?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru249](https://academic.oup.com/jxb/article/65/17/4919/557377?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24928984](https://pubmed.ncbi.nlm.nih.gov/24928984/)
+   - [Local auxin biosynthesis regulates brace root angle and lodging resistance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18733](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18733);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36636793](https://pubmed.ncbi.nlm.nih.gov/36636793/)
 
 ## Related News:
 

@@ -20,10 +20,10 @@ tags: [ growth,resistance,stress,stems,ja,oxidative stress,oxidative,abiotic str
    - **ZmGLP1** over-expression mproved the resistance to pathogens.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[stems](/tags/stems/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[oxidative-stress](/tags/oxidative-stress/),&nbsp;&nbsp;[oxidative](/tags/oxidative/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [ZmGLP1, a Germin-like Protein from Maize, Plays an Important Role in the Regulation of Pathogen Resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699084/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms232214316](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699084/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36430797](https://pubmed.ncbi.nlm.nih.gov/36430797/)
+   - [ZmGLP1, a Germin-like Protein from Maize, Plays an Important Role in the Regulation of Pathogen Resistance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699084/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms232214316](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699084/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36430797](https://pubmed.ncbi.nlm.nih.gov/36430797/)
 
 ## Related News:
 

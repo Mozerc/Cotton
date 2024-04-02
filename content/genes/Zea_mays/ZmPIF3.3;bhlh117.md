@@ -19,10 +19,10 @@ tags: [ seedlings,breeding,height,plant height ]
    - Mutations in **ZmPIF3.3** led to a significant reduction in plant height, and its favorable (height-reducing) alleles have been subject to substantial enrichment selection during modern maize breeding.
 
 ## Function-related keywords:
-- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+- [seedlings](/tags/seedlings/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
+   - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
 
 ## Related News:
 

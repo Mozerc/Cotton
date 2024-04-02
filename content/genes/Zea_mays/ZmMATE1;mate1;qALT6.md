@@ -20,10 +20,10 @@ tags: [ tolerance,aluminum,al tolerance,aluminum tolerance ]
    - **ZmMATE1** confers aluminum tolerance in lines that carry 3 adjacent identical copies of the mate1 gene.
 
 ## Function-related keywords:
-- [tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aluminum](/tags/aluminum/)&nbsp;,&nbsp;[al-tolerance](/tags/al-tolerance/)&nbsp;,&nbsp;[aluminum-tolerance](/tags/aluminum-tolerance/)
+- [tolerance](/tags/tolerance/),&nbsp;&nbsp;[aluminum](/tags/aluminum/),&nbsp;&nbsp;[al-tolerance](/tags/al-tolerance/),&nbsp;&nbsp;[aluminum-tolerance](/tags/aluminum-tolerance/)
 
 ## Literature:
-   - [Aluminum tolerance mechanisms in Kenyan maize germplasm are independent from the citrate transporter ZmMATE1.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193623/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-020-64107-z](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193623/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32355284](https://pubmed.ncbi.nlm.nih.gov/32355284/)
+   - [Aluminum tolerance mechanisms in Kenyan maize germplasm are independent from the citrate transporter ZmMATE1.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193623/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-020-64107-z](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193623/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32355284](https://pubmed.ncbi.nlm.nih.gov/32355284/)
 
 ## Related News:
 

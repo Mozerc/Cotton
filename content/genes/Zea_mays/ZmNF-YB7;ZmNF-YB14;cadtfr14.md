@@ -18,11 +18,11 @@ tags: [ drought,stress,drought stress ]
    - **ZmNF-YB7** may play an important role in drought and rewatering treatments.
 
 ## Function-related keywords:
-- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)
+- [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/)
 
 ## Literature:
-   - [Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1159955](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37265635](https://pubmed.ncbi.nlm.nih.gov/37265635/)
-   - [ZmNF-YC1-ZmAPRG pathway modulates low phosphorus tolerance in maize.]( https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erae068/7613260?redirectedFrom=fulltext)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erae068](https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erae068/7613260?redirectedFrom=fulltext)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38393826](https://pubmed.ncbi.nlm.nih.gov/38393826/)
+   - [Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1159955](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37265635](https://pubmed.ncbi.nlm.nih.gov/37265635/)
+   - [ZmNF-YC1-ZmAPRG pathway modulates low phosphorus tolerance in maize.]( https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erae068/7613260?redirectedFrom=fulltext).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erae068](https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erae068/7613260?redirectedFrom=fulltext);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38393826](https://pubmed.ncbi.nlm.nih.gov/38393826/)
 
 ## Related News:
 

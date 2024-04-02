@@ -18,10 +18,10 @@ tags: [ leaf,leaf senescence,senescence,stress,abscisic acid,phytohormone,heat s
    - **ZmCYP707A1** is a abscisic acid 8’-hydroxylase 1.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-senescence](/tags/leaf-senescence/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[phytohormone](/tags/phytohormone/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
-   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
+   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
 
 ## Related News:
 

@@ -18,10 +18,10 @@ tags: [ xylem,growth,development,plant development,plant growth,phloem ]
    - Among these pairs, seven genes regulated by five LPE miRNAs exhibit HPE patterns, including genes related to plant growth and nutrient metabolisms, such as GA20ox2, **PROT1**, and PHO2.
 
 ## Function-related keywords:
-- [xylem](/tags/xylem/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[phloem](/tags/phloem/)
+- [xylem](/tags/xylem/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[phloem](/tags/phloem/)
 
 ## Literature:
-   - [Integrated Multi-Omics Reveals Significant Roles of Non-Additively Expressed Small RNAs in Heterosis for Maize Plant Height.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252383/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24119150](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252383/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37298102](https://pubmed.ncbi.nlm.nih.gov/37298102/)
+   - [Integrated Multi-Omics Reveals Significant Roles of Non-Additively Expressed Small RNAs in Heterosis for Maize Plant Height.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252383/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24119150](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252383/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37298102](https://pubmed.ncbi.nlm.nih.gov/37298102/)
 
 ## Related News:
 

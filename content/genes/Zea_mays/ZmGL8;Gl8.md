@@ -21,10 +21,10 @@ tags: [ resistance,ja,jasmonic,jasmonic acid,ja biosynthesis,fatty acid biosynth
    - Mutation of **ZmGL8** activates JA-related pathways.
 
 ## Function-related keywords:
-- [resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[fatty-acid-biosynthesis](/tags/fatty-acid-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[cuticular-wax-biosynthesis](/tags/cuticular-wax-biosynthesis/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)
+- [resistance](/tags/resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[fatty-acid-biosynthesis](/tags/fatty-acid-biosynthesis/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/),&nbsp;&nbsp;[cuticular-wax-biosynthesis](/tags/cuticular-wax-biosynthesis/),&nbsp;&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)
 
 ## Literature:
-   - [Trade-offs between the accumulation of cuticular wax and jasmonic acid-mediated herbivory resistance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13586)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13586](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13586)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37975264](https://pubmed.ncbi.nlm.nih.gov/37975264/)
+   - [Trade-offs between the accumulation of cuticular wax and jasmonic acid-mediated herbivory resistance in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13586).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13586](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13586);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37975264](https://pubmed.ncbi.nlm.nih.gov/37975264/)
 
 ## Related News:
    - [JIPB | 河南大学宋纯鹏教授与周树堂教授团队合作揭示表皮蜡质合成调控玉米抗虫的化学防御机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247559723&idx=4&sn=c7bde95fd23c09a67cfe71ac1d3cc1a4&chksm=f27c453c20c1038e45a1a88bcff3f8347c47a53a58d6fe266ac68cea6de2faac4f15fdb4a794&scene=27#wechat_redirect)

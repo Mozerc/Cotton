@@ -18,11 +18,11 @@ tags: [ leaf,drought,leaf angle,drought response ]
    - **ZmNAC84** is a gene in response to drought and other osmotic stresses.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[leaf-angle](/tags/leaf-angle/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
-   - [Maize transcription factor ZmNAC2 enhances osmotic stress tolerance in transgenic Arabidopsis.]( https://www.sciencedirect.com/science/article/abs/pii/S0176161723000421?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jplph.2023.153948](https://www.sciencedirect.com/science/article/abs/pii/S0176161723000421?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36812721](https://pubmed.ncbi.nlm.nih.gov/36812721/)
+   - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
+   - [Maize transcription factor ZmNAC2 enhances osmotic stress tolerance in transgenic Arabidopsis.]( https://www.sciencedirect.com/science/article/abs/pii/S0176161723000421?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jplph.2023.153948](https://www.sciencedirect.com/science/article/abs/pii/S0176161723000421?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36812721](https://pubmed.ncbi.nlm.nih.gov/36812721/)
 
 ## Related News:
 

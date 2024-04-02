@@ -21,17 +21,17 @@ tags: [ stomatal,stomata ]
    - **Pan2** acts downstream of Ca2+ in maize to promote stomatal closure. This is in contrast to GHR1, which acts upstream of Ca2+, and suggests the pathways could be differently wired.
 
 ## Function-related keywords:
-- [stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stomata](/tags/stomata/)
+- [stomatal](/tags/stomatal/),&nbsp;&nbsp;[stomata](/tags/stomata/)
 
 ## Literature:
-   - [Stomatal closure in maize is mediated by subsidiary cells and the PAN2 receptor.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19379](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37936339](https://pubmed.ncbi.nlm.nih.gov/37936339/)
+   - [Stomatal closure in maize is mediated by subsidiary cells and the PAN2 receptor.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19379](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19379);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37936339](https://pubmed.ncbi.nlm.nih.gov/37936339/)
 
 ## Related News:
    - [New Phytologist | 玉米气孔关闭调控新机制！](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247531464&idx=1&sn=b6ae0d0defe7e3f5e21ffeff420c2082&chksm=5bb3eee5b383a75d19edd425a9f41d72aa3fbcbc989cceb74bc9ba26ada1e88dcb709ee3596c&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC103648322](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103648322)
-- **UniProt accessions:** [A0A1D6F9C5](https://www.uniprot.org/uniprotkb/A0A1D6F9C5/entry)&nbsp;,&nbsp;[A0A1D6F9C6](https://www.uniprot.org/uniprotkb/A0A1D6F9C6/entry)
+- **UniProt accessions:** [A0A1D6F9C5](https://www.uniprot.org/uniprotkb/A0A1D6F9C5/entry),&nbsp;&nbsp;[A0A1D6F9C6](https://www.uniprot.org/uniprotkb/A0A1D6F9C6/entry)
 
 
 

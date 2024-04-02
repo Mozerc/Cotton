@@ -19,16 +19,16 @@ tags: [ growth,development,plant development,drought,plant growth ]
    - Whereas **ZmCCR1** was preferentially expressed in all lignifying tissues, ZmCCR2 was detected mainly in roots and it was shown to be induced by drought conditions.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
-   - [Characterization of a cinnamoyl-CoA reductase 1 (CCR1) mutant in maize: effects on lignification, fibre development, and global gene expression.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/err077](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21493812](https://pubmed.ncbi.nlm.nih.gov/21493812/)
+   - [Characterization of a cinnamoyl-CoA reductase 1 (CCR1) mutant in maize: effects on lignification, fibre development, and global gene expression.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/err077](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134344/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21493812](https://pubmed.ncbi.nlm.nih.gov/21493812/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC542463](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542463)
-- **UniProt accessions:** [A0A1D6KNS0](https://www.uniprot.org/uniprotkb/A0A1D6KNS0/entry)&nbsp;,&nbsp;[A0A317YAV2](https://www.uniprot.org/uniprotkb/A0A317YAV2/entry)
+- **UniProt accessions:** [A0A1D6KNS0](https://www.uniprot.org/uniprotkb/A0A1D6KNS0/entry),&nbsp;&nbsp;[A0A317YAV2](https://www.uniprot.org/uniprotkb/A0A317YAV2/entry)
 
 
 

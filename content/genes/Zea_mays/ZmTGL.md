@@ -21,10 +21,10 @@ tags: [ mitochondria,defense response,defense,salicylic acid,sa ]
    - **ZmTGL** associate with reducing HC-Pro accumulation, activation of salicylic acid-mediated defense response, and inhibition of sugarcane mosaic virus infection.
 
 ## Function-related keywords:
-- [mitochondria](/tags/mitochondria/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[sa](/tags/sa/)
+- [mitochondria](/tags/mitochondria/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[sa](/tags/sa/)
 
 ## Literature:
-   - [A maize triacylglycerol lipase inhibits sugarcane mosaic virus infection.]( https://academic.oup.com/plphys/article/189/2/754/6549540?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac126](https://academic.oup.com/plphys/article/189/2/754/6549540?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35294544](https://pubmed.ncbi.nlm.nih.gov/35294544/)
+   - [A maize triacylglycerol lipase inhibits sugarcane mosaic virus infection.]( https://academic.oup.com/plphys/article/189/2/754/6549540?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac126](https://academic.oup.com/plphys/article/189/2/754/6549540?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35294544](https://pubmed.ncbi.nlm.nih.gov/35294544/)
 
 ## Related News:
    - [山东农业大学李向东/田延平团队揭示玉米三酰基甘油脂酶蛋白抑制甘蔗花叶病毒的机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247517072&idx=4&sn=e5bceb52f11738a152402aa8f2954460&chksm=fd7319f7ca0490e145409121b37da514fec672a930e3fedcf1659b7eadd97e5f9b8c65ca4a0f&scene=27#wechat_redirect)

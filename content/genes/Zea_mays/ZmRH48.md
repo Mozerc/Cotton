@@ -21,10 +21,10 @@ tags: [ development,seed,nucleus,endosperm,seed development,endosperm developmen
    - Embryogenesis and endosperm development are severely arrested in the **ZmRH48** mutants
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[helicase](/tags/helicase/)
+- [development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[helicase](/tags/helicase/)
 
 ## Literature:
-   - [The DEAD-box RNA helicase ZmRH48 is required for the splicing of multiple mitochondrial introns, mitochondrial complex biosynthesis, and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13558](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37594235](https://pubmed.ncbi.nlm.nih.gov/37594235/)
+   - [The DEAD-box RNA helicase ZmRH48 is required for the splicing of multiple mitochondrial introns, mitochondrial complex biosynthesis, and seed development in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13558](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13558);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37594235](https://pubmed.ncbi.nlm.nih.gov/37594235/)
 
 ## Related News:
    - [JIPB | 山东大学生命科学学院谭保才课题组发现玉米线粒体内含子剪接的新机制](https://mp.weixin.qq.com/s/FeKvLgvu4YwHVaA0vxAxHw)

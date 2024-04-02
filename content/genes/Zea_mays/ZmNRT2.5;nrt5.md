@@ -19,10 +19,10 @@ tags: [ nitrogen,nitrate ]
    - ZmNRT2.1 and **ZmNRT2.5** exhibited similar expression patterns in response to changes in nitrate levels in the roots of all four inbred lines.
 
 ## Function-related keywords:
-- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
+- [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
-   - [Genome-Wide Identification and Functional Analysis of Nitrate Transporter Genes (NPF, NRT2 and NRT3) in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241612941](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37629121](https://pubmed.ncbi.nlm.nih.gov/37629121/)
+   - [Genome-Wide Identification and Functional Analysis of Nitrate Transporter Genes (NPF, NRT2 and NRT3) in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms241612941](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454388/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37629121](https://pubmed.ncbi.nlm.nih.gov/37629121/)
 
 ## Related News:
 

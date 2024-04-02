@@ -22,7 +22,7 @@ tags: [ flowering ]
 - [flowering](/tags/flowering/)
 
 ## Literature:
-   - [ZmCCA1a on Chromosome 10 of Maize Delays Flowering of Arabidopsis thaliana.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7044342/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.00078](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7044342/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32153606](https://pubmed.ncbi.nlm.nih.gov/32153606/)
+   - [ZmCCA1a on Chromosome 10 of Maize Delays Flowering of Arabidopsis thaliana.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7044342/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.00078](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7044342/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32153606](https://pubmed.ncbi.nlm.nih.gov/32153606/)
 
 ## Related News:
 

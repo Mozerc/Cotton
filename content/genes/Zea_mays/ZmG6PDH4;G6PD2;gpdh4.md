@@ -19,16 +19,16 @@ tags: [ drought,stress,drought stress,defense response,defense,gibberellin,cold 
    - All these ZmG6PDH promoters contained at least one hormone-responsive cis-acting element, such as the ABA-responsive element (ABRE) and gibberellin-responsive element (GARE).
 
 ## Function-related keywords:
-- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[gibberellin](/tags/gibberellin/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [ZmG6PDH1 in glucose-6-phosphate dehydrogenase family enhances cold stress tolerance in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1116237](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36968417](https://pubmed.ncbi.nlm.nih.gov/36968417/)
+   - [ZmG6PDH1 in glucose-6-phosphate dehydrogenase family enhances cold stress tolerance in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1116237](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36968417](https://pubmed.ncbi.nlm.nih.gov/36968417/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100383765](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383765)
-- **UniProt accessions:** [A0A1D6K5L6](https://www.uniprot.org/uniprotkb/A0A1D6K5L6/entry)&nbsp;,&nbsp;[A0A317Y8S9](https://www.uniprot.org/uniprotkb/A0A317Y8S9/entry)&nbsp;,&nbsp;[C0PIW1](https://www.uniprot.org/uniprotkb/C0PIW1/entry)
+- **UniProt accessions:** [A0A1D6K5L6](https://www.uniprot.org/uniprotkb/A0A1D6K5L6/entry),&nbsp;&nbsp;[A0A317Y8S9](https://www.uniprot.org/uniprotkb/A0A317Y8S9/entry),&nbsp;&nbsp;[C0PIW1](https://www.uniprot.org/uniprotkb/C0PIW1/entry)
 
 
 

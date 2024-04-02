@@ -19,10 +19,10 @@ tags: [ nitrogen,drought,stress,drought stress,salt,abiotic stress,salt stress,s
    - These results suggest that the genes of the ZmPP2C family have different response patterns to nitrogen stress and provide insight into the potential roles of ZmPP2C genes in regulating nitrogen stress responses in maize.
 
 ## Function-related keywords:
-- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)&nbsp;,&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
+- [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [Genome-Wide Identification and Characterization of the PP2C Family from Zea mays and Its Role in Long-Distance Signaling.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10490008/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants12173153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10490008/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37687398](https://pubmed.ncbi.nlm.nih.gov/37687398/)
+   - [Genome-Wide Identification and Characterization of the PP2C Family from Zea mays and Its Role in Long-Distance Signaling.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10490008/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/plants12173153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10490008/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37687398](https://pubmed.ncbi.nlm.nih.gov/37687398/)
 
 ## Related News:
 

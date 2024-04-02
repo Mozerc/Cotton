@@ -21,12 +21,12 @@ tags: [ growth,stress,defense,inflorescence,dwarf,branching,plasma membrane ]
    - **Lgn** encodes a plasma membrane-localized RLK.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[dwarf](/tags/dwarf/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[dwarf](/tags/dwarf/),&nbsp;&nbsp;[branching](/tags/branching/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
-   - [Liguleless narrow and narrow odd dwarf act in overlapping pathways to regulate maize development and metabolism.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15988](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36164819](https://pubmed.ncbi.nlm.nih.gov/36164819/)
-   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
-   - [The Liguleless narrow mutation affects proximal-distal signaling and leaf growth.]( https://journals.biologists.com/dev/article/140/2/405/76674/The-Liguleless-narrow-mutation-affects-proximal)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.085787](https://journals.biologists.com/dev/article/140/2/405/76674/The-Liguleless-narrow-mutation-affects-proximal)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23250214](https://pubmed.ncbi.nlm.nih.gov/23250214/)
+   - [Liguleless narrow and narrow odd dwarf act in overlapping pathways to regulate maize development and metabolism.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15988](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36164819](https://pubmed.ncbi.nlm.nih.gov/36164819/)
+   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15988);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
+   - [The Liguleless narrow mutation affects proximal-distal signaling and leaf growth.]( https://journals.biologists.com/dev/article/140/2/405/76674/The-Liguleless-narrow-mutation-affects-proximal).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1242/dev.085787](https://journals.biologists.com/dev/article/140/2/405/76674/The-Liguleless-narrow-mutation-affects-proximal);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23250214](https://pubmed.ncbi.nlm.nih.gov/23250214/)
 
 ## Related News:
 

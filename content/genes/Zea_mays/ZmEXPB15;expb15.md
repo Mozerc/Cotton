@@ -22,10 +22,10 @@ tags: [ development,seed,breeding,seed weight,seed size,seed development ]
    - **ZmEXPB15** may be involved in seed expansion during kernel development.
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)
+- [development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[seed-weight](/tags/seed-weight/),&nbsp;&nbsp;[seed-size](/tags/seed-size/),&nbsp;&nbsp;[seed-development](/tags/seed-development/)
 
 ## Literature:
-   - [A NAC-EXPANSIN module enhances maize kernel size by controlling nucellus elimination.]( https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-33513-4](https://www.nature.com/articles/s41467-022-33513-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36175574](https://pubmed.ncbi.nlm.nih.gov/36175574/)
+   - [A NAC-EXPANSIN module enhances maize kernel size by controlling nucellus elimination.]( https://www.nature.com/articles/s41467-022-33513-4).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-33513-4](https://www.nature.com/articles/s41467-022-33513-4);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36175574](https://pubmed.ncbi.nlm.nih.gov/36175574/)
 
 ## Related News:
    - [Nature Commun | 华中农业大学玉米团队揭示控制玉米产量的籽粒早期发育新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247522560&idx=2&sn=0b94b6f442f9036ecc3fbfc2bf245d93&chksm=fd730367ca048a71cbb3b5813eaea86ede15bbb8a9fa1681978c85d3c5d9bdcab3cc359db6e1&scene=27#wechat_redirect)

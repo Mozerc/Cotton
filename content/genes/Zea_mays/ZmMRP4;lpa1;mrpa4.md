@@ -21,11 +21,11 @@ tags: [ resistance,al resistance ]
    - A gene tagging experiment performed by Shi et al. found that mutations in **ZmMRP4** (multidrug resistance-associated proteins 4) gene cause lpa1 phenotype.
 
 ## Function-related keywords:
-- [resistance](/tags/resistance/)&nbsp;,&nbsp;[al-resistance](/tags/al-resistance/)
+- [resistance](/tags/resistance/),&nbsp;&nbsp;[al-resistance](/tags/al-resistance/)
 
 ## Literature:
-   - [A paramutation phenomenon is involved in the genetics of maize low phytic acid1-241 (lpa1-241) trait.]( https://www.nature.com/articles/hdy200896)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/hdy.2008.96](https://www.nature.com/articles/hdy200896)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18781168](https://pubmed.ncbi.nlm.nih.gov/18781168/)
-   - [A paramutation phenomenon is involved in the genetics of maize low phytic acid1-241 (lpa1-241) trait.]( https://www.mdpi.com/2077-0472/13/7/1286)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agriculture13071286](https://www.mdpi.com/2077-0472/13/7/1286)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18781168](https://pubmed.ncbi.nlm.nih.gov/18781168/)
+   - [A paramutation phenomenon is involved in the genetics of maize low phytic acid1-241 (lpa1-241) trait.]( https://www.nature.com/articles/hdy200896).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/hdy.2008.96](https://www.nature.com/articles/hdy200896);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18781168](https://pubmed.ncbi.nlm.nih.gov/18781168/)
+   - [A paramutation phenomenon is involved in the genetics of maize low phytic acid1-241 (lpa1-241) trait.]( https://www.mdpi.com/2077-0472/13/7/1286).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agriculture13071286](https://www.mdpi.com/2077-0472/13/7/1286);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18781168](https://pubmed.ncbi.nlm.nih.gov/18781168/)
 
 ## Related News:
 

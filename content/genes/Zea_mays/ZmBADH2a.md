@@ -20,10 +20,10 @@ tags: [ 2AP ，seed]
    - Seeds of the **ZmBADH2a**-zmbadh2b double mutant accumulate 2AP.
 
 ## Function-related keywords:
-- [2AP](/tags/2AP/)&nbsp;,&nbsp;[seed](/tags/seeds/)
+- [2AP](/tags/2AP/),&nbsp;&nbsp;[seed](/tags/seeds/)
 
 ## Literature:
-   - [Creation of aromatic maize by CRISPR/Cas.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13105](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33934500](https://pubmed.ncbi.nlm.nih.gov/33934500/)
+   - [Creation of aromatic maize by CRISPR/Cas.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13105](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33934500](https://pubmed.ncbi.nlm.nih.gov/33934500/)
 
 ## Related News:
    - [JIPB | ​山东舜丰基因编辑研究院和山东师范大学联合创造了世界首例香味玉米](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247514196&idx=3&sn=cae34b0e046c6e7e49f8c5446e63ec30&chksm=e8bdca4adfca435cf2ef5dab870f405a54b3a6b0d50b3552119767a6af5a3fb5292af5fd3b5e&scene=27#wechat_redirect)

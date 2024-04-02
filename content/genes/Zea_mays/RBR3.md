@@ -22,7 +22,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [RBR3, a member of the retinoblastoma-related family from maize, is regulated by the RBR1/E2F pathway.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1201608/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.0506160102](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1201608/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16141340](https://pubmed.ncbi.nlm.nih.gov/16141340/)
+   - [RBR3, a member of the retinoblastoma-related family from maize, is regulated by the RBR1/E2F pathway.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1201608/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.0506160102](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1201608/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16141340](https://pubmed.ncbi.nlm.nih.gov/16141340/)
 
 ## Related News:
 

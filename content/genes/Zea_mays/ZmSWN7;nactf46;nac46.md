@@ -22,7 +22,7 @@ tags: [ stem ]
 - [stem](/tags/stem/)
 
 ## Literature:
-   - [Transcriptional activation of secondary wall biosynthesis by rice and maize NAC and MYB transcription factors.]( https://academic.oup.com/pcp/article/52/10/1856/1886229?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcr123](https://academic.oup.com/pcp/article/52/10/1856/1886229?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21908441](https://pubmed.ncbi.nlm.nih.gov/21908441/)
+   - [Transcriptional activation of secondary wall biosynthesis by rice and maize NAC and MYB transcription factors.]( https://academic.oup.com/pcp/article/52/10/1856/1886229?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcr123](https://academic.oup.com/pcp/article/52/10/1856/1886229?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[21908441](https://pubmed.ncbi.nlm.nih.gov/21908441/)
 
 ## Related News:
 

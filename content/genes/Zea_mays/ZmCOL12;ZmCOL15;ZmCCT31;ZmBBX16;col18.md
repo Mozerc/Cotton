@@ -21,7 +21,7 @@ tags: [ domestication ]
 - [domestication](/tags/domestication/)
 
 ## Literature:
-   - [Analyses of open-access multi-omics data sets reveal genetic and expression characteristics of maize ZmCCT family genes.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459886/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/aobpla/plab048](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459886/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34567492](https://pubmed.ncbi.nlm.nih.gov/34567492/)
+   - [Analyses of open-access multi-omics data sets reveal genetic and expression characteristics of maize ZmCCT family genes.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459886/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/aobpla/plab048](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459886/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34567492](https://pubmed.ncbi.nlm.nih.gov/34567492/)
 
 ## Related News:
 

@@ -21,7 +21,7 @@ tags: [ nitrogen ]
 - [nitrogen](/tags/nitrogen/)
 
 ## Literature:
-   - [Nitrogen assimilation in plants: current status and future prospects.]( https://www.sciencedirect.com/science/article/pii/S1673852721003763?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2021.12.006](https://www.sciencedirect.com/science/article/pii/S1673852721003763?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34973427](https://pubmed.ncbi.nlm.nih.gov/34973427/)
+   - [Nitrogen assimilation in plants: current status and future prospects.]( https://www.sciencedirect.com/science/article/pii/S1673852721003763?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2021.12.006](https://www.sciencedirect.com/science/article/pii/S1673852721003763?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34973427](https://pubmed.ncbi.nlm.nih.gov/34973427/)
 
 ## Related News:
 

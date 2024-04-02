@@ -22,15 +22,15 @@ tags: [ lignin ]
 - [lignin](/tags/lignin/)
 
 ## Literature:
-   - [The transcription factor ZmMYB69 represses lignin biosynthesis by activating ZmMYB31/42 expression in maize.]( https://academic.oup.com/plphys/article/189/4/1916/6594499)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac233](https://academic.oup.com/plphys/article/189/4/1916/6594499)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35640133](https://pubmed.ncbi.nlm.nih.gov/35640133/)
-   - [Down-regulation of the maize and Arabidopsis thaliana caffeic acid O-methyl-transferase genes by two new maize R2R3-MYB transcription factors.]( https://link.springer.com/article/10.1007/s11103-006-9058-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-006-9058-2](https://link.springer.com/article/10.1007/s11103-006-9058-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16941210](https://pubmed.ncbi.nlm.nih.gov/16941210/)
+   - [The transcription factor ZmMYB69 represses lignin biosynthesis by activating ZmMYB31/42 expression in maize.]( https://academic.oup.com/plphys/article/189/4/1916/6594499).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac233](https://academic.oup.com/plphys/article/189/4/1916/6594499);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35640133](https://pubmed.ncbi.nlm.nih.gov/35640133/)
+   - [Down-regulation of the maize and Arabidopsis thaliana caffeic acid O-methyl-transferase genes by two new maize R2R3-MYB transcription factors.]( https://link.springer.com/article/10.1007/s11103-006-9058-2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-006-9058-2](https://link.springer.com/article/10.1007/s11103-006-9058-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[16941210](https://pubmed.ncbi.nlm.nih.gov/16941210/)
 
 ## Related News:
    - [PP | 中国农业大学傅缨教授团队揭示层级调控网络中ZmMYB69-ZmMYB31/42抑制玉米木质素生物合成的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247530225&idx=2&sn=a637ffdfec25e4dc42312e3397ec5e63&chksm=ce90dba4f9e752b2e65fc70b4c9f5493a78d712b3b4064b7648a4ee94dfbcc41e21cb76b87fd&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [100037768](https://www.ncbi.nlm.nih.gov/gene/?term=100037768)
-- **UniProt accessions:** [B4FNX4](https://www.uniprot.org/uniprotkb/B4FNX4/entry)&nbsp;,&nbsp;[Q2A702](https://www.uniprot.org/uniprotkb/Q2A702/entry)
+- **UniProt accessions:** [B4FNX4](https://www.uniprot.org/uniprotkb/B4FNX4/entry),&nbsp;&nbsp;[Q2A702](https://www.uniprot.org/uniprotkb/Q2A702/entry)
 
 
 

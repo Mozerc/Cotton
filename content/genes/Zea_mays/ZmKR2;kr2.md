@@ -18,10 +18,10 @@ tags: [ ga,ga biosynthesis ]
    - One known diterpenoid pathway gene, **ZmKR2**, was differentially expressed between WT and Zmksl4 under both well-watered and water-deficit conditions. None of the known GA-biosynthesis genes were significantly differentially expressed between WT and Zmksl4 under either water condition.
 
 ## Function-related keywords:
-- [ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)
+- [ga](/tags/ga/),&nbsp;&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)
 
 ## Literature:
-   - [A dolabralexin-deficient mutant provides insight into specialized diterpenoid metabolism in maize.]( https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad150](https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36896653](https://pubmed.ncbi.nlm.nih.gov/36896653/)
+   - [A dolabralexin-deficient mutant provides insight into specialized diterpenoid metabolism in maize.]( https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad150](https://academic.oup.com/plphys/article/192/2/1338/7075209?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36896653](https://pubmed.ncbi.nlm.nih.gov/36896653/)
 
 ## Related News:
 

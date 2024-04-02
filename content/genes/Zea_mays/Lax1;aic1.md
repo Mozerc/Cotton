@@ -21,11 +21,11 @@ tags: [ leaf,root,auxin,down-regulated genes,root initiation,signal transduction
    - **Lax1** involved in auxin signal transduction.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[root-initiation](/tags/root-initiation/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[down-regulated-genes](/tags/down-regulated-genes/),&nbsp;&nbsp;[root-initiation](/tags/root-initiation/),&nbsp;&nbsp;[signal-transduction](/tags/signal-transduction/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/)
 
 ## Literature:
-   - [The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize (Zea mays L.) primary roots.]( https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru249](https://academic.oup.com/jxb/article/65/17/4919/557377?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24928984](https://pubmed.ncbi.nlm.nih.gov/24928984/)
-   - [Elevated auxin biosynthesis and transport underlie high vein density in C(4) leaves.]( https://www.pnas.org/doi/full/10.1073/pnas.1709171114)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1709171114](https://www.pnas.org/doi/full/10.1073/pnas.1709171114)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28761000](https://pubmed.ncbi.nlm.nih.gov/28761000/)
+   - [The Aux/IAA gene rum1 involved in seminal and lateral root formation controls vascular patterning in maize (Zea mays L.) primary roots.]( https://academic.oup.com/jxb/article/65/17/4919/557377?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eru249](https://academic.oup.com/jxb/article/65/17/4919/557377?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24928984](https://pubmed.ncbi.nlm.nih.gov/24928984/)
+   - [Elevated auxin biosynthesis and transport underlie high vein density in C(4) leaves.]( https://www.pnas.org/doi/full/10.1073/pnas.1709171114).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.1709171114](https://www.pnas.org/doi/full/10.1073/pnas.1709171114);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28761000](https://pubmed.ncbi.nlm.nih.gov/28761000/)
 
 ## Related News:
 

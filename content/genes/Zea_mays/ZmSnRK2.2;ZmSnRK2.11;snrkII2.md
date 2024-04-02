@@ -19,10 +19,10 @@ tags: [ kinase,aba ]
    - The ZmSnRK2.3 and **ZmSnRK2.11** overexpressing plants in Atsnrk2.2/2.3 mutant background displayed a similar phenotype as Atsnrk2.2/2.3 mutant under ABA treatment.
 
 ## Function-related keywords:
-- [kinase](/tags/kinase/)&nbsp;,&nbsp;[aba](/tags/aba/)
+- [kinase](/tags/kinase/),&nbsp;&nbsp;[aba](/tags/aba/)
 
 ## Literature:
-   - [Genome-wide identification of ZmSnRK2 genes and functional analysis of ZmSnRK2.10 in ABA signaling pathway in maize (Zea mays L).]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246669/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-021-03064-9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246669/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34210268](https://pubmed.ncbi.nlm.nih.gov/34210268/)
+   - [Genome-wide identification of ZmSnRK2 genes and functional analysis of ZmSnRK2.10 in ABA signaling pathway in maize (Zea mays L).]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246669/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-021-03064-9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246669/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34210268](https://pubmed.ncbi.nlm.nih.gov/34210268/)
 
 ## Related News:
 

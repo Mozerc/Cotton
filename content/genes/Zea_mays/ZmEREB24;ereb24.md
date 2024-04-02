@@ -20,10 +20,10 @@ tags: [ drought,seedling,tolerance,drought tolerance ]
    - **ZmEREB24** have a role in regulating drought adaptation.
 
 ## Function-related keywords:
-- [drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+- [drought](/tags/drought/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
-   - [Analysis of the molecular mechanisms regulating how ZmEREB24 improves drought tolerance in maize (Zea mays) seedlings.]( https://www.sciencedirect.com/science/article/pii/S0981942823008033)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2023.108292](https://www.sciencedirect.com/science/article/pii/S0981942823008033)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38215602](https://pubmed.ncbi.nlm.nih.gov/38215602/)
+   - [Analysis of the molecular mechanisms regulating how ZmEREB24 improves drought tolerance in maize (Zea mays) seedlings.]( https://www.sciencedirect.com/science/article/pii/S0981942823008033).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2023.108292](https://www.sciencedirect.com/science/article/pii/S0981942823008033);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38215602](https://pubmed.ncbi.nlm.nih.gov/38215602/)
 
 ## Related News:
 

@@ -19,11 +19,11 @@ tags: [ salt,yield,sugar,photosystem ]
    - These findings indicate that **ZmSWEET7**-mediated CO2 fixation efficiency rather than assimilation rate plays a positive pleiotropic role in C accumulation in the form of sugar or dry matter via increased FV/FM. This work lays a strong foundation for salt-tolerant forage maize genetic improvement.
 
 ## Function-related keywords:
-- [salt](/tags/salt/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)
+- [salt](/tags/salt/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[photosystem](/tags/photosystem/)
 
 ## Literature:
-   - [Insights on the SWEET Gene Role in Soluble Sugar Accumulation via the CO2 Fixation Pathway in Forage Maize Under Salt Stress]( https://link.springer.com/article/10.1007/s00344-023-11112-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11112-x](https://link.springer.com/article/10.1007/s00344-023-11112-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [Unravelling structural, functional, evolutionary and genetic basis of SWEET transporters regulating abiotic stress tolerance in maize.]( https://www.sciencedirect.com/science/article/abs/pii/S0141813022032536?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2022.12.326](https://www.sciencedirect.com/science/article/abs/pii/S0141813022032536?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36603713](https://pubmed.ncbi.nlm.nih.gov/36603713/)
+   - [Insights on the SWEET Gene Role in Soluble Sugar Accumulation via the CO2 Fixation Pathway in Forage Maize Under Salt Stress]( https://link.springer.com/article/10.1007/s00344-023-11112-x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-023-11112-x](https://link.springer.com/article/10.1007/s00344-023-11112-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Unravelling structural, functional, evolutionary and genetic basis of SWEET transporters regulating abiotic stress tolerance in maize.]( https://www.sciencedirect.com/science/article/abs/pii/S0141813022032536?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2022.12.326](https://www.sciencedirect.com/science/article/abs/pii/S0141813022032536?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36603713](https://pubmed.ncbi.nlm.nih.gov/36603713/)
 
 ## Related News:
 

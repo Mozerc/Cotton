@@ -21,7 +21,7 @@ tags: [ flowering ]
 - [flowering](/tags/flowering/)
 
 ## Literature:
-   - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
+   - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
 
 ## Related News:
 

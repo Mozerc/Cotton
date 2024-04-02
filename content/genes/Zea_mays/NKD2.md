@@ -21,11 +21,11 @@ tags: [ development,starch,endosperm,endosperm development ]
    - Double mutants have multiple (2-5) layers of peripheral endosperm cells that lack starch granules or other features of starchy endosperm.
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm.]( https://academic.oup.com/plcell/article/30/10/2425/6099477?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00392](https://academic.oup.com/plcell/article/30/10/2425/6099477?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30262552](https://pubmed.ncbi.nlm.nih.gov/30262552/)
-   - [Molecular mechanisms controlling grain size and weight and their biotechnological breeding applications in maize and other cereal crops.]( https://www.sciencedirect.com/science/article/pii/S2090123223002655?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jare.2023.09.016](https://www.sciencedirect.com/science/article/pii/S2090123223002655?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37739122](https://pubmed.ncbi.nlm.nih.gov/37739122/)
+   - [Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm.]( https://academic.oup.com/plcell/article/30/10/2425/6099477?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00392](https://academic.oup.com/plcell/article/30/10/2425/6099477?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30262552](https://pubmed.ncbi.nlm.nih.gov/30262552/)
+   - [Molecular mechanisms controlling grain size and weight and their biotechnological breeding applications in maize and other cereal crops.]( https://www.sciencedirect.com/science/article/pii/S2090123223002655?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jare.2023.09.016](https://www.sciencedirect.com/science/article/pii/S2090123223002655?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37739122](https://pubmed.ncbi.nlm.nih.gov/37739122/)
 
 ## Related News:
    - [Plant Cell最新研究揭示转录因子在玉米胚乳发育中的调控新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247487904&idx=1&sn=c07466057e0469d91e2fd2eb9976fe21&chksm=fd708bc7ca0702d15acb1c5ffd89e7558f5603d4d17ec3b2c89414810cfbc5bdc52e5e14e27b&scene=27#wechat_redirect)

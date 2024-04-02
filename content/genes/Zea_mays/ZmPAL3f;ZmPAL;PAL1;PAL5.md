@@ -22,13 +22,13 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Expression of Phenylalanine Ammonia Lyase Genes in Maize Lines Differing in Susceptibility to Meloidogyne incognita.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[NA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25580029](https://pubmed.ncbi.nlm.nih.gov/25580029/)
+   - [Expression of Phenylalanine Ammonia Lyase Genes in Maize Lines Differing in Susceptibility to Meloidogyne incognita.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[NA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284088/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25580029](https://pubmed.ncbi.nlm.nih.gov/25580029/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100285115](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285115)
-- **UniProt accessions:** [A0A1D6Q5B5](https://www.uniprot.org/uniprotkb/A0A1D6Q5B5/entry)&nbsp;,&nbsp;[B4FW68](https://www.uniprot.org/uniprotkb/B4FW68/entry)&nbsp;,&nbsp;[B6U0Z0](https://www.uniprot.org/uniprotkb/B6U0Z0/entry)
+- **UniProt accessions:** [A0A1D6Q5B5](https://www.uniprot.org/uniprotkb/A0A1D6Q5B5/entry),&nbsp;&nbsp;[B4FW68](https://www.uniprot.org/uniprotkb/B4FW68/entry),&nbsp;&nbsp;[B6U0Z0](https://www.uniprot.org/uniprotkb/B6U0Z0/entry)
 
 
 

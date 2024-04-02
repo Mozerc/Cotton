@@ -20,7 +20,7 @@ tags: [ inflorescence ]
 - [inflorescence](/tags/inflorescence/)
 
 ## Literature:
-   - [Gene expression and expression quantitative trait loci analyses uncover natural variations underlying the improvement of important agronomic traits during modern maize breeding.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16260)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16260](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16260)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37186341](https://pubmed.ncbi.nlm.nih.gov/37186341/)
+   - [Gene expression and expression quantitative trait loci analyses uncover natural variations underlying the improvement of important agronomic traits during modern maize breeding.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16260).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16260](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16260);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37186341](https://pubmed.ncbi.nlm.nih.gov/37186341/)
 
 ## Related News:
 

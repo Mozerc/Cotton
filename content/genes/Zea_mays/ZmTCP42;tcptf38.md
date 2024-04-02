@@ -22,11 +22,11 @@ tags: [ drought,seedling,seed,seed germination,tolerance,aba,drought tolerance ]
    - Overexpression of **ZmTCP42** in Arabidopsis led to a hypersensitivity to ABA in seed germination and enhanced drought tolerance, validating its function in drought tolerance.
 
 ## Function-related keywords:
-- [drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)
+- [drought](/tags/drought/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/)
 
 ## Literature:
-   - [Genome-Wide Analysis of TCP Family Genes in Zea mays L. Identified a Role for ZmTCP42 in Drought Tolerance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6600213/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms20112762](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6600213/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31195663](https://pubmed.ncbi.nlm.nih.gov/31195663/)
-   - [Regulators of early maize leaf development inferred from transcriptomes of laser capture microdissection (LCM)-isolated embryonic leaf cells.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9436337/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2208795119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9436337/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36001691](https://pubmed.ncbi.nlm.nih.gov/36001691/)
+   - [Genome-Wide Analysis of TCP Family Genes in Zea mays L. Identified a Role for ZmTCP42 in Drought Tolerance.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6600213/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms20112762](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6600213/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31195663](https://pubmed.ncbi.nlm.nih.gov/31195663/)
+   - [Regulators of early maize leaf development inferred from transcriptomes of laser capture microdissection (LCM)-isolated embryonic leaf cells.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9436337/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2208795119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9436337/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36001691](https://pubmed.ncbi.nlm.nih.gov/36001691/)
 
 ## Related News:
 

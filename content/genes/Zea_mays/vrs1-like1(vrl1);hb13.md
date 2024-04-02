@@ -19,11 +19,11 @@ tags: [ growth,floral ]
    - **hb13** mutants have derepressed growth of floral organs; bore more ears and more branches, indicating broad roles in growth repression.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[floral](/tags/floral/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[floral](/tags/floral/)
 
 ## Literature:
-   - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
-   - [GRASSY TILLERS1 (GT1) and SIX-ROWED SPIKE1 (VRS1) homologs share conserved roles in growth repression.]( https://www.pnas.org/doi/10.1073/pnas.2311961120)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2311961120](https://www.pnas.org/doi/10.1073/pnas.2311961120)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38096411](https://pubmed.ncbi.nlm.nih.gov/38096411/)
+   - [A gene regulatory network for tiller development mediated by Tin8 in maize.]( https://academic.oup.com/jxb/article/73/1/110/6359025).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab399](https://academic.oup.com/jxb/article/73/1/110/6359025);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34453433](https://pubmed.ncbi.nlm.nih.gov/34453433/)
+   - [GRASSY TILLERS1 (GT1) and SIX-ROWED SPIKE1 (VRS1) homologs share conserved roles in growth repression.]( https://www.pnas.org/doi/10.1073/pnas.2311961120).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2311961120](https://www.pnas.org/doi/10.1073/pnas.2311961120);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38096411](https://pubmed.ncbi.nlm.nih.gov/38096411/)
 
 ## Related News:
    - [JEB | 中国农业大学林中伟教授课题组发现调控玉米分蘖发育的新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516449&idx=8&sn=0ca9a532d60f2f00d4d5fd7294f39bc5&chksm=ce902c74f9e7a56226264f6288b36eadc4f946f40b6288a1865343981bb71509c23e3d7488d3&scene=27#wechat_redirect)

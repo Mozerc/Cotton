@@ -19,10 +19,10 @@ tags: [ kinase,nucleus,aba,protein kinase,pi ]
    - ABA and H2O2 induced a significant increase in the **ZmMPK3** activity using immunoprecipitation and in-gel kinase assay. Furthermore, the results showed that the **ZmMPK3** protein is localized mainly to the nucleus. These results suggest that the **ZmMPK3** may play an important role in response to environmental stresses.
 
 ## Function-related keywords:
-- [kinase](/tags/kinase/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[pi](/tags/pi/)
+- [kinase](/tags/kinase/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[pi](/tags/pi/)
 
 ## Literature:
-   - [A novel mitogen-activated protein kinase gene in maize (Zea mays), ZmMPK3, is involved in response to diverse environmental cues.]( https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7909.2010.00906.x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1744-7909.2010.00906.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7909.2010.00906.x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20537040](https://pubmed.ncbi.nlm.nih.gov/20537040/)
+   - [A novel mitogen-activated protein kinase gene in maize (Zea mays), ZmMPK3, is involved in response to diverse environmental cues.]( https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7909.2010.00906.x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1744-7909.2010.00906.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7909.2010.00906.x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20537040](https://pubmed.ncbi.nlm.nih.gov/20537040/)
 
 ## Related News:
 

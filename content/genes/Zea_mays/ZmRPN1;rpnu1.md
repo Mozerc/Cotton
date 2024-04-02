@@ -21,17 +21,17 @@ tags: [ pollen,seed,plasma membrane ]
    - Molecular analyses showed that **ZmRPN1** interacts with ZmMSP1, which is known as a germline cell number regulator, and facilitates ZmMSP1 localization to the plasma membrane.
 
 ## Function-related keywords:
-- [pollen](/tags/pollen/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)
+- [pollen](/tags/pollen/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/)
 
 ## Literature:
-   - [ZmRPN1 confers quantitative variation in pollen number and boosts hybrid seed production in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14105](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37341033](https://pubmed.ncbi.nlm.nih.gov/37341033/)
+   - [ZmRPN1 confers quantitative variation in pollen number and boosts hybrid seed production in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14105](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37341033](https://pubmed.ncbi.nlm.nih.gov/37341033/)
 
 ## Related News:
    - [PBJ | 中国农大贺岩教授课题组发现调控玉米花粉数量关键特异基因ZmRPN1](https://mp.weixin.qq.com/s/AodLIhzfADrHhE3yibz8Yw)
 
 ## Gene Resources:
 - **NCBI ID:** [100272380](https://www.ncbi.nlm.nih.gov/gene/?term=100272380)
-- **UniProt accessions:** [B4FNA8](https://www.uniprot.org/uniprotkb/B4FNA8/entry)&nbsp;,&nbsp;[B6TVS7](https://www.uniprot.org/uniprotkb/B6TVS7/entry)
+- **UniProt accessions:** [B4FNA8](https://www.uniprot.org/uniprotkb/B4FNA8/entry),&nbsp;&nbsp;[B6TVS7](https://www.uniprot.org/uniprotkb/B6TVS7/entry)
 
 
 

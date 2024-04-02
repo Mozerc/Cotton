@@ -21,12 +21,12 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
    - The identified favorable CG allele of **ZmCGT1** may be further used for genetic improvement of nutritional quality in maize.
 
 ## Function-related keywords:
-- [quality](/tags/quality/)&nbsp;,&nbsp;[nutritional-quality](/tags/nutritional-quality/)&nbsp;,&nbsp;[glycosyltransferase](/tags/glycosyltransferase/)&nbsp;,&nbsp;[flavone](/tags/flavone/)
+- [quality](/tags/quality/),&nbsp;&nbsp;[nutritional-quality](/tags/nutritional-quality/),&nbsp;&nbsp;[glycosyltransferase](/tags/glycosyltransferase/),&nbsp;&nbsp;[flavone](/tags/flavone/)
 
 ## Literature:
-   - [Natural variation of ZmCGT1 is responsible for isoorientin accumulation in maize silk.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15549](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34695260](https://pubmed.ncbi.nlm.nih.gov/34695260/)
-   - [Dissecting the metabolic reprogramming of maize root under nitrogen-deficient stress conditions.]( https://academic.oup.com/jxb/article/73/1/275/6374527?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab435](https://academic.oup.com/jxb/article/73/1/275/6374527?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34554248](https://pubmed.ncbi.nlm.nih.gov/34554248/)
-   - [Designing salt stress-resilient crops: Current progress and future challenges.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13599)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13599](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13599)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38108117](https://pubmed.ncbi.nlm.nih.gov/38108117/)
+   - [Natural variation of ZmCGT1 is responsible for isoorientin accumulation in maize silk.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15549](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15549);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34695260](https://pubmed.ncbi.nlm.nih.gov/34695260/)
+   - [Dissecting the metabolic reprogramming of maize root under nitrogen-deficient stress conditions.]( https://academic.oup.com/jxb/article/73/1/275/6374527?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab435](https://academic.oup.com/jxb/article/73/1/275/6374527?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34554248](https://pubmed.ncbi.nlm.nih.gov/34554248/)
+   - [Designing salt stress-resilient crops: Current progress and future challenges.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13599).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13599](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13599);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38108117](https://pubmed.ncbi.nlm.nih.gov/38108117/)
 
 ## Related News:
    - [PJ | 北京市农林科学院生物技术研究所/玉米研究所合作发现了C-糖基转移酶ZmCGT1参与玉米黄酮异荭草素合成的新通路](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247519889&idx=2&sn=029edb34581c332232f3b4bba9ff9955&chksm=ce9023c4f9e7aad218d4daef2463ad1a062bca4381bee4781fffe242047a2b0ed33a614de7b0&scene=27#wechat_redirect)

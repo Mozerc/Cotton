@@ -20,11 +20,11 @@ tags: [ transcription factor,development,plant development,architecture,cell wal
    - The combined results revealed 59 **ZmIBH1-1**-modulated target genes with annotations, and they were mainly related to the cell wall, cell development, and hormones.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
-   - [ZmIBH1-1 regulates plant architecture in maize.]( https://academic.oup.com/jxb/article/71/10/2943/5716501?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa052](https://academic.oup.com/jxb/article/71/10/2943/5716501?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31990030](https://pubmed.ncbi.nlm.nih.gov/31990030/)
-   - [Striking a growth-defense balance: Stress regulators that function in maize development.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13570)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13570](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13570)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37787439](https://pubmed.ncbi.nlm.nih.gov/37787439/)
+   - [ZmIBH1-1 regulates plant architecture in maize.]( https://academic.oup.com/jxb/article/71/10/2943/5716501?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa052](https://academic.oup.com/jxb/article/71/10/2943/5716501?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31990030](https://pubmed.ncbi.nlm.nih.gov/31990030/)
+   - [Striking a growth-defense balance: Stress regulators that function in maize development.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13570).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13570](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13570);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37787439](https://pubmed.ncbi.nlm.nih.gov/37787439/)
 
 ## Related News:
 

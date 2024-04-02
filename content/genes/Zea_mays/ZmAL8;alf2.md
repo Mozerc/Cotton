@@ -21,7 +21,7 @@ tags: [ transcription factor ]
 - [transcription-factor](/tags/transcription-factor/)
 
 ## Literature:
-   - [A temporal hierarchy underpins the transcription factor-DNA interactome of the maize UPR.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
+   - [A temporal hierarchy underpins the transcription factor-DNA interactome of the maize UPR.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
 
 ## Related News:
 

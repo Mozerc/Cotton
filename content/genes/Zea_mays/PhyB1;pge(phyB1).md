@@ -21,17 +21,17 @@ tags: [ chloroplast,development,plant development,seedling,floral,chloroplast de
    - **PhyB1** and PHYB2 regulate several aspects of seedling development, including mesocotyl elongation and chloroplast gene expression.
 
 ## Function-related keywords:
-- [chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)
+- [chloroplast](/tags/chloroplast/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[chloroplast-development](/tags/chloroplast-development/)
 
 ## Literature:
-   - [Subfunctionalization of PhyB1 and PhyB2 in the control of seedling and mature plant traits in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2006.02962.x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1365-313X.2006.02962.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2006.02962.x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17181778](https://pubmed.ncbi.nlm.nih.gov/17181778/)
-   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
+   - [Subfunctionalization of PhyB1 and PhyB2 in the control of seedling and mature plant traits in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2006.02962.x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/j.1365-313X.2006.02962.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2006.02962.x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[17181778](https://pubmed.ncbi.nlm.nih.gov/17181778/)
+   - [Breeding maize of ideal plant architecture for high-density planting tolerance through modulating shade avoidance response and beyond.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13603](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13603);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38131117](https://pubmed.ncbi.nlm.nih.gov/38131117/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100383702](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100383702)
-- **UniProt accessions:** [Q1A5Y4](https://www.uniprot.org/uniprotkb/Q1A5Y4/entry)&nbsp;,&nbsp;[Q1A5Y5](https://www.uniprot.org/uniprotkb/Q1A5Y5/entry)
+- **UniProt accessions:** [Q1A5Y4](https://www.uniprot.org/uniprotkb/Q1A5Y4/entry),&nbsp;&nbsp;[Q1A5Y5](https://www.uniprot.org/uniprotkb/Q1A5Y5/entry)
 
 
 

@@ -22,18 +22,18 @@ tags: [ auxin,map-based cloning,meristem,auxin transport,intercalary meristem,in
    - **Br2**/PGP1 transports auxin from node to internode through the vascular bundles.
 
 ## Function-related keywords:
-- [auxin](/tags/auxin/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[intercalary-meristem](/tags/intercalary-meristem/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[node](/tags/node/)
+- [auxin](/tags/auxin/),&nbsp;&nbsp;[map-based-cloning](/tags/map-based-cloning/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[auxin-transport](/tags/auxin-transport/),&nbsp;&nbsp;[intercalary-meristem](/tags/intercalary-meristem/),&nbsp;&nbsp;[internode-elongation](/tags/internode-elongation/),&nbsp;&nbsp;[node](/tags/node/)
 
 ## Literature:
-   - [Maize brachytic2 (br2) suppresses the elongation of lower internodes for excessive auxin accumulation in the intercalary meristem region.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-2200-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-2200-5](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-2200-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31881837](https://pubmed.ncbi.nlm.nih.gov/31881837/)
-   - [Hormonal regulation of inflorescence and intercalary meristems in grasses.]( https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pbi.2023.102451](https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37739867](https://pubmed.ncbi.nlm.nih.gov/37739867/)
-   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
+   - [Maize brachytic2 (br2) suppresses the elongation of lower internodes for excessive auxin accumulation in the intercalary meristem region.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-2200-5).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-2200-5](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-2200-5);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31881837](https://pubmed.ncbi.nlm.nih.gov/31881837/)
+   - [Hormonal regulation of inflorescence and intercalary meristems in grasses.]( https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pbi.2023.102451](https://www.sciencedirect.com/science/article/abs/pii/S1369526623001164?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37739867](https://pubmed.ncbi.nlm.nih.gov/37739867/)
+   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100384057](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100384057)
-- **UniProt accessions:** [A0A1D6KLY8](https://www.uniprot.org/uniprotkb/A0A1D6KLY8/entry)&nbsp;,&nbsp;[A0A1D6KLY9](https://www.uniprot.org/uniprotkb/A0A1D6KLY9/entry)&nbsp;,&nbsp;[A0A2P1BTK0](https://www.uniprot.org/uniprotkb/A0A2P1BTK0/entry)
+- **UniProt accessions:** [A0A1D6KLY8](https://www.uniprot.org/uniprotkb/A0A1D6KLY8/entry),&nbsp;&nbsp;[A0A1D6KLY9](https://www.uniprot.org/uniprotkb/A0A1D6KLY9/entry),&nbsp;&nbsp;[A0A2P1BTK0](https://www.uniprot.org/uniprotkb/A0A2P1BTK0/entry)
 
 
 

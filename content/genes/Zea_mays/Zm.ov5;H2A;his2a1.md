@@ -22,7 +22,7 @@ tags: [ ovule ]
 
 ## Literature:
    - [Characterization of histone H2A and H2B cDNA clones isolated from a maize ovule cDNA library
-]( https://eurekamag.com/research/002/320/002320476.php)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[002/320/002320476](https://eurekamag.com/research/002/320/002320476.php)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+]( https://eurekamag.com/research/002/320/002320476.php).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[002/320/002320476](https://eurekamag.com/research/002/320/002320476.php);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

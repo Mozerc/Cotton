@@ -20,10 +20,10 @@ tags: [ leaf,dehydrogenase ]
    - **Rf2e** involved in biosynthesis of cuticular waxes.; mutant exhibited glossy leaf phenotypes; associated with gl3 expression.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[dehydrogenase](/tags/dehydrogenase/)
 
 ## Literature:
-   - [Bacterium-enabled transient gene activation by artificial transcription factors for resolving gene regulation in maize.]( https://academic.oup.com/plcell/article-abstract/35/8/2736/7180262)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad155](https://academic.oup.com/plcell/article-abstract/35/8/2736/7180262)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37233025](https://pubmed.ncbi.nlm.nih.gov/37233025/)
+   - [Bacterium-enabled transient gene activation by artificial transcription factors for resolving gene regulation in maize.]( https://academic.oup.com/plcell/article-abstract/35/8/2736/7180262).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad155](https://academic.oup.com/plcell/article-abstract/35/8/2736/7180262);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37233025](https://pubmed.ncbi.nlm.nih.gov/37233025/)
 
 ## Related News:
 

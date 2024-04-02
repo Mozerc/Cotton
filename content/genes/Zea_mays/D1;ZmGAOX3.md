@@ -21,11 +21,11 @@ tags: [ root,seed,ja,gibberellin,ga,ga biosynthesis,ja biosynthesis,gibberellin 
    - **D1** increase in number of brace root whorls.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[gibberellin-biosynthesis](/tags/gibberellin-biosynthesis/)&nbsp;,&nbsp;[root-number](/tags/root-number/)
+- [root](/tags/root/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[gibberellin](/tags/gibberellin/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[ga-biosynthesis](/tags/ga-biosynthesis/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[gibberellin-biosynthesis](/tags/gibberellin-biosynthesis/),&nbsp;&nbsp;[root-number](/tags/root-number/)
 
 ## Literature:
-   - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
-   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
+   - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
+   - [Mining genic resources regulating nitrogen-use efficiency based on integrative biological analyses and their breeding applications in maize and other crops.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16550](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37967146](https://pubmed.ncbi.nlm.nih.gov/37967146/)
 
 ## Related News:
 

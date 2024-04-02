@@ -19,10 +19,10 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,aba,abscis
    - Additionally, **Zmhdz9** promoted direct transcription of ZmTCP9 in the GGTCA motif, activating elements of the ZmKNOX8 promoter, which encodes a key enzyme in lignin synthesis. This study showed that the regulation of ABA and lignin by **Zmhdz9** is essential for drought stress resistance in maize.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[lignin](/tags/lignin/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/)
 
 ## Literature:
-   - [Zmhdz9, an HD-Zip transcription factor, promotes drought stress resistance in maize by modulating ABA and lignin accumulation.]( https://www.sciencedirect.com/science/article/abs/pii/S0141813023057483?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2023.128849](https://www.sciencedirect.com/science/article/abs/pii/S0141813023057483?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38113999](https://pubmed.ncbi.nlm.nih.gov/38113999/)
+   - [Zmhdz9, an HD-Zip transcription factor, promotes drought stress resistance in maize by modulating ABA and lignin accumulation.]( https://www.sciencedirect.com/science/article/abs/pii/S0141813023057483?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2023.128849](https://www.sciencedirect.com/science/article/abs/pii/S0141813023057483?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38113999](https://pubmed.ncbi.nlm.nih.gov/38113999/)
 
 ## Related News:
 

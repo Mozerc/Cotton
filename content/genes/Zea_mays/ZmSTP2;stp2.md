@@ -19,11 +19,11 @@ tags: [ resistance,disease,disease resistance,breeding ]
    - **ZmSTP2** and **ZmSTP2**0, were predicted to be involved in resistance to F. graminearum infection
 
 ## Function-related keywords:
-- [resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+- [resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
-   - [Identification and expression analysis of sugar transporter family genes reveal the role of ZmSTP2 and ZmSTP20 in maize disease resistance]( https://www.sciencedirect.com/science/article/pii/S2095311922003008)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.12.014](https://www.sciencedirect.com/science/article/pii/S2095311922003008)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [Genome-wide analysis of sugar transporter genes in maize (Zea mays L.): identification, characterization and their expression profiles during kernel development.]( https://peerj.com/articles/16423/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.16423](https://peerj.com/articles/16423/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38025667](https://pubmed.ncbi.nlm.nih.gov/38025667/)
+   - [Identification and expression analysis of sugar transporter family genes reveal the role of ZmSTP2 and ZmSTP20 in maize disease resistance]( https://www.sciencedirect.com/science/article/pii/S2095311922003008).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jia.2022.12.014](https://www.sciencedirect.com/science/article/pii/S2095311922003008);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Genome-wide analysis of sugar transporter genes in maize (Zea mays L.): identification, characterization and their expression profiles during kernel development.]( https://peerj.com/articles/16423/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.7717/peerj.16423](https://peerj.com/articles/16423/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38025667](https://pubmed.ncbi.nlm.nih.gov/38025667/)
 
 ## Related News:
 

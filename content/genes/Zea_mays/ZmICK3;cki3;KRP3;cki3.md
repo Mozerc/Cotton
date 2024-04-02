@@ -22,13 +22,13 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
+   - [Identification and functional analysis of the ICK gene family in maize.]( https://www.nature.com/articles/srep43818).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/srep43818](https://www.nature.com/articles/srep43818);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28262730](https://pubmed.ncbi.nlm.nih.gov/28262730/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100286202](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100286202)
-- **UniProt accessions:** [A0A317Y8N0](https://www.uniprot.org/uniprotkb/A0A317Y8N0/entry)&nbsp;,&nbsp;[B6U1V6](https://www.uniprot.org/uniprotkb/B6U1V6/entry)
+- **UniProt accessions:** [A0A317Y8N0](https://www.uniprot.org/uniprotkb/A0A317Y8N0/entry),&nbsp;&nbsp;[B6U1V6](https://www.uniprot.org/uniprotkb/B6U1V6/entry)
 
 
 

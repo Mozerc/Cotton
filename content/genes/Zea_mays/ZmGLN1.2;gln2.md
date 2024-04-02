@@ -19,10 +19,10 @@ tags: [ nitrogen,leaf,stem,root,shoot,pollen,seedling,embryo,nitrate ]
    - **gln2** induction by nitrate is moderate. Highest mRNA levels in root cortex, root tip, little or no accumulation in leaf blade, young cob, embryo, pollen, root vascular cylinder, seedling shoot and stem.
 
 ## Function-related keywords:
-- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)
+- [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[leaf](/tags/leaf/),&nbsp;&nbsp;[stem](/tags/stem/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
-   - [Root Ideotype Influences Nitrogen Transport and Assimilation in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928562/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2018.00531](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928562/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29740466](https://pubmed.ncbi.nlm.nih.gov/29740466/)
+   - [Root Ideotype Influences Nitrogen Transport and Assimilation in Maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928562/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2018.00531](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928562/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29740466](https://pubmed.ncbi.nlm.nih.gov/29740466/)
 
 ## Related News:
 

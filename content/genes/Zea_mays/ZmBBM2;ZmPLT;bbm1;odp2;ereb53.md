@@ -22,8 +22,8 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Efficient parthenogenesis via egg cell expression of maize BABY BOOM 1: a step toward synthetic apomixis.]( https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad461](https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37610248](https://pubmed.ncbi.nlm.nih.gov/37610248/)
-   - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
+   - [Efficient parthenogenesis via egg cell expression of maize BABY BOOM 1: a step toward synthetic apomixis.]( https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad461](https://academic.oup.com/plphys/article/193/4/2278/7248855?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37610248](https://pubmed.ncbi.nlm.nih.gov/37610248/)
+   - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
 
 ## Related News:
 

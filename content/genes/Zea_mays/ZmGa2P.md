@@ -22,10 +22,10 @@ tags: [ growth,pollen,reproductive,breeding,reproductive growth ]
    - **ZmGa2P** candidate gene of the male determinant of Ga2.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[reproductive-growth](/tags/reproductive-growth/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[reproductive-growth](/tags/reproductive-growth/)
 
 ## Literature:
-   - [A pair of non-Mendelian genes at the Ga2 locus confer unilateral cross-incompatibility in maize.]( https://www.nature.com/articles/s41467-022-29729-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-29729-z](https://www.nature.com/articles/s41467-022-29729-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35422051](https://pubmed.ncbi.nlm.nih.gov/35422051/)
+   - [A pair of non-Mendelian genes at the Ga2 locus confer unilateral cross-incompatibility in maize.]( https://www.nature.com/articles/s41467-022-29729-z).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-29729-z](https://www.nature.com/articles/s41467-022-29729-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35422051](https://pubmed.ncbi.nlm.nih.gov/35422051/)
 
 ## Related News:
    - [破解玉米单向杂交不亲和世纪之谜，陈化榜研究组取得新进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247538132&idx=3&sn=b663a63a036a9e630e640724daeb8f44&chksm=e8bd27cadfcaaedcab6ed4c4cc9bd9b6dc5d2bebe684d1af2bb479a2586c50140502e897a03f&scene=27#wechat_redirect)

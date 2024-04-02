@@ -22,17 +22,17 @@ tags: [ leaf,root,seedling,transporter,cadmium,heavy metal ]
    - **ZmHMA3a** associates with leaf Cd concentration under various Cd levels at seedling and maturing stages.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[heavy-metal](/tags/heavy-metal/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[cadmium](/tags/cadmium/),&nbsp;&nbsp;[heavy-metal](/tags/heavy-metal/)
 
 ## Literature:
-   - [A heavy metal transporter gene ZmHMA3a promises safe agricultural production on cadmium-polluted arable land.]( https://www.sciencedirect.com/science/article/pii/S1673852722002156?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2022.08.003](https://www.sciencedirect.com/science/article/pii/S1673852722002156?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36028132](https://pubmed.ncbi.nlm.nih.gov/36028132/)
+   - [A heavy metal transporter gene ZmHMA3a promises safe agricultural production on cadmium-polluted arable land.]( https://www.sciencedirect.com/science/article/pii/S1673852722002156?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2022.08.003](https://www.sciencedirect.com/science/article/pii/S1673852722002156?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36028132](https://pubmed.ncbi.nlm.nih.gov/36028132/)
 
 ## Related News:
    - [华中农大严建兵团队/中科院晁代印团队合作发现超表达ZmHMA3a玉米植株可解决耕地镉污染](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247551401&idx=2&sn=574e269335577c0424da9f97db7c04c8&chksm=e8bd7bb7dfcaf2a158c11028d87dac699b47fcf33d92320b4560e92c0f37d0672316782288b0&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC103647210](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103647210)
-- **UniProt accessions:** [A0A1D6EL09](https://www.uniprot.org/uniprotkb/A0A1D6EL09/entry)&nbsp;,&nbsp;[A0A1D6EL10](https://www.uniprot.org/uniprotkb/A0A1D6EL10/entry)&nbsp;,&nbsp;[A0A3L6FW78](https://www.uniprot.org/uniprotkb/A0A3L6FW78/entry)
+- **UniProt accessions:** [A0A1D6EL09](https://www.uniprot.org/uniprotkb/A0A1D6EL09/entry),&nbsp;&nbsp;[A0A1D6EL10](https://www.uniprot.org/uniprotkb/A0A1D6EL10/entry),&nbsp;&nbsp;[A0A3L6FW78](https://www.uniprot.org/uniprotkb/A0A3L6FW78/entry)
 
 
 

@@ -21,11 +21,11 @@ tags: [ kinase,tolerance,cellulose,protein kinase,chilling,chilling tolerance ]
    - **ZmRR1** regulates chilling tolerance by modulating the expression of ZmDREB1s and ZmCesAs.
 
 ## Function-related keywords:
-- [kinase](/tags/kinase/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cellulose](/tags/cellulose/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)
+- [kinase](/tags/kinase/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[cellulose](/tags/cellulose/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[chilling](/tags/chilling/),&nbsp;&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)
 
 ## Literature:
-   - [Natural variation in a type-A response regulator confers maize chilling tolerance.]( https://www.nature.com/articles/s41467-021-25001-y#Sec28)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-25001-y](https://www.nature.com/articles/s41467-021-25001-y#Sec28)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34354054](https://pubmed.ncbi.nlm.nih.gov/34354054/)
-   - [Cytokinin signaling promotes salt tolerance by modulating shoot chloride exclusion in maize.]( https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.04.011](https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37101396](https://pubmed.ncbi.nlm.nih.gov/37101396/)
+   - [Natural variation in a type-A response regulator confers maize chilling tolerance.]( https://www.nature.com/articles/s41467-021-25001-y#Sec28).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-25001-y](https://www.nature.com/articles/s41467-021-25001-y#Sec28);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34354054](https://pubmed.ncbi.nlm.nih.gov/34354054/)
+   - [Cytokinin signaling promotes salt tolerance by modulating shoot chloride exclusion in maize.]( https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.04.011](https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37101396](https://pubmed.ncbi.nlm.nih.gov/37101396/)
 
 ## Related News:
    - [Nature Communications| 中国农大杨淑华团队发现玉米耐冷的新调控机制，为玉米抗寒育种提供了重要的遗传靶点](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247515414&idx=3&sn=500058c53ad7e282be04afbbcd52a8c6&chksm=ce901043f9e79955c1bb002029c6b1c51a156b14f6d1f3f61979f171947f90085e0921bcc825&scene=27#wechat_redirect)

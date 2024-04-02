@@ -18,10 +18,10 @@ tags: [ stress,tolerance,stress tolerance,breeding,heat tolerance,heat stress ]
    - **Hsftf6** encodes a heat shock factor.
 
 ## Function-related keywords:
-- [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[heat-tolerance](/tags/heat-tolerance/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
-   - [Maize and heat stress: Physiological, genetic, and molecular insights.]( https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20378)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/tpg2.20378](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20378)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37587553](https://pubmed.ncbi.nlm.nih.gov/37587553/)
+   - [Maize and heat stress: Physiological, genetic, and molecular insights.]( https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20378).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/tpg2.20378](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20378);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37587553](https://pubmed.ncbi.nlm.nih.gov/37587553/)
 
 ## Related News:
 

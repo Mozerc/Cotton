@@ -19,10 +19,10 @@ tags: [ grain,wax biosynthesis ]
    - **Gl3** like gl1, but surface wax has all rice-grain-type particles.
 
 ## Function-related keywords:
-- [grain](/tags/grain/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)
+- [grain](/tags/grain/),&nbsp;&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)
 
 ## Literature:
-   - [Gene mapping via bulked segregant RNA-Seq (BSR-Seq).]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346754/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0036406](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346754/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22586469](https://pubmed.ncbi.nlm.nih.gov/22586469/)
+   - [Gene mapping via bulked segregant RNA-Seq (BSR-Seq).]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346754/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0036406](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346754/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22586469](https://pubmed.ncbi.nlm.nih.gov/22586469/)
 
 ## Related News:
 

@@ -20,10 +20,10 @@ tags: [ transcription factor,cell division,cell elongation,height,plant height,i
    - **ZmBELL10** positively regulates plant height; mutants resulted in shorter internodes, fewer nodes, and smaller kernels; verexpression increased plant height and hundred-kernel weight.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)&nbsp;,&nbsp;[node](/tags/node/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[internode-length](/tags/internode-length/),&nbsp;&nbsp;[internode-elongation](/tags/internode-elongation/),&nbsp;&nbsp;[node](/tags/node/)
 
 ## Literature:
-   - [ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19192](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37583092](https://pubmed.ncbi.nlm.nih.gov/37583092/)
+   - [ZmBELL10 interacts with other ZmBELLs and recognizes specific motifs for transcriptional activation to modulate internode patterning in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19192](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19192);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37583092](https://pubmed.ncbi.nlm.nih.gov/37583092/)
 
 ## Related News:
 

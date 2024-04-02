@@ -19,10 +19,10 @@ tags: [ growth,stress,nucleus,abiotic stress,cytoplasm,plant growth ]
    - **ZmWOX5A** was localized in both the cytoplasm and nucleus, without transactivation activity.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[cytoplasm](/tags/cytoplasm/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
-   - [A Comprehensive Identification and Expression Analysis of the WUSCHEL Homeobox-Containing Protein Family Reveals Their Special Role in Development and Abiotic Stress Response in Zea mays L.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10779079/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms25010441](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10779079/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38203611](https://pubmed.ncbi.nlm.nih.gov/38203611/)
+   - [A Comprehensive Identification and Expression Analysis of the WUSCHEL Homeobox-Containing Protein Family Reveals Their Special Role in Development and Abiotic Stress Response in Zea mays L.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10779079/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms25010441](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10779079/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38203611](https://pubmed.ncbi.nlm.nih.gov/38203611/)
 
 ## Related News:
 

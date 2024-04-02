@@ -18,10 +18,10 @@ tags: [ leaf,leaf senescence,senescence,stress,phytohormone,heat stress ]
    - **ZmSERK2** single copy cDNA with 79% sequence identity with serk2, and significant sequence homology to carrot and Arabidopsis SERK genes.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[phytohormone](/tags/phytohormone/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-senescence](/tags/leaf-senescence/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[phytohormone](/tags/phytohormone/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
-   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
+   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
 
 ## Related News:
 

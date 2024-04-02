@@ -21,7 +21,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [BREEDIT: a multiplex genome editing strategy to improve complex quantitative traits in maize.]( https://academic.oup.com/plcell/article/35/1/218/6687271?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac243](https://academic.oup.com/plcell/article/35/1/218/6687271?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36066192](https://pubmed.ncbi.nlm.nih.gov/36066192/)
+   - [BREEDIT: a multiplex genome editing strategy to improve complex quantitative traits in maize.]( https://academic.oup.com/plcell/article/35/1/218/6687271?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac243](https://academic.oup.com/plcell/article/35/1/218/6687271?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36066192](https://pubmed.ncbi.nlm.nih.gov/36066192/)
 
 ## Related News:
 

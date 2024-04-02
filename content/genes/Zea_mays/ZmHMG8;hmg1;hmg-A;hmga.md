@@ -22,7 +22,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Isolation and characterization of maize cDNAs encoding a high mobility group protein displaying a HMG-box.]( https://academic.oup.com/nar/article/19/10/2573/1030676)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/nar/19.10.2573](https://academic.oup.com/nar/article/19/10/2573/1030676)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[2041733](https://pubmed.ncbi.nlm.nih.gov/2041733/)
+   - [Isolation and characterization of maize cDNAs encoding a high mobility group protein displaying a HMG-box.]( https://academic.oup.com/nar/article/19/10/2573/1030676).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/nar/19.10.2573](https://academic.oup.com/nar/article/19/10/2573/1030676);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[2041733](https://pubmed.ncbi.nlm.nih.gov/2041733/)
 
 ## Related News:
 

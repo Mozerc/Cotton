@@ -20,10 +20,10 @@ tags: [ fertility,sterility,sterile,height,plant height,male sterility,male fert
    - Mutant is male sterile and also exhibits a shorter plant height and tassel length and decreased tassel branch number.
 
 ## Function-related keywords:
-- [fertility](/tags/fertility/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
+- [fertility](/tags/fertility/),&nbsp;&nbsp;[sterility](/tags/sterility/),&nbsp;&nbsp;[sterile](/tags/sterile/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[male-sterility](/tags/male-sterility/),&nbsp;&nbsp;[male-fertility](/tags/male-fertility/),&nbsp;&nbsp;[hybrid-sterility](/tags/hybrid-sterility/)
 
 ## Literature:
-   - [Fine mapping of the novel male-sterile mutant gene ms39 in maize originated from outer space flight]( https://link.springer.com/article/10.1007/s11032-018-0878-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-018-0878-y](https://link.springer.com/article/10.1007/s11032-018-0878-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Fine mapping of the novel male-sterile mutant gene ms39 in maize originated from outer space flight]( https://link.springer.com/article/10.1007/s11032-018-0878-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-018-0878-y](https://link.springer.com/article/10.1007/s11032-018-0878-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

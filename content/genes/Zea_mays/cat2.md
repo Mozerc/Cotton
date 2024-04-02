@@ -19,10 +19,10 @@ tags: [ stress,oxidative stress,oxidative ]
    - The transcript level of **CAT2** in HK320 was significantly reduced after the addition of nicosulfuron.
 
 ## Function-related keywords:
-- [stress](/tags/stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)
+- [stress](/tags/stress/),&nbsp;&nbsp;[oxidative-stress](/tags/oxidative-stress/),&nbsp;&nbsp;[oxidative](/tags/oxidative/)
 
 ## Literature:
-   - [Responses of photosynthesis, antioxidant enzymes, and related gene expression to nicosulfuron stress in sweet maize (Zea mays L.).]( https://link.springer.com/article/10.1007/s11356-022-18641-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11356-022-18641-0](https://link.springer.com/article/10.1007/s11356-022-18641-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35032265](https://pubmed.ncbi.nlm.nih.gov/35032265/)
+   - [Responses of photosynthesis, antioxidant enzymes, and related gene expression to nicosulfuron stress in sweet maize (Zea mays L.).]( https://link.springer.com/article/10.1007/s11356-022-18641-0).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11356-022-18641-0](https://link.springer.com/article/10.1007/s11356-022-18641-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35032265](https://pubmed.ncbi.nlm.nih.gov/35032265/)
 
 ## Related News:
 

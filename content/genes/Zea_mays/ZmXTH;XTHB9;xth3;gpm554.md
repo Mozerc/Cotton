@@ -19,10 +19,10 @@ tags: [ tolerance,aluminum,al tolerance,cell wall,aluminum tolerance,hydrolase ]
    - Overexpression of **ZmXTH** in Arabidopsis enhanced its tolerance to Al toxicity by reducing Al accumulation in its roots and cell wall.
 
 ## Function-related keywords:
-- [tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aluminum](/tags/aluminum/)&nbsp;,&nbsp;[al-tolerance](/tags/al-tolerance/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[aluminum-tolerance](/tags/aluminum-tolerance/)&nbsp;,&nbsp;[hydrolase](/tags/hydrolase/)
+- [tolerance](/tags/tolerance/),&nbsp;&nbsp;[aluminum](/tags/aluminum/),&nbsp;&nbsp;[al-tolerance](/tags/al-tolerance/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[aluminum-tolerance](/tags/aluminum-tolerance/),&nbsp;&nbsp;[hydrolase](/tags/hydrolase/)
 
 ## Literature:
-   - [ZmXTH, a xyloglucan endotransglucosylase/hydrolase gene of maize, conferred aluminum tolerance in Arabidopsis.]( https://www.sciencedirect.com/science/article/abs/pii/S0176161721001590?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jplph.2021.153520](https://www.sciencedirect.com/science/article/abs/pii/S0176161721001590?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34536904](https://pubmed.ncbi.nlm.nih.gov/34536904/)
+   - [ZmXTH, a xyloglucan endotransglucosylase/hydrolase gene of maize, conferred aluminum tolerance in Arabidopsis.]( https://www.sciencedirect.com/science/article/abs/pii/S0176161721001590?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jplph.2021.153520](https://www.sciencedirect.com/science/article/abs/pii/S0176161721001590?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34536904](https://pubmed.ncbi.nlm.nih.gov/34536904/)
 
 ## Related News:
 

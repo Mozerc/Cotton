@@ -22,10 +22,10 @@ tags: [ auxin,cell division,iaa,auxin biosynthesis,embryo,callus,cell expansion,
    - The ability of immature embryos to induce EC formation can be improved by the knockout of **ZmSAUR15**, which consequently increases the callus regeneration efficiency.
 
 ## Function-related keywords:
-- [auxin](/tags/auxin/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[callus](/tags/callus/)&nbsp;,&nbsp;[cell-expansion](/tags/cell-expansion/)&nbsp;,&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/)&nbsp;,&nbsp;[callus-formation](/tags/callus-formation/)
+- [auxin](/tags/auxin/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[callus](/tags/callus/),&nbsp;&nbsp;[cell-expansion](/tags/cell-expansion/),&nbsp;&nbsp;[iaa-biosynthesis](/tags/iaa-biosynthesis/),&nbsp;&nbsp;[callus-formation](/tags/callus-formation/)
 
 ## Literature:
-   - [Genetic variations in ZmSAUR15 contribute to the formation of immature embryo-derived embryonic calluses in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15609)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15609](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15609)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34822726](https://pubmed.ncbi.nlm.nih.gov/34822726/)
+   - [Genetic variations in ZmSAUR15 contribute to the formation of immature embryo-derived embryonic calluses in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15609).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15609](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15609);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34822726](https://pubmed.ncbi.nlm.nih.gov/34822726/)
 
 ## Related News:
    - [四川农业大学沈亚欧团队解析玉米胚性愈伤组织诱导的分子机理](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247528095&idx=1&sn=550a7834c981c9d6c046ad85a2620f3e&chksm=e8bd1c81dfca9597d66c219ad5c707682be9e67df6a02cf2ed6e6b9c15740437e3f2f5dd62f0&scene=27#wechat_redirect)

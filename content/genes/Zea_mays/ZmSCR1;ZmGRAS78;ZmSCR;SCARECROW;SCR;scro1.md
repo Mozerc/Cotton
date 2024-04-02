@@ -20,10 +20,10 @@ tags: [ leaf,root,leaf patterning,root endodermis ]
    - **ZmSCR1** mRNA expressed in endodermis and quiescent center of root, influencing radial pattern.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)&nbsp;,&nbsp;[root-endodermis](/tags/root-endodermis/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[leaf-patterning](/tags/leaf-patterning/),&nbsp;&nbsp;[root-endodermis](/tags/root-endodermis/)
 
 ## Literature:
-   - [SCARECROW gene function is required for photosynthetic development in maize.]( https://onlinelibrary.wiley.com/doi/10.1002/pld3.264)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/pld3.264](https://onlinelibrary.wiley.com/doi/10.1002/pld3.264)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32999956](https://pubmed.ncbi.nlm.nih.gov/32999956/)
+   - [SCARECROW gene function is required for photosynthetic development in maize.]( https://onlinelibrary.wiley.com/doi/10.1002/pld3.264).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1002/pld3.264](https://onlinelibrary.wiley.com/doi/10.1002/pld3.264);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32999956](https://pubmed.ncbi.nlm.nih.gov/32999956/)
 
 ## Related News:
 

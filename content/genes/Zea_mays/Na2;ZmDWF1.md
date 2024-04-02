@@ -23,11 +23,11 @@ tags: [ leaf,br,leaf angle ]
    - Overexpression of **ZmDWF1** resulted in enlarged LA, indicating that **ZmDWF1** is a positive regulator of LA in maize, and the regulatory framework of **ZmDWF1** was created based on the results from RNA-Sequencing and yeast-two hybrid (Y2H) screening analysis.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[leaf-angle](/tags/leaf-angle/)
 
 ## Literature:
-   - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
-   - [ZmDWF1 regulates leaf angle in maize.]( https://www.sciencedirect.com/science/article/abs/pii/S0168945222002849?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2022.111459](https://www.sciencedirect.com/science/article/abs/pii/S0168945222002849?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36113675](https://pubmed.ncbi.nlm.nih.gov/36113675/)
+   - [nana plant2 Encodes a Maize Ortholog of the Arabidopsis Brassinosteroid Biosynthesis Gene DWARF1, Identifying Developmental Interactions between Brassinosteroids and Gibberellins.]( https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00399](https://academic.oup.com/plphys/article/171/4/2633/6115442?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27288361](https://pubmed.ncbi.nlm.nih.gov/27288361/)
+   - [ZmDWF1 regulates leaf angle in maize.]( https://www.sciencedirect.com/science/article/abs/pii/S0168945222002849?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2022.111459](https://www.sciencedirect.com/science/article/abs/pii/S0168945222002849?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36113675](https://pubmed.ncbi.nlm.nih.gov/36113675/)
 
 ## Related News:
 

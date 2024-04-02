@@ -20,10 +20,10 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
    - Over-expression of a mutated version of this gene (**ZmDAR1**; transformed into maize) causes an increase in kernel mass and harvest index 
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)
+- [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [Over-expression of mutated ZmDA1 or ZmDAR1 gene improves maize kernel yield by enhancing starch synthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12763](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28557341](https://pubmed.ncbi.nlm.nih.gov/28557341/)
+   - [Over-expression of mutated ZmDA1 or ZmDAR1 gene improves maize kernel yield by enhancing starch synthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12763](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12763);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28557341](https://pubmed.ncbi.nlm.nih.gov/28557341/)
 
 ## Related News:
    - [5月29日|植物科学顶尖杂志最新文章导读](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247485133&idx=2&sn=28d445083019238cbb4c6512b24c3cad&chksm=e8be74d3dfc9fdc500fa3be2a055b5d6f2072f839803541376c514db1c7c73d398c8169ebb0c&scene=27#wechat_redirect)

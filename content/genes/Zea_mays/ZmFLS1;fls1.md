@@ -23,7 +23,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Evolution and expression of tandem duplicated maize flavonol synthase genes.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2012.00101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22654889](https://pubmed.ncbi.nlm.nih.gov/22654889/)
+   - [Evolution and expression of tandem duplicated maize flavonol synthase genes.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2012.00101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360202/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22654889](https://pubmed.ncbi.nlm.nih.gov/22654889/)
 
 ## Related News:
 

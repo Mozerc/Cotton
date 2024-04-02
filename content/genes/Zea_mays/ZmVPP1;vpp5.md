@@ -20,11 +20,11 @@ tags: [ root,growth,development,drought,photosynthesis,tolerance,drought toleran
    - Transgenic maize with enhanced **ZmVPP1** expression exhibits improved drought tolerance that is most likely due to enhanced photosynthetic efficiency and root development.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)
+- [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[photosynthesis](/tags/photosynthesis/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[root-growth](/tags/root-growth/)
 
 ## Literature:
-   - [Evaluation of drought tolerance in ZmVPP1-overexpressing transgenic inbred maize lines and their hybrids]( https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(19)62828-5](https://www.sciencedirect.com/science/article/pii/S2095311919628285)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [Genetic variation in ZmVPP1 contributes to drought tolerance in maize seedlings.]( https://www.nature.com/articles/ng.3636)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ng.3636](https://www.nature.com/articles/ng.3636)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27526320](https://pubmed.ncbi.nlm.nih.gov/27526320/)
+   - [Evaluation of drought tolerance in ZmVPP1-overexpressing transgenic inbred maize lines and their hybrids]( https://www.sciencedirect.com/science/article/pii/S2095311919628285).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/S2095-3119(19)62828-5](https://www.sciencedirect.com/science/article/pii/S2095311919628285);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Genetic variation in ZmVPP1 contributes to drought tolerance in maize seedlings.]( https://www.nature.com/articles/ng.3636).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ng.3636](https://www.nature.com/articles/ng.3636);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27526320](https://pubmed.ncbi.nlm.nih.gov/27526320/)
 
 ## Related News:
    - [JIA | 河北农大董金皋团队解析玉米大斑病菌中编码NHEJ途径关键组分蛋白StKU80基因的功能](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247489943&idx=5&sn=c58de56f905579f5471d7103baac9dfa&chksm=ce93b4c2f9e43dd486d3700b846502d1ab53c7e3fbe54c26ad375e99b93b6c0ff30cc597d9b8&scene=27#wechat_redirect)

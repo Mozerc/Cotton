@@ -19,10 +19,10 @@ tags: [ stress,tolerance,stress tolerance,breeding,chilling,chilling stress,crow
    - Besides breeding approaches, augmented production of heat shock factors (HSFs) and heat shock proteins (HSPs) have been reported in transgenic maize to provide heat stress tolerance.
 
 ## Function-related keywords:
-- [stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-stress](/tags/chilling-stress/)&nbsp;,&nbsp;[crown](/tags/crown/)&nbsp;,&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)
+- [stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[chilling](/tags/chilling/),&nbsp;&nbsp;[chilling-stress](/tags/chilling-stress/),&nbsp;&nbsp;[crown](/tags/crown/),&nbsp;&nbsp;[chilling-tolerance](/tags/chilling-tolerance/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[heat-tolerance](/tags/heat-tolerance/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/),&nbsp;&nbsp;[heat-stress-response](/tags/heat-stress-response/)
 
 ## Literature:
-   - [Tissue-level transcriptomic responses to local and distal chilling reveal potential chilling survival mechanisms in maize.]( https://academic.oup.com/jxb/article/72/21/7610/6317713?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab323](https://academic.oup.com/jxb/article/72/21/7610/6317713?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34240135](https://pubmed.ncbi.nlm.nih.gov/34240135/)
+   - [Tissue-level transcriptomic responses to local and distal chilling reveal potential chilling survival mechanisms in maize.]( https://academic.oup.com/jxb/article/72/21/7610/6317713?login=false).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab323](https://academic.oup.com/jxb/article/72/21/7610/6317713?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34240135](https://pubmed.ncbi.nlm.nih.gov/34240135/)
 
 ## Related News:
 

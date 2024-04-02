@@ -22,10 +22,10 @@ tags: [ transcription factor,grain,grain size,grain yield,yield,aba,cell death,c
    - **ZmbHLH121** is a bHLH type transcription activator.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-size](/tags/grain-size/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[cell-death](/tags/cell-death/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)&nbsp;,&nbsp;[transcriptional-activator](/tags/transcriptional-activator/)&nbsp;,&nbsp;[transcription-activator](/tags/transcription-activator/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-size](/tags/grain-size/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[cell-death](/tags/cell-death/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/),&nbsp;&nbsp;[transcriptional-activator](/tags/transcriptional-activator/),&nbsp;&nbsp;[transcription-activator](/tags/transcription-activator/)
 
 ## Literature:
-   - [Functional characterization of ZmbHLH121, a bHLH transcription factor, focusing on Zea mays kernel development]( https://www.sciencedirect.com/science/article/abs/pii/S2452014422001534)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.genrep.2022.101645](https://www.sciencedirect.com/science/article/abs/pii/S2452014422001534)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Functional characterization of ZmbHLH121, a bHLH transcription factor, focusing on Zea mays kernel development]( https://www.sciencedirect.com/science/article/abs/pii/S2452014422001534).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.genrep.2022.101645](https://www.sciencedirect.com/science/article/abs/pii/S2452014422001534);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

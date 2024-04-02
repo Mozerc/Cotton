@@ -21,10 +21,10 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
    - Higher-order **Wox3** function and ligule development.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[leaf-patterning](/tags/leaf-patterning/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[leaf-patterning](/tags/leaf-patterning/)
 
 ## Literature:
-   - [A Wox3-patterning module organizes planar growth in grass leaves and ligules.]( https://www.nature.com/articles/s41477-023-01405-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01405-0](https://www.nature.com/articles/s41477-023-01405-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37142751](https://pubmed.ncbi.nlm.nih.gov/37142751/)
+   - [A Wox3-patterning module organizes planar growth in grass leaves and ligules.]( https://www.nature.com/articles/s41477-023-01405-0).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-023-01405-0](https://www.nature.com/articles/s41477-023-01405-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37142751](https://pubmed.ncbi.nlm.nih.gov/37142751/)
 
 ## Related News:
    - [Nature Plants | Wox3模式组件调控玉米叶和叶舌的平面生长](https://mp.weixin.qq.com/s/0tB46JlJRvYp9gctSzD4Dw)

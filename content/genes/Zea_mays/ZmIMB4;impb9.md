@@ -20,10 +20,10 @@ tags: [ auxin,seed,homeostasis,seed size,crown ]
    - **ZmIMB4** mutant kernels are smaller in size, more dented in the seed crown, and appear more opaque.
 
 ## Function-related keywords:
-- [auxin](/tags/auxin/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[crown](/tags/crown/)
+- [auxin](/tags/auxin/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[seed-size](/tags/seed-size/),&nbsp;&nbsp;[crown](/tags/crown/)
 
 ## Literature:
-   - [Identification of the Karyopherin Superfamily in Maize and Its Functional Cues in Plant Development.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699179/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms232214103](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699179/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36430578](https://pubmed.ncbi.nlm.nih.gov/36430578/)
+   - [Identification of the Karyopherin Superfamily in Maize and Its Functional Cues in Plant Development.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699179/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms232214103](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699179/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36430578](https://pubmed.ncbi.nlm.nih.gov/36430578/)
 
 ## Related News:
 

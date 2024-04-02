@@ -20,10 +20,10 @@ tags: [ root,brassinosteroid,brassinosteroid signaling,drought,stress,drought st
    - ZmBES1/**BZR1-9** brassinosteroid signaling positive regulator protein.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+- [root](/tags/root/),&nbsp;&nbsp;[brassinosteroid](/tags/brassinosteroid/),&nbsp;&nbsp;[brassinosteroid-signaling](/tags/brassinosteroid-signaling/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[down-regulated-genes](/tags/down-regulated-genes/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/)
 
 ## Literature:
-   - [Maize ZmBES1/BZR1-3 and -9 Transcription Factors Negatively Regulate Drought Tolerance in Transgenic Arabidopsis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181540/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23116025](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181540/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35682705](https://pubmed.ncbi.nlm.nih.gov/35682705/)
+   - [Maize ZmBES1/BZR1-3 and -9 Transcription Factors Negatively Regulate Drought Tolerance in Transgenic Arabidopsis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181540/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms23116025](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181540/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35682705](https://pubmed.ncbi.nlm.nih.gov/35682705/)
 
 ## Related News:
 

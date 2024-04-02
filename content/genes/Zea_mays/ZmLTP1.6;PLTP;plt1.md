@@ -23,7 +23,7 @@ tags: [ seed ]
 - [seed](/tags/seed/)
 
 ## Literature:
-   - [Lipid transfer proteins: classification, nomenclature, structure, and function.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052319/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-016-2585-4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052319/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27562524](https://pubmed.ncbi.nlm.nih.gov/27562524/)
+   - [Lipid transfer proteins: classification, nomenclature, structure, and function.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052319/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-016-2585-4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052319/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27562524](https://pubmed.ncbi.nlm.nih.gov/27562524/)
 
 ## Related News:
 

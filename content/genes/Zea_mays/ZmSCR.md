@@ -21,12 +21,12 @@ tags: [ root,root endodermis ]
    - **ZmSCR** mRNA expresses in endodermis and quiescent center of root, influencing radial pattern.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[root-endodermis](/tags/root-endodermis/)
+- [root](/tags/root/),&nbsp;&nbsp;[root-endodermis](/tags/root-endodermis/)
 
 ## Literature:
-   - [Molecular analysis of the SCARECROW gene in maize reveals a common basis for radial patterning in diverse meristems.]( https://academic.oup.com/plcell/article/12/8/1307/6008891?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.12.8.1307](https://academic.oup.com/plcell/article/12/8/1307/6008891?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10948251](https://pubmed.ncbi.nlm.nih.gov/10948251/)
-   - [C(4) leaf development and evolution.]( https://www.sciencedirect.com/science/article/abs/pii/S136952662300119X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pbi.2023.102454](https://www.sciencedirect.com/science/article/abs/pii/S136952662300119X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37743123](https://pubmed.ncbi.nlm.nih.gov/37743123/)
-   - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
+   - [Molecular analysis of the SCARECROW gene in maize reveals a common basis for radial patterning in diverse meristems.]( https://academic.oup.com/plcell/article/12/8/1307/6008891?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.12.8.1307](https://academic.oup.com/plcell/article/12/8/1307/6008891?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10948251](https://pubmed.ncbi.nlm.nih.gov/10948251/)
+   - [C(4) leaf development and evolution.]( https://www.sciencedirect.com/science/article/abs/pii/S136952662300119X?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.pbi.2023.102454](https://www.sciencedirect.com/science/article/abs/pii/S136952662300119X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37743123](https://pubmed.ncbi.nlm.nih.gov/37743123/)
+   - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
 
 ## Related News:
 

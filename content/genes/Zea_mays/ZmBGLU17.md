@@ -21,10 +21,10 @@ tags: [ growth,resistance,yield,insect,pathogen,lignin,insect resistance,pathoge
    - **ZmBGLU17** overexpression lines exhibited normal growth and yield phenotype in the field.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[insect](/tags/insect/),&nbsp;&nbsp;[pathogen](/tags/pathogen/),&nbsp;&nbsp;[lignin](/tags/lignin/),&nbsp;&nbsp;[insect-resistance](/tags/insect-resistance/),&nbsp;&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
-   - [A dual-subcellular localized β-glucosidase confers pathogen and insect resistance without a yield penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14242](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38012865](https://pubmed.ncbi.nlm.nih.gov/38012865/)
+   - [A dual-subcellular localized β-glucosidase confers pathogen and insect resistance without a yield penalty in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14242](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14242);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38012865](https://pubmed.ncbi.nlm.nih.gov/38012865/)
 
 ## Related News:
    - [PBJ | 中国农大朱旺升团队解析 β-葡萄糖苷酶ZmBGLU17 赋予玉米病虫害抗性的作用机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247560132&idx=1&sn=a0508e0f9b77f6c10e4fb34e844b2570&chksm=17dd0c9b00e10063d4fc7632619cc06c29d034a77affad22367d7960340866eadd33da74473f&scene=27#wechat_redirect)

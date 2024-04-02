@@ -22,10 +22,10 @@ tags: [ root,development,seedling,salt,tolerance,root development,salt tolerance
    - **ZmHKT1** is required for Na+ homeostasis and salt tolerance in maize.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)
+- [root](/tags/root/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/)
 
 ## Literature:
-   - [Natural variation of ZmHKT1 affects root morphology in maize at the seedling stage.]( https://link.springer.com/article/10.1007/s00425-018-3043-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-018-3043-2](https://link.springer.com/article/10.1007/s00425-018-3043-2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30460404](https://pubmed.ncbi.nlm.nih.gov/30460404/)
+   - [Natural variation of ZmHKT1 affects root morphology in maize at the seedling stage.]( https://link.springer.com/article/10.1007/s00425-018-3043-2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-018-3043-2](https://link.springer.com/article/10.1007/s00425-018-3043-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30460404](https://pubmed.ncbi.nlm.nih.gov/30460404/)
 
 ## Related News:
 

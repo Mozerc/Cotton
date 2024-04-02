@@ -19,16 +19,16 @@ tags: [ cell wall,cell elongation,cell cycle,internode elongation ]
    - ZmABI7 and **ZmMYB117**, and their regulatory networks might also play important roles in the process of internode elongation, although their exact roles remain to be determined.
 
 ## Function-related keywords:
-- [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[internode-elongation](/tags/internode-elongation/)
+- [cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[internode-elongation](/tags/internode-elongation/)
 
 ## Literature:
-   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
+   - [Deciphering transcriptional mechanisms of maize internodal elongation by regulatory network analysis.]( https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erad178](https://academic.oup.com/jxb/article/74/15/4503/7160568?login=true#supplementary-data);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37170764](https://pubmed.ncbi.nlm.nih.gov/37170764/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100273887](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100273887)
-- **UniProt accessions:** [A0A1D6KP29](https://www.uniprot.org/uniprotkb/A0A1D6KP29/entry)&nbsp;,&nbsp;[A0A1D6KP30](https://www.uniprot.org/uniprotkb/A0A1D6KP30/entry)
+- **UniProt accessions:** [A0A1D6KP29](https://www.uniprot.org/uniprotkb/A0A1D6KP29/entry),&nbsp;&nbsp;[A0A1D6KP30](https://www.uniprot.org/uniprotkb/A0A1D6KP30/entry)
 
 
 

@@ -19,10 +19,10 @@ tags: [ seedlings,root,stress,seedling,tolerance,nucleus,stress tolerance,archit
    - **ZmbZIP107** is a positive regulator of Pb tolerance in maize seedlings, which inhibits Pb absorption in the roots.
 
 ## Function-related keywords:
-- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[root-architecture](/tags/root-architecture/)&nbsp;,&nbsp;[root-system-architecture](/tags/root-system-architecture/)
+- [seedlings](/tags/seedlings/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[root-architecture](/tags/root-architecture/),&nbsp;&nbsp;[root-system-architecture](/tags/root-system-architecture/)
 
 ## Literature:
-   - [Association mapping uncovers maize ZmbZIP107 regulating root system architecture and lead absorption under lead stress.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.1015151/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1015151](https://www.frontiersin.org/articles/10.3389/fpls.2022.1015151/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36226300](https://pubmed.ncbi.nlm.nih.gov/36226300/)
+   - [Association mapping uncovers maize ZmbZIP107 regulating root system architecture and lead absorption under lead stress.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.1015151/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1015151](https://www.frontiersin.org/articles/10.3389/fpls.2022.1015151/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36226300](https://pubmed.ncbi.nlm.nih.gov/36226300/)
 
 ## Related News:
 

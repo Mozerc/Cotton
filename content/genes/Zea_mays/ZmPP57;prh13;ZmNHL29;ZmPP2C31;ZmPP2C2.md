@@ -19,10 +19,10 @@ tags: [ temperature,tolerance,phosphatase,protein phosphatase ]
    - **ZmPP2C2** is similar to protein phosphatase 2C 77 of A. thaliana.
 
 ## Function-related keywords:
-- [temperature](/tags/temperature/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
+- [temperature](/tags/temperature/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
-   - [Overexpression of ZmPP2C55 positively enhances tolerance to drought stress in transgenic maize plants.]( https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2021.111127](https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34895535](https://pubmed.ncbi.nlm.nih.gov/34895535/)
+   - [Overexpression of ZmPP2C55 positively enhances tolerance to drought stress in transgenic maize plants.]( https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2021.111127](https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34895535](https://pubmed.ncbi.nlm.nih.gov/34895535/)
 
 ## Related News:
 

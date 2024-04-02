@@ -19,11 +19,11 @@ tags: [ starch,branching,endosperm,amylose content ]
    - We found that Ae1-5180, as the dominant mutant allele of the **SBEIIb** gene, had distinct starch properties compared to the ae mutant.
 
 ## Function-related keywords:
-- [starch](/tags/starch/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[amylose-content](/tags/amylose-content/)
+- [starch](/tags/starch/),&nbsp;&nbsp;[branching](/tags/branching/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[amylose-content](/tags/amylose-content/)
 
 ## Literature:
-   - [Using the dominant mutation gene Ae1-5180 (amylose extender) to develop high-amylose maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10248602/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-022-01323-7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10248602/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37313014](https://pubmed.ncbi.nlm.nih.gov/37313014/)
-   - [Nitrogen-dependent binding of the transcription factor PBF1 contributes to the balance of protein and carbohydrate storage in maize endosperm.]( https://academic.oup.com/plcell/article/35/1/409/6759374)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac302](https://academic.oup.com/plcell/article/35/1/409/6759374)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36222567](https://pubmed.ncbi.nlm.nih.gov/36222567/)
+   - [Using the dominant mutation gene Ae1-5180 (amylose extender) to develop high-amylose maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10248602/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11032-022-01323-7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10248602/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37313014](https://pubmed.ncbi.nlm.nih.gov/37313014/)
+   - [Nitrogen-dependent binding of the transcription factor PBF1 contributes to the balance of protein and carbohydrate storage in maize endosperm.]( https://academic.oup.com/plcell/article/35/1/409/6759374).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac302](https://academic.oup.com/plcell/article/35/1/409/6759374);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36222567](https://pubmed.ncbi.nlm.nih.gov/36222567/)
 
 ## Related News:
 

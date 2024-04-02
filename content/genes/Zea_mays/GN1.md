@@ -21,10 +21,10 @@ tags: [ leaf,development,leaf development,sheath,floral,leaf shape,homeobox gene
    - **GN1** a knox4 homeobox gene affecting leaf and floral development.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[sheath](/tags/sheath/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)&nbsp;,&nbsp;[internode-development](/tags/internode-development/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[sheath](/tags/sheath/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[leaf-shape](/tags/leaf-shape/),&nbsp;&nbsp;[homeobox-gene](/tags/homeobox-gene/),&nbsp;&nbsp;[internode-development](/tags/internode-development/)
 
 ## Literature:
-   - [Gnarley1 is a dominant mutation in the knox4 homeobox gene affecting cell shape and identity.]( https://academic.oup.com/plcell/article/11/7/1239/6008429?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.11.7.1239](https://academic.oup.com/plcell/article/11/7/1239/6008429?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10402426](https://pubmed.ncbi.nlm.nih.gov/10402426/)
+   - [Gnarley1 is a dominant mutation in the knox4 homeobox gene affecting cell shape and identity.]( https://academic.oup.com/plcell/article/11/7/1239/6008429?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.11.7.1239](https://academic.oup.com/plcell/article/11/7/1239/6008429?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[10402426](https://pubmed.ncbi.nlm.nih.gov/10402426/)
 
 ## Related News:
 

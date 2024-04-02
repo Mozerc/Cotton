@@ -18,10 +18,10 @@ tags: [ leaf,leaf senescence,senescence,stress,stress response,heat stress,heat 
    - **ZmWRKY9** was differentially expressed in the three inbred lines, may be involved in the regulation of leaf senescence induced by heat stress.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-senescence](/tags/leaf-senescence/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/),&nbsp;&nbsp;[heat-stress-response](/tags/heat-stress-response/)
 
 ## Literature:
-   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
+   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.mdpi.com/1422-0067/24/12/9782).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.mdpi.com/1422-0067/24/12/9782);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
 
 ## Related News:
 

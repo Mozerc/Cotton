@@ -22,16 +22,16 @@ tags: [ inflorescence,jasmonic,jasmonic acid,plastid ]
    - The **TS1** protein encodes a plastid-targeted lipoxygenase with predicted 13-lipoxygenase specificity, which suggests that **TS1** may be involved in the biosynthesis of the plant hormone jasmonic acid.
 
 ## Function-related keywords:
-- [inflorescence](/tags/inflorescence/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[plastid](/tags/plastid/)
+- [inflorescence](/tags/inflorescence/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[plastid](/tags/plastid/)
 
 ## Literature:
-   - [tasselseed1 is a lipoxygenase affecting jasmonic acid signaling in sex determination of maize.]( https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.1164645](https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19131630](https://pubmed.ncbi.nlm.nih.gov/19131630/)
+   - [tasselseed1 is a lipoxygenase affecting jasmonic acid signaling in sex determination of maize.]( https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/science.1164645](https://www.science.org/doi/10.1126/science.1164645?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19131630](https://pubmed.ncbi.nlm.nih.gov/19131630/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:** [ts1](https://www.ncbi.nlm.nih.gov/gene/?term=ts1)
-- **UniProt accessions:** [A0A1D6E9P9](https://www.uniprot.org/uniprotkb/A0A1D6E9P9/entry)&nbsp;,&nbsp;[A0A3L6FYF1](https://www.uniprot.org/uniprotkb/A0A3L6FYF1/entry)&nbsp;,&nbsp;[A1XCI3](https://www.uniprot.org/uniprotkb/A1XCI3/entry)
+- **UniProt accessions:** [A0A1D6E9P9](https://www.uniprot.org/uniprotkb/A0A1D6E9P9/entry),&nbsp;&nbsp;[A0A3L6FYF1](https://www.uniprot.org/uniprotkb/A0A3L6FYF1/entry),&nbsp;&nbsp;[A1XCI3](https://www.uniprot.org/uniprotkb/A1XCI3/entry)
 
 
 

@@ -21,10 +21,10 @@ tags: [ nitrogen,leaf,root,homeostasis,casparian strip ]
    - Effects of **ZmLAC3** overexpression on Casparian strip formation in roots, and mineral element profiles in ear leaves of field-grown maize.
 
 ## Function-related keywords:
-- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[leaf](/tags/leaf/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[casparian-strip](/tags/casparian-strip/)
+- [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[leaf](/tags/leaf/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[casparian-strip](/tags/casparian-strip/)
 
 ## Literature:
-   - [Nitrogen supply affects ion homeostasis by modifying root Casparian strip formation through the miR528-LAC3 module in maize]( https://www.sciencedirect.com/science/article/pii/S2590346223000512?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100553](https://www.sciencedirect.com/science/article/pii/S2590346223000512?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Nitrogen supply affects ion homeostasis by modifying root Casparian strip formation through the miR528-LAC3 module in maize]( https://www.sciencedirect.com/science/article/pii/S2590346223000512?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.xplc.2023.100553](https://www.sciencedirect.com/science/article/pii/S2590346223000512?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [中国农科院李文学团队解析氮素与离子平衡的分子机制，为改善玉米品质提供理论基础](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247564085&idx=3&sn=79a8174d44ea09932b9dc19f77b5519c&chksm=e8bc892bdfcb003d3c9732fd11b5a68b06e264118594d7ed6e82419e1549534a2f20a5522fd8&scene=27#wechat_redirect)

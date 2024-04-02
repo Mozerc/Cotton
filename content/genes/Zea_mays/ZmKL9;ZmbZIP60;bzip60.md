@@ -21,12 +21,12 @@ tags: [ grain,grain yield,yield,grain weight ]
    - The overexpression of the **ZmKL9** can positively affect the grain and ear yield of maize in different genetic backgrounds.
 
 ## Function-related keywords:
-- [grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[grain-weight](/tags/grain-weight/)
+- [grain](/tags/grain/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[grain-weight](/tags/grain-weight/)
 
 ## Literature:
-   - [Overexpression of ZmKL9 increases maize hybrid hundred kernel weight.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13957](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36331355](https://pubmed.ncbi.nlm.nih.gov/36331355/)
-   - [Genetic and molecular exploration of maize environmental stress resilience: Toward sustainable agriculture.]( https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.07.005](https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37464740](https://pubmed.ncbi.nlm.nih.gov/37464740/)
-   - [Overexpression of ZmKL9 increases maize hybrid hundred kernel weight.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13957](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36331355](https://pubmed.ncbi.nlm.nih.gov/36331355/)
+   - [Overexpression of ZmKL9 increases maize hybrid hundred kernel weight.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13957](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36331355](https://pubmed.ncbi.nlm.nih.gov/36331355/)
+   - [Genetic and molecular exploration of maize environmental stress resilience: Toward sustainable agriculture.]( https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.07.005](https://www.sciencedirect.com/science/article/pii/S1674205223002071?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37464740](https://pubmed.ncbi.nlm.nih.gov/37464740/)
+   - [Overexpression of ZmKL9 increases maize hybrid hundred kernel weight.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13957](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13957);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36331355](https://pubmed.ncbi.nlm.nih.gov/36331355/)
 
 ## Related News:
    - [PBJ | 华中农业大学玉米团队克隆调控玉米产量的新基因ZmKL9，能显著提高玉米粒重、穗长、穗粒数！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247540579&idx=1&sn=ad7ded0cd4a012b7a4d50d8ff6cc3780&chksm=ce90f236f9e77b206469cc7b8992978fa6480125b00b992ff9f70d9f717fddcd0b05b1b706ea&scene=27#wechat_redirect)

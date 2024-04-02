@@ -19,10 +19,10 @@ tags: [ auxin,cell division,cell elongation,auxin transport,height,plant height,
    - **ZmPP2Ac-2** is homologous to the phosphatases AtPP2A-C3 and AtPP2A-C4 which promote auxin polar transport by increasing PIN1 polar localization through dephosphorylation.
 
 ## Function-related keywords:
-- [auxin](/tags/auxin/)&nbsp;,&nbsp;[cell-division](/tags/cell-division/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[auxin-transport](/tags/auxin-transport/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[as-transport](/tags/as-transport/)
+- [auxin](/tags/auxin/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[auxin-transport](/tags/auxin-transport/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[as-transport](/tags/as-transport/)
 
 ## Literature:
-   - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
+   - [ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13734](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34687251](https://pubmed.ncbi.nlm.nih.gov/34687251/)
 
 ## Related News:
 

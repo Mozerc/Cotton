@@ -19,10 +19,10 @@ tags: [ nitrogen,aba ]
    - **ZmAVT6** was a hub gene in the “purple” module that was induced by water and nitrogen deficiency and is involved in uptake of aspartic acid.
 
 ## Function-related keywords:
-- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[aba](/tags/aba/)
+- [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[aba](/tags/aba/)
 
 ## Literature:
-   - [QTL mapping and transcriptome analysis identify candidate genes influencing water–nitrogen interaction in maize]( https://www.sciencedirect.com/science/article/pii/S2214514123001162)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.09.001](https://www.sciencedirect.com/science/article/pii/S2214514123001162)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [QTL mapping and transcriptome analysis identify candidate genes influencing water–nitrogen interaction in maize]( https://www.sciencedirect.com/science/article/pii/S2214514123001162).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.09.001](https://www.sciencedirect.com/science/article/pii/S2214514123001162);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

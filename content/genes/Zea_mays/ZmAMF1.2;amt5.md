@@ -19,10 +19,10 @@ tags: [ nitrogen,growth ]
    - **ZmAMF1.2**, on the other hand, did not present any significant response to nitrogen starvation but the transcript levels decreased after resupply.
 
 ## Function-related keywords:
-- [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[growth](/tags/growth/)
+- [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[growth](/tags/growth/)
 
 ## Literature:
-   - [Tissue and nitrogen-linked expression profiles of ammonium and nitrate transporters in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1768-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31109290](https://pubmed.ncbi.nlm.nih.gov/31109290/)
+   - [Tissue and nitrogen-linked expression profiles of ammonium and nitrate transporters in maize.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-019-1768-0](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1768-0);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31109290](https://pubmed.ncbi.nlm.nih.gov/31109290/)
 
 ## Related News:
 

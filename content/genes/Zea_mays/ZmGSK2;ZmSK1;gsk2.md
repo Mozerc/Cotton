@@ -20,11 +20,11 @@ tags: [ growth,development,br,br signaling,drought,seedling,tolerance,drought to
    - **ZmGSK2** is a candidate gene for drought tolerance,involved in BR biosynthesis.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[br-signaling](/tags/br-signaling/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/),&nbsp;&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
-   - [Zea mays GSK2 gene is involved in brassinosteroid signaling]( https://link.springer.com/article/10.1007/s10725-022-00806-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00806-z](https://link.springer.com/article/10.1007/s10725-022-00806-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
+   - [Zea mays GSK2 gene is involved in brassinosteroid signaling]( https://link.springer.com/article/10.1007/s10725-022-00806-z).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s10725-022-00806-z](https://link.springer.com/article/10.1007/s10725-022-00806-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/abs/pii/S1673852723000978?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
 
 ## Related News:
 

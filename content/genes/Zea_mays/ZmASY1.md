@@ -22,13 +22,13 @@ tags: [ meiotic ]
 - [meiotic](/tags/meiotic/)
 
 ## Literature:
-   - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
+   - [ZmASY1 interacts with ZmPRD3 and is crucial for meiotic double-strand break formation in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18528](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18528);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36221195](https://pubmed.ncbi.nlm.nih.gov/36221195/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC103647573](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103647573)
-- **UniProt accessions:** [A0A1D6EST6](https://www.uniprot.org/uniprotkb/A0A1D6EST6/entry)&nbsp;,&nbsp;[A0A3L6DI90](https://www.uniprot.org/uniprotkb/A0A3L6DI90/entry)
+- **UniProt accessions:** [A0A1D6EST6](https://www.uniprot.org/uniprotkb/A0A1D6EST6/entry),&nbsp;&nbsp;[A0A3L6DI90](https://www.uniprot.org/uniprotkb/A0A3L6DI90/entry)
 
 
 

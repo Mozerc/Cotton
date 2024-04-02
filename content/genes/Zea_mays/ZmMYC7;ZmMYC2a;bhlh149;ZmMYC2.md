@@ -20,10 +20,10 @@ tags: [ resistance,ja,defense,signaling pathway gene,ja biosynthesis,ja signalin
    - Double mutant(**ZmMYC2a**) with bhlh91 (ZmMYC2b) was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower.
 
 ## Function-related keywords:
-- [resistance](/tags/resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
+- [resistance](/tags/resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[signaling-pathway-gene](/tags/signaling-pathway-gene/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [ZmMYC7 directly regulates ZmERF147 to increase maize resistance to Fusarium graminearum]( https://www.sciencedirect.com/science/article/pii/S2214514122001258)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.05.006](https://www.sciencedirect.com/science/article/pii/S2214514122001258)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZmMYC7 directly regulates ZmERF147 to increase maize resistance to Fusarium graminearum]( https://www.sciencedirect.com/science/article/pii/S2214514122001258).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.05.006](https://www.sciencedirect.com/science/article/pii/S2214514122001258);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

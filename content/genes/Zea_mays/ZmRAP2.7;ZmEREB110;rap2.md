@@ -19,10 +19,10 @@ tags: [ transcription factor,development ]
    - the function of **ZmRAP2.7** in maize brace roots development.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[development](/tags/development/)
 
 ## Literature:
-   - [ZmRAP2.7, an AP2 Transcription Factor, Is Involved in Maize Brace Roots Development.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6621205/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2019.00820](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6621205/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31333689](https://pubmed.ncbi.nlm.nih.gov/31333689/)
+   - [ZmRAP2.7, an AP2 Transcription Factor, Is Involved in Maize Brace Roots Development.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6621205/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2019.00820](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6621205/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31333689](https://pubmed.ncbi.nlm.nih.gov/31333689/)
 
 ## Related News:
 

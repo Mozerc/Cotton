@@ -22,17 +22,17 @@ tags: [ auxin,resistance,disease,disease resistance,resistant ]
    - Whether and how the interaction between **ZmABP1** and ZmRbCS is associated with SCMV resistance remains unknown; further studies are needed to reveal the **ZmABP1**-mediated SCMV resistance mechanism.
 
 ## Function-related keywords:
-- [auxin](/tags/auxin/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+- [auxin](/tags/auxin/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
-   - [Auxin Binding Protein 1 Reinforces Resistance to Sugarcane Mosaic Virus in Maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30229-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205217302290%3Fshowall%3Dtrue#supplementaryMaterial)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.07.013](https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30229-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205217302290%3Fshowall%3Dtrue#supplementaryMaterial)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28827193](https://pubmed.ncbi.nlm.nih.gov/28827193/)
+   - [Auxin Binding Protein 1 Reinforces Resistance to Sugarcane Mosaic Virus in Maize.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30229-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205217302290%3Fshowall%3Dtrue#supplementaryMaterial).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.07.013](https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30229-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205217302290%3Fshowall%3Dtrue#supplementaryMaterial);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28827193](https://pubmed.ncbi.nlm.nih.gov/28827193/)
 
 ## Related News:
    - [Mol Plant | 玉米抗病毒基因的作用机理取得进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247485803&idx=1&sn=67f1f9b2105e61e59153e2952f5de58a&chksm=e8be7b75dfc9f263b8cd9e1b95b85594f78cedcb186692d687b00ffef42540fc4d66f063f1f0&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC542232](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542232)
-- **UniProt accessions:** [P13689](https://www.uniprot.org/uniprotkb/P13689/entry)&nbsp;,&nbsp;[P46251](https://www.uniprot.org/uniprotkb/P46251/entry)
+- **UniProt accessions:** [P13689](https://www.uniprot.org/uniprotkb/P13689/entry),&nbsp;&nbsp;[P46251](https://www.uniprot.org/uniprotkb/P46251/entry)
 
 
 

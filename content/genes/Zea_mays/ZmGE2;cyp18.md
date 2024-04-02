@@ -21,10 +21,10 @@ tags: [ grain,breeding,embryo,endosperm,grain protein content,grain protein ]
    - **ZmGE2** gene significantly associates with EER variation in maize.
 
 ## Function-related keywords:
-- [grain](/tags/grain/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[grain-protein-content](/tags/grain-protein-content/)&nbsp;,&nbsp;[grain-protein](/tags/grain-protein/)
+- [grain](/tags/grain/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[grain-protein-content](/tags/grain-protein-content/),&nbsp;&nbsp;[grain-protein](/tags/grain-protein/)
 
 ## Literature:
-   - [A transposable element insertion within ZmGE2 gene is associated with increase in embryo to endosperm ratio in maize.]( https://link.springer.com/article/10.1007/s00122-012-1926-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-012-1926-3](https://link.springer.com/article/10.1007/s00122-012-1926-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22772589](https://pubmed.ncbi.nlm.nih.gov/22772589/)
+   - [A transposable element insertion within ZmGE2 gene is associated with increase in embryo to endosperm ratio in maize.]( https://link.springer.com/article/10.1007/s00122-012-1926-3).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-012-1926-3](https://link.springer.com/article/10.1007/s00122-012-1926-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22772589](https://pubmed.ncbi.nlm.nih.gov/22772589/)
 
 ## Related News:
    - [Crop Journal | 中国农业大学李建生团队解析玉米胚大小及相关性状的遗传结构](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247505495&idx=3&sn=9854774eba8a7e980e1704f326188093&chksm=fd734c30ca04c52629a4300f3108fa0451bbc742c4e59b78a5441441f2b5976e84219c1db973&scene=27#wechat_redirect)

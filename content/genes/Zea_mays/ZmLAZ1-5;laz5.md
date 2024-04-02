@@ -19,10 +19,10 @@ tags: [ growth,development,stress,cold stress,cold,transporter,stress response ]
    - **ZmLAZ1-5** is function as a transmembrane organic solute transporter.
 
 ## Function-related keywords:
-- [growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+- [growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
-   - [Genome-Wide Analysis of LAZ1 Gene Family from Maize]( https://link.springer.com/article/10.1007/s00344-019-10008-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-019-10008-z](https://link.springer.com/article/10.1007/s00344-019-10008-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Genome-Wide Analysis of LAZ1 Gene Family from Maize]( https://link.springer.com/article/10.1007/s00344-019-10008-z).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00344-019-10008-z](https://link.springer.com/article/10.1007/s00344-019-10008-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

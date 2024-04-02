@@ -21,12 +21,12 @@ tags: [ leaf,development,leaf development,sheath ]
    - The **Lg3** Gene Encodes a KNOX-Family Homeodomain Protein.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[sheath](/tags/sheath/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[sheath](/tags/sheath/)
 
 ## Literature:
-   - [Ectopic expression of the maize homeobox gene liguleless3 alters cell fates in the leaf.]( https://academic.oup.com/plphys/article/119/2/651/6098705?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.119.2.651](https://academic.oup.com/plphys/article/119/2/651/6098705?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9952462](https://pubmed.ncbi.nlm.nih.gov/9952462/)
-   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
-   - [A temporal hierarchy underpins the transcription factor-DNA interactome of the maize UPR.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
+   - [Ectopic expression of the maize homeobox gene liguleless3 alters cell fates in the leaf.]( https://academic.oup.com/plphys/article/119/2/651/6098705?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.119.2.651](https://academic.oup.com/plphys/article/119/2/651/6098705?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9952462](https://pubmed.ncbi.nlm.nih.gov/9952462/)
+   - [Leaf angle: a target of genetic improvement in cereal crops tailored for high-density planting.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13780](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13780);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35075761](https://pubmed.ncbi.nlm.nih.gov/35075761/)
+   - [A temporal hierarchy underpins the transcription factor-DNA interactome of the maize UPR.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15044](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15044);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098715](https://pubmed.ncbi.nlm.nih.gov/33098715/)
 
 ## Related News:
 

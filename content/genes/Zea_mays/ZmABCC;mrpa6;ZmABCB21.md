@@ -21,10 +21,10 @@ tags: [ salt,tolerance,cold tolerance,salt tolerance,cold,cytoplasm ]
    - **ZmABCC** participates in cold and salt tolerance.
 
 ## Function-related keywords:
-- [salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)
+- [salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[cold-tolerance](/tags/cold-tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[cytoplasm](/tags/cytoplasm/)
 
 ## Literature:
-   - [Hydrogen sulfide alleviates chromium toxicity by promoting chromium sequestration and re-establishing redox homeostasis in Zea mays L.]( https://www.sciencedirect.com/science/article/pii/S0269749123009600?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envpol.2023.121958](https://www.sciencedirect.com/science/article/pii/S0269749123009600?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37286026](https://pubmed.ncbi.nlm.nih.gov/37286026/)
+   - [Hydrogen sulfide alleviates chromium toxicity by promoting chromium sequestration and re-establishing redox homeostasis in Zea mays L.]( https://www.sciencedirect.com/science/article/pii/S0269749123009600?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envpol.2023.121958](https://www.sciencedirect.com/science/article/pii/S0269749123009600?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37286026](https://pubmed.ncbi.nlm.nih.gov/37286026/)
 
 ## Related News:
 

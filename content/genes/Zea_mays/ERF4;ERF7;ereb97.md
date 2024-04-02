@@ -19,10 +19,10 @@ tags: [ drought,stress,drought stress,ethylene,melatonin,stress response,ethylen
    - Mechanism of **ERF4** involved in exogenous melatonin alleviating drought stress in maize roots.
 
 ## Function-related keywords:
-- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[melatonin](/tags/melatonin/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[ethylene-response](/tags/ethylene-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+- [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[melatonin](/tags/melatonin/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[ethylene-response](/tags/ethylene-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.]( https://www.sciencedirect.com/science/article/abs/pii/S0981942823002346?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2023.107723](https://www.sciencedirect.com/science/article/abs/pii/S0981942823002346?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37163805](https://pubmed.ncbi.nlm.nih.gov/37163805/)
+   - [Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.]( https://www.sciencedirect.com/science/article/abs/pii/S0981942823002346?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2023.107723](https://www.sciencedirect.com/science/article/abs/pii/S0981942823002346?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37163805](https://pubmed.ncbi.nlm.nih.gov/37163805/)
 
 ## Related News:
 

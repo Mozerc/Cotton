@@ -22,7 +22,7 @@ tags: [ lignin ]
 - [lignin](/tags/lignin/)
 
 ## Literature:
-   - [Cloning and characterization of two maize cDNAs encoding cinnamoyl-CoA reductase (CCR) and differential expression of the corresponding genes.]( https://link.springer.com/article/10.1023/A:1006060101866)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1023/a:1006060101866](https://link.springer.com/article/10.1023/A:1006060101866)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9747812](https://pubmed.ncbi.nlm.nih.gov/9747812/)
+   - [Cloning and characterization of two maize cDNAs encoding cinnamoyl-CoA reductase (CCR) and differential expression of the corresponding genes.]( https://link.springer.com/article/10.1023/A:1006060101866).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1023/a:1006060101866](https://link.springer.com/article/10.1023/A:1006060101866);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[9747812](https://pubmed.ncbi.nlm.nih.gov/9747812/)
 
 ## Related News:
 

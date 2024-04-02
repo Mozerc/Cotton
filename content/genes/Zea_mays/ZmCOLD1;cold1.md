@@ -19,10 +19,10 @@ tags: [ tolerance,aba,iaa,chilling,chilling tolerance ]
    - **ZmCOLD1** interacted with the G protein α subunit ZmCT2, which interacted with ZmLanCL.
 
 ## Function-related keywords:
-- [tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[iaa](/tags/iaa/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)
+- [tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[iaa](/tags/iaa/),&nbsp;&nbsp;[chilling](/tags/chilling/),&nbsp;&nbsp;[chilling-tolerance](/tags/chilling-tolerance/)
 
 ## Literature:
-   - [The G protein-coupled receptor COLD1 promotes chilling tolerance in maize during germination.]( https://www.sciencedirect.com/science/article/pii/S0141813023037741?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2023.126877](https://www.sciencedirect.com/science/article/pii/S0141813023037741?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37716664](https://pubmed.ncbi.nlm.nih.gov/37716664/)
+   - [The G protein-coupled receptor COLD1 promotes chilling tolerance in maize during germination.]( https://www.sciencedirect.com/science/article/pii/S0141813023037741?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.ijbiomac.2023.126877](https://www.sciencedirect.com/science/article/pii/S0141813023037741?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37716664](https://pubmed.ncbi.nlm.nih.gov/37716664/)
 
 ## Related News:
 

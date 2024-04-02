@@ -21,11 +21,11 @@ tags: [ development,seed,cell wall,endosperm,sugar,seed development,sucrose,endo
    - The **Mn1** mutant is a typical Mn mutant and provided the earliest genetic demonstration of the role of cell wall invertase in seed filling.
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)
+- [development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[seed-filling](/tags/seed-filling/)
 
 ## Literature:
-   - [Miniature Seed6, encoding an endoplasmic reticulum signal peptidase, is critical in seed development.]( https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiaa060](https://academic.oup.com/plphys/article/185/3/985/6041597?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33793873](https://pubmed.ncbi.nlm.nih.gov/33793873/)
-   - [Understanding the regulation of cereal grain filling: The way forward.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13456](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36648157](https://pubmed.ncbi.nlm.nih.gov/36648157/)
+   - [Miniature Seed6, encoding an endoplasmic reticulum signal peptidase, is critical in seed development.]( https://academic.oup.com/plphys/article/185/3/985/6041597?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiaa060](https://academic.oup.com/plphys/article/185/3/985/6041597?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33793873](https://pubmed.ncbi.nlm.nih.gov/33793873/)
+   - [Understanding the regulation of cereal grain filling: The way forward.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13456](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13456);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36648157](https://pubmed.ncbi.nlm.nih.gov/36648157/)
 
 ## Related News:
    - [中国农业大学研究团队发现内质网信号肽酶Mn6在玉米籽粒发育过程中起关键作用](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247501305&idx=2&sn=b3b69b522c58ed19f87bdf1c26153386&chksm=fd735f9eca04d688abef50639b81cd8b31bfd3553ea237800ad5ddc7d4beb9becbfd8881e45a&scene=27#wechat_redirect)

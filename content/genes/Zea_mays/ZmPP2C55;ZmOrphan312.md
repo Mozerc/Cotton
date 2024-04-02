@@ -21,10 +21,10 @@ tags: [ leaf,seedlings,drought,stress,drought stress,tolerance,drought tolerance
    - The overexpression of **ZmPP2C55** can significantly strengthen the tolerance to drought stress.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[seedlings](/tags/seedlings/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/)
 
 ## Literature:
-   - [Overexpression of ZmPP2C55 positively enhances tolerance to drought stress in transgenic maize plants.]( https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2021.111127](https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34895535](https://pubmed.ncbi.nlm.nih.gov/34895535/)
+   - [Overexpression of ZmPP2C55 positively enhances tolerance to drought stress in transgenic maize plants.]( https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2021.111127](https://www.sciencedirect.com/science/article/pii/S016894522100323X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34895535](https://pubmed.ncbi.nlm.nih.gov/34895535/)
 
 ## Related News:
 

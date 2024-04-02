@@ -19,10 +19,10 @@ tags: [ seedlings,stress,aba,chilling,chilling stress ]
    - The transcript levels of **ZmGA2ox3** are upregulated by paclobutrazol treatment.
 
 ## Function-related keywords:
-- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[chilling](/tags/chilling/)&nbsp;,&nbsp;[chilling-stress](/tags/chilling-stress/)
+- [seedlings](/tags/seedlings/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[chilling](/tags/chilling/),&nbsp;&nbsp;[chilling-stress](/tags/chilling-stress/)
 
 ## Literature:
-   - [Hormonal and enzymatic responses of maize seedlings to chilling stress as affected by triazoles seed treatments.]( https://www.sciencedirect.com/science/article/pii/S0981942820300176)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2020.01.017](https://www.sciencedirect.com/science/article/pii/S0981942820300176)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31978750](https://pubmed.ncbi.nlm.nih.gov/31978750/)
+   - [Hormonal and enzymatic responses of maize seedlings to chilling stress as affected by triazoles seed treatments.]( https://www.sciencedirect.com/science/article/pii/S0981942820300176).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plaphy.2020.01.017](https://www.sciencedirect.com/science/article/pii/S0981942820300176);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31978750](https://pubmed.ncbi.nlm.nih.gov/31978750/)
 
 ## Related News:
 

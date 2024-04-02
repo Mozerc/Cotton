@@ -20,10 +20,10 @@ tags: [ transcription factor,growth,stress,seedling,seed,salt,seed germination,t
    - **ZmWRKY17** negatively regulates salt stress tolerance in transgenic Arabidopsis plants.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[seedling](/tags/seedling/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[salt-sensitivity](/tags/salt-sensitivity/)&nbsp;,&nbsp;[seed-growth](/tags/seed-growth/)&nbsp;,&nbsp;[seedling-growth](/tags/seedling-growth/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[salt-sensitivity](/tags/salt-sensitivity/),&nbsp;&nbsp;[seed-growth](/tags/seed-growth/),&nbsp;&nbsp;[seedling-growth](/tags/seedling-growth/),&nbsp;&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
-   - [The maize WRKY transcription factor ZmWRKY17 negatively regulates salt stress tolerance in transgenic Arabidopsis plants.]( https://link.springer.com/article/10.1007/s00425-017-2766-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-017-2766-9](https://link.springer.com/article/10.1007/s00425-017-2766-9)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28861611](https://pubmed.ncbi.nlm.nih.gov/28861611/)
+   - [The maize WRKY transcription factor ZmWRKY17 negatively regulates salt stress tolerance in transgenic Arabidopsis plants.]( https://link.springer.com/article/10.1007/s00425-017-2766-9).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-017-2766-9](https://link.springer.com/article/10.1007/s00425-017-2766-9);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28861611](https://pubmed.ncbi.nlm.nih.gov/28861611/)
 
 ## Related News:
 

@@ -18,10 +18,10 @@ tags: [ auxin,auxin response ]
    - **ZmARF10** encodes a auxin response factor,Involved ,in regulating the auxin signaling pathway.
 
 ## Function-related keywords:
-- [auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
+- [auxin](/tags/auxin/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/)
 
 ## Literature:
-   - [Ectopic expression of a maize hybrid down-regulated gene ZmARF25 decreases organ size by affecting cellular proliferation in Arabidopsis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0094830](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24756087](https://pubmed.ncbi.nlm.nih.gov/24756087/)
+   - [Ectopic expression of a maize hybrid down-regulated gene ZmARF25 decreases organ size by affecting cellular proliferation in Arabidopsis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0094830](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995674/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24756087](https://pubmed.ncbi.nlm.nih.gov/24756087/)
 
 ## Related News:
 

@@ -20,11 +20,11 @@ tags: [ transcription factor,phosphate,phosphate starvation ]
    - In vitro enzyme assays showed that ZmGPX-PDE1 and **ZmGPX-PDE5** catalysed glycerophosphodiester degradation with different substrate preferences for glycerophosphoinositol and glycerophosphocholine.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[phosphate-starvation](/tags/phosphate-starvation/)
 
 ## Literature:
-   - [Identification of two glycerophosphodiester phosphodiesterase genes in maize leaf phosphorus remobilization]( https://www.sciencedirect.com/science/article/pii/S2214514120300799)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.05.004](https://www.sciencedirect.com/science/article/pii/S2214514120300799)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [A systems-biology approach identifies co-expression modules in response to low phosphate supply in maize lines of different breeding history.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15630)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15630](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15630)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34897849](https://pubmed.ncbi.nlm.nih.gov/34897849/)
+   - [Identification of two glycerophosphodiester phosphodiesterase genes in maize leaf phosphorus remobilization]( https://www.sciencedirect.com/science/article/pii/S2214514120300799).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.05.004](https://www.sciencedirect.com/science/article/pii/S2214514120300799);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [A systems-biology approach identifies co-expression modules in response to low phosphate supply in maize lines of different breeding history.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15630).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15630](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15630);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34897849](https://pubmed.ncbi.nlm.nih.gov/34897849/)
 
 ## Related News:
    - [The Crop Journal│中国农业大学磷营养团队发现玉米磷高效利用的新代谢途径](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491041&idx=3&sn=8f030cd1d3108f880d83e0cd6cd88b42&chksm=ce93b0b4f9e439a2319228ea2d4f0354745e87f9931d7e62a21d42c64e0c38f828b3e70e3a53&scene=27#wechat_redirect)

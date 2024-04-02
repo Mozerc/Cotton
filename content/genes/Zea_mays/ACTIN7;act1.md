@@ -18,10 +18,10 @@ tags: [ drought,stress,drought stress,salt,cold stress,salt stress,cold,height,p
    - **ACTIN7** regulates maize plant height.
 
 ## Function-related keywords:
-- [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)
+- [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [Maize protein phosphatase gene family: identification and molecular characterization.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169795/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-15-773](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169795/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25199535](https://pubmed.ncbi.nlm.nih.gov/25199535/)
+   - [Maize protein phosphatase gene family: identification and molecular characterization.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169795/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2164-15-773](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169795/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25199535](https://pubmed.ncbi.nlm.nih.gov/25199535/)
 
 ## Related News:
 

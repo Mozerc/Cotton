@@ -20,10 +20,10 @@ tags: [ domestication,flavonoid ]
    - **FHT1** similar to Naringenin,2-oxoglutarate 3-dioxygenase of A. thaliana(aka f3h) single copy cDNA similar to Antirrhinum homolog.
 
 ## Function-related keywords:
-- [domestication](/tags/domestication/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)
+- [domestication](/tags/domestication/),&nbsp;&nbsp;[flavonoid](/tags/flavonoid/)
 
 ## Literature:
-   - [Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and Its Wild Ancestor, Teosinte.]( https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00111](https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31227559](https://pubmed.ncbi.nlm.nih.gov/31227559/)
+   - [Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and Its Wild Ancestor, Teosinte.]( https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00111](https://academic.oup.com/plcell/article/31/9/1990/5985766?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31227559](https://pubmed.ncbi.nlm.nih.gov/31227559/)
 
 ## Related News:
    - [Plant Cell | 中国农业大学田丰/李溱揭示玉米驯化过程中的代谢分化](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247491179&idx=2&sn=ec0e472465bc6ce722ff05f6ce953211&chksm=fd70840cca070d1acac8f53f296d70fa8d22124d92b11dcb10820381510c04240257174e2b1e&scene=27#wechat_redirect)

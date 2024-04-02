@@ -19,10 +19,10 @@ tags: [ root,root elongation,cell wall,cell elongation,glycosylation,glucanase,h
    - **ZmXTH1** is directed to the cell wall, although weakly bound. Finally, Arabidopsis thaliana plants expressing **ZmXTH1** show slightly increased xyloglucan endohydrolase activity and alterations in the cell wall structure and composition.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[glycosylation](/tags/glycosylation/)&nbsp;,&nbsp;[glucanase](/tags/glucanase/)&nbsp;,&nbsp;[hydrolase](/tags/hydrolase/)
+- [root](/tags/root/),&nbsp;&nbsp;[root-elongation](/tags/root-elongation/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[glycosylation](/tags/glycosylation/),&nbsp;&nbsp;[glucanase](/tags/glucanase/),&nbsp;&nbsp;[hydrolase](/tags/hydrolase/)
 
 ## Literature:
-   - [ZmXTH1, a new xyloglucan endotransglucosylase/hydrolase in maize, affects cell wall structure and composition in Arabidopsis thaliana.]( https://academic.oup.com/jxb/article/59/4/875/644148?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ern013](https://academic.oup.com/jxb/article/59/4/875/644148?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18316315](https://pubmed.ncbi.nlm.nih.gov/18316315/)
+   - [ZmXTH1, a new xyloglucan endotransglucosylase/hydrolase in maize, affects cell wall structure and composition in Arabidopsis thaliana.]( https://academic.oup.com/jxb/article/59/4/875/644148?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ern013](https://academic.oup.com/jxb/article/59/4/875/644148?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18316315](https://pubmed.ncbi.nlm.nih.gov/18316315/)
 
 ## Related News:
 

@@ -22,7 +22,7 @@ tags: [ resistance ]
 - [resistance](/tags/resistance/)
 
 ## Literature:
-   - [Digging for Stress-Responsive Cell Wall Proteins for Developing Stress-Resistant Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2020.576385/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.576385](https://www.frontiersin.org/articles/10.3389/fpls.2020.576385/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33101346](https://pubmed.ncbi.nlm.nih.gov/33101346/)
+   - [Digging for Stress-Responsive Cell Wall Proteins for Developing Stress-Resistant Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2020.576385/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.576385](https://www.frontiersin.org/articles/10.3389/fpls.2020.576385/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33101346](https://pubmed.ncbi.nlm.nih.gov/33101346/)
 
 ## Related News:
 

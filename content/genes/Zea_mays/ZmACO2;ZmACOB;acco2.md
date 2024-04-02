@@ -21,10 +21,10 @@ tags: [ development,grain,grain length,flower,grain yield,yield,ethylene,meriste
    - **ZmACO2** is the candidate gene of qEL7 and negatively affects yield-related traits.
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[ethylene-production](/tags/ethylene-production/)
+- [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[flower](/tags/flower/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[flower-development](/tags/flower-development/),&nbsp;&nbsp;[ethylene-production](/tags/ethylene-production/)
 
 ## Literature:
-   - [An ethylene biosynthesis enzyme controls quantitative variation in maize ear length and kernel yield.]( https://www.nature.com/articles/s41467-021-26123-z#Sec2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-26123-z](https://www.nature.com/articles/s41467-021-26123-z#Sec2)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34611160](https://pubmed.ncbi.nlm.nih.gov/34611160/)
+   - [An ethylene biosynthesis enzyme controls quantitative variation in maize ear length and kernel yield.]( https://www.nature.com/articles/s41467-021-26123-z#Sec2).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-021-26123-z](https://www.nature.com/articles/s41467-021-26123-z#Sec2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34611160](https://pubmed.ncbi.nlm.nih.gov/34611160/)
 
 ## Related News:
    - [Nat.Commun.|华中农大玉米团队解析玉米产量调控的新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247524926&idx=4&sn=d6f01fe9684d4a8304299355d5bb3a6d&chksm=e8bd1020dfca99365e20b13ba4c91c2027b0b7e6be700af027335c045432cfb900ab02f8f364&scene=27#wechat_redirect)

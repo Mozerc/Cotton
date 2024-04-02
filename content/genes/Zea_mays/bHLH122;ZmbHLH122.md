@@ -20,10 +20,10 @@ tags: [ development,anther,sterility,tapetum,sterile,anther development,cell pro
    - Multiple lines of evidence suggest that 24-nt phasiRNA biogenesis primarily occurs downstream of MS23 and MS32, both of which directly activate Dcl5 and are required for most 24-PHAS transcription, with **bHLH122** playing a distinct role in 24-PHAS transcription.
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[sterility](/tags/sterility/)&nbsp;,&nbsp;[tapetum](/tags/tapetum/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[anther-development](/tags/anther-development/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[male-sterility](/tags/male-sterility/)
+- [development](/tags/development/),&nbsp;&nbsp;[anther](/tags/anther/),&nbsp;&nbsp;[sterility](/tags/sterility/),&nbsp;&nbsp;[tapetum](/tags/tapetum/),&nbsp;&nbsp;[sterile](/tags/sterile/),&nbsp;&nbsp;[anther-development](/tags/anther-development/),&nbsp;&nbsp;[cell-proliferation](/tags/cell-proliferation/),&nbsp;&nbsp;[male-sterility](/tags/male-sterility/)
 
 ## Literature:
-   - [A cascade of bHLH-regulated pathways programs maize anther development.]( https://academic.oup.com/plcell/article/34/4/1207/6501455)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac007](https://academic.oup.com/plcell/article/34/4/1207/6501455)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35018475](https://pubmed.ncbi.nlm.nih.gov/35018475/)
+   - [A cascade of bHLH-regulated pathways programs maize anther development.]( https://academic.oup.com/plcell/article/34/4/1207/6501455).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac007](https://academic.oup.com/plcell/article/34/4/1207/6501455);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35018475](https://pubmed.ncbi.nlm.nih.gov/35018475/)
 
 ## Related News:
    - [The Plant Cell | 斯坦福大学揭示玉米花药发育中bHLH调控途径的级联过程](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247532048&idx=5&sn=29d0290209722ec3f4a2a32998a9f62e&chksm=e8bd0c0edfca8518a3f5ab05958fa490ebc289927b1a359f50a552450d930e6bfed2c7e48bfb&scene=27#wechat_redirect)

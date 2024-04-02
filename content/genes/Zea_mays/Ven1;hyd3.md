@@ -22,7 +22,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Carotenoids modulate kernel texture in maize by influencing amyloplast envelope integrity.]( https://www.nature.com/articles/s41467-020-19196-9#Sec29)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-19196-9](https://www.nature.com/articles/s41467-020-19196-9#Sec29)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33093471](https://pubmed.ncbi.nlm.nih.gov/33093471/)
+   - [Carotenoids modulate kernel texture in maize by influencing amyloplast envelope integrity.]( https://www.nature.com/articles/s41467-020-19196-9#Sec29).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-19196-9](https://www.nature.com/articles/s41467-020-19196-9#Sec29);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33093471](https://pubmed.ncbi.nlm.nih.gov/33093471/)
 
 ## Related News:
    - [NC | 巫永睿研究组揭示类胡萝卜素调控玉米硬质胚乳形成新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247498588&idx=4&sn=2109f748e8ac723821bd51afd48978e6&chksm=ce905609f9e7df1f6a8ec52aab5ca9a0114159712ae1f5f1fdd979f36558f3a65d1d9877ce8e&scene=27#wechat_redirect)

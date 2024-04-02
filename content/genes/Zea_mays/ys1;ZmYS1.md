@@ -19,10 +19,10 @@ tags: [ homeostasis,transporter,fe,fe homeostasis ]
    - In agreement with previous reports, the expression level of **YS1** was decreased in the **YS1** mutant. Moreover, we identified that the expression level of a homolog of TOM1 in maize (ZmTOM1) was significantly decreased in the ys3 mutant.
 
 ## Function-related keywords:
-- [homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[fe](/tags/fe/)&nbsp;,&nbsp;[fe-homeostasis](/tags/fe-homeostasis/)
+- [homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[fe](/tags/fe/),&nbsp;&nbsp;[fe-homeostasis](/tags/fe-homeostasis/)
 
 ## Literature:
-   - [Transcriptomic analyses of maize ys1 and ys3 mutants reveal maize iron homeostasis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583638/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.gdata.2015.05.021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583638/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26484234](https://pubmed.ncbi.nlm.nih.gov/26484234/)
+   - [Transcriptomic analyses of maize ys1 and ys3 mutants reveal maize iron homeostasis.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583638/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.gdata.2015.05.021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583638/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26484234](https://pubmed.ncbi.nlm.nih.gov/26484234/)
 
 ## Related News:
 

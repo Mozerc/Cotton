@@ -19,10 +19,10 @@ tags: [ resistance,breeding ]
    - **RppM**, a Southern Corn Rust Resistance Gene in Maize.
 
 ## Function-related keywords:
-- [resistance](/tags/resistance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+- [resistance](/tags/resistance/),&nbsp;&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
-   - [Identification and Fine Mapping of RppM, a Southern Corn Rust Resistance Gene in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2020.01057/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.01057](https://www.frontiersin.org/articles/10.3389/fpls.2020.01057/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32733529](https://pubmed.ncbi.nlm.nih.gov/32733529/)
+   - [Identification and Fine Mapping of RppM, a Southern Corn Rust Resistance Gene in Maize.]( https://www.frontiersin.org/articles/10.3389/fpls.2020.01057/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2020.01057](https://www.frontiersin.org/articles/10.3389/fpls.2020.01057/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32733529](https://pubmed.ncbi.nlm.nih.gov/32733529/)
 
 ## Related News:
    - [Frontiers in Plant Science | 北京市农林科学院在玉米南方锈病抗性研究方面取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247500597&idx=6&sn=a78ff1e13f7b38ce3e7ca03b8c18a4a9&chksm=ce906e60f9e7e776442a62e46355d47b0bde34cf8bcf42bbbbf84e99ea044cf69f57bc402a40&scene=27#wechat_redirect)

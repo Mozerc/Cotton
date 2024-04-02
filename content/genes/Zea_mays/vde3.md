@@ -22,7 +22,7 @@ tags: [ methyltransferase ]
 - [methyltransferase](/tags/methyltransferase/)
 
 ## Literature:
-   - [Genetic Diversity and Molecular Evolution of a Violaxanthin De-epoxidase Gene in Maize]( https://www.frontiersin.org/articles/10.3389/fgene.2016.00131/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fgene.2016.00131](https://www.frontiersin.org/articles/10.3389/fgene.2016.00131/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Genetic Diversity and Molecular Evolution of a Violaxanthin De-epoxidase Gene in Maize]( https://www.frontiersin.org/articles/10.3389/fgene.2016.00131/full).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fgene.2016.00131](https://www.frontiersin.org/articles/10.3389/fgene.2016.00131/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

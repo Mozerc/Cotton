@@ -21,10 +21,10 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
    - The mutation of **ZmCAO1** decreases waterlogging tolerance in maize.
 
 ## Function-related keywords:
-- [development](/tags/development/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[photosynthesis](/tags/photosynthesis/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[chl-biosynthesis](/tags/chl-biosynthesis/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[endosperm](/tags/endosperm/)&nbsp;,&nbsp;[endosperm-development](/tags/endosperm-development/)&nbsp;,&nbsp;[photosystem](/tags/photosystem/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)
+- [development](/tags/development/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[photosynthesis](/tags/photosynthesis/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[chl-biosynthesis](/tags/chl-biosynthesis/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[photosystem](/tags/photosystem/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
-   - [A chlorophyll a oxygenase 1 gene ZmCAO1 contributes to grain yield and waterlogging tolerance in maize.]( https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab059](https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33571996](https://pubmed.ncbi.nlm.nih.gov/33571996/)
+   - [A chlorophyll a oxygenase 1 gene ZmCAO1 contributes to grain yield and waterlogging tolerance in maize.]( https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab059](https://academic.oup.com/jxb/article/72/8/3155/6133553?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33571996](https://pubmed.ncbi.nlm.nih.gov/33571996/)
 
 ## Related News:
    - [JXB | 长江大学杜何为团队揭示ZmCAO1对玉米籽粒重、产量和耐涝性等发面的影响](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247505267&idx=7&sn=891a0d541552bef318803a54336166af&chksm=ce907826f9e7f13026648d32fd84f1bf5aba56139ab0255a38228f4cfb93b817626df216c516&scene=27#wechat_redirect)

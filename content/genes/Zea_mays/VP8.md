@@ -21,18 +21,18 @@ tags: [ leaf,stem ]
    - **VP8** is located in ER and the N terminus plays an important role in its localization and function.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[stem](/tags/stem/)
 
 ## Literature:
-   - [The maize d2003, a novel allele of VP8, is required for maize internode elongation.]( https://link.springer.com/article/10.1007/s11103-013-0129-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-013-0129-x](https://link.springer.com/article/10.1007/s11103-013-0129-x)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24214124](https://pubmed.ncbi.nlm.nih.gov/24214124/)
-   - [Genetic and Hormonal Blueprint of Shoot-Borne Adventitious Root Development in Rice and Maize]( https://academic.oup.com/pcp/article/63/12/1806/6609709)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcac084](https://academic.oup.com/pcp/article/63/12/1806/6609709)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
-   - [An in situ sequencing approach maps PLASTOCHRON1 at the boundary between indeterminate and determinate cells.]( https://academic.oup.com/plphys/article/188/2/782/6428669)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab533](https://academic.oup.com/plphys/article/188/2/782/6428669)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34791481](https://pubmed.ncbi.nlm.nih.gov/34791481/)
+   - [The maize d2003, a novel allele of VP8, is required for maize internode elongation.]( https://link.springer.com/article/10.1007/s11103-013-0129-x).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-013-0129-x](https://link.springer.com/article/10.1007/s11103-013-0129-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24214124](https://pubmed.ncbi.nlm.nih.gov/24214124/)
+   - [Genetic and Hormonal Blueprint of Shoot-Borne Adventitious Root Development in Rice and Maize]( https://academic.oup.com/pcp/article/63/12/1806/6609709).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcac084](https://academic.oup.com/pcp/article/63/12/1806/6609709);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [An in situ sequencing approach maps PLASTOCHRON1 at the boundary between indeterminate and determinate cells.]( https://academic.oup.com/plphys/article/188/2/782/6428669).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab533](https://academic.oup.com/plphys/article/188/2/782/6428669);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34791481](https://pubmed.ncbi.nlm.nih.gov/34791481/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100147738](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100147738)
-- **UniProt accessions:** [A0A317Y340](https://www.uniprot.org/uniprotkb/A0A317Y340/entry)&nbsp;,&nbsp;[A0A1D6L709](https://www.uniprot.org/uniprotkb/A0A1D6L709/entry)
+- **UniProt accessions:** [A0A317Y340](https://www.uniprot.org/uniprotkb/A0A317Y340/entry),&nbsp;&nbsp;[A0A1D6L709](https://www.uniprot.org/uniprotkb/A0A1D6L709/entry)
 
 
 

@@ -21,10 +21,10 @@ tags: [ shoot,salt,tolerance,salt tolerance,transporter ]
    - Suggesting that **ZmHAK4** orthologues mediate an evolutionarily conserved salt-tolerance mechanism.
 
 ## Function-related keywords:
-- [shoot](/tags/shoot/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+- [shoot](/tags/shoot/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
-   - [A HAK family Na(+) transporter confers natural variation of salt tolerance in maize.]( https://www.nature.com/articles/s41477-019-0565-y)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0565-y](https://www.nature.com/articles/s41477-019-0565-y)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31819228](https://pubmed.ncbi.nlm.nih.gov/31819228/)
+   - [A HAK family Na(+) transporter confers natural variation of salt tolerance in maize.]( https://www.nature.com/articles/s41477-019-0565-y).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41477-019-0565-y](https://www.nature.com/articles/s41477-019-0565-y);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31819228](https://pubmed.ncbi.nlm.nih.gov/31819228/)
 
 ## Related News:
    - [Nature Plants|​中国农业大学蒋才富课题组揭示重要抗盐机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247493527&idx=2&sn=f968c9062ec6a4fddbc004d8bb4730ce&chksm=e8bd9589dfca1c9f44a1774093a948812d492241bcd733ff0f1a1b67dfbf6bb320dbc0e65984&scene=27#wechat_redirect)

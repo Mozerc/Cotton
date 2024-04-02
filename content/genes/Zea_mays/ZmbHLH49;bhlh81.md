@@ -17,10 +17,10 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
    - **ZmbHLH49** may be involved in the regulation of leaf senescence induced by heat stress.
 
 ## Function-related keywords:
-- [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)
+- [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-senescence](/tags/leaf-senescence/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/)
 
 ## Literature:
-   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
+   - [Transcriptomic Analysis of Three Differentially Senescing Maize (Zea mays L.) Inbred Lines upon Heat Stress.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24129782](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10298251/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37372930](https://pubmed.ncbi.nlm.nih.gov/37372930/)
 
 ## Related News:
 

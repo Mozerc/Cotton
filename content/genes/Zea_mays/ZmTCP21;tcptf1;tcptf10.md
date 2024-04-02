@@ -22,7 +22,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [An epigenetic basis of inbreeding depression in maize.]( https://www.science.org/doi/10.1126/sciadv.abg5442)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/sciadv.abg5442](https://www.science.org/doi/10.1126/sciadv.abg5442)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34452913](https://pubmed.ncbi.nlm.nih.gov/34452913/)
+   - [An epigenetic basis of inbreeding depression in maize.]( https://www.science.org/doi/10.1126/sciadv.abg5442).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1126/sciadv.abg5442](https://www.science.org/doi/10.1126/sciadv.abg5442);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34452913](https://pubmed.ncbi.nlm.nih.gov/34452913/)
 
 ## Related News:
 

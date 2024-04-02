@@ -20,10 +20,10 @@ tags: [ dna repair,meiotic ]
    - This conclusion is surprisingly different from the antagonistic roles of **brca2** and FIGL1 in Arabidopsis, implying that, although key factors that control CO formation are evolutionarily conserved, specific characteristics have been adopted in diverse plant species.
 
 ## Function-related keywords:
-- [dna-repair](/tags/dna-repair/)&nbsp;,&nbsp;[meiotic](/tags/meiotic/)
+- [dna-repair](/tags/dna-repair/),&nbsp;&nbsp;[meiotic](/tags/meiotic/)
 
 ## Literature:
-   - [FIGL1 coordinates with dosage-sensitive BRCA2 in modulating meiotic recombination in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13541](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37293848](https://pubmed.ncbi.nlm.nih.gov/37293848/)
+   - [FIGL1 coordinates with dosage-sensitive BRCA2 in modulating meiotic recombination in maize.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13541](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13541);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37293848](https://pubmed.ncbi.nlm.nih.gov/37293848/)
 
 ## Related News:
    - [JIPB | 中国农业大学农学院贺岩教授课题组在玉米减数分裂同源重组调控机制中取得重要进展](https://mp.weixin.qq.com/s/THpngDbSbe1fymagX_C8lA)

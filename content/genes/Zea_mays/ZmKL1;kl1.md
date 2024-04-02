@@ -22,7 +22,7 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [cis-Regulatory variation affecting gene expression contributes to the improvement of maize kernel size.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15910)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15910](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15910)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35860955](https://pubmed.ncbi.nlm.nih.gov/35860955/)
+   - [cis-Regulatory variation affecting gene expression contributes to the improvement of maize kernel size.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15910).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15910](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15910);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35860955](https://pubmed.ncbi.nlm.nih.gov/35860955/)
 
 ## Related News:
 

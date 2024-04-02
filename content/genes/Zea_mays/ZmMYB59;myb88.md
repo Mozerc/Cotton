@@ -19,10 +19,10 @@ tags: [ seed,seed germination,nucleus,gibberellin,ga ]
    - **ZmMYB59** and AtMYB59 belong to R2R3-type MYB protein and contain a large number of α-helix and random curl.
 
 ## Function-related keywords:
-- [seed](/tags/seed/)&nbsp;,&nbsp;[seed-germination](/tags/seed-germination/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[gibberellin](/tags/gibberellin/)&nbsp;,&nbsp;[ga](/tags/ga/)
+- [seed](/tags/seed/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[gibberellin](/tags/gibberellin/),&nbsp;&nbsp;[ga](/tags/ga/)
 
 ## Literature:
-   - [Gene cloning of ZmMYB59 transcription factor in maize and its expression during seed germination in response to deep-sowing and exogenous hormones]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12550)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbr.12550](https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12550)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Gene cloning of ZmMYB59 transcription factor in maize and its expression during seed germination in response to deep-sowing and exogenous hormones]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12550).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbr.12550](https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12550);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

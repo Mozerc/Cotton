@@ -21,10 +21,10 @@ tags: [ transcription factor,pollen,anther,cuticle,cutin,pollen exine formation,
    - Loss function of **ZmMYB84** resulted in denser anther cuticle but thinner pollen exine similar to the pksb mutant.
 
 ## Function-related keywords:
-- [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[anther](/tags/anther/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[cutin](/tags/cutin/)&nbsp;,&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)&nbsp;,&nbsp;[cuticle-formation](/tags/cuticle-formation/)
+- [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[anther](/tags/anther/),&nbsp;&nbsp;[cuticle](/tags/cuticle/),&nbsp;&nbsp;[cutin](/tags/cutin/),&nbsp;&nbsp;[pollen-exine-formation](/tags/pollen-exine-formation/),&nbsp;&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/),&nbsp;&nbsp;[pollen-formation](/tags/pollen-formation/),&nbsp;&nbsp;[cuticle-formation](/tags/cuticle-formation/)
 
 ## Literature:
-   - [The ZmMYB84-ZmPKSB regulatory module controls male fertility through modulating anther cuticle-pollen exine trade-off in maize anthers.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13911](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070225](https://pubmed.ncbi.nlm.nih.gov/36070225/)
+   - [The ZmMYB84-ZmPKSB regulatory module controls male fertility through modulating anther cuticle-pollen exine trade-off in maize anthers.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13911](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13911?af=R);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36070225](https://pubmed.ncbi.nlm.nih.gov/36070225/)
 
 ## Related News:
    - [PBJ | 北京科技大学万向元团队发现 ZmMYB84-ZmPKSB调控模块控制玉米花药和花粉脂类物质分配平衡及雄配子育性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247536343&idx=1&sn=aa01773ae09ce47d1d6fe65da18c2adc&chksm=ce90e382f9e76a9487e62203f5cd5bd94dc39b0c4c0eff17a3ef5f646df31def3a196c18168e&scene=27#wechat_redirect)

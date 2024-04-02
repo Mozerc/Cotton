@@ -19,10 +19,10 @@ tags: [ root,shoot,stress,salt,cytokinin,salt stress,transporter ]
    - Loss of **ZmHP2** function confers cytokinin-insensitive and salt-hypersensitive phenotype.
 
 ## Function-related keywords:
-- [root](/tags/root/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+- [root](/tags/root/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
-   - [Cytokinin signaling promotes salt tolerance by modulating shoot chloride exclusion in maize.]( https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.04.011](https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37101396](https://pubmed.ncbi.nlm.nih.gov/37101396/)
+   - [Cytokinin signaling promotes salt tolerance by modulating shoot chloride exclusion in maize.]( https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.04.011](https://www.sciencedirect.com/science/article/pii/S1674205223001090?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37101396](https://pubmed.ncbi.nlm.nih.gov/37101396/)
 
 ## Related News:
 

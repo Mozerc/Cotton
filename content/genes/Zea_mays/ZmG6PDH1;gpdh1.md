@@ -20,10 +20,10 @@ tags: [ seedlings,resistance,stress,oxidative stress,tolerance,cold tolerance,ox
    - **ZmG6PDH1** mutant seedlings exhibited increased cold stress sensitivity and showed significantly impaired antioxidant and redox system.
 
 ## Function-related keywords:
-- [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[oxidative-stress](/tags/oxidative-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[oxidative](/tags/oxidative/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[phosphate](/tags/phosphate/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)
+- [seedlings](/tags/seedlings/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[oxidative-stress](/tags/oxidative-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[cold-tolerance](/tags/cold-tolerance/),&nbsp;&nbsp;[oxidative](/tags/oxidative/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[dehydrogenase](/tags/dehydrogenase/)
 
 ## Literature:
-   - [ZmG6PDH1 in glucose-6-phosphate dehydrogenase family enhances cold stress tolerance in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1116237](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36968417](https://pubmed.ncbi.nlm.nih.gov/36968417/)
+   - [ZmG6PDH1 in glucose-6-phosphate dehydrogenase family enhances cold stress tolerance in maize.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1116237](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10034328/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36968417](https://pubmed.ncbi.nlm.nih.gov/36968417/)
 
 ## Related News:
 

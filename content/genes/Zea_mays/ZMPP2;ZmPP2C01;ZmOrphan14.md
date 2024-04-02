@@ -19,16 +19,16 @@ tags: [ kinase,protein kinase,phosphatase,dehydrogenase,protein phosphatase ]
    - Expression of the **ZMPP2** mRNA in various maize organs was determined using Reverse Transcriptase Polymerase Chain Reaction.
 
 ## Function-related keywords:
-- [kinase](/tags/kinase/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[phosphatase](/tags/phosphatase/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)&nbsp;,&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
+- [kinase](/tags/kinase/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[phosphatase](/tags/phosphatase/),&nbsp;&nbsp;[dehydrogenase](/tags/dehydrogenase/),&nbsp;&nbsp;[protein-phosphatase](/tags/protein-phosphatase/)
 
 ## Literature:
-   - [ZMPP2, a novel type‐2C protein phosphatase from maize]( https://academic.oup.com/jxb/article/52/361/1739/538474?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jexbot/52.361.1739](https://academic.oup.com/jxb/article/52/361/1739/538474?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ZMPP2, a novel type‐2C protein phosphatase from maize]( https://academic.oup.com/jxb/article/52/361/1739/538474?login=true).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jexbot/52.361.1739](https://academic.oup.com/jxb/article/52/361/1739/538474?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100382150](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100382150)
-- **UniProt accessions:** [A0A060D3A9](https://www.uniprot.org/uniprotkb/A0A060D3A9/entry)&nbsp;,&nbsp;[A0A317YGL7](https://www.uniprot.org/uniprotkb/A0A317YGL7/entry)&nbsp;,&nbsp;[C0P4W6](https://www.uniprot.org/uniprotkb/C0P4W6/entry)
+- **UniProt accessions:** [A0A060D3A9](https://www.uniprot.org/uniprotkb/A0A060D3A9/entry),&nbsp;&nbsp;[A0A317YGL7](https://www.uniprot.org/uniprotkb/A0A317YGL7/entry),&nbsp;&nbsp;[C0P4W6](https://www.uniprot.org/uniprotkb/C0P4W6/entry)
 
 
 

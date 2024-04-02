@@ -22,13 +22,13 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [Genome-wide identification and comprehensive analysis of tubby-like protein gene family in multiple crops.]( https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1093944](https://link.springer.com/article/10.1007/s13258-015-0338-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36589128](https://pubmed.ncbi.nlm.nih.gov/36589128/)
+   - [Genome-wide identification and comprehensive analysis of tubby-like protein gene family in multiple crops.]( https://link.springer.com/article/10.1007/s13258-015-0338-6).&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.1093944](https://link.springer.com/article/10.1007/s13258-015-0338-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36589128](https://pubmed.ncbi.nlm.nih.gov/36589128/)
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100281288](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281288)
-- **UniProt accessions:** [A0A1D6E527](https://www.uniprot.org/uniprotkb/A0A1D6E527/entry)&nbsp;,&nbsp;[A0A3L6FVQ6](https://www.uniprot.org/uniprotkb/A0A3L6FVQ6/entry)
+- **UniProt accessions:** [A0A1D6E527](https://www.uniprot.org/uniprotkb/A0A1D6E527/entry),&nbsp;&nbsp;[A0A3L6FVQ6](https://www.uniprot.org/uniprotkb/A0A3L6FVQ6/entry)
 
 
 
