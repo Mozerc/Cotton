@@ -8,7 +8,7 @@ tags: [ stem,root,growth,grain,auxin,resistance,disease,disease resistance,defen
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb053610](https://www.maizegdb.org/gene_center/gene/Zm00001eb053610)
-- **Gene Symbol:** ZmAuxRP1
+- **Gene Symbol:** <u>ZmAuxRP1</u>
 - **Gene Name:** auxin-regulated protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

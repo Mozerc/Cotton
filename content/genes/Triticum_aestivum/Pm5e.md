@@ -8,7 +8,7 @@ tags: [ resistance,cell death,powdery mildew,mildew resistance,mildew,powdery mi
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G441700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G441700)
-- **Gene Symbol:** Pm5e
+- **Gene Symbol:** <u>Pm5e</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

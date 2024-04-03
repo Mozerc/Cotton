@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb274390](https://www.maizegdb.org/gene_center/gene/Zm00001eb274390)
-- **Gene Symbol:** Stiff1;ZmAPO1-6
+- **Gene Symbol:** <u>Stiff1</u>&nbsp;<u>ZmAPO1-6</u>
 - **Gene Name:** stiff stalk1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

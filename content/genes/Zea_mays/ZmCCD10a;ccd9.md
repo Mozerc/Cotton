@@ -8,7 +8,7 @@ tags: [ root,shoot,tolerance,biomass,phosphate,phosphorus,pi,carotene,carotene a
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb309770](https://www.maizegdb.org/gene_center/gene/Zm00001eb309770)
-- **Gene Symbol:** ZmCCD10a;ccd9
+- **Gene Symbol:** <u>ZmCCD10a</u>&nbsp;<u>ccd9</u>
 - **Gene Name:** carotenoid cleavage dioxygenase9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ resistance,pathogen,defence,defence response,pathogen resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaRCR1
+- **Gene Symbol:** <u>TaRCR1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ root,growth,auxin,root growth,auxin transport,signaling pathway gene,roo
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G298400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G298400)
-- **Gene Symbol:** TaSRL1-4D
+- **Gene Symbol:** <u>TaSRL1-4D</u>
 - **Gene Name:** SHORT ROOT LENGTH 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

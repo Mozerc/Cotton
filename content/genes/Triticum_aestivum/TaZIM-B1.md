@@ -8,7 +8,7 @@ tags: [ heading date,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G323600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G323600)
-- **Gene Symbol:** TaZIM-B1
+- **Gene Symbol:** <u>TaZIM-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

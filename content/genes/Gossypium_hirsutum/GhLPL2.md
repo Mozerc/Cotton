@@ -8,7 +8,7 @@ tags: [ growth,resistance,immunity ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** GhLPL2
+- **Gene Symbol:** <u>GhLPL2</u>
 - **Gene Name:** 
 - **Genome:** [G. hirsutum acc. TM-1 (NAU_v2.1)]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ growth,resistance,immunity ]
    - **GhLPL2** silencing cotton plants also display high resistance to V. dahliae, but show severe dwarfing phenotype and developmental defects, suggesting **GhLPL2** is an essential gene in cotton.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[immunity](/tags/immunity/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[immunity](/tags/immunity/)
 
 ## Literature:
-   - [Cotton peroxisome-localized lysophospholipase counteracts the toxic effects of Verticillium dahliae NLP1 and confers wilt resistance]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16236)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16236)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Cotton peroxisome-localized lysophospholipase counteracts the toxic effects of Verticillium dahliae NLP1 and confers wilt resistance]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16236)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16236);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [TPJ | 南京农业大学棉花遗传与种质创新团队在棉花应对黄萎病菌NLP1毒素的关键蛋白发掘与机理解析研究取得新进展](https://mp.weixin.qq.com/s/HMpldmUrkIXhApsz9hVyJQ)

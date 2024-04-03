@@ -8,7 +8,7 @@ tags: [ nitrogen,biomass ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb325470](https://www.maizegdb.org/gene_center/gene/Zm00001eb325470)
-- **Gene Symbol:** ZmSBT3
+- **Gene Symbol:** <u>ZmSBT3</u>
 - **Gene Name:** subtilisin3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ homeostasis,iron,iron homeostasis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb240650](https://www.maizegdb.org/gene_center/gene/Zm00001eb240650)
-- **Gene Symbol:** ZmTAT;naat4
+- **Gene Symbol:** <u>ZmTAT</u>&nbsp;<u>naat4</u>
 - **Gene Name:** nicotianamine aminotransferase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

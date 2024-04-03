@@ -8,7 +8,7 @@ tags: [ kinase,aba ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb327780](https://www.maizegdb.org/gene_center/gene/Zm00001eb327780)
-- **Gene Symbol:** ZmSnRK2.2;ZmSnRK2.11;snrkII2
+- **Gene Symbol:** <u>ZmSnRK2.2</u>&nbsp;<u>ZmSnRK2.11</u>&nbsp;<u>snrkII2</u>
 - **Gene Name:** SnRK2 serine threonine protein kinase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

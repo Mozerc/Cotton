@@ -8,7 +8,7 @@ tags: [ kinase,resistance,resistant,callus,receptor kinase,powdery mildew,mildew
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** LecRK-V
+- **Gene Symbol:** <u>LecRK-V</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

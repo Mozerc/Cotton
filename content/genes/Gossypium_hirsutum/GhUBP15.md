@@ -8,7 +8,7 @@ tags: [ growth,architecture,breeding,plant growth,plant architecture,ubiquitin ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A01G038500]()
-- **Gene Symbol:** GhUBP15
+- **Gene Symbol:** <u>GhUBP15</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ growth,architecture,breeding,plant growth,plant architecture,ubiquitin ]
    - **GhUBP15** could be a possible candidate gene for PH in cotton.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/)
 
 ## Literature:
-   - [UAV-based time-series phenotyping reveals the genetic basis of plant height in upland cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16272](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37154288](https://pubmed.ncbi.nlm.nih.gov/37154288/)
+   - [UAV-based time-series phenotyping reveals the genetic basis of plant height in upland cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16272](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37154288](https://pubmed.ncbi.nlm.nih.gov/37154288/)
 
 ## Related News:
    - [The Plant Journal | 生物所利用无人机表型平台解析棉花株高分子机制](https://mp.weixin.qq.com/s/HwuRMDqVFVVUeeFU5McWag)

@@ -8,7 +8,7 @@ tags: [ transcription factor,fertility,endosperm,height ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb289030](https://www.maizegdb.org/gene_center/gene/Zm00001eb289030)
-- **Gene Symbol:** ZmROS1a;ros1
+- **Gene Symbol:** <u>ZmROS1a</u>&nbsp;<u>ros1</u>
 - **Gene Name:** repressor of silencing1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

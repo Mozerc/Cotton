@@ -8,7 +8,7 @@ tags: [ transcription factor,auxin,iaa,auxin response,auxin transport,transcript
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb354200](https://www.maizegdb.org/gene_center/gene/Zm00001eb354200)
-- **Gene Symbol:** ZmAFB1;tir1
+- **Gene Symbol:** <u>ZmAFB1</u>&nbsp;<u>tir1</u>
 - **Gene Name:** transport inhibitor response1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

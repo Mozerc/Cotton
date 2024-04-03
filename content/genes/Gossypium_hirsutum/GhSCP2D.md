@@ -8,7 +8,7 @@ tags: [ sugar,sucrose,fiber ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D06G0145]()
-- **Gene Symbol:** GhSCP2D
+- **Gene Symbol:** <u>GhSCP2D</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ sugar,sucrose,fiber ]
    - Sugar Contents in Fibers of **GhSCP2D**-Downregulated and Wild-Type Plants.
 
 ## Function-related keywords:
-   - [sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [sugar](/tags/sugar/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [Suppressing a Putative Sterol Carrier Gene Reduces Plasmodesmal Permeability and Activates Sucrose Transporter Genes during Cotton Fiber Elongation.]( https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00358](https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28747422](https://pubmed.ncbi.nlm.nih.gov/28747422/)
+   - [Suppressing a Putative Sterol Carrier Gene Reduces Plasmodesmal Permeability and Activates Sucrose Transporter Genes during Cotton Fiber Elongation.]( https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00358](https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28747422](https://pubmed.ncbi.nlm.nih.gov/28747422/)
 
 ## Related News:
 

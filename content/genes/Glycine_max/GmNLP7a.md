@@ -8,7 +8,7 @@ tags: [ nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.09G137000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.09G137000)
-- **Gene Symbol:** GmNLP7a
+- **Gene Symbol:** <u>GmNLP7a</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -24,7 +24,7 @@ tags: [ nitrate ]
    - [nitrate](/tags/nitrate/)
 
 ## Literature:
-   - [GmNLP7a inhibits soybean nodulation by interacting with GmNIN1a]( https://www.sciencedirect.com/science/article/pii/S2214514123000478)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.03.016](https://www.sciencedirect.com/science/article/pii/S2214514123000478)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [GmNLP7a inhibits soybean nodulation by interacting with GmNIN1a]( https://www.sciencedirect.com/science/article/pii/S2214514123000478)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2023.03.016](https://www.sciencedirect.com/science/article/pii/S2214514123000478);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | 华中农业大学揭示高氮抑制大豆结瘤的分子机制](https://mp.weixin.qq.com/s/LYO_zNqxBeMOQ5n4UdQmVw)

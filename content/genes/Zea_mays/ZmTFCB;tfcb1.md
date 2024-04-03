@@ -8,7 +8,7 @@ tags: [ growth,development,cell division,reproductive,homeostasis,embryo,endospe
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb076570](https://www.maizegdb.org/gene_center/gene/Zm00001eb076570)
-- **Gene Symbol:** ZmTFCB;tfcb1
+- **Gene Symbol:** <u>ZmTFCB</u>&nbsp;<u>tfcb1</u>
 - **Gene Name:** tubulin-folding cofactor B1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

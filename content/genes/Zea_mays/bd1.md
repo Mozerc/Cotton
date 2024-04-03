@@ -8,7 +8,7 @@ tags: [ transcription factor,development,inflorescence,inflorescence development
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb330200](https://www.maizegdb.org/gene_center/gene/Zm00001eb330200)
-- **Gene Symbol:** Bd1
+- **Gene Symbol:** <u>Bd1</u>
 - **Gene Name:** branched silkless1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

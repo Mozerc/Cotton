@@ -8,7 +8,7 @@ tags: [ transcription factor,yield,floral,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.16g150700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.16g150700)
-- **Gene Symbol:** FT2a;FTL3
+- **Gene Symbol:** <u>FT2a</u>&nbsp;<u>FTL3</u>
 - **Gene Name:** Flowering locus T gene 2a
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -21,11 +21,11 @@ tags: [ transcription factor,yield,floral,flowering ]
    - **FT2a** and FT5a interact with a bZIP transcription factor, FDL19, which directly binds to the ACGT cis-element in the promoter of the APETALA1 homolog AP1a (Glyma.16G091300) to induce its transcription, thereby promoting soybean flowering.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [Overcoming the genetic compensation response of soybean florigens to improve adaptation and yield at low latitudes.]( https://www.sciencedirect.com/science/article/pii/S0960982221008320)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cub.2021.06.037](https://www.sciencedirect.com/science/article/pii/S0960982221008320)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270946](https://pubmed.ncbi.nlm.nih.gov/34270946/)
-   - [Overcoming the genetic compensation response of soybean florigens to improve adaptation and yield at low latitudes.]( https://www.sciencedirect.com/science/article/pii/S2214514120301495#s0010)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.09.005](https://www.sciencedirect.com/science/article/pii/S2214514120301495#s0010)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270946](https://pubmed.ncbi.nlm.nih.gov/34270946/)
+   - [Overcoming the genetic compensation response of soybean florigens to improve adaptation and yield at low latitudes.]( https://www.sciencedirect.com/science/article/pii/S0960982221008320)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cub.2021.06.037](https://www.sciencedirect.com/science/article/pii/S0960982221008320);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270946](https://pubmed.ncbi.nlm.nih.gov/34270946/)
+   - [Overcoming the genetic compensation response of soybean florigens to improve adaptation and yield at low latitudes.]( https://www.sciencedirect.com/science/article/pii/S2214514120301495#s0010)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.09.005](https://www.sciencedirect.com/science/article/pii/S2214514120301495#s0010);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270946](https://pubmed.ncbi.nlm.nih.gov/34270946/)
 
 ## Related News:
    - [Current Biology | 克服基因补偿效应，广州大学孔凡江/刘宝辉团队在大豆适应性的遗传机制研究取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247513959&idx=1&sn=d688498d0f9b6f8818c62601fb7937aa&chksm=ce901a32f9e793243be0a78f4aab9dfc2dcf08d50de5982a0585b29a48e2007377578822f444&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ resistance,drought,stress,drought stress,tolerance,aba,drought tolerance
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G306300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G306300)
-- **Gene Symbol:** TaFDL2-1A
+- **Gene Symbol:** <u>TaFDL2-1A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

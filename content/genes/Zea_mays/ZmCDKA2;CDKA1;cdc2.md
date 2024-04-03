@@ -8,7 +8,7 @@ tags: [ cell cycle,phosphatase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb001260](https://www.maizegdb.org/gene_center/gene/Zm00001eb001260)
-- **Gene Symbol:** ZmCDKA2;CDKA1;cdc2
+- **Gene Symbol:** <u>ZmCDKA2</u>&nbsp;<u>CDKA1</u>&nbsp;<u>cdc2</u>
 - **Gene Name:** cell division control protein homolog2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

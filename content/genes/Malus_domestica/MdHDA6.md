@@ -8,7 +8,7 @@ tags: [ resistance,drought,tolerance,drought tolerance,drought resistance,drough
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** MdHDA6
+- **Gene Symbol:** <u>MdHDA6</u>
 - **Gene Name:** Malus domestica histone deacetylase 6
 - **Genome:** [M. × domestica ‘Golden Delicious’ v1.0](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ resistance,drought,tolerance,drought tolerance,drought resistance,drough
    - Our study uncovers a different drought response regulatory mechanism in apple based on the **MdHDA6**-MdABI5 complex function and provides the molecular basis for drought-resistance improvement in apple.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [HISTONE DEACETYLASE 6 interaction with ABSCISIC ACID-INSENSITIVE 5 decreases apple drought tolerance.]( https://academic.oup.com/plphys/article/193/4/2711/7248473?login=true#427278358)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad468](https://academic.oup.com/plphys/article/193/4/2711/7248473?login=true#427278358)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37607253](https://pubmed.ncbi.nlm.nih.gov/37607253/)
+   - [HISTONE DEACETYLASE 6 interaction with ABSCISIC ACID-INSENSITIVE 5 decreases apple drought tolerance.]( https://academic.oup.com/plphys/article/193/4/2711/7248473?login=true#427278358)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad468](https://academic.oup.com/plphys/article/193/4/2711/7248473?login=true#427278358);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37607253](https://pubmed.ncbi.nlm.nih.gov/37607253/)
 
 ## Related News:
    - [Plant Physiology | 西北农林科技大学园艺学院在苹果抗旱性调控机制研究中取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247556203&idx=5&sn=8972999f5b1d50f6f01321634012217d&chksm=5e199ec8f373f6cd1d71acaef0b9bb1128af06018b883af1b43cd60b5be43e2a4a0ee94f65a2&scene=27#wechat_redirect)

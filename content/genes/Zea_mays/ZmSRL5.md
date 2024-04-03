@@ -8,7 +8,7 @@ tags: [ drought,tolerance,drought tolerance,drought sensitivity,cuticular wax fo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb008140](https://www.maizegdb.org/gene_center/gene/Zm00001eb008140)
-- **Gene Symbol:** ZmSRL5
+- **Gene Symbol:** <u>ZmSRL5</u>
 - **Gene Name:** semi-rolled leaf5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

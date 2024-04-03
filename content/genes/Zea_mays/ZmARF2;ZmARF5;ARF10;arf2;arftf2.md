@@ -8,7 +8,7 @@ tags: [ transcription factor,auxin,seed,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb045640](https://www.maizegdb.org/gene_center/gene/Zm00001eb045640)
-- **Gene Symbol:** ZmARF2;ZmARF5;ARF10;arf2;arftf2
+- **Gene Symbol:** <u>ZmARF2</u>&nbsp;<u>ZmARF5</u>&nbsp;<u>ARF10</u>&nbsp;<u>arf2</u>&nbsp;<u>arftf2</u>
 - **Gene Name:** ARF-transcription factor 2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

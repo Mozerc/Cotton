@@ -8,7 +8,7 @@ tags: [ resistance,drought,stress,drought stress,stomatal,drought resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb293430](https://www.maizegdb.org/gene_center/gene/Zm00001eb293430)
-- **Gene Symbol:** ZmRBOHC;ZmRBOH9;rboh3
+- **Gene Symbol:** <u>ZmRBOHC</u>&nbsp;<u>ZmRBOH9</u>&nbsp;<u>rboh3</u>
 - **Gene Name:** respiratory burst oxidase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor ]
 
 ## Gene Details:
 - **Gene ID:**	[BnaA05g19840D]()
-- **Gene Symbol:** BnA5.ZML1
+- **Gene Symbol:** <u>BnA5.ZML1</u>
 - **Gene Name:** 
 - **Genome:** [B. napus genome v4.1]()
 - **Species:** *Brassica napus*
@@ -23,7 +23,7 @@ tags: [ transcription factor ]
    - [transcription-factor](/tags/transcription-factor/)
 
 ## Literature:
-   - [The Brassica napus GATA transcription factor BnA5.ZML1 is a stigma compatibility factor.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12916)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12916](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12916)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32022417](https://pubmed.ncbi.nlm.nih.gov/32022417/)
+   - [The Brassica napus GATA transcription factor BnA5.ZML1 is a stigma compatibility factor.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12916)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12916](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12916);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32022417](https://pubmed.ncbi.nlm.nih.gov/32022417/)
 
 ## Related News:
    - [JIPB | 华中农业大学马朝芝课题组发现一个油菜自交不亲和过程中的亲和因子](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487264&idx=4&sn=f838ad0db1c40e0e2718289809e497c4&chksm=ce93a275f9e42b6397b55385701aa6559a55003a877ee59474147f43d0e32424316d6699449b&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ temperature,stress,abiotic stress,stress response,abiotic stress respons
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb157040](https://www.maizegdb.org/gene_center/gene/Zm00001eb157040)
-- **Gene Symbol:** ZmTLP3;tubtf15
+- **Gene Symbol:** <u>ZmTLP3</u>&nbsp;<u>tubtf15</u>
 - **Gene Name:** TUB-transcription factor 15
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

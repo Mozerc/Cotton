@@ -8,7 +8,7 @@ tags: [ height,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb256320](https://www.maizegdb.org/gene_center/gene/Zm00001eb256320)
-- **Gene Symbol:** ZmACO35;acco35
+- **Gene Symbol:** <u>ZmACO35</u>&nbsp;<u>acco35</u>
 - **Gene Name:** 1-aminocyclopropane-1-carboxylate oxidase35
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

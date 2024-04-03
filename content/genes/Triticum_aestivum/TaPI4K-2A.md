@@ -8,7 +8,7 @@ tags: [ aba ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A03G1246300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A03G1246300)
-- **Gene Symbol:** TaPI4K-2A
+- **Gene Symbol:** <u>TaPI4K-2A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

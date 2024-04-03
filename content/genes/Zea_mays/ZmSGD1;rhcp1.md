@@ -8,7 +8,7 @@ tags: [ root,grain,grain length,grain size,panicle,grain number,grain yield,yiel
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb216620](https://www.maizegdb.org/gene_center/gene/Zm00001eb216620)
-- **Gene Symbol:** ZmSGD1;rhcp1
+- **Gene Symbol:** <u>ZmSGD1</u>&nbsp;<u>rhcp1</u>
 - **Gene Name:** ring hc protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

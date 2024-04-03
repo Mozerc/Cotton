@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb143080](https://www.maizegdb.org/gene_center/gene/Zm00001eb143080)
-- **Gene Symbol:** ZmMADS69;mads69
+- **Gene Symbol:** <u>ZmMADS69</u>&nbsp;<u>mads69</u>
 - **Gene Name:** MADS-transcription factor 69
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ resistance,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G349800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G349800)
-- **Gene Symbol:** YrU1-5D
+- **Gene Symbol:** <u>YrU1-5D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

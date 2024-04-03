@@ -9,7 +9,7 @@ tags: [blast resistance, cell death]
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Pikp-1
+- **Gene Symbol:** <u>Pikp-1</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

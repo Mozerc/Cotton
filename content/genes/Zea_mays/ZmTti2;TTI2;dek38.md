@@ -8,7 +8,7 @@ tags: [ development,grain,pollen,seed,pollen development,reproductive,endosperm,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb226270](https://www.maizegdb.org/gene_center/gene/Zm00001eb226270)
-- **Gene Symbol:** ZmTti2;TTI2;dek38
+- **Gene Symbol:** <u>ZmTti2</u>&nbsp;<u>TTI2</u>&nbsp;<u>dek38</u>
 - **Gene Name:** defective kernel38
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

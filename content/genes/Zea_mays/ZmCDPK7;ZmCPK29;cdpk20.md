@@ -8,7 +8,7 @@ tags: [ kinase,stress,tolerance,stress tolerance,protein kinase,calcium,plasma m
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb351760](https://www.maizegdb.org/gene_center/gene/Zm00001eb351760)
-- **Gene Symbol:** ZmCDPK7;ZmCPK29;cdpk20
+- **Gene Symbol:** <u>ZmCDPK7</u>&nbsp;<u>ZmCPK29</u>&nbsp;<u>cdpk20</u>
 - **Gene Name:** calcium dependent protein kinase20
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

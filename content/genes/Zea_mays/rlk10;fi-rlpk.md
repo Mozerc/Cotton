@@ -8,7 +8,7 @@ tags: [ kinase,pathogen,jasmonic,jasmonic acid,protein kinase,receptor kinase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb293660](https://www.maizegdb.org/gene_center/gene/Zm00001eb293660)
-- **Gene Symbol:** Rlk10;fi-rlpk
+- **Gene Symbol:** <u>Rlk10</u>&nbsp;<u>fi-rlpk</u>
 - **Gene Name:** receptor-like protein kinase10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

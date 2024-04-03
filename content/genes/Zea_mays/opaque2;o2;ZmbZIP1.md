@@ -8,7 +8,7 @@ tags: [ development,endosperm,endosperm development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb301570](https://www.maizegdb.org/gene_center/gene/Zm00001eb301570)
-- **Gene Symbol:** Opaque2;o2;ZmbZIP1
+- **Gene Symbol:** <u>Opaque2</u>&nbsp;<u>o2</u>&nbsp;<u>ZmbZIP1</u>
 - **Gene Name:** opaque endosperm2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

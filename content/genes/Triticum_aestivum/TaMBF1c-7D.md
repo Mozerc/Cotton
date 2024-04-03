@@ -8,7 +8,7 @@ tags: [ stress,tolerance,stress tolerance,breeding,stress response,heat toleranc
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G353800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G353800)
-- **Gene Symbol:** TaMBF1c-7D
+- **Gene Symbol:** <u>TaMBF1c-7D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

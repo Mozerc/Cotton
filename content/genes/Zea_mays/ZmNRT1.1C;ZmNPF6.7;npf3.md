@@ -8,7 +8,7 @@ tags: [ growth,seedling,plant growth,seedling growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb023610](https://www.maizegdb.org/gene_center/gene/Zm00001eb023610)
-- **Gene Symbol:** ZmNRT1.1C;ZmNPF6.7;npf3
+- **Gene Symbol:** <u>ZmNRT1.1C</u>&nbsp;<u>ZmNPF6.7</u>&nbsp;<u>npf3</u>
 - **Gene Name:** nitrate transporter/peptide transporter family3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

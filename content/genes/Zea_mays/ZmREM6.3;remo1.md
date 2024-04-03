@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,resistance,disease,disease resistance,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb008420](https://www.maizegdb.org/gene_center/gene/Zm00001eb008420)
-- **Gene Symbol:** ZmREM6.3;remo1
+- **Gene Symbol:** <u>ZmREM6.3</u>&nbsp;<u>remo1</u>
 - **Gene Name:** remorin1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

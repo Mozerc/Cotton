@@ -8,7 +8,7 @@ tags: [ resistance,stress,ja,defense,resistant,reactive oxygen species,sa,ja sig
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** GhGPA
+- **Gene Symbol:** <u>GhGPA</u>
 - **Gene Name:** 
 - **Genome:** [M-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ resistance,stress,ja,defense,resistant,reactive oxygen species,sa,ja sig
    - **GhGPA** transcription was up-regulated under V. dahliae stress, with higher expression in tolerant than in susceptible cotton cultivars.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[resistant](/tags/resistant/),&nbsp;&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/),&nbsp;&nbsp;[sa](/tags/sa/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [The G-protein α subunit GhGPA positively regulates Gossypium hirsutum resistance to Verticillium dahliae via induction of SA and JA signaling pathways and ROS accumulation]( https://www.sciencedirect.com/science/article/pii/S2214514120301665#s0125)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.09.008](https://www.sciencedirect.com/science/article/pii/S2214514120301665#s0125)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [The G-protein α subunit GhGPA positively regulates Gossypium hirsutum resistance to Verticillium dahliae via induction of SA and JA signaling pathways and ROS accumulation]( https://www.sciencedirect.com/science/article/pii/S2214514120301665#s0125)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2020.09.008](https://www.sciencedirect.com/science/article/pii/S2214514120301665#s0125);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
 

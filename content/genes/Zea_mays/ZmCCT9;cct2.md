@@ -8,7 +8,7 @@ tags: [ domestication,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb391230](https://www.maizegdb.org/gene_center/gene/Zm00001eb391230)
-- **Gene Symbol:** ZmCCT9;cct2
+- **Gene Symbol:** <u>ZmCCT9</u>&nbsp;<u>cct2</u>
 - **Gene Name:** CO CO-LIKE TIMING OF CAB1 protein domain2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

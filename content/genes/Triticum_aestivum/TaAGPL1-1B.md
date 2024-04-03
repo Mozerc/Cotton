@@ -8,7 +8,7 @@ tags: [ starch,starch biosynthesis,phosphate ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1B02G449700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G449700)
-- **Gene Symbol:** TaAGPL1-1B
+- **Gene Symbol:** <u>TaAGPL1-1B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

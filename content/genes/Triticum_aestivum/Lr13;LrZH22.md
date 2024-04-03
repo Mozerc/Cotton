@@ -8,7 +8,7 @@ tags: [ leaf,temperature,resistance,map-based cloning,cell death,programmed cell
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G182800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G182800)
-- **Gene Symbol:** Lr13;LrZH22
+- **Gene Symbol:** <u>Lr13</u>&nbsp;<u>LrZH22</u>
 - **Gene Name:** LrLC10
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

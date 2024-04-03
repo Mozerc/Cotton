@@ -8,7 +8,7 @@ tags: [ growth,floral ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb325630](https://www.maizegdb.org/gene_center/gene/Zm00001eb325630)
-- **Gene Symbol:** Vrs1-like1(vrl1);hb13
+- **Gene Symbol:** <u>Vrs1-like1(vrl1)</u>&nbsp;<u>hb13</u>
 - **Gene Name:** Homeobox-transcription factor 13
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

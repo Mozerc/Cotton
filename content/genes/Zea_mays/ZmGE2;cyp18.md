@@ -8,7 +8,7 @@ tags: [ grain,breeding,embryo,endosperm,grain protein content,grain protein ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb020100](https://www.maizegdb.org/gene_center/gene/Zm00001eb020100)
-- **Gene Symbol:** ZmGE2;cyp18
+- **Gene Symbol:** <u>ZmGE2</u>&nbsp;<u>cyp18</u>
 - **Gene Name:** cytochrome P-450 18
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

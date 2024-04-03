@@ -8,7 +8,7 @@ tags: [ leaf,ja,defense,cell death,chlorophyll,sa,ja biosynthesis,lesion,lesion 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003760](https://www.maizegdb.org/gene_center/gene/Zm00001eb003760)
-- **Gene Symbol:** LLS1
+- **Gene Symbol:** <u>LLS1</u>
 - **Gene Name:** LETHAL LEAF SPOT1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

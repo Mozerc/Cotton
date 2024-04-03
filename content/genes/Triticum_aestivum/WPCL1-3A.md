@@ -8,7 +8,7 @@ tags: [ flowering,vernalization,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G526600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G526600)
-- **Gene Symbol:** WPCL1-3A
+- **Gene Symbol:** <u>WPCL1-3A</u>
 - **Gene Name:** WHEAT PHYTOCLOCK 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

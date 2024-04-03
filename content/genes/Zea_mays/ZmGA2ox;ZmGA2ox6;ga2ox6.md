@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,gibberellin,signal transduction,h
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb283860](https://www.maizegdb.org/gene_center/gene/Zm00001eb283860)
-- **Gene Symbol:** ZmGA2ox;ZmGA2ox6;ga2ox6
+- **Gene Symbol:** <u>ZmGA2ox</u>&nbsp;<u>ZmGA2ox6</u>&nbsp;<u>ga2ox6</u>
 - **Gene Name:** gibberellin 2-oxidase6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

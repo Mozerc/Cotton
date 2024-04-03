@@ -8,7 +8,7 @@ tags: [ stem,development,spikelet,plant development,flower,pollen,pollen develop
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb298680](https://www.maizegdb.org/gene_center/gene/Zm00001eb298680)
-- **Gene Symbol:** ZmMADS3
+- **Gene Symbol:** <u>ZmMADS3</u>
 - **Gene Name:** MADS3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

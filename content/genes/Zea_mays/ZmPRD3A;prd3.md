@@ -8,7 +8,7 @@ tags: [ meiosis,meiotic ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb404350](https://www.maizegdb.org/gene_center/gene/Zm00001eb404350)
-- **Gene Symbol:** ZmPRD3A;prd3
+- **Gene Symbol:** <u>ZmPRD3A</u>&nbsp;<u>prd3</u>
 - **Gene Name:** putative recombination initiation defect3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

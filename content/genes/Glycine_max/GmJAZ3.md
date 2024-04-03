@@ -8,7 +8,7 @@ tags: [ seed,cytokinin,breeding,seed weight,seed size,transcriptional regulator,
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.09G123600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.09G123600)
-- **Gene Symbol:** GmJAZ3
+- **Gene Symbol:** <u>GmJAZ3</u>
 - **Gene Name:** Glycine max JASMONATE-ZIM DOMAIN 3
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ seed,cytokinin,breeding,seed weight,seed size,transcriptional regulator,
    - Taken together, our study reveals a novel molecular module **GmJAZ3**-GmRR18a/GmMYC2a-GmCKXs for seed size and weight control, providing promising targets during soybean molecular breeding for better seed traits.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[seed-weight](/tags/seed-weight/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/)&nbsp;,&nbsp;[cell-proliferation](/tags/cell-proliferation/)&nbsp;,&nbsp;[organ-size](/tags/organ-size/)&nbsp;,&nbsp;[cytokinin-response](/tags/cytokinin-response/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[seed-weight](/tags/seed-weight/),&nbsp;&nbsp;[seed-size](/tags/seed-size/),&nbsp;&nbsp;[transcriptional-regulator](/tags/transcriptional-regulator/),&nbsp;&nbsp;[cell-proliferation](/tags/cell-proliferation/),&nbsp;&nbsp;[organ-size](/tags/organ-size/),&nbsp;&nbsp;[cytokinin-response](/tags/cytokinin-response/)
 
 ## Literature:
-   - [GmJAZ3 interacts with GmRR18a and GmMYC2a to regulate seed traits in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13494)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13494](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13494)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37066995](https://pubmed.ncbi.nlm.nih.gov/37066995/)
+   - [GmJAZ3 interacts with GmRR18a and GmMYC2a to regulate seed traits in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13494)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13494](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13494);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37066995](https://pubmed.ncbi.nlm.nih.gov/37066995/)
 
 ## Related News:
    - [JIPB | 中科院遗传发育所张劲松课题组解析大豆籽粒性状调控的新机制](https://mp.weixin.qq.com/s/mSVgD0FIbEh2qIUGGsVFtw)

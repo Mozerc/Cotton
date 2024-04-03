@@ -8,7 +8,7 @@ tags: [ architecture,height,plant height,flowering time,plant architecture,flowe
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb354430](https://www.maizegdb.org/gene_center/gene/Zm00001eb354430)
-- **Gene Symbol:** ZmEMF1L1;EMF1
+- **Gene Symbol:** <u>ZmEMF1L1</u>&nbsp;<u>EMF1</u>
 - **Gene Name:** embryonic flower1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

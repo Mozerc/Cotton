@@ -8,7 +8,7 @@ tags: [ chloroplast,development,seed,embryo,chloroplast development,seed develop
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.08G084300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.08G084300)
-- **Gene Symbol:** KASI
+- **Gene Symbol:** <u>KASI</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -19,10 +19,10 @@ tags: [ chloroplast,development,seed,embryo,chloroplast development,seed develop
    - **KASI** is responsible for playing crucial roles in fatty acid synthesis, chloroplast division, and embryo development .
 
 ## Function-related keywords:
-   - [chloroplast](/tags/chloroplast/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[chloroplast-development](/tags/chloroplast-development/)&nbsp;,&nbsp;[seed-development](/tags/seed-development/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[seed-filling](/tags/seed-filling/)&nbsp;,&nbsp;[carbohydrate-metabolism](/tags/carbohydrate-metabolism/)
+   - [chloroplast](/tags/chloroplast/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[chloroplast-development](/tags/chloroplast-development/),&nbsp;&nbsp;[seed-development](/tags/seed-development/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/),&nbsp;&nbsp;[seed-filling](/tags/seed-filling/),&nbsp;&nbsp;[carbohydrate-metabolism](/tags/carbohydrate-metabolism/)
 
 ## Literature:
-   - [An Induced Chromosomal Translocation in Soybean Disrupts a KASI Ortholog and Is Associated with a High-Sucrose and Low-Oil Seed Phenotype.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386870/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1534/g3.116.038596](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386870/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28235823](https://pubmed.ncbi.nlm.nih.gov/28235823/)
+   - [An Induced Chromosomal Translocation in Soybean Disrupts a KASI Ortholog and Is Associated with a High-Sucrose and Low-Oil Seed Phenotype.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386870/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1534/g3.116.038596](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386870/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28235823](https://pubmed.ncbi.nlm.nih.gov/28235823/)
 
 ## Related News:
 

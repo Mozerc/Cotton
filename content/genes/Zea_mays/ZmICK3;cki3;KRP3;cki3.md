@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003110](https://www.maizegdb.org/gene_center/gene/Zm00001eb003110)
-- **Gene Symbol:** ZmICK3;cki3;KRP3;cki3
+- **Gene Symbol:** <u>ZmICK3</u>&nbsp;<u>cki3</u>&nbsp;<u>KRP3</u>&nbsp;<u>cki3</u>
 - **Gene Name:** cyclin-dependent kinase inhibitor3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

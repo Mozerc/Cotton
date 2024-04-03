@@ -8,7 +8,7 @@ tags: [ seedlings,architecture,height,plant height,signal transduction,plant arc
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb256270](https://www.maizegdb.org/gene_center/gene/Zm00001eb256270)
-- **Gene Symbol:** ZmCOP1;ZmCOP1a;upl13
+- **Gene Symbol:** <u>ZmCOP1</u>&nbsp;<u>ZmCOP1a</u>&nbsp;<u>upl13</u>
 - **Gene Name:** ubiquitin-protein ligase13
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

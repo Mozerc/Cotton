@@ -8,7 +8,7 @@ tags: [ development,quality,endosperm,endosperm development,nutritional quality 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb336870](https://www.maizegdb.org/gene_center/gene/Zm00001eb336870)
-- **Gene Symbol:** OCD1;ZmOCD1
+- **Gene Symbol:** <u>OCD1</u>&nbsp;<u>ZmOCD1</u>
 - **Gene Name:** oxalyl-CoA decarboxylase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ nitrogen,root,growth,development,auxin,plant development,seed,root devel
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb038200](https://www.maizegdb.org/gene_center/gene/Zm00001eb038200)
-- **Gene Symbol:** ZmCEP1
+- **Gene Symbol:** <u>ZmCEP1</u>
 - **Gene Name:** C-terminally encoded peptide1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

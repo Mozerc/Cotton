@@ -8,7 +8,7 @@ tags: [ seedlings,growth,drought,stress,drought stress,tolerance,drought toleran
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6A02G181400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6A02G181400)
-- **Gene Symbol:** TaSHN1-6A
+- **Gene Symbol:** <u>TaSHN1-6A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ stress,tolerance,abiotic stress,stress tolerance,stress response,abiotic
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb009570](https://www.maizegdb.org/gene_center/gene/Zm00001eb009570)
-- **Gene Symbol:** ZmSRO1e
+- **Gene Symbol:** <u>ZmSRO1e</u>
 - **Gene Name:** similar to RCD one1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

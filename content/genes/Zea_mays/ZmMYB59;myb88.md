@@ -8,7 +8,7 @@ tags: [ seed,seed germination,nucleus,gibberellin,ga ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb164740](https://www.maizegdb.org/gene_center/gene/Zm00001eb164740)
-- **Gene Symbol:** ZmMYB59;myb88
+- **Gene Symbol:** <u>ZmMYB59</u>&nbsp;<u>myb88</u>
 - **Gene Name:** MYB-transcription factor 88
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

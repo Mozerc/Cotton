@@ -8,7 +8,7 @@ tags: [ heading date,ubiquitin,ubiquitin e3 ligase ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G151900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G151900)
-- **Gene Symbol:** TaGW2L-7A
+- **Gene Symbol:** <u>TaGW2L-7A</u>
 - **Gene Name:** GW2-like RING finger E3 ligase
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

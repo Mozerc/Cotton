@@ -8,7 +8,7 @@ tags: [ growth,development,grain,plant development,stress,grain number,plant gro
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G572900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G572900)
-- **Gene Symbol:** TaSINA
+- **Gene Symbol:** <u>TaSINA</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ branching ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.18g273600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.18g273600)
-- **Gene Symbol:** Dt2
+- **Gene Symbol:** <u>Dt2</u>
 - **Gene Name:** Determinancy gene 2
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -23,7 +23,7 @@ tags: [ branching ]
    - [branching](/tags/branching/)
 
 ## Literature:
-   - [Natural variation of Dt2 determines branching in soybean.]( https://www.nature.com/articles/s41467-022-34153-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-34153-4](https://www.nature.com/articles/s41467-022-34153-4)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36307423](https://pubmed.ncbi.nlm.nih.gov/36307423/)
+   - [Natural variation of Dt2 determines branching in soybean.]( https://www.nature.com/articles/s41467-022-34153-4)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-34153-4](https://www.nature.com/articles/s41467-022-34153-4);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36307423](https://pubmed.ncbi.nlm.nih.gov/36307423/)
 
 ## Related News:
    - [Nature Communications | 田志喜/孔凡江组合作鉴定到大豆分枝数的新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247540220&idx=2&sn=b52c6eb882aae6cc5b25b376ff4573c2&chksm=ce90f0a9f9e779bfb1f8ffe40bc9b65360f26781e2e78b597936059989603b50e49ed52e00ed&scene=27#wechat_redirect)

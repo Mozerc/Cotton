@@ -8,7 +8,7 @@ tags: [ root,kinase,drought,tolerance,drought tolerance,root elongation,protein 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb386990](https://www.maizegdb.org/gene_center/gene/Zm00001eb386990)
-- **Gene Symbol:** ZmTIP1;tipd1;ZmPAT34
+- **Gene Symbol:** <u>ZmTIP1</u>&nbsp;<u>tipd1</u>&nbsp;<u>ZmPAT34</u>
 - **Gene Name:** tip growth defective1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

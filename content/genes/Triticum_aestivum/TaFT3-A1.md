@@ -8,7 +8,7 @@ tags: [ flowering time,flowering,photoperiod response,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G338600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G338600)
-- **Gene Symbol:** TaFT3-A1
+- **Gene Symbol:** <u>TaFT3-A1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

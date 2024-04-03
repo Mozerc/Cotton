@@ -8,7 +8,7 @@ tags: [ leaf,growth,development,leaf development,plant development,sheath,plant 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb244770](https://www.maizegdb.org/gene_center/gene/Zm00001eb244770)
-- **Gene Symbol:** ZmCRY1a1;cry1
+- **Gene Symbol:** <u>ZmCRY1a1</u>&nbsp;<u>cry1</u>
 - **Gene Name:** cryptochrome1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

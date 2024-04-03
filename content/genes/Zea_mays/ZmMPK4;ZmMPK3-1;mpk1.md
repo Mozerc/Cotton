@@ -8,7 +8,7 @@ tags: [ temperature,stress,tolerance,stress tolerance,sugar,reactive oxygen spec
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb397190](https://www.maizegdb.org/gene_center/gene/Zm00001eb397190)
-- **Gene Symbol:** ZmMPK4;ZmMPK3-1;mpk1
+- **Gene Symbol:** <u>ZmMPK4</u>&nbsp;<u>ZmMPK3-1</u>&nbsp;<u>mpk1</u>
 - **Gene Name:** MAP kinase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

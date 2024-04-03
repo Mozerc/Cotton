@@ -8,7 +8,7 @@ tags: [ transcription factor,root,growth,development,resistance,plant developmen
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb255970](https://www.maizegdb.org/gene_center/gene/Zm00001eb255970)
-- **Gene Symbol:** ZmbZIP4
+- **Gene Symbol:** <u>ZmbZIP4</u>
 - **Gene Name:** bZIP-transcription factor 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ resistance,ja,defense,signaling pathway gene,ja biosynthesis,ja signalin
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb024330](https://www.maizegdb.org/gene_center/gene/Zm00001eb024330)
-- **Gene Symbol:** ZmMYC7;ZmMYC2a;bhlh149;ZmMYC2
+- **Gene Symbol:** <u>ZmMYC7</u>&nbsp;<u>ZmMYC2a</u>&nbsp;<u>bhlh149</u>&nbsp;<u>ZmMYC2</u>
 - **Gene Name:** myc transcription factor7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ potassium,transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb048950](https://www.maizegdb.org/gene_center/gene/Zm00001eb048950)
-- **Gene Symbol:** HAK16
+- **Gene Symbol:** <u>HAK16</u>
 - **Gene Name:** potassium high-affinity transporter16
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

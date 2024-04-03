@@ -8,7 +8,7 @@ tags: [ grain,transporter,embryo,endosperm,sugar,sucrose,sugar transport,sucrose
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb113080](https://www.maizegdb.org/gene_center/gene/Zm00001eb113080)
-- **Gene Symbol:** ZmSWEET14a;ZmSWEET3
+- **Gene Symbol:** <u>ZmSWEET14a</u>&nbsp;<u>ZmSWEET3</u>
 - **Gene Name:** sugars will eventually be exported transporter14a
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

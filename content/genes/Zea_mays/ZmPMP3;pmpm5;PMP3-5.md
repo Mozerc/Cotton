@@ -8,7 +8,7 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d022264](https://www.maizegdb.org/gene_center/gene/Zm00001d022264)
-- **Gene Symbol:** ZmPMP3;pmpm5;PMP3-5
+- **Gene Symbol:** <u>ZmPMP3</u>&nbsp;<u>pmpm5</u>&nbsp;<u>PMP3-5</u>
 - **Gene Name:** proteolipid membrane potential regulator5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

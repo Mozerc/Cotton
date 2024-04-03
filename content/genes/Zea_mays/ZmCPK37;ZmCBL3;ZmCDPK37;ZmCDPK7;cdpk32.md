@@ -8,7 +8,7 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb107190](https://www.maizegdb.org/gene_center/gene/Zm00001eb107190)
-- **Gene Symbol:** ZmCPK37;ZmCBL3;ZmCDPK37;ZmCDPK7;cdpk32
+- **Gene Symbol:** <u>ZmCPK37</u>&nbsp;<u>ZmCBL3</u>&nbsp;<u>ZmCDPK37</u>&nbsp;<u>ZmCDPK7</u>&nbsp;<u>cdpk32</u>
 - **Gene Name:** calcium dependent protein kinase32
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

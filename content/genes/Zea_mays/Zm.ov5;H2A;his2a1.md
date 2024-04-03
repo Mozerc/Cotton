@@ -8,7 +8,7 @@ tags: [ ovule ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb397500](https://www.maizegdb.org/gene_center/gene/Zm00001eb397500)
-- **Gene Symbol:** Zm.ov5;H2A;his2a1
+- **Gene Symbol:** <u>Zm.ov5</u>&nbsp;<u>H2A</u>&nbsp;<u>his2a1</u>
 - **Gene Name:** histone2A1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

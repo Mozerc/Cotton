@@ -8,7 +8,7 @@ tags: [ stress,abiotic stress,stomatal,protein translation ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** GhHDA14
+- **Gene Symbol:** <u>GhHDA14</u>
 - **Gene Name:** 
 - **Genome:** [M-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ stress,abiotic stress,stomatal,protein translation ]
    -  These results suggested that **GhHDA14** mediated regulation might not directly influence ROS release.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)&nbsp;,&nbsp;[abiotic-stress](/tags/abiotic-stress/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[protein-translation](/tags/protein-translation/)
+   - [stress](/tags/stress/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[protein-translation](/tags/protein-translation/)
 
 ## Literature:
-   - [GhHSP24.7 mediates mitochondrial protein acetylation to regulate stomatal conductance in response to abiotic stress in cotton]( https://www.sciencedirect.com/science/article/pii/S2214514122002185#s0195)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.09.005](https://www.sciencedirect.com/science/article/pii/S2214514122002185#s0195)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [GhHSP24.7 mediates mitochondrial protein acetylation to regulate stomatal conductance in response to abiotic stress in cotton]( https://www.sciencedirect.com/science/article/pii/S2214514122002185#s0195)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.09.005](https://www.sciencedirect.com/science/article/pii/S2214514122002185#s0195);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | 浙江大学发现棉花HSP24.7调节线粒体组蛋白去乙酰化修饰抵御非生物胁迫](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247538956&idx=4&sn=8336187458a5d0a62342157e7fb07414&chksm=ce90f459f9e77d4fa19afd808f451ba9b85974529511ab4bf2e8330f1fedba7c0d59ddc4e31b&scene=27#wechat_redirect)

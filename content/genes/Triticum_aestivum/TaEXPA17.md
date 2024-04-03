@@ -8,7 +8,7 @@ tags: [ tiller,stress,cell wall,branching,tiller number ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G313100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G313100)
-- **Gene Symbol:** TaEXPA17
+- **Gene Symbol:** <u>TaEXPA17</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

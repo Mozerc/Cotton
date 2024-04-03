@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb185250](https://www.maizegdb.org/gene_center/gene/Zm00001eb185250)
-- **Gene Symbol:** ZmPAL3f;ZmPAL;PAL1;PAL5
+- **Gene Symbol:** <u>ZmPAL3f</u>&nbsp;<u>ZmPAL</u>&nbsp;<u>PAL1</u>&nbsp;<u>PAL5</u>
 - **Gene Name:** phenylalanine ammonia lyase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,growth,development,seedling,root development,root growth,height,lat
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb156910](https://www.maizegdb.org/gene_center/gene/Zm00001eb156910)
-- **Gene Symbol:** ZmIAA5;ZmIAA10;rum1;iaa13
+- **Gene Symbol:** <u>ZmIAA5</u>&nbsp;<u>ZmIAA10</u>&nbsp;<u>rum1</u>&nbsp;<u>iaa13</u>
 - **Gene Name:** rootless with undetectable meristems1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ domestication ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb233790](https://www.maizegdb.org/gene_center/gene/Zm00001eb233790)
-- **Gene Symbol:** ZmCOL12;ZmCOL15;ZmCCT31;ZmBBX16;col18
+- **Gene Symbol:** <u>ZmCOL12</u>&nbsp;<u>ZmCOL15</u>&nbsp;<u>ZmCCT31</u>&nbsp;<u>ZmBBX16</u>&nbsp;<u>col18</u>
 - **Gene Name:** C2C2-CO-like-transcription factor 18
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

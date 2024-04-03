@@ -8,7 +8,7 @@ tags: [ spikelet,spikelet number,flowering time,flowering,vernalization,heading 
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** FT-B1
+- **Gene Symbol:** <u>FT-B1</u>
 - **Gene Name:** FLOWERING LOCUS T
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

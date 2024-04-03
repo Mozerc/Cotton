@@ -8,7 +8,7 @@ tags: [ stress,tolerance,stress tolerance,detoxification ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb059930](https://www.maizegdb.org/gene_center/gene/Zm00001eb059930)
-- **Gene Symbol:** ZmHSP11;ZmGSTU1;GSTU25;gst5
+- **Gene Symbol:** <u>ZmHSP11</u>&nbsp;<u>ZmGSTU1</u>&nbsp;<u>GSTU25</u>&nbsp;<u>gst5</u>
 - **Gene Name:** glutathione transferase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

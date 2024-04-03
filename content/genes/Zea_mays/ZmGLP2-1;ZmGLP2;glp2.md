@@ -8,7 +8,7 @@ tags: [ growth,development,resistance,plant development,stress,ja,blight,oxidati
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb088410](https://www.maizegdb.org/gene_center/gene/Zm00001eb088410)
-- **Gene Symbol:** ZmGLP2-1;ZmGLP2;glp2
+- **Gene Symbol:** <u>ZmGLP2-1</u>&nbsp;<u>ZmGLP2</u>&nbsp;<u>glp2</u>
 - **Gene Name:** germin-like protein2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,spikelet,tiller,inflorescence,architecture,inflorescence arc
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G271300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G271300)
-- **Gene Symbol:** TaTB1-4A
+- **Gene Symbol:** <u>TaTB1-4A</u>
 - **Gene Name:** TEOSINTE BRANCHED1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

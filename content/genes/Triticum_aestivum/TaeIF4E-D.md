@@ -8,7 +8,7 @@ tags: [ resistance,yield,height,plant height,viral resistance,protein translatio
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G527800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G527800)
-- **Gene Symbol:** TaeIF4E-D
+- **Gene Symbol:** <u>TaeIF4E-D</u>
 - **Gene Name:** Eukaryotic initiation factor 4E
 - **Genome:** [IWGSC RefSeq v1.1](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

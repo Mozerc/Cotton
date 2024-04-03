@@ -8,7 +8,7 @@ tags: [ development,kinase,plant development,seed,architecture,seed size,seed de
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb316130](https://www.maizegdb.org/gene_center/gene/Zm00001eb316130)
-- **Gene Symbol:** ZmRLK7;rlk7
+- **Gene Symbol:** <u>ZmRLK7</u>&nbsp;<u>rlk7</u>
 - **Gene Name:** receptor-like protein kinase7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

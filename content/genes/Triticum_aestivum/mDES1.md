@@ -8,7 +8,7 @@ tags: [ stem,disease,cell division,cell death,pcd,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G474300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G474300)
-- **Gene Symbol:** mDES1
+- **Gene Symbol:** <u>mDES1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

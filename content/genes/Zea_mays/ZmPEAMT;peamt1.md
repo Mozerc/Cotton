@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,oxidative stress,salt,oxidative,cold stres
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb155940](https://www.maizegdb.org/gene_center/gene/Zm00001eb155940)
-- **Gene Symbol:** ZmPEAMT;peamt1
+- **Gene Symbol:** <u>ZmPEAMT</u>&nbsp;<u>peamt1</u>
 - **Gene Name:** phosphoethanolamine N-methyltransferase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

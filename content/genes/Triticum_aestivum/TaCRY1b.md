@@ -8,7 +8,7 @@ tags: [ growth,gibberellin,plant growth,height,plant height ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G224100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6B02G224100)
-- **Gene Symbol:** TaCRY1b
+- **Gene Symbol:** <u>TaCRY1b</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

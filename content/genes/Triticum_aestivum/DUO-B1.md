@@ -8,7 +8,7 @@ tags: [ transcription factor,grain,grain number,grain yield,yield,cell division,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1B02G326500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G326500)
-- **Gene Symbol:** DUO-B1
+- **Gene Symbol:** <u>DUO-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

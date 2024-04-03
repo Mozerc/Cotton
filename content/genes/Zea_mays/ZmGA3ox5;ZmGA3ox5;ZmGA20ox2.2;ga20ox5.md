@@ -8,7 +8,7 @@ tags: [ stems,gibberellin,vegetative,reproductive,ga,ga biosynthetic,ga biosynth
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366090](https://www.maizegdb.org/gene_center/gene/Zm00001eb366090)
-- **Gene Symbol:** ZmGA3ox5;ZmGA3ox5;ZmGA20ox2.2;ga20ox5
+- **Gene Symbol:** <u>ZmGA3ox5</u>&nbsp;<u>ZmGA3ox5</u>&nbsp;<u>ZmGA20ox2.2</u>&nbsp;<u>ga20ox5</u>
 - **Gene Name:** gibberellin 20-oxidase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

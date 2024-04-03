@@ -8,7 +8,7 @@ tags: [ growth,development,kinase,plant development,plant growth,height,plant he
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb298700](https://www.maizegdb.org/gene_center/gene/Zm00001eb298700)
-- **Gene Symbol:** Cka4
+- **Gene Symbol:** <u>Cka4</u>
 - **Gene Name:** CK2 protein kinase alpha 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

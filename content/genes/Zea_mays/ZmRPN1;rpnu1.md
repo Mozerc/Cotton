@@ -8,7 +8,7 @@ tags: [ pollen,seed,plasma membrane ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb394080](https://www.maizegdb.org/gene_center/gene/Zm00001eb394080)
-- **Gene Symbol:** ZmRPN1;rpnu1
+- **Gene Symbol:** <u>ZmRPN1</u>&nbsp;<u>rpnu1</u>
 - **Gene Name:** regulator of pollen number1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

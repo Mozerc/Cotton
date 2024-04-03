@@ -8,7 +8,7 @@ tags: [ resistance,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb270940](https://www.maizegdb.org/gene_center/gene/Zm00001eb270940)
-- **Gene Symbol:** ZmMPK6-1;mpk7
+- **Gene Symbol:** <u>ZmMPK6-1</u>&nbsp;<u>mpk7</u>
 - **Gene Name:** MAP kinase7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

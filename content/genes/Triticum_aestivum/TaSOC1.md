@@ -8,7 +8,7 @@ tags: [ flowering time,flowering,vernalization,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G346700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G346700)
-- **Gene Symbol:** TaSOC1
+- **Gene Symbol:** <u>TaSOC1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

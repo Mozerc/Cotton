@@ -8,7 +8,7 @@ tags: [ seedlings,root,growth,drought,stress,drought stress,tolerance,yield,drou
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb015210](https://www.maizegdb.org/gene_center/gene/Zm00001eb015210)
-- **Gene Symbol:** ZmCIPK3;ZmSnRK3.2
+- **Gene Symbol:** <u>ZmCIPK3</u>&nbsp;<u>ZmSnRK3.2</u>
 - **Gene Name:** calcineurin B-like-interacting protein kinase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

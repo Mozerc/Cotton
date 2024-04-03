@@ -8,7 +8,7 @@ tags: [ stress,seed,seed germination,aba,ga ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb196030](https://www.maizegdb.org/gene_center/gene/Zm00001eb196030)
-- **Gene Symbol:** ZmCIPK32;ZmCIPK33;ZmSnRK3.16;ZmCIPK3;cipk33
+- **Gene Symbol:** <u>ZmCIPK32</u>&nbsp;<u>ZmCIPK33</u>&nbsp;<u>ZmSnRK3.16</u>&nbsp;<u>ZmCIPK3</u>&nbsp;<u>cipk33</u>
 - **Gene Name:** calcineurin B-like-interacting protein kinase33
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,development,plant development,mitochondria,plant growth,flowering
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb169670](https://www.maizegdb.org/gene_center/gene/Zm00001eb169670)
-- **Gene Symbol:** Smk4
+- **Gene Symbol:** <u>Smk4</u>
 - **Gene Name:** small kernel4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

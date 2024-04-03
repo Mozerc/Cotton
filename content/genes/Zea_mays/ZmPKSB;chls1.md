@@ -8,7 +8,7 @@ tags: [ pollen,anther,cuticle,cutin,as transport,pollen exine formation,wax bios
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb305800](https://www.maizegdb.org/gene_center/gene/Zm00001eb305800)
-- **Gene Symbol:** ZmPKSB;chls1
+- **Gene Symbol:** <u>ZmPKSB</u>&nbsp;<u>chls1</u>
 - **Gene Name:** chalcone synthase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,leaf angle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb354880](https://www.maizegdb.org/gene_center/gene/Zm00001eb354880)
-- **Gene Symbol:** Lg4
+- **Gene Symbol:** <u>Lg4</u>
 - **Gene Name:** liguleless4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

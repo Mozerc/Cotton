@@ -8,7 +8,7 @@ tags: [ quality,nutritional quality,glycosyltransferase,flavone ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb280950](https://www.maizegdb.org/gene_center/gene/Zm00001eb280950)
-- **Gene Symbol:** ZmCGT1;cgt2
+- **Gene Symbol:** <u>ZmCGT1</u>&nbsp;<u>cgt2</u>
 - **Gene Name:** C-glucosyl transferase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

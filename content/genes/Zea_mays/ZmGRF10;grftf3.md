@@ -8,7 +8,7 @@ tags: [ leaf,growth,development,leaf development,plant development,homeostasis,p
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb320200](https://www.maizegdb.org/gene_center/gene/Zm00001eb320200)
-- **Gene Symbol:** ZmGRF10;grftf3
+- **Gene Symbol:** <u>ZmGRF10</u>&nbsp;<u>grftf3</u>
 - **Gene Name:** GRF-transcription factor 3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

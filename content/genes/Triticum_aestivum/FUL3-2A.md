@@ -8,7 +8,7 @@ tags: [ development,spikelet,plant development,vegetative,meristem,spikelet meri
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G174300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G174300)
-- **Gene Symbol:** FUL3-2A
+- **Gene Symbol:** <u>FUL3-2A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

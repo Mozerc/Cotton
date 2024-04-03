@@ -8,7 +8,7 @@ tags: [ leaf,floral,floral organ,homeobox gene ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb029300](https://www.maizegdb.org/gene_center/gene/Zm00001eb029300)
-- **Gene Symbol:** RS2
+- **Gene Symbol:** <u>RS2</u>
 - **Gene Name:** rough sheath2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

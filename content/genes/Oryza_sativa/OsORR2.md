@@ -9,7 +9,7 @@ tags: [nucleus, height, plant height]
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** OsORR2
+- **Gene Symbol:** <u>OsORR2</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

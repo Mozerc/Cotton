@@ -8,7 +8,7 @@ tags: [ shoot gravitropism,development,shoot,auxin,map-based cloning,nucleus,inf
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb169480](https://www.maizegdb.org/gene_center/gene/Zm00001eb169480)
-- **Gene Symbol:** ZmLA1
+- **Gene Symbol:** <u>ZmLA1</u>
 - **Gene Name:** lazy plant1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

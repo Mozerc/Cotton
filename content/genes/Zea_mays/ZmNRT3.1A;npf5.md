@@ -8,7 +8,7 @@ tags: [ nitrogen,nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb246140](https://www.maizegdb.org/gene_center/gene/Zm00001eb246140)
-- **Gene Symbol:** ZmNRT3.1A;npf5
+- **Gene Symbol:** <u>ZmNRT3.1A</u>&nbsp;<u>npf5</u>
 - **Gene Name:** nitrate transporter/peptide transporter family5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,grain,resistance,grain yield,yield,transporter,plant growth,heigh
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G322000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G322000)
-- **Gene Symbol:** TaTMT3B
+- **Gene Symbol:** <u>TaTMT3B</u>
 - **Gene Name:** Tonoplast monosaccharide transporter 3
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

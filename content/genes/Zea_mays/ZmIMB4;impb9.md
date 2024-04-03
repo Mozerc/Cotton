@@ -8,7 +8,7 @@ tags: [ auxin,seed,homeostasis,seed size,crown ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb011450](https://www.maizegdb.org/gene_center/gene/Zm00001eb011450)
-- **Gene Symbol:** ZmIMB4;impb9
+- **Gene Symbol:** <u>ZmIMB4</u>&nbsp;<u>impb9</u>
 - **Gene Name:** importin beta9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

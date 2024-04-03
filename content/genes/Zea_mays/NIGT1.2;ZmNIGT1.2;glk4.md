@@ -8,7 +8,7 @@ tags: [ transcription factor,nitrate,phosphate,pi,pi uptake,phosphate starvation
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb406610](https://www.maizegdb.org/gene_center/gene/Zm00001eb406610)
-- **Gene Symbol:** NIGT1.2;ZmNIGT1.2;glk4
+- **Gene Symbol:** <u>NIGT1.2</u>&nbsp;<u>ZmNIGT1.2</u>&nbsp;<u>glk4</u>
 - **Gene Name:** NITRATE-INDUCIBLE, GARP-TYPE TRANSCRIPTIOANL REPRESSOR1.2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

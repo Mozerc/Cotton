@@ -8,7 +8,7 @@ tags: [ root,growth,development,plant development,fertility,drought,tolerance,yi
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaNOX7-3A
+- **Gene Symbol:** <u>TaNOX7-3A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

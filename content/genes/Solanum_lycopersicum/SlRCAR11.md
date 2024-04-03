@@ -8,7 +8,7 @@ tags: [ aba,ethylene ]
 
 ## Gene Details:
 - **Gene ID:**	[ Solyc12g055990.1.1]()
-- **Gene Symbol:** SlRCAR11
+- **Gene Symbol:** <u>SlRCAR11</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -19,10 +19,10 @@ tags: [ aba,ethylene ]
    - Suppression of SlRCAR9, **SlRCAR11**, SlRCAR12, and SlRCAR13 alters fruit ripening time and texture in tomato.
 
 ## Function-related keywords:
-   - [aba](/tags/aba/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)
+   - [aba](/tags/aba/),&nbsp;&nbsp;[ethylene](/tags/ethylene/)
 
 ## Literature:
-   - [Co-silencing of ABA receptors (SlRCAR) reveals interactions between ABA and ethylene signaling during tomato fruit ripening.]( https://academic.oup.com/hr/article/doi/10.1093/hr/uhac057/6603453?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhac057](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac057/6603453?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35685223](https://pubmed.ncbi.nlm.nih.gov/35685223/)
+   - [Co-silencing of ABA receptors (SlRCAR) reveals interactions between ABA and ethylene signaling during tomato fruit ripening.]( https://academic.oup.com/hr/article/doi/10.1093/hr/uhac057/6603453?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhac057](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac057/6603453?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35685223](https://pubmed.ncbi.nlm.nih.gov/35685223/)
 
 ## Related News:
    - [Hortic Res | ABA受体(SlRCAR)的共沉默揭示番茄果实成熟过程中ABA和乙烯信号的相互作用](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247545638&idx=6&sn=d8875152f9b91f0ed40850e183f9d731&chksm=e8bd4138dfcac82eb02ffcf27dd04242035fe3033206ff46ec91ba5027b68ead6b8ae8f7fc95&scene=27#wechat_redirect)

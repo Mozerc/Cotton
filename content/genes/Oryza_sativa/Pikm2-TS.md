@@ -9,7 +9,7 @@ tags: [blast]
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Pikm2-TS
+- **Gene Symbol:** <u>Pikm2-TS</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

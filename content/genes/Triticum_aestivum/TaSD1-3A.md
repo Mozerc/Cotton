@@ -8,7 +8,7 @@ tags: [ stem,breeding,dwarf,height,plant height ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A03G0950800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A03G0950800)
-- **Gene Symbol:** TaSD1-3A
+- **Gene Symbol:** <u>TaSD1-3A</u>
 - **Gene Name:** GA 20-oxidase 2
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ development,stress,seed,tolerance,stress tolerance,seed development,heat
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb395600](https://www.maizegdb.org/gene_center/gene/Zm00001eb395600)
-- **Gene Symbol:** ZmGOLS2;gols2;gols3
+- **Gene Symbol:** <u>ZmGOLS2</u>&nbsp;<u>gols2</u>&nbsp;<u>gols3</u>
 - **Gene Name:** GALACTINOL SYNTHASE2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

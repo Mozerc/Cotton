@@ -8,7 +8,7 @@ tags: [ grain,starch,glycosyltransferase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb305810](https://www.maizegdb.org/gene_center/gene/Zm00001eb305810)
-- **Gene Symbol:** ZmGBSS1b;gbss1
+- **Gene Symbol:** <u>ZmGBSS1b</u>&nbsp;<u>gbss1</u>
 - **Gene Name:** granule-bound starch synthase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

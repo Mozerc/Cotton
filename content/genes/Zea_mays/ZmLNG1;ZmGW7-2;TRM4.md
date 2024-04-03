@@ -8,7 +8,7 @@ tags: [ leaf,leaf shape ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb326930](https://www.maizegdb.org/gene_center/gene/Zm00001eb326930)
-- **Gene Symbol:** ZmLNG1;ZmGW7-2;TRM4
+- **Gene Symbol:** <u>ZmLNG1</u>&nbsp;<u>ZmGW7-2</u>&nbsp;<u>TRM4</u>
 - **Gene Name:** protein LONGIFOLIA 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

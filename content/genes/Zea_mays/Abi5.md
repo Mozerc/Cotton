@@ -8,7 +8,7 @@ tags: [ transcription factor,stem,seed,aba,inflorescence,sugar,sugar transport ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb218990](https://www.maizegdb.org/gene_center/gene/Zm00001eb218990)
-- **Gene Symbol:** Abi5
+- **Gene Symbol:** <u>Abi5</u>
 - **Gene Name:** ABI3-VP1-transcription factor 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

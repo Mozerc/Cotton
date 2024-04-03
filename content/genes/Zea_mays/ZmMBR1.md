@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb123630](https://www.maizegdb.org/gene_center/gene/Zm00001eb123630)
-- **Gene Symbol:** ZmMBR1
+- **Gene Symbol:** <u>ZmMBR1</u>
 - **Gene Name:** MED25-BINDING RING-H2 PROTEIN1 ortholog
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

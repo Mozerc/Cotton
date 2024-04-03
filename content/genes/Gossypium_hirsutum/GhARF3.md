@@ -8,7 +8,7 @@ tags: [ development,auxin,quality,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A10G0304]()
-- **Gene Symbol:** GhARF3
+- **Gene Symbol:** <u>GhARF3</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ development,auxin,quality,auxin response ]
    - It is believed that **GhARF3** may be a key gene in cotton fibre development.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)
+   - [development](/tags/development/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/)
 
 ## Literature:
-   - [Genomic signatures and candidate genes of lint yield and fibre quality improvement in Upland cotton in Xinjiang.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13356)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13356](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13356)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32030869](https://pubmed.ncbi.nlm.nih.gov/32030869/)
+   - [Genomic signatures and candidate genes of lint yield and fibre quality improvement in Upland cotton in Xinjiang.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13356)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13356](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13356);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32030869](https://pubmed.ncbi.nlm.nih.gov/32030869/)
 
 ## Related News:
 

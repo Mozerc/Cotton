@@ -8,7 +8,7 @@ tags: [ fertility,sterility,sterile,height,plant height,male sterility,male fert
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb157150](https://www.maizegdb.org/gene_center/gene/Zm00001eb157150)
-- **Gene Symbol:** ZmMS39
+- **Gene Symbol:** <u>ZmMS39</u>
 - **Gene Name:** male sterile39
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

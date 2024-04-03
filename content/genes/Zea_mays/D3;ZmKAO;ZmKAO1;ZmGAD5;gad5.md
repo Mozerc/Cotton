@@ -8,7 +8,7 @@ tags: [ root,gibberellin,ga,dwarf,small leaves,root number ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb379120](https://www.maizegdb.org/gene_center/gene/Zm00001eb379120)
-- **Gene Symbol:** D3;ZmKAO;ZmKAO1;ZmGAD5;gad5
+- **Gene Symbol:** <u>D3</u>&nbsp;<u>ZmKAO</u>&nbsp;<u>ZmKAO1</u>&nbsp;<u>ZmGAD5</u>&nbsp;<u>gad5</u>
 - **Gene Name:** dwarf plant 3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

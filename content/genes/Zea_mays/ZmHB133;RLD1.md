@@ -8,7 +8,7 @@ tags: [ root,growth,development,auxin,root development,root growth,branching,vas
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb404260](https://www.maizegdb.org/gene_center/gene/Zm00001eb404260)
-- **Gene Symbol:** ZmHB133;RLD1
+- **Gene Symbol:** <u>ZmHB133</u>&nbsp;<u>RLD1</u>
 - **Gene Name:** rolled leaf1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

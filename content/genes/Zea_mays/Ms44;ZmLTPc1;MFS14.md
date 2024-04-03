@@ -8,7 +8,7 @@ tags: [ nitrogen,growth,development,fertility,pollen,sterility,seed,tapetum,poll
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb198610](https://www.maizegdb.org/gene_center/gene/Zm00001eb198610)
-- **Gene Symbol:** Ms44;ZmLTPc1;MFS14
+- **Gene Symbol:** <u>Ms44</u>&nbsp;<u>ZmLTPc1</u>&nbsp;<u>MFS14</u>
 - **Gene Name:** male sterile44
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

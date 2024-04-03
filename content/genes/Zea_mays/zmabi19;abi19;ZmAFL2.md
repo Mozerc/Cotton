@@ -8,7 +8,7 @@ tags: [ transcription factor,development,grain,grain size,seed,starch,grain fill
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb361390](https://www.maizegdb.org/gene_center/gene/Zm00001eb361390)
-- **Gene Symbol:** ZmABI19;abi19;ZmAFL2
+- **Gene Symbol:** <u>ZmABI19</u>&nbsp;<u>abi19</u>&nbsp;<u>ZmAFL2</u>
 - **Gene Name:** ABI3-VP1-transcription factor 19
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

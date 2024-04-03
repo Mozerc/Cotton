@@ -8,7 +8,7 @@ tags: [ stress,salt,potassium,salt stress,salt sensitivity,osmotic stress ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G121000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G121000)
-- **Gene Symbol:** TaNHX2-2A
+- **Gene Symbol:** <u>TaNHX2-2A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

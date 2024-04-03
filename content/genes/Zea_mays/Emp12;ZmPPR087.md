@@ -8,7 +8,7 @@ tags: [ development,seed,mitochondria,embryo,endosperm,seed development,endosper
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb068720](https://www.maizegdb.org/gene_center/gene/Zm00001eb068720)
-- **Gene Symbol:** Emp12;ZmPPR087
+- **Gene Symbol:** <u>Emp12</u>&nbsp;<u>ZmPPR087</u>
 - **Gene Name:** empty pericarp12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ jasmonate,defense,salicylic acid,meiosis,wounding,methyl jasmonate ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb352410](https://www.maizegdb.org/gene_center/gene/Zm00001eb352410)
-- **Gene Symbol:** Zmcyc1;CYCIb;cyc1
+- **Gene Symbol:** <u>Zmcyc1</u>&nbsp;<u>CYCIb</u>&nbsp;<u>cyc1</u>
 - **Gene Name:** cyclin1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

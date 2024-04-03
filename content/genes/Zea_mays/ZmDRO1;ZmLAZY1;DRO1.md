@@ -8,7 +8,7 @@ tags: [ root,growth,grain,drought,grain yield,yield,aba,root growth,abscisic aci
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb314060](https://www.maizegdb.org/gene_center/gene/Zm00001eb314060)
-- **Gene Symbol:** ZmDRO1;ZmLAZY1;DRO1
+- **Gene Symbol:** <u>ZmDRO1</u>&nbsp;<u>ZmLAZY1</u>&nbsp;<u>DRO1</u>
 - **Gene Name:** deeper rooting1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

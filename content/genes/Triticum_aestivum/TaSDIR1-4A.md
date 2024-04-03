@@ -8,7 +8,7 @@ tags: [ transcription factor,root,grain,grain length,resistance,drought,stress,d
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaSDIR1-4A
+- **Gene Symbol:** <u>TaSDIR1-4A</u>
 - **Gene Name:** Salt and drought-induced RING finger1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

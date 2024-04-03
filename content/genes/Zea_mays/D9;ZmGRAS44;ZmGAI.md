@@ -8,7 +8,7 @@ tags: [ development,plant development,pollen,anther,sterility,pollen development
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb216610](https://www.maizegdb.org/gene_center/gene/Zm00001eb216610)
-- **Gene Symbol:** D9;ZmGRAS44;ZmGAI
+- **Gene Symbol:** <u>D9</u>&nbsp;<u>ZmGRAS44</u>&nbsp;<u>ZmGAI</u>
 - **Gene Name:** dwarf plant9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

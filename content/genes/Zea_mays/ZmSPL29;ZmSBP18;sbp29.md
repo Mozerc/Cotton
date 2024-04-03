@@ -8,7 +8,7 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb322280](https://www.maizegdb.org/gene_center/gene/Zm00001eb322280)
-- **Gene Symbol:** ZmSPL29;ZmSBP18;sbp29
+- **Gene Symbol:** <u>ZmSPL29</u>&nbsp;<u>ZmSBP18</u>&nbsp;<u>sbp29</u>
 - **Gene Name:** SBP-transcription factor 29
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

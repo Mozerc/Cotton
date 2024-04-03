@@ -8,7 +8,7 @@ tags: [ development,kinase,spikelet,plant development,seed,vegetative,floral,mer
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb228140](https://www.maizegdb.org/gene_center/gene/Zm00001eb228140)
-- **Gene Symbol:** Td1;ZmRLK;ZmKIN5
+- **Gene Symbol:** <u>Td1</u>&nbsp;<u>ZmRLK</u>&nbsp;<u>ZmKIN5</u>
 - **Gene Name:** thick tassel dwarf1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

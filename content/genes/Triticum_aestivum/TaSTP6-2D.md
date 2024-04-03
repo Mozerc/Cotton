@@ -8,7 +8,7 @@ tags: [ aba,transporter,abscisic acid,sugar,powdery mildew,rust,mildew ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D02G230100LC.1](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2D02G230100LC.1)
-- **Gene Symbol:** TaSTP6-2D
+- **Gene Symbol:** <u>TaSTP6-2D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

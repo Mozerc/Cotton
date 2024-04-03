@@ -8,7 +8,7 @@ tags: [ transcription factor,root,growth,development,drought,tolerance,aba,droug
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G024530](https://www.maizegdb.org/gene_center/gene/GRMZM2G024530)
-- **Gene Symbol:** ZmPTF1
+- **Gene Symbol:** <u>ZmPTF1</u>
 - **Gene Name:** Pi starvation-induced transcription factor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

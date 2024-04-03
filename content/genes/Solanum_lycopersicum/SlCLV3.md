@@ -8,7 +8,7 @@ tags: [ auxin,ga,sam ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc11g071380]()
-- **Gene Symbol:** SlCLV3
+- **Gene Symbol:** <u>SlCLV3</u>
 - **Gene Name:** CLAVATA3
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -19,10 +19,10 @@ tags: [ auxin,ga,sam ]
    - **SlCLV3**, in fact underlies the fas mutant phenotype.
 
 ## Function-related keywords:
-   - [auxin](/tags/auxin/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[sam](/tags/sam/)
+   - [auxin](/tags/auxin/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[sam](/tags/sam/)
 
 ## Literature:
-   - [The SlTPL3-SlWUS module regulates multi-locule formation in tomato by modulating auxin and gibberellin levels in the shoot apical meristem.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13347](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35980297](https://pubmed.ncbi.nlm.nih.gov/35980297/)
+   - [The SlTPL3-SlWUS module regulates multi-locule formation in tomato by modulating auxin and gibberellin levels in the shoot apical meristem.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13347](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35980297](https://pubmed.ncbi.nlm.nih.gov/35980297/)
 
 ## Related News:
    - [JIPB | ​华南农业大学园艺学院陈日远教授课题组发现番茄多心室形成调控的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247536664&idx=5&sn=eaffb3de8a589b94a5a6f6f8ca732980&chksm=ce90fd4df9e7745ba737f0e75c0dd8f85e5e4dfc1e4f0dc494d598f221aaece84ef5995a569b&scene=27#wechat_redirect)

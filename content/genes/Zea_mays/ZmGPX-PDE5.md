@@ -8,7 +8,7 @@ tags: [ transcription factor,phosphate,phosphate starvation ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb050070](https://www.maizegdb.org/gene_center/gene/Zm00001eb050070)
-- **Gene Symbol:** ZmGPX-PDE5
+- **Gene Symbol:** <u>ZmGPX-PDE5</u>
 - **Gene Name:** glycerophosphodiester phosphodiesterase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

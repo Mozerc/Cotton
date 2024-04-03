@@ -8,7 +8,7 @@ tags: [ resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5B02G104200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B02G104200)
-- **Gene Symbol:** TaNACL-B1
+- **Gene Symbol:** <u>TaNACL-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

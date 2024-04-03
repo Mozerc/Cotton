@@ -8,7 +8,7 @@ tags: [ leaf,transcription factor,development,leaf development,transcription reg
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb068900](https://www.maizegdb.org/gene_center/gene/Zm00001eb068900)
-- **Gene Symbol:** ZmILI1;ZmbHLH197
+- **Gene Symbol:** <u>ZmILI1</u>&nbsp;<u>ZmbHLH197</u>
 - **Gene Name:** increased leaf inclination1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

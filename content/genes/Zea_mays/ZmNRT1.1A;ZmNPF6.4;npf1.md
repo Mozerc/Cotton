@@ -8,7 +8,7 @@ tags: [ root,resistance,stress,tolerance,root elongation,stress tolerance,transp
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb416090](https://www.maizegdb.org/gene_center/gene/Zm00001eb416090)
-- **Gene Symbol:** ZmNRT1.1A;ZmNPF6.4;npf1
+- **Gene Symbol:** <u>ZmNRT1.1A</u>&nbsp;<u>ZmNPF6.4</u>&nbsp;<u>npf1</u>
 - **Gene Name:** nitrate transporter/peptide transporter family1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

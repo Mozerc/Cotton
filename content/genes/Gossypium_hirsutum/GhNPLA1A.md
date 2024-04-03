@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[GH_A05G4329]()
-- **Gene Symbol:** GhNPLA1A
+- **Gene Symbol:** <u>GhNPLA1A</u>
 - **Gene Name:** 
 - **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
@@ -23,7 +23,7 @@ tags: [  ]
    - [](/tags//)
 
 ## Literature:
-   - [Retrieving a disrupted gene encoding phospholipase A for fibre enhancement in allotetraploid cultivated cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13862)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13862](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13862)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35633313](https://pubmed.ncbi.nlm.nih.gov/35633313/)
+   - [Retrieving a disrupted gene encoding phospholipase A for fibre enhancement in allotetraploid cultivated cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13862)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13862](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13862);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35633313](https://pubmed.ncbi.nlm.nih.gov/35633313/)
 
 ## Related News:
    - [PBJ | 浙江大学棉花精准育种团队恢复进化中丢失的一个磷脂酶A基因能显著提升棉花纤维品质](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247530225&idx=1&sn=8e0e88397b946ded716f864880186ca2&chksm=ce90dba4f9e752b2a2450271f0e0cda9c4e831376564108c0805679784e102e10edc696058b0&scene=27#wechat_redirect)

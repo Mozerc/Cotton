@@ -8,7 +8,7 @@ tags: [ growth,development,plant development,seed,mitochondria,plant growth,seed
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb221050](https://www.maizegdb.org/gene_center/gene/Zm00001eb221050)
-- **Gene Symbol:** Smk11
+- **Gene Symbol:** <u>Smk11</u>
 - **Gene Name:** small kernel11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

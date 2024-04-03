@@ -8,7 +8,7 @@ tags: [ quality,hydrolase ]
 
 ## Gene Details:
 - **Gene ID:**	[CotAD_74480]()
-- **Gene Symbol:** GhGDSL
+- **Gene Symbol:** <u>GhGDSL</u>
 - **Gene Name:** 
 - **Genome:** [Gossypium hirsutum genome (AD)]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ quality,hydrolase ]
    - **GhGDSL** and its promoter are therefore potential tools for the improvement of cotton fibre quality traits.
 
 ## Function-related keywords:
-   - [quality](/tags/quality/)&nbsp;,&nbsp;[hydrolase](/tags/hydrolase/)
+   - [quality](/tags/quality/),&nbsp;&nbsp;[hydrolase](/tags/hydrolase/)
 
 ## Literature:
-   - [GhMYB1 regulates SCW stage-specific expression of the GhGDSL promoter in the fibres of Gossypium hirsutum L.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12706](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28182326](https://pubmed.ncbi.nlm.nih.gov/28182326/)
+   - [GhMYB1 regulates SCW stage-specific expression of the GhGDSL promoter in the fibres of Gossypium hirsutum L.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12706](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28182326](https://pubmed.ncbi.nlm.nih.gov/28182326/)
 
 ## Related News:
 

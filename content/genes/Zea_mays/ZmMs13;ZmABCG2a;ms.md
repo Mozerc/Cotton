@@ -8,7 +8,7 @@ tags: [ pollen,anther,sterility,transporter,cuticle,tapetal,male sterility,pcd,a
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb221130](https://www.maizegdb.org/gene_center/gene/Zm00001eb221130)
-- **Gene Symbol:** ZmMs13;ZmABCG2a;ms
+- **Gene Symbol:** <u>ZmMs13</u>&nbsp;<u>ZmABCG2a</u>&nbsp;<u>ms</u>
 - **Gene Name:** male sterile13
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

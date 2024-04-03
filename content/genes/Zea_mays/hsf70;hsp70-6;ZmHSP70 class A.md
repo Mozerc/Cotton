@@ -8,7 +8,7 @@ tags: [ stress,stress response,heat stress,heat stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb012470](https://www.maizegdb.org/gene_center/gene/Zm00001eb012470)
-- **Gene Symbol:** Hsf70;hsp70-6;ZmHSP70 class A
+- **Gene Symbol:** <u>Hsf70</u>&nbsp;<u>hsp70-6</u>&nbsp;<u>ZmHSP70 class A</u>
 - **Gene Name:** heat shock protein70-6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

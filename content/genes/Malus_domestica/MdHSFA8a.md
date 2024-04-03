@@ -8,7 +8,7 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,ethylene,dr
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000191541]()
-- **Gene Symbol:** MdHSFA8a
+- **Gene Symbol:** <u>MdHSFA8a</u>
 - **Gene Name:** HEAT SHOCK FACTOR A8a
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,ethylene,dr
    - Collectively, these findings provide insight into the mechanism by which stress-inducible **MdHSFA8a** modulates flavonoid synthesis to regulate drought tolerance.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[flavonoid](/tags/flavonoid/),&nbsp;&nbsp;[reactive-oxygen-species](/tags/reactive-oxygen-species/)
 
 ## Literature:
-   - [HEAT SHOCK FACTOR A8a Modulates Flavonoid Synthesis and Drought Tolerance.]( https://academic.oup.com/plphys/article/184/3/1273/6118261?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.01106](https://academic.oup.com/plphys/article/184/3/1273/6118261?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32958560](https://pubmed.ncbi.nlm.nih.gov/32958560/)
+   - [HEAT SHOCK FACTOR A8a Modulates Flavonoid Synthesis and Drought Tolerance.]( https://academic.oup.com/plphys/article/184/3/1273/6118261?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.20.01106](https://academic.oup.com/plphys/article/184/3/1273/6118261?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32958560](https://pubmed.ncbi.nlm.nih.gov/32958560/)
 
 ## Related News:
    - [Plant Physiology丨山东农业大学王楠/陈学森团队揭示MdHSFA8a参与苹果类黄酮合成及干旱胁迫响应的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247496650&idx=6&sn=e3449855926e035c7786f93888f21758&chksm=ce905e9ff9e7d7897e2a4b77991bfd62a21b8919c5f048f5632dcdf6e0bc44a3b944e0e2396c&scene=27#wechat_redirect)

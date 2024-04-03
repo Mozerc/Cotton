@@ -8,7 +8,7 @@ tags: [ resistance,drought,stress,drought stress,domestication,breeding,drought 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb399340](https://www.maizegdb.org/gene_center/gene/Zm00001eb399340)
-- **Gene Symbol:** ZmSRO1d;sro6
+- **Gene Symbol:** <u>ZmSRO1d</u>&nbsp;<u>sro6</u>
 - **Gene Name:** similar to RCD one6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,drought re
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb402220](https://www.maizegdb.org/gene_center/gene/Zm00001eb402220)
-- **Gene Symbol:** ZmHB22;Zmhdz5
+- **Gene Symbol:** <u>ZmHB22</u>&nbsp;<u>Zmhdz5</u>
 - **Gene Name:** Homeobox-transcription factor 22
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,shoot,plant development,inflorescence,inflorescence developm
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb356910](https://www.maizegdb.org/gene_center/gene/Zm00001eb356910)
-- **Gene Symbol:** THI1
+- **Gene Symbol:** <u>THI1</u>
 - **Gene Name:** thiamine biosynthesis1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

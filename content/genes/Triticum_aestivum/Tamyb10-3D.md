@@ -8,7 +8,7 @@ tags: [ transcription factor,grain ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G468400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G468400)
-- **Gene Symbol:** Tamyb10-3D
+- **Gene Symbol:** <u>Tamyb10-3D</u>
 - **Gene Name:** 
 - **Genome:** [IWGSC Refseq v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

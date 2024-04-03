@@ -8,7 +8,7 @@ tags: [ starch,quality,breeding,amylose content ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G309500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G309500)
-- **Gene Symbol:** TaSBEIIa-B
+- **Gene Symbol:** <u>TaSBEIIa-B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

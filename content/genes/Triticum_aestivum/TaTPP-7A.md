@@ -8,7 +8,7 @@ tags: [ temperature,development,grain,domestication,starch,grain quality,quality
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A03G0422300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A03G0422300)
-- **Gene Symbol:** TaTPP-7A
+- **Gene Symbol:** <u>TaTPP-7A</u>
 - **Gene Name:** Trehalose-phosphatase
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

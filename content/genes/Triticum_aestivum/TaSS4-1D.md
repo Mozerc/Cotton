@@ -8,7 +8,7 @@ tags: [ development,grain,pollen,starch,pollen development,endosperm,endosperm d
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G356900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G356900)
-- **Gene Symbol:** TaSS4-1D
+- **Gene Symbol:** <u>TaSS4-1D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

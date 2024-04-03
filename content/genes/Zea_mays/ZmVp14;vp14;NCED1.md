@@ -8,7 +8,7 @@ tags: [ leaf,stress,salinity,aba,salinity stress,stomatal,aba biosynthesis,osmot
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb050380](https://www.maizegdb.org/gene_center/gene/Zm00001eb050380)
-- **Gene Symbol:** ZmVp14;vp14;NCED1
+- **Gene Symbol:** <u>ZmVp14</u>&nbsp;<u>vp14</u>&nbsp;<u>NCED1</u>
 - **Gene Name:** viviparous14
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

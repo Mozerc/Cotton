@@ -8,7 +8,7 @@ tags: [ root,growth,root growth ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5B02G350700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B02G350700)
-- **Gene Symbol:** TaFMO1-5B
+- **Gene Symbol:** <u>TaFMO1-5B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,seedling,tolerance,drought tolerance,stres
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb136750](https://www.maizegdb.org/gene_center/gene/Zm00001eb136750)
-- **Gene Symbol:** GL6;glossy6
+- **Gene Symbol:** <u>GL6</u>&nbsp;<u>glossy6</u>
 - **Gene Name:** glossy6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

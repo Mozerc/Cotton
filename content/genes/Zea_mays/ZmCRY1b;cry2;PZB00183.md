@@ -8,7 +8,7 @@ tags: [ resistance,seedling,ga,lodging,lodging resistance,height,plant height ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb081200](https://www.maizegdb.org/gene_center/gene/Zm00001eb081200)
-- **Gene Symbol:** ZmCRY1b;cry2;PZB00183
+- **Gene Symbol:** <u>ZmCRY1b</u>&nbsp;<u>cry2</u>&nbsp;<u>PZB00183</u>
 - **Gene Name:** cryptochrome2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

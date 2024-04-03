@@ -8,7 +8,7 @@ tags: [ leaf,resistance,map-based cloning,powdery mildew,rust resistance,rust,mi
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G080300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G080300)
-- **Gene Symbol:** Lr34;Yr18;Sr57;Pm38;Ltn1
+- **Gene Symbol:** <u>Lr34</u>&nbsp;<u>Yr18</u>&nbsp;<u>Sr57</u>&nbsp;<u>Pm38</u>&nbsp;<u>Ltn1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

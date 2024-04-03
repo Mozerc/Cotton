@@ -8,7 +8,7 @@ tags: [ tillering,tiller,aba ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G013100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6B02G013100)
-- **Gene Symbol:** TN1
+- **Gene Symbol:** <u>TN1</u>
 - **Gene Name:** Tiller Number1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

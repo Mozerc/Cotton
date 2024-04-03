@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,architecture,vascular development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb245180](https://www.maizegdb.org/gene_center/gene/Zm00001eb245180)
-- **Gene Symbol:** ZmGID2;gid5
+- **Gene Symbol:** <u>ZmGID2</u>&nbsp;<u>gid5</u>
 - **Gene Name:** gibberellin-insensitive dwarf protein homolog5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

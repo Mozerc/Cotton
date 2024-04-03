@@ -8,7 +8,7 @@ tags: [ leaf,root,growth,pollen,seed,pollen wall,vegetative,root growth,cell wal
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb410350](https://www.maizegdb.org/gene_center/gene/Zm00001eb410350)
-- **Gene Symbol:** ZmRALF12;ralf12
+- **Gene Symbol:** <u>ZmRALF12</u>&nbsp;<u>ralf12</u>
 - **Gene Name:** rapid alkalinization factor12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

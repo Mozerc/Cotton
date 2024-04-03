@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb144510](https://www.maizegdb.org/gene_center/gene/Zm00001eb144510)
-- **Gene Symbol:** ZmBBM2;ZmPLT;bbm1;odp2;ereb53
+- **Gene Symbol:** <u>ZmBBM2</u>&nbsp;<u>ZmPLT</u>&nbsp;<u>bbm1</u>&nbsp;<u>odp2</u>&nbsp;<u>ereb53</u>
 - **Gene Name:** AP2-EREBP-transcription factor 53
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

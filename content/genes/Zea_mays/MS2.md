@@ -8,7 +8,7 @@ tags: [ development,pollen,anther,map-based cloning,pollen development,transport
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb386540](https://www.maizegdb.org/gene_center/gene/Zm00001eb386540)
-- **Gene Symbol:** MS2
+- **Gene Symbol:** <u>MS2</u>
 - **Gene Name:** male sterile2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

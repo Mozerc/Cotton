@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,virus ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A06G1407]()
-- **Gene Symbol:** GhSAG20
+- **Gene Symbol:** <u>GhSAG20</u>
 - **Gene Name:** 
 - **Genome:** [reference genome of G. hirsutum (TM-1_V2.1)]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ leaf,leaf senescence,senescence,virus ]
    - Virus-induced gene silencing (VIGS) preliminarily confirmed that knockdown of **GhSAG20** delayed leaf senescence. Collectively, our findings provide a regulatory module involving GhLYI-**GhSAG20** in controlling senescence in cotton.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[virus](/tags/virus/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-senescence](/tags/leaf-senescence/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[virus](/tags/virus/)
 
 ## Literature:
-   - [A truncated ETHYLENE INSENSITIVE3-like protein, GhLYI, regulates senescence in cotton.]( https://academic.oup.com/plphys/article/193/2/1177/7222396?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad395](https://academic.oup.com/plphys/article/193/2/1177/7222396?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37430389](https://pubmed.ncbi.nlm.nih.gov/37430389/)
+   - [A truncated ETHYLENE INSENSITIVE3-like protein, GhLYI, regulates senescence in cotton.]( https://academic.oup.com/plphys/article/193/2/1177/7222396?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad395](https://academic.oup.com/plphys/article/193/2/1177/7222396?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37430389](https://pubmed.ncbi.nlm.nih.gov/37430389/)
 
 ## Related News:
    - [Plant Physiology | 浙江大学张天真团队鉴定了一个调控棉花叶片衰老的截短EIN3/EIL转录因子GhLYI](https://mp.weixin.qq.com/s/og1E9c-EMrXljAjMXQHuuA)

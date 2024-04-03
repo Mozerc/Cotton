@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,transcription activator ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb249320](https://www.maizegdb.org/gene_center/gene/Zm00001eb249320)
-- **Gene Symbol:** ZmERF105;ereb107
+- **Gene Symbol:** <u>ZmERF105</u>&nbsp;<u>ereb107</u>
 - **Gene Name:** AP2-EREBP-transcription factor 107
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

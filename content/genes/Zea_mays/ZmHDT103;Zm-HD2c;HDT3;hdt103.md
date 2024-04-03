@@ -8,7 +8,7 @@ tags: [ seedlings,drought,stress,drought stress,tolerance,aba,drought tolerance,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb294030](https://www.maizegdb.org/gene_center/gene/Zm00001eb294030)
-- **Gene Symbol:** ZmHDT103;Zm-HD2c;HDT3;hdt103
+- **Gene Symbol:** <u>ZmHDT103</u>&nbsp;<u>Zm-HD2c</u>&nbsp;<u>HDT3</u>&nbsp;<u>hdt103</u>
 - **Gene Name:** histone deacetylase103
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

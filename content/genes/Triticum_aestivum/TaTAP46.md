@@ -8,7 +8,7 @@ tags: [ drought,tolerance,aba,drought tolerance,adaptability,drought response ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G142100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G142100)
-- **Gene Symbol:** TaTAP46
+- **Gene Symbol:** <u>TaTAP46</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

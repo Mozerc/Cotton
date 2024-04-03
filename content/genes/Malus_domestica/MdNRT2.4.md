@@ -8,7 +8,7 @@ tags: [ nitrogen,seedlings,root,atpase,tolerance,transporter,plasma membrane,nit
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** MdNRT2.4
+- **Gene Symbol:** <u>MdNRT2.4</u>
 - **Gene Name:** Malus domestica NO3- transporter
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -21,10 +21,10 @@ tags: [ nitrogen,seedlings,root,atpase,tolerance,transporter,plasma membrane,nit
    - The nitrogen concentration of **MdNRT2.4**-overexpressing apple seedlings in unsterilized nitrogen-poor soil was higher than that in sterilized nitrogen-poor soil.
 
 ## Function-related keywords:
-   - [nitrogen](/tags/nitrogen/)&nbsp;,&nbsp;[seedlings](/tags/seedlings/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[atpase](/tags/atpase/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[plasma-membrane](/tags/plasma-membrane/)&nbsp;,&nbsp;[nitrate](/tags/nitrate/)&nbsp;,&nbsp;[nitrate-transporter](/tags/nitrate-transporter/)
+   - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[seedlings](/tags/seedlings/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[atpase](/tags/atpase/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/),&nbsp;&nbsp;[nitrate](/tags/nitrate/),&nbsp;&nbsp;[nitrate-transporter](/tags/nitrate-transporter/)
 
 ## Literature:
-   - [Nitrate transporter MdNRT2.4 interacts with rhizosphere bacteria to enhance nitrate uptake in apple rootstocks.]( https://academic.oup.com/jxb/article/73/18/6490/6632475?login=true#377402840)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac301](https://academic.oup.com/jxb/article/73/18/6490/6632475?login=true#377402840)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35792505](https://pubmed.ncbi.nlm.nih.gov/35792505/)
+   - [Nitrate transporter MdNRT2.4 interacts with rhizosphere bacteria to enhance nitrate uptake in apple rootstocks.]( https://academic.oup.com/jxb/article/73/18/6490/6632475?login=true#377402840)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac301](https://academic.oup.com/jxb/article/73/18/6490/6632475?login=true#377402840);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35792505](https://pubmed.ncbi.nlm.nih.gov/35792505/)
 
 ## Related News:
    - [Journal of Experimental Botany | 中国农大研究揭示根际微生物促进氮吸收的机制！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247541309&idx=8&sn=46029f9d17403af68d275624fcc09fd6&chksm=ce908f68f9e7067e4f8973fba9bfd8876e1bf202945e9a34b47e2c44662501bed9d1fb9cc97f&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ kinase,stress,tolerance,abiotic stress,stress tolerance,protein kinase,c
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb022180](https://www.maizegdb.org/gene_center/gene/Zm00001eb022180)
-- **Gene Symbol:** ZmCDPK6;cdpk37
+- **Gene Symbol:** <u>ZmCDPK6</u>&nbsp;<u>cdpk37</u>
 - **Gene Name:** calcium dependent protein kinase37
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

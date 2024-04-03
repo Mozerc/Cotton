@@ -8,7 +8,7 @@ tags: [ homeostasis,calcium,resistant,virus,pepino mosaic,pepmv ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc02g083430]()
-- **Gene Symbol:** SlOSCA4.1
+- **Gene Symbol:** <u>SlOSCA4.1</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -20,10 +20,10 @@ tags: [ homeostasis,calcium,resistant,virus,pepino mosaic,pepmv ]
    - We propose that **SlOSCA4.1** contributes to the correct regulation of the Ca2+ homeostasis necessary for optimal PepMV infection.
 
 ## Function-related keywords:
-   - [homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[calcium](/tags/calcium/)&nbsp;,&nbsp;[resistant](/tags/resistant/)&nbsp;,&nbsp;[virus](/tags/virus/)&nbsp;,&nbsp;[pepino-mosaic](/tags/pepino-mosaic/)&nbsp;,&nbsp;[pepmv](/tags/pepmv/)
+   - [homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[calcium](/tags/calcium/),&nbsp;&nbsp;[resistant](/tags/resistant/),&nbsp;&nbsp;[virus](/tags/virus/),&nbsp;&nbsp;[pepino-mosaic](/tags/pepino-mosaic/),&nbsp;&nbsp;[pepmv](/tags/pepmv/)
 
 ## Literature:
-   - [The tomato calcium-permeable channel 4.1 (SlOSCA4.1) is a susceptibility factor for pepino mosaic virus.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14119)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14119](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14119)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37448155](https://pubmed.ncbi.nlm.nih.gov/37448155/)
+   - [The tomato calcium-permeable channel 4.1 (SlOSCA4.1) is a susceptibility factor for pepino mosaic virus.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14119)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14119](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14119);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37448155](https://pubmed.ncbi.nlm.nih.gov/37448155/)
 
 ## Related News:
    - [PBJ | 通过大规模突变体筛选鉴定到番茄花叶病毒易感因子SlOSCA4.1助力抗病毒作物育种](https://mp.weixin.qq.com/s/Vi0hMEwwM0So85APbD1jvA)

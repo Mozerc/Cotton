@@ -8,7 +8,7 @@ tags: [ leaf,stomata,epidermis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb418170](https://www.maizegdb.org/gene_center/gene/Zm00001eb418170)
-- **Gene Symbol:** ZmTon2;dcd1
+- **Gene Symbol:** <u>ZmTon2</u>&nbsp;<u>dcd1</u>
 - **Gene Name:** discordia1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

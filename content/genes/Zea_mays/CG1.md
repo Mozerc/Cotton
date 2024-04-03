@@ -8,7 +8,7 @@ tags: [ leaf,root,development,leaf development,domestication,vegetative,root dev
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM5G838324](https://www.maizegdb.org/gene_center/gene/GRMZM5G838324)
-- **Gene Symbol:** Cg1
+- **Gene Symbol:** <u>Cg1</u>
 - **Gene Name:** Corngrass1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

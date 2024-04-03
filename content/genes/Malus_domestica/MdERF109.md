@@ -8,7 +8,7 @@ tags: [ calli ]
 
 ## Gene Details:
 - **Gene ID:**	[MD05G1080900]()
-- **Gene Symbol:** MdERF109
+- **Gene Symbol:** <u>MdERF109</u>
 - **Gene Name:** Malus domestica ethylene response factor 109
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -23,7 +23,7 @@ tags: [ calli ]
    - [calli](/tags/calli/)
 
 ## Literature:
-   - [The long noncoding RNA MdLNC499 bridges MdWRKY1 and MdERF109 function to regulate early-stage light-induced anthocyanin accumulation in apple fruit.]( https://academic.oup.com/plcell/article/33/10/3309/6322998?login=true#305039104)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab188](https://academic.oup.com/plcell/article/33/10/3309/6322998?login=true#305039104)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270784](https://pubmed.ncbi.nlm.nih.gov/34270784/)
+   - [The long noncoding RNA MdLNC499 bridges MdWRKY1 and MdERF109 function to regulate early-stage light-induced anthocyanin accumulation in apple fruit.]( https://academic.oup.com/plcell/article/33/10/3309/6322998?login=true#305039104)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab188](https://academic.oup.com/plcell/article/33/10/3309/6322998?login=true#305039104);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34270784](https://pubmed.ncbi.nlm.nih.gov/34270784/)
 
 ## Related News:
    - [The Plant Cell北京农学院姚允聪/田佶课题组在lncRNA参与调控苹果果皮花色素苷积累研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247514082&idx=6&sn=8ac73d2a5c514ae1a91adb2543b9f66d&chksm=ce901ab7f9e793a138995447273407494bba2e114229c00faa96792d160d5d8ff490569f73fd&scene=27#wechat_redirect)

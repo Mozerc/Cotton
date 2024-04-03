@@ -8,7 +8,7 @@ tags: [ stem,grain,auxin,breeding,cell wall,cell elongation,auxin transport,cell
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb241060](https://www.maizegdb.org/gene_center/gene/Zm00001eb241060)
-- **Gene Symbol:** Bv1
+- **Gene Symbol:** <u>Bv1</u>
 - **Gene Name:** brevis plant1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb036920](https://www.maizegdb.org/gene_center/gene/Zm00001eb036920)
-- **Gene Symbol:** ZmNAC48
+- **Gene Symbol:** <u>ZmNAC48</u>
 - **Gene Name:** NAC-transcription factor 48
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

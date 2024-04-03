@@ -8,7 +8,7 @@ tags: [ leaf,stem,anther,seed,nucleus,endosperm ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb255750](https://www.maizegdb.org/gene_center/gene/Zm00001eb255750)
-- **Gene Symbol:** ZmICK5;cki5
+- **Gene Symbol:** <u>ZmICK5</u>&nbsp;<u>cki5</u>
 - **Gene Name:** cyclin-dependent kinase inhibitor5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

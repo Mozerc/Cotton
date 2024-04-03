@@ -8,7 +8,7 @@ tags: [ transcription factor,development,spikelet,vegetative,inflorescence,steri
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb193790](https://www.maizegdb.org/gene_center/gene/Zm00001eb193790)
-- **Gene Symbol:** TU1;ZmMADS72
+- **Gene Symbol:** <u>TU1</u>&nbsp;<u>ZmMADS72</u>
 - **Gene Name:** Tunicate1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ salt,cold ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb159140](https://www.maizegdb.org/gene_center/gene/Zm00001eb159140)
-- **Gene Symbol:** ZmGPAT10;ZmGPA10;gpat8
+- **Gene Symbol:** <u>ZmGPAT10</u>&nbsp;<u>ZmGPA10</u>&nbsp;<u>gpat8</u>
 - **Gene Name:** glycerol-3-phosphate acyltransferase8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

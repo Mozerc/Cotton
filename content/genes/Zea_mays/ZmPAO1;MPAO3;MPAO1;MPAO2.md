@@ -8,7 +8,7 @@ tags: [ development,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb413630](https://www.maizegdb.org/gene_center/gene/Zm00001eb413630)
-- **Gene Symbol:** ZmPAO1;MPAO3;MPAO1;MPAO2
+- **Gene Symbol:** <u>ZmPAO1</u>&nbsp;<u>MPAO3</u>&nbsp;<u>MPAO1</u>&nbsp;<u>MPAO2</u>
 - **Gene Name:** Polyamine Oxidase 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

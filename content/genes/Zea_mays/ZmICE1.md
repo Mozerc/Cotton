@@ -8,7 +8,7 @@ tags: [ transcription factor,stress,cold stress,cold,stomatal,stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM25173534](https://www.maizegdb.org/gene_center/gene/GRMZM25173534)
-- **Gene Symbol:** ZmICE1
+- **Gene Symbol:** <u>ZmICE1</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

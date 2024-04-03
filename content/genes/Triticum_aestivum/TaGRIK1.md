@@ -8,7 +8,7 @@ tags: [ kinase,protein kinase ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G045900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G045900)
-- **Gene Symbol:** TaGRIK1
+- **Gene Symbol:** <u>TaGRIK1</u>
 - **Gene Name:** Serine/threonine‐protein kinase
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

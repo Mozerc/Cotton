@@ -8,7 +8,7 @@ tags: [ transcription factor,auxin,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb118970](https://www.maizegdb.org/gene_center/gene/Zm00001eb118970)
-- **Gene Symbol:** ZmARF7;ZmARF11;arftf7
+- **Gene Symbol:** <u>ZmARF7</u>&nbsp;<u>ZmARF11</u>&nbsp;<u>arftf7</u>
 - **Gene Name:** ARF-transcription factor 7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

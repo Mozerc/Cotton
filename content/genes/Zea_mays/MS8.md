@@ -8,7 +8,7 @@ tags: [ development,pollen,anther,sterility,pollen development,cell division,ste
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366340](https://www.maizegdb.org/gene_center/gene/Zm00001eb366340)
-- **Gene Symbol:** MS8
+- **Gene Symbol:** <u>MS8</u>
 - **Gene Name:** male sterile8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

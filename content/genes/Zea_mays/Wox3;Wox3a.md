@@ -8,7 +8,7 @@ tags: [ leaf,transcription factor,development,leaf development,leaf patterning ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb265710](https://www.maizegdb.org/gene_center/gene/Zm00001eb265710)
-- **Gene Symbol:** Wox3;Wox3a
+- **Gene Symbol:** <u>Wox3</u>&nbsp;<u>Wox3a</u>
 - **Gene Name:** Wuschel-like homeobox3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

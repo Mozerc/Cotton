@@ -8,7 +8,7 @@ tags: [ leaf,drought,tolerance,nucleus,aba,drought tolerance,blast,cytoplasm ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G191700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G191700)
-- **Gene Symbol:** TaPYL1-1A
+- **Gene Symbol:** <u>TaPYL1-1A</u>
 - **Gene Name:** Polyketide cyclase / dehydrase and lipid transport 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

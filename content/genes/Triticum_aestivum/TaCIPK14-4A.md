@@ -8,7 +8,7 @@ tags: [ resistance,disease,disease resistance,broad-spectrum disease resistance,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G194800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G194800)
-- **Gene Symbol:** TaCIPK14-4A
+- **Gene Symbol:** <u>TaCIPK14-4A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

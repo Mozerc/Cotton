@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G118200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G118200)
-- **Gene Symbol:** TaGI-3D
+- **Gene Symbol:** <u>TaGI-3D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

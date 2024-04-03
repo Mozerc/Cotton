@@ -8,7 +8,7 @@ tags: [ development,seedling,pre-mrna splicing ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb249040](https://www.maizegdb.org/gene_center/gene/Zm00001eb249040)
-- **Gene Symbol:** UBL1
+- **Gene Symbol:** <u>UBL1</u>
 - **Gene Name:** U6 biogenesis like1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

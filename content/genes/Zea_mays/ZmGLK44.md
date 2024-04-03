@@ -8,7 +8,7 @@ tags: [ drought,tolerance,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb058460](https://www.maizegdb.org/gene_center/gene/Zm00001eb058460)
-- **Gene Symbol:** ZmGLK44
+- **Gene Symbol:** <u>ZmGLK44</u>
 - **Gene Name:** G2-like-transcription factor 44
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

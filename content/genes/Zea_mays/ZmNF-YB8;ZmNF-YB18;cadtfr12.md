@@ -8,7 +8,7 @@ tags: [ transcription factor,drought,stress,drought stress,stress response,droug
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb380770](https://www.maizegdb.org/gene_center/gene/Zm00001eb380770)
-- **Gene Symbol:** ZmNF-YB8;ZmNF-YB18;cadtfr12
+- **Gene Symbol:** <u>ZmNF-YB8</u>&nbsp;<u>ZmNF-YB18</u>&nbsp;<u>cadtfr12</u>
 - **Gene Name:** CCAAT-DR1-transcription factor 12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

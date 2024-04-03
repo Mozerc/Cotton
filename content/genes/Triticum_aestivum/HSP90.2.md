@@ -8,7 +8,7 @@ tags: [ resistance,pathogen,resistant,pathogen resistance,powdery mildew,mildew 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G149200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G149200)
-- **Gene Symbol:** HSP90.2
+- **Gene Symbol:** <u>HSP90.2</u>
 - **Gene Name:** Heat Shock Protein 90.2
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

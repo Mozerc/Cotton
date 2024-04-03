@@ -8,7 +8,7 @@ tags: [ kinase,drought,stress,drought stress,tolerance,aba,drought tolerance,str
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G191200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G191200)
-- **Gene Symbol:** TaPYL4-4D
+- **Gene Symbol:** <u>TaPYL4-4D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

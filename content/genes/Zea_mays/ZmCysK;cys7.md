@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb376900](https://www.maizegdb.org/gene_center/gene/Zm00001eb376900)
-- **Gene Symbol:** ZmCysK;cys7
+- **Gene Symbol:** <u>ZmCysK</u>&nbsp;<u>cys7</u>
 - **Gene Name:** cysteine synthase7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

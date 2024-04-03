@@ -8,7 +8,7 @@ tags: [ growth,development,vernalization ]
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** VRN-D4
+- **Gene Symbol:** <u>VRN-D4</u>
 - **Gene Name:** VERNALIZATION 4
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

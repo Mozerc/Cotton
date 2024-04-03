@@ -8,7 +8,7 @@ tags: [ transcription factor,starch,nucleus,endosperm ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb093650](https://www.maizegdb.org/gene_center/gene/Zm00001eb093650)
-- **Gene Symbol:** ZmNAC126
+- **Gene Symbol:** <u>ZmNAC126</u>
 - **Gene Name:** NAC-transcription factor 126
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb061730](https://www.maizegdb.org/gene_center/gene/Zm00001eb061730)
-- **Gene Symbol:** ZmPsaD;pet7
+- **Gene Symbol:** <u>ZmPsaD</u>&nbsp;<u>pet7</u>
 - **Gene Name:** photosynthetic electron transport7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

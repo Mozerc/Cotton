@@ -8,7 +8,7 @@ tags: [ transporter,sugar,sucrose,sucrose transporter,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G116100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G116100)
-- **Gene Symbol:** TaWRKY61
+- **Gene Symbol:** <u>TaWRKY61</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

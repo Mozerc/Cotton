@@ -8,7 +8,7 @@ tags: [ development,auxin,homeostasis,height ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb143310](https://www.maizegdb.org/gene_center/gene/Zm00001eb143310)
-- **Gene Symbol:** PIN5;ZmPIN5a
+- **Gene Symbol:** <u>PIN5</u>&nbsp;<u>ZmPIN5a</u>
 - **Gene Name:** PIN-formed protein5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

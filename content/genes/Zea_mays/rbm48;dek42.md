@@ -8,7 +8,7 @@ tags: [ development,seed,endosperm,seed development,cell proliferation,cellular 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb209860](https://www.maizegdb.org/gene_center/gene/Zm00001eb209860)
-- **Gene Symbol:** RBM48;dek42
+- **Gene Symbol:** <u>RBM48</u>&nbsp;<u>dek42</u>
 - **Gene Name:** RNA binding motif protein 48
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

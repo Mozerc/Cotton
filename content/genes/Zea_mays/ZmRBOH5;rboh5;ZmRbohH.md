@@ -8,7 +8,7 @@ tags: [ development,pollen,anther,stress,pollen development,cold stress,abiotic 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb341910](https://www.maizegdb.org/gene_center/gene/Zm00001eb341910)
-- **Gene Symbol:** ZmRBOH5;rboh5;ZmRbohH
+- **Gene Symbol:** <u>ZmRBOH5</u>&nbsp;<u>rboh5</u>&nbsp;<u>ZmRbohH</u>
 - **Gene Name:** respiratory burst oxidase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,ja,jasmonic,j
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** GhRVE2A
+- **Gene Symbol:** <u>GhRVE2A</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -21,10 +21,10 @@ tags: [ transcription factor,resistance,disease,disease resistance,ja,jasmonic,j
    - RVE2 overexpression significantly enhanced the resistance to VW.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)
 
 ## Literature:
-   - [RVE2, a new regulatory factor in jasmonic acid pathway, orchestrates resistance to Verticillium wilt.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14149)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14149](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14149)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37553251](https://pubmed.ncbi.nlm.nih.gov/37553251/)
+   - [RVE2, a new regulatory factor in jasmonic acid pathway, orchestrates resistance to Verticillium wilt.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14149)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14149](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14149);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37553251](https://pubmed.ncbi.nlm.nih.gov/37553251/)
 
 ## Related News:
    - [PBJ | 南京农业大学棉花遗传与种质创新利用团队发现野生种澳洲棉抗黄萎病新基因，参与JA通路正向调控棉花对黄萎病的抗性](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247578510&idx=3&sn=a2c19d161ac203d303707bc08fb6f8e5&chksm=e90cca21491340ba945d3368b0c7a512e1634631c006bab327353e8053c1e51312166b81f47c&scene=27#wechat_redirect)

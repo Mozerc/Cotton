@@ -8,7 +8,7 @@ tags: [ quality,transporter,endosperm,nutritional quality,amino acid transporter
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366300](https://www.maizegdb.org/gene_center/gene/Zm00001eb366300)
-- **Gene Symbol:** ZmAAP6;aaap55
+- **Gene Symbol:** <u>ZmAAP6</u>&nbsp;<u>aaap55</u>
 - **Gene Name:** amino acid/auxin permease55
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -9,7 +9,7 @@ tags: [potassium, transporter, salt tolerance, salt, root]
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** OsHKT2;2
+- **Gene Symbol:** <u>OsHKT2</u>&nbsp;<u>2</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

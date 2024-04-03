@@ -8,7 +8,7 @@ tags: [ tolerance,aluminum,al tolerance,cell wall,aluminum tolerance,hydrolase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb414340](https://www.maizegdb.org/gene_center/gene/Zm00001eb414340)
-- **Gene Symbol:** ZmXTH;XTHB9;xth3;gpm554
+- **Gene Symbol:** <u>ZmXTH</u>&nbsp;<u>XTHB9</u>&nbsp;<u>xth3</u>&nbsp;<u>gpm554</u>
 - **Gene Name:** xyloglucan endo-transglycosylase/hydrolase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,sugar ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** MdMYB305
+- **Gene Symbol:** <u>MdMYB305</u>
 - **Gene Name:** 
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ transcription factor,sugar ]
    - Heterologous transformation of tomato confirmed that **MdMYB305** promotes the accumulation of sugar and inhibits the synthesis of anthocyanin.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[sugar](/tags/sugar/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[sugar](/tags/sugar/)
 
 ## Literature:
-   - [MdMYB305-MdbHLH33-MdMYB10 regulates sugar and anthocyanin balance in red-fleshed apple fruits.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16100)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16100](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16100)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36606413](https://pubmed.ncbi.nlm.nih.gov/36606413/)
+   - [MdMYB305-MdbHLH33-MdMYB10 regulates sugar and anthocyanin balance in red-fleshed apple fruits.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16100)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16100](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16100);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36606413](https://pubmed.ncbi.nlm.nih.gov/36606413/)
 
 ## Related News:
    - [PJ | 山东农业大学陈学森团队揭示MYB305-bHLH33-MYB10调控苹果果实糖和花青素积累的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247543781&idx=6&sn=2ff07ca5c616bd35b3df46d349662ded&chksm=ce9086b0f9e70fa69993e704d056e9b030a049782e9a5d04a10f7a35935186548e832974b436&scene=27#wechat_redirect)

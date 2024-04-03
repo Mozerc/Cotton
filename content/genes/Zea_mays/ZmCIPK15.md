@@ -8,7 +8,7 @@ tags: [ nitrogen,root,growth,kinase,root growth,plant growth,protein kinase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb051020](https://www.maizegdb.org/gene_center/gene/Zm00001eb051020)
-- **Gene Symbol:** ZmCIPK15
+- **Gene Symbol:** <u>ZmCIPK15</u>
 - **Gene Name:** calcineurin B-like-interacting protein kinase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

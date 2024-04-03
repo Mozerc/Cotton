@@ -8,7 +8,7 @@ tags: [ leaf,seedlings,development,leaf development,drought,tolerance,drought to
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G005200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G005200)
-- **Gene Symbol:** TaHXK3-2A
+- **Gene Symbol:** <u>TaHXK3-2A</u>
 - **Gene Name:** Hexokinase 3
 - **Genome:** [IWGSC reference sequence v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

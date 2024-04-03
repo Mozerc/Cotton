@@ -8,7 +8,7 @@ tags: [ leaf,transcriptional activator ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb221890](https://www.maizegdb.org/gene_center/gene/Zm00001eb221890)
-- **Gene Symbol:** ZmNECAP1
+- **Gene Symbol:** <u>ZmNECAP1</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

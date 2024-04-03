@@ -8,7 +8,7 @@ tags: [ auxin,tiller,auxin biosynthesis,tiller number,tiller bud outgrowth,tille
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G319100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G319100)
-- **Gene Symbol:** TaD27-B
+- **Gene Symbol:** <u>TaD27-B</u>
 - **Gene Name:** Beta-carotene isomerase D27
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

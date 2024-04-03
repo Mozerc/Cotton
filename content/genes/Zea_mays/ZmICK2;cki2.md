@@ -8,7 +8,7 @@ tags: [ stem ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb221920](https://www.maizegdb.org/gene_center/gene/Zm00001eb221920)
-- **Gene Symbol:** ZmICK2;cki2
+- **Gene Symbol:** <u>ZmICK2</u>&nbsp;<u>cki2</u>
 - **Gene Name:** cyclin-dependent kinase inhibitor2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

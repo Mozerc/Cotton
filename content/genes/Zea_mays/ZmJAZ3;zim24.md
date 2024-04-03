@@ -8,7 +8,7 @@ tags: [ fertility,jasmonate,male fertility ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb019470](https://www.maizegdb.org/gene_center/gene/Zm00001eb019470)
-- **Gene Symbol:** ZmJAZ3;zim24
+- **Gene Symbol:** <u>ZmJAZ3</u>&nbsp;<u>zim24</u>
 - **Gene Name:** ZIM-transcription factor 24
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

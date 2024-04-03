@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,ethylene,melatonin,stress response,ethylen
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071190](https://www.maizegdb.org/gene_center/gene/Zm00001eb071190)
-- **Gene Symbol:** ERF4;ERF7;ereb97
+- **Gene Symbol:** <u>ERF4</u>&nbsp;<u>ERF7</u>&nbsp;<u>ereb97</u>
 - **Gene Name:** AP2-EREBP-transcription factor 97
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

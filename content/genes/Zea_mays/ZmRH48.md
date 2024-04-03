@@ -8,7 +8,7 @@ tags: [ development,seed,nucleus,endosperm,seed development,endosperm developmen
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb259260](https://www.maizegdb.org/gene_center/gene/Zm00001eb259260)
-- **Gene Symbol:** ZmRH48
+- **Gene Symbol:** <u>ZmRH48</u>
 - **Gene Name:** DEAD-box RNA helicase 48
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

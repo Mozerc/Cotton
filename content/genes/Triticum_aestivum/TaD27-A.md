@@ -8,7 +8,7 @@ tags: [ development,plant development,architecture,plant architecture ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G418900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G418900)
-- **Gene Symbol:** TaD27-A
+- **Gene Symbol:** <u>TaD27-A</u>
 - **Gene Name:** Beta-carotene isomerase D27
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

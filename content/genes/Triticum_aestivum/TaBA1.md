@@ -8,7 +8,7 @@ tags: [ development,transcription regulator,spike ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G344600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G344600)
-- **Gene Symbol:** TaBA1
+- **Gene Symbol:** <u>TaBA1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

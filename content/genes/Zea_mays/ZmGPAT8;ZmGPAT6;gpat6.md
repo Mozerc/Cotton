@@ -8,7 +8,7 @@ tags: [ development,seed,cold,seed development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb136910](https://www.maizegdb.org/gene_center/gene/Zm00001eb136910)
-- **Gene Symbol:** ZmGPAT8;ZmGPAT6;gpat6
+- **Gene Symbol:** <u>ZmGPAT8</u>&nbsp;<u>ZmGPAT6</u>&nbsp;<u>gpat6</u>
 - **Gene Name:** glycerol-3-phosphate acyltransferase6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

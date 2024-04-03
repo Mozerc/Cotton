@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb246780](https://www.maizegdb.org/gene_center/gene/Zm00001eb246780)
-- **Gene Symbol:** ZmCOL3
+- **Gene Symbol:** <u>ZmCOL3</u>
 - **Gene Name:** C2C2-CO-like-transcription factor 3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

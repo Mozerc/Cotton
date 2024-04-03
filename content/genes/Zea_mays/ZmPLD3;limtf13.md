@@ -8,7 +8,7 @@ tags: [ pollen ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb397900](https://www.maizegdb.org/gene_center/gene/Zm00001eb397900)
-- **Gene Symbol:** ZmPLD3;limtf13
+- **Gene Symbol:** <u>ZmPLD3</u>&nbsp;<u>limtf13</u>
 - **Gene Name:** LIM-transcription factor 13
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

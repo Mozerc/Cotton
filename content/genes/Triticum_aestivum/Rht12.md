@@ -8,7 +8,7 @@ tags: [ stem,ga,dwarf,ga biosynthetic,ga biosynthesis,ga deactivation ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G543100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G543100)
-- **Gene Symbol:** Rht12
+- **Gene Symbol:** <u>Rht12</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

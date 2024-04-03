@@ -8,7 +8,7 @@ tags: [ root,seed,ja,gibberellin,ga,ga biosynthesis,ja biosynthesis,gibberellin 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb122500](https://www.maizegdb.org/gene_center/gene/Zm00001eb122500)
-- **Gene Symbol:** D1;ZmGAOX3
+- **Gene Symbol:** <u>D1</u>&nbsp;<u>ZmGAOX3</u>
 - **Gene Name:** dwarf plant 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

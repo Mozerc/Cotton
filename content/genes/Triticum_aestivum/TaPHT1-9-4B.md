@@ -8,7 +8,7 @@ tags: [ growth,tolerance,transporter,plant growth,transcriptional regulator,phos
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G317000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G317000)
-- **Gene Symbol:** TaPHT1-9-4B
+- **Gene Symbol:** <u>TaPHT1-9-4B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

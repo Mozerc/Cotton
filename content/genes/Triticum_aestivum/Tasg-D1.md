@@ -8,7 +8,7 @@ tags: [ kinase,grain,br,br signaling,drought,grain quality,quality,tolerance,dro
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G137200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G137200)
-- **Gene Symbol:** Tasg-D1
+- **Gene Symbol:** <u>Tasg-D1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

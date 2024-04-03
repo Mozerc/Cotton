@@ -8,7 +8,7 @@ tags: [ transcription factor,grain,domestication,lignin,lignin biosynthesis,spik
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G350600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G350600)
-- **Gene Symbol:** TaLAX1-3A
+- **Gene Symbol:** <u>TaLAX1-3A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

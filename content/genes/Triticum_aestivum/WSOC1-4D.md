@@ -8,7 +8,7 @@ tags: [ seedling leaves,seedling,gibberellin,flowering,vernalization,photoperiod
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G341700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G341700)
-- **Gene Symbol:** WSOC1-4D
+- **Gene Symbol:** <u>WSOC1-4D</u>
 - **Gene Name:** WHEAT SUPPRESSOR OF OVEREXPRESSION OF CO 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

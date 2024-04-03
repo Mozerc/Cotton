@@ -8,7 +8,7 @@ tags: [ growth,kinase,resistance,pathogen,plasma membrane,receptor kinase,pathog
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G500800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G500800)
-- **Gene Symbol:** Stb16q
+- **Gene Symbol:** <u>Stb16q</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ seed ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.17g005600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.17g005600)
-- **Gene Symbol:** GmLEC1b
+- **Gene Symbol:** <u>GmLEC1b</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -22,7 +22,7 @@ tags: [ seed ]
    - [seed](/tags/seed/)
 
 ## Literature:
-   - [Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13533](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28295817](https://pubmed.ncbi.nlm.nih.gov/28295817/)
+   - [Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13533](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28295817](https://pubmed.ncbi.nlm.nih.gov/28295817/)
 
 ## Related News:
 

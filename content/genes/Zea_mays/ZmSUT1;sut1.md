@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,mature leaves,transporter,endosperm,suga
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb005460](https://www.maizegdb.org/gene_center/gene/Zm00001eb005460)
-- **Gene Symbol:** ZmSUT1;sut1
+- **Gene Symbol:** <u>ZmSUT1</u>&nbsp;<u>sut1</u>
 - **Gene Name:** sucrose transporter1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

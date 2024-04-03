@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,cytokinin ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc01g088160]()
-- **Gene Symbol:** SlCKX2
+- **Gene Symbol:** <u>SlCKX2</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -19,10 +19,10 @@ tags: [ leaf,development,leaf development,cytokinin ]
    - Transgenic plants with SlTCP24 and SlTCP29 double-gene knockout had a lowered transcript level of **SlCKX2** and an elevated level of cytokinin.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[cytokinin](/tags/cytokinin/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[cytokinin](/tags/cytokinin/)
 
 ## Literature:
-   - [SlTCP24 and SlTCP29 synergistically regulate compound leaf development through interacting with SlAS2 and activating transcription of SlCKX2 in tomato.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19221?af=R)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19221](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19221?af=R)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37615215](https://pubmed.ncbi.nlm.nih.gov/37615215/)
+   - [SlTCP24 and SlTCP29 synergistically regulate compound leaf development through interacting with SlAS2 and activating transcription of SlCKX2 in tomato.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19221?af=R)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19221](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19221?af=R);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37615215](https://pubmed.ncbi.nlm.nih.gov/37615215/)
 
 ## Related News:
    - [华中农大揭示SlTCP24和SlTCP29 转录因子协同调控番茄复叶发育的分子机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247580168&idx=4&sn=19832879ccbf35c223f4da18cf3e4a0b&chksm=e9503f88a94850994535c960c46c130a7c4ad320c88ad5871bbbc2a575f4eca1e02cea68a7cd&scene=27#wechat_redirect)

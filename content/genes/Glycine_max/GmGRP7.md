@@ -8,7 +8,7 @@ tags: [ stress,stomatal,stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.11G117400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.11G117400)
-- **Gene Symbol:** GmGRP7
+- **Gene Symbol:** <u>GmGRP7</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -19,10 +19,10 @@ tags: [ stress,stomatal,stress response ]
    - Modifying the Dt2-binding sites in the promoter regions of GmSPCH and **GmGRP7** would reduce the expression levels of these two genes.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)&nbsp;,&nbsp;[stomatal](/tags/stomatal/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)
+   - [stress](/tags/stress/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[stress-response](/tags/stress-response/)
 
 ## Literature:
-   - [A Post-domestication Mutation, Dt2, Triggers Systemic Modification of Divergent and Convergent Pathways Modulating Multiple Agronomic Traits in Soybean.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30175-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2019.05.010](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30175-3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31152912](https://pubmed.ncbi.nlm.nih.gov/31152912/)
+   - [A Post-domestication Mutation, Dt2, Triggers Systemic Modification of Divergent and Convergent Pathways Modulating Multiple Agronomic Traits in Soybean.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30175-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2019.05.010](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30175-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31152912](https://pubmed.ncbi.nlm.nih.gov/31152912/)
 
 ## Related News:
    - [普渡大学、山东农大等单位在大豆结荚习性重要基因Dt2功能研究中取得新进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247492031&idx=2&sn=154ffafdb9377bb29816b537529ce8c8&chksm=e8bd93a1dfca1ab789b7d57149b16877d448f2277c0697e6ab73e5d9acdc52e39709b7693598&scene=27#wechat_redirect)

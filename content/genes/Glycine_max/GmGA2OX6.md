@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.13G259400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.13G259400)
-- **Gene Symbol:** GmGA2OX6
+- **Gene Symbol:** <u>GmGA2OX6</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -19,10 +19,10 @@ tags: [ flowering time,flowering ]
    - **GmGA2OX6** regulates photoperiodic days to maturity.
 
 ## Function-related keywords:
-   - [flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [Candidate Genes Modulating Reproductive Timing in Elite US Soybean Lines Identified in Soybean Alleles of Arabidopsis Flowering Orthologs With Divergent Latitude Distribution.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.889066](https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35574141](https://pubmed.ncbi.nlm.nih.gov/35574141/)
+   - [Candidate Genes Modulating Reproductive Timing in Elite US Soybean Lines Identified in Soybean Alleles of Arabidopsis Flowering Orthologs With Divergent Latitude Distribution.]( https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2022.889066](https://www.frontiersin.org/articles/10.3389/fpls.2022.889066/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35574141](https://pubmed.ncbi.nlm.nih.gov/35574141/)
 
 ## Related News:
 

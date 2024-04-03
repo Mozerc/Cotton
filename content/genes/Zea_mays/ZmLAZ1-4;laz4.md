@@ -8,7 +8,7 @@ tags: [ transcription factor,chloroplast,homeostasis,transporter,zinc,plasma mem
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb211390](https://www.maizegdb.org/gene_center/gene/Zm00001eb211390)
-- **Gene Symbol:** ZmLAZ1-4;laz4
+- **Gene Symbol:** <u>ZmLAZ1-4</u>&nbsp;<u>laz4</u>
 - **Gene Name:** lazarus ortholog4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

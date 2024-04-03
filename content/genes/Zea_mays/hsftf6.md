@@ -8,7 +8,7 @@ tags: [ stress,tolerance,stress tolerance,breeding,heat tolerance,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb242480](https://www.maizegdb.org/gene_center/gene/Zm00001eb242480)
-- **Gene Symbol:** Hsftf6
+- **Gene Symbol:** <u>Hsftf6</u>
 - **Gene Name:** HSF-transcription factor 6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

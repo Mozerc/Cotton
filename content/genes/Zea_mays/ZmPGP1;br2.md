@@ -8,7 +8,7 @@ tags: [ leaf,root,development,leaf development,auxin,plant development,domestica
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb038710](https://www.maizegdb.org/gene_center/gene/Zm00001eb038710)
-- **Gene Symbol:** ZmPGP1;br2
+- **Gene Symbol:** <u>ZmPGP1</u>&nbsp;<u>br2</u>
 - **Gene Name:** brachytic2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

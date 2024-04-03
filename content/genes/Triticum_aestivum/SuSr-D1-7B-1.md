@@ -8,7 +8,7 @@ tags: [ stem,resistance,resistant,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G460900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G460900)
-- **Gene Symbol:** SuSr-D1-7B-1
+- **Gene Symbol:** <u>SuSr-D1-7B-1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

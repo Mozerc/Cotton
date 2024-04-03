@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d012373](https://www.maizegdb.org/gene_center/gene/Zm00001d012373)
-- **Gene Symbol:** ZmTLP15;tubtf12
+- **Gene Symbol:** <u>ZmTLP15</u>&nbsp;<u>tubtf12</u>
 - **Gene Name:** TUB-transcription factor 12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

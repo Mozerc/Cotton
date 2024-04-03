@@ -8,7 +8,7 @@ tags: [ spikelet,grain,auxin,panicle,tiller,grain number,grain yield,yield,spike
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G191600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G191600)
-- **Gene Symbol:** TaPIN1-7D
+- **Gene Symbol:** <u>TaPIN1-7D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

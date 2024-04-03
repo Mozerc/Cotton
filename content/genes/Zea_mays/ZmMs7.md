@@ -8,7 +8,7 @@ tags: [ transcription factor,fertility,anther,sterility,seed,map-based cloning,s
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb314550](https://www.maizegdb.org/gene_center/gene/Zm00001eb314550)
-- **Gene Symbol:** ZmMs7
+- **Gene Symbol:** <u>ZmMs7</u>
 - **Gene Name:** male sterile7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

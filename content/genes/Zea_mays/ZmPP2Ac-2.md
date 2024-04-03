@@ -8,7 +8,7 @@ tags: [ auxin,cell division,cell elongation,auxin transport,height,plant height,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb212620](https://www.maizegdb.org/gene_center/gene/Zm00001eb212620)
-- **Gene Symbol:** ZmPP2Ac-2
+- **Gene Symbol:** <u>ZmPP2Ac-2</u>
 - **Gene Name:** prh28 - protein phosphatase homolog28
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

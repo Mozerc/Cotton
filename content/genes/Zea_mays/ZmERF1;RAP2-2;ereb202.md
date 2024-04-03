@@ -8,7 +8,7 @@ tags: [ stress,ethylene,signal transduction,phytohormone,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb099980](https://www.maizegdb.org/gene_center/gene/Zm00001eb099980)
-- **Gene Symbol:** ZmERF1;RAP2-2;ereb202
+- **Gene Symbol:** <u>ZmERF1</u>&nbsp;<u>RAP2-2</u>&nbsp;<u>ereb202</u>
 - **Gene Name:** AP2-EREBP-transcription factor 202
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

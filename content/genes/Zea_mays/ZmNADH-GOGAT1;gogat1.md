@@ -8,7 +8,7 @@ tags: [ nitrogen ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb360480](https://www.maizegdb.org/gene_center/gene/Zm00001eb360480)
-- **Gene Symbol:** ZmNADH-GOGAT1;gogat1
+- **Gene Symbol:** <u>ZmNADH-GOGAT1</u>&nbsp;<u>gogat1</u>
 - **Gene Name:** glutamate synthase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ defense,sa ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb299370](https://www.maizegdb.org/gene_center/gene/Zm00001eb299370)
-- **Gene Symbol:** ZmPR1;ZmPR1a;ZmPR-1-14;prp4
+- **Gene Symbol:** <u>ZmPR1</u>&nbsp;<u>ZmPR1a</u>&nbsp;<u>ZmPR-1-14</u>&nbsp;<u>prp4</u>
 - **Gene Name:** pathogenesis related protein4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

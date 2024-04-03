@@ -8,7 +8,7 @@ tags: [ leaf,shoot gravitropism,development,leaf development,shoot,nucleus,plasm
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb169480](https://www.maizegdb.org/gene_center/gene/Zm00001eb169480)
-- **Gene Symbol:** ZmCLA4;la1;mmp111
+- **Gene Symbol:** <u>ZmCLA4</u>&nbsp;<u>la1</u>&nbsp;<u>mmp111</u>
 - **Gene Name:** lazy plant1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,anther,sterility,stress,ja,anther development,male sterility
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d044612](https://www.maizegdb.org/gene_center/gene/Zm00001d044612)
-- **Gene Symbol:** ZmMs33
+- **Gene Symbol:** <u>ZmMs33</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

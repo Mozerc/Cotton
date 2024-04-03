@@ -8,7 +8,7 @@ tags: [ drought,salt,tolerance,drought tolerance,salt tolerance,sterile,flowerin
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G065800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G065800)
-- **Gene Symbol:** TaCSOD
+- **Gene Symbol:** <u>TaCSOD</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

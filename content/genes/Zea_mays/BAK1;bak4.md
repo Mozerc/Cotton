@@ -8,7 +8,7 @@ tags: [ brassinosteroid,br,auxin,gibberellin,iaa,auxin biosynthesis,cellulose,au
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb288130](https://www.maizegdb.org/gene_center/gene/Zm00001eb288130)
-- **Gene Symbol:** BAK1;bak4
+- **Gene Symbol:** <u>BAK1</u>&nbsp;<u>bak4</u>
 - **Gene Name:** brassinosteroid insensitive1-associated receptor kinase 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

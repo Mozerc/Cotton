@@ -8,7 +8,7 @@ tags: [ immunity,cell death,plant immunity ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d023090](https://www.maizegdb.org/gene_center/gene/Zm00001d023090)
-- **Gene Symbol:** ZmMT3;mtg3
+- **Gene Symbol:** <u>ZmMT3</u>&nbsp;<u>mtg3</u>
 - **Gene Name:** mexicana lesion mimic target gene3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

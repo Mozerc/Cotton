@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb428470](https://www.maizegdb.org/gene_center/gene/Zm00001eb428470)
-- **Gene Symbol:** Ven1;hyd3
+- **Gene Symbol:** <u>Ven1</u>&nbsp;<u>hyd3</u>
 - **Gene Name:** Vitreous endosperm 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

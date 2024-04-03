@@ -8,7 +8,7 @@ tags: [ temperature,stress,stems,oxidative stress,tolerance,oxidative,aba,stress
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb022900](https://www.maizegdb.org/gene_center/gene/Zm00001eb022900)
-- **Gene Symbol:** ZmLEA3
+- **Gene Symbol:** <u>ZmLEA3</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,development,plant development,plant growth,t
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G272400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G272400)
-- **Gene Symbol:** TaMYB4-7D
+- **Gene Symbol:** <u>TaMYB4-7D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

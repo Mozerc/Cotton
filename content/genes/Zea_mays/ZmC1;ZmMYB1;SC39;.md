@@ -8,7 +8,7 @@ tags: [ fluorescence visualization ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb373660](https://www.maizegdb.org/gene_center/gene/Zm00001eb373660)
-- **Gene Symbol:** ZmC1;ZmMYB1;SC39;
+- **Gene Symbol:** <u>ZmC1</u>&nbsp;<u>ZmMYB1</u>&nbsp;<u>SC39</u>
 - **Gene Name:** colored aleurone1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

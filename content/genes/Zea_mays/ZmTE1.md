@@ -8,7 +8,7 @@ tags: [ growth,kinase,auxin,nucleus,cell division,meristem,plant growth,dwarf,ce
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb144140](https://www.maizegdb.org/gene_center/gene/Zm00001eb144140)
-- **Gene Symbol:** ZmTE1
+- **Gene Symbol:** <u>ZmTE1</u>
 - **Gene Name:** TERMINAL EAR 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

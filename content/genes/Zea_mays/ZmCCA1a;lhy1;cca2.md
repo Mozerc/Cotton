@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb415760](https://www.maizegdb.org/gene_center/gene/Zm00001eb415760)
-- **Gene Symbol:** ZmCCA1a;lhy1;cca2
+- **Gene Symbol:** <u>ZmCCA1a</u>&nbsp;<u>lhy1</u>&nbsp;<u>cca2</u>
 - **Gene Name:** late hypocotyl elongation protein ortholog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

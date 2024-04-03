@@ -8,7 +8,7 @@ tags: [ temperature,growth,development,auxin,plant development,mitochondria,infl
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb351270](https://www.maizegdb.org/gene_center/gene/Zm00001eb351270)
-- **Gene Symbol:** ZmNDL1;NDL1
+- **Gene Symbol:** <u>ZmNDL1</u>&nbsp;<u>NDL1</u>
 - **Gene Name:** NEEDLE1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

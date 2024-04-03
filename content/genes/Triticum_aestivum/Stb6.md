@@ -8,7 +8,7 @@ tags: [ kinase,resistance,disease,disease resistance,map-based cloning,pathogen,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G049500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G049500)
-- **Gene Symbol:** Stb6
+- **Gene Symbol:** <u>Stb6</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ transcription factor,kinase,resistance,pathogen,receptor kinase,pathogen
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G147300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6D02G147300)
-- **Gene Symbol:** TaCBF1d
+- **Gene Symbol:** <u>TaCBF1d</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ growth,development,map-based cloning,ga,ga biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb379120](https://www.maizegdb.org/gene_center/gene/Zm00001eb379120)
-- **Gene Symbol:** ZmGAD5;d3
+- **Gene Symbol:** <u>ZmGAD5</u>&nbsp;<u>d3</u>
 - **Gene Name:** dwarf plant3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

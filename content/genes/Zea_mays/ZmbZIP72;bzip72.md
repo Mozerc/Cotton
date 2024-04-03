@@ -8,7 +8,7 @@ tags: [ leaf,transcription factor,drought,stress,drought stress,salt,tolerance,d
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb332590](https://www.maizegdb.org/gene_center/gene/Zm00001eb332590)
-- **Gene Symbol:** ZmbZIP72;bzip72
+- **Gene Symbol:** <u>ZmbZIP72</u>&nbsp;<u>bzip72</u>
 - **Gene Name:** bZIP-transcription factor 72
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

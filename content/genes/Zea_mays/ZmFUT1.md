@@ -8,7 +8,7 @@ tags: [ resistance,yield,architecture,flowering time,resistant,plant architectur
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb058010](https://www.maizegdb.org/gene_center/gene/Zm00001eb058010)
-- **Gene Symbol:** ZmFUT1
+- **Gene Symbol:** <u>ZmFUT1</u>
 - **Gene Name:** O-fucosyltransferase7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

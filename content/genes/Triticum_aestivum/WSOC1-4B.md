@@ -8,7 +8,7 @@ tags: [ seedling leaves,seedling,gibberellin,flowering,vernalization,photoperiod
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G346700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G346700)
-- **Gene Symbol:** WSOC1-4B
+- **Gene Symbol:** <u>WSOC1-4B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

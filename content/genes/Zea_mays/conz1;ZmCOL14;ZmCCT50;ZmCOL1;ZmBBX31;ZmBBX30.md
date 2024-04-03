@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb380460](https://www.maizegdb.org/gene_center/gene/Zm00001eb380460)
-- **Gene Symbol:** conz1;ZmCOL14;ZmCCT50;ZmCOL1;ZmBBX31;ZmBBX30
+- **Gene Symbol:** <u>conz1</u>&nbsp;<u>ZmCOL14</u>&nbsp;<u>ZmCCT50</u>&nbsp;<u>ZmCOL1</u>&nbsp;<u>ZmBBX31</u>&nbsp;<u>ZmBBX30</u>
 - **Gene Name:** constans1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

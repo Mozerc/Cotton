@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb159310](https://www.maizegdb.org/gene_center/gene/Zm00001eb159310)
-- **Gene Symbol:** CYP72A5;cyp11
+- **Gene Symbol:** <u>CYP72A5</u>&nbsp;<u>cyp11</u>
 - **Gene Name:** cytochrome P450 11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

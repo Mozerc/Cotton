@@ -8,7 +8,7 @@ tags: [ leaf,development,spikelet,grain,leaf development,inflorescence,branching
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G157500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G157500)
-- **Gene Symbol:** TaHB-A2
+- **Gene Symbol:** <u>TaHB-A2</u>
 - **Gene Name:** HOMEOBOX DOMAIN-D2
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

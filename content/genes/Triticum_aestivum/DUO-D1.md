@@ -8,7 +8,7 @@ tags: [ grain,grain number,inflorescence,architecture,inflorescence architecture
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G314700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G314700)
-- **Gene Symbol:** DUO-D1
+- **Gene Symbol:** <u>DUO-D1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

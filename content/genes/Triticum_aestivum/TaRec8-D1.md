@@ -8,7 +8,7 @@ tags: [ meiotic ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G427800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G427800)
-- **Gene Symbol:** TaRec8-D1
+- **Gene Symbol:** <u>TaRec8-D1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

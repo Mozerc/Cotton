@@ -8,7 +8,7 @@ tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,fl
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb112080](https://www.maizegdb.org/gene_center/gene/Zm00001eb112080)
-- **Gene Symbol:** ZmPRR37;PRR7.2;cct14
+- **Gene Symbol:** <u>ZmPRR37</u>&nbsp;<u>PRR7.2</u>&nbsp;<u>cct14</u>
 - **Gene Name:** CO CO-LIKE TIMING OF CAB1 protein domain14
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

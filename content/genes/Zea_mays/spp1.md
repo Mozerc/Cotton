@@ -8,7 +8,7 @@ tags: [ grain,pollen,grain filling,pericarp,pollen tube elongation,pollen germin
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb351280](https://www.maizegdb.org/gene_center/gene/Zm00001eb351280)
-- **Gene Symbol:** Spp1
+- **Gene Symbol:** <u>Spp1</u>
 - **Gene Name:** sucrose-phosphatase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

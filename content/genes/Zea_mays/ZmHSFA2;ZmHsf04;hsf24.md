@@ -8,7 +8,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,heat stress,protoplasts
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb047760](https://www.maizegdb.org/gene_center/gene/Zm00001eb047760)
-- **Gene Symbol:** ZmHSFA2;ZmHsf04;hsf24
+- **Gene Symbol:** <u>ZmHSFA2</u>&nbsp;<u>ZmHsf04</u>&nbsp;<u>hsf24</u>
 - **Gene Name:** HEAT SHOCK FACTOR A2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,development,plant development,plant growth,dwarf,height,plant hei
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G215100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G215100)
-- **Gene Symbol:** TaDEP1-5A
+- **Gene Symbol:** <u>TaDEP1-5A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

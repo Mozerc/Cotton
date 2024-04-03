@@ -8,7 +8,7 @@ tags: [ grain,grain protein,kernel texture ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G004000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G004000)
-- **Gene Symbol:** Gsp-1
+- **Gene Symbol:** <u>Gsp-1</u>
 - **Gene Name:** Softness Protein-1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

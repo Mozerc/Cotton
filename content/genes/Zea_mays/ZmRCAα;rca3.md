@@ -8,7 +8,7 @@ tags: [ grain,stems,grain yield,grain filling,yield,grain protein ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb164380](https://www.maizegdb.org/gene_center/gene/Zm00001eb164380)
-- **Gene Symbol:** ZmRCAα;rca3
+- **Gene Symbol:** <u>ZmRCAα</u>&nbsp;<u>rca3</u>
 - **Gene Name:** RUBISCO activase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

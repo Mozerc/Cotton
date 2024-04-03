@@ -8,7 +8,7 @@ tags: [ drought,tolerance,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G465400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G465400)
-- **Gene Symbol:** TaPP2A-2
+- **Gene Symbol:** <u>TaPP2A-2</u>
 - **Gene Name:** type-2A protein phosphatase (PP2A)
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

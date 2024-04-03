@@ -8,7 +8,7 @@ tags: [ root,brassinosteroid,brassinosteroid signaling,drought,stress,drought st
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003120](https://www.maizegdb.org/gene_center/gene/Zm00001eb003120)
-- **Gene Symbol:** BZR1-9
+- **Gene Symbol:** <u>BZR1-9</u>
 - **Gene Name:** BZR-transcription factor 9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

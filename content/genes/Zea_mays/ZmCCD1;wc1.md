@@ -8,7 +8,7 @@ tags: [ grain,endosperm,crown ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb402840](https://www.maizegdb.org/gene_center/gene/Zm00001eb402840)
-- **Gene Symbol:** ZmCCD1;Wc1
+- **Gene Symbol:** <u>ZmCCD1</u>&nbsp;<u>Wc1</u>
 - **Gene Name:** white cap1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

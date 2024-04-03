@@ -8,7 +8,7 @@ tags: [ nitrogen,transcription factor,root ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb231720](https://www.maizegdb.org/gene_center/gene/Zm00001eb231720)
-- **Gene Symbol:** ZmNLP5;ZmNLP3.4;nlp15;IDP64
+- **Gene Symbol:** <u>ZmNLP5</u>&nbsp;<u>ZmNLP3.4</u>&nbsp;<u>nlp15</u>&nbsp;<u>IDP64</u>
 - **Gene Name:** NLP-transcription factor 15
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

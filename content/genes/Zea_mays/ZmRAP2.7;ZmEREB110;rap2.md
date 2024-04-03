@@ -8,7 +8,7 @@ tags: [ transcription factor,development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb355240](https://www.maizegdb.org/gene_center/gene/Zm00001eb355240)
-- **Gene Symbol:** ZmRAP2.7;ZmEREB110;rap2
+- **Gene Symbol:** <u>ZmRAP2.7</u>&nbsp;<u>ZmEREB110</u>&nbsp;<u>rap2</u>
 - **Gene Name:** rap2.7 orthologue
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

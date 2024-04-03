@@ -8,7 +8,7 @@ tags: [ grain,transporter,cell wall,sugar,sucrose,sugar transport,as transport,s
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb350590](https://www.maizegdb.org/gene_center/gene/Zm00001eb350590)
-- **Gene Symbol:** ZmSWEET3a;ZmSWEET15;ZmSWEET16
+- **Gene Symbol:** <u>ZmSWEET3a</u>&nbsp;<u>ZmSWEET15</u>&nbsp;<u>ZmSWEET16</u>
 - **Gene Name:** sugars will eventually be exported transporter3a
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

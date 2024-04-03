@@ -8,7 +8,7 @@ tags: [ auxin ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb113360](https://www.maizegdb.org/gene_center/gene/Zm00001eb113360)
-- **Gene Symbol:** ZmGH3.13;ZmGH3.3;aas3
+- **Gene Symbol:** <u>ZmGH3.13</u>&nbsp;<u>ZmGH3.3</u>&nbsp;<u>aas3</u>
 - **Gene Name:** auxin amido synthetase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

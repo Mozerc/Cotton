@@ -8,7 +8,7 @@ tags: [ detoxification ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb397280](https://www.maizegdb.org/gene_center/gene/Zm00001eb397280)
-- **Gene Symbol:** GSTZ5;gst61
+- **Gene Symbol:** <u>GSTZ5</u>&nbsp;<u>gst61</u>
 - **Gene Name:** glutathione S-transferase61
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

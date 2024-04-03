@@ -8,7 +8,7 @@ tags: [ seed,quality,yield,oil content,lipid metabolism ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.01g42420](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.01g42420)
-- **Gene Symbol:** GmPLDγ
+- **Gene Symbol:** <u>GmPLDγ</u>
 - **Gene Name:** 
 - **Genome:** [Glyma.Wm82.gmn1](https://phytozome-next.jgi.doe.gov/info/Glyma.Wm82.gmn1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ seed,quality,yield,oil content,lipid metabolism ]
    - Overexpression of **GmPLDγ** alters the membrane-lipid composition.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[oil-content](/tags/oil-content/)&nbsp;,&nbsp;[lipid-metabolism](/tags/lipid-metabolism/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[oil-content](/tags/oil-content/),&nbsp;&nbsp;[lipid-metabolism](/tags/lipid-metabolism/)
 
 ## Literature:
-   - [Overexpression of soybean GmPLDγ enhances seed oil content and modulates fatty acid composition in transgenic Arabidopsis.]( https://www.sciencedirect.com/science/article/pii/S0168945219308404?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110298](https://www.sciencedirect.com/science/article/pii/S0168945219308404?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31779909](https://pubmed.ncbi.nlm.nih.gov/31779909/)
+   - [Overexpression of soybean GmPLDγ enhances seed oil content and modulates fatty acid composition in transgenic Arabidopsis.]( https://www.sciencedirect.com/science/article/pii/S0168945219308404?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110298](https://www.sciencedirect.com/science/article/pii/S0168945219308404?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31779909](https://pubmed.ncbi.nlm.nih.gov/31779909/)
 
 ## Related News:
 

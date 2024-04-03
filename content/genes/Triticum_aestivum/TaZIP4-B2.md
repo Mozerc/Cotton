@@ -8,7 +8,7 @@ tags: [ crossover,synapsis ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5B02G255100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B02G255100)
-- **Gene Symbol:** TaZIP4-B2
+- **Gene Symbol:** <u>TaZIP4-B2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ resistance,jasmonate,defense response,defense,jasmonate response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb134020](https://www.maizegdb.org/gene_center/gene/Zm00001eb134020)
-- **Gene Symbol:** ZmLOX12;lox12
+- **Gene Symbol:** <u>ZmLOX12</u>&nbsp;<u>lox12</u>
 - **Gene Name:** lipoxygenase12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,auxin,root initiation,lateral root,primary root ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb191170](https://www.maizegdb.org/gene_center/gene/Zm00001eb191170)
-- **Gene Symbol:** Lbd24
+- **Gene Symbol:** <u>Lbd24</u>
 - **Gene Name:** LBD-transcription factor 24
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

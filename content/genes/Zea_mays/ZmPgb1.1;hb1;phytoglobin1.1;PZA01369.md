@@ -8,7 +8,7 @@ tags: [ stem,root,auxin,ja,jasmonic,jasmonic acid ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb399590](https://www.maizegdb.org/gene_center/gene/Zm00001eb399590)
-- **Gene Symbol:** ZmPgb1.1;hb1;phytoglobin1.1;PZA01369
+- **Gene Symbol:** <u>ZmPgb1.1</u>&nbsp;<u>hb1</u>&nbsp;<u>phytoglobin1.1</u>&nbsp;<u>PZA01369</u>
 - **Gene Name:** hemoglobin1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

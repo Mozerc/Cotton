@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc06g054310]()
-- **Gene Symbol:** SlFAF3;4b
+- **Gene Symbol:** <u>SlFAF3</u>&nbsp;<u>4b</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -22,7 +22,7 @@ tags: [ flowering ]
    - [flowering](/tags/flowering/)
 
 ## Literature:
-   - [CRISPR/Cas9-mediated mutations of FANTASTIC FOUR gene family for creating early flowering mutants in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14223](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37942846](https://pubmed.ncbi.nlm.nih.gov/37942846/)
+   - [CRISPR/Cas9-mediated mutations of FANTASTIC FOUR gene family for creating early flowering mutants in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14223](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14223);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37942846](https://pubmed.ncbi.nlm.nih.gov/37942846/)
 
 ## Related News:
    - [PBJ |华中农大番茄课题组揭示FAF基因家族对番茄开花时间的多效性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247559297&idx=1&sn=6d91e0ad8a43cc2a8e77ee6ebd478150&chksm=badc15c7a4450326e7f59306e3b9623f77f2e72b0e1fe971642e95fe039b7c07dfa9391cea5c&scene=27#wechat_redirect)

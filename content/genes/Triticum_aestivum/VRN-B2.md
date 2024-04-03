@@ -8,7 +8,7 @@ tags: [ temperature,flower,flowering,vernalization ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G372700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G372700)
-- **Gene Symbol:** VRN-B2
+- **Gene Symbol:** <u>VRN-B2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

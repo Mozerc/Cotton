@@ -8,7 +8,7 @@ tags: [ stress,tolerance,stress tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb418060](https://www.maizegdb.org/gene_center/gene/Zm00001eb418060)
-- **Gene Symbol:** ZmGSTF3;ZmGSTF2;ZmHSP33;gst2
+- **Gene Symbol:** <u>ZmGSTF3</u>&nbsp;<u>ZmGSTF2</u>&nbsp;<u>ZmHSP33</u>&nbsp;<u>gst2</u>
 - **Gene Name:** glutathione S-transferase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

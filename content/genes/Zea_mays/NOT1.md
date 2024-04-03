@@ -8,7 +8,7 @@ tags: [ stem,development,architecture ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb175190](https://www.maizegdb.org/gene_center/gene/Zm00001eb175190)
-- **Gene Symbol:** NOT1
+- **Gene Symbol:** <u>NOT1</u>
 - **Gene Name:** neighbor of tga1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

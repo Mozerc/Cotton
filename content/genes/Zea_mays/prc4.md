@@ -8,7 +8,7 @@ tags: [ development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb235880](https://www.maizegdb.org/gene_center/gene/Zm00001eb235880)
-- **Gene Symbol:** Prc4
+- **Gene Symbol:** <u>Prc4</u>
 - **Gene Name:** proteasome component4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

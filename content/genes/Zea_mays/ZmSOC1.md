@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,seed,quality,yield,reproductive,zinc,plant g
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb403750](https://www.maizegdb.org/gene_center/gene/Zm00001eb403750)
-- **Gene Symbol:** ZmSOC1
+- **Gene Symbol:** <u>ZmSOC1</u>
 - **Gene Name:** SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

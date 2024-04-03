@@ -8,7 +8,7 @@ tags: [ leaf,root,growth,development,grain,leaf development,plant development,gr
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb428490](https://www.maizegdb.org/gene_center/gene/Zm00001eb428490)
-- **Gene Symbol:** ZmACS7
+- **Gene Symbol:** <u>ZmACS7</u>
 - **Gene Name:** 1-aminocyclopropane-1-carboxylate synthase7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

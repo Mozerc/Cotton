@@ -8,7 +8,7 @@ tags: [ development,starch,mitochondria,endosperm,endosperm development,starch a
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb045790](https://www.maizegdb.org/gene_center/gene/Zm00001eb045790)
-- **Gene Symbol:** ZmMdh4;mdh4
+- **Gene Symbol:** <u>ZmMdh4</u>&nbsp;<u>mdh4</u>
 - **Gene Name:** malate dehydrogenase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

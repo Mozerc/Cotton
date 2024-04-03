@@ -8,7 +8,7 @@ tags: [ nitrogen,kinase,sucrose ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb094400](https://www.maizegdb.org/gene_center/gene/Zm00001eb094400)
-- **Gene Symbol:** ZmSnRK1a2;ZmSnRK1.2;ZmSnRK1.3
+- **Gene Symbol:** <u>ZmSnRK1a2</u>&nbsp;<u>ZmSnRK1.2</u>&nbsp;<u>ZmSnRK1.3</u>
 - **Gene Name:** SNF1-related kinase alpha1-like2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

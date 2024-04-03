@@ -8,7 +8,7 @@ tags: [ root,auxin,architecture,auxin response,auxin transport,root architecture
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb135550](https://www.maizegdb.org/gene_center/gene/Zm00001eb135550)
-- **Gene Symbol:** ZmRSA3.1
+- **Gene Symbol:** <u>ZmRSA3.1</u>
 - **Gene Name:** ZmROOT SYSTEM ARCHITECTURE 3.1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

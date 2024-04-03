@@ -8,7 +8,7 @@ tags: [ leaf,seedlings,development,leaf development,stomatal,leaf size,stomatal 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G016000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G016000)
-- **Gene Symbol:** TaHXK3-2B
+- **Gene Symbol:** <u>TaHXK3-2B</u>
 - **Gene Name:** Hexokinase 3
 - **Genome:** [IWGSC reference sequence v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

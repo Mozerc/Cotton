@@ -8,7 +8,7 @@ tags: [ vascular bundle,potassium,homeostasis,transporter,epidermis,potassium up
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb084630](https://www.maizegdb.org/gene_center/gene/Zm00001eb084630)
-- **Gene Symbol:** ZmHAK1;umc2250
+- **Gene Symbol:** <u>ZmHAK1</u>&nbsp;<u>umc2250</u>
 - **Gene Name:** potassium high-affinity transporter1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

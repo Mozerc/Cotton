@@ -8,7 +8,7 @@ tags: [ flowering,vernalization,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G594300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G594300)
-- **Gene Symbol:** WPCL1-3B
+- **Gene Symbol:** <u>WPCL1-3B</u>
 - **Gene Name:** 
 - **Genome:** [Description:	Presumptive loss-of-function mutations in all WPCL1 homoeologous genes were found in ‘Chogokuwase’ and ‘Geurumil’, one of the parental cultivars.](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

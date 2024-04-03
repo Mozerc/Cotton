@@ -8,7 +8,7 @@ tags: [ disease,blight,blight disease ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** MdDIPM4
+- **Gene Symbol:** <u>MdDIPM4</u>
 - **Gene Name:** Malus domestica DspA/E-interacting proteins of M.4
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ disease,blight,blight disease ]
    - The knockout of **MdDIPM4** resulted in a highly significant reduction in susceptibility, on average 50% in both cultivars. 
 
 ## Function-related keywords:
-   - [disease](/tags/disease/)&nbsp;,&nbsp;[blight](/tags/blight/)&nbsp;,&nbsp;[blight-disease](/tags/blight-disease/)
+   - [disease](/tags/disease/),&nbsp;&nbsp;[blight](/tags/blight/),&nbsp;&nbsp;[blight-disease](/tags/blight-disease/)
 
 ## Literature:
-   - [Insights into the effect of human civilization on Malus evolution and domestication.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13253)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13648](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13253)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34161653](https://pubmed.ncbi.nlm.nih.gov/34161653/)
+   - [Insights into the effect of human civilization on Malus evolution and domestication.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13253)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13648](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13253);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34161653](https://pubmed.ncbi.nlm.nih.gov/34161653/)
 
 ## Related News:
    - [PBJ | 利用CRISPR：Cas9 - FLP：FRT 高效基因编辑系统提高苹果对火疫病的抗性并能删除外源DNA片段！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247485705&idx=1&sn=b15331c1fdeda25380a7ca1936c29234&chksm=ce93a45cf9e42d4a73dba712c671fd031b97c8dbea2169d1faed6eeebb74864db2eb09b0274c&scene=27#wechat_redirect)

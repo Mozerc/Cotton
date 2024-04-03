@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb037120](https://www.maizegdb.org/gene_center/gene/Zm00001eb037120)
-- **Gene Symbol:** RBR3
+- **Gene Symbol:** <u>RBR3</u>
 - **Gene Name:** retinoblastoma family3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,pollen,reproductive,breeding,reproductive growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb239230](https://www.maizegdb.org/gene_center/gene/Zm00001eb239230)
-- **Gene Symbol:** ZmGa2P
+- **Gene Symbol:** <u>ZmGa2P</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,grain,grain size,grain yield,yield,cell division,breeding,ce
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A01G212900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A01G212900)
-- **Gene Symbol:** TaGS5-3A
+- **Gene Symbol:** <u>TaGS5-3A</u>
 - **Gene Name:** 
 - **Genome:** [IWGSC Refseq v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

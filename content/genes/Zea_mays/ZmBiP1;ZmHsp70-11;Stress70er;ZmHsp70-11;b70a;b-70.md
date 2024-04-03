@@ -8,7 +8,7 @@ tags: [ stress,tolerance,stress tolerance,heat tolerance,er stress,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb229930](https://www.maizegdb.org/gene_center/gene/Zm00001eb229930)
-- **Gene Symbol:** ZmBiP1;ZmHsp70-11;Stress70er;ZmHsp70-11;b70a;b-70
+- **Gene Symbol:** <u>ZmBiP1</u>&nbsp;<u>ZmHsp70-11</u>&nbsp;<u>Stress70er</u>&nbsp;<u>ZmHsp70-11</u>&nbsp;<u>b70a</u>&nbsp;<u>b-70</u>
 - **Gene Name:** Binding protein homolog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

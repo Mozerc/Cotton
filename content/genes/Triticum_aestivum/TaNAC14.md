@@ -8,7 +8,7 @@ tags: [ seedlings,root,growth,development,resistance,drought,stress,drought stre
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G338300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G338300)
-- **Gene Symbol:** TaNAC14
+- **Gene Symbol:** <u>TaNAC14</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

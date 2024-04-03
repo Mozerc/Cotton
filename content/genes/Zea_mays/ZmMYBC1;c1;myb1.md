@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,flavonoid,transcriptional activat
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb373660](https://www.maizegdb.org/gene_center/gene/Zm00001eb373660)
-- **Gene Symbol:** ZmMYBC1;c1;myb1
+- **Gene Symbol:** <u>ZmMYBC1</u>&nbsp;<u>c1</u>&nbsp;<u>myb1</u>
 - **Gene Name:** colored aleurone1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

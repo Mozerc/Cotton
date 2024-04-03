@@ -8,7 +8,7 @@ tags: [ leaf,root,development,leaf development,root development,meristem,endospe
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb332550](https://www.maizegdb.org/gene_center/gene/Zm00001eb332550)
-- **Gene Symbol:** CycZmG1;cycZme1;cyc5
+- **Gene Symbol:** <u>CycZmG1</u>&nbsp;<u>cycZme1</u>&nbsp;<u>cyc5</u>
 - **Gene Name:** cyclin5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

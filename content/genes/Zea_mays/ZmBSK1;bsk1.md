@@ -8,7 +8,7 @@ tags: [ kinase,brassinosteroid,brassinosteroid signaling,drought,stress,drought 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb402560](https://www.maizegdb.org/gene_center/gene/Zm00001eb402560)
-- **Gene Symbol:** ZmBSK1;bsk1
+- **Gene Symbol:** <u>ZmBSK1</u>&nbsp;<u>bsk1</u>
 - **Gene Name:** brassinosteroid-signaling kinase 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

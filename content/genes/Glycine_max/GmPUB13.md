@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma12g06860](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma12g06860)
-- **Gene Symbol:** GmPUB13
+- **Gene Symbol:** <u>GmPUB13</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -22,7 +22,7 @@ tags: [  ]
    - [](/tags//)
 
 ## Literature:
-   - [Phytophthora sojae effector Avr1d functions as an E2 competitor and inhibits ubiquitination activity of GmPUB13 to facilitate infection.]( https://www.pnas.org/doi/full/10.1073/pnas.2018312118#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2018312118](https://www.pnas.org/doi/full/10.1073/pnas.2018312118#supplementary-materials)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33658365](https://pubmed.ncbi.nlm.nih.gov/33658365/)
+   - [Phytophthora sojae effector Avr1d functions as an E2 competitor and inhibits ubiquitination activity of GmPUB13 to facilitate infection.]( https://www.pnas.org/doi/full/10.1073/pnas.2018312118#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2018312118](https://www.pnas.org/doi/full/10.1073/pnas.2018312118#supplementary-materials);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33658365](https://pubmed.ncbi.nlm.nih.gov/33658365/)
 
 ## Related News:
    - [PNAS|南京农大等单位以疫霉菌效应子Avr1d为分子探针破解大豆的抗病机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247509514&idx=1&sn=05c9d8159d742bab622b5bfbd82739b8&chksm=e8bdd414dfca5d021e71da9990980f5dfbba52e9e1f47d94352e40206a2702a2c56ac535d6bb&scene=27#wechat_redirect)

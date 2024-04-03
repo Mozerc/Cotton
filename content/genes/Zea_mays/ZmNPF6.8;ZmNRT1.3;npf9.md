@@ -8,7 +8,7 @@ tags: [ nitrogen,leaf,nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb245250](https://www.maizegdb.org/gene_center/gene/Zm00001eb245250)
-- **Gene Symbol:** ZmNPF6.8;ZmNRT1.3;npf9
+- **Gene Symbol:** <u>ZmNPF6.8</u>&nbsp;<u>ZmNRT1.3</u>&nbsp;<u>npf9</u>
 - **Gene Name:** nitrate transporter/peptide transporter family9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

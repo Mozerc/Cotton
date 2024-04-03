@@ -8,7 +8,7 @@ tags: [ leaf,brassinosteroid,architecture,plant architecture,leaf angle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb073010](https://www.maizegdb.org/gene_center/gene/Zm00001eb073010)
-- **Gene Symbol:** ZmRAVL1;abi12
+- **Gene Symbol:** <u>ZmRAVL1</u>&nbsp;<u>abi12</u>
 - **Gene Name:** ABI3-VP1-transcription factor 12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

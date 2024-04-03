@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb050790](https://www.maizegdb.org/gene_center/gene/Zm00001eb050790)
-- **Gene Symbol:** ZmPIF4.2;ZmPIF5;bhlh43;ZmbHLH27
+- **Gene Symbol:** <u>ZmPIF4.2</u>&nbsp;<u>ZmPIF5</u>&nbsp;<u>bhlh43</u>&nbsp;<u>ZmbHLH27</u>
 - **Gene Name:** bHLH-transcription factor 43
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

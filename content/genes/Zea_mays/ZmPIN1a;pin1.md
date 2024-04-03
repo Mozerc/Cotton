@@ -8,7 +8,7 @@ tags: [ root,auxin,architecture,auxin transport,height,plant height,nitrate,plan
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb372180](https://www.maizegdb.org/gene_center/gene/Zm00001eb372180)
-- **Gene Symbol:** ZmPIN1a;pin1
+- **Gene Symbol:** <u>ZmPIN1a</u>&nbsp;<u>pin1</u>
 - **Gene Name:** PIN-formed protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

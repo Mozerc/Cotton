@@ -8,7 +8,7 @@ tags: [ grain,grain length,drought,grain yield,tolerance,yield,drought tolerance
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G072200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G072200)
-- **Gene Symbol:** TaWD40-4B.1
+- **Gene Symbol:** <u>TaWD40-4B.1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

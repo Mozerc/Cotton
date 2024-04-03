@@ -8,7 +8,7 @@ tags: [ transcription factor,seed,seed germination,aba,dormancy,seed dormancy ]
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaABI4-1D
+- **Gene Symbol:** <u>TaABI4-1D</u>
 - **Gene Name:** ABSCISIC ACID-INSENSITIVE 4
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

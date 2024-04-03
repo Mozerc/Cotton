@@ -8,7 +8,7 @@ tags: [ stem,root,shoot,meristem,root apical meristem,shoot apical meristem,prim
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d002431](https://www.maizegdb.org/gene_center/gene/Zm00001d002431)
-- **Gene Symbol:** ZmCOLD1-2;cold2
+- **Gene Symbol:** <u>ZmCOLD1-2</u>&nbsp;<u>cold2</u>
 - **Gene Name:** cold rsponsive2
 - **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-GRAMENE-4.0)
 - **Species:** *Zea mays*

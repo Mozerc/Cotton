@@ -8,7 +8,7 @@ tags: [ auxin,resistance,defense response,defense,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb433460](https://www.maizegdb.org/gene_center/gene/Zm00001eb433460)
-- **Gene Symbol:** ZmARF30;ZmARF38;arftf30
+- **Gene Symbol:** <u>ZmARF30</u>&nbsp;<u>ZmARF38</u>&nbsp;<u>arftf30</u>
 - **Gene Name:** ARF-transcription factor 30
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

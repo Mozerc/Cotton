@@ -8,7 +8,7 @@ tags: [ transcription factor,root,development,root development,root hair ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb312850](https://www.maizegdb.org/gene_center/gene/Zm00001eb312850)
-- **Gene Symbol:** Lrl2;bhlh87
+- **Gene Symbol:** <u>Lrl2</u>&nbsp;<u>bhlh87</u>
 - **Gene Name:** bHLH-transcription factor 87
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

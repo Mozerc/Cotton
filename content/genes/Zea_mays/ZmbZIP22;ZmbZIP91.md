@@ -8,7 +8,7 @@ tags: [ transcription factor,development,endosperm,endosperm development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb318740](https://www.maizegdb.org/gene_center/gene/Zm00001eb318740)
-- **Gene Symbol:** ZmbZIP22;ZmbZIP91
+- **Gene Symbol:** <u>ZmbZIP22</u>&nbsp;<u>ZmbZIP91</u>
 - **Gene Name:** bZIP-transcription factor 22
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

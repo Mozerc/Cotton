@@ -8,7 +8,7 @@ tags: [ development,plant development,floral,inflorescence,height,plant height,i
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G486600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G486600)
-- **Gene Symbol:** TaDq
+- **Gene Symbol:** <u>TaDq</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

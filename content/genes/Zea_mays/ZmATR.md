@@ -8,7 +8,7 @@ tags: [ root,growth,stress,root growth,stress response,root length ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb228310](https://www.maizegdb.org/gene_center/gene/Zm00001eb228310)
-- **Gene Symbol:** ZmATR
+- **Gene Symbol:** <u>ZmATR</u>
 - **Gene Name:** ataxia-telangiectasia mutated and RAD3-related1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

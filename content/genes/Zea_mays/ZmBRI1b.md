@@ -8,7 +8,7 @@ tags: [ leaf,growth,brassinosteroid,cell division,cell elongation ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb227890](https://www.maizegdb.org/gene_center/gene/Zm00001eb227890)
-- **Gene Symbol:** ZmBRI1b
+- **Gene Symbol:** <u>ZmBRI1b</u>
 - **Gene Name:** brassinosteroid insensitive1b
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

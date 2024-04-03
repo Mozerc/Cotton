@@ -8,7 +8,7 @@ tags: [ auxin ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb350370](https://www.maizegdb.org/gene_center/gene/Zm00001eb350370)
-- **Gene Symbol:** ZmIAA27;ZmIAA28;ZmAUXTF;iaa38
+- **Gene Symbol:** <u>ZmIAA27</u>&nbsp;<u>ZmIAA28</u>&nbsp;<u>ZmAUXTF</u>&nbsp;<u>iaa38</u>
 - **Gene Name:** Aux/IAA-transcription factor 38
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

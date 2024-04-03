@@ -8,7 +8,7 @@ tags: [ transcription factor,development,grain,grain size,auxin,down-regulated g
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G038300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G038300)
-- **Gene Symbol:** TaARF25-5A
+- **Gene Symbol:** <u>TaARF25-5A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

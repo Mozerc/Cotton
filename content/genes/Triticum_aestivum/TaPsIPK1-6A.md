@@ -8,7 +8,7 @@ tags: [ growth,kinase,resistance,yield,immunity,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6A02G139400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6A02G139400)
-- **Gene Symbol:** TaPsIPK1-6A
+- **Gene Symbol:** <u>TaPsIPK1-6A</u>
 - **Gene Name:** Puccinia striiformis-Induced Protein Kinase 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

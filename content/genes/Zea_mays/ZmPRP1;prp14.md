@@ -8,7 +8,7 @@ tags: [ transcription factor,development,tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb020340](https://www.maizegdb.org/gene_center/gene/Zm00001eb020340)
-- **Gene Symbol:** ZmPRP1;prp14
+- **Gene Symbol:** <u>ZmPRP1</u>&nbsp;<u>prp14</u>
 - **Gene Name:** pathogenesis-related protein14
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

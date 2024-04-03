@@ -9,7 +9,7 @@ tags: [sheath blight, sheath blight resistance]
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Osa-miR444b.2
+- **Gene Symbol:** <u>Osa-miR444b.2</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

@@ -8,7 +8,7 @@ tags: [ root,growth,development,tolerance,root development,root growth,lateral r
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb269610](https://www.maizegdb.org/gene_center/gene/Zm00001eb269610)
-- **Gene Symbol:** ZmPP2AA1;prh17
+- **Gene Symbol:** <u>ZmPP2AA1</u>&nbsp;<u>prh17</u>
 - **Gene Name:** protein phosphatase homolog17
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

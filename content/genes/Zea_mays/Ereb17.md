@@ -8,7 +8,7 @@ tags: [ transcription factor,starch,transporter,sugar,sucrose,sucrose transporte
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb194220](https://www.maizegdb.org/gene_center/gene/Zm00001eb194220)
-- **Gene Symbol:** Ereb17
+- **Gene Symbol:** <u>Ereb17</u>
 - **Gene Name:** AP2-EREBP-transcription factor 17
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

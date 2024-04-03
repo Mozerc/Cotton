@@ -8,7 +8,7 @@ tags: [ tolerance,aluminum,al tolerance,aluminum tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb261140](https://www.maizegdb.org/gene_center/gene/Zm00001eb261140)
-- **Gene Symbol:** ZmMATE1;mate1;qALT6
+- **Gene Symbol:** <u>ZmMATE1</u>&nbsp;<u>mate1</u>&nbsp;<u>qALT6</u>
 - **Gene Name:** multidrug and toxic compound extrusion1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ fertility,pollen,dna repair,meiotic,meiotic recombination,pollen fertili
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G119400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G119400)
-- **Gene Symbol:** TaMSH7-3D;Ph2
+- **Gene Symbol:** <u>TaMSH7-3D</u>&nbsp;<u>Ph2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

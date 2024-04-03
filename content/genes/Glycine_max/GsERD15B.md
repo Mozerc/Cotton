@@ -8,7 +8,7 @@ tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,st
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** GsERD15B
+- **Gene Symbol:** <u>GsERD15B</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ stress,salt,tolerance,aba,salt tolerance,salt stress,stress tolerance,st
    - Overexpression of **GsERD15B** enhanced salt tolerance probably by increasing the expression levels of genes related to ABA-signalling, proline content, catalase peroxidase, dehydration response and cation transport.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[catalase](/tags/catalase/)
+   - [stress](/tags/stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[catalase](/tags/catalase/)
 
 ## Literature:
-   - [Natural variation in the promoter of GsERD15B affects salt tolerance in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13536)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13536](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13536)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33368860](https://pubmed.ncbi.nlm.nih.gov/33368860/)
+   - [Natural variation in the promoter of GsERD15B affects salt tolerance in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13536)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13536](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13536);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33368860](https://pubmed.ncbi.nlm.nih.gov/33368860/)
 
 ## Related News:
    - [PBJ | 南京农业大学李艳教授团队揭示野生大豆耐盐基因GsERD15B优异等位变异的功能](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247502350&idx=1&sn=a01a70105c0e3063e1008bf18837deab&chksm=ce90675bf9e7ee4dcb413275afd985e638f405333e001f76dc4323cd2b6bf34fb90dc944d502&scene=27#wechat_redirect)

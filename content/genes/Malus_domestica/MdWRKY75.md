@@ -8,7 +8,7 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase,anthocyanin biosyn
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000123888]()
-- **Gene Symbol:** MdWRKY75
+- **Gene Symbol:** <u>MdWRKY75</u>
 - **Gene Name:** 
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase,anthocyanin biosyn
    - MdPHR1 interacted with **MdWRKY75**, a positive regulator of anthocyanin biosynthesis, to enhance the **MdWRKY75**-activated transcription of MdMYB1, leading to anthocyanin accumulation. In addition, the E3 ubiquitin ligase SEVEN IN ABSENTIA1 (MdSINA1) negatively regulated MdPHR1-promoted anthocyanin biosynthesis via the ubiquitination-mediated degradation of MdPHR1. 
 
 ## Function-related keywords:
-   - [transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)&nbsp;,&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
+   - [transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/),&nbsp;&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
 
 ## Literature:
-   - [The E3 ubiquitin ligase SINA1 and the protein kinase BIN2 cooperatively regulate PHR1 in apple anthocyanin biosynthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13538](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37272713](https://pubmed.ncbi.nlm.nih.gov/37272713/)
+   - [The E3 ubiquitin ligase SINA1 and the protein kinase BIN2 cooperatively regulate PHR1 in apple anthocyanin biosynthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13538](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37272713](https://pubmed.ncbi.nlm.nih.gov/37272713/)
 
 ## Related News:
    - [JIPB | 武汉植物园联合山东农大发现低磷胁迫诱导花青苷合成的新机制](https://mp.weixin.qq.com/s/6f2-30A3Hl55wD1H4VZ0qQ)

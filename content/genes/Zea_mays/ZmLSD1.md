@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,defense response,defense,tolerance,abiotic
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb173250](https://www.maizegdb.org/gene_center/gene/Zm00001eb173250)
-- **Gene Symbol:** ZmLSD1
+- **Gene Symbol:** <u>ZmLSD1</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

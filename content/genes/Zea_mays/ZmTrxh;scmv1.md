@@ -8,7 +8,7 @@ tags: [ cytoplasm ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb262910](https://www.maizegdb.org/gene_center/gene/Zm00001eb262910)
-- **Gene Symbol:** ZmTrxh;scmv1
+- **Gene Symbol:** <u>ZmTrxh</u>&nbsp;<u>scmv1</u>
 - **Gene Name:** resistance to sugarcane mosaic virus1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb068640](https://www.maizegdb.org/gene_center/gene/Zm00001eb068640)
-- **Gene Symbol:** ZmCLCg
+- **Gene Symbol:** <u>ZmCLCg</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

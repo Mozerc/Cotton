@@ -8,7 +8,7 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb105640](https://www.maizegdb.org/gene_center/gene/Zm00001eb105640)
-- **Gene Symbol:** ZmSPL13;ZmSBP13;ZmGLW7-1;sbp13
+- **Gene Symbol:** <u>ZmSPL13</u>&nbsp;<u>ZmSBP13</u>&nbsp;<u>ZmGLW7-1</u>&nbsp;<u>sbp13</u>
 - **Gene Name:** SBP-transcription factor 13
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

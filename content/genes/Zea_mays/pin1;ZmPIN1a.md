@@ -8,7 +8,7 @@ tags: [ auxin,height ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb372180](https://www.maizegdb.org/gene_center/gene/Zm00001eb372180)
-- **Gene Symbol:** PIN1;ZmPIN1a
+- **Gene Symbol:** <u>PIN1</u>&nbsp;<u>ZmPIN1a</u>
 - **Gene Name:** PIN-formed protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

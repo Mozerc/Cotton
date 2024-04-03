@@ -8,7 +8,7 @@ tags: [ transcription factor,kinase,tiller,down-regulated genes,map-based clonin
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb353250](https://www.maizegdb.org/gene_center/gene/Zm00001eb353250)
-- **Gene Symbol:** Zcn8;pebp8
+- **Gene Symbol:** <u>Zcn8</u>&nbsp;<u>pebp8</u>
 - **Gene Name:** phosphatidylethanolamine-binding protein8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

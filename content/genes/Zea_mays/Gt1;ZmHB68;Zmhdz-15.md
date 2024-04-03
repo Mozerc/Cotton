@@ -8,7 +8,7 @@ tags: [ growth,tiller,domestication,branching,tiller number,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb007950](https://www.maizegdb.org/gene_center/gene/Zm00001eb007950)
-- **Gene Symbol:** Gt1;ZmHB68;Zmhdz-15
+- **Gene Symbol:** <u>Gt1</u>&nbsp;<u>ZmHB68</u>&nbsp;<u>Zmhdz-15</u>
 - **Gene Name:** grassy tillers1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

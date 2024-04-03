@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb213550](https://www.maizegdb.org/gene_center/gene/Zm00001eb213550)
-- **Gene Symbol:** ZmPIF5.2;bhlh60
+- **Gene Symbol:** <u>ZmPIF5.2</u>&nbsp;<u>bhlh60</u>
 - **Gene Name:** bHLH-transcription factor 60
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

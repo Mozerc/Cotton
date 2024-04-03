@@ -8,7 +8,7 @@ tags: [ temperature,tolerance,phosphatase,protein phosphatase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb160470](https://www.maizegdb.org/gene_center/gene/Zm00001eb160470)
-- **Gene Symbol:** ZmPP57;prh13;ZmNHL29;ZmPP2C31;ZmPP2C2
+- **Gene Symbol:** <u>ZmPP57</u>&nbsp;<u>prh13</u>&nbsp;<u>ZmNHL29</u>&nbsp;<u>ZmPP2C31</u>&nbsp;<u>ZmPP2C2</u>
 - **Gene Name:** protein phosphatase homolog13
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

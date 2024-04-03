@@ -8,7 +8,7 @@ tags: [ grain,starch,grain filling,aba,ethylene,grain weight,endosperm,aba biosy
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb009600](https://www.maizegdb.org/gene_center/gene/Zm00001eb009600)
-- **Gene Symbol:** ZmDG1;DG1;drg5
+- **Gene Symbol:** <u>ZmDG1</u>&nbsp;<u>DG1</u>&nbsp;<u>drg5</u>
 - **Gene Name:** dark response gene5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

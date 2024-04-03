@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb092230](https://www.maizegdb.org/gene_center/gene/Zm00001eb092230)
-- **Gene Symbol:** ZmCCT11;ZmOrphan218;cct11;TIDP3698
+- **Gene Symbol:** <u>ZmCCT11</u>&nbsp;<u>ZmOrphan218</u>&nbsp;<u>cct11</u>&nbsp;<u>TIDP3698</u>
 - **Gene Name:** CO CO-LIKE TIMING OF CAB1 protein domain11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

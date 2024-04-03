@@ -8,7 +8,7 @@ tags: [ resistance,stress,disease,disease resistance,stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb296340](https://www.maizegdb.org/gene_center/gene/Zm00001eb296340)
-- **Gene Symbol:** GBF3;bzip18;gbf1
+- **Gene Symbol:** <u>GBF3</u>&nbsp;<u>bzip18</u>&nbsp;<u>gbf1</u>
 - **Gene Name:** G-box binding factor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

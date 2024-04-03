@@ -8,7 +8,7 @@ tags: [ transcription factor,starch,endosperm ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb292790](https://www.maizegdb.org/gene_center/gene/Zm00001eb292790)
-- **Gene Symbol:** ZmDOF36;dof10
+- **Gene Symbol:** <u>ZmDOF36</u>&nbsp;<u>dof10</u>
 - **Gene Name:** C2C2-Dof-transcription factor 10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

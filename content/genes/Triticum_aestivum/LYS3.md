@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,development,grain,grain size,embryo,grain gr
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G161000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G161000)
-- **Gene Symbol:** LYS3
+- **Gene Symbol:** <u>LYS3</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

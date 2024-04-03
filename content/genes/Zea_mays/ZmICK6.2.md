@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM5G854731](https://www.maizegdb.org/gene_center/gene/GRMZM5G854731)
-- **Gene Symbol:** ZmICK6.2
+- **Gene Symbol:** <u>ZmICK6.2</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

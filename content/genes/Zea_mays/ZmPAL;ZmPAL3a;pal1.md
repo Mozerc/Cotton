@@ -8,7 +8,7 @@ tags: [ leaf ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb247620](https://www.maizegdb.org/gene_center/gene/Zm00001eb247620)
-- **Gene Symbol:** ZmPAL;ZmPAL3a;pal1
+- **Gene Symbol:** <u>ZmPAL</u>&nbsp;<u>ZmPAL3a</u>&nbsp;<u>pal1</u>
 - **Gene Name:** phenylalanine ammonia lyase homolog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,development,root development,cell wall,water loss,secondary cell wa
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb365750](https://www.maizegdb.org/gene_center/gene/Zm00001eb365750)
-- **Gene Symbol:** ZmIQD27;ZmOrphan275;iqd28
+- **Gene Symbol:** <u>ZmIQD27</u>&nbsp;<u>ZmOrphan275</u>&nbsp;<u>iqd28</u>
 - **Gene Name:** IQ-domain 28
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

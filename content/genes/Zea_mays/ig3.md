@@ -8,7 +8,7 @@ tags: [ development,seed,embryo,seed development,embryo development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb156480](https://www.maizegdb.org/gene_center/gene/Zm00001eb156480)
-- **Gene Symbol:** Ig3
+- **Gene Symbol:** <u>Ig3</u>
 - **Gene Name:** indeterminate gametophyte3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

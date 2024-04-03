@@ -8,7 +8,7 @@ tags: [ stem,root,kinase,drought,stress,drought stress,salt,tolerance,drought to
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb094770](https://www.maizegdb.org/gene_center/gene/Zm00001eb094770)
-- **Gene Symbol:** ZmCDPK38;cdpk33;CPK38
+- **Gene Symbol:** <u>ZmCDPK38</u>&nbsp;<u>cdpk33</u>&nbsp;<u>CPK38</u>
 - **Gene Name:** calcium dependent protein kinase33
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

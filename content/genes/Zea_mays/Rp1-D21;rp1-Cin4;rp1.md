@@ -8,7 +8,7 @@ tags: [ temperature,resistance,defense response,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb405860](https://www.maizegdb.org/gene_center/gene/Zm00001eb405860)
-- **Gene Symbol:** Rp1-D21;rp1-Cin4;rp1
+- **Gene Symbol:** <u>Rp1-D21</u>&nbsp;<u>rp1-Cin4</u>&nbsp;<u>rp1</u>
 - **Gene Name:** resistance to Puccinia sorghi1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

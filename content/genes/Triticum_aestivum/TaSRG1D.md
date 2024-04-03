@@ -8,7 +8,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,cell death,cadmium,cadmium 
 
 ## Gene Details:
 - **Gene ID:**	[TracesCS7D02G142000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TracesCS7D02G142000)
-- **Gene Symbol:** TaSRG1D
+- **Gene Symbol:** <u>TaSRG1D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

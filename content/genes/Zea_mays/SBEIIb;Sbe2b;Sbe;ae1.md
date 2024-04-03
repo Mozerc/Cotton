@@ -8,7 +8,7 @@ tags: [ starch,branching,endosperm,amylose content ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb242610](https://www.maizegdb.org/gene_center/gene/Zm00001eb242610)
-- **Gene Symbol:** SBEIIb;Sbe2b;Sbe;ae1
+- **Gene Symbol:** <u>SBEIIb</u>&nbsp;<u>Sbe2b</u>&nbsp;<u>Sbe</u>&nbsp;<u>ae1</u>
 - **Gene Name:** amylose extender1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

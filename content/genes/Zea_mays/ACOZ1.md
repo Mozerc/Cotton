@@ -8,7 +8,7 @@ tags: [ meiosis,meiotic,crossover,meiotic recombination,synapsis,recombination ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb119810](https://www.maizegdb.org/gene_center/gene/Zm00001eb119810)
-- **Gene Symbol:** ACOZ1
+- **Gene Symbol:** <u>ACOZ1</u>
 - **Gene Name:** abnormal chromosome organization in zygotene1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

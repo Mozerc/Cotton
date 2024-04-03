@@ -8,7 +8,7 @@ tags: [ transcription factor,drought,stress,drought stress,oxidative stress,tole
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb062170](https://www.maizegdb.org/gene_center/gene/Zm00001eb062170)
-- **Gene Symbol:** ZmNAC49;ZmNAC1;ZmNAC010312;nactf49
+- **Gene Symbol:** <u>ZmNAC49</u>&nbsp;<u>ZmNAC1</u>&nbsp;<u>ZmNAC010312</u>&nbsp;<u>nactf49</u>
 - **Gene Name:** NAC-transcription factor 49
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

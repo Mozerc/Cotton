@@ -8,7 +8,7 @@ tags: [ salt,tolerance,salt tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb069270](https://www.maizegdb.org/gene_center/gene/Zm00001eb069270)
-- **Gene Symbol:** SAG6;mre11a;IDP4073
+- **Gene Symbol:** <u>SAG6</u>&nbsp;<u>mre11a</u>&nbsp;<u>IDP4073</u>
 - **Gene Name:** salt-tolerance-associated-gene 6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

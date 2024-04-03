@@ -8,7 +8,7 @@ tags: [ development,anther,sterility,stress,oxidative stress,oxidative,sterile,a
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb115970](https://www.maizegdb.org/gene_center/gene/Zm00001eb115970)
-- **Gene Symbol:** ZmMs33;ZmGPAT6;ZmGPAT4;Group 7
+- **Gene Symbol:** <u>ZmMs33</u>&nbsp;<u>ZmGPAT6</u>&nbsp;<u>ZmGPAT4</u>&nbsp;<u>Group 7</u>
 - **Gene Name:** male sterile33
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

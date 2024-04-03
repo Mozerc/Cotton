@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb082560](https://www.maizegdb.org/gene_center/gene/Zm00001eb082560)
-- **Gene Symbol:** ZmAPX7;apx10;APX6;APXa2
+- **Gene Symbol:** <u>ZmAPX7</u>&nbsp;<u>apx10</u>&nbsp;<u>APX6</u>&nbsp;<u>APXa2</u>
 - **Gene Name:** ascorbate peroxidase10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

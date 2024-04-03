@@ -8,7 +8,7 @@ tags: [ tolerance,transporter,metal transport,as transport,co transport ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb231210](https://www.maizegdb.org/gene_center/gene/Zm00001eb231210)
-- **Gene Symbol:** ZmNRAMP4;ZmNRAMP6;nrat2
+- **Gene Symbol:** <u>ZmNRAMP4</u>&nbsp;<u>ZmNRAMP6</u>&nbsp;<u>nrat2</u>
 - **Gene Name:** nramp aluminum transporter2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

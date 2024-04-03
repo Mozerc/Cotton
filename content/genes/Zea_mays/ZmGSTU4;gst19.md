@@ -8,7 +8,7 @@ tags: [ stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb277280](https://www.maizegdb.org/gene_center/gene/Zm00001eb277280)
-- **Gene Symbol:** ZmGSTU4;gst19
+- **Gene Symbol:** <u>ZmGSTU4</u>&nbsp;<u>gst19</u>
 - **Gene Name:** glutathione transferase19
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

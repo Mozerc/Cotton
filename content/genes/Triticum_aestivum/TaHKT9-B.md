@@ -8,7 +8,7 @@ tags: [ shoot,auxin,salt,tolerance,salt tolerance,homeostasis ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G318700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G318700)
-- **Gene Symbol:** TaHKT9-B
+- **Gene Symbol:** <u>TaHKT9-B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

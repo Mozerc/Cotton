@@ -8,7 +8,7 @@ tags: [ cell wall,cell wall synthesis,secondary cell wall,fiber ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D11G3168]()
-- **Gene Symbol:** Lg
+- **Gene Symbol:** <u>Lg</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -21,10 +21,10 @@ tags: [ cell wall,cell wall synthesis,secondary cell wall,fiber ]
    - **Lg** promotes suberin synthesis and accumulation in green fiber.
 
 ## Function-related keywords:
-   - [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/),&nbsp;&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [Cotton green fiber promotes suberin synthesis interfering cellulose deposition in the secondary cell wall]( https://www.sciencedirect.com/science/article/pii/S0926669023001103)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.indcrop.2023.116346](https://www.sciencedirect.com/science/article/pii/S0926669023001103)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Cotton green fiber promotes suberin synthesis interfering cellulose deposition in the secondary cell wall]( https://www.sciencedirect.com/science/article/pii/S0926669023001103)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.indcrop.2023.116346](https://www.sciencedirect.com/science/article/pii/S0926669023001103);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [西南大学肖月华团队和张正圣团队合作揭示天然绿色棉纤维品质形成机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247565190&idx=1&sn=b04ca7344caeb2bcb92dc59883f8eea6&chksm=e8bc8d98dfcb048efd80956659c8d801ec00e351aad08d9afbfc07a45d786a2e39a3acf47d53&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb284290](https://www.maizegdb.org/gene_center/gene/Zm00001eb284290)
-- **Gene Symbol:** ZmbHLH194;umc1413
+- **Gene Symbol:** <u>ZmbHLH194</u>&nbsp;<u>umc1413</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

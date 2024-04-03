@@ -8,7 +8,7 @@ tags: [ cell elongation ]
 
 ## Gene Details:
 - **Gene ID:**	[BnaC07G0531500ZS]()
-- **Gene Symbol:** BnaC7.ROT3
+- **Gene Symbol:** <u>BnaC7.ROT3</u>
 - **Gene Name:** 
 - **Genome:** [B. napus ‘ZS11’ reference genome]()
 - **Species:** *Brassica napus*
@@ -23,7 +23,7 @@ tags: [ cell elongation ]
    - [cell-elongation](/tags/cell-elongation/)
 
 ## Literature:
-   - [BnaC7.ROT3, the causal gene of cqSL-C7, mediates silique length by affecting cell elongation in Brassica napus.]( https://academic.oup.com/jxb/article/73/1/154/6364805?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab407](https://academic.oup.com/jxb/article/73/1/154/6364805?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34486674](https://pubmed.ncbi.nlm.nih.gov/34486674/)
+   - [BnaC7.ROT3, the causal gene of cqSL-C7, mediates silique length by affecting cell elongation in Brassica napus.]( https://academic.oup.com/jxb/article/73/1/154/6364805?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab407](https://academic.oup.com/jxb/article/73/1/154/6364805?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34486674](https://pubmed.ncbi.nlm.nih.gov/34486674/)
 
 ## Related News:
    - [JEB | 华中农业大学洪登峰教授团队发现调控油菜角果长度的新基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516894&idx=3&sn=92419170533c247328f806f91ef427f8&chksm=ce902f8bf9e7a69d2a7d02217617d15e92167262bc6ae8263f485a202da32ce99e911a4e37c1&scene=27#wechat_redirect)

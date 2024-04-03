@@ -8,7 +8,7 @@ tags: [ transcription factor,grain,grain length,grain number,grain yield,nucleus
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.13G329700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.13G329700)
-- **Gene Symbol:** TOE4b
+- **Gene Symbol:** <u>TOE4b</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ transcription factor,grain,grain length,grain number,grain yield,nucleus
    - **TOE4b** overexpression lines in field trials not only showed late flowering but also altered plant architecture, including shorter internode length, more internodes, more branches and pod number per plant, and finally boosted grain yield per plant by 60% in Guangzhou and 87% in Shijiazhuang. 
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[grain](/tags/grain/)&nbsp;,&nbsp;[grain-length](/tags/grain-length/)&nbsp;,&nbsp;[grain-number](/tags/grain-number/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[grain-length](/tags/grain-length/),&nbsp;&nbsp;[grain-number](/tags/grain-number/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[internode-length](/tags/internode-length/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [The AP2/ERF transcription factor TOE4b regulates photoperiodic flowering and grain yield per plant in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14069)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14069](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14069)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37171033](https://pubmed.ncbi.nlm.nih.gov/37171033/)
+   - [The AP2/ERF transcription factor TOE4b regulates photoperiodic flowering and grain yield per plant in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14069)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14069](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14069);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37171033](https://pubmed.ncbi.nlm.nih.gov/37171033/)
 
 ## Related News:
    - [PBJ|孔凡江/刘宝辉团队克隆了调控大豆开花期和单株产量的新基因TOE4b并解析其影响光周期调控开花期的分子机制及其潜在应用价值](https://mp.weixin.qq.com/s/kFcdurCQidBG4yahdOfl9A)

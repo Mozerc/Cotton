@@ -8,7 +8,7 @@ tags: [ stem,defense,sa,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G235400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G235400)
-- **Gene Symbol:** TaBCAT1-B
+- **Gene Symbol:** <u>TaBCAT1-B</u>
 - **Gene Name:** Branched-chain-amino-acid aminotransferase 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

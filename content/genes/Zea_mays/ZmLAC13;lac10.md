@@ -8,7 +8,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,breeding,metal transport,co
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb166100](https://www.maizegdb.org/gene_center/gene/Zm00001eb166100)
-- **Gene Symbol:** ZmLAC13;lac10
+- **Gene Symbol:** <u>ZmLAC13</u>&nbsp;<u>lac10</u>
 - **Gene Name:** laccase10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

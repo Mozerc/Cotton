@@ -8,7 +8,7 @@ tags: [ growth,pollen,pollen wall,cell wall ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb078280](https://www.maizegdb.org/gene_center/gene/Zm00001eb078280)
-- **Gene Symbol:** ZmLLG1
+- **Gene Symbol:** <u>ZmLLG1</u>
 - **Gene Name:** lorelei-like glycosylphosphatidylinositol-anchor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

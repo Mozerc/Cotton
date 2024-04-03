@@ -9,7 +9,7 @@ tags: [salinity, tolerance, cytoplasm, stress, transporter, nucleus, abscisic ac
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** OsJRL
+- **Gene Symbol:** <u>OsJRL</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

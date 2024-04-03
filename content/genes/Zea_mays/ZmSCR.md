@@ -8,7 +8,7 @@ tags: [ root,root endodermis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb195650](https://www.maizegdb.org/gene_center/gene/Zm00001eb195650)
-- **Gene Symbol:** ZmSCR
+- **Gene Symbol:** <u>ZmSCR</u>
 - **Gene Name:** scarecrow1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

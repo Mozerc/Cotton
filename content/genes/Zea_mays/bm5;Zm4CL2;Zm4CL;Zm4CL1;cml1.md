@@ -8,7 +8,7 @@ tags: [ cell wall,lignin,lignin biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb233720](https://www.maizegdb.org/gene_center/gene/Zm00001eb233720)
-- **Gene Symbol:** BM5;Zm4CL2;Zm4CL;Zm4CL1;cml1
+- **Gene Symbol:** <u>BM5</u>&nbsp;<u>Zm4CL2</u>&nbsp;<u>Zm4CL</u>&nbsp;<u>Zm4CL1</u>&nbsp;<u>cml1</u>
 - **Gene Name:** brown midrib5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

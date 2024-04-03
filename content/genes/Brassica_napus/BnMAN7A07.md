@@ -8,7 +8,7 @@ tags: [ vegetative,reproductive,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[BnaA07g12390D]()
-- **Gene Symbol:** BnMAN7A07
+- **Gene Symbol:** <u>BnMAN7A07</u>
 - **Gene Name:** 
 - **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
@@ -19,10 +19,10 @@ tags: [ vegetative,reproductive,breeding ]
    - The expression of hemicellulase gene **BnMAN7A07**, which could provide an available genetic resource for breeding practice in rapeseed which is beneficial to mechanized harvest.
 
 ## Function-related keywords:
-   - [vegetative](/tags/vegetative/)&nbsp;,&nbsp;[reproductive](/tags/reproductive/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+   - [vegetative](/tags/vegetative/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
-   - [Down-regulation of MANNANASE7 gene in Brassica napus L. enhances silique dehiscence-resistance.]( https://link.springer.com/article/10.1007/s00299-020-02638-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-020-02638-5](https://link.springer.com/article/10.1007/s00299-020-02638-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33392730](https://pubmed.ncbi.nlm.nih.gov/33392730/)
+   - [Down-regulation of MANNANASE7 gene in Brassica napus L. enhances silique dehiscence-resistance.]( https://link.springer.com/article/10.1007/s00299-020-02638-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00299-020-02638-5](https://link.springer.com/article/10.1007/s00299-020-02638-5);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33392730](https://pubmed.ncbi.nlm.nih.gov/33392730/)
 
 ## Related News:
    - [江苏大学在油菜角果开裂研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247506958&idx=3&sn=89aa2ee47c8033befd8cbc250ed38d5d&chksm=e8bdae10dfca27066662fefb8110f732f5a38b75ac5c7a86a7c353430783f36713f678be4159&scene=27#wechat_redirect)

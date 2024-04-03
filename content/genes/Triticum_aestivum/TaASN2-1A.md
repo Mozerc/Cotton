@@ -8,7 +8,7 @@ tags: [ grain,grain protein ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G382800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G382800)
-- **Gene Symbol:** TaASN2-1A
+- **Gene Symbol:** <u>TaASN2-1A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

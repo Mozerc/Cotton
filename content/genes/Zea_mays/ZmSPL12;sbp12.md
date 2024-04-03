@@ -8,7 +8,7 @@ tags: [ grain,resistance,grain yield,yield,ga,lodging,lodging resistance,height,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb233320](https://www.maizegdb.org/gene_center/gene/Zm00001eb233320)
-- **Gene Symbol:** ZmSPL12;sbp12
+- **Gene Symbol:** <u>ZmSPL12</u>&nbsp;<u>sbp12</u>
 - **Gene Name:** SBP-transcription factor 12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

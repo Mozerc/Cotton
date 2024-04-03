@@ -8,7 +8,7 @@ tags: [ resistance,seed,breeding,resistant ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb233880](https://www.maizegdb.org/gene_center/gene/Zm00001eb233880)
-- **Gene Symbol:** ZmWAX2;umc1591;ZmCER3
+- **Gene Symbol:** <u>ZmWAX2</u>&nbsp;<u>umc1591</u>&nbsp;<u>ZmCER3</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

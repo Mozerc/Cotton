@@ -8,7 +8,7 @@ tags: [ stress,seedling,tolerance,cold tolerance,cold stress,cold,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb142500](https://www.maizegdb.org/gene_center/gene/Zm00001eb142500)
-- **Gene Symbol:** ZmICE1;ICE1;ZmICEa;ZmSCRAM;bhlh175
+- **Gene Symbol:** <u>ZmICE1</u>&nbsp;<u>ICE1</u>&nbsp;<u>ZmICEa</u>&nbsp;<u>ZmSCRAM</u>&nbsp;<u>bhlh175</u>
 - **Gene Name:** INDUCER OF CBF EXPRESSION 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

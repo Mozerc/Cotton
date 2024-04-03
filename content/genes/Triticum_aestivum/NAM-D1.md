@@ -8,7 +8,7 @@ tags: [ transcription factor,senescence,grain,zinc,iron,grain protein content,gr
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G096300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6D02G096300)
-- **Gene Symbol:** NAM-D1
+- **Gene Symbol:** <u>NAM-D1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

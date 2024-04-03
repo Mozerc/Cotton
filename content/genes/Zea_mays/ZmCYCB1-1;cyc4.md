@@ -8,7 +8,7 @@ tags: [ growth,seed,yield,plumule,embryo,seed weight,seed size,seed growth,seed 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb369340](https://www.maizegdb.org/gene_center/gene/Zm00001eb369340)
-- **Gene Symbol:** ZmCYCB1-1;cyc4
+- **Gene Symbol:** <u>ZmCYCB1-1</u>&nbsp;<u>cyc4</u>
 - **Gene Name:** cyclin4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,growth,br,br signaling,root elongation,root growth,cell elongation,
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D02G2021]()
-- **Gene Symbol:** GhCERP
+- **Gene Symbol:** <u>GhCERP</u>
 - **Gene Name:** 
 - **Genome:** [cotton genome (Gossypium hirsutum, NAU)]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ root,growth,br,br signaling,root elongation,root growth,cell elongation,
    - GhEXPA3-1 is a downstream gene of **GhCERP** and positively regulates cotton fiber cell elongation.
 
 ## Function-related keywords:
-   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[br-signaling](/tags/br-signaling/),&nbsp;&nbsp;[root-elongation](/tags/root-elongation/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [A conserved brassinosteroid-mediated BES1-CERP-EXPA3 signaling cascade controls plant cell elongation.]( https://www.sciencedirect.com/science/article/pii/S2211124723003121?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.celrep.2023.112301](https://www.sciencedirect.com/science/article/pii/S2211124723003121?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36952343](https://pubmed.ncbi.nlm.nih.gov/36952343/)
+   - [A conserved brassinosteroid-mediated BES1-CERP-EXPA3 signaling cascade controls plant cell elongation.]( https://www.sciencedirect.com/science/article/pii/S2211124723003121?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.celrep.2023.112301](https://www.sciencedirect.com/science/article/pii/S2211124723003121?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36952343](https://pubmed.ncbi.nlm.nih.gov/36952343/)
 
 ## Related News:
    - [Cell Reports | 陕西师范大学生命科学学院肖光辉教授揭示了油菜素内酯信号通路新机制](https://mp.weixin.qq.com/s/VhjnPmmfwB0SXR2yW65VBg)

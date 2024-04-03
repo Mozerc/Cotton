@@ -8,7 +8,7 @@ tags: [ root,growth,development,plant development,stress,ja,defense,salinity,sal
 
 ## Gene Details:
 - **Gene ID:**	[Cotton_A_11862]()
-- **Gene Symbol:** GaJAZ1
+- **Gene Symbol:** <u>GaJAZ1</u>
 - **Gene Name:** 
 - **Genome:** [Gossypium hirsutum L. acc. TM-1 genome]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ root,growth,development,plant development,stress,ja,defense,salinity,sal
    - Overexpressed **GaJAZ1** significantly increased salt tolerance in upland cotton compared to the wild type, showing higher growth vigor with taller plants, increased fresh weight, and more bolls, which is due to reprogrammed expression of tolerance-related genes and promotion of root development.
 
 ## Function-related keywords:
-   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[salinity](/tags/salinity/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[salinity-stress](/tags/salinity-stress/)&nbsp;,&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/)&nbsp;,&nbsp;[ja-signaling](/tags/ja-signaling/)&nbsp;,&nbsp;[plant-defense-signaling](/tags/plant-defense-signaling/)
+   - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[salinity](/tags/salinity/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[salinity-stress](/tags/salinity-stress/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/),&nbsp;&nbsp;[plant-defense-signaling](/tags/plant-defense-signaling/)
 
 ## Literature:
-   - [Gossypium hirsutum Salt Tolerance Is Enhanced by Overexpression of G. arboreum JAZ1.]( https://www.frontiersin.org/articles/10.3389/fbioe.2020.00157/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fbioe.2020.00157](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00157/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32211392](https://pubmed.ncbi.nlm.nih.gov/32211392/)
+   - [Gossypium hirsutum Salt Tolerance Is Enhanced by Overexpression of G. arboreum JAZ1.]( https://www.frontiersin.org/articles/10.3389/fbioe.2020.00157/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fbioe.2020.00157](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00157/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32211392](https://pubmed.ncbi.nlm.nih.gov/32211392/)
 
 ## Related News:
    - [FRONT BIOENG BIOTECH | 郑州大学农学院李付广团队在茉莉酸信号通路JAZ1蛋白调控棉花耐盐性研究领域取得进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487703&idx=3&sn=a2b698dce5351e7ba191f1dba1ebd155&chksm=ce93bd82f9e43494c6c59bf32446f7390f1f88375025766d4e3974b2048a361d73b700f787aa&scene=27#wechat_redirect)

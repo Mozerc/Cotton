@@ -8,7 +8,7 @@ tags: [ transcription factor,grain,starch,grain quality,quality,breeding,endospe
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G077900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G077900)
-- **Gene Symbol:** TaNAC019-A
+- **Gene Symbol:** <u>TaNAC019-A</u>
 - **Gene Name:** NAC domain-containing protein 19
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

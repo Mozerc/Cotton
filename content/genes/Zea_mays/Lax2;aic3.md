@@ -8,7 +8,7 @@ tags: [ root,auxin,down-regulated genes,root initiation,signal transduction,late
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb010460](https://www.maizegdb.org/gene_center/gene/Zm00001eb010460)
-- **Gene Symbol:** Lax2;aic3
+- **Gene Symbol:** <u>Lax2</u>&nbsp;<u>aic3</u>
 - **Gene Name:** like-auxin2;auxin import carrier3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

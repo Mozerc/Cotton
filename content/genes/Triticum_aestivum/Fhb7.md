@@ -8,7 +8,7 @@ tags: [ resistance,blight ]
 
 ## Gene Details:
 - **Gene ID:**	[Tel7E01T1020600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Tel7E01T1020600)
-- **Gene Symbol:** Fhb7
+- **Gene Symbol:** <u>Fhb7</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

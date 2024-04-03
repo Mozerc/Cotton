@@ -8,7 +8,7 @@ tags: [ root,development,shoot,plant development,tiller,root development,archite
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb254390](https://www.maizegdb.org/gene_center/gene/Zm00001eb254390)
-- **Gene Symbol:** ZmPIN1b;pin2
+- **Gene Symbol:** <u>ZmPIN1b</u>&nbsp;<u>pin2</u>
 - **Gene Name:** PIN-formed protein2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

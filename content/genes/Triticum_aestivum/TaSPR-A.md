@@ -8,7 +8,7 @@ tags: [ seed,quality,ssp ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCSU02G137200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCSU02G137200)
-- **Gene Symbol:** TaSPR-A
+- **Gene Symbol:** <u>TaSPR-A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

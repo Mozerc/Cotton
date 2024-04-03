@@ -8,7 +8,7 @@ tags: [ drought ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb060260](https://www.maizegdb.org/gene_center/gene/Zm00001eb060260)
-- **Gene Symbol:** ZmAAO3-1;AAO3-q;ao4
+- **Gene Symbol:** <u>ZmAAO3-1</u>&nbsp;<u>AAO3-q</u>&nbsp;<u>ao4</u>
 - **Gene Name:** aldehyde oxidase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

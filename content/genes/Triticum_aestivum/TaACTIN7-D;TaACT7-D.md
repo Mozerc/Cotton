@@ -8,7 +8,7 @@ tags: [ grain,auxin,gibberellin,height,plant height,grain shape,phytohormone,gra
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G020000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G020000)
-- **Gene Symbol:** TaACTIN7-D;TaACT7-D
+- **Gene Symbol:** <u>TaACTIN7-D</u>&nbsp;<u>TaACT7-D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

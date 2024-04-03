@@ -8,7 +8,7 @@ tags: [ stress,stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb202420](https://www.maizegdb.org/gene_center/gene/Zm00001eb202420)
-- **Gene Symbol:** ZmTLP2;tubtf3
+- **Gene Symbol:** <u>ZmTLP2</u>&nbsp;<u>tubtf3</u>
 - **Gene Name:** TUB-transcription factor 3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

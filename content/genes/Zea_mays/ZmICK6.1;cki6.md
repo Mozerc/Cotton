@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb193730](https://www.maizegdb.org/gene_center/gene/Zm00001eb193730)
-- **Gene Symbol:** ZmICK6.1;cki6
+- **Gene Symbol:** <u>ZmICK6.1</u>&nbsp;<u>cki6</u>
 - **Gene Name:** cyclin-dependent kinase inhibitor6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

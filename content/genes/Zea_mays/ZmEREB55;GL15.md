@@ -8,7 +8,7 @@ tags: [ vegetative,height,plant height,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb387280](https://www.maizegdb.org/gene_center/gene/Zm00001eb387280)
-- **Gene Symbol:** ZmEREB55;GL15
+- **Gene Symbol:** <u>ZmEREB55</u>&nbsp;<u>GL15</u>
 - **Gene Name:** glossy15
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

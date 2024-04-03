@@ -8,7 +8,7 @@ tags: [ inflorescence ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb173070](https://www.maizegdb.org/gene_center/gene/Zm00001eb173070)
-- **Gene Symbol:** ZmbHLH115;bhlh172
+- **Gene Symbol:** <u>ZmbHLH115</u>&nbsp;<u>bhlh172</u>
 - **Gene Name:** bHLH-transcription factor 172
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

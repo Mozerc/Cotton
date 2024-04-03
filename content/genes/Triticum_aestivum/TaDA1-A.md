@@ -8,7 +8,7 @@ tags: [ yield,breeding,pericarp ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCSU02G007800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCSU02G007800)
-- **Gene Symbol:** TaDA1-A
+- **Gene Symbol:** <u>TaDA1-A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

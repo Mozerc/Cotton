@@ -8,7 +8,7 @@ tags: [ resistance,ja,resistant,sa,defence,defence response,ja signalling ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb075630](https://www.maizegdb.org/gene_center/gene/Zm00001eb075630)
-- **Gene Symbol:** ZmREM1.3;remo3
+- **Gene Symbol:** <u>ZmREM1.3</u>&nbsp;<u>remo3</u>
 - **Gene Name:** remorin3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

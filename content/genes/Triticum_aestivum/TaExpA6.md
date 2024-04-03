@@ -8,7 +8,7 @@ tags: [ grain,grain size,grain yield,yield,grain weight ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G034200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G034200)
-- **Gene Symbol:** TaExpA6
+- **Gene Symbol:** <u>TaExpA6</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

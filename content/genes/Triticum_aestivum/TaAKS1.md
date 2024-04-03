@@ -8,7 +8,7 @@ tags: [ drought,tolerance,aba,drought tolerance,abscisic acid,aba biosynthesis,a
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G435800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G435800)
-- **Gene Symbol:** TaAKS1
+- **Gene Symbol:** <u>TaAKS1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

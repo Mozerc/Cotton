@@ -8,7 +8,7 @@ tags: [ endosperm,demethylation ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb202980](https://www.maizegdb.org/gene_center/gene/Zm00001eb202980)
-- **Gene Symbol:** ZmROS1b;mdr1
+- **Gene Symbol:** <u>ZmROS1b</u>&nbsp;<u>mdr1</u>
 - **Gene Name:** maternal derepression of R1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

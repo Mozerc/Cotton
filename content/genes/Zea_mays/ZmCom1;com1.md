@@ -8,7 +8,7 @@ tags: [ growth,vegetative,reproductive,meiosis,meiotic,reproductive growth,meiot
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb388310](https://www.maizegdb.org/gene_center/gene/Zm00001eb388310)
-- **Gene Symbol:** ZmCom1;com1
+- **Gene Symbol:** <u>ZmCom1</u>&nbsp;<u>com1</u>
 - **Gene Name:** completion of meiotic recombination1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

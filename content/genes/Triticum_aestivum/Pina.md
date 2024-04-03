@@ -8,7 +8,7 @@ tags: [ kernel texture ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G004100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G004100)
-- **Gene Symbol:** Pina
+- **Gene Symbol:** <u>Pina</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

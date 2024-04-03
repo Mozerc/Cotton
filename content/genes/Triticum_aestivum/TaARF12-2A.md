@@ -8,7 +8,7 @@ tags: [ development,auxin,plant development,auxin response,height,plant height,i
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A01G547800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A01G547800)
-- **Gene Symbol:** TaARF12-2A
+- **Gene Symbol:** <u>TaARF12-2A</u>
 - **Gene Name:** Auxin response factor 12
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

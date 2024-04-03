@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,ethylene ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb150840](https://www.maizegdb.org/gene_center/gene/Zm00001eb150840)
-- **Gene Symbol:** ZmERF147;ZmUBER1;ereb147
+- **Gene Symbol:** <u>ZmERF147</u>&nbsp;<u>ZmUBER1</u>&nbsp;<u>ereb147</u>
 - **Gene Name:** AP2-EREBP-transcription factor 147
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

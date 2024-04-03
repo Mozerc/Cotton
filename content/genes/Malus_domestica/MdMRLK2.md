@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,resistance,cold,homeostasis,iron,iron ho
 
 ## Gene Details:
 - **Gene ID:**	[MD12G1190700]()
-- **Gene Symbol:** MdMRLK2
+- **Gene Symbol:** <u>MdMRLK2</u>
 - **Gene Name:** Malus domestica FERONIA receptor-like kinase 2
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,11 +20,11 @@ tags: [ leaf,leaf senescence,senescence,resistance,cold,homeostasis,iron,iron ho
    - Apple plants overexpressing **MdMRLK2** (35S:**MdMRLK2**) showed enhanced cold resistance relative to the wild type.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[leaf-senescence](/tags/leaf-senescence/)&nbsp;,&nbsp;[senescence](/tags/senescence/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[iron](/tags/iron/)&nbsp;,&nbsp;[iron-homeostasis](/tags/iron-homeostasis/)&nbsp;,&nbsp;[glucanase](/tags/glucanase/)&nbsp;,&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[leaf-senescence](/tags/leaf-senescence/),&nbsp;&nbsp;[senescence](/tags/senescence/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[iron](/tags/iron/),&nbsp;&nbsp;[iron-homeostasis](/tags/iron-homeostasis/),&nbsp;&nbsp;[glucanase](/tags/glucanase/),&nbsp;&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
 
 ## Literature:
-   - [The apple FERONIA receptor-like kinase MdMRLK2 negatively regulates Valsa canker resistance by suppressing defence responses and hypersensitive reaction.]( https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13218)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/mpp.13218](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13218)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35412700](https://pubmed.ncbi.nlm.nih.gov/35412700/)
-   - [Overexpression of the FERONIA receptor kinase MdMRLK2 enhances apple cold tolerance.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16226)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16226](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16226)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37006197](https://pubmed.ncbi.nlm.nih.gov/37006197/)
+   - [The apple FERONIA receptor-like kinase MdMRLK2 negatively regulates Valsa canker resistance by suppressing defence responses and hypersensitive reaction.]( https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13218)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/mpp.13218](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13218);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35412700](https://pubmed.ncbi.nlm.nih.gov/35412700/)
+   - [Overexpression of the FERONIA receptor kinase MdMRLK2 enhances apple cold tolerance.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16226)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16226](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16226);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37006197](https://pubmed.ncbi.nlm.nih.gov/37006197/)
 
 ## Related News:
    - [MPP | 西北农林科技大学马锋旺课题组揭示苹果FERONIA类受体激酶负调控苹果腐烂病抗性的机理研究](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247528336&idx=2&sn=3d9c7cd7367c8b96c503e02462a7329d&chksm=ce90c2c5f9e74bd3f64d83338922c84c88660889bd981b23b1538b8fe1f376dc1524c664d869&scene=27#wechat_redirect)

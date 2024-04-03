@@ -8,7 +8,7 @@ tags: [ development,cell wall,cell wall synthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[CotAD_64719]()
-- **Gene Symbol:** GhMYB1
+- **Gene Symbol:** <u>GhMYB1</u>
 - **Gene Name:** 
 - **Genome:** [Gossypium hirsutum genome (AD)]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ development,cell wall,cell wall synthesis ]
    - **GhMYB1** was expressed specifically in fibre from 19 DPA, overlapping with the sharp rise in GhGDSL expression, indicating that it could regulate GhGDSL during fibre development.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)
+   - [development](/tags/development/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/)
 
 ## Literature:
-   - [GhMYB1 regulates SCW stage-specific expression of the GhGDSL promoter in the fibres of Gossypium hirsutum L.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12706](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28182326](https://pubmed.ncbi.nlm.nih.gov/28182326/)
+   - [GhMYB1 regulates SCW stage-specific expression of the GhGDSL promoter in the fibres of Gossypium hirsutum L.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12706](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12706);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28182326](https://pubmed.ncbi.nlm.nih.gov/28182326/)
 
 ## Related News:
 

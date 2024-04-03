@@ -8,7 +8,7 @@ tags: [ sheath ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb216040](https://www.maizegdb.org/gene_center/gene/Zm00001eb216040)
-- **Gene Symbol:** MYB37
+- **Gene Symbol:** <u>MYB37</u>
 - **Gene Name:** MYB-transcription factor 37
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

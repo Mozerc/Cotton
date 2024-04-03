@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb300120](https://www.maizegdb.org/gene_center/gene/Zm00001eb300120)
-- **Gene Symbol:** ZmGSTU2;gst6
+- **Gene Symbol:** <u>ZmGSTU2</u>&nbsp;<u>gst6</u>
 - **Gene Name:** glutathione transferase6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ leaf,growth,grain,shoot,grain number,grain yield,yield,vegetative,floral
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb327040](https://www.maizegdb.org/gene_center/gene/Zm00001eb327040)
-- **Gene Symbol:** ZmMADS67;ZMM28
+- **Gene Symbol:** <u>ZmMADS67</u>&nbsp;<u>ZMM28</u>
 - **Gene Name:** MADS-transcription factor 67
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

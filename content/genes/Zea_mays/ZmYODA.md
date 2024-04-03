@@ -8,7 +8,7 @@ tags: [ development,kinase,drought,stress,drought stress,endosperm,signaling pat
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb186910](https://www.maizegdb.org/gene_center/gene/Zm00001eb186910)
-- **Gene Symbol:** ZmYODA
+- **Gene Symbol:** <u>ZmYODA</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ kinase,br,br signaling,protein kinase,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G137200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G137200)
-- **Gene Symbol:** GSK3
+- **Gene Symbol:** <u>GSK3</u>
 - **Gene Name:** GLYCOGEN SYNTHASE KINASE 3
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

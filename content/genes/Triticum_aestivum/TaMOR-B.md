@@ -8,7 +8,7 @@ tags: [ root,grain,auxin,panicle,grain number,grain yield,yield,crown root initi
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G316200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G316200)
-- **Gene Symbol:** TaMOR-B
+- **Gene Symbol:** <u>TaMOR-B</u>
 - **Gene Name:** MORE ROOT
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

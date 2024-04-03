@@ -8,7 +8,7 @@ tags: [ development,starch,endosperm,endosperm development,pyrophosphorylase,sta
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb176800](https://www.maizegdb.org/gene_center/gene/Zm00001eb176800)
-- **Gene Symbol:** Bt2;agpsen;glt1;adp3
+- **Gene Symbol:** <u>Bt2</u>&nbsp;<u>agpsen</u>&nbsp;<u>glt1</u>&nbsp;<u>adp3</u>
 - **Gene Name:** brittle endosperm2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

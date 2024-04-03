@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,abiotic stress,osmotic stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb405310](https://www.maizegdb.org/gene_center/gene/Zm00001eb405310)
-- **Gene Symbol:** VQ;vq58
+- **Gene Symbol:** <u>VQ</u>&nbsp;<u>vq58</u>
 - **Gene Name:** VQ motif-transcription factor58
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

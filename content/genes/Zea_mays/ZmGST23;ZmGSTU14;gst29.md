@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb141020](https://www.maizegdb.org/gene_center/gene/Zm00001eb141020)
-- **Gene Symbol:** ZmGST23;ZmGSTU14;gst29
+- **Gene Symbol:** <u>ZmGST23</u>&nbsp;<u>ZmGSTU14</u>&nbsp;<u>gst29</u>
 - **Gene Name:** glutathione transferase29
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

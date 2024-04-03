@@ -8,7 +8,7 @@ tags: [ temperature,growth,seed,starch,seed germination,ethylene,cold,plant grow
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb352580](https://www.maizegdb.org/gene_center/gene/Zm00001eb352580)
-- **Gene Symbol:** ZmEREB92;ereb92
+- **Gene Symbol:** <u>ZmEREB92</u>&nbsp;<u>ereb92</u>
 - **Gene Name:** AP2-EREBP-transcription factor 92
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

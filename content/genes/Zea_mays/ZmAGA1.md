@@ -8,7 +8,7 @@ tags: [ seed,alkaline tolerance,seed germination,tolerance,sugar ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb303190](https://www.maizegdb.org/gene_center/gene/Zm00001eb303190)
-- **Gene Symbol:** ZmAGA1
+- **Gene Symbol:** <u>ZmAGA1</u>
 - **Gene Name:** alkaline α-galactosidase 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

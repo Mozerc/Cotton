@@ -8,7 +8,7 @@ tags: [ stem,root,kinase,brassinosteroid,flower,drought,stress,drought stress,to
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb074610](https://www.maizegdb.org/gene_center/gene/Zm00001eb074610)
-- **Gene Symbol:** ZmNAGK;nagk1
+- **Gene Symbol:** <u>ZmNAGK</u>&nbsp;<u>nagk1</u>
 - **Gene Name:** N-acetylglutamate kinase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

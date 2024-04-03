@@ -8,7 +8,7 @@ tags: [ tillering,grain,grain yield,yield,architecture,plant architecture ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G484400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G484400)
-- **Gene Symbol:** TaCol-7D
+- **Gene Symbol:** <u>TaCol-7D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

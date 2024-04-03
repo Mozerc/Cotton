@@ -8,7 +8,7 @@ tags: [ growth,kinase,nucleus,cell division,plant growth,cell elongation,height,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb209170](https://www.maizegdb.org/gene_center/gene/Zm00001eb209170)
-- **Gene Symbol:** ZmWEE1
+- **Gene Symbol:** <u>ZmWEE1</u>
 - **Gene Name:** WEE1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

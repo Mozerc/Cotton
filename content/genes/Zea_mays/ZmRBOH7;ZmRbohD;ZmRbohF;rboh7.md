@@ -8,7 +8,7 @@ tags: [ development,drought,seed,seed germination,tolerance,drought tolerance,en
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb410380](https://www.maizegdb.org/gene_center/gene/Zm00001eb410380)
-- **Gene Symbol:** ZmRBOH7;ZmRbohD;ZmRbohF;rboh7
+- **Gene Symbol:** <u>ZmRBOH7</u>&nbsp;<u>ZmRbohD</u>&nbsp;<u>ZmRbohF</u>&nbsp;<u>rboh7</u>
 - **Gene Name:** respiratory burst oxidase7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

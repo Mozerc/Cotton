@@ -8,7 +8,7 @@ tags: [ auxin,resistance,disease,disease resistance,resistant ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb137840](https://www.maizegdb.org/gene_center/gene/Zm00001eb137840)
-- **Gene Symbol:** ZmABP1;Scmv2;abp1
+- **Gene Symbol:** <u>ZmABP1</u>&nbsp;<u>Scmv2</u>&nbsp;<u>abp1</u>
 - **Gene Name:** Auxin Binding Protein 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,fertility,pollen,sterility,pollen development,male sterility
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G217000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G217000)
-- **Gene Symbol:** Ms5
+- **Gene Symbol:** <u>Ms5</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

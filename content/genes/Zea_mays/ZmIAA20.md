@@ -8,7 +8,7 @@ tags: [ auxin,auxin transport ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb213730](https://www.maizegdb.org/gene_center/gene/Zm00001eb213730)
-- **Gene Symbol:** ZmIAA20
+- **Gene Symbol:** <u>ZmIAA20</u>
 - **Gene Name:** Aux/IAA-transcription factor 20
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

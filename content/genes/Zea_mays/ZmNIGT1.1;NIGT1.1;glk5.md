@@ -8,7 +8,7 @@ tags: [ nitrogen,stress,phosphorus,pi,pi uptake ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb406660](https://www.maizegdb.org/gene_center/gene/Zm00001eb406660)
-- **Gene Symbol:** ZmNIGT1.1;NIGT1.1;glk5
+- **Gene Symbol:** <u>ZmNIGT1.1</u>&nbsp;<u>NIGT1.1</u>&nbsp;<u>glk5</u>
 - **Gene Name:** G2-like-transcription factor 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

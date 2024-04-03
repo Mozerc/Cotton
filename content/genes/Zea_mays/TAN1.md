@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb286860](https://www.maizegdb.org/gene_center/gene/Zm00001eb286860)
-- **Gene Symbol:** TAN1
+- **Gene Symbol:** <u>TAN1</u>
 - **Gene Name:** tangled1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

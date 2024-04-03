@@ -8,7 +8,7 @@ tags: [ nitrogen,aba ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb079530](https://www.maizegdb.org/gene_center/gene/Zm00001eb079530)
-- **Gene Symbol:** ZmNRT3.1B;nrt4
+- **Gene Symbol:** <u>ZmNRT3.1B</u>&nbsp;<u>nrt4</u>
 - **Gene Name:** nitrate transport4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

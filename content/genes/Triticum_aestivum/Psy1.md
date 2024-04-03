@@ -8,7 +8,7 @@ tags: [ development,grain,grain length,endosperm,endosperm development ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G557300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G557300)
-- **Gene Symbol:** Psy1
+- **Gene Symbol:** <u>Psy1</u>
 - **Gene Name:** Phytoene synthase 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

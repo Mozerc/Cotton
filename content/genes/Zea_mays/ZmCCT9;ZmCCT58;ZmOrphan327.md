@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb391230](https://www.maizegdb.org/gene_center/gene/Zm00001eb391230)
-- **Gene Symbol:** ZmCCT9;ZmCCT58;ZmOrphan327
+- **Gene Symbol:** <u>ZmCCT9</u>&nbsp;<u>ZmCCT58</u>&nbsp;<u>ZmOrphan327</u>
 - **Gene Name:** CO CO-LIKE TIMING OF CAB1 protein domain2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

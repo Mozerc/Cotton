@@ -8,7 +8,7 @@ tags: [ leaf,chloroplast,development,leaf development,seedling,leaf color,chloro
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb169360](https://www.maizegdb.org/gene_center/gene/Zm00001eb169360)
-- **Gene Symbol:** ZmSig2A
+- **Gene Symbol:** <u>ZmSig2A</u>
 - **Gene Name:** sigma factor sig2A
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

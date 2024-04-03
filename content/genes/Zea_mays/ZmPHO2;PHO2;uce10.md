@@ -8,7 +8,7 @@ tags: [ senescence,domestication,homeostasis,ubiquitin,phosphate,pi,pi homeostas
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb295490](https://www.maizegdb.org/gene_center/gene/Zm00001eb295490)
-- **Gene Symbol:** ZmPHO2;PHO2;uce10
+- **Gene Symbol:** <u>ZmPHO2</u>&nbsp;<u>PHO2</u>&nbsp;<u>uce10</u>
 - **Gene Name:** Phosphate 2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,seed,embryo,endosperm,seed development,endosperm development
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb316080](https://www.maizegdb.org/gene_center/gene/Zm00001eb316080)
-- **Gene Symbol:** RCL1
+- **Gene Symbol:** <u>RCL1</u>
 - **Gene Name:** RNA 3'-terminal phosphate cyclase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

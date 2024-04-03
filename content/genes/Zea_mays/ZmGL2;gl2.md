@@ -8,7 +8,7 @@ tags: [ growth,cuticle,fatty acid biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071110](https://www.maizegdb.org/gene_center/gene/Zm00001eb071110)
-- **Gene Symbol:** ZmGL2;gl2
+- **Gene Symbol:** <u>ZmGL2</u>&nbsp;<u>gl2</u>
 - **Gene Name:** glossy2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

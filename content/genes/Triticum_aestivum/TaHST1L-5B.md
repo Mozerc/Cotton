@@ -8,7 +8,7 @@ tags: [ auxin,tiller,yield,architecture,plant architecture,tiller angle ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5B02G316900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B02G316900)
-- **Gene Symbol:** TaHST1L-5B
+- **Gene Symbol:** <u>TaHST1L-5B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

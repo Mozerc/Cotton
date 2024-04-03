@@ -8,7 +8,7 @@ tags: [ leaf,seed,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[BnaA03g40190D]()
-- **Gene Symbol:** BnaA3.MYB28
+- **Gene Symbol:** <u>BnaA3.MYB28</u>
 - **Gene Name:** 
 - **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
@@ -19,10 +19,10 @@ tags: [ leaf,seed,breeding ]
    - **BnaA03g40190D** (**BnaA3.MYB28**) gene was not fixed and was responsible for high leaf/low seed GSL content.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[breeding](/tags/breeding/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[breeding](/tags/breeding/)
 
 ## Literature:
-   - [Dissection of genetic architecture for glucosinolate accumulations in leaves and seeds of Brassica napus by genome-wide association study.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13314)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13314](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13314)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31820843](https://pubmed.ncbi.nlm.nih.gov/31820843/)
+   - [Dissection of genetic architecture for glucosinolate accumulations in leaves and seeds of Brassica napus by genome-wide association study.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13314)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13314](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13314);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31820843](https://pubmed.ncbi.nlm.nih.gov/31820843/)
 
 ## Related News:
    - [华中农大周永明团队通过全基因组关联分析发现调控油菜营养体—硫苷含量的重要基因](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247493574&idx=3&sn=aaf5a0791ff75a4cccff2d2afa32148f&chksm=e8bd95d8dfca1cce69e59fc94cd1066d878adbc30e599f5fd95a2b426507bb2965625009f96b&scene=27#wechat_redirect)

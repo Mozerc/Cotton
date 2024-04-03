@@ -8,7 +8,7 @@ tags: [ grain,domestication,grain yield,yield,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.05G239400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.05G239400)
-- **Gene Symbol:** FKF1a
+- **Gene Symbol:** <u>FKF1a</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ grain,domestication,grain yield,yield,flowering time,flowering ]
    - FKF1s have roles in the unique soybean photoperiodic flowering pathway.
 
 ## Function-related keywords:
-   - [grain](/tags/grain/)&nbsp;,&nbsp;[domestication](/tags/domestication/)&nbsp;,&nbsp;[grain-yield](/tags/grain-yield/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [grain](/tags/grain/),&nbsp;&nbsp;[domestication](/tags/domestication/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [Natural variation of FKF1 controls flowering and adaptation during soybean domestication and improvement.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18826](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18826)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36811193](https://pubmed.ncbi.nlm.nih.gov/36811193/)
+   - [Natural variation of FKF1 controls flowering and adaptation during soybean domestication and improvement.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18826)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18826](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18826);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36811193](https://pubmed.ncbi.nlm.nih.gov/36811193/)
 
 ## Related News:
    - [New Phytologist | 南京农业大学合作揭示FKF1调控大豆开花和适应性的分子机制](https://mp.weixin.qq.com/s/14fkJM9Ngvp56y_II2jb4A)

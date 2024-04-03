@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,auxin,auxin response,leaf shape,sugar,
 
 ## Gene Details:
 - **Gene ID:**	[MD00G1130200]()
-- **Gene Symbol:** MdbHLH3-27
+- **Gene Symbol:** <u>MdbHLH3-27</u>
 - **Gene Name:** Malus domestica basic helix–loop–helix 3
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -22,12 +22,12 @@ tags: [ leaf,development,leaf development,auxin,auxin response,leaf shape,sugar,
    - **MdbHLH3** promotes F6P and sucrose accumulation by activating MdPFPβ expression.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[leaf-development](/tags/leaf-development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[leaf-shape](/tags/leaf-shape/)&nbsp;,&nbsp;[sugar](/tags/sugar/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[dehydrogenase](/tags/dehydrogenase/)&nbsp;,&nbsp;[carbohydrate-metabolism](/tags/carbohydrate-metabolism/)&nbsp;,&nbsp;[fructose](/tags/fructose/)&nbsp;,&nbsp;[fructose-accumulation](/tags/fructose-accumulation/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[leaf-development](/tags/leaf-development/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/),&nbsp;&nbsp;[leaf-shape](/tags/leaf-shape/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[dehydrogenase](/tags/dehydrogenase/),&nbsp;&nbsp;[carbohydrate-metabolism](/tags/carbohydrate-metabolism/),&nbsp;&nbsp;[fructose](/tags/fructose/),&nbsp;&nbsp;[fructose-accumulation](/tags/fructose-accumulation/)
 
 ## Literature:
-   - [MdbHLH3 modulates apple soluble sugar content by activating phosphofructokinase gene expression.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13236)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13236](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13236)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35199464](https://pubmed.ncbi.nlm.nih.gov/35199464/)
-   - [A basic/helix-loop-helix transcription factor controls leaf shape by regulating auxin signaling in apple.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16828)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16828](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16828)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32712992](https://pubmed.ncbi.nlm.nih.gov/32712992/)
-   - [The apple bHLH transcription factor MdbHLH3 functions in determining the fruit carbohydrates and malate.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13461)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13461](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13461)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32757335](https://pubmed.ncbi.nlm.nih.gov/32757335/)
+   - [MdbHLH3 modulates apple soluble sugar content by activating phosphofructokinase gene expression.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13236)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13236](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13236);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35199464](https://pubmed.ncbi.nlm.nih.gov/35199464/)
+   - [A basic/helix-loop-helix transcription factor controls leaf shape by regulating auxin signaling in apple.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16828)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16828](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16828);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32712992](https://pubmed.ncbi.nlm.nih.gov/32712992/)
+   - [The apple bHLH transcription factor MdbHLH3 functions in determining the fruit carbohydrates and malate.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13461)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13461](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13461);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32757335](https://pubmed.ncbi.nlm.nih.gov/32757335/)
 
 ## Related News:
    - [JIPB | 山东农业大学胡大刚课题组发现苹果转录因子调控可溶性糖积累新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247526136&idx=4&sn=35efe815a21d28370ec4ff1177baec67&chksm=ce90cbadf9e742bb2e6ee7d4dd3f6e0697841d2a9ac83b5803e0f772c1392591ee2209974d0f&scene=27#wechat_redirect)

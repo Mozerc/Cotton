@@ -8,7 +8,7 @@ tags: [ stem,meristem,inflorescence ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb067310](https://www.maizegdb.org/gene_center/gene/Zm00001eb067310)
-- **Gene Symbol:** ZmWUS1;hb67
+- **Gene Symbol:** <u>ZmWUS1</u>&nbsp;<u>hb67</u>
 - **Gene Name:** Homeobox-transcription factor 67
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

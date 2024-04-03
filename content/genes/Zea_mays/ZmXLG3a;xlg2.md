@@ -8,7 +8,7 @@ tags: [ development,plant development,seedling,height,plant height ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb209950](https://www.maizegdb.org/gene_center/gene/Zm00001eb209950)
-- **Gene Symbol:** ZmXLG3a;xlg2
+- **Gene Symbol:** <u>ZmXLG3a</u>&nbsp;<u>xlg2</u>
 - **Gene Name:** extra-large guanine nucleotide-binding protein2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

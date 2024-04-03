@@ -8,7 +8,7 @@ tags: [ stress,salt,salt stress,homeostasis,calcium ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb160330](https://www.maizegdb.org/gene_center/gene/Zm00001eb160330)
-- **Gene Symbol:** ZmSCaBP8;CBL10
+- **Gene Symbol:** <u>ZmSCaBP8</u>&nbsp;<u>CBL10</u>
 - **Gene Name:** calcineurin B-like10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

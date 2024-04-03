@@ -8,7 +8,7 @@ tags: [ resistance,oxidative,defence,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1B02G022400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G022400)
-- **Gene Symbol:** TaRLK-R1
+- **Gene Symbol:** <u>TaRLK-R1</u>
 - **Gene Name:** Receptor-like kinase
 - **Genome:** [IWGSC reference sequence v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

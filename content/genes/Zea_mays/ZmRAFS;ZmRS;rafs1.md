@@ -8,7 +8,7 @@ tags: [ leaf,drought,stress,drought stress,salinity,tolerance,cold tolerance,col
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb122980](https://www.maizegdb.org/gene_center/gene/Zm00001eb122980)
-- **Gene Symbol:** ZmRAFS;ZmRS;rafs1
+- **Gene Symbol:** <u>ZmRAFS</u>&nbsp;<u>ZmRS</u>&nbsp;<u>rafs1</u>
 - **Gene Name:** raffinose synthase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

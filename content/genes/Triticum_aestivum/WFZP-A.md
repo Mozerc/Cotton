@@ -8,7 +8,7 @@ tags: [ development,spikelet,awn,yield,breeding,spikelet development ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G116900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G116900)
-- **Gene Symbol:** WFZP-A
+- **Gene Symbol:** <u>WFZP-A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

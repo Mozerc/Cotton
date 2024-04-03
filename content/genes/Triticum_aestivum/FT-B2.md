@@ -8,7 +8,7 @@ tags: [ spikelet,grain,grain number,grain yield,yield,spikelet number,grain weig
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G162000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G162000)
-- **Gene Symbol:** FT-B2
+- **Gene Symbol:** <u>FT-B2</u>
 - **Gene Name:** FLOWERING LOCUS T2
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ leaf,map-based cloning,transporter,breeding,phosphate,phosphatase,pi,nod
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb388200](https://www.maizegdb.org/gene_center/gene/Zm00001eb388200)
-- **Gene Symbol:** ZmAPRG;arpg1
+- **Gene Symbol:** <u>ZmAPRG</u>&nbsp;<u>arpg1</u>
 - **Gene Name:** acid phosphatase-regulating gene1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,development,stress,abiotic stress,signal transduction ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb312910](https://www.maizegdb.org/gene_center/gene/Zm00001eb312910)
-- **Gene Symbol:** ZmCDPK17;ZmCDPK18;ZmCDPK19;ZmCDPK22;cdpk23
+- **Gene Symbol:** <u>ZmCDPK17</u>&nbsp;<u>ZmCDPK18</u>&nbsp;<u>ZmCDPK19</u>&nbsp;<u>ZmCDPK22</u>&nbsp;<u>cdpk23</u>
 - **Gene Name:** calcium dependent protein kinase23
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

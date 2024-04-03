@@ -9,7 +9,7 @@ tags: [resistance, grains per panicle, seed, yield, blast, magnaporthe oryzae, i
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Osa-miR162a
+- **Gene Symbol:** <u>Osa-miR162a</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

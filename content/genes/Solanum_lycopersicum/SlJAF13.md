@@ -8,7 +8,7 @@ tags: [ transcription factor,transcription regulator,anthocyanin biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc08g081140]()
-- **Gene Symbol:** SlJAF13
+- **Gene Symbol:** <u>SlJAF13</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -20,10 +20,10 @@ tags: [ transcription factor,transcription regulator,anthocyanin biosynthesis ]
    - **SlJAF13** interacts with SlMYC2, inhibiting SlMYC2 activation of SlJAZ2 transcription, thus constituting a negative feedback loop governing anthocyanin accumulation.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
 
 ## Literature:
-   - [A dual-function transcription factor, SlJAF13, promotes anthocyanin biosynthesis in tomato.]( https://academic.oup.com/jxb/article/73/16/5559/6584502?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac209](https://academic.oup.com/jxb/article/73/16/5559/6584502?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35552695](https://pubmed.ncbi.nlm.nih.gov/35552695/)
+   - [A dual-function transcription factor, SlJAF13, promotes anthocyanin biosynthesis in tomato.]( https://academic.oup.com/jxb/article/73/16/5559/6584502?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erac209](https://academic.oup.com/jxb/article/73/16/5559/6584502?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35552695](https://pubmed.ncbi.nlm.nih.gov/35552695/)
 
 ## Related News:
    - [JXB | 东北林业大学李玉花/王宇揭示转录因子SlJAF13调控番茄果实花青素积累的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247529465&idx=6&sn=50200a8ec5ea660a7917808b470a06be&chksm=ce90deacf9e757baad547006c3453ef7859b3338fcfb99b1a49376ebd103461164e1f047f59a&scene=27#wechat_redirect)

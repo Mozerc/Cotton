@@ -8,7 +8,7 @@ tags: [ development,starch,endosperm,phytohormone,endosperm development,starch b
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366170](https://www.maizegdb.org/gene_center/gene/Zm00001eb366170)
-- **Gene Symbol:** ZmRPABC5b;Dek701
+- **Gene Symbol:** <u>ZmRPABC5b</u>&nbsp;<u>Dek701</u>
 - **Gene Name:** defective kernel701
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

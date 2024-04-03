@@ -8,7 +8,7 @@ tags: [ leaf,auxin ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb274800](https://www.maizegdb.org/gene_center/gene/Zm00001eb274800)
-- **Gene Symbol:** ZmSPL14;sbp3
+- **Gene Symbol:** <u>ZmSPL14</u>&nbsp;<u>sbp3</u>
 - **Gene Name:** SBP-domain protein3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,development,homeostasis,endosperm,endosperm development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb065890](https://www.maizegdb.org/gene_center/gene/Zm00001eb065890)
-- **Gene Symbol:** ZmCTLP1;smk10
+- **Gene Symbol:** <u>ZmCTLP1</u>&nbsp;<u>smk10</u>
 - **Gene Name:** choline transporter-like protein 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

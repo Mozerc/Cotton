@@ -8,7 +8,7 @@ tags: [ transcription factor,stress,tolerance,stress tolerance,osmotic tolerance
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb079630](https://www.maizegdb.org/gene_center/gene/Zm00001eb079630)
-- **Gene Symbol:** ZmNAC111;nactf111;IDP8617
+- **Gene Symbol:** <u>ZmNAC111</u>&nbsp;<u>nactf111</u>&nbsp;<u>IDP8617</u>
 - **Gene Name:** NAC-transcription factor 111
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ leaf,development,spikelet,leaf development,shoot,meristem,spikelet meris
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb005840](https://www.maizegdb.org/gene_center/gene/Zm00001eb005840)
-- **Gene Symbol:** ZmCT2;ct2
+- **Gene Symbol:** <u>ZmCT2</u>&nbsp;<u>ct2</u>
 - **Gene Name:** compact plant2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

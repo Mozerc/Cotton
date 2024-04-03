@@ -8,7 +8,7 @@ tags: [ transporter,sugar,sucrose,sucrose transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb036880](https://www.maizegdb.org/gene_center/gene/Zm00001eb036880)
-- **Gene Symbol:** ZmSWEET11;sweet11a
+- **Gene Symbol:** <u>ZmSWEET11</u>&nbsp;<u>sweet11a</u>
 - **Gene Name:** sugars will eventually be exported transporter11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

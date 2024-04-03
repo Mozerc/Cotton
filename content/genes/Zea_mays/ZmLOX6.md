@@ -8,7 +8,7 @@ tags: [ nitrogen,development,grain,drought,stress,drought stress,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb067710](https://www.maizegdb.org/gene_center/gene/Zm00001eb067710)
-- **Gene Symbol:** ZmLOX6
+- **Gene Symbol:** <u>ZmLOX6</u>
 - **Gene Name:** lipoxygenase6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

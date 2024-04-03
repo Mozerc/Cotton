@@ -8,7 +8,7 @@ tags: [ grain,grain protein ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb316620](https://www.maizegdb.org/gene_center/gene/Zm00001eb316620)
-- **Gene Symbol:** ZmGAR2;GAR2
+- **Gene Symbol:** <u>ZmGAR2</u>&nbsp;<u>GAR2</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

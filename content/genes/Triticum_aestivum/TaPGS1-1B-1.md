@@ -8,7 +8,7 @@ tags: [ development,grain,grain size,seed,grain yield,yield,grain weight,seed we
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1B02G112900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G112900)
-- **Gene Symbol:** TaPGS1-1B-1
+- **Gene Symbol:** <u>TaPGS1-1B-1</u>
 - **Gene Name:** T. aestivum POSITIVE REGULATOR of GRAIN SIZE 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

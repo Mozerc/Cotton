@@ -8,7 +8,7 @@ tags: [ nucleus,cold,flowering,vernalization ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G020300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G020300)
-- **Gene Symbol:** TaGRP2
+- **Gene Symbol:** <u>TaGRP2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

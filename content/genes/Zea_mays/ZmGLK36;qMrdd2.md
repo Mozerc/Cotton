@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,breeding,dwar
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071920](https://www.maizegdb.org/gene_center/gene/Zm00001eb071920)
-- **Gene Symbol:** ZmGLK36;qMrdd2
+- **Gene Symbol:** <u>ZmGLK36</u>&nbsp;<u>qMrdd2</u>
 - **Gene Name:** G2-like-transcription factor 36
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

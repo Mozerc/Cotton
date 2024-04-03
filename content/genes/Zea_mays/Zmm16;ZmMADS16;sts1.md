@@ -8,7 +8,7 @@ tags: [ sterile ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb145660](https://www.maizegdb.org/gene_center/gene/Zm00001eb145660)
-- **Gene Symbol:** ZMM16;ZmMADS16;sts1
+- **Gene Symbol:** <u>ZMM16</u>&nbsp;<u>ZmMADS16</u>&nbsp;<u>sts1</u>
 - **Gene Name:** Zea mays MADS16
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

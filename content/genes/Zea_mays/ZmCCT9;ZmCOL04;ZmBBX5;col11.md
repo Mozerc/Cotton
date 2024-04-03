@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb078490](https://www.maizegdb.org/gene_center/gene/Zm00001eb078490)
-- **Gene Symbol:** ZmCCT9;ZmCOL04;ZmBBX5;col11
+- **Gene Symbol:** <u>ZmCCT9</u>&nbsp;<u>ZmCOL04</u>&nbsp;<u>ZmBBX5</u>&nbsp;<u>col11</u>
 - **Gene Name:** C2C2-CO-like-transcription factor 11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,cytokinin,phytohormone,heat stres
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb367250](https://www.maizegdb.org/gene_center/gene/Zm00001eb367250)
-- **Gene Symbol:** ZmCGT2_3;czog2
+- **Gene Symbol:** <u>ZmCGT2_3</u>&nbsp;<u>czog2</u>
 - **Gene Name:** cis-zeatin O-glucosyltransferase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

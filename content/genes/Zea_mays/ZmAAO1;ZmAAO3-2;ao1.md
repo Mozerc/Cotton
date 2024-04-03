@@ -8,7 +8,7 @@ tags: [ stem,development,plant development,drought,stress,drought stress,seedlin
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb060250](https://www.maizegdb.org/gene_center/gene/Zm00001eb060250)
-- **Gene Symbol:** ZmAAO1;ZmAAO3-2;ao1
+- **Gene Symbol:** <u>ZmAAO1</u>&nbsp;<u>ZmAAO3-2</u>&nbsp;<u>ao1</u>
 - **Gene Name:** aldehyde oxidase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

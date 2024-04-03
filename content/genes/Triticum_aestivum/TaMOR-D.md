@@ -8,7 +8,7 @@ tags: [ root,development,grain,auxin,plant development,panicle,grain number,grai
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G312800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G312800)
-- **Gene Symbol:** TaMOR-D
+- **Gene Symbol:** <u>TaMOR-D</u>
 - **Gene Name:** MORE ROOT
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

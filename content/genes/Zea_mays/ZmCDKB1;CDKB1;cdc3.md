@@ -8,7 +8,7 @@ tags: [ kinase,cell cycle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb163790](https://www.maizegdb.org/gene_center/gene/Zm00001eb163790)
-- **Gene Symbol:** ZmCDKB1;CDKB1;cdc3
+- **Gene Symbol:** <u>ZmCDKB1</u>&nbsp;<u>CDKB1</u>&nbsp;<u>cdc3</u>
 - **Gene Name:** cell division control protein homolog3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

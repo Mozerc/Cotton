@@ -8,7 +8,7 @@ tags: [ leaf,stem,growth,stems,map-based cloning,virus ]
 
 ## Gene Details:
 - **Gene ID:**	[GH_D08G0109]()
-- **Gene Symbol:** GoSTR
+- **Gene Symbol:** <u>GoSTR</u>
 - **Gene Name:** Gossypium Stem Trichome Repressor
 - **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ leaf,stem,growth,stems,map-based cloning,virus ]
    - These results indicate that **GoSTR** functions as an essential negative modulator of stem trichomes and its transcripts will greatly repress trichome cell differentiation and growth.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[stem](/tags/stem/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[stems](/tags/stems/)&nbsp;,&nbsp;[map-based-cloning](/tags/map-based-cloning/)&nbsp;,&nbsp;[virus](/tags/virus/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[stem](/tags/stem/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[stems](/tags/stems/),&nbsp;&nbsp;[map-based-cloning](/tags/map-based-cloning/),&nbsp;&nbsp;[virus](/tags/virus/)
 
 ## Literature:
-   - [GoSTR, a negative modulator of stem trichome formation in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16379)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16379](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16379)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403589](https://pubmed.ncbi.nlm.nih.gov/37403589/)
+   - [GoSTR, a negative modulator of stem trichome formation in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16379)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16379](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16379);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37403589](https://pubmed.ncbi.nlm.nih.gov/37403589/)
 
 ## Related News:
    - [Plant Journal | 浙江大学棉花精准育种团队发现控制棉花茎秆绒毛发育的关键基因](https://mp.weixin.qq.com/s/80F-V2DiPWLufF5F0USiwg)

@@ -8,7 +8,7 @@ tags: [ iron ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb256000](https://www.maizegdb.org/gene_center/gene/Zm00001eb256000)
-- **Gene Symbol:** ZmFLS2;fls2
+- **Gene Symbol:** <u>ZmFLS2</u>&nbsp;<u>fls2</u>
 - **Gene Name:** flavonol synthase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,flower,flower development ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G020800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G020800)
-- **Gene Symbol:** TaSEP6-7B
+- **Gene Symbol:** <u>TaSEP6-7B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

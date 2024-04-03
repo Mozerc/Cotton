@@ -8,7 +8,7 @@ tags: [ leaf,leaf patterning ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb093670](https://www.maizegdb.org/gene_center/gene/Zm00001eb093670)
-- **Gene Symbol:** ZmSCR1h;ZmSCR2;ZmScarecrow2;gras37
+- **Gene Symbol:** <u>ZmSCR1h</u>&nbsp;<u>ZmSCR2</u>&nbsp;<u>ZmScarecrow2</u>&nbsp;<u>gras37</u>
 - **Gene Name:** GRAS-transcription factor 37
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

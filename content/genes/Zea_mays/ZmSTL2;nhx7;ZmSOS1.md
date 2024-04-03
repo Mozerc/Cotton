@@ -8,7 +8,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb033240](https://www.maizegdb.org/gene_center/gene/Zm00001eb033240)
-- **Gene Symbol:** ZmSTL2;nhx7;ZmSOS1
+- **Gene Symbol:** <u>ZmSTL2</u>&nbsp;<u>nhx7</u>&nbsp;<u>ZmSOS1</u>
 - **Gene Name:** Salt Tolerance Locus 2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

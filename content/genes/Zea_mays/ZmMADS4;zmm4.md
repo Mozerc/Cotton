@@ -8,7 +8,7 @@ tags: [ leaf,shoot,floral,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb057540](https://www.maizegdb.org/gene_center/gene/Zm00001eb057540)
-- **Gene Symbol:** ZmMADS4;zmm4
+- **Gene Symbol:** <u>ZmMADS4</u>&nbsp;<u>zmm4</u>
 - **Gene Name:** Zea mays MADS4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

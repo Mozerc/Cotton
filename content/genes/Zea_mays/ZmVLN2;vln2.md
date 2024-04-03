@@ -8,7 +8,7 @@ tags: [ development,breeding,peduncle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb362860](https://www.maizegdb.org/gene_center/gene/Zm00001eb362860)
-- **Gene Symbol:** ZmVLN2;vln2
+- **Gene Symbol:** <u>ZmVLN2</u>&nbsp;<u>vln2</u>
 - **Gene Name:** villin-like2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

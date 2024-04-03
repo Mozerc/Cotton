@@ -8,7 +8,7 @@ tags: [ root,seedling,root elongation,lateral root,primary root,root length,late
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb372610](https://www.maizegdb.org/gene_center/gene/Zm00001eb372610)
-- **Gene Symbol:** ZmMADS60
+- **Gene Symbol:** <u>ZmMADS60</u>
 - **Gene Name:** MADS-transcription factor 60
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

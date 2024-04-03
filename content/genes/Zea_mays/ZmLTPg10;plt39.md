@@ -8,7 +8,7 @@ tags: [ fertility,stress,abiotic stress,biotic stress,male fertility,stress resp
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb080620](https://www.maizegdb.org/gene_center/gene/Zm00001eb080620)
-- **Gene Symbol:** ZmLTPg10;plt39
+- **Gene Symbol:** <u>ZmLTPg10</u>&nbsp;<u>plt39</u>
 - **Gene Name:** phospholipid transfer protein39
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

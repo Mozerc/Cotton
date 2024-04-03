@@ -8,7 +8,7 @@ tags: [ development,spikelet,spikelet development ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G157500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G157500)
-- **Gene Symbol:** WAG2-3B;AG2-3B
+- **Gene Symbol:** <u>WAG2-3B</u>&nbsp;<u>AG2-3B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

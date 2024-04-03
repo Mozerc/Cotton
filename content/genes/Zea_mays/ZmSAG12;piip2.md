@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb228160](https://www.maizegdb.org/gene_center/gene/Zm00001eb228160)
-- **Gene Symbol:** ZmSAG12;piip2
+- **Gene Symbol:** <u>ZmSAG12</u>&nbsp;<u>piip2</u>
 - **Gene Name:** physical impedance induced protein2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

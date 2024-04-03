@@ -8,7 +8,7 @@ tags: [ br,cell elongation,resistant ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb384820](https://www.maizegdb.org/gene_center/gene/Zm00001eb384820)
-- **Gene Symbol:** ZmBZR1;ZmBES1;BZR1-1;ZmBZR3;bzr1
+- **Gene Symbol:** <u>ZmBZR1</u>&nbsp;<u>ZmBES1</u>&nbsp;<u>BZR1-1</u>&nbsp;<u>ZmBZR3</u>&nbsp;<u>bzr1</u>
 - **Gene Name:** BZR-transcription factor 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

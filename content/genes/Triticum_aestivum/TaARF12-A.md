@@ -8,7 +8,7 @@ tags: [ grain,grain length,auxin,grain yield,yield,auxin response,height,plant h
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A03G1263300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A03G1263300)
-- **Gene Symbol:** TaARF12-A
+- **Gene Symbol:** <u>TaARF12-A</u>
 - **Gene Name:** Auxin response factor 12
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

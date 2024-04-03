@@ -8,7 +8,7 @@ tags: [ root,root elongation,root initiation,primary root,root hair,root length,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb148780](https://www.maizegdb.org/gene_center/gene/Zm00001eb148780)
-- **Gene Symbol:** RTH5;ZmRBOHE
+- **Gene Symbol:** <u>RTH5</u>&nbsp;<u>ZmRBOHE</u>
 - **Gene Name:** roothairless 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

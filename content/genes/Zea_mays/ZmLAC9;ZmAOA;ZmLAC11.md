@@ -8,7 +8,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb149240](https://www.maizegdb.org/gene_center/gene/Zm00001eb149240)
-- **Gene Symbol:** ZmLAC9;ZmAOA;ZmLAC11
+- **Gene Symbol:** <u>ZmLAC9</u>&nbsp;<u>ZmAOA</u>&nbsp;<u>ZmLAC11</u>
 - **Gene Name:** ZmLACCASE9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

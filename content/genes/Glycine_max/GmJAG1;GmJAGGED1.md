@@ -8,7 +8,7 @@ tags: [ yield ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.20G116200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.20G116200)
-- **Gene Symbol:** GmJAG1;GmJAGGED1
+- **Gene Symbol:** <u>GmJAG1</u>&nbsp;<u>GmJAGGED1</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -24,7 +24,7 @@ tags: [ yield ]
    - [yield](/tags/yield/)
 
 ## Literature:
-   - [CRISPR/Cas9-mediated gene editing of GmJAGGED1 increased yield in the low-latitude soybean variety Huachun 6.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13673)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13673](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13673)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34289223](https://pubmed.ncbi.nlm.nih.gov/34289223/)
+   - [CRISPR/Cas9-mediated gene editing of GmJAGGED1 increased yield in the low-latitude soybean variety Huachun 6.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13673)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13673](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13673);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34289223](https://pubmed.ncbi.nlm.nih.gov/34289223/)
 
 ## Related News:
    - [华南农大国家大豆改良中心利用CRISPR/Cas9技术对大豆品种华春6号进行定点编辑，创造出高产大豆材料](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247519713&idx=6&sn=c3269264143235d2040590e119d0e8e8&chksm=e8bdffffdfca76e92e92dfbffd74cc88ceb6e3464e2baeebda552359b3f29aac06882c9f9b06&scene=27#wechat_redirect)

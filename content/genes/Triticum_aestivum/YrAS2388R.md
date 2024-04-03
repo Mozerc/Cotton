@@ -8,7 +8,7 @@ tags: [ resistance,breeding,resistant,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G004100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G004100)
-- **Gene Symbol:** YrAS2388R
+- **Gene Symbol:** <u>YrAS2388R</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

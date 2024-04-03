@@ -8,7 +8,7 @@ tags: [ grain,drought,grain yield,tolerance,yield,aba,drought tolerance,drought 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1B02G206600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G206600)
-- **Gene Symbol:** TaPYL1-1B
+- **Gene Symbol:** <u>TaPYL1-1B</u>
 - **Gene Name:** Polyketide cyclase / dehydrase and lipid transport 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

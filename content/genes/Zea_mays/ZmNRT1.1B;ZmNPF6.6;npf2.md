@@ -8,7 +8,7 @@ tags: [ nitrogen,growth,plant growth,nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb023600](https://www.maizegdb.org/gene_center/gene/Zm00001eb023600)
-- **Gene Symbol:** ZmNRT1.1B;ZmNPF6.6;npf2
+- **Gene Symbol:** <u>ZmNRT1.1B</u>&nbsp;<u>ZmNPF6.6</u>&nbsp;<u>npf2</u>
 - **Gene Name:** nitrate transporter/peptide transporter family2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

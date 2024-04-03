@@ -8,7 +8,7 @@ tags: [ development,seed,endosperm,seed development,endosperm development,seed f
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb373160](https://www.maizegdb.org/gene_center/gene/Zm00001eb373160)
-- **Gene Symbol:** ZmICK7;cki7
+- **Gene Symbol:** <u>ZmICK7</u>&nbsp;<u>cki7</u>
 - **Gene Name:** cyclin-dependent kinase inhibitor7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

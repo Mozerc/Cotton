@@ -8,7 +8,7 @@ tags: [ root,growth,down-regulated genes,root growth,cell wall,cellulose,primary
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb025100](https://www.maizegdb.org/gene_center/gene/Zm00001eb025100)
-- **Gene Symbol:** RTH6
+- **Gene Symbol:** <u>RTH6</u>
 - **Gene Name:** roothairless 6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

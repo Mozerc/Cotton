@@ -8,7 +8,7 @@ tags: [ development,resistance,immunity,resistant,lesion,powdery mildew,mildew r
 
 ## Gene Details:
 - **Gene ID:**	[TraesCSU02G074100LC](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCSU02G074100LC)
-- **Gene Symbol:** Mds-1
+- **Gene Symbol:** <u>Mds-1</u>
 - **Gene Name:** Mayetiola destructor susceptibility-1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

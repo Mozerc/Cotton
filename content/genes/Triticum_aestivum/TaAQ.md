@@ -8,7 +8,7 @@ tags: [ development,grain,plant development,domestication,floral,inflorescence,h
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G473800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G473800)
-- **Gene Symbol:** TaAQ
+- **Gene Symbol:** <u>TaAQ</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

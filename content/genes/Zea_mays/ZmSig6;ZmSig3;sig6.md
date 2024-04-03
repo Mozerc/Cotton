@@ -8,7 +8,7 @@ tags: [ chloroplast,development,chloroplast development,plastid ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb210370](https://www.maizegdb.org/gene_center/gene/Zm00001eb210370)
-- **Gene Symbol:** ZmSig6;ZmSig3;sig6
+- **Gene Symbol:** <u>ZmSig6</u>&nbsp;<u>ZmSig3</u>&nbsp;<u>sig6</u>
 - **Gene Name:** sigma-like factor6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

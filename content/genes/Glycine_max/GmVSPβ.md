@@ -8,7 +8,7 @@ tags: [ stress,defense,insect ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.08g200100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.08g200100)
-- **Gene Symbol:** GmVSPβ
+- **Gene Symbol:** <u>GmVSPβ</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ stress,defense,insect ]
    - Suggesting that **GmVSPβ** and GmN:IFR most likely represent inducible promoters related to the induced defense mechanism in soybean.
 
 ## Function-related keywords:
-   - [stress](/tags/stress/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[insect](/tags/insect/)
+   - [stress](/tags/stress/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[insect](/tags/insect/)
 
 ## Literature:
-   - [Identification of transcriptional regulatory nodes in soybean defense networks using transient co-transactivation assays.]( https://www.frontiersin.org/articles/10.3389/fpls.2015.00915/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2015.00915](https://www.frontiersin.org/articles/10.3389/fpls.2015.00915/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26579162](https://pubmed.ncbi.nlm.nih.gov/26579162/)
+   - [Identification of transcriptional regulatory nodes in soybean defense networks using transient co-transactivation assays.]( https://www.frontiersin.org/articles/10.3389/fpls.2015.00915/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2015.00915](https://www.frontiersin.org/articles/10.3389/fpls.2015.00915/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[26579162](https://pubmed.ncbi.nlm.nih.gov/26579162/)
 
 ## Related News:
 

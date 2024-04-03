@@ -8,7 +8,7 @@ tags: [ tillering,grain,grain yield,yield,architecture,plant architecture ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G497200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G497200)
-- **Gene Symbol:** TaCol-7A
+- **Gene Symbol:** <u>TaCol-7A</u>
 - **Gene Name:** CONSTANS-like protein
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

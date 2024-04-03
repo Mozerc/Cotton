@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salt,cold stress,salt stress,cold,height,p
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb348450](https://www.maizegdb.org/gene_center/gene/Zm00001eb348450)
-- **Gene Symbol:** ACTIN7;act1
+- **Gene Symbol:** <u>ACTIN7</u>&nbsp;<u>act1</u>
 - **Gene Name:** actin1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

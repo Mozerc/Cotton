@@ -8,7 +8,7 @@ tags: [ fertility,pollen,breeding,sterile,heterosis,pollen fertility ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.16G161900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.16G161900)
-- **Gene Symbol:** GmPPR576
+- **Gene Symbol:** <u>GmPPR576</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -19,10 +19,10 @@ tags: [ fertility,pollen,breeding,sterile,heterosis,pollen fertility ]
    - The application of **GmPPR576** can be expected to promote the wider use of heterosis in soybean breeding.
 
 ## Function-related keywords:
-   - [fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[sterile](/tags/sterile/)&nbsp;,&nbsp;[heterosis](/tags/heterosis/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
+   - [fertility](/tags/fertility/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[sterile](/tags/sterile/),&nbsp;&nbsp;[heterosis](/tags/heterosis/),&nbsp;&nbsp;[pollen-fertility](/tags/pollen-fertility/)
 
 ## Literature:
-   - [Confirmation of GmPPR576 as a fertility restorer gene of cytoplasmic male sterility in soybean.]( https://academic.oup.com/jxb/article/72/22/7729/6352794?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab382](https://academic.oup.com/jxb/article/72/22/7729/6352794?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34397079](https://pubmed.ncbi.nlm.nih.gov/34397079/)
+   - [Confirmation of GmPPR576 as a fertility restorer gene of cytoplasmic male sterility in soybean.]( https://academic.oup.com/jxb/article/72/22/7729/6352794?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab382](https://academic.oup.com/jxb/article/72/22/7729/6352794?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34397079](https://pubmed.ncbi.nlm.nih.gov/34397079/)
 
 ## Related News:
    - [南京农大团队在大豆质核互作雄性不育机理研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247529727&idx=3&sn=7207a3f4f797c1cc900b3cf97e5f51f9&chksm=e8bd06e1dfca8ff729916a01e3511ab8e8cc21c9d3bfb71a40e2297c7b47b10586f61d25adef&scene=27#wechat_redirect)

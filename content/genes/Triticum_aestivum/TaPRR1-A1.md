@@ -8,7 +8,7 @@ tags: [ grain,grain yield,yield,grain weight,height,heading date,plant height,gr
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6A02G227900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6A02G227900)
-- **Gene Symbol:** TaPRR1-A1
+- **Gene Symbol:** <u>TaPRR1-A1</u>
 - **Gene Name:** response regulator 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

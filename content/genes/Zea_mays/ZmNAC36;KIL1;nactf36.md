@@ -8,7 +8,7 @@ tags: [ transcription factor,senescence,fertility,flower,yield,cell death,merist
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb077580](https://www.maizegdb.org/gene_center/gene/Zm00001eb077580)
-- **Gene Symbol:** ZmNAC36;KIL1;nactf36
+- **Gene Symbol:** <u>ZmNAC36</u>&nbsp;<u>KIL1</u>&nbsp;<u>nactf36</u>
 - **Gene Name:** KIRA1-LIKE1;NAC-transcription factor 36
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

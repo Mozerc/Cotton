@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,tolerance,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D02G190500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2D02G190500)
-- **Gene Symbol:** TaWRKY1-2D
+- **Gene Symbol:** <u>TaWRKY1-2D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

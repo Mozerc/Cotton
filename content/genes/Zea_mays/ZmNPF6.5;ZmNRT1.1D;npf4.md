@@ -8,7 +8,7 @@ tags: [ root,shoot,nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb000390](https://www.maizegdb.org/gene_center/gene/Zm00001eb000390)
-- **Gene Symbol:** ZmNPF6.5;ZmNRT1.1D;npf4
+- **Gene Symbol:** <u>ZmNPF6.5</u>&nbsp;<u>ZmNRT1.1D</u>&nbsp;<u>npf4</u>
 - **Gene Name:** nitrate transporter/peptide transporter family4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

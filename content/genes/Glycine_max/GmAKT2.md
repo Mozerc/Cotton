@@ -8,7 +8,7 @@ tags: [ resistance,potassium,resistant ]
 
 ## Gene Details:
 - **Gene ID:**	[Glym08g20030.1](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glym08g20030.1)
-- **Gene Symbol:** GmAKT2
+- **Gene Symbol:** <u>GmAKT2</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ resistance,potassium,resistant ]
    - Transgenic soybean plants overexpressing **GmAKT2** were produced and verified by Southern blot and RT-PCR analysis. Analysis of K+ concentrations on different leaves of both the transgenic and the wildtype (Williams 82) plants revealed that overexpression of **GmAKT2** significantly increased K+ concentrations in young leaves of plants.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[potassium](/tags/potassium/)&nbsp;,&nbsp;[resistant](/tags/resistant/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[potassium](/tags/potassium/),&nbsp;&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
-   - [Overexpression of GmAKT2 potassium channel enhances resistance to soybean mosaic virus.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-154)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2229-14-154](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-154)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24893844](https://pubmed.ncbi.nlm.nih.gov/24893844/)
+   - [Overexpression of GmAKT2 potassium channel enhances resistance to soybean mosaic virus.]( https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-154)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2229-14-154](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-14-154);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24893844](https://pubmed.ncbi.nlm.nih.gov/24893844/)
 
 ## Related News:
 

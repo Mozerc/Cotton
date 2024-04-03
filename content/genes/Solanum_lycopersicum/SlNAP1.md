@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,resistance,drought,stress,drought stress,def
 
 ## Gene Details:
 - **Gene ID:**	[Solyc05g007770.2.1]()
-- **Gene Symbol:** SlNAP1
+- **Gene Symbol:** <u>SlNAP1</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -20,10 +20,10 @@ tags: [ transcription factor,growth,resistance,drought,stress,drought stress,def
    - Analysis of different hormone contents revealed a reduced level of physiologically active gibberellins (GAs) and an increased level of salicylic acid (SA) and abscisic acid (ABA) in the **SlNAP1**-overexpressing plants.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salicylic-acid](/tags/salicylic-acid/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[drought-resistance](/tags/drought-resistance/)&nbsp;,&nbsp;[sa](/tags/sa/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[salicylic-acid](/tags/salicylic-acid/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/),&nbsp;&nbsp;[sa](/tags/sa/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [Transcriptomic and genetic approaches reveal an essential role of the NAC transcription factor SlNAP1 in the growth and defense response of tomato.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-020-00442-6/6445719?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41438-020-00442-6](https://academic.oup.com/hr/article/doi/10.1038/s41438-020-00442-6/6445719?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33361767](https://pubmed.ncbi.nlm.nih.gov/33361767/)
+   - [Transcriptomic and genetic approaches reveal an essential role of the NAC transcription factor SlNAP1 in the growth and defense response of tomato.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-020-00442-6/6445719?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41438-020-00442-6](https://academic.oup.com/hr/article/doi/10.1038/s41438-020-00442-6/6445719?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33361767](https://pubmed.ncbi.nlm.nih.gov/33361767/)
 
 ## Related News:
    - [Hortic Res | 浙大师恺教授团队在番茄生长和防御响应转录调控研究中取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247502615&idx=7&sn=b6441e4ff344ed12050bb23deface9cb&chksm=ce906642f9e7ef5477a24a9fd65c369b471402d5d5221d091eca7197199c468145dc3707cb1c&scene=27#wechat_redirect)

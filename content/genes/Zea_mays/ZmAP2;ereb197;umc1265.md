@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb068520](https://www.maizegdb.org/gene_center/gene/Zm00001eb068520)
-- **Gene Symbol:** ZmAP2;ereb197;umc1265
+- **Gene Symbol:** <u>ZmAP2</u>&nbsp;<u>ereb197</u>&nbsp;<u>umc1265</u>
 - **Gene Name:** AP2-EREBP-transcription factor 197
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

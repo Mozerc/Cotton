@@ -8,7 +8,7 @@ tags: [ development,drought,stress,drought stress,tolerance,drought tolerance,st
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G357200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G357200)
-- **Gene Symbol:** TaP5CR1-B
+- **Gene Symbol:** <u>TaP5CR1-B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

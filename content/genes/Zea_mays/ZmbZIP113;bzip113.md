@@ -8,7 +8,7 @@ tags: [ transcription factor,stem,temperature,sugar,resistant,sucrose,low-temper
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb431760](https://www.maizegdb.org/gene_center/gene/Zm00001eb431760)
-- **Gene Symbol:** ZmbZIP113;bzip113
+- **Gene Symbol:** <u>ZmbZIP113</u>&nbsp;<u>bzip113</u>
 - **Gene Name:** bZIP-transcription factor 113
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

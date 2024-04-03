@@ -8,7 +8,7 @@ tags: [ drought,cell wall,stomatal,stomatal density,secondary cell wall,drought 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb225830](https://www.maizegdb.org/gene_center/gene/Zm00001eb225830)
-- **Gene Symbol:** ZmIRX15A
+- **Gene Symbol:** <u>ZmIRX15A</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

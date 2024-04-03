@@ -8,7 +8,7 @@ tags: [ growth,development,plant development,drought,plant growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb041120](https://www.maizegdb.org/gene_center/gene/Zm00001eb041120)
-- **Gene Symbol:** ZmCCR1;CCR3;cncr1
+- **Gene Symbol:** <u>ZmCCR1</u>&nbsp;<u>CCR3</u>&nbsp;<u>cncr1</u>
 - **Gene Name:** cinnamoyl CoA reductase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

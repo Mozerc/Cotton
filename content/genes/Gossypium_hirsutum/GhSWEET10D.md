@@ -8,7 +8,7 @@ tags: [ shoot,transporter,flowering time,sucrose,flowering,sucrose transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D12G1898]()
-- **Gene Symbol:** GhSWEET10D
+- **Gene Symbol:** <u>GhSWEET10D</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ shoot,transporter,flowering time,sucrose,flowering,sucrose transporter ]
    - The ectopic expression of SWEET10 causes early flowering and leads to higher levels of transcription of flowering-time related genes in the shoot apex.
 
 ## Function-related keywords:
-   - [shoot](/tags/shoot/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[sucrose](/tags/sucrose/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
+   - [shoot](/tags/shoot/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[sucrose-transporter](/tags/sucrose-transporter/)
 
 ## Literature:
-   - [TAL effector driven induction of a SWEET gene confers susceptibility to bacterial blight of cotton.]( https://www.nature.com/articles/ncomms15588#Sec32)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms15588](https://www.nature.com/articles/ncomms15588#Sec32)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28537271](https://pubmed.ncbi.nlm.nih.gov/28537271/)
+   - [TAL effector driven induction of a SWEET gene confers susceptibility to bacterial blight of cotton.]( https://www.nature.com/articles/ncomms15588#Sec32)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/ncomms15588](https://www.nature.com/articles/ncomms15588#Sec32);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28537271](https://pubmed.ncbi.nlm.nih.gov/28537271/)
 
 ## Related News:
 

@@ -8,7 +8,7 @@ tags: [ resistance,powdery mildew,mildew resistance,mildew,powdery mildew resist
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G044600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G044600)
-- **Gene Symbol:** Pm2
+- **Gene Symbol:** <u>Pm2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

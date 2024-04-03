@@ -8,7 +8,7 @@ tags: [ cell proliferation,cell expansion ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G176900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6D02G176900)
-- **Gene Symbol:** TaGW2-D
+- **Gene Symbol:** <u>TaGW2-D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

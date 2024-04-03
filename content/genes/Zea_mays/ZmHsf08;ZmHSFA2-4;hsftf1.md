@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salt,aba,salt stress,abscisic acid,salt se
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb100770](https://www.maizegdb.org/gene_center/gene/Zm00001eb100770)
-- **Gene Symbol:** ZmHsf08;ZmHSFA2-4;hsftf1
+- **Gene Symbol:** <u>ZmHsf08</u>&nbsp;<u>ZmHSFA2-4</u>&nbsp;<u>hsftf1</u>
 - **Gene Name:** HSF-transcription factor 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

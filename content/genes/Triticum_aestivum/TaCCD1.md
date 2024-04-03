@@ -8,7 +8,7 @@ tags: [ auxin,stress,atpase,tolerance,stress tolerance,plasma membrane,phosphata
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaCCD1
+- **Gene Symbol:** <u>TaCCD1</u>
 - **Gene Name:** C-TERMINAL CENTRIN-LIKE DOMAIN CONTAINING PROTEIN 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

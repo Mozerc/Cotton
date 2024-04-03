@@ -8,7 +8,7 @@ tags: [ transcription factor,cell wall,transcription regulator ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc03g120910.2 ]()
-- **Gene Symbol:** SlLOB1
+- **Gene Symbol:** <u>SlLOB1</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -20,10 +20,10 @@ tags: [ transcription factor,cell wall,transcription regulator ]
    - A tomato LATERAL ORGAN BOUNDARIES transcription factor, **SlLOB1**, predominantly regulates cell wall and softening components of ripening
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/)
 
 ## Literature:
-   - [A tomato LATERAL ORGAN BOUNDARIES transcription factor, SlLOB1, predominantly regulates cell wall and softening components of ripening.]( https://www.pnas.org/doi/10.1073/pnas.2102486118#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2102486118](https://www.pnas.org/doi/10.1073/pnas.2102486118#supplementary-materials)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34380735](https://pubmed.ncbi.nlm.nih.gov/34380735/)
+   - [A tomato LATERAL ORGAN BOUNDARIES transcription factor, SlLOB1, predominantly regulates cell wall and softening components of ripening.]( https://www.pnas.org/doi/10.1073/pnas.2102486118#supplementary-materials)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2102486118](https://www.pnas.org/doi/10.1073/pnas.2102486118#supplementary-materials);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34380735](https://pubmed.ncbi.nlm.nih.gov/34380735/)
 
 ## Related News:
    - [PNAS | 浙江大学果树所陈昆松与美国康奈尔大学研究团队合作揭示番茄侧生器官边界转录因子SlLOB1调控果实成熟的功能特异性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247515613&idx=2&sn=aab1c9dedaab6def99f897018d59a85b&chksm=ce901088f9e7999ed58adf4dbda2721de5675f9d36282dc38390e3575488c07bfbb58880e221&scene=27#wechat_redirect)

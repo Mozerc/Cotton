@@ -8,7 +8,7 @@ tags: [ architecture,breeding,plant architecture ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A11G1857]()
-- **Gene Symbol:** GhCUL1
+- **Gene Symbol:** <u>GhCUL1</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ architecture,breeding,plant architecture ]
    - VIGS of GhUBP15 and **GhCUL1** reduced PH in cotton.
 
 ## Function-related keywords:
-   - [architecture](/tags/architecture/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)
+   - [architecture](/tags/architecture/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/)
 
 ## Literature:
-   - [UAV-based time-series phenotyping reveals the genetic basis of plant height in upland cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16272](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37154288](https://pubmed.ncbi.nlm.nih.gov/37154288/)
+   - [UAV-based time-series phenotyping reveals the genetic basis of plant height in upland cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16272](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16272);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37154288](https://pubmed.ncbi.nlm.nih.gov/37154288/)
 
 ## Related News:
    - [The Plant Journal | 生物所利用无人机表型平台解析棉花株高分子机制](https://mp.weixin.qq.com/s/HwuRMDqVFVVUeeFU5McWag)

@@ -8,7 +8,7 @@ tags: [ kinase,seed,dormancy,seed dormancy ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCSU02G302300LC](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCSU02G302300LC)
-- **Gene Symbol:** TaMKK3
+- **Gene Symbol:** <u>TaMKK3</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

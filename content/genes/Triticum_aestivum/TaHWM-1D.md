@@ -8,7 +8,7 @@ tags: [ starch,starch biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G317211](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G317211)
-- **Gene Symbol:** TaHWM-1D
+- **Gene Symbol:** <u>TaHWM-1D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

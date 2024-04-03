@@ -8,7 +8,7 @@ tags: [ seed ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.12g014300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.12g014300)
-- **Gene Symbol:** GmTMT2a
+- **Gene Symbol:** <u>GmTMT2a</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -24,9 +24,9 @@ tags: [ seed ]
    - [seed](/tags/seed/)
 
 ## Literature:
-   - [GmTMT2a from soybean elevates the α-tocopherol content in corn and Arabidopsis.]( https://link.springer.com/article/10.1007/s11248-013-9713-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11248-013-9713-8](https://link.springer.com/article/10.1007/s11248-013-9713-8)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23645501](https://pubmed.ncbi.nlm.nih.gov/23645501/)
-   - [A 90-day toxicity study of GmTMT transgenic maize in Sprague-Dawley rats.]( https://www.sciencedirect.com/science/article/pii/S0273230017300041?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.yrtph.2017.01.004](https://www.sciencedirect.com/science/article/pii/S0273230017300041?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28132846](https://pubmed.ncbi.nlm.nih.gov/28132846/)
-   - [Overexpression of the maize γ-tocopherol methyltransferase gene (ZmTMT) increases α-tocopherol content in transgenic Arabidopsis and maize seeds.]( https://link.springer.com/article/10.1007/s11248-019-00180-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11248-019-00180-z](https://link.springer.com/article/10.1007/s11248-019-00180-z)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31673914](https://pubmed.ncbi.nlm.nih.gov/31673914/)
+   - [GmTMT2a from soybean elevates the α-tocopherol content in corn and Arabidopsis.]( https://link.springer.com/article/10.1007/s11248-013-9713-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11248-013-9713-8](https://link.springer.com/article/10.1007/s11248-013-9713-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23645501](https://pubmed.ncbi.nlm.nih.gov/23645501/)
+   - [A 90-day toxicity study of GmTMT transgenic maize in Sprague-Dawley rats.]( https://www.sciencedirect.com/science/article/pii/S0273230017300041?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.yrtph.2017.01.004](https://www.sciencedirect.com/science/article/pii/S0273230017300041?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28132846](https://pubmed.ncbi.nlm.nih.gov/28132846/)
+   - [Overexpression of the maize γ-tocopherol methyltransferase gene (ZmTMT) increases α-tocopherol content in transgenic Arabidopsis and maize seeds.]( https://link.springer.com/article/10.1007/s11248-019-00180-z)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11248-019-00180-z](https://link.springer.com/article/10.1007/s11248-019-00180-z);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31673914](https://pubmed.ncbi.nlm.nih.gov/31673914/)
 
 ## Related News:
 

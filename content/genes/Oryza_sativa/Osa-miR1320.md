@@ -9,7 +9,7 @@ tags: [transcription factor, tolerance, cold tolerance, cold]
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Osa-miR1320
+- **Gene Symbol:** <u>Osa-miR1320</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

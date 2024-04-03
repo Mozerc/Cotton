@@ -8,7 +8,7 @@ tags: [ grain,stress,grain yield,yield,stress response,heat stress,heat stress r
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb044380](https://www.maizegdb.org/gene_center/gene/Zm00001eb044380)
-- **Gene Symbol:** ZmGRXS17
+- **Gene Symbol:** <u>ZmGRXS17</u>
 - **Gene Name:** glutaredoxin23
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

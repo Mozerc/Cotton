@@ -8,7 +8,7 @@ tags: [ resistance,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb074900](https://www.maizegdb.org/gene_center/gene/Zm00001eb074900)
-- **Gene Symbol:** ZmERF061;ereb61
+- **Gene Symbol:** <u>ZmERF061</u>&nbsp;<u>ereb61</u>
 - **Gene Name:** AP2-EREBP-transcription factor 61
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,pollen,anther,pollen development,anther development,pollen t
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb424030](https://www.maizegdb.org/gene_center/gene/Zm00001eb424030)
-- **Gene Symbol:** ZmPME7;ZmC5;pme1
+- **Gene Symbol:** <u>ZmPME7</u>&nbsp;<u>ZmC5</u>&nbsp;<u>pme1</u>
 - **Gene Name:** pectin methylesterase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

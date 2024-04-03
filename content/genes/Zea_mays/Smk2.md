@@ -8,7 +8,7 @@ tags: [ embryo,cytosol ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb208970](https://www.maizegdb.org/gene_center/gene/Zm00001eb208970)
-- **Gene Symbol:** SMK2
+- **Gene Symbol:** <u>SMK2</u>
 - **Gene Name:** small kernel2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

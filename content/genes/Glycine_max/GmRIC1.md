@@ -8,7 +8,7 @@ tags: [ nodulation ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.13g292300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.13g292300)
-- **Gene Symbol:** GmRIC1
+- **Gene Symbol:** <u>GmRIC1</u>
 - **Gene Name:** Rhizobia-Induced CLE1
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -23,7 +23,7 @@ tags: [ nodulation ]
    - [nodulation](/tags/nodulation/)
 
 ## Literature:
-   - [A GmNINa-miR172c-NNC1 Regulatory Network Coordinates the Nodulation and Autoregulation of Nodulation Pathways in Soybean]( https://www.sciencedirect.com/science/article/pii/S1674205219302035)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2019.06.002](https://www.sciencedirect.com/science/article/pii/S1674205219302035)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [A GmNINa-miR172c-NNC1 Regulatory Network Coordinates the Nodulation and Autoregulation of Nodulation Pathways in Soybean]( https://www.sciencedirect.com/science/article/pii/S1674205219302035)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2019.06.002](https://www.sciencedirect.com/science/article/pii/S1674205219302035);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [Molecular Plant | 华中农大李霞团队新成果！miR172可以整合分子网络以实现对结瘤每个环节的精细调整](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247484799&idx=2&sn=647cecc3fd36261b0f6744fb85c9150e&chksm=ce93a82af9e4213c938eab5cee8ade1a853bdd54e873265955da9f4202d714f9b846205eaa88&scene=27#wechat_redirect)

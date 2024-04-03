@@ -8,7 +8,7 @@ tags: [ stress,stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G392900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G392900)
-- **Gene Symbol:** TaBOX
+- **Gene Symbol:** <u>TaBOX</u>
 - **Gene Name:** F-box family protein
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

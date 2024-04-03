@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,shoot,meristem,inflorescence,shoot api
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb159850](https://www.maizegdb.org/gene_center/gene/Zm00001eb159850)
-- **Gene Symbol:** THI2
+- **Gene Symbol:** <u>THI2</u>
 - **Gene Name:** thiamine biosynthesis2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb271680](https://www.maizegdb.org/gene_center/gene/Zm00001eb271680)
-- **Gene Symbol:** ZmRNRL2;rnrl2
+- **Gene Symbol:** <u>ZmRNRL2</u>&nbsp;<u>rnrl2</u>
 - **Gene Name:** ribonucleotide reductase large subunit2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

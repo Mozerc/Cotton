@@ -8,7 +8,7 @@ tags: [ tillering,kinase,spikelet,grain,shoot,tiller,grain number,grain yield,yi
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G400600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G400600)
-- **Gene Symbol:** TaCol-B5
+- **Gene Symbol:** <u>TaCol-B5</u>
 - **Gene Name:** CONSTANS-like protein
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ resistance,stress,ja,defense response,defense,tolerance,insect,biotic st
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** GhLac1
+- **Gene Symbol:** <u>GhLac1</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ resistance,stress,ja,defense response,defense,tolerance,insect,biotic st
    - Suppression of **GhLac1** expression leads to a redirection of metabolic flux in the phenylpropanoid pathway, causing the accumulation of JA and secondary metabolites that confer resistance to V.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense-response](/tags/defense-response/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[insect](/tags/insect/)&nbsp;,&nbsp;[biotic-stress](/tags/biotic-stress/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[jasmonic](/tags/jasmonic/)&nbsp;,&nbsp;[jasmonic-acid](/tags/jasmonic-acid/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[insect-resistance](/tags/insect-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense-response](/tags/defense-response/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[insect](/tags/insect/),&nbsp;&nbsp;[biotic-stress](/tags/biotic-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[pathogen](/tags/pathogen/),&nbsp;&nbsp;[jasmonic](/tags/jasmonic/),&nbsp;&nbsp;[jasmonic-acid](/tags/jasmonic-acid/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[insect-resistance](/tags/insect-resistance/),&nbsp;&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
-   - [Laccase GhLac1 Modulates Broad-Spectrum Biotic Stress Tolerance via Manipulating Phenylpropanoid Pathway and Jasmonic Acid Synthesis.]( https://academic.oup.com/plphys/article/176/2/1808/6117409?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.17.01628](https://academic.oup.com/plphys/article/176/2/1808/6117409?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29229698](https://pubmed.ncbi.nlm.nih.gov/29229698/)
+   - [Laccase GhLac1 Modulates Broad-Spectrum Biotic Stress Tolerance via Manipulating Phenylpropanoid Pathway and Jasmonic Acid Synthesis.]( https://academic.oup.com/plphys/article/176/2/1808/6117409?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.17.01628](https://academic.oup.com/plphys/article/176/2/1808/6117409?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29229698](https://pubmed.ncbi.nlm.nih.gov/29229698/)
 
 ## Related News:
    - [Plant Physiol.|漆酶GhLac1参与调控植物对病虫害的广谱抗性](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247487426&idx=1&sn=e0c2a93b3142e7f803ca183fac8c6c5f&chksm=e8be7ddcdfc9f4cac3928e551950665bf6708c8bccb9a6d40dd657b664551b24c271e269244d&scene=27#wechat_redirect)

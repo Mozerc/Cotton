@@ -8,7 +8,7 @@ tags: [ aba,aba sensitivity ]
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000154855]()
-- **Gene Symbol:** MdCIPK22
+- **Gene Symbol:** <u>MdCIPK22</u>
 - **Gene Name:** 
 - **Genome:** [Malus × domestica genome GDDH13 v 1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -19,10 +19,10 @@ tags: [ aba,aba sensitivity ]
    - **MdCIPK22** improves ABA sensitivity in an MdAREB2-dependent manner.
 
 ## Function-related keywords:
-   - [aba](/tags/aba/)&nbsp;,&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
+   - [aba](/tags/aba/),&nbsp;&nbsp;[aba-sensitivity](/tags/aba-sensitivity/)
 
 ## Literature:
-   - [An apple CIPK protein kinase targets a novel residue of AREB transcription factor for ABA-dependent phosphorylation.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13013)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13013](https://onlinelibrary.wiley.com/doi/10.1111/pce.13013)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28667821](https://pubmed.ncbi.nlm.nih.gov/28667821/)
+   - [An apple CIPK protein kinase targets a novel residue of AREB transcription factor for ABA-dependent phosphorylation.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13013)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13013](https://onlinelibrary.wiley.com/doi/10.1111/pce.13013);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28667821](https://pubmed.ncbi.nlm.nih.gov/28667821/)
 
 ## Related News:
    - [山东农业大学发现适度干旱胁迫提高苹果果实品质的重要机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247485683&idx=1&sn=eb5d193bec8d463f98702d4fdbae7396&chksm=e8be7aeddfc9f3fbd664c35b831edd8c62cd4090ced3a7c9973b269af46184b0a54e66fcbddb&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ grain,resistance,atpase,plasma membrane,heavy metal ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G420000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G420000)
-- **Gene Symbol:** TaHMA2b-7A
+- **Gene Symbol:** <u>TaHMA2b-7A</u>
 - **Gene Name:** Heavy Metal ATPase 2B
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

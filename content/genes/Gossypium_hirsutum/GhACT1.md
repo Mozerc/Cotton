@@ -8,7 +8,7 @@ tags: [ development,quality,yield,breeding,embryo,fe,embryo development,fiber ]
 
 ## Gene Details:
 - **Gene ID:**	[Ghir_A05G040150]()
-- **Gene Symbol:** GhACT1
+- **Gene Symbol:** <u>GhACT1</u>
 - **Gene Name:** 
 - **Genome:** [HAU-AD1_genome_v1.0_v1.1]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ development,quality,yield,breeding,embryo,fe,embryo development,fiber ]
    - The interference of **GhACT1** in embryo may lead to slower fiber elongation and shorter fiber length.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[embryo](/tags/embryo/)&nbsp;,&nbsp;[fe](/tags/fe/)&nbsp;,&nbsp;[embryo-development](/tags/embryo-development/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [development](/tags/development/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[fe](/tags/fe/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [Genome-wide association mapping for agronomic traits in an 8-way Upland cotton MAGIC population by SLAF-seq.]( https://link.springer.com/article/10.1007/s00122-021-03835-w#Tab3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-021-03835-w](https://link.springer.com/article/10.1007/s00122-021-03835-w#Tab3)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33912997](https://pubmed.ncbi.nlm.nih.gov/33912997/)
+   - [Genome-wide association mapping for agronomic traits in an 8-way Upland cotton MAGIC population by SLAF-seq.]( https://link.springer.com/article/10.1007/s00122-021-03835-w#Tab3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-021-03835-w](https://link.springer.com/article/10.1007/s00122-021-03835-w#Tab3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33912997](https://pubmed.ncbi.nlm.nih.gov/33912997/)
 
 ## Related News:
    - [华中农业大学棉花遗传改良团队利用MAGIC群体解析陆地棉农艺性状的遗传基础](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247514127&idx=6&sn=b97a7fbe1c6b1af2e98ab95639161a48&chksm=ce90155af9e79c4cc49b980ab12513b18f2fe666465604374b70f215451cd429378f87cdac42&scene=27#wechat_redirect)

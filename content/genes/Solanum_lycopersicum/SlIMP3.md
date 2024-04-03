@@ -8,7 +8,7 @@ tags: [ cell wall,water loss ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** SlIMP3
+- **Gene Symbol:** <u>SlIMP3</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -20,10 +20,10 @@ tags: [ cell wall,water loss ]
    - The results support a critical role for **SlIMP3** in AsA biosynthesis and cell wall biogenesis, and provide a new method of delaying tomato fruit softening, and insight into the link between AsA and cell wall metabolism.
 
 ## Function-related keywords:
-   - [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[water-loss](/tags/water-loss/)
+   - [cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[water-loss](/tags/water-loss/)
 
 ## Literature:
-   - [Control of fruit softening and Ascorbic acid accumulation by manipulation of SlIMP3 in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13804)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13804](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13804)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35258157](https://pubmed.ncbi.nlm.nih.gov/35258157/)
+   - [Control of fruit softening and Ascorbic acid accumulation by manipulation of SlIMP3 in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13804)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13804](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13804);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35258157](https://pubmed.ncbi.nlm.nih.gov/35258157/)
 
 ## Related News:
 

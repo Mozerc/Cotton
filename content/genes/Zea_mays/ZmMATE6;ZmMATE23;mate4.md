@@ -8,7 +8,7 @@ tags: [ root,resistance,resistant,al resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb130600](https://www.maizegdb.org/gene_center/gene/Zm00001eb130600)
-- **Gene Symbol:** ZmMATE6;ZmMATE23;mate4
+- **Gene Symbol:** <u>ZmMATE6</u>&nbsp;<u>ZmMATE23</u>&nbsp;<u>mate4</u>
 - **Gene Name:** multidrug and toxic compound extrusion4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

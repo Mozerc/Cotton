@@ -8,7 +8,7 @@ tags: [ drought,seedling,tolerance,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb067980](https://www.maizegdb.org/gene_center/gene/Zm00001eb067980)
-- **Gene Symbol:** ZmEREB24;ereb24
+- **Gene Symbol:** <u>ZmEREB24</u>&nbsp;<u>ereb24</u>
 - **Gene Name:** AP2-EREBP-transcription factor 24
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

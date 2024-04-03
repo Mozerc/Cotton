@@ -8,7 +8,7 @@ tags: [ fertility,pollen,sterility,male sterility,male fertility,pollen fertilit
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G031600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G031600)
-- **Gene Symbol:** Rf1;RFL77
+- **Gene Symbol:** <u>Rf1</u>&nbsp;<u>RFL77</u>
 - **Gene Name:** Restorer-of-fertility 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ growth,development,grain,grain length,brassinosteroid,seed,map-based clo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb120890](https://www.maizegdb.org/gene_center/gene/Zm00001eb120890)
-- **Gene Symbol:** ZmD1;ZmCYP90D1;cyp45
+- **Gene Symbol:** <u>ZmD1</u>&nbsp;<u>ZmCYP90D1</u>&nbsp;<u>cyp45</u>
 - **Gene Name:** cytochrome P450 45
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

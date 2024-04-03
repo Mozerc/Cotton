@@ -8,7 +8,7 @@ tags: [ stress,salinity,tolerance,abiotic stress,biotic stress,stress tolerance,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5B01G402800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B01G402800)
-- **Gene Symbol:** TaCYP81D2
+- **Gene Symbol:** <u>TaCYP81D2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

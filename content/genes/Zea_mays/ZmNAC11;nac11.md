@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb015570](https://www.maizegdb.org/gene_center/gene/Zm00001eb015570)
-- **Gene Symbol:** ZmNAC11;nac11
+- **Gene Symbol:** <u>ZmNAC11</u>&nbsp;<u>nac11</u>
 - **Gene Name:** NAC-transcription factor 11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

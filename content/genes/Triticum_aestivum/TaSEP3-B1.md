@@ -8,7 +8,7 @@ tags: [ development,plant development,yield,floral,architecture,breeding,height,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G158600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G158600)
-- **Gene Symbol:** TaSEP3-B1
+- **Gene Symbol:** <u>TaSEP3-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ stem,development,spikelet,stems,vegetative,floral,spikelet number,spikel
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G343900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6B02G343900)
-- **Gene Symbol:** SVP1-6B
+- **Gene Symbol:** <u>SVP1-6B</u>
 - **Gene Name:** SHORT VEGETATIVE PHASE 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ development,grain,grain yield,photosynthesis,tolerance,yield,chl biosynt
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb362510](https://www.maizegdb.org/gene_center/gene/Zm00001eb362510)
-- **Gene Symbol:** ZmCAO1;chao2
+- **Gene Symbol:** <u>ZmCAO1</u>&nbsp;<u>chao2</u>
 - **Gene Name:** chlorophyllide a oxygenase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

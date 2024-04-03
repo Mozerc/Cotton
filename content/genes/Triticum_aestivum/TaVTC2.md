@@ -8,7 +8,7 @@ tags: [ resistance,disease,disease resistance,pathogen,broad-spectrum disease re
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaVTC2
+- **Gene Symbol:** <u>TaVTC2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

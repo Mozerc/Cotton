@@ -8,7 +8,7 @@ tags: [ kinase,potassium,cytoplasm,protein kinase,plasma membrane ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb390900](https://www.maizegdb.org/gene_center/gene/Zm00001eb390900)
-- **Gene Symbol:** ZmCBL9;cbl9
+- **Gene Symbol:** <u>ZmCBL9</u>&nbsp;<u>cbl9</u>
 - **Gene Name:** calcineurin B-like9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

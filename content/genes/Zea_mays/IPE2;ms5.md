@@ -8,7 +8,7 @@ tags: [ fertility,pollen,anther,sterility,starch,tapetum,tapetum degeneration,st
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb237060](https://www.maizegdb.org/gene_center/gene/Zm00001eb237060)
-- **Gene Symbol:** IPE2;ms5
+- **Gene Symbol:** <u>IPE2</u>&nbsp;<u>ms5</u>
 - **Gene Name:** IRREGULAR POLLEN  EXINE2;male sterile5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

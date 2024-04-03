@@ -8,7 +8,7 @@ tags: [ root,growth,development,plant development,drought,stress,drought stress,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb005690](https://www.maizegdb.org/gene_center/gene/Zm00001eb005690)
-- **Gene Symbol:** ZmNF-YA1;nfya1;ca2p11;ZmNFYA01
+- **Gene Symbol:** <u>ZmNF-YA1</u>&nbsp;<u>nfya1</u>&nbsp;<u>ca2p11</u>&nbsp;<u>ZmNFYA01</u>
 - **Gene Name:** nuclear transcription factor y subunit a1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

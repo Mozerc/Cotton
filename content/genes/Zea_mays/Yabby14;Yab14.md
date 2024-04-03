@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,leaf size ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb427470](https://www.maizegdb.org/gene_center/gene/Zm00001eb427470)
-- **Gene Symbol:** Yabby14;Yab14
+- **Gene Symbol:** <u>Yabby14</u>&nbsp;<u>Yab14</u>
 - **Gene Name:** Yabby14
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

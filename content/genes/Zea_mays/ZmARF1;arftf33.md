@@ -8,7 +8,7 @@ tags: [ transcription factor,root,development,stress,tolerance,root development,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb029770](https://www.maizegdb.org/gene_center/gene/Zm00001eb029770)
-- **Gene Symbol:** ZmARF1;arftf33
+- **Gene Symbol:** <u>ZmARF1</u>&nbsp;<u>arftf33</u>
 - **Gene Name:** ARF-transcription factor 33
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

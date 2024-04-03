@@ -8,7 +8,7 @@ tags: [ development,grain,grain size,auxin,grain number,grain yield,yield,merist
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb014970](https://www.maizegdb.org/gene_center/gene/Zm00001eb014970)
-- **Gene Symbol:** YIGE1
+- **Gene Symbol:** <u>YIGE1</u>
 - **Gene Name:** yige1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

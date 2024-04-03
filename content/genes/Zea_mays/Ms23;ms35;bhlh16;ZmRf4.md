@@ -8,7 +8,7 @@ tags: [ development,anther,sterility,tapetum,sterile,anther development,cell pro
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb332170](https://www.maizegdb.org/gene_center/gene/Zm00001eb332170)
-- **Gene Symbol:** Ms23;ms35;bhlh16;ZmRf4
+- **Gene Symbol:** <u>Ms23</u>&nbsp;<u>ms35</u>&nbsp;<u>bhlh16</u>&nbsp;<u>ZmRf4</u>
 - **Gene Name:** male sterile23
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

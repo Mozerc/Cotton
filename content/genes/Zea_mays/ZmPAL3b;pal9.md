@@ -8,7 +8,7 @@ tags: [monolignol]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb247630](https://www.maizegdb.org/gene_center/gene/Zm00001eb247630)
-- **Gene Symbol:** ZmPAL3b;pal9
+- **Gene Symbol:** <u>ZmPAL3b</u>&nbsp;<u>pal9</u>
 - **Gene Name:** phenylalanine ammonia lyase9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

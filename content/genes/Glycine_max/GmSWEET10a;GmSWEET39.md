@@ -8,7 +8,7 @@ tags: [ seed,seed size,oil content ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.15G049200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.15G049200)
-- **Gene Symbol:** GmSWEET10a;GmSWEET39
+- **Gene Symbol:** <u>GmSWEET10a</u>&nbsp;<u>GmSWEET39</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -20,11 +20,11 @@ tags: [ seed,seed size,oil content ]
    - Natural variation and population genetic analyses of **GmSWEET39** gene in soybean landraces and released cultivars.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[oil-content](/tags/oil-content/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[seed-size](/tags/seed-size/),&nbsp;&nbsp;[oil-content](/tags/oil-content/)
 
 ## Literature:
-   - [Simultaneous changes in seed size, oil content and protein content driven by selection of SWEET homologues during soybean domestication.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8290959/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/nsr/nwaa110](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8290959/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34691511](https://pubmed.ncbi.nlm.nih.gov/34691511/)
-   - [Natural variation and selection in GmSWEET39 affect soybean seed oil content.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16250)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16250](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16250)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31596499](https://pubmed.ncbi.nlm.nih.gov/31596499/)
+   - [Simultaneous changes in seed size, oil content and protein content driven by selection of SWEET homologues during soybean domestication.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8290959/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/nsr/nwaa110](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8290959/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34691511](https://pubmed.ncbi.nlm.nih.gov/34691511/)
+   - [Natural variation and selection in GmSWEET39 affect soybean seed oil content.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16250)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.16250](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16250);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31596499](https://pubmed.ncbi.nlm.nih.gov/31596499/)
 
 ## Related News:
    - [NSR | 我国科学家联合攻关在大豆产量与品质的协同调控大豆产量与品质的协同调控研究中取得重要进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247489672&idx=5&sn=449cebbabc2e8fc4b8d0d34e3f0fc563&chksm=ce93b5ddf9e43ccbfcdf9a3610fc5046f59dcda73fd5f0d0a501f94d3f7dd7706888d1f9857b&scene=27#wechat_redirect)

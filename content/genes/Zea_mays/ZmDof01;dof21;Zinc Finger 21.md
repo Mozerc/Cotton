@@ -8,7 +8,7 @@ tags: [ transcription factor,sheath,zinc ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb005380](https://www.maizegdb.org/gene_center/gene/Zm00001eb005380)
-- **Gene Symbol:** ZmDof01;dof21;Zinc Finger 21
+- **Gene Symbol:** <u>ZmDof01</u>&nbsp;<u>dof21</u>&nbsp;<u>Zinc Finger 21</u>
 - **Gene Name:** C2C2-Dof-transcription factor 21
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

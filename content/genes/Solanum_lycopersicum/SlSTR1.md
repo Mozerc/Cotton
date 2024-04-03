@@ -8,7 +8,7 @@ tags: [ development,fertility,pollen,pollen development,male fertility,pollen fe
 
 ## Gene Details:
 - **Gene ID:**	[Solyc03g053130]()
-- **Gene Symbol:** SlSTR1
+- **Gene Symbol:** <u>SlSTR1</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -19,10 +19,10 @@ tags: [ development,fertility,pollen,pollen development,male fertility,pollen fe
    - **SlSTR1** acts as a strictosidine synthase in pollen development is uncertain. Less Adherent Pollen 3 (LAP3).
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[fertility](/tags/fertility/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[male-fertility](/tags/male-fertility/)&nbsp;,&nbsp;[pollen-fertility](/tags/pollen-fertility/)
+   - [development](/tags/development/),&nbsp;&nbsp;[fertility](/tags/fertility/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[pollen-development](/tags/pollen-development/),&nbsp;&nbsp;[male-fertility](/tags/male-fertility/),&nbsp;&nbsp;[pollen-fertility](/tags/pollen-fertility/)
 
 ## Literature:
-   - [A biotechnology-based male-sterility system for hybrid seed production in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14678)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14678](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14678)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31923323](https://pubmed.ncbi.nlm.nih.gov/31923323/)
+   - [A biotechnology-based male-sterility system for hybrid seed production in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14678)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14678](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14678);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31923323](https://pubmed.ncbi.nlm.nih.gov/31923323/)
 
 ## Related News:
    - [李传友研究组合作研发新型番茄雄性不育系统用于杂交种子生产​](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247493885&idx=4&sn=bfdfd476ae35a32d7e19d49dc0944555&chksm=e8bd9ae3dfca13f5baf76591866c154e0aef8991fb5459271c9cf28accdb5712d880b2608277&scene=27#wechat_redirect)

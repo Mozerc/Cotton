@@ -8,7 +8,7 @@ tags: [ protoplasts ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb312870](https://www.maizegdb.org/gene_center/gene/Zm00001eb312870)
-- **Gene Symbol:** ZmWRKY76;wrky53
+- **Gene Symbol:** <u>ZmWRKY76</u>&nbsp;<u>wrky53</u>
 - **Gene Name:** WRKY-transcription factor 53
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

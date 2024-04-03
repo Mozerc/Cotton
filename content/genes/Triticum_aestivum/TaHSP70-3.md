@@ -8,7 +8,7 @@ tags: [ stress,heat stress,thermotolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G207500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G207500)
-- **Gene Symbol:** TaHSP70-3
+- **Gene Symbol:** <u>TaHSP70-3</u>
 - **Gene Name:** Heat Shock Protein 70
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ fluorescence visualization ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb048110](https://www.maizegdb.org/gene_center/gene/Zm00001eb048110)
-- **Gene Symbol:** ZmBz2;bz2;ZmHSP10;ZmGST10
+- **Gene Symbol:** <u>ZmBz2</u>&nbsp;<u>bz2</u>&nbsp;<u>ZmHSP10</u>&nbsp;<u>ZmGST10</u>
 - **Gene Name:** bronze2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

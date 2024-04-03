@@ -8,7 +8,7 @@ tags: [ ga ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb385100](https://www.maizegdb.org/gene_center/gene/Zm00001eb385100)
-- **Gene Symbol:** ZmKO1
+- **Gene Symbol:** <u>ZmKO1</u>
 - **Gene Name:** kaurene oxidase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

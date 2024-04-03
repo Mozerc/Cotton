@@ -8,7 +8,7 @@ tags: [ kinase,resistance,drought,stress,drought stress,tolerance,aba,drought to
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb232360](https://www.maizegdb.org/gene_center/gene/Zm00001eb232360)
-- **Gene Symbol:** ZmPP84;ZmPP2C47;ZmPP2C94;prh94
+- **Gene Symbol:** <u>ZmPP84</u>&nbsp;<u>ZmPP2C47</u>&nbsp;<u>ZmPP2C94</u>&nbsp;<u>prh94</u>
 - **Gene Name:** protein phosphatase homolog94
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

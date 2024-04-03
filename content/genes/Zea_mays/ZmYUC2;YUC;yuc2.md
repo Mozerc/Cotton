@@ -8,7 +8,7 @@ tags: [ gravitropic response,root,auxin,resistance,cytoplasm,breeding,auxin resp
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb419450](https://www.maizegdb.org/gene_center/gene/Zm00001eb419450)
-- **Gene Symbol:** ZmYUC2;YUC;yuc2
+- **Gene Symbol:** <u>ZmYUC2</u>&nbsp;<u>YUC</u>&nbsp;<u>yuc2</u>
 - **Gene Name:** Yucca2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

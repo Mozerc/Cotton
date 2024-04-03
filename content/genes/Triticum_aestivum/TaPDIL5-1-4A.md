@@ -8,7 +8,7 @@ tags: [ resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G107900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G107900)
-- **Gene Symbol:** TaPDIL5-1-4A
+- **Gene Symbol:** <u>TaPDIL5-1-4A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

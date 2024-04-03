@@ -8,7 +8,7 @@ tags: [ defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.19G176300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.19G176300)
-- **Gene Symbol:** GmCRP
+- **Gene Symbol:** <u>GmCRP</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -23,7 +23,7 @@ tags: [ defense ]
    - [defense](/tags/defense/)
 
 ## Literature:
-   - [Genetic variation in GmCRP contributes to nodulation in soybean]( https://www.sciencedirect.com/science/article/pii/S2214514122002070)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.07.023](https://www.sciencedirect.com/science/article/pii/S2214514122002070)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Genetic variation in GmCRP contributes to nodulation in soybean]( https://www.sciencedirect.com/science/article/pii/S2214514122002070)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2022.07.023](https://www.sciencedirect.com/science/article/pii/S2214514122002070);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | 东北农业大学陈庆山团队利用栽培大豆和野生大豆构建的染色体片段代换系挖掘调控共生结瘤重要基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247539583&idx=4&sn=70199bf7301c67a82b7d49014178276d&chksm=ce90f62af9e77f3c09db0c12568d52dd22fa5a75e799da5c7551fea48d622b4e730c34b78099&scene=27#wechat_redirect)

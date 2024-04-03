@@ -8,7 +8,7 @@ tags: [ development,grain,starch,starch biosynthesis,grain protein ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D02G324700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2D02G324700)
-- **Gene Symbol:** NAC100_D
+- **Gene Symbol:** <u>NAC100_D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

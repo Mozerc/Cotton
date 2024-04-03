@@ -8,7 +8,7 @@ tags: [ leaf,root,starch,quality,endosperm,starch biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb115450](https://www.maizegdb.org/gene_center/gene/Zm00001eb115450)
-- **Gene Symbol:** Se1
+- **Gene Symbol:** <u>Se1</u>
 - **Gene Name:** sugary-enhancer1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

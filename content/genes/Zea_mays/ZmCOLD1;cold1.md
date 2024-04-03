@@ -8,7 +8,7 @@ tags: [ tolerance,aba,iaa,chilling,chilling tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb430290](https://www.maizegdb.org/gene_center/gene/Zm00001eb430290)
-- **Gene Symbol:** ZmCOLD1;cold1
+- **Gene Symbol:** <u>ZmCOLD1</u>&nbsp;<u>cold1</u>
 - **Gene Name:** cold rsponsive1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

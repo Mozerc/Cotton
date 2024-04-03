@@ -8,7 +8,7 @@ tags: [ flowering,nodules ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.13g2552001](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.13g2552001)
-- **Gene Symbol:** GmNMHC5
+- **Gene Symbol:** <u>GmNMHC5</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ flowering,nodules ]
    - **GmNMHC5** also accelerates flowering and maturity in soybean.
 
 ## Function-related keywords:
-   - [flowering](/tags/flowering/)&nbsp;,&nbsp;[nodules](/tags/nodules/)
+   - [flowering](/tags/flowering/),&nbsp;&nbsp;[nodules](/tags/nodules/)
 
 ## Literature:
-   - [GmNMHC5 may promote nodulation via interaction with GmGAI in soybean]( https://www.sciencedirect.com/science/article/pii/S2214514121000878)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.019](https://www.sciencedirect.com/science/article/pii/S2214514121000878)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [GmNMHC5 may promote nodulation via interaction with GmGAI in soybean]( https://www.sciencedirect.com/science/article/pii/S2214514121000878)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.cj.2021.03.019](https://www.sciencedirect.com/science/article/pii/S2214514121000878);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [The Crop Journal | GmNMHC5调控大豆结瘤的赤霉素途径新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247514229&idx=4&sn=d9c91efb4880e077b019819b2f3aed18&chksm=ce901520f9e79c36804e5ddcf17d0a9246635046a104c146091897b5d63ad66b9c0cc6bf2e1e&scene=27#wechat_redirect)

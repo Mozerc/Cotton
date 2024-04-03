@@ -8,7 +8,7 @@ tags: [ ga,ga biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb300570](https://www.maizegdb.org/gene_center/gene/Zm00001eb300570)
-- **Gene Symbol:** ZmKR2;kr2
+- **Gene Symbol:** <u>ZmKR2</u>&nbsp;<u>kr2</u>
 - **Gene Name:** kauralexin reductase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

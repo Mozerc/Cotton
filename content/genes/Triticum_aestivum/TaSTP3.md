@@ -8,7 +8,7 @@ tags: [ resistance,defense,transporter,sugar,sucrose,sugar transport,as transpor
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G282400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G282400)
-- **Gene Symbol:** TaSTP3
+- **Gene Symbol:** <u>TaSTP3</u>
 - **Gene Name:** Sugar Transport Protein 3
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

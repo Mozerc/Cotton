@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb427880](https://www.maizegdb.org/gene_center/gene/Zm00001eb427880)
-- **Gene Symbol:** ZmKW10;KW10
+- **Gene Symbol:** <u>ZmKW10</u>&nbsp;<u>KW10</u>
 - **Gene Name:** kernel width10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -9,7 +9,7 @@ tags: [ethylene, transcription factor,  ABA , submergence, vegetative, salicylic
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Sub1A
+- **Gene Symbol:** <u>Sub1A</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

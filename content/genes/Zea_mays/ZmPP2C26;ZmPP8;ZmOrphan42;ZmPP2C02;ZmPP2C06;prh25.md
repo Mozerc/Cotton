@@ -8,7 +8,7 @@ tags: [ root,shoot,drought,stress,drought stress,photosynthesis,tolerance,drough
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb013450](https://www.maizegdb.org/gene_center/gene/Zm00001eb013450)
-- **Gene Symbol:** ZmPP2C26;ZmPP8;ZmOrphan42;ZmPP2C02;ZmPP2C06;prh25
+- **Gene Symbol:** <u>ZmPP2C26</u>&nbsp;<u>ZmPP8</u>&nbsp;<u>ZmOrphan42</u>&nbsp;<u>ZmPP2C02</u>&nbsp;<u>ZmPP2C06</u>&nbsp;<u>prh25</u>
 - **Gene Name:** protein phosphatase homolog25
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

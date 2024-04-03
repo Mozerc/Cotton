@@ -8,7 +8,7 @@ tags: [ nitrogen,leaf,leaf senescence,senescence,down-regulated genes,photosynth
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb135910](https://www.maizegdb.org/gene_center/gene/Zm00001eb135910)
-- **Gene Symbol:** NAC7;nactf108
+- **Gene Symbol:** <u>NAC7</u>&nbsp;<u>nactf108</u>
 - **Gene Name:** NAC-transcription factor 108
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

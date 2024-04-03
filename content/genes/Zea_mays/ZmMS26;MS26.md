@@ -8,7 +8,7 @@ tags: [ growth,grain,fertility,anther,sterility,grain yield,yield,vegetative,tap
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb005300](https://www.maizegdb.org/gene_center/gene/Zm00001eb005300)
-- **Gene Symbol:** ZmMS26;MS26
+- **Gene Symbol:** <u>ZmMS26</u>&nbsp;<u>MS26</u>
 - **Gene Name:** male sterile26
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

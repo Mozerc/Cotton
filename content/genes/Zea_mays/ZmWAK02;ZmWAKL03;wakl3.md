@@ -8,7 +8,7 @@ tags: [ leaf,grain,resistance,grain yield,yield,breeding,endosperm,resistant,gra
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb034290](https://www.maizegdb.org/gene_center/gene/Zm00001eb034290)
-- **Gene Symbol:** ZmWAK02;ZmWAKL03;wakl3
+- **Gene Symbol:** <u>ZmWAK02</u>&nbsp;<u>ZmWAKL03</u>&nbsp;<u>wakl3</u>
 - **Gene Name:** wall-associated receptor kinase-like3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

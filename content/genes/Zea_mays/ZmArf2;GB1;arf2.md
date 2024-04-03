@@ -8,7 +8,7 @@ tags: [ growth,cell division,plant growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb019130](https://www.maizegdb.org/gene_center/gene/Zm00001eb019130)
-- **Gene Symbol:** ZmArf2;GB1;arf2
+- **Gene Symbol:** <u>ZmArf2</u>&nbsp;<u>GB1</u>&nbsp;<u>arf2</u>
 - **Gene Name:** ADP-ribosylation factor homolog2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

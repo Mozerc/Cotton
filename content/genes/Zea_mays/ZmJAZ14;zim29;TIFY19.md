@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb223580](https://www.maizegdb.org/gene_center/gene/Zm00001eb223580)
-- **Gene Symbol:** ZmJAZ14;zim29;TIFY19
+- **Gene Symbol:** <u>ZmJAZ14</u>&nbsp;<u>zim29</u>&nbsp;<u>TIFY19</u>
 - **Gene Name:** ZIM-transcription factor 29
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

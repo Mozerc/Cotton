@@ -8,7 +8,7 @@ tags: [ development,shoot,meristem,branching,shoot apical meristem,axillary meri
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.02G177500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.02G177500)
-- **Gene Symbol:** GmSPL9d
+- **Gene Symbol:** <u>GmSPL9d</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ development,shoot,meristem,branching,shoot apical meristem,axillary meri
    - **GmSPL9d** overexpression suppresses branching in Arabidopsis.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[meristem](/tags/meristem/)&nbsp;,&nbsp;[branching](/tags/branching/)&nbsp;,&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/)&nbsp;,&nbsp;[axillary-meristem](/tags/axillary-meristem/)&nbsp;,&nbsp;[homeobox-gene](/tags/homeobox-gene/)&nbsp;,&nbsp;[shoot-meristem](/tags/shoot-meristem/)
+   - [development](/tags/development/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[meristem](/tags/meristem/),&nbsp;&nbsp;[branching](/tags/branching/),&nbsp;&nbsp;[shoot-apical-meristem](/tags/shoot-apical-meristem/),&nbsp;&nbsp;[axillary-meristem](/tags/axillary-meristem/),&nbsp;&nbsp;[homeobox-gene](/tags/homeobox-gene/),&nbsp;&nbsp;[shoot-meristem](/tags/shoot-meristem/)
 
 ## Literature:
-   - [Genetic improvement of the shoot architecture and yield in soya bean plants via the manipulation of GmmiR156b.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12946)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12946](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12946)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29729214](https://pubmed.ncbi.nlm.nih.gov/29729214/)
+   - [Genetic improvement of the shoot architecture and yield in soya bean plants via the manipulation of GmmiR156b.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12946)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12946](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12946);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29729214](https://pubmed.ncbi.nlm.nih.gov/29729214/)
 
 ## Related News:
    - [华中农业大学发现GmmiR156b调控大豆理想株型和高产](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247489008&idx=1&sn=9209ae00fbd6c4c0ae53cce453147ba0&chksm=e8be67eedfc9eef81445788d609d94939c960666387e00d0afd97969d7cc6ef3eea7eb14d879&scene=27#wechat_redirect)

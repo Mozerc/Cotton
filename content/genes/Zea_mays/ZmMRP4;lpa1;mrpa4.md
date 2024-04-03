@@ -8,7 +8,7 @@ tags: [ resistance,al resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003490](https://www.maizegdb.org/gene_center/gene/Zm00001eb003490)
-- **Gene Symbol:** ZmMRP4;lpa1;mrpa4
+- **Gene Symbol:** <u>ZmMRP4</u>&nbsp;<u>lpa1</u>&nbsp;<u>mrpa4</u>
 - **Gene Name:** multidrug resistance-associated protein 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

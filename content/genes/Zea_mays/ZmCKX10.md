@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,growth,development,leaf development,shoo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb040280](https://www.maizegdb.org/gene_center/gene/Zm00001eb040280)
-- **Gene Symbol:** ZmCKX10
+- **Gene Symbol:** <u>ZmCKX10</u>
 - **Gene Name:** cytokinin oxidase10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

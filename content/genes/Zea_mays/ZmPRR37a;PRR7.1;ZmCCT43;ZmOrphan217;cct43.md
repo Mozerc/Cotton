@@ -8,7 +8,7 @@ tags: [ heading date,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb331630](https://www.maizegdb.org/gene_center/gene/Zm00001eb331630)
-- **Gene Symbol:** ZmPRR37a;PRR7.1;ZmCCT43;ZmOrphan217;cct43
+- **Gene Symbol:** <u>ZmPRR37a</u>&nbsp;<u>PRR7.1</u>&nbsp;<u>ZmCCT43</u>&nbsp;<u>ZmOrphan217</u>&nbsp;<u>cct43</u>
 - **Gene Name:** CO CO-LIKE TIMING OF CAB1 protein domain43
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

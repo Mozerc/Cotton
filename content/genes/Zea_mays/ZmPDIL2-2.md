@@ -8,7 +8,7 @@ tags: [ tolerance,cold tolerance,cold ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb367110](https://www.maizegdb.org/gene_center/gene/Zm00001eb367110)
-- **Gene Symbol:** ZmPDIL2-2
+- **Gene Symbol:** <u>ZmPDIL2-2</u>
 - **Gene Name:** protein disulfide isomerase7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

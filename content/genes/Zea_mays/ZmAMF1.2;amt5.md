@@ -8,7 +8,7 @@ tags: [ nitrogen,growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb427000](https://www.maizegdb.org/gene_center/gene/Zm00001eb427000)
-- **Gene Symbol:** ZmAMF1.2;amt5
+- **Gene Symbol:** <u>ZmAMF1.2</u>&nbsp;<u>amt5</u>
 - **Gene Name:** ammonium transporter5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

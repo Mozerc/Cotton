@@ -8,7 +8,7 @@ tags: [ tolerance,cold tolerance,cold,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb002790](https://www.maizegdb.org/gene_center/gene/Zm00001eb002790)
-- **Gene Symbol:** ZmHSP2
+- **Gene Symbol:** <u>ZmHSP2</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb141010](https://www.maizegdb.org/gene_center/gene/Zm00001eb141010)
-- **Gene Symbol:** ZmGSTU6;gst21
+- **Gene Symbol:** <u>ZmGSTU6</u>&nbsp;<u>gst21</u>
 - **Gene Name:** glutathione transferase21
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

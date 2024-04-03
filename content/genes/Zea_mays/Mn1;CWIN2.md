@@ -8,7 +8,7 @@ tags: [ development,seed,cell wall,endosperm,sugar,seed development,sucrose,endo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb083790](https://www.maizegdb.org/gene_center/gene/Zm00001eb083790)
-- **Gene Symbol:** Mn1;CWIN2
+- **Gene Symbol:** <u>Mn1</u>&nbsp;<u>CWIN2</u>
 - **Gene Name:** miniature seed1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

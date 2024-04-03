@@ -8,7 +8,7 @@ tags: [ root,shoot,salt,tolerance,salt tolerance,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb033240](https://www.maizegdb.org/gene_center/gene/Zm00001eb033240)
-- **Gene Symbol:** ZmSOS1;nhx7
+- **Gene Symbol:** <u>ZmSOS1</u>&nbsp;<u>nhx7</u>
 - **Gene Name:** Na+/H+ antiporter 7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

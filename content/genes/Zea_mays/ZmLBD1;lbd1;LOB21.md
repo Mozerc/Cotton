@@ -8,7 +8,7 @@ tags: [ root,development,stress,root development,callus,phosphorus,callus format
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003910](https://www.maizegdb.org/gene_center/gene/Zm00001eb003910)
-- **Gene Symbol:** ZmLBD1;lbd1;LOB21
+- **Gene Symbol:** <u>ZmLBD1</u>&nbsp;<u>lbd1</u>&nbsp;<u>LOB21</u>
 - **Gene Name:** LBD-transcription factor 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

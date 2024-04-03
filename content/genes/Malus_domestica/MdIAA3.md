@@ -8,7 +8,7 @@ tags: [ root,auxin,auxin response,adventitious root,adventitious root formation 
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000295589]()
-- **Gene Symbol:** MdIAA3
+- **Gene Symbol:** <u>MdIAA3</u>
 - **Gene Name:** 
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -19,10 +19,10 @@ tags: [ root,auxin,auxin response,adventitious root,adventitious root formation 
    - MdBT2 facilitated **MdIAA3** stability and slightly promoted its interaction with MdARF8.
 
 ## Function-related keywords:
-   - [root](/tags/root/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[adventitious-root](/tags/adventitious-root/)&nbsp;,&nbsp;[adventitious-root-formation](/tags/adventitious-root-formation/)
+   - [root](/tags/root/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/),&nbsp;&nbsp;[adventitious-root](/tags/adventitious-root/),&nbsp;&nbsp;[adventitious-root-formation](/tags/adventitious-root-formation/)
 
 ## Literature:
-   - [The BTB protein MdBT2 recruits auxin signaling components to regulate adventitious root formation in apple.]( https://academic.oup.com/plphys/article/189/2/1005/6537555?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac084](https://academic.oup.com/plphys/article/189/2/1005/6537555?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35218363](https://pubmed.ncbi.nlm.nih.gov/35218363/)
+   - [The BTB protein MdBT2 recruits auxin signaling components to regulate adventitious root formation in apple.]( https://academic.oup.com/plphys/article/189/2/1005/6537555?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac084](https://academic.oup.com/plphys/article/189/2/1005/6537555?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35218363](https://pubmed.ncbi.nlm.nih.gov/35218363/)
 
 ## Related News:
    - [Plant Physiology | 山东农业大学园艺团队揭示BTB-TAZ蛋白MdBT2负调控苹果不定根形成分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247526039&idx=7&sn=d1922d47c155c0c3aba6fb9f2e6cd250&chksm=ce90cbc2f9e742d44055eebc8a14e55fab7ddc627c0419f72239d77c22ba54bbf25d47f1adb2&scene=27#wechat_redirect)

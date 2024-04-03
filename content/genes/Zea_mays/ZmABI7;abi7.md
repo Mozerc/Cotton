@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,seedling,seed,seed germination,cell division
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb006360](https://www.maizegdb.org/gene_center/gene/Zm00001eb006360)
-- **Gene Symbol:** ZmABI7;abi7
+- **Gene Symbol:** <u>ZmABI7</u>&nbsp;<u>abi7</u>
 - **Gene Name:** ABI3-VP1-transcription factor 7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

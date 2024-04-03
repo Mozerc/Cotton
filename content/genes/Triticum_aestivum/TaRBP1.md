@@ -8,7 +8,7 @@ tags: [ resistance,cell death,ubiquitin,reactive oxygen species ]
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaRBP1
+- **Gene Symbol:** <u>TaRBP1</u>
 - **Gene Name:** RNA-binding protein 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

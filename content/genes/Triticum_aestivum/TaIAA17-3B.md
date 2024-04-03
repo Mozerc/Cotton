@@ -8,7 +8,7 @@ tags: [ leaf,auxin,sheath,signal transduction,tillers ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G181500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G181500)
-- **Gene Symbol:** TaIAA17-3B
+- **Gene Symbol:** <u>TaIAA17-3B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

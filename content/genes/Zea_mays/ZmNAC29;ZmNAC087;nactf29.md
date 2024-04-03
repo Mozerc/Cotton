@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb395380](https://www.maizegdb.org/gene_center/gene/Zm00001eb395380)
-- **Gene Symbol:** ZmNAC29;ZmNAC087;nactf29
+- **Gene Symbol:** <u>ZmNAC29</u>&nbsp;<u>ZmNAC087</u>&nbsp;<u>nactf29</u>
 - **Gene Name:** NAC-transcription factor 29
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

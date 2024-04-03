@@ -8,7 +8,7 @@ tags: [ growth,development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb311960](https://www.maizegdb.org/gene_center/gene/Zm00001eb311960)
-- **Gene Symbol:** Mwp1;ZmGLK21
+- **Gene Symbol:** <u>Mwp1</u>&nbsp;<u>ZmGLK21</u>
 - **Gene Name:** milkweed pod1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

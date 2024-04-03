@@ -8,7 +8,7 @@ tags: [ growth,development,plant development,stress,plant growth,stress response
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb356420](https://www.maizegdb.org/gene_center/gene/Zm00001eb356420)
-- **Gene Symbol:** ZmPP2C16;ZmPP2C5;ZmPP2C80;prh18
+- **Gene Symbol:** <u>ZmPP2C16</u>&nbsp;<u>ZmPP2C5</u>&nbsp;<u>ZmPP2C80</u>&nbsp;<u>prh18</u>
 - **Gene Name:** protein phosphatase homolog18
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

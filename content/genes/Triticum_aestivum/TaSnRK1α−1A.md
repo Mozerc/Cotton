@@ -8,7 +8,7 @@ tags: [ ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G350500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G350500)
-- **Gene Symbol:** TaSnRK1α−1A
+- **Gene Symbol:** <u>TaSnRK1α−1A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

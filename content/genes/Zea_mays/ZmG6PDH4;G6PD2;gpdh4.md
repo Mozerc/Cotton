@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,defense response,defense,gibberellin,cold 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb019890](https://www.maizegdb.org/gene_center/gene/Zm00001eb019890)
-- **Gene Symbol:** ZmG6PDH4;G6PD2;gpdh4
+- **Gene Symbol:** <u>ZmG6PDH4</u>&nbsp;<u>G6PD2</u>&nbsp;<u>gpdh4</u>
 - **Gene Name:** glucose-6-phosphate dehydrogenase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

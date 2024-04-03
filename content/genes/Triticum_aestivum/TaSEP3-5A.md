@@ -8,7 +8,7 @@ tags: [ development,flower,flower development ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G286800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G286800)
-- **Gene Symbol:** TaSEP3-5A
+- **Gene Symbol:** <u>TaSEP3-5A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

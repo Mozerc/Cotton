@@ -9,7 +9,7 @@ tags: [xylem, transporter]
 ## Gene Details:
 - **MSU gene ID:** [NONE](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=NONE)  
 - **RAPdb gene ID:** [NONE](https://rapdb.dna.affrc.go.jp/locus/?name=NONE)  
-- **Gene Symbol:** OsLCT2
+- **Gene Symbol:** <u>OsLCT2</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

@@ -8,7 +8,7 @@ tags: [ salt,tolerance,salt tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb215130](https://www.maizegdb.org/gene_center/gene/Zm00001eb215130)
-- **Gene Symbol:** SAG4;Sec23
+- **Gene Symbol:** <u>SAG4</u>&nbsp;<u>Sec23</u>
 - **Gene Name:** salt-tolerance-associated-gene4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

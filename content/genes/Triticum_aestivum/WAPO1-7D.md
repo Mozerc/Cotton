@@ -8,7 +8,7 @@ tags: [ spikelet,panicle,spikelet number,spike ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G468700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G468700)
-- **Gene Symbol:** WAPO1-7D
+- **Gene Symbol:** <u>WAPO1-7D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

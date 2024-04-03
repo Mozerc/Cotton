@@ -8,7 +8,7 @@ tags: [ resistance,disease,disease resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb190920](https://www.maizegdb.org/gene_center/gene/Zm00001eb190920)
-- **Gene Symbol:** ZmNANMT;ZmCOMT2;ZmCOMT13;nanmt1
+- **Gene Symbol:** <u>ZmNANMT</u>&nbsp;<u>ZmCOMT2</u>&nbsp;<u>ZmCOMT13</u>&nbsp;<u>nanmt1</u>
 - **Gene Name:** nicotinate N-methyltransferase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

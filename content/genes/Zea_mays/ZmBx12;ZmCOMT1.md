@@ -8,7 +8,7 @@ tags: [ drought,tolerance,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb018630](https://www.maizegdb.org/gene_center/gene/Zm00001eb018630)
-- **Gene Symbol:** ZmBx12;ZmCOMT1
+- **Gene Symbol:** <u>ZmBx12</u>&nbsp;<u>ZmCOMT1</u>
 - **Gene Name:** benzoxazinone synthesis12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

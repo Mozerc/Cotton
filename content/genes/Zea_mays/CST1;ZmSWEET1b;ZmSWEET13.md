@@ -8,7 +8,7 @@ tags: [ senescence,map-based cloning,salt,photosynthesis,tolerance,salt toleranc
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb288410](https://www.maizegdb.org/gene_center/gene/Zm00001eb288410)
-- **Gene Symbol:** CST1;ZmSWEET1b;ZmSWEET13
+- **Gene Symbol:** <u>CST1</u>&nbsp;<u>ZmSWEET1b</u>&nbsp;<u>ZmSWEET13</u>
 - **Gene Name:** sugars will eventually be exported transporter1b
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ stress,seedling,salinity,salt,tolerance,salt tolerance,salt stress,stres
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5B01G403100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B01G403100)
-- **Gene Symbol:** TaCYP81D5
+- **Gene Symbol:** <u>TaCYP81D5</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

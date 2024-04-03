@@ -8,7 +8,7 @@ tags: [ temperature,ja,tolerance,cold tolerance,cold,jasmonic,jasmonic acid,plas
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G171300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G171300)
-- **Gene Symbol:** TaPAP6L−2B
+- **Gene Symbol:** <u>TaPAP6L−2B</u>
 - **Gene Name:** plastid‐lipid‐associated protein 6, chloroplastic‐like
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

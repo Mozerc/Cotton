@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G154414](https://www.maizegdb.org/gene_center/gene/GRMZM2G154414)
-- **Gene Symbol:** ZmICK8;KRP3;cki8
+- **Gene Symbol:** <u>ZmICK8</u>&nbsp;<u>KRP3</u>&nbsp;<u>cki8</u>
 - **Gene Name:** cyclin-dependent kinase inhibitor8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

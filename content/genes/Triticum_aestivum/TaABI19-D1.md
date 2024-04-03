@@ -8,7 +8,7 @@ tags: [ development,grain,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G332200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G332200)
-- **Gene Symbol:** TaABI19-D1
+- **Gene Symbol:** <u>TaABI19-D1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

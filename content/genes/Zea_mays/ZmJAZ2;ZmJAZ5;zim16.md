@@ -8,7 +8,7 @@ tags: [ growth,development,jasmonate,ja,defense,insect,jasmonic,jasmonic acid,ja
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb006000](https://www.maizegdb.org/gene_center/gene/Zm00001eb006000)
-- **Gene Symbol:** ZmJAZ2;ZmJAZ5;zim16
+- **Gene Symbol:** <u>ZmJAZ2</u>&nbsp;<u>ZmJAZ5</u>&nbsp;<u>zim16</u>
 - **Gene Name:** ZIM-transcription factor 16
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

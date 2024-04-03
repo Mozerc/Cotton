@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb402760](https://www.maizegdb.org/gene_center/gene/Zm00001eb402760)
-- **Gene Symbol:** ZmICK4;cki4
+- **Gene Symbol:** <u>ZmICK4</u>&nbsp;<u>cki4</u>
 - **Gene Name:** cyclin-dependent kinase inhibitor4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

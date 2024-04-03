@@ -8,7 +8,7 @@ tags: [ homeostasis,fe,fe homeostasis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb133440](https://www.maizegdb.org/gene_center/gene/Zm00001eb133440)
-- **Gene Symbol:** YS3;tom1
+- **Gene Symbol:** <u>YS3</u>&nbsp;<u>tom1</u>
 - **Gene Name:** yellow stripe3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

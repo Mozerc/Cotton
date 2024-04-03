@@ -8,7 +8,7 @@ tags: [ transcription factor,seedlings,growth,cuticle,transcription regulator,wa
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb328280](https://www.maizegdb.org/gene_center/gene/Zm00001eb328280)
-- **Gene Symbol:** ZmFDL1;myb94;Myb36;fdl1
+- **Gene Symbol:** <u>ZmFDL1</u>&nbsp;<u>myb94</u>&nbsp;<u>Myb36</u>&nbsp;<u>fdl1</u>
 - **Gene Name:** fused leaves1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

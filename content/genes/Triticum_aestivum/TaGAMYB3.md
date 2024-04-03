@@ -8,7 +8,7 @@ tags: [ leaf,growth,development,grain,grain length,leaf development,plant develo
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G336500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G336500)
-- **Gene Symbol:** TaGAMYB3
+- **Gene Symbol:** <u>TaGAMYB3</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

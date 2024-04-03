@@ -8,7 +8,7 @@ tags: [ transcription factor,endosperm,fe ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb001460](https://www.maizegdb.org/gene_center/gene/Zm00001eb001460)
-- **Gene Symbol:** ZmNAC78;ZmNAC28;nactf78
+- **Gene Symbol:** <u>ZmNAC78</u>&nbsp;<u>ZmNAC28</u>&nbsp;<u>nactf78</u>
 - **Gene Name:** NAM/ATAF/CUC DOMAIN TRANSCRIPTION FACTOR 78
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

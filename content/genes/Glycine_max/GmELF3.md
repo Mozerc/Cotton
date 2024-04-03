@@ -8,7 +8,7 @@ tags: [ flower,breeding,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.04G050200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.04G050200)
-- **Gene Symbol:** GmELF3
+- **Gene Symbol:** <u>GmELF3</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -21,11 +21,11 @@ tags: [ flower,breeding,flowering time,flowering ]
    - Our identification of **GmELF3** as the causal gene for the economically and historically important long juvenile trait will likely enable significant, rapid progress in soybean breeding programs.
 
 ## Function-related keywords:
-   - [flower](/tags/flower/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [flower](/tags/flower/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [A Single Nucleotide Deletion in J Encoding GmELF3 Confers Long Juvenility and Is Associated with Adaption of Tropic Soybean.]( https://www.sciencedirect.com/science/article/pii/S1674205216303033?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2016.12.004](https://www.sciencedirect.com/science/article/pii/S1674205216303033?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27979775](https://pubmed.ncbi.nlm.nih.gov/27979775/)
-   - [Molecular mechanisms for the photoperiodic regulation of flowering in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13021](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33090664](https://pubmed.ncbi.nlm.nih.gov/33090664/)
+   - [A Single Nucleotide Deletion in J Encoding GmELF3 Confers Long Juvenility and Is Associated with Adaption of Tropic Soybean.]( https://www.sciencedirect.com/science/article/pii/S1674205216303033?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2016.12.004](https://www.sciencedirect.com/science/article/pii/S1674205216303033?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27979775](https://pubmed.ncbi.nlm.nih.gov/27979775/)
+   - [Molecular mechanisms for the photoperiodic regulation of flowering in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13021](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13021);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33090664](https://pubmed.ncbi.nlm.nih.gov/33090664/)
 
 ## Related News:
 

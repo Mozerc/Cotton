@@ -8,7 +8,7 @@ tags: [ transcription factor,seedlings,stress,heat stress,thermotolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb060670](https://www.maizegdb.org/gene_center/gene/Zm00001eb060670)
-- **Gene Symbol:** ZmHsf05;hsftf11
+- **Gene Symbol:** <u>ZmHsf05</u>&nbsp;<u>hsftf11</u>
 - **Gene Name:** HSF-transcription factor 11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

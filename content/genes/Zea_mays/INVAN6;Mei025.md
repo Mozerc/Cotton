@@ -8,7 +8,7 @@ tags: [ development,pollen,stress,alkaline tolerance,alkaline stress,tolerance,p
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb230860](https://www.maizegdb.org/gene_center/gene/Zm00001eb230860)
-- **Gene Symbol:** INVAN6;Mei025
+- **Gene Symbol:** <u>INVAN6</u>&nbsp;<u>Mei025</u>
 - **Gene Name:** INVERTASE ALKALINE NEUTRAL 6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

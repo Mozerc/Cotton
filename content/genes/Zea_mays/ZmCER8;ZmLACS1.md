@@ -8,7 +8,7 @@ tags: [ seedlings ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb417150](https://www.maizegdb.org/gene_center/gene/Zm00001eb417150)
-- **Gene Symbol:** ZmCER8;ZmLACS1
+- **Gene Symbol:** <u>ZmCER8</u>&nbsp;<u>ZmLACS1</u>
 - **Gene Name:** eceriferum8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

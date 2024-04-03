@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb295860](https://www.maizegdb.org/gene_center/gene/Zm00001eb295860)
-- **Gene Symbol:** ZmGRXCC14;ZmGRXS9;grx14
+- **Gene Symbol:** <u>ZmGRXCC14</u>&nbsp;<u>ZmGRXS9</u>&nbsp;<u>grx14</u>
 - **Gene Name:** glutaredoxin14
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

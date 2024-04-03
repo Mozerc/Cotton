@@ -8,7 +8,7 @@ tags: [ root,development,auxin,root development,root initiation,iaa,auxin biosyn
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb156910](https://www.maizegdb.org/gene_center/gene/Zm00001eb156910)
-- **Gene Symbol:** RUM1
+- **Gene Symbol:** <u>RUM1</u>
 - **Gene Name:** ROOTLESS WITH UNDETECTABLE MERISTEMS 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

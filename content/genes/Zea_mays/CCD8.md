@@ -8,7 +8,7 @@ tags: [ root,vegetative,inflorescence,reproductive,architecture,inflorescence ar
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb153000](https://www.maizegdb.org/gene_center/gene/Zm00001eb153000)
-- **Gene Symbol:** CCD8
+- **Gene Symbol:** <u>CCD8</u>
 - **Gene Name:** CAROTENOID CLEAVAGE DIOXYGENASE8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

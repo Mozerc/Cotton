@@ -8,7 +8,7 @@ tags: [ kinase,resistance,map-based cloning,protein kinase,powdery mildew,mildew
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G058900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G058900)
-- **Gene Symbol:** Pm24;Pm24b;WTK3;MlHLT
+- **Gene Symbol:** <u>Pm24</u>&nbsp;<u>Pm24b</u>&nbsp;<u>WTK3</u>&nbsp;<u>MlHLT</u>
 - **Gene Name:** TANDEM KINASE 3
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

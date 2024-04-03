@@ -8,7 +8,7 @@ tags: [ development,cuticle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb008920](https://www.maizegdb.org/gene_center/gene/Zm00001eb008920)
-- **Gene Symbol:** Kcs28;ZmKCS6
+- **Gene Symbol:** <u>Kcs28</u>&nbsp;<u>ZmKCS6</u>
 - **Gene Name:** 3-ketoacyl-CoA synthase28
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

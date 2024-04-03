@@ -8,7 +8,7 @@ tags: [ transcription factor,development,kinase,protein kinase,ovule,fiber ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D06G0175]()
-- **Gene Symbol:** GhWRKY16
+- **Gene Symbol:** <u>GhWRKY16</u>
 - **Gene Name:** 
 - **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ transcription factor,development,kinase,protein kinase,ovule,fiber ]
    - **GhWRKY16** is phosphorylated by the mitogen-activated protein kinase GhMPK3-1 at residues T-130 and S-260.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[kinase](/tags/kinase/)&nbsp;,&nbsp;[protein-kinase](/tags/protein-kinase/)&nbsp;,&nbsp;[ovule](/tags/ovule/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[ovule](/tags/ovule/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [Phosphorylation of WRKY16 by MPK3-1 is essential for its transcriptional activity during fiber initiation and elongation in cotton (Gossypium hirsutum).]( https://academic.oup.com/plcell/article/33/8/2736/6287074?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab153](https://academic.oup.com/plcell/article/33/8/2736/6287074?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34043792](https://pubmed.ncbi.nlm.nih.gov/34043792/)
+   - [Phosphorylation of WRKY16 by MPK3-1 is essential for its transcriptional activity during fiber initiation and elongation in cotton (Gossypium hirsutum).]( https://academic.oup.com/plcell/article/33/8/2736/6287074?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koab153](https://academic.oup.com/plcell/article/33/8/2736/6287074?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34043792](https://pubmed.ncbi.nlm.nih.gov/34043792/)
 
 ## Related News:
    - [The Plant Cell | 华中师范大学李学宝/郑勇团队揭示WRKY16转录因子调控棉纤维发育的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247511272&idx=3&sn=d3c8ca6bc09530f09db9264b0231ac93&chksm=ce9001bdf9e788ab30ff04b4a080af57ffe89cd0b5c3855f52230fc1a52536f32051a9140866&scene=27#wechat_redirect)

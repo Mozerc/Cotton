@@ -8,7 +8,7 @@ tags: [ transcription factor,xylem,development,drought,stress,drought stress,bre
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d045601](https://www.maizegdb.org/gene_center/gene/Zm00001d045601)
-- **Gene Symbol:** NUT1;NAC46;nac91;nactf91
+- **Gene Symbol:** <u>NUT1</u>&nbsp;<u>NAC46</u>&nbsp;<u>nac91</u>&nbsp;<u>nactf91</u>
 - **Gene Name:** Necrotic upper tips1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

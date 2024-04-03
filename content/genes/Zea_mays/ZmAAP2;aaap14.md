@@ -8,7 +8,7 @@ tags: [ nitrogen,transporter,plasma membrane,phosphate,phosphorus,amino acid tra
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb090970](https://www.maizegdb.org/gene_center/gene/Zm00001eb090970)
-- **Gene Symbol:** ZmAAP2;aaap14
+- **Gene Symbol:** <u>ZmAAP2</u>&nbsp;<u>aaap14</u>
 - **Gene Name:** amino acid/auxin permease14
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

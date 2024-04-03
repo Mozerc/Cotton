@@ -8,7 +8,7 @@ tags: [ transcription factor,root,development,stress,tolerance,nucleus,ethylene,
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.13G123100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.13G123100)
-- **Gene Symbol:** GmERF1
+- **Gene Symbol:** <u>GmERF1</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -22,10 +22,10 @@ tags: [ transcription factor,root,development,stress,tolerance,nucleus,ethylene,
    - Knockout of **GmERF1** increased ACC content.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[root-development](/tags/root-development/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[ethylene-response](/tags/ethylene-response/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[phosphorus](/tags/phosphorus/),&nbsp;&nbsp;[ethylene-response](/tags/ethylene-response/)
 
 ## Literature:
-   - [Transcription factors GmERF1 and GmWRKY6 synergistically regulate low phosphorus tolerance in soybean.]( https://academic.oup.com/plphys/article/192/2/1099/7080285?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad170](https://academic.oup.com/plphys/article/192/2/1099/7080285?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36932694](https://pubmed.ncbi.nlm.nih.gov/36932694/)
+   - [Transcription factors GmERF1 and GmWRKY6 synergistically regulate low phosphorus tolerance in soybean.]( https://academic.oup.com/plphys/article/192/2/1099/7080285?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad170](https://academic.oup.com/plphys/article/192/2/1099/7080285?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36932694](https://pubmed.ncbi.nlm.nih.gov/36932694/)
 
 ## Related News:
    - [Plant Physiology | 河南农业大学张丹课题组揭示转录因子ERF1和WRKY6协同调控大豆低磷胁迫响应的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247547233&idx=7&sn=e17b82f503f2aa0971587295be3fdd4c&chksm=ce909434f9e71d228714307b060784b7bc84eb3b45b776d1e40f5ca5c5e971df435820bf9658&scene=27#wechat_redirect)

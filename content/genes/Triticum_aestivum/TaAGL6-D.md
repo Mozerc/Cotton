@@ -8,7 +8,7 @@ tags: [ development,spikelet,fertility,floral,meristem,spikelet meristem,inflore
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G240200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6D02G240200)
-- **Gene Symbol:** TaAGL6-D
+- **Gene Symbol:** <u>TaAGL6-D</u>
 - **Gene Name:** AGAMOUS-LIKE6
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

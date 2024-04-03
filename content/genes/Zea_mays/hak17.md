@@ -8,7 +8,7 @@ tags: [ salt,potassium,homeostasis,transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb314520](https://www.maizegdb.org/gene_center/gene/Zm00001eb314520)
-- **Gene Symbol:** HAK17
+- **Gene Symbol:** <u>HAK17</u>
 - **Gene Name:** potassium high-affinity transporter17
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

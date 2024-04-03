@@ -8,7 +8,7 @@ tags: [ auxin ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc01g009070]()
-- **Gene Symbol:** SlGAMYB1
+- **Gene Symbol:** <u>SlGAMYB1</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -22,7 +22,7 @@ tags: [ auxin ]
    - [auxin](/tags/auxin/)
 
 ## Literature:
-   - [microRNA159-targeted SlGAMYB transcription factors are required for fruit set in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13637)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13637](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13637)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28715118](https://pubmed.ncbi.nlm.nih.gov/28715118/)
+   - [microRNA159-targeted SlGAMYB transcription factors are required for fruit set in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13637)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13637](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13637);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28715118](https://pubmed.ncbi.nlm.nih.gov/28715118/)
 
 ## Related News:
    - [7月17日|植物科学顶尖杂志最新文章导读](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247485632&idx=1&sn=88ed96245906cdcb1fe1d881db675ed7&chksm=e8be7adedfc9f3c8725598f56b068a61c591442ecde59dec0e7e71e723507a0fb5738ad154db&scene=27#wechat_redirect)

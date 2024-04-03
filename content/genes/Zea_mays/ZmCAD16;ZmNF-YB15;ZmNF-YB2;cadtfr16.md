@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb308280](https://www.maizegdb.org/gene_center/gene/Zm00001eb308280)
-- **Gene Symbol:** ZmCAD16;ZmNF-YB15;ZmNF-YB2;cadtfr16
+- **Gene Symbol:** <u>ZmCAD16</u>&nbsp;<u>ZmNF-YB15</u>&nbsp;<u>ZmNF-YB2</u>&nbsp;<u>cadtfr16</u>
 - **Gene Name:** CCAAT-DR1-transcription factor 16
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

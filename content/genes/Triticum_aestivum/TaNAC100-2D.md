@@ -8,7 +8,7 @@ tags: [ seed,starch,seed weight,height,heading date,plant height,seed size,seed 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D02G324700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2D02G324700)
-- **Gene Symbol:** TaNAC100-2D
+- **Gene Symbol:** <u>TaNAC100-2D</u>
 - **Gene Name:** 
 - **Genome:** [Description:	Overexpression of TaNAC100 in wheat significantly reduced the contents of HMW-GS and other SSPs as well as total seed protein.](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

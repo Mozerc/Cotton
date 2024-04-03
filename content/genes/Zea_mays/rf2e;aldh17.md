@@ -8,7 +8,7 @@ tags: [ leaf,dehydrogenase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb248870](https://www.maizegdb.org/gene_center/gene/Zm00001eb248870)
-- **Gene Symbol:** Rf2e;aldh17
+- **Gene Symbol:** <u>Rf2e</u>&nbsp;<u>aldh17</u>
 - **Gene Name:** aldehyde dehydrogenase17
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

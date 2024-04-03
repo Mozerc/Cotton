@@ -8,7 +8,7 @@ tags: [ development,seed,breeding,seed weight,seed size,seed development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb381400](https://www.maizegdb.org/gene_center/gene/Zm00001eb381400)
-- **Gene Symbol:** ZmEXPB15;expb15
+- **Gene Symbol:** <u>ZmEXPB15</u>&nbsp;<u>expb15</u>
 - **Gene Name:** Zm00001eb381400
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

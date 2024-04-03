@@ -8,7 +8,7 @@ tags: [ kinase,seed,protein kinase,seed length,dormancy,seed dormancy ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5B02G565100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5B02G565100)
-- **Gene Symbol:** TaMKK3-B
+- **Gene Symbol:** <u>TaMKK3-B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

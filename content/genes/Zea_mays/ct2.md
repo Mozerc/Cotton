@@ -8,7 +8,7 @@ tags: [ leaf,development,leaf development,shoot,meristem,inflorescence,leaf angl
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb005840](https://www.maizegdb.org/gene_center/gene/Zm00001eb005840)
-- **Gene Symbol:** Ct2
+- **Gene Symbol:** <u>Ct2</u>
 - **Gene Name:** compact plant2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

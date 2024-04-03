@@ -8,7 +8,7 @@ tags: [ growth,development,resistance,plant development,defense response,defense
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaBln1-4A
+- **Gene Symbol:** <u>TaBln1-4A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

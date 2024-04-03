@@ -8,7 +8,7 @@ tags: [ root,growth,br,seed,root growth,ga,ga biosynthetic,seed growth,root numb
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071070](https://www.maizegdb.org/gene_center/gene/Zm00001eb071070)
-- **Gene Symbol:** D5;ZmTPS7;ZmTPS44
+- **Gene Symbol:** <u>D5</u>&nbsp;<u>ZmTPS7</u>&nbsp;<u>ZmTPS44</u>
 - **Gene Name:** dwarf plant 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ nitrogen,senescence,grain,grain yield,tolerance,yield,nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G196800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G196800)
-- **Gene Symbol:** TaARE1-7B
+- **Gene Symbol:** <u>TaARE1-7B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G392700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G392700)
-- **Gene Symbol:** TaHMA3-5D
+- **Gene Symbol:** <u>TaHMA3-5D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

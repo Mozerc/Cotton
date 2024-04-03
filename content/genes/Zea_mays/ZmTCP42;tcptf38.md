@@ -8,7 +8,7 @@ tags: [ drought,seedling,seed,seed germination,tolerance,aba,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G180568](https://www.maizegdb.org/gene_center/gene/GRMZM2G180568)
-- **Gene Symbol:** ZmTCP42;tcptf38
+- **Gene Symbol:** <u>ZmTCP42</u>&nbsp;<u>tcptf38</u>
 - **Gene Name:** TCP-transcription factor 38
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

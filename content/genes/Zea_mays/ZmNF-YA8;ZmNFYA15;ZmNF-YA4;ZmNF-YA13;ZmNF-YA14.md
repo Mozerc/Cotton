@@ -8,7 +8,7 @@ tags: [ transcription factor,salt,tolerance,salt tolerance,transcription regulat
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb327230](https://www.maizegdb.org/gene_center/gene/Zm00001eb327230)
-- **Gene Symbol:** ZmNF-YA8;ZmNFYA15;ZmNF-YA4;ZmNF-YA13;ZmNF-YA14
+- **Gene Symbol:** <u>ZmNF-YA8</u>&nbsp;<u>ZmNFYA15</u>&nbsp;<u>ZmNF-YA4</u>&nbsp;<u>ZmNF-YA13</u>&nbsp;<u>ZmNF-YA14</u>
 - **Gene Name:** NUCLEAR FACTOR YA8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

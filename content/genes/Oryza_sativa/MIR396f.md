@@ -9,7 +9,7 @@ tags: [shoot, grain, grain size, architecture, plant architecture, shoot archite
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** MIR396f
+- **Gene Symbol:** <u>MIR396f</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

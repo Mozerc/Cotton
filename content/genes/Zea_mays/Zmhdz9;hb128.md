@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,aba,abscis
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb319390](https://www.maizegdb.org/gene_center/gene/Zm00001eb319390)
-- **Gene Symbol:** Zmhdz9;hb128
+- **Gene Symbol:** <u>Zmhdz9</u>&nbsp;<u>hb128</u>
 - **Gene Name:** Homeobox-transcription factor 128
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

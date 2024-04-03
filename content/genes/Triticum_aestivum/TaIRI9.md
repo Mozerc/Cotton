@@ -8,7 +8,7 @@ tags: [ tiller,height,plant height,tiller number,vernalization ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G347000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G347000)
-- **Gene Symbol:** TaIRI9
+- **Gene Symbol:** <u>TaIRI9</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

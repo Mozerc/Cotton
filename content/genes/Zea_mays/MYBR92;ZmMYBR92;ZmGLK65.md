@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,yield,architecture,flowering time,resist
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb172880](https://www.maizegdb.org/gene_center/gene/Zm00001eb172880)
-- **Gene Symbol:** MYBR92;ZmMYBR92;ZmGLK65
+- **Gene Symbol:** <u>MYBR92</u>&nbsp;<u>ZmMYBR92</u>&nbsp;<u>ZmGLK65</u>
 - **Gene Name:** MYB-related-transcription factor 92
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

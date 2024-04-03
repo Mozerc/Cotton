@@ -8,7 +8,7 @@ tags: [ leaf,br,leaf angle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb398860](https://www.maizegdb.org/gene_center/gene/Zm00001eb398860)
-- **Gene Symbol:** ZmRPN10;rpn10
+- **Gene Symbol:** <u>ZmRPN10</u>&nbsp;<u>rpn10</u>
 - **Gene Name:** regulatory particle non-ATPase 10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

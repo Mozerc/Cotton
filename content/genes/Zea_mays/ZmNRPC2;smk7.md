@@ -8,7 +8,7 @@ tags: [ transcription factor,development,cell proliferation ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb269100](https://www.maizegdb.org/gene_center/gene/Zm00001eb269100)
-- **Gene Symbol:** ZmNRPC2;smk7
+- **Gene Symbol:** <u>ZmNRPC2</u>&nbsp;<u>smk7</u>
 - **Gene Name:** small kernel7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

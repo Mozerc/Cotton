@@ -8,7 +8,7 @@ tags: [ leaf ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.13G232500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.13G232500)
-- **Gene Symbol:** ChlI1a
+- **Gene Symbol:** <u>ChlI1a</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -22,7 +22,7 @@ tags: [ leaf ]
    - [leaf](/tags/leaf/)
 
 ## Literature:
-   - [Identical substitutions in magnesium chelatase paralogs result in chlorophyll-deficient soybean mutants.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291463/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1534/g3.114.015255](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291463/)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25452420](https://pubmed.ncbi.nlm.nih.gov/25452420/)
+   - [Identical substitutions in magnesium chelatase paralogs result in chlorophyll-deficient soybean mutants.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291463/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1534/g3.114.015255](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291463/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25452420](https://pubmed.ncbi.nlm.nih.gov/25452420/)
 
 ## Related News:
 

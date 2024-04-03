@@ -8,7 +8,7 @@ tags: [ development,starch,endosperm,endosperm development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb428940](https://www.maizegdb.org/gene_center/gene/Zm00001eb428940)
-- **Gene Symbol:** NKD2
+- **Gene Symbol:** <u>NKD2</u>
 - **Gene Name:** NAKED ENDOSPERM2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

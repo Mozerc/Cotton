@@ -8,7 +8,7 @@ tags: [ domestication,vegetative,floral,inflorescence,reproductive,architecture,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071990](https://www.maizegdb.org/gene_center/gene/Zm00001eb071990)
-- **Gene Symbol:** ZmLFY1;zfl2
+- **Gene Symbol:** <u>ZmLFY1</u>&nbsp;<u>zfl2</u>
 - **Gene Name:** Zea floricaula leafy2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

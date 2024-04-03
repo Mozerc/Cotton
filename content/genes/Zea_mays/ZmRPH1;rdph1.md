@@ -8,7 +8,7 @@ tags: [ seedlings,growth,fertility,yield,plant growth,cell elongation,height,pla
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb007470](https://www.maizegdb.org/gene_center/gene/Zm00001eb007470)
-- **Gene Symbol:** ZmRPH1;rdph1
+- **Gene Symbol:** <u>ZmRPH1</u>&nbsp;<u>rdph1</u>
 - **Gene Name:** Reducing Plant Height 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

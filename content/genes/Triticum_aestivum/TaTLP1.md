@@ -8,7 +8,7 @@ tags: [ leaf,root,resistance,tiller,tiller number,reactive oxygen species,glucan
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G130300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G130300)
-- **Gene Symbol:** TaTLP1
+- **Gene Symbol:** <u>TaTLP1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ stem,resistance,disease,disease resistance,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G499600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G499600)
-- **Gene Symbol:** Sr22b;SrTm5
+- **Gene Symbol:** <u>Sr22b</u>&nbsp;<u>SrTm5</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ tillering,tiller,tiller number ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G376500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G376500)
-- **Gene Symbol:** TaPIL1
+- **Gene Symbol:** <u>TaPIL1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

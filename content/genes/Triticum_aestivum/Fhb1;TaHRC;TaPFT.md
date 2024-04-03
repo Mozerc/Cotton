@@ -8,7 +8,7 @@ tags: [ grain,resistance,blight,calcium,grain protein ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G019900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G019900)
-- **Gene Symbol:** Fhb1;TaHRC;TaPFT
+- **Gene Symbol:** <u>Fhb1</u>&nbsp;<u>TaHRC</u>&nbsp;<u>TaPFT</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

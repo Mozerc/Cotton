@@ -8,7 +8,7 @@ tags: [ xylem,growth,development,plant development,plant growth,phloem ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb144010](https://www.maizegdb.org/gene_center/gene/Zm00001eb144010)
-- **Gene Symbol:** PROT1;aaap20
+- **Gene Symbol:** <u>PROT1</u>&nbsp;<u>aaap20</u>
 - **Gene Name:** amino acid/auxin permease20
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

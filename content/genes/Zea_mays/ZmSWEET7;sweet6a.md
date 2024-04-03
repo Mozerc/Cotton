@@ -8,7 +8,7 @@ tags: [ salt,yield,sugar,photosystem ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb161560](https://www.maizegdb.org/gene_center/gene/Zm00001eb161560)
-- **Gene Symbol:** ZmSWEET7;sweet6a
+- **Gene Symbol:** <u>ZmSWEET7</u>&nbsp;<u>sweet6a</u>
 - **Gene Name:** sugars will eventually be exported transporter6a
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

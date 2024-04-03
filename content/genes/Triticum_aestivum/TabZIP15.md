@@ -8,7 +8,7 @@ tags: [ transcription factor,stress,seedling,salt,tolerance,salt tolerance,salt 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G488600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G488600)
-- **Gene Symbol:** TabZIP15
+- **Gene Symbol:** <u>TabZIP15</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

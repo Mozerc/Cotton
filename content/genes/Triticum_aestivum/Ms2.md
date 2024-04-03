@@ -8,7 +8,7 @@ tags: [ pollen,anther,sterility,seed,sterile,male sterility,seed phenotype,hybri
 
 ## Gene Details:
 - **Gene ID:**	[TRIAE_CS42_4DS_TGACv1_361189_AA1163110](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TRIAE_CS42_4DS_TGACv1_361189_AA1163110)
-- **Gene Symbol:** Ms2
+- **Gene Symbol:** <u>Ms2</u>
 - **Gene Name:** 
 - **Genome:** [IWGSC RefSeq v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

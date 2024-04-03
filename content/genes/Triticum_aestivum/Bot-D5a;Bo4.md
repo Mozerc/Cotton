@@ -8,7 +8,7 @@ tags: [ root,resistance,tolerance,transporter,boron transporter,boron,recombinat
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G724400LC](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G724400LC)
-- **Gene Symbol:** Bot-D5a
+- **Gene Symbol:** <u>Bot-D5a</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

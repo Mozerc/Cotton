@@ -8,7 +8,7 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G099328](https://www.maizegdb.org/gene_center/gene/GRMZM2G099328)
-- **Gene Symbol:** ZmDAR1;limtf4
+- **Gene Symbol:** <u>ZmDAR1</u>&nbsp;<u>limtf4</u>
 - **Gene Name:** LIM-transcription factor 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

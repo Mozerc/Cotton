@@ -8,7 +8,7 @@ tags: [ development,salt,yield,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d048404](https://www.maizegdb.org/gene_center/gene/Zm00001d048404)
-- **Gene Symbol:** ZmELF6;ZmJMJ18;jmj20
+- **Gene Symbol:** <u>ZmELF6</u>&nbsp;<u>ZmJMJ18</u>&nbsp;<u>jmj20</u>
 - **Gene Name:** JUMONJI-transcription factor 20
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,stress,stems,tolerance,stress tolerance,inflorescence,plant growt
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb117950](https://www.maizegdb.org/gene_center/gene/Zm00001eb117950)
-- **Gene Symbol:** ZmGRF11;grf11
+- **Gene Symbol:** <u>ZmGRF11</u>&nbsp;<u>grf11</u>
 - **Gene Name:** general regulatory factor11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

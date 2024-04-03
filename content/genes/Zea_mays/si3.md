@@ -8,7 +8,7 @@ tags: [ development,flower,floral,inflorescence,flower development,transcription
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb086630](https://www.maizegdb.org/gene_center/gene/Zm00001eb086630)
-- **Gene Symbol:** si3
+- **Gene Symbol:** <u>si3</u>
 - **Gene Name:** Silky3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

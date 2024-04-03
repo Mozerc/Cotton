@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,embryo ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb155230](https://www.maizegdb.org/gene_center/gene/Zm00001eb155230)
-- **Gene Symbol:** ZmIQD12;ZmOrphan15;iqd12
+- **Gene Symbol:** <u>ZmIQD12</u>&nbsp;<u>ZmOrphan15</u>&nbsp;<u>iqd12</u>
 - **Gene Name:** IQ-domain 12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TabZIP60
+- **Gene Symbol:** <u>TabZIP60</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

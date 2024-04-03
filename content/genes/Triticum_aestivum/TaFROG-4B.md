@@ -8,7 +8,7 @@ tags: [ leaf,resistance,stress,disease,disease resistance,biotic stress,sucrose 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G106100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G106100)
-- **Gene Symbol:** TaFROG-4B
+- **Gene Symbol:** <u>TaFROG-4B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

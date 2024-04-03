@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salt,tolerance,cold tolerance,cold stress,
 
 ## Gene Details:
 - **Gene ID:**	[Gohir.D06G173000]()
-- **Gene Symbol:** GhHSP70-26
+- **Gene Symbol:** <u>GhHSP70-26</u>
 - **Gene Name:** 
 - **Genome:** [Gossypium hirsutum L. acc. TM-1 genome]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ drought,stress,drought stress,salt,tolerance,cold tolerance,cold stress,
    - These results indicate that by reducing the degrees of cell membrane damage and cellular damage caused by ROS stress, the **GhHSP70-26** protein plays a positive role in the response of plants to drought stress.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[salt-stress](/tags/salt-stress/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[abscisic-acid](/tags/abscisic-acid/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[heat-tolerance](/tags/heat-tolerance/)&nbsp;,&nbsp;[heat-stress](/tags/heat-stress/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[heat-stress-response](/tags/heat-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[cold-tolerance](/tags/cold-tolerance/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[heat-tolerance](/tags/heat-tolerance/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[heat-stress-response](/tags/heat-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [The cotton 70-kDa heat shock protein GhHSP70-26 plays a positive role in the drought stress response]( https://www.sciencedirect.com/science/article/pii/S0098847221002586)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envexpbot.2021.104628](https://www.sciencedirect.com/science/article/pii/S0098847221002586)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [The cotton 70-kDa heat shock protein GhHSP70-26 plays a positive role in the drought stress response]( https://www.sciencedirect.com/science/article/pii/S0098847221002586)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envexpbot.2021.104628](https://www.sciencedirect.com/science/article/pii/S0098847221002586);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [Environ Exp Bot | 新疆农业大学倪志勇和曲延英教授团队揭示GhHSP70-26调控干旱胁迫应答的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516228&idx=4&sn=a6bf26681bcf5860f2f0c044ea942cf3&chksm=ce902d11f9e7a4073fe1e85fb9dca6e75e003359299cfe173180fbdbc29e15c5dd40dc00d8f2&scene=27#wechat_redirect)

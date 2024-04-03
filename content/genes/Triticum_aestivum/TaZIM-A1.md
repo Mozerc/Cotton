@@ -8,7 +8,7 @@ tags: [ heading date,flowering time,flowering,heading time,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G423100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G423100)
-- **Gene Symbol:** TaZIM-A1
+- **Gene Symbol:** <u>TaZIM-A1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

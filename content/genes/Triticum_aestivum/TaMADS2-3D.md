@@ -8,7 +8,7 @@ tags: [ transcription factor,root,growth,stress,vegetative,architecture,root gro
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G428000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G428000)
-- **Gene Symbol:** TaMADS2-3D
+- **Gene Symbol:** <u>TaMADS2-3D</u>
 - **Gene Name:** MADS-box transcription factor 2
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

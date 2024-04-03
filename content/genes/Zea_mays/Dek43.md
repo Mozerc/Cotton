@@ -8,7 +8,7 @@ tags: [ development,mitochondria,dehydrogenase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb317730](https://www.maizegdb.org/gene_center/gene/Zm00001eb317730)
-- **Gene Symbol:** Dek43
+- **Gene Symbol:** <u>Dek43</u>
 - **Gene Name:** DEFECTIVE KERNEL 43
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

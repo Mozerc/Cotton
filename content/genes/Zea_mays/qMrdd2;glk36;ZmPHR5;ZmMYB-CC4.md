@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,ja,dwarf,jasm
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071920](https://www.maizegdb.org/gene_center/gene/Zm00001eb071920)
-- **Gene Symbol:** QMrdd2;glk36;ZmPHR5;ZmMYB-CC4
+- **Gene Symbol:** <u>QMrdd2</u>&nbsp;<u>glk36</u>&nbsp;<u>ZmPHR5</u>&nbsp;<u>ZmMYB-CC4</u>
 - **Gene Name:** G2-like-transcription factor 36
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

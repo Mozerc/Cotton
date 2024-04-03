@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb297250](https://www.maizegdb.org/gene_center/gene/Zm00001eb297250)
-- **Gene Symbol:** ZmELF3.2;pza01875
+- **Gene Symbol:** <u>ZmELF3.2</u>&nbsp;<u>pza01875</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

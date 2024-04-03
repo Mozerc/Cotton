@@ -8,7 +8,7 @@ tags: [ seedlings,shoot,salt,tolerance,salt tolerance,transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb071370](https://www.maizegdb.org/gene_center/gene/Zm00001eb071370)
-- **Gene Symbol:** ZmNC3;ZmHKT1.2
+- **Gene Symbol:** <u>ZmNC3</u>&nbsp;<u>ZmHKT1.2</u>
 - **Gene Name:** Na+ content3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

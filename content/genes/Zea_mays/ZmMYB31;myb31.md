@@ -8,7 +8,7 @@ tags: [ lignin ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb103730](https://www.maizegdb.org/gene_center/gene/Zm00001eb103730)
-- **Gene Symbol:** ZmMYB31;myb31
+- **Gene Symbol:** <u>ZmMYB31</u>&nbsp;<u>myb31</u>
 - **Gene Name:** MYB31 transcription factor31
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

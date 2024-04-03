@@ -8,7 +8,7 @@ tags: [ root,development,seedling,salt,tolerance,root development,salt tolerance
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb130310](https://www.maizegdb.org/gene_center/gene/Zm00001eb130310)
-- **Gene Symbol:** ZmHKT1;nc1
+- **Gene Symbol:** <u>ZmHKT1</u>&nbsp;<u>nc1</u>
 - **Gene Name:** Na+ content1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

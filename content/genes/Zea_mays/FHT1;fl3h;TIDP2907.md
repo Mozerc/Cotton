@@ -8,7 +8,7 @@ tags: [ domestication,flavonoid ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb067380](https://www.maizegdb.org/gene_center/gene/Zm00001eb067380)
-- **Gene Symbol:** FHT1;fl3h;TIDP2907
+- **Gene Symbol:** <u>FHT1</u>&nbsp;<u>fl3h</u>&nbsp;<u>TIDP2907</u>
 - **Gene Name:** flavanone 3-hydroxylase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

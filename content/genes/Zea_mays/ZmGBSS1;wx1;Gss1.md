@@ -8,7 +8,7 @@ tags: [ pollen,starch,embryo,endosperm ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb378140](https://www.maizegdb.org/gene_center/gene/Zm00001eb378140)
-- **Gene Symbol:** ZmGBSS1;wx1;Gss1
+- **Gene Symbol:** <u>ZmGBSS1</u>&nbsp;<u>wx1</u>&nbsp;<u>Gss1</u>
 - **Gene Name:** granule-bound starch synthase 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

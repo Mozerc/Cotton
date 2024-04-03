@@ -8,7 +8,7 @@ tags: [ development,floral,stamen,endosperm,endosperm development,protein transl
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb284010](https://www.maizegdb.org/gene_center/gene/Zm00001eb284010)
-- **Gene Symbol:** ZAG1;ZmMADS37
+- **Gene Symbol:** <u>ZAG1</u>&nbsp;<u>ZmMADS37</u>
 - **Gene Name:** Zea AGAMOUS homolog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

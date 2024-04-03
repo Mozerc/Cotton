@@ -8,7 +8,7 @@ tags: [ resistance,lodging,lodging resistance,copper,lignin,lignin biosynthesis 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb148240](https://www.maizegdb.org/gene_center/gene/Zm00001eb148240)
-- **Gene Symbol:** ZmLAC5;ZmLac6;ZmLAC8;lac5
+- **Gene Symbol:** <u>ZmLAC5</u>&nbsp;<u>ZmLac6</u>&nbsp;<u>ZmLAC8</u>&nbsp;<u>lac5</u>
 - **Gene Name:** laccase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

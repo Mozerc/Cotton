@@ -8,7 +8,7 @@ tags: [ aba,aba biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G383500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G383500)
-- **Gene Symbol:** TaNCED2-5D
+- **Gene Symbol:** <u>TaNCED2-5D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

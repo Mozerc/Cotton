@@ -8,7 +8,7 @@ tags: [ leaf,resistance,sheath,blight,r protein,sheath blight,sheath blight resi
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb193970](https://www.maizegdb.org/gene_center/gene/Zm00001eb193970)
-- **Gene Symbol:** ZmFBL41;fbl41
+- **Gene Symbol:** <u>ZmFBL41</u>&nbsp;<u>fbl41</u>
 - **Gene Name:** F-box protein41
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

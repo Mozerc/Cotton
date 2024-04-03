@@ -8,7 +8,7 @@ tags: [ transcription factor,development,spikelet,meristem,spikelet meristem,inf
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb312340](https://www.maizegdb.org/gene_center/gene/Zm00001eb312340)
-- **Gene Symbol:** Ra1
+- **Gene Symbol:** <u>Ra1</u>
 - **Gene Name:** ramosa1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

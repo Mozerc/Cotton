@@ -8,7 +8,7 @@ tags: [ auxin,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb136130](https://www.maizegdb.org/gene_center/gene/Zm00001eb136130)
-- **Gene Symbol:** ZmARF9;ZmARF10;ARF6;ARF9;arftf9
+- **Gene Symbol:** <u>ZmARF9</u>&nbsp;<u>ZmARF10</u>&nbsp;<u>ARF6</u>&nbsp;<u>ARF9</u>&nbsp;<u>arftf9</u>
 - **Gene Name:** ARF-transcription factor 9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

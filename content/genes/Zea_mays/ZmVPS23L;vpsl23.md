@@ -8,7 +8,7 @@ tags: [ development,plant development,defense response,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb409970](https://www.maizegdb.org/gene_center/gene/Zm00001eb409970)
-- **Gene Symbol:** ZmVPS23L;vpsl23
+- **Gene Symbol:** <u>ZmVPS23L</u>&nbsp;<u>vpsl23</u>
 - **Gene Name:** vacuolar protein sorting-like23
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

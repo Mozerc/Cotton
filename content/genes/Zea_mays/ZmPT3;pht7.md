@@ -8,7 +8,7 @@ tags: [ resistance,disease,disease resistance,pi ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb038730](https://www.maizegdb.org/gene_center/gene/Zm00001eb038730)
-- **Gene Symbol:** ZmPT3;pht7
+- **Gene Symbol:** <u>ZmPT3</u>&nbsp;<u>pht7</u>
 - **Gene Name:** phosphate transporter protein7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

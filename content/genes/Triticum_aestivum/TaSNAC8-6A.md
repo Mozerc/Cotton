@@ -8,7 +8,7 @@ tags: [ seedlings,auxin,drought,seedling,tolerance,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6A02G108300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6A02G108300)
-- **Gene Symbol:** TaSNAC8-6A
+- **Gene Symbol:** <u>TaSNAC8-6A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

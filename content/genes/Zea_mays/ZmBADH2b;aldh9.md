@@ -8,7 +8,7 @@ tags: [ 2AP ，seed]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb041930](https://www.maizegdb.org/gene_center/gene/Zm00001eb041930)
-- **Gene Symbol:** ZmBADH2b;aldh9
+- **Gene Symbol:** <u>ZmBADH2b</u>&nbsp;<u>aldh9</u>
 - **Gene Name:** aldehyde dehydrogenase9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

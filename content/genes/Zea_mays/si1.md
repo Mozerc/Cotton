@@ -8,7 +8,7 @@ tags: [ development,floral,inflorescence,sterile,inflorescence development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb272490](https://www.maizegdb.org/gene_center/gene/Zm00001eb272490)
-- **Gene Symbol:** Si1
+- **Gene Symbol:** <u>Si1</u>
 - **Gene Name:** silky1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

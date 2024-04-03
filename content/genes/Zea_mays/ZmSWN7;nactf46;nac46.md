@@ -8,7 +8,7 @@ tags: [ stem ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb379460](https://www.maizegdb.org/gene_center/gene/Zm00001eb379460)
-- **Gene Symbol:** ZmSWN7;nactf46;nac46
+- **Gene Symbol:** <u>ZmSWN7</u>&nbsp;<u>nactf46</u>&nbsp;<u>nac46</u>
 - **Gene Name:** NAC-transcription factor 46
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

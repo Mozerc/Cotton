@@ -8,7 +8,7 @@ tags: [ transcription factor,cold,floral,transcription regulator,flowering,verna
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G391700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G391700)
-- **Gene Symbol:** TaVRN1
+- **Gene Symbol:** <u>TaVRN1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

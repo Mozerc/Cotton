@@ -8,7 +8,7 @@ tags: [ mitochondria,defense response,defense,salicylic acid,sa ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb203780](https://www.maizegdb.org/gene_center/gene/Zm00001eb203780)
-- **Gene Symbol:** ZmTGL
+- **Gene Symbol:** <u>ZmTGL</u>
 - **Gene Name:** triacylglycerol lipase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ nitrogen,root,growth,resistance,stress,root growth,nitrate,al resistance
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb124630](https://www.maizegdb.org/gene_center/gene/Zm00001eb124630)
-- **Gene Symbol:** ZmMYB81;myb81
+- **Gene Symbol:** <u>ZmMYB81</u>&nbsp;<u>myb81</u>
 - **Gene Name:** MYB-transcription factor 81
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

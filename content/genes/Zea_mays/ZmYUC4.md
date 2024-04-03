@@ -8,7 +8,7 @@ tags: [ gravitropic response,root,resistance,lodging,lodging resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb088950](https://www.maizegdb.org/gene_center/gene/Zm00001eb088950)
-- **Gene Symbol:** ZmYUC4
+- **Gene Symbol:** <u>ZmYUC4</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

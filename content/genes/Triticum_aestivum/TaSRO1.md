@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,stress,mitochondria,salinity,tolerance,nucle
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaSRO1
+- **Gene Symbol:** <u>TaSRO1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

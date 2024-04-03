@@ -8,7 +8,7 @@ tags: [ root,seedling,lateral root ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb209690](https://www.maizegdb.org/gene_center/gene/Zm00001eb209690)
-- **Gene Symbol:** ZmNRT2.2;nrt2.2;nrt1;nrt2-2
+- **Gene Symbol:** <u>ZmNRT2.2</u>&nbsp;<u>nrt2.2</u>&nbsp;<u>nrt1</u>&nbsp;<u>nrt2-2</u>
 - **Gene Name:** nitrate transport1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

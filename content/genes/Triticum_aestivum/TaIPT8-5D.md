@@ -8,7 +8,7 @@ tags: [ drought,tolerance,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G471100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G471100)
-- **Gene Symbol:** TaIPT8-5D
+- **Gene Symbol:** <u>TaIPT8-5D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

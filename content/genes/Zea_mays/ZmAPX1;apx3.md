@@ -8,7 +8,7 @@ tags: [ leaf,resistance,ja,blight,defense,jasmonic,jasmonic acid,signaling pathw
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb013080](https://www.maizegdb.org/gene_center/gene/Zm00001eb013080)
-- **Gene Symbol:** ZmAPX1;apx3
+- **Gene Symbol:** <u>ZmAPX1</u>&nbsp;<u>apx3</u>
 - **Gene Name:** ascorbate peroxidase 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

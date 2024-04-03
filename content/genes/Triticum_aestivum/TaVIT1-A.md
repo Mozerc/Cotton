@@ -8,7 +8,7 @@ tags: [ transporter,iron ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G336600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G336600)
-- **Gene Symbol:** TaVIT1-A
+- **Gene Symbol:** <u>TaVIT1-A</u>
 - **Gene Name:** VACUOLAR IRON TRANSPORTER 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

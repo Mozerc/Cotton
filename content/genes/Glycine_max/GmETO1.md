@@ -8,7 +8,7 @@ tags: [ root,growth,tolerance,ethylene,root elongation,root growth,phosphorus,pi
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.14G197100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.14G197100)
-- **Gene Symbol:** GmETO1
+- **Gene Symbol:** <u>GmETO1</u>
 - **Gene Name:** Ethylene-Overproduction Protein 1
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ root,growth,tolerance,ethylene,root elongation,root growth,phosphorus,pi
    - Silencing of **GmETO1** led to opposite findings. We further demonstrated that Pi-deficiency inducible genes critical for root morphological.
 
 ## Function-related keywords:
-   - [root](/tags/root/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[root-elongation](/tags/root-elongation/)&nbsp;,&nbsp;[root-growth](/tags/root-growth/)&nbsp;,&nbsp;[phosphorus](/tags/phosphorus/)&nbsp;,&nbsp;[pi](/tags/pi/)&nbsp;,&nbsp;[pi-uptake](/tags/pi-uptake/)
+   - [root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[root-elongation](/tags/root-elongation/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[phosphorus](/tags/phosphorus/),&nbsp;&nbsp;[pi](/tags/pi/),&nbsp;&nbsp;[pi-uptake](/tags/pi-uptake/)
 
 ## Literature:
-   - [Up-regulating GmETO1 improves phosphorus uptake and use efficiency by promoting root growth in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13816)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13816](https://onlinelibrary.wiley.com/doi/10.1111/pce.13816)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32515009](https://pubmed.ncbi.nlm.nih.gov/32515009/)
+   - [Up-regulating GmETO1 improves phosphorus uptake and use efficiency by promoting root growth in soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13816)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13816](https://onlinelibrary.wiley.com/doi/10.1111/pce.13816);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32515009](https://pubmed.ncbi.nlm.nih.gov/32515009/)
 
 ## Related News:
    - [Plant Cell Environ |河南农大和南京农大合作在GmETO1调控大豆耐低磷方面取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491041&idx=2&sn=3184b98babab892f9a1efeb5c3708900&chksm=ce93b0b4f9e439a26b00329d840c433473324ac9304d6902ba592c2db2964f20872953a327c1&scene=27#wechat_redirect)

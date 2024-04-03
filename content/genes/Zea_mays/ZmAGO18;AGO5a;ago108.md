@@ -8,7 +8,7 @@ tags: [ leaf,resistance,seedling,blight,resistant ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb217290](https://www.maizegdb.org/gene_center/gene/Zm00001eb217290)
-- **Gene Symbol:** ZmAGO18;AGO5a;ago108
+- **Gene Symbol:** <u>ZmAGO18</u>&nbsp;<u>AGO5a</u>&nbsp;<u>ago108</u>
 - **Gene Name:** argonaute108
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

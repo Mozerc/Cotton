@@ -8,7 +8,7 @@ tags: [ development,grain,grain length,awn,photosynthesis,cytokinin,cell elongat
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G542800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G542800)
-- **Gene Symbol:** ALI-1
+- **Gene Symbol:** <u>ALI-1</u>
 - **Gene Name:** Awn Length Inhibitor 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

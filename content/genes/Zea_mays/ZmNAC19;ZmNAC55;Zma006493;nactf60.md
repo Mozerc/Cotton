@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salt,tolerance,aba,drought tolerance,salt 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb212120](https://www.maizegdb.org/gene_center/gene/Zm00001eb212120)
-- **Gene Symbol:** ZmNAC19;ZmNAC55;Zma006493;nactf60
+- **Gene Symbol:** <u>ZmNAC19</u>&nbsp;<u>ZmNAC55</u>&nbsp;<u>Zma006493</u>&nbsp;<u>nactf60</u>
 - **Gene Name:** NAC-transcription factor 60
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

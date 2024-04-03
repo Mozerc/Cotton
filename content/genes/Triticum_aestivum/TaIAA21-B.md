@@ -8,7 +8,7 @@ tags: [ development,grain,grain length,grain size,grain yield,yield,iaa,grain we
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G242800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G242800)
-- **Gene Symbol:** TaIAA21-B
+- **Gene Symbol:** <u>TaIAA21-B</u>
 - **Gene Name:** Aux/IAA 21
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

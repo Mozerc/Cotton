@@ -8,7 +8,7 @@ tags: [ resistance,stress,tolerance,stress tolerance,h2o2 ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A09G1509]()
-- **Gene Symbol:** GhGST
+- **Gene Symbol:** <u>GhGST</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ resistance,stress,tolerance,stress tolerance,h2o2 ]
    - Considering these results, the overexpression of **GhGST** maybe enhance tolerance of transgenic tobacco plants to changes in the delicate balance of the H2O2 levels in vivo, resulting in an increase in the H2O2 level.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[h2o2](/tags/h2o2/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[h2o2](/tags/h2o2/)
 
 ## Literature:
-   - [A newly identified cluster of glutathione S-transferase genes provides Verticillium wilt resistance in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14206)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14206](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14206)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30561788](https://pubmed.ncbi.nlm.nih.gov/30561788/)
+   - [A newly identified cluster of glutathione S-transferase genes provides Verticillium wilt resistance in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.14206)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.14206](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14206);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30561788](https://pubmed.ncbi.nlm.nih.gov/30561788/)
 
 ## Related News:
    - [河北农大发现一个棉花谷胱甘肽硫转移酶基因簇在抗黄萎病中具有重要作用](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247490917&idx=1&sn=7f1a6c4c999903054b49a5fb651f00fc&chksm=e8be6f7bdfc9e66dc7f22001d0e049eb34391ac51da46f1c985d669bf483df2c32108150ad33&scene=27#wechat_redirect)

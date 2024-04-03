@@ -8,7 +8,7 @@ tags: [ root,root elongation,cell wall,cell elongation,glycosylation,glucanase,h
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb414390](https://www.maizegdb.org/gene_center/gene/Zm00001eb414390)
-- **Gene Symbol:** ZmXTH1;XTHB10;xth1
+- **Gene Symbol:** <u>ZmXTH1</u>&nbsp;<u>XTHB10</u>&nbsp;<u>xth1</u>
 - **Gene Name:** xyloglucan endo-transglycosylase/hydrolase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

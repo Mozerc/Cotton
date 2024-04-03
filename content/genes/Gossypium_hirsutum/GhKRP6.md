@@ -8,7 +8,7 @@ tags: [ kinase,br,br signaling,seed,cell cycle,seed size,cell expansion,seed len
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D11G206800]()
-- **Gene Symbol:** GhKRP6
+- **Gene Symbol:** <u>GhKRP6</u>
 - **Gene Name:** 
 - **Genome:** [G. hirsutum genome (CRI)]()
 - **Species:** *Gossypium hirsutum*
@@ -21,10 +21,10 @@ tags: [ kinase,br,br signaling,seed,cell cycle,seed size,cell expansion,seed len
    - Our study also found that **GhKRP6** could interact directly with a cell cycle-dependent kinase called GhCDKG. Taken together, these results suggest that BR signaling influences cell expansion by directly modulating the expression of cell cycle-dependent kinase inhibitor **GhKRP6** via GhBES1.4.
 
 ## Function-related keywords:
-   - [kinase](/tags/kinase/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[br-signaling](/tags/br-signaling/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[cell-cycle](/tags/cell-cycle/)&nbsp;,&nbsp;[seed-size](/tags/seed-size/)&nbsp;,&nbsp;[cell-expansion](/tags/cell-expansion/)&nbsp;,&nbsp;[seed-length](/tags/seed-length/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [kinase](/tags/kinase/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[br-signaling](/tags/br-signaling/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[seed-size](/tags/seed-size/),&nbsp;&nbsp;[cell-expansion](/tags/cell-expansion/),&nbsp;&nbsp;[seed-length](/tags/seed-length/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [Cell cycle-dependent kinase inhibitor GhKRP6, a direct target of GhBES1.4, participates in BR regulation of cell expansion in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16353)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16353](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16353)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37326240](https://pubmed.ncbi.nlm.nih.gov/37326240/)
+   - [Cell cycle-dependent kinase inhibitor GhKRP6, a direct target of GhBES1.4, participates in BR regulation of cell expansion in cotton.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16353)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16353](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16353);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37326240](https://pubmed.ncbi.nlm.nih.gov/37326240/)
 
 ## Related News:
    - [PJ | 中国农业科学院棉花研究所李付广/杨作仁研究员团队揭示油菜素内酯（BR）调控棉花细胞扩张新机制](https://mp.weixin.qq.com/s/yFom_7nwx8p7zM8K3KK3xQ)

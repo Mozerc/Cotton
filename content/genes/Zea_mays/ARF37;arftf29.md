@@ -8,7 +8,7 @@ tags: [ xylem,development,auxin,vascular development ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G086949](https://www.maizegdb.org/gene_center/gene/GRMZM2G086949)
-- **Gene Symbol:** ARF37;arftf29
+- **Gene Symbol:** <u>ARF37</u>&nbsp;<u>arftf29</u>
 - **Gene Name:** ARF-transcription factor 29
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

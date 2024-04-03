@@ -8,7 +8,7 @@ tags: [ seedlings,temperature,resistance,stress,cold stress,cold,low-temperature
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb243510](https://www.maizegdb.org/gene_center/gene/Zm00001eb243510)
-- **Gene Symbol:** ZmC2H2-81;cchh133
+- **Gene Symbol:** <u>ZmC2H2-81</u>&nbsp;<u>cchh133</u>
 - **Gene Name:** Cys2His2 Zinc Finger133
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

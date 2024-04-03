@@ -8,7 +8,7 @@ tags: [ leaf,stress,phosphate,stress response,pi,phosphate starvation,phosphate 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb331010](https://www.maizegdb.org/gene_center/gene/Zm00001eb331010)
-- **Gene Symbol:** ZmPHR13;glk59
+- **Gene Symbol:** <u>ZmPHR13</u>&nbsp;<u>glk59</u>
 - **Gene Name:** G2-like-transcription factor 59
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

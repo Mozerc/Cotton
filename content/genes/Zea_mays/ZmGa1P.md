@@ -8,7 +8,7 @@ tags: [ growth,pollen,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb167600](https://www.maizegdb.org/gene_center/gene/Zm00001eb167600)
-- **Gene Symbol:** ZmGa1P
+- **Gene Symbol:** <u>ZmGa1P</u>
 - **Gene Name:** pollen/male determinant of the Ga1 locus
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

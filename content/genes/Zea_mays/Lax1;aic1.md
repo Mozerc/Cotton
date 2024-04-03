@@ -8,7 +8,7 @@ tags: [ leaf,root,auxin,down-regulated genes,root initiation,signal transduction
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb026490](https://www.maizegdb.org/gene_center/gene/Zm00001eb026490)
-- **Gene Symbol:** Lax1;aic1
+- **Gene Symbol:** <u>Lax1</u>&nbsp;<u>aic1</u>
 - **Gene Name:** like-auxin1;auxin import carrier1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

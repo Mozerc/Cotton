@@ -8,7 +8,7 @@ tags: [ growth,development,seedling,seedling growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb217230](https://www.maizegdb.org/gene_center/gene/Zm00001eb217230)
-- **Gene Symbol:** ZmFdC2;pas1
+- **Gene Symbol:** <u>ZmFdC2</u>&nbsp;<u>pas1</u>
 - **Gene Name:** pale and small1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

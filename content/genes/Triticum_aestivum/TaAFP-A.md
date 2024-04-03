@@ -8,7 +8,7 @@ tags: [ seed,seed germination,tolerance,aba,embryo,dormancy,seed dormancy,aba se
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G176300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G176300)
-- **Gene Symbol:** TaAFP-A
+- **Gene Symbol:** <u>TaAFP-A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

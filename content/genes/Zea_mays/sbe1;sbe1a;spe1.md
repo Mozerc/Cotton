@@ -8,7 +8,7 @@ tags: [ starch,branching,endosperm,amylose content,plastid ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb228530](https://www.maizegdb.org/gene_center/gene/Zm00001eb228530)
-- **Gene Symbol:** Sbe1;sbe1a;spe1
+- **Gene Symbol:** <u>Sbe1</u>&nbsp;<u>sbe1a</u>&nbsp;<u>spe1</u>
 - **Gene Name:** starch branching enzyme1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

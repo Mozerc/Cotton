@@ -8,7 +8,7 @@ tags: [ growth,development,br,br signaling,drought,seedling,tolerance,drought to
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb338190](https://www.maizegdb.org/gene_center/gene/Zm00001eb338190)
-- **Gene Symbol:** ZmGSK2;ZmSK1;gsk2
+- **Gene Symbol:** <u>ZmGSK2</u>&nbsp;<u>ZmSK1</u>&nbsp;<u>gsk2</u>
 - **Gene Name:** glycogen synthase kinase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

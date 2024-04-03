@@ -8,7 +8,7 @@ tags: [ growth,kinase,resistance,drought,tolerance,aba,vegetative,drought tolera
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G197800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G197800)
-- **Gene Symbol:** TaMPK3-4B
+- **Gene Symbol:** <u>TaMPK3-4B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

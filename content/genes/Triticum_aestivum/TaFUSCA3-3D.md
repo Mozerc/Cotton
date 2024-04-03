@@ -8,7 +8,7 @@ tags: [ growth,development,seed,quality,endosperm,seed development,endosperm dev
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G249100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G249100)
-- **Gene Symbol:** TaFUSCA3-3D
+- **Gene Symbol:** <u>TaFUSCA3-3D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

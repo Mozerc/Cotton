@@ -8,7 +8,7 @@ tags: [ transcription factor,stress,tolerance,cold tolerance,cold stress,cold,st
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb176680](https://www.maizegdb.org/gene_center/gene/Zm00001eb176680)
-- **Gene Symbol:** bZIP68;ABI5;ZmABF3;ZmbZIP33
+- **Gene Symbol:** <u>bZIP68</u>&nbsp;<u>ABI5</u>&nbsp;<u>ZmABF3</u>&nbsp;<u>ZmbZIP33</u>
 - **Gene Name:** bZIP-transcription factor 68
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

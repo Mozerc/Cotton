@@ -8,7 +8,7 @@ tags: [ development,inflorescence,inflorescence development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb199880](https://www.maizegdb.org/gene_center/gene/Zm00001eb199880)
-- **Gene Symbol:** UB3
+- **Gene Symbol:** <u>UB3</u>
 - **Gene Name:** unbranched3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

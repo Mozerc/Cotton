@@ -8,7 +8,7 @@ tags: [ development,pollen,map-based cloning,pollen development,plasma membrane 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb372320](https://www.maizegdb.org/gene_center/gene/Zm00001eb372320)
-- **Gene Symbol:** ZmDMP;dmp1
+- **Gene Symbol:** <u>ZmDMP</u>&nbsp;<u>dmp1</u>
 - **Gene Name:** DUF679 domain membrane protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

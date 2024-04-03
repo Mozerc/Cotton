@@ -8,7 +8,7 @@ tags: [ lignin ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb062180](https://www.maizegdb.org/gene_center/gene/Zm00001eb062180)
-- **Gene Symbol:** BM2;ZmMTHFR-1;csuh134a;mtf1
+- **Gene Symbol:** <u>BM2</u>&nbsp;<u>ZmMTHFR-1</u>&nbsp;<u>csuh134a</u>&nbsp;<u>mtf1</u>
 - **Gene Name:** brown midrib2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

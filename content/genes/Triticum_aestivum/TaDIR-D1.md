@@ -8,7 +8,7 @@ tags: [ resistance,cell wall,crown,lignin ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G359300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G359300)
-- **Gene Symbol:** TaDIR-D1
+- **Gene Symbol:** <u>TaDIR-D1</u>
 - **Gene Name:** 
 - **Genome:** [IWGSC reference sequence v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

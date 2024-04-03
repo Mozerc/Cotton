@@ -8,7 +8,7 @@ tags: [ stress,abiotic stress,stress response,abiotic stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1B02G351200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G351200)
-- **Gene Symbol:** TaVQ4-B
+- **Gene Symbol:** <u>TaVQ4-B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

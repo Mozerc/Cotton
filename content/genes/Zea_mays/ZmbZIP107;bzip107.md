@@ -8,7 +8,7 @@ tags: [ seedlings,root,stress,seedling,tolerance,nucleus,stress tolerance,archit
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb412510](https://www.maizegdb.org/gene_center/gene/Zm00001eb412510)
-- **Gene Symbol:** ZmbZIP107;bzip107
+- **Gene Symbol:** <u>ZmbZIP107</u>&nbsp;<u>bzip107</u>
 - **Gene Name:** bZIP-transcription factor 107
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

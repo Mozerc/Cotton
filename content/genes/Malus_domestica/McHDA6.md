@@ -8,7 +8,7 @@ tags: [ anthocyanin biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** McHDA6
+- **Gene Symbol:** <u>McHDA6</u>
 - **Gene Name:** 
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -23,7 +23,7 @@ tags: [ anthocyanin biosynthesis ]
    - [anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
 
 ## Literature:
-   - [MiR399d and epigenetic modification comodulate anthocyanin accumulation in Malus leaves suffering from phosphorus deficiency.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13697)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13697](https://onlinelibrary.wiley.com/doi/10.1111/pce.13697)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31833568](https://pubmed.ncbi.nlm.nih.gov/31833568/)
+   - [MiR399d and epigenetic modification comodulate anthocyanin accumulation in Malus leaves suffering from phosphorus deficiency.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.13697)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.13697](https://onlinelibrary.wiley.com/doi/10.1111/pce.13697);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31833568](https://pubmed.ncbi.nlm.nih.gov/31833568/)
 
 ## Related News:
    - [Plant Cell and Environment|北京农学院姚允聪课题组揭示苹果属叶片缺磷胁迫下花色苷积累的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247486672&idx=4&sn=44fb4af2229b760867feee560cebd774&chksm=ce93a185f9e42893205178acf99af8aceb88ca2271521e6b871d28f66f8d060dd22665df4b68&scene=27#wechat_redirect)

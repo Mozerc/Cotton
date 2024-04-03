@@ -8,7 +8,7 @@ tags: [ transcription factor,ethylene,nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G328800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G328800)
-- **Gene Symbol:** TaERF
+- **Gene Symbol:** <u>TaERF</u>
 - **Gene Name:** ethylene-responsive transcription factor
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

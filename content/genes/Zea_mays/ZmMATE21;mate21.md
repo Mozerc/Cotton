@@ -8,7 +8,7 @@ tags: [ detoxification,herbicide ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb106010](https://www.maizegdb.org/gene_center/gene/Zm00001eb106010)
-- **Gene Symbol:** ZmMATE21;mate21
+- **Gene Symbol:** <u>ZmMATE21</u>&nbsp;<u>mate21</u>
 - **Gene Name:** multidrug and toxic compound extrusion21
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

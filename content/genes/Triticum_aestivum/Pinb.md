@@ -8,7 +8,7 @@ tags: [ kernel texture ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G004300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G004300)
-- **Gene Symbol:** Pinb
+- **Gene Symbol:** <u>Pinb</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

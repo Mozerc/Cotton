@@ -8,7 +8,7 @@ tags: [ flower,homeostasis,lignin,lignin biosynthesis,anthocyanin biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** MdCCR
+- **Gene Symbol:** <u>MdCCR</u>
 - **Gene Name:** 
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -21,10 +21,10 @@ tags: [ flower,homeostasis,lignin,lignin biosynthesis,anthocyanin biosynthesis ]
    - miR7125 targets **MdCCR** to regulate lignin biosynthesis.
 
 ## Function-related keywords:
-   - [flower](/tags/flower/)&nbsp;,&nbsp;[homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[lignin](/tags/lignin/)&nbsp;,&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/)&nbsp;,&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
+   - [flower](/tags/flower/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[lignin](/tags/lignin/),&nbsp;&nbsp;[lignin-biosynthesis](/tags/lignin-biosynthesis/),&nbsp;&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
 
 ## Literature:
-   - [The MdMYB16/MdMYB1-miR7125-MdCCR module regulates the homeostasis between anthocyanin and lignin biosynthesis during light induction in apple.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17431)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17431](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17431)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33908060](https://pubmed.ncbi.nlm.nih.gov/33908060/)
+   - [The MdMYB16/MdMYB1-miR7125-MdCCR module regulates the homeostasis between anthocyanin and lignin biosynthesis during light induction in apple.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17431)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17431](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17431);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33908060](https://pubmed.ncbi.nlm.nih.gov/33908060/)
 
 ## Related News:
    - [New Phytologist | 北京农学院姚允聪/张杰团队揭示苹果花色苷和木质素生物合成稳态调控的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247509261&idx=3&sn=737e6b1ca41708b1577aa05bcf1efaa3&chksm=ce900858f9e7814eb8a8b94d97d6f26bcdbebb43c87e892a2d37720d6e1d4e23a65c734ed3d5&scene=27#wechat_redirect)

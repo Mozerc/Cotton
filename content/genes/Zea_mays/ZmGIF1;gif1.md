@@ -8,7 +8,7 @@ tags: [ grain,grain yield,yield,cell wall,endosperm ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb056300](https://www.maizegdb.org/gene_center/gene/Zm00001eb056300)
-- **Gene Symbol:** ZmGIF1;gif1
+- **Gene Symbol:** <u>ZmGIF1</u>&nbsp;<u>gif1</u>
 - **Gene Name:** growth-regulating-factor-interacting factor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ resistance,defense response,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb292740](https://www.maizegdb.org/gene_center/gene/Zm00001eb292740)
-- **Gene Symbol:** ZmRop6;rop6
+- **Gene Symbol:** <u>ZmRop6</u>&nbsp;<u>rop6</u>
 - **Gene Name:** Rho-related protein6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

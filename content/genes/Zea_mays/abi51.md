@@ -8,7 +8,7 @@ tags: [ stem,cell wall,cell cycle,sugar,sugar transport,dormancy ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb413890](https://www.maizegdb.org/gene_center/gene/Zm00001eb413890)
-- **Gene Symbol:** ABI51
+- **Gene Symbol:** <u>ABI51</u>
 - **Gene Name:** ABI3-VP1-transcription factor 51
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

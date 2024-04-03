@@ -8,7 +8,7 @@ tags: [ heading date,sugar,flowering time,flowering,heading time ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6A01G091300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6A01G091300)
-- **Gene Symbol:** TaOGT1
+- **Gene Symbol:** <u>TaOGT1</u>
 - **Gene Name:** O-linked N-acetylglucosamine transferase (OGT)
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ stress,abiotic stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb389540](https://www.maizegdb.org/gene_center/gene/Zm00001eb389540)
-- **Gene Symbol:** ZmBBX32;ZmBBX34;ZmCCT52;ZmCOL15;col13
+- **Gene Symbol:** <u>ZmBBX32</u>&nbsp;<u>ZmBBX34</u>&nbsp;<u>ZmCCT52</u>&nbsp;<u>ZmCOL15</u>&nbsp;<u>col13</u>
 - **Gene Name:** C2C2-CO-like-transcription factor 13
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

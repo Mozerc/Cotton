@@ -8,7 +8,7 @@ tags: [ tiller,stems,map-based cloning,cellulose,tiller number,tiller bud outgro
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G010500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G010500)
-- **Gene Symbol:** Csl-1A
+- **Gene Symbol:** <u>Csl-1A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

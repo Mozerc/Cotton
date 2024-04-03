@@ -8,7 +8,7 @@ tags: [ development,auxin,plant development,domestication,yield,homeostasis,bree
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb203950](https://www.maizegdb.org/gene_center/gene/Zm00001eb203950)
-- **Gene Symbol:** ZmVPS29;vps29
+- **Gene Symbol:** <u>ZmVPS29</u>&nbsp;<u>vps29</u>
 - **Gene Name:** vacuolar protein sorting29
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,stress,seedling,seed,salt,seed germination,t
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb086280](https://www.maizegdb.org/gene_center/gene/Zm00001eb086280)
-- **Gene Symbol:** ZmWRKY17;wrky105
+- **Gene Symbol:** <u>ZmWRKY17</u>&nbsp;<u>wrky105</u>
 - **Gene Name:** WRKY-transcription factor 105
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

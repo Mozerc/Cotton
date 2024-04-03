@@ -9,7 +9,7 @@ tags: [development, drought, salt, tolerance, salt stress, stress, plant develop
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Osa-miR393a
+- **Gene Symbol:** <u>Osa-miR393a</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

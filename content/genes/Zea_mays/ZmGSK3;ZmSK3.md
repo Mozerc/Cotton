@@ -8,7 +8,7 @@ tags: [ kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,prot
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb238820](https://www.maizegdb.org/gene_center/gene/Zm00001eb238820)
-- **Gene Symbol:** ZmGSK3;ZmSK3
+- **Gene Symbol:** <u>ZmGSK3</u>&nbsp;<u>ZmSK3</u>
 - **Gene Name:** glycogen synthase kinase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

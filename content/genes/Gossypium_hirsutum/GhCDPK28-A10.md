@@ -8,7 +8,7 @@ tags: [ stem,root,resistance,disease,disease resistance,ja,defense,virus ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A10G086300]()
-- **Gene Symbol:** GhCDPK28-A10
+- **Gene Symbol:** <u>GhCDPK28-A10</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ stem,root,resistance,disease,disease resistance,ja,defense,virus ]
    - The role of **GhCDPK28-A10** in cotton resistance to Verticillium wilt was verified by virus-induced gene silencing (VIGS) technique.
 
 ## Function-related keywords:
-   - [stem](/tags/stem/)&nbsp;,&nbsp;[root](/tags/root/)&nbsp;,&nbsp;[resistance](/tags/resistance/)&nbsp;,&nbsp;[disease](/tags/disease/)&nbsp;,&nbsp;[disease-resistance](/tags/disease-resistance/)&nbsp;,&nbsp;[ja](/tags/ja/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[virus](/tags/virus/)
+   - [stem](/tags/stem/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[virus](/tags/virus/)
 
 ## Literature:
-   - [Functional analysis of cotton calcium-dependent protein kinase GhCDPK28-A10 involved in resistance to Verticillium wilt]( https://journal.cricaas.com.cn/Jweb_mhxb/CN/10.11963/cs20220047)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.11963/cs20220047](https://journal.cricaas.com.cn/Jweb_mhxb/CN/10.11963/cs20220047)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Functional analysis of cotton calcium-dependent protein kinase GhCDPK28-A10 involved in resistance to Verticillium wilt]( https://journal.cricaas.com.cn/Jweb_mhxb/CN/10.11963/cs20220047)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.11963/cs20220047](https://journal.cricaas.com.cn/Jweb_mhxb/CN/10.11963/cs20220047);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [棉花学报 | 陆地棉钙依赖蛋白激酶GhCDPK28-A10参与抗黄萎病的功能分析](https://mp.weixin.qq.com/s/25qxdA0G6ErF8089SDZD_w)

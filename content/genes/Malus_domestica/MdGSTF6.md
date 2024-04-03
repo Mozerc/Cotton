@@ -8,7 +8,7 @@ tags: [ transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[MD17G1272100]()
-- **Gene Symbol:** MdGSTF6
+- **Gene Symbol:** <u>MdGSTF6</u>
 - **Gene Name:** 
 - **Genome:** [Malus × domestica genome GDDH13 v 1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -22,7 +22,7 @@ tags: [ transporter ]
    - [transporter](/tags/transporter/)
 
 ## Literature:
-   - [MdGSTF6, activated by MdMYB1, plays an essential role in anthocyanin accumulation in apple.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-019-0118-6/6437910?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41438-019-0118-6 ](https://academic.oup.com/hr/article/doi/10.1038/s41438-019-0118-6/6437910?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30854214](https://pubmed.ncbi.nlm.nih.gov/30854214/)
+   - [MdGSTF6, activated by MdMYB1, plays an essential role in anthocyanin accumulation in apple.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-019-0118-6/6437910?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41438-019-0118-6 ](https://academic.oup.com/hr/article/doi/10.1038/s41438-019-0118-6/6437910?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30854214](https://pubmed.ncbi.nlm.nih.gov/30854214/)
 
 ## Related News:
 

@@ -8,7 +8,7 @@ tags: [ mature leaves,jasmonate,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d002138](https://www.maizegdb.org/gene_center/gene/Zm00001d002138)
-- **Gene Symbol:** ZmPep3;propep3
+- **Gene Symbol:** <u>ZmPep3</u>&nbsp;<u>propep3</u>
 - **Gene Name:** precursor elicitor peptide3
 - **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-GRAMENE-4.0)
 - **Species:** *Zea mays*

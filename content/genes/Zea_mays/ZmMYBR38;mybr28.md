@@ -8,7 +8,7 @@ tags: [ drought,domestication,tolerance,yield,drought tolerance,drought response
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb243450](https://www.maizegdb.org/gene_center/gene/Zm00001eb243450)
-- **Gene Symbol:** ZmMYBR38;mybr28
+- **Gene Symbol:** <u>ZmMYBR38</u>&nbsp;<u>mybr28</u>
 - **Gene Name:** MYB-related-transcription factor 28
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

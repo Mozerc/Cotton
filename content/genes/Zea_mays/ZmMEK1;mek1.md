@@ -8,7 +8,7 @@ tags: [ seedlings,kinase,mature leaves,stems,aba,salicylic acid,abscisic acid,pr
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb154530](https://www.maizegdb.org/gene_center/gene/Zm00001eb154530)
-- **Gene Symbol:** ZmMEK1;mek1
+- **Gene Symbol:** <u>ZmMEK1</u>&nbsp;<u>mek1</u>
 - **Gene Name:** MEK homolog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

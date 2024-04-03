@@ -8,7 +8,7 @@ tags: [ leaf,temperature,stomatal,ubiquitin,water loss,ubiquitin e3 ligase,therm
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb105020](https://www.maizegdb.org/gene_center/gene/Zm00001eb105020)
-- **Gene Symbol:** ZmRIN2;cl34141_1b
+- **Gene Symbol:** <u>ZmRIN2</u>&nbsp;<u>cl34141_1b</u>
 - **Gene Name:** E3 ubiquitin ligase RPM1 INTERACTING PROTEIN 2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

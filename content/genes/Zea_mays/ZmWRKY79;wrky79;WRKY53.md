@@ -8,7 +8,7 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,abiotic str
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb310270](https://www.maizegdb.org/gene_center/gene/Zm00001eb310270)
-- **Gene Symbol:** ZmWRKY79;wrky79;WRKY53
+- **Gene Symbol:** <u>ZmWRKY79</u>&nbsp;<u>wrky79</u>&nbsp;<u>WRKY53</u>
 - **Gene Name:** WRKY-transcription factor 79
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

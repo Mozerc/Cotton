@@ -8,7 +8,7 @@ tags: [ transporter,cell wall,sucrose,sucrose transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb043150](https://www.maizegdb.org/gene_center/gene/Zm00001eb043150)
-- **Gene Symbol:** ZmSTP3;ZmSTP8;stp12
+- **Gene Symbol:** <u>ZmSTP3</u>&nbsp;<u>ZmSTP8</u>&nbsp;<u>stp12</u>
 - **Gene Name:** sugar transport protein12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

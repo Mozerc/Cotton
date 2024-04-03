@@ -8,7 +8,7 @@ tags: [ development,br,inflorescence,dwarf,inflorescence development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb147800](https://www.maizegdb.org/gene_center/gene/Zm00001eb147800)
-- **Gene Symbol:** NA1;ZmDET2
+- **Gene Symbol:** <u>NA1</u>&nbsp;<u>ZmDET2</u>
 - **Gene Name:** nana plant1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

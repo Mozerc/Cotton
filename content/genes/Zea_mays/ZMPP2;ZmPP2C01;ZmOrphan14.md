@@ -8,7 +8,7 @@ tags: [ kinase,protein kinase,phosphatase,dehydrogenase,protein phosphatase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003000](https://www.maizegdb.org/gene_center/gene/Zm00001eb003000)
-- **Gene Symbol:** ZMPP2;ZmPP2C01;ZmOrphan14
+- **Gene Symbol:** <u>ZMPP2</u>&nbsp;<u>ZmPP2C01</u>&nbsp;<u>ZmOrphan14</u>
 - **Gene Name:** protein phosphatase homolog101
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

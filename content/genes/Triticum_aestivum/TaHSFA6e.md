@@ -8,7 +8,7 @@ tags: [ transcription factor,stress,stress response,heat stress,heat stress resp
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaHSFA6e
+- **Gene Symbol:** <u>TaHSFA6e</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

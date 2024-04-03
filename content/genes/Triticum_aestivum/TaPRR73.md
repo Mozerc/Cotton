@@ -8,7 +8,7 @@ tags: [ leaf,breeding,height,heading date,plant height ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G199600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G199600)
-- **Gene Symbol:** TaPRR73
+- **Gene Symbol:** <u>TaPRR73</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

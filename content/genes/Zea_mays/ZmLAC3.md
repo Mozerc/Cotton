@@ -8,7 +8,7 @@ tags: [ nitrogen,leaf,root,homeostasis,casparian strip ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G164467](https://www.maizegdb.org/gene_center/gene/GRMZM2G164467)
-- **Gene Symbol:** ZmLAC3
+- **Gene Symbol:** <u>ZmLAC3</u>
 - **Gene Name:** laccase6
 - **Genome:** [B73 RefGen_v3](https://www.maizegdb.org/genome/assembly/B73 RefGen_v3)
 - **Species:** *Zea mays*

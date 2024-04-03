@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb292690](https://www.maizegdb.org/gene_center/gene/Zm00001eb292690)
-- **Gene Symbol:** ZmTCP22;tcp23
+- **Gene Symbol:** <u>ZmTCP22</u>&nbsp;<u>tcp23</u>
 - **Gene Name:** TCP-transcription factor 23
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

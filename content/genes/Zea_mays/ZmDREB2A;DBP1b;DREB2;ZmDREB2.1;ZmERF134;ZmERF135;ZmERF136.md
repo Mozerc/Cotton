@@ -8,7 +8,7 @@ tags: [ drought,drought response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb347600](https://www.maizegdb.org/gene_center/gene/Zm00001eb347600)
-- **Gene Symbol:** ZmDREB2A;DBP1b;DREB2;ZmDREB2.1;ZmERF134;ZmERF135;ZmERF136
+- **Gene Symbol:** <u>ZmDREB2A</u>&nbsp;<u>DBP1b</u>&nbsp;<u>DREB2</u>&nbsp;<u>ZmDREB2.1</u>&nbsp;<u>ZmERF134</u>&nbsp;<u>ZmERF135</u>&nbsp;<u>ZmERF136</u>
 - **Gene Name:** AP2-EREBP-transcription factor 22
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

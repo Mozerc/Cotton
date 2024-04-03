@@ -8,7 +8,7 @@ tags: [ root,growth,resistance,stress,root growth,stress response,al resistance 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb358580](https://www.maizegdb.org/gene_center/gene/Zm00001eb358580)
-- **Gene Symbol:** ZmSLAH2
+- **Gene Symbol:** <u>ZmSLAH2</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

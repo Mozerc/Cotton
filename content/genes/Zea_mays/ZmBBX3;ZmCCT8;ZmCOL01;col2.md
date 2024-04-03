@@ -8,7 +8,7 @@ tags: [ stress,domestication,abiotic stress,biotic stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb054810](https://www.maizegdb.org/gene_center/gene/Zm00001eb054810)
-- **Gene Symbol:** ZmBBX3;ZmCCT8;ZmCOL01;col2
+- **Gene Symbol:** <u>ZmBBX3</u>&nbsp;<u>ZmCCT8</u>&nbsp;<u>ZmCOL01</u>&nbsp;<u>col2</u>
 - **Gene Name:** C2C2-CO-like-transcription factor 2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

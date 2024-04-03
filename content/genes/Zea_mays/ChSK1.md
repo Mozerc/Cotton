@@ -8,7 +8,7 @@ tags: [ kinase,defense response,defense,immune response,receptor kinase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb124060](https://www.maizegdb.org/gene_center/gene/Zm00001eb124060)
-- **Gene Symbol:** ChSK1
+- **Gene Symbol:** <u>ChSK1</u>
 - **Gene Name:** Cochliobolus heterostrophus Susceptibility Kinase 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

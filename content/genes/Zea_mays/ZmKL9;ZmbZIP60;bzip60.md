@@ -8,7 +8,7 @@ tags: [ grain,grain yield,yield,grain weight ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb388050](https://www.maizegdb.org/gene_center/gene/Zm00001eb388050)
-- **Gene Symbol:** ZmKL9;ZmbZIP60;bzip60
+- **Gene Symbol:** <u>ZmKL9</u>&nbsp;<u>ZmbZIP60</u>&nbsp;<u>bzip60</u>
 - **Gene Name:** bZIP transcription factor60
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

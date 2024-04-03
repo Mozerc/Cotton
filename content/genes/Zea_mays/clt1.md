@@ -8,7 +8,7 @@ tags: [ height,plant height ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb360490](https://www.maizegdb.org/gene_center/gene/Zm00001eb360490)
-- **Gene Symbol:** Clt1
+- **Gene Symbol:** <u>Clt1</u>
 - **Gene Name:** clumped tassel1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

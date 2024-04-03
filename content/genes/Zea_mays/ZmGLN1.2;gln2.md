@@ -8,7 +8,7 @@ tags: [ nitrogen,leaf,stem,root,shoot,pollen,seedling,embryo,nitrate ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb054990](https://www.maizegdb.org/gene_center/gene/Zm00001eb054990)
-- **Gene Symbol:** ZmGLN1.2;gln2
+- **Gene Symbol:** <u>ZmGLN1.2</u>&nbsp;<u>gln2</u>
 - **Gene Name:** glutamine synthetase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

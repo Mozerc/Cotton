@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,stress response,heat stress,heat 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb256230](https://www.maizegdb.org/gene_center/gene/Zm00001eb256230)
-- **Gene Symbol:** ZmWRKY064;ZmWRKY66;ZmWRKY9;wrky131
+- **Gene Symbol:** <u>ZmWRKY064</u>&nbsp;<u>ZmWRKY66</u>&nbsp;<u>ZmWRKY9</u>&nbsp;<u>wrky131</u>
 - **Gene Name:** WRKY-transcription factor 131
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

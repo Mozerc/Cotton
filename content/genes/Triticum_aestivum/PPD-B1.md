@@ -8,7 +8,7 @@ tags: [ flowering,photoperiod response,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCSU02G196100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCSU02G196100)
-- **Gene Symbol:** PPD-B1
+- **Gene Symbol:** <u>PPD-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

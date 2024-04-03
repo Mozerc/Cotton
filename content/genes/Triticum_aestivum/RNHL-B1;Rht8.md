@@ -8,7 +8,7 @@ tags: [ grain,grain length,grain yield,yield,height,plant height,spike ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G073600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G073600)
-- **Gene Symbol:** RNHL-B1;Rht8
+- **Gene Symbol:** <u>RNHL-B1</u>&nbsp;<u>Rht8</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

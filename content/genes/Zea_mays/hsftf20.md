@@ -8,7 +8,7 @@ tags: [ stress,tolerance,stress tolerance,breeding,chilling,chilling stress,crow
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb428800](https://www.maizegdb.org/gene_center/gene/Zm00001eb428800)
-- **Gene Symbol:** Hsftf20
+- **Gene Symbol:** <u>Hsftf20</u>
 - **Gene Name:** HSF-transcription factor 20
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,flower,flower development ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G058900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G058900)
-- **Gene Symbol:** WLHS1-4A
+- **Gene Symbol:** <u>WLHS1-4A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

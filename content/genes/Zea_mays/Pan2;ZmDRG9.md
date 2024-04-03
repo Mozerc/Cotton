@@ -8,7 +8,7 @@ tags: [ stomatal,stomata ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb117610](https://www.maizegdb.org/gene_center/gene/Zm00001eb117610)
-- **Gene Symbol:** Pan2;ZmDRG9
+- **Gene Symbol:** <u>Pan2</u>&nbsp;<u>ZmDRG9</u>
 - **Gene Name:** PANGLOSS2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

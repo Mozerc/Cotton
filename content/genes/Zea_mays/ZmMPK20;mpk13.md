@@ -8,7 +8,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,ubiquitin,water loss,ubi
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb297110](https://www.maizegdb.org/gene_center/gene/Zm00001eb297110)
-- **Gene Symbol:** ZmMPK20;mpk13
+- **Gene Symbol:** <u>ZmMPK20</u>&nbsp;<u>mpk13</u>
 - **Gene Name:** MITOGEN-ACTIVATED PROTEIN KINASE 20
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

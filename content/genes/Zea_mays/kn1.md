@@ -8,7 +8,7 @@ tags: [ resistance,cytokinin,herbicide resistance,herbicide ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb055920](https://www.maizegdb.org/gene_center/gene/Zm00001eb055920)
-- **Gene Symbol:** Kn1
+- **Gene Symbol:** <u>Kn1</u>
 - **Gene Name:** Knotted1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

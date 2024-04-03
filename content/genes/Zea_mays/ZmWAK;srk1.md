@@ -8,7 +8,7 @@ tags: [ kinase,resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb116160](https://www.maizegdb.org/gene_center/gene/Zm00001eb116160)
-- **Gene Symbol:** ZmWAK;srk1
+- **Gene Symbol:** <u>ZmWAK</u>&nbsp;<u>srk1</u>
 - **Gene Name:** S-receptor kinase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

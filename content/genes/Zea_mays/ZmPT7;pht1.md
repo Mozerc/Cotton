@@ -8,7 +8,7 @@ tags: [ growth,phosphate,pi,pi uptake,phosphate starvation,phosphate acquisition
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb222510](https://www.maizegdb.org/gene_center/gene/Zm00001eb222510)
-- **Gene Symbol:** ZmPT7;pht1
+- **Gene Symbol:** <u>ZmPT7</u>&nbsp;<u>pht1</u>
 - **Gene Name:** phosphate transporter protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

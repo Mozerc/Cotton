@@ -8,7 +8,7 @@ tags: [ transcription factor,cell wall,transcription regulator,secondary cell wa
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A12G1049]()
-- **Gene Symbol:** GhFSN1
+- **Gene Symbol:** <u>GhFSN1</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -21,10 +21,10 @@ tags: [ transcription factor,cell wall,transcription regulator,secondary cell wa
    - **GhFSN1** forms homodimers and heterodimers.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[transcription-regulator](/tags/transcription-regulator/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [The cotton (Gossypium hirsutum) NAC transcription factor (FSN1) as a positive regulator participates in controlling secondary cell wall biosynthesis and modification of fibers.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14864)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.14864](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14864)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29105766](https://pubmed.ncbi.nlm.nih.gov/29105766/)
+   - [The cotton (Gossypium hirsutum) NAC transcription factor (FSN1) as a positive regulator participates in controlling secondary cell wall biosynthesis and modification of fibers.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14864)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.14864](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14864);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29105766](https://pubmed.ncbi.nlm.nih.gov/29105766/)
 
 ## Related News:
 

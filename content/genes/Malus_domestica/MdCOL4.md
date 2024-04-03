@@ -8,7 +8,7 @@ tags: [ temperature ]
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000232445]()
-- **Gene Symbol:** MdCOL4
+- **Gene Symbol:** <u>MdCOL4</u>
 - **Gene Name:** 
 - **Genome:** [Malus × domestica genome GDDH13 v 1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -22,7 +22,7 @@ tags: [ temperature ]
    - [temperature](/tags/temperature/)
 
 ## Literature:
-   - [MdCOL4 Interaction Mediates Crosstalk Between UV-B and High Temperature to Control Fruit Coloration in Apple.]( https://academic.oup.com/pcp/article/60/5/1055/5305544?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcz023](https://academic.oup.com/pcp/article/60/5/1055/5305544?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30715487](https://pubmed.ncbi.nlm.nih.gov/30715487/)
+   - [MdCOL4 Interaction Mediates Crosstalk Between UV-B and High Temperature to Control Fruit Coloration in Apple.]( https://academic.oup.com/pcp/article/60/5/1055/5305544?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcz023](https://academic.oup.com/pcp/article/60/5/1055/5305544?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30715487](https://pubmed.ncbi.nlm.nih.gov/30715487/)
 
 ## Related News:
    - [MdCOL4 Interaction Mediates Crosstalk Between UV-B and High Temperature to Control Fruit Coloration in Apple](https://academic.oup.com/pcp/article/60/5/1055/5305544?login=true)

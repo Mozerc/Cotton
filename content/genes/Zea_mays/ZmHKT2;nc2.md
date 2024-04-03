@@ -8,7 +8,7 @@ tags: [ xylem,root,shoot,domestication,salt,tolerance,salt tolerance,homeostasis
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb227000](https://www.maizegdb.org/gene_center/gene/Zm00001eb227000)
-- **Gene Symbol:** ZmHKT2;nc2
+- **Gene Symbol:** <u>ZmHKT2</u>&nbsp;<u>nc2</u>
 - **Gene Name:** Na+ content2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ leaf,drought,tolerance,drought tolerance,cuticle,wax biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaCER1-6A
+- **Gene Symbol:** <u>TaCER1-6A</u>
 - **Gene Name:** ECERIFERUM1-6A
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

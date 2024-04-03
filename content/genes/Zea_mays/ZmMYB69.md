@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,lignin,lignin biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb405450](https://www.maizegdb.org/gene_center/gene/Zm00001eb405450)
-- **Gene Symbol:** ZmMYB69
+- **Gene Symbol:** <u>ZmMYB69</u>
 - **Gene Name:** MYB-transcription factor 69
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

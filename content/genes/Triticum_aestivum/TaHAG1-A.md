@@ -8,7 +8,7 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G138200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G138200)
-- **Gene Symbol:** TaHAG1-A
+- **Gene Symbol:** <u>TaHAG1-A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

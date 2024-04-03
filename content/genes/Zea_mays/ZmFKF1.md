@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb201580](https://www.maizegdb.org/gene_center/gene/Zm00001eb201580)
-- **Gene Symbol:** ZmFKF1
+- **Gene Symbol:** <u>ZmFKF1</u>
 - **Gene Name:** flavin-binding kelch repeat f-box2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

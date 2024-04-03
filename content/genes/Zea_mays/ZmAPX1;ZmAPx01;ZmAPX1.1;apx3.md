@@ -8,7 +8,7 @@ tags: [ resistance,ja,defense,jasmonic,jasmonic acid,signaling pathway gene,ja b
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb013080](https://www.maizegdb.org/gene_center/gene/Zm00001eb013080)
-- **Gene Symbol:** ZmAPX1;ZmAPx01;ZmAPX1.1;apx3
+- **Gene Symbol:** <u>ZmAPX1</u>&nbsp;<u>ZmAPx01</u>&nbsp;<u>ZmAPX1.1</u>&nbsp;<u>apx3</u>
 - **Gene Name:** ascorbate peroxidase homolog3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

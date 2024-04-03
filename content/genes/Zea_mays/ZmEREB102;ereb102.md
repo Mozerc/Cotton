@@ -8,7 +8,7 @@ tags: [ tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb313850](https://www.maizegdb.org/gene_center/gene/Zm00001eb313850)
-- **Gene Symbol:** ZmEREB102;ereb102
+- **Gene Symbol:** <u>ZmEREB102</u>&nbsp;<u>ereb102</u>
 - **Gene Name:** AP2-EREBP-transcription factor 102
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

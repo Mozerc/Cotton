@@ -8,7 +8,7 @@ tags: [ grain,resistance,drought,grain yield,tolerance,yield,aba,drought toleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb129520](https://www.maizegdb.org/gene_center/gene/Zm00001eb129520)
-- **Gene Symbol:** ZmPIF1;ZmbHLH76;ZmPif3.1;bhlh68
+- **Gene Symbol:** <u>ZmPIF1</u>&nbsp;<u>ZmbHLH76</u>&nbsp;<u>ZmPif3.1</u>&nbsp;<u>bhlh68</u>
 - **Gene Name:** bHLH-transcription factor 68
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,shoot,auxin,root initiation,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb403030](https://www.maizegdb.org/gene_center/gene/Zm00001eb403030)
-- **Gene Symbol:** RTCL
+- **Gene Symbol:** <u>RTCL</u>
 - **Gene Name:** RTCS-like1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

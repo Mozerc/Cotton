@@ -8,7 +8,7 @@ tags: [ transcription factor,seed,flavonoid,flavonoid biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[ZY821040006.1]()
-- **Gene Symbol:** BnA09MYB47a
+- **Gene Symbol:** <u>BnA09MYB47a</u>
 - **Gene Name:** 
 - **Genome:** [ZY821 reference genome]()
 - **Species:** *Brassica napus*
@@ -19,10 +19,10 @@ tags: [ transcription factor,seed,flavonoid,flavonoid biosynthesis ]
    - The black-seed allele **BnA09MYB47a**ZY821, but not the yellow-seed allele **BnA09MYB47a**GH06, promotes flavonoid biosynthesis by directly activating the expression of BnTT18. 
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[seed](/tags/seed/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[flavonoid](/tags/flavonoid/),&nbsp;&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)
 
 ## Literature:
-   - [Comparative genomic analyses reveal the genetic basis of the yellow-seed trait in Brassica napus.]( https://www.nature.com/articles/s41467-023-40838-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-40838-1](https://www.nature.com/articles/s41467-023-40838-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37626056](https://pubmed.ncbi.nlm.nih.gov/37626056/)
+   - [Comparative genomic analyses reveal the genetic basis of the yellow-seed trait in Brassica napus.]( https://www.nature.com/articles/s41467-023-40838-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-023-40838-1](https://www.nature.com/articles/s41467-023-40838-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37626056](https://pubmed.ncbi.nlm.nih.gov/37626056/)
 
 ## Related News:
    - [Nat Commun｜西南大学油菜分子生物学研究团队多组学分析揭示甘蓝型油菜黄籽性状遗传基础](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247555339&idx=4&sn=5a2d58a5166ad64430a2a2ab6b80be12&chksm=f099ffe88ff3f8a716ff07a1bb4869d436d80963de025b8afb027eb6c5bc6803b146cd8d9f7e&scene=27#wechat_redirect)

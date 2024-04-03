@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G286600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G286600)
-- **Gene Symbol:** WAP3-7D
+- **Gene Symbol:** <u>WAP3-7D</u>
 - **Gene Name:** Wheat APETALA3
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

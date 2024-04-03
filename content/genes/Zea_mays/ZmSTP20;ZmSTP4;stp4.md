@@ -8,7 +8,7 @@ tags: [ resistance,disease,disease resistance,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb324180](https://www.maizegdb.org/gene_center/gene/Zm00001eb324180)
-- **Gene Symbol:** ZmSTP20;ZmSTP4;stp4
+- **Gene Symbol:** <u>ZmSTP20</u>&nbsp;<u>ZmSTP4</u>&nbsp;<u>stp4</u>
 - **Gene Name:** sugar transport protein4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

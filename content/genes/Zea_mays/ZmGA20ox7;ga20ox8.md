@@ -8,7 +8,7 @@ tags: [ development,plant development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb175950](https://www.maizegdb.org/gene_center/gene/Zm00001eb175950)
-- **Gene Symbol:** ZmGA20ox7;ga20ox8
+- **Gene Symbol:** <u>ZmGA20ox7</u>&nbsp;<u>ga20ox8</u>
 - **Gene Name:** gibberellin 20-oxidase8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

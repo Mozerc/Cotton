@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,resistance,powdery mildew,mildew resista
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G322700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G322700)
-- **Gene Symbol:** TaMlo-B1
+- **Gene Symbol:** <u>TaMlo-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

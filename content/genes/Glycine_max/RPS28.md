@@ -8,7 +8,7 @@ tags: [ seedlings,growth,development,plant development,down-regulated genes,qual
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.19G203300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.19G203300)
-- **Gene Symbol:** RPS28
+- **Gene Symbol:** <u>RPS28</u>
 - **Gene Name:** 40S RIBOSOMAL PROTEIN SMALL SUBUNIT S28
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -22,10 +22,10 @@ tags: [ seedlings,growth,development,plant development,down-regulated genes,qual
    - The potential of **RPS28** and EIF1 promoters to facilitate future genetic engineering and breeding to improve the quality and yield of soybean, as well as in a wide variety of other plant species.
 
 ## Function-related keywords:
-   - [seedlings](/tags/seedlings/)&nbsp;,&nbsp;[growth](/tags/growth/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[down-regulated-genes](/tags/down-regulated-genes/)&nbsp;,&nbsp;[quality](/tags/quality/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[breeding](/tags/breeding/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[nodules](/tags/nodules/)
+   - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[down-regulated-genes](/tags/down-regulated-genes/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[nodules](/tags/nodules/)
 
 ## Literature:
-   - [Characterization of two constitutive promoters RPS28 and EIF1 for studying soybean growth, development, and symbiotic nodule development.]( https://link.springer.com/article/10.1007/s42994-022-00073-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s42994-022-00073-6](https://link.springer.com/article/10.1007/s42994-022-00073-6)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36312443](https://pubmed.ncbi.nlm.nih.gov/36312443/)
+   - [Characterization of two constitutive promoters RPS28 and EIF1 for studying soybean growth, development, and symbiotic nodule development.]( https://link.springer.com/article/10.1007/s42994-022-00073-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s42994-022-00073-6](https://link.springer.com/article/10.1007/s42994-022-00073-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36312443](https://pubmed.ncbi.nlm.nih.gov/36312443/)
 
 ## Related News:
    - [aBIOTECH | 河南大学王学路课题组发现新的大豆泛表达启动子](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247532194&idx=6&sn=ca57f777b78fe405d1de49aae8f759e0&chksm=ce90d3f7f9e75ae1fe9d64f6fe2562c8c41c256babbafacf47d77e23a18229ac473ea366ddc0&scene=27#wechat_redirect)

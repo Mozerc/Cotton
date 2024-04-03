@@ -8,7 +8,7 @@ tags: [ leaf,root,leaf patterning,root endodermis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb195650](https://www.maizegdb.org/gene_center/gene/Zm00001eb195650)
-- **Gene Symbol:** ZmSCR1;ZmGRAS78;ZmSCR;SCARECROW;SCR;scro1
+- **Gene Symbol:** <u>ZmSCR1</u>&nbsp;<u>ZmGRAS78</u>&nbsp;<u>ZmSCR</u>&nbsp;<u>SCARECROW</u>&nbsp;<u>SCR</u>&nbsp;<u>scro1</u>
 - **Gene Name:** scarecrow1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

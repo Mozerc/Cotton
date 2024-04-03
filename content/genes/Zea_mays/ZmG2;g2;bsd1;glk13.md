@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,photosynthesis,tolerance,abiotic stress,ab
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb118900](https://www.maizegdb.org/gene_center/gene/Zm00001eb118900)
-- **Gene Symbol:** ZmG2;g2;bsd1;glk13
+- **Gene Symbol:** <u>ZmG2</u>&nbsp;<u>g2</u>&nbsp;<u>bsd1</u>&nbsp;<u>glk13</u>
 - **Gene Name:** golden plant2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

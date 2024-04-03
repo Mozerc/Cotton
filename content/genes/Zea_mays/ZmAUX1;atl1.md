@@ -8,7 +8,7 @@ tags: [ root,growth,root growth,plant growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb147480](https://www.maizegdb.org/gene_center/gene/Zm00001eb147480)
-- **Gene Symbol:** ZmAUX1;atl1
+- **Gene Symbol:** <u>ZmAUX1</u>&nbsp;<u>atl1</u>
 - **Gene Name:** auxin transporter-like1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,resistance,drought,seedling,tolerance,gibberellin,aba,drought tol
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb019930](https://www.maizegdb.org/gene_center/gene/Zm00001eb019930)
-- **Gene Symbol:** ZmLBD5
+- **Gene Symbol:** <u>ZmLBD5</u>
 - **Gene Name:** LBD-transcription factor 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

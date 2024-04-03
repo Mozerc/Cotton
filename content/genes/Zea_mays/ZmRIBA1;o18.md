@@ -8,7 +8,7 @@ tags: [ development,tolerance,embryo,endosperm,cell cycle,osmotic tolerance,endo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb244650](https://www.maizegdb.org/gene_center/gene/Zm00001eb244650)
-- **Gene Symbol:** ZmRIBA1;o18
+- **Gene Symbol:** <u>ZmRIBA1</u>&nbsp;<u>o18</u>
 - **Gene Name:** opaque18
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

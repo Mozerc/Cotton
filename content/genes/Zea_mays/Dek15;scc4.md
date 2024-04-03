@@ -8,7 +8,7 @@ tags: [ development,embryo,endosperm,cell cycle,endosperm development,embryo dev
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb193950](https://www.maizegdb.org/gene_center/gene/Zm00001eb193950)
-- **Gene Symbol:** Dek15;scc4
+- **Gene Symbol:** <u>Dek15</u>&nbsp;<u>scc4</u>
 - **Gene Name:** defective kernel 15
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

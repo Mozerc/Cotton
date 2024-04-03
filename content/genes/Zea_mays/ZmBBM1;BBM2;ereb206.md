@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb247080](https://www.maizegdb.org/gene_center/gene/Zm00001eb247080)
-- **Gene Symbol:** ZmBBM1;BBM2;ereb206
+- **Gene Symbol:** <u>ZmBBM1</u>&nbsp;<u>BBM2</u>&nbsp;<u>ereb206</u>
 - **Gene Name:** AP2-EREBP-transcription factor 206
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,flowering,vernalization ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G308400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G308400)
-- **Gene Symbol:** TaRF2b
+- **Gene Symbol:** <u>TaRF2b</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

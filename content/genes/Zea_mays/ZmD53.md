@@ -8,7 +8,7 @@ tags: [ tillering,development,inflorescence,dwarf,branching,inflorescence develo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb404750](https://www.maizegdb.org/gene_center/gene/Zm00001eb404750)
-- **Gene Symbol:** ZmD53
+- **Gene Symbol:** <u>ZmD53</u>
 - **Gene Name:** DWARF 53
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

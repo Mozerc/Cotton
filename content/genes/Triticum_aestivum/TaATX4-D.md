@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,tolerance,aba,drought tolerance,stress tol
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D01G144300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D01G144300)
-- **Gene Symbol:** TaATX4-D
+- **Gene Symbol:** <u>TaATX4-D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

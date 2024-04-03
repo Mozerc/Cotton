@@ -8,7 +8,7 @@ tags: [ breeding,heading date,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D01G451200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D01G451200)
-- **Gene Symbol:** TaELF3-1DL
+- **Gene Symbol:** <u>TaELF3-1DL</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

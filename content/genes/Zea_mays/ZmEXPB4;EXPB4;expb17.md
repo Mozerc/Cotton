@@ -8,7 +8,7 @@ tags: [ root,growth,development,down-regulated genes,root development,root growt
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb391450](https://www.maizegdb.org/gene_center/gene/Zm00001eb391450)
-- **Gene Symbol:** ZmEXPB4;EXPB4;expb17
+- **Gene Symbol:** <u>ZmEXPB4</u>&nbsp;<u>EXPB4</u>&nbsp;<u>expb17</u>
 - **Gene Name:** beta expansin17
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

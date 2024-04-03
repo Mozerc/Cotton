@@ -8,7 +8,7 @@ tags: [ nitrogen,aba ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb368680](https://www.maizegdb.org/gene_center/gene/Zm00001eb368680)
-- **Gene Symbol:** ZmAVT6;aaap57;mmp64
+- **Gene Symbol:** <u>ZmAVT6</u>&nbsp;<u>aaap57</u>&nbsp;<u>mmp64</u>
 - **Gene Name:** amino acid/auxin permease57
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

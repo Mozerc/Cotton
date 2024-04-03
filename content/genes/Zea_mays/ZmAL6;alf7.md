@@ -8,7 +8,7 @@ tags: [ transcription factor ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb182490](https://www.maizegdb.org/gene_center/gene/Zm00001eb182490)
-- **Gene Symbol:** ZmAL6;alf7
+- **Gene Symbol:** <u>ZmAL6</u>&nbsp;<u>alf7</u>
 - **Gene Name:**  Alfin-like-transcription factor 7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

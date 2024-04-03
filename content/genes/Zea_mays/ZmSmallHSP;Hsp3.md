@@ -8,7 +8,7 @@ tags: [ stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb298480](https://www.maizegdb.org/gene_center/gene/Zm00001eb298480)
-- **Gene Symbol:** ZmSmallHSP;Hsp3
+- **Gene Symbol:** <u>ZmSmallHSP</u>&nbsp;<u>Hsp3</u>
 - **Gene Name:** heat shock protein3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

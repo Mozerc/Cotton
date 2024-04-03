@@ -8,7 +8,7 @@ tags: [ transcription factor,grain,grain size,starch,grain filling,breeding,grai
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb344400](https://www.maizegdb.org/gene_center/gene/Zm00001eb344400)
-- **Gene Symbol:** ZmGRAS11;scl1
+- **Gene Symbol:** <u>ZmGRAS11</u>&nbsp;<u>scl1</u>
 - **Gene Name:** scarecrow-like1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,root,growth,root elongation,root initiation,root gr
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb374700](https://www.maizegdb.org/gene_center/gene/Zm00001eb374700)
-- **Gene Symbol:** ZmLRL5;lrl5;bhlh10
+- **Gene Symbol:** <u>ZmLRL5</u>&nbsp;<u>lrl5</u>&nbsp;<u>bhlh10</u>
 - **Gene Name:** bHLH-transcription factor 10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

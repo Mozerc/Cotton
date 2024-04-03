@@ -8,7 +8,7 @@ tags: [ resistance,immunity ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.16g212300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.16g212300)
-- **Gene Symbol:** Rj2
+- **Gene Symbol:** <u>Rj2</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ resistance,immunity ]
    - **Rj2** allele restricts nodulation with specific Bradyrhizobium strains via host immunity, mediated by rhizobial type III secretory protein NopP and the host resistance protein **Rj2**.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[immunity](/tags/immunity/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[immunity](/tags/immunity/)
 
 ## Literature:
-   - [Symbiotic incompatibility between soybean and Bradyrhizobium arises from one amino acid determinant in soybean Rj2 protein.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222469)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0222469](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222469)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31518373](https://pubmed.ncbi.nlm.nih.gov/31518373/)
+   - [Symbiotic incompatibility between soybean and Bradyrhizobium arises from one amino acid determinant in soybean Rj2 protein.]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222469)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pone.0222469](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222469);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31518373](https://pubmed.ncbi.nlm.nih.gov/31518373/)
 
 ## Related News:
 

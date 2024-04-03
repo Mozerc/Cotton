@@ -8,7 +8,7 @@ tags: [ seedlings,growth,development,vegetative ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb007680](https://www.maizegdb.org/gene_center/gene/Zm00001eb007680)
-- **Gene Symbol:** ZmUrb2
+- **Gene Symbol:** <u>ZmUrb2</u>
 - **Gene Name:** unhealthy ribosome biogenesis2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,homeos
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb228120](https://www.maizegdb.org/gene_center/gene/Zm00001eb228120)
-- **Gene Symbol:** ZmHSP90;shpl1
+- **Gene Symbol:** <u>ZmHSP90</u>&nbsp;<u>shpl1</u>
 - **Gene Name:** shepherd-like1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ auxin,iaa,secondary metabolism ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb309260](https://www.maizegdb.org/gene_center/gene/Zm00001eb309260)
-- **Gene Symbol:** IGPS1;IGS
+- **Gene Symbol:** <u>IGPS1</u>&nbsp;<u>IGS</u>
 - **Gene Name:** indole-3-glycerolphosphate synthase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

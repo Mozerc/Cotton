@@ -8,7 +8,7 @@ tags: [ seed,oil content ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.15g221600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.15g221600)
-- **Gene Symbol:** GmWRI1a
+- **Gene Symbol:** <u>GmWRI1a</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ seed,oil content ]
    - Expression level of **GmWRI1a** is associated with seed oil content in soybeans, whereas that of GmWRI1b is not.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[oil-content](/tags/oil-content/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[oil-content](/tags/oil-content/)
 
 ## Literature:
-   - [Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13533](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28295817](https://pubmed.ncbi.nlm.nih.gov/28295817/)
+   - [Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13533](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28295817](https://pubmed.ncbi.nlm.nih.gov/28295817/)
 
 ## Related News:
 

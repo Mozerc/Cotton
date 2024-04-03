@@ -8,7 +8,7 @@ tags: [ gibberellin,yield,dwarf,height ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G040400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G040400)
-- **Gene Symbol:** Rht-D1
+- **Gene Symbol:** <u>Rht-D1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

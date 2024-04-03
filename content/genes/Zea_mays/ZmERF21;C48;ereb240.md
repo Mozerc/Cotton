@@ -8,7 +8,7 @@ tags: [ leaf,seedlings,root,drought,stress,drought stress,tolerance,drought tole
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb423100](https://www.maizegdb.org/gene_center/gene/Zm00001eb423100)
-- **Gene Symbol:** ZmERF21;C48;ereb240
+- **Gene Symbol:** <u>ZmERF21</u>&nbsp;<u>C48</u>&nbsp;<u>ereb240</u>
 - **Gene Name:** AP2-EREBP-transcription factor 240
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

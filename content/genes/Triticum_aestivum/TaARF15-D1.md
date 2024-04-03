@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,transcription factor,senescence,auxin,stems,auxin r
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G102300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6D02G102300)
-- **Gene Symbol:** TaARF15-D1
+- **Gene Symbol:** <u>TaARF15-D1</u>
 - **Gene Name:** Auxin response factor 15
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

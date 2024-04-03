@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb118950](https://www.maizegdb.org/gene_center/gene/Zm00001eb118950)
-- **Gene Symbol:** ZmNLP6;ZmNLP4;NLP6
+- **Gene Symbol:** <u>ZmNLP6</u>&nbsp;<u>ZmNLP4</u>&nbsp;<u>NLP6</u>
 - **Gene Name:** NLP-transcription factor 6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ cell wall ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366700](https://www.maizegdb.org/gene_center/gene/Zm00001eb366700)
-- **Gene Symbol:** ZmAsft1;hct10
+- **Gene Symbol:** <u>ZmAsft1</u>&nbsp;<u>hct10</u>
 - **Gene Name:** hydroxycinnamoyltransferase10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

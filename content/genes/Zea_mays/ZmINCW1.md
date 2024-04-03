@@ -8,7 +8,7 @@ tags: [ development,grain,grain size,seed,grain weight,seed weight,seed size,see
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb242820](https://www.maizegdb.org/gene_center/gene/Zm00001eb242820)
-- **Gene Symbol:** ZmINCW1
+- **Gene Symbol:** <u>ZmINCW1</u>
 - **Gene Name:** cell wall invertase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

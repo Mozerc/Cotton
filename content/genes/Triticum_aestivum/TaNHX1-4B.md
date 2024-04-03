@@ -8,7 +8,7 @@ tags: [ nitrogen,growth,stress,salinity,salt,salt stress,salinity stress ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G125700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G125700)
-- **Gene Symbol:** TaNHX1-4B
+- **Gene Symbol:** <u>TaNHX1-4B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

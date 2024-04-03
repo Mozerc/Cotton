@@ -8,7 +8,7 @@ tags: [ transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366590](https://www.maizegdb.org/gene_center/gene/Zm00001eb366590)
-- **Gene Symbol:** ZmAMT3.1;amt7
+- **Gene Symbol:** <u>ZmAMT3.1</u>&nbsp;<u>amt7</u>
 - **Gene Name:** ammonium transporter7
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

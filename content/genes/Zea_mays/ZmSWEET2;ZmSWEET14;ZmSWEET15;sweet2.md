@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb342040](https://www.maizegdb.org/gene_center/gene/Zm00001eb342040)
-- **Gene Symbol:** ZmSWEET2;ZmSWEET14;ZmSWEET15;sweet2
+- **Gene Symbol:** <u>ZmSWEET2</u>&nbsp;<u>ZmSWEET14</u>&nbsp;<u>ZmSWEET15</u>&nbsp;<u>sweet2</u>
 - **Gene Name:** sugars will eventually be exported transporter2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

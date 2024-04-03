@@ -8,7 +8,7 @@ tags: [ tolerance,transporter,cadmium,cadmium accumulation,cadmium tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** MdSOS2L1
+- **Gene Symbol:** <u>MdSOS2L1</u>
 - **Gene Name:** 
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -21,10 +21,10 @@ tags: [ tolerance,transporter,cadmium,cadmium accumulation,cadmium tolerance ]
    - **MdSOS2L1** overexpressing plants showed improved Cd tolerance and increased malate accumulation/excretion.
 
 ## Function-related keywords:
-   - [tolerance](/tags/tolerance/)&nbsp;,&nbsp;[transporter](/tags/transporter/)&nbsp;,&nbsp;[cadmium](/tags/cadmium/)&nbsp;,&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/)&nbsp;,&nbsp;[cadmium-tolerance](/tags/cadmium-tolerance/)
+   - [tolerance](/tags/tolerance/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[cadmium](/tags/cadmium/),&nbsp;&nbsp;[cadmium-accumulation](/tags/cadmium-accumulation/),&nbsp;&nbsp;[cadmium-tolerance](/tags/cadmium-tolerance/)
 
 ## Literature:
-   - [Phosphorylation of a malate transporter promotes malate excretion and reduces cadmium uptake in apple.]( https://academic.oup.com/jxb/article/71/12/3437/5799229#207208737)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa121](https://academic.oup.com/jxb/article/71/12/3437/5799229#207208737)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32147696](https://pubmed.ncbi.nlm.nih.gov/32147696/)
+   - [Phosphorylation of a malate transporter promotes malate excretion and reduces cadmium uptake in apple.]( https://academic.oup.com/jxb/article/71/12/3437/5799229#207208737)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa121](https://academic.oup.com/jxb/article/71/12/3437/5799229#207208737);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32147696](https://pubmed.ncbi.nlm.nih.gov/32147696/)
 
 ## Related News:
    - [JEB |山东农业大学郝玉金教授课题组揭示苹果蛋白激酶在镉毒性生理响应中的作用机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487639&idx=3&sn=50b6c5ea32044328fa608c43375284c9&chksm=ce93bdc2f9e434d4549481405175671c0d30aa00af1aab22c305db17544b40a4d64e2e155ebb&scene=27#wechat_redirect)

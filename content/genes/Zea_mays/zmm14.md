@@ -8,7 +8,7 @@ tags: [ development,spikelet,plant development,spikelet development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb008690](https://www.maizegdb.org/gene_center/gene/Zm00001eb008690)
-- **Gene Symbol:** ZMM14
+- **Gene Symbol:** <u>ZMM14</u>
 - **Gene Name:** Zea mays MADS14
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,starch,homeostasis,transporter,metal transport,embryo,endosp
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb248990](https://www.maizegdb.org/gene_center/gene/Zm00001eb248990)
-- **Gene Symbol:** ZmYSL2;sh4;crk4
+- **Gene Symbol:** <u>ZmYSL2</u>&nbsp;<u>sh4</u>&nbsp;<u>crk4</u>
 - **Gene Name:** shrunken4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

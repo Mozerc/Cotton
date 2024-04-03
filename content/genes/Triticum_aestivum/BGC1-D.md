@@ -8,7 +8,7 @@ tags: [ development,grain,grain size,starch,grain protein content,grain protein 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G026700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G026700)
-- **Gene Symbol:** BGC1-D
+- **Gene Symbol:** <u>BGC1-D</u>
 - **Gene Name:** B-GRANULE CONTENT 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

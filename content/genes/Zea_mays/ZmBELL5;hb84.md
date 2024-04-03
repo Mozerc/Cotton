@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb032780](https://www.maizegdb.org/gene_center/gene/Zm00001eb032780)
-- **Gene Symbol:** ZmBELL5;hb84
+- **Gene Symbol:** <u>ZmBELL5</u>&nbsp;<u>hb84</u>
 - **Gene Name:** Homeobox-transcription factor 84
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

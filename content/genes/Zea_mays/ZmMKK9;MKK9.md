@@ -8,7 +8,7 @@ tags: [ leaf,temperature,kinase,stomatal,protein kinase,water loss,thermotoleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb009250](https://www.maizegdb.org/gene_center/gene/Zm00001eb009250)
-- **Gene Symbol:** ZmMKK9;MKK9
+- **Gene Symbol:** <u>ZmMKK9</u>&nbsp;<u>MKK9</u>
 - **Gene Name:** mitogen-activated protein kinase kinase 9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

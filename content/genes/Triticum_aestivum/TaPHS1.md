@@ -8,7 +8,7 @@ tags: [ grain,resistance,grain yield,grain quality,quality,yield,breeding,flower
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G006600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G006600)
-- **Gene Symbol:** TaPHS1
+- **Gene Symbol:** <u>TaPHS1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

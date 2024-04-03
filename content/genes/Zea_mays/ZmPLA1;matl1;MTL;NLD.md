@@ -8,7 +8,7 @@ tags: [ pollen,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb019170](https://www.maizegdb.org/gene_center/gene/Zm00001eb019170)
-- **Gene Symbol:** ZmPLA1;matl1;MTL;NLD
+- **Gene Symbol:** <u>ZmPLA1</u>&nbsp;<u>matl1</u>&nbsp;<u>MTL</u>&nbsp;<u>NLD</u>
 - **Gene Name:** patatin-like protein 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

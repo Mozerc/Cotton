@@ -8,7 +8,7 @@ tags: [ development,grain,grain length,flower,grain yield,yield,ethylene,meriste
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb314610](https://www.maizegdb.org/gene_center/gene/Zm00001eb314610)
-- **Gene Symbol:** ZmACO2;ZmACOB;acco2
+- **Gene Symbol:** <u>ZmACO2</u>&nbsp;<u>ZmACOB</u>&nbsp;<u>acco2</u>
 - **Gene Name:** 1-aminocyclopropane-1-carboxylate oxidase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ starch,endosperm,starch biosynthesis,amylose content ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G423833](https://www.maizegdb.org/gene_center/gene/GRMZM2G423833)
-- **Gene Symbol:** ZmMYB115
+- **Gene Symbol:** <u>ZmMYB115</u>
 - **Gene Name:** GRMZM2G423833
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

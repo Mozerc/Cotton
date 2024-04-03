@@ -8,7 +8,7 @@ tags: [ leaf,resistance,seedling,disease,disease resistance,calcium,rust resista
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** Lr14a
+- **Gene Symbol:** <u>Lr14a</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

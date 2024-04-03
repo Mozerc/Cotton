@@ -8,7 +8,7 @@ tags: [ kinase,homeostasis,protein kinase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb300010](https://www.maizegdb.org/gene_center/gene/Zm00001eb300010)
-- **Gene Symbol:** ZmCIPK23;cipk23
+- **Gene Symbol:** <u>ZmCIPK23</u>&nbsp;<u>cipk23</u>
 - **Gene Name:** calcineurin B-like-interacting protein kinase23
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

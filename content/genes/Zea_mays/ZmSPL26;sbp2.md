@@ -8,7 +8,7 @@ tags: [ leaf,auxin ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb206830](https://www.maizegdb.org/gene_center/gene/Zm00001eb206830)
-- **Gene Symbol:** ZmSPL26;sbp2
+- **Gene Symbol:** <u>ZmSPL26</u>&nbsp;<u>sbp2</u>
 - **Gene Name:** SBP-domain protein2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ starch,cytoplasm,starch biosynthesis,pyrophosphorylase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb159060](https://www.maizegdb.org/gene_center/gene/Zm00001eb159060)
-- **Gene Symbol:** ZmAGPL1;sh2
+- **Gene Symbol:** <u>ZmAGPL1</u>&nbsp;<u>sh2</u>
 - **Gene Name:** shrunken2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

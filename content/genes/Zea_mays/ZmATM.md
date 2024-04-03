@@ -8,7 +8,7 @@ tags: [ growth,kinase,fertility,cell cycle,dna repair,meiotic ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb126710](https://www.maizegdb.org/gene_center/gene/Zm00001eb126710)
-- **Gene Symbol:** ZmATM
+- **Gene Symbol:** <u>ZmATM</u>
 - **Gene Name:** ataxia-telangiectasia mutated1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,senescence,grain,zinc,iron,grain protein content,gr
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G207500LC](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6B02G207500LC)
-- **Gene Symbol:** Gpc-B1;NAM-B1
+- **Gene Symbol:** <u>Gpc-B1</u>&nbsp;<u>NAM-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

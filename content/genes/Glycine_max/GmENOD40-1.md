@@ -8,7 +8,7 @@ tags: [ signaling pathway gene ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.01G028500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.01G028500)
-- **Gene Symbol:** GmENOD40-1
+- **Gene Symbol:** <u>GmENOD40-1</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -21,7 +21,7 @@ tags: [ signaling pathway gene ]
    - [signaling-pathway-gene](/tags/signaling-pathway-gene/)
 
 ## Literature:
-   - [GmNAC181 promotes symbiotic nodulation and salt tolerance of nodulation by directly regulating GmNINa expression in soybean.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18343)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18343](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18343)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35751548](https://pubmed.ncbi.nlm.nih.gov/35751548/)
+   - [GmNAC181 promotes symbiotic nodulation and salt tolerance of nodulation by directly regulating GmNINa expression in soybean.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18343)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18343](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18343);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35751548](https://pubmed.ncbi.nlm.nih.gov/35751548/)
 
 ## Related News:
    - [逆风前行，为“盐”而生！华中农业大学揭示大豆共生固氮和结瘤耐盐性的新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247545087&idx=6&sn=c2c97dbcee96fdee24eec6be5d45ea2f&chksm=e8bd42e1dfcacbf7314278efa8415d6582433bfd9a7545f68dff1b1e1a02e67c6dbe04dc835a&scene=27#wechat_redirect)

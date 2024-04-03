@@ -8,7 +8,7 @@ tags: [ grain,resistance,defense response,defense,grain weight,immune response ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D02G558800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2D02G558800)
-- **Gene Symbol:** TaSTT3b-2D
+- **Gene Symbol:** <u>TaSTT3b-2D</u>
 - **Gene Name:** STAUROSPORINE AND TEMPERATURE SENSITIVE3
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

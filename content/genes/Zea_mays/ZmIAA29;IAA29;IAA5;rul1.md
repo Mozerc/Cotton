@@ -8,7 +8,7 @@ tags: [ transcription factor,root,development,seedling,root development,iaa,flow
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb360250](https://www.maizegdb.org/gene_center/gene/Zm00001eb360250)
-- **Gene Symbol:** ZmIAA29;IAA29;IAA5;rul1
+- **Gene Symbol:** <u>ZmIAA29</u>&nbsp;<u>IAA29</u>&nbsp;<u>IAA5</u>&nbsp;<u>rul1</u>
 - **Gene Name:** rum1-like1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

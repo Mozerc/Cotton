@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb062750](https://www.maizegdb.org/gene_center/gene/Zm00001eb062750)
-- **Gene Symbol:** ZmEXPA4;expa4;umc1630
+- **Gene Symbol:** <u>ZmEXPA4</u>&nbsp;<u>expa4</u>&nbsp;<u>umc1630</u>
 - **Gene Name:** alpha-expansin4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

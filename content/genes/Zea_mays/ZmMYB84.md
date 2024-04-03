@@ -8,7 +8,7 @@ tags: [ transcription factor,pollen,anther,cuticle,cutin,pollen exine formation,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb424660](https://www.maizegdb.org/gene_center/gene/Zm00001eb424660)
-- **Gene Symbol:** ZmMYB84
+- **Gene Symbol:** <u>ZmMYB84</u>
 - **Gene Name:** MYB-transcription factor 84
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

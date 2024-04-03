@@ -8,7 +8,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G092700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G092700)
-- **Gene Symbol:** TaSRT1
+- **Gene Symbol:** <u>TaSRT1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

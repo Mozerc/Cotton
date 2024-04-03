@@ -8,7 +8,7 @@ tags: [ homeostasis,fructose,fructose accumulation ]
 
 ## Gene Details:
 - **Gene ID:**	[MD05G1283600]()
-- **Gene Symbol:** MdCacyBP
+- **Gene Symbol:** <u>MdCacyBP</u>
 - **Gene Name:** Malus domestica calcyclin-binding protein
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -21,10 +21,10 @@ tags: [ homeostasis,fructose,fructose accumulation ]
    - **MdCacyBP**–MdFRK2 regulatory model is crucial for regulating fructose accumulation.
 
 ## Function-related keywords:
-   - [homeostasis](/tags/homeostasis/)&nbsp;,&nbsp;[fructose](/tags/fructose/)&nbsp;,&nbsp;[fructose-accumulation](/tags/fructose-accumulation/)
+   - [homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[fructose](/tags/fructose/),&nbsp;&nbsp;[fructose-accumulation](/tags/fructose-accumulation/)
 
 ## Literature:
-   - [Calcyclin-binding protein-promoted degradation of MdFRUCTOKINASE2 regulates sugar homeostasis in apple.]( https://academic.oup.com/plphys/article/191/2/1052/6869527?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac549](https://academic.oup.com/plphys/article/191/2/1052/6869527?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36461944](https://pubmed.ncbi.nlm.nih.gov/36461944/)
+   - [Calcyclin-binding protein-promoted degradation of MdFRUCTOKINASE2 regulates sugar homeostasis in apple.]( https://academic.oup.com/plphys/article/191/2/1052/6869527?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiac549](https://academic.oup.com/plphys/article/191/2/1052/6869527?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36461944](https://pubmed.ncbi.nlm.nih.gov/36461944/)
 
 ## Related News:
    - [Plant Physiology | 西北农林科技大学李明军课题组揭示苹果果实中果糖含量调控的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247542182&idx=4&sn=77eac64af3fef4463ba8b3ef5120722f&chksm=ce9088f3f9e701e5c97f993925a1c8103142377c4b0d67716d5a50b0063dd2325dfe5834f489&scene=27#wechat_redirect)

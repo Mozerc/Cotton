@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb167600](https://www.maizegdb.org/gene_center/gene/Zm00001eb167600)
-- **Gene Symbol:** ZmPme3
+- **Gene Symbol:** <u>ZmPme3</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

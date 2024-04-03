@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,oxidative stress,tolerance,oxidative,droug
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb296840](https://www.maizegdb.org/gene_center/gene/Zm00001eb296840)
-- **Gene Symbol:** ZmRL6;rl1
+- **Gene Symbol:** <u>ZmRL6</u>&nbsp;<u>rl1</u>
 - **Gene Name:** radialis homolog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

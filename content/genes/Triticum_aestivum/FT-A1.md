@@ -8,7 +8,7 @@ tags: [ phloem,flowering,vernalization ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G115400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G115400)
-- **Gene Symbol:** FT-A1
+- **Gene Symbol:** <u>FT-A1</u>
 - **Gene Name:** FLOWERING LOCUS T 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

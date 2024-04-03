@@ -8,7 +8,7 @@ tags: [ nitrogen,drought,stress,drought stress,salt,abiotic stress,salt stress,s
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb294200](https://www.maizegdb.org/gene_center/gene/Zm00001eb294200)
-- **Gene Symbol:** ZmPP107;ZmOrphan249;ZmPP2C4;ZmPP2C61;prh12
+- **Gene Symbol:** <u>ZmPP107</u>&nbsp;<u>ZmOrphan249</u>&nbsp;<u>ZmPP2C4</u>&nbsp;<u>ZmPP2C61</u>&nbsp;<u>prh12</u>
 - **Gene Name:** protein phosphatase homolog12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

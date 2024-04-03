@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.10G194000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.10G194000)
-- **Gene Symbol:** Fg2
+- **Gene Symbol:** <u>Fg2</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -22,7 +22,7 @@ tags: [  ]
    - [](/tags//)
 
 ## Literature:
-   - [Linkage mapping, molecular cloning and functional analysis of soybean gene Fg2 encoding flavonol 3-O-glucoside (1 → 6) rhamnosyltransferase.]( https://link.springer.com/article/10.1007/s11103-013-0133-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-013-0133-1 ](https://link.springer.com/article/10.1007/s11103-013-0133-1)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24072327](https://pubmed.ncbi.nlm.nih.gov/24072327/)
+   - [Linkage mapping, molecular cloning and functional analysis of soybean gene Fg2 encoding flavonol 3-O-glucoside (1 → 6) rhamnosyltransferase.]( https://link.springer.com/article/10.1007/s11103-013-0133-1)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s11103-013-0133-1 ](https://link.springer.com/article/10.1007/s11103-013-0133-1);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24072327](https://pubmed.ncbi.nlm.nih.gov/24072327/)
 
 ## Related News:
 

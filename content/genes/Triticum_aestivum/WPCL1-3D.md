@@ -8,7 +8,7 @@ tags: [ flowering,vernalization,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G531900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G531900)
-- **Gene Symbol:** WPCL1-3D
+- **Gene Symbol:** <u>WPCL1-3D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

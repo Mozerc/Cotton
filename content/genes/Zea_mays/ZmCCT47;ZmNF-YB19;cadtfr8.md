@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb368240](https://www.maizegdb.org/gene_center/gene/Zm00001eb368240)
-- **Gene Symbol:** ZmCCT47;ZmNF-YB19;cadtfr8
+- **Gene Symbol:** <u>ZmCCT47</u>&nbsp;<u>ZmNF-YB19</u>&nbsp;<u>cadtfr8</u>
 - **Gene Name:** CCAAT-DR1-transcription factor 8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

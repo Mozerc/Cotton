@@ -8,7 +8,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G187500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6B02G187500)
-- **Gene Symbol:** TaPGK
+- **Gene Symbol:** <u>TaPGK</u>
 - **Gene Name:** Phosphoglycerate Kinase (PGK)
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

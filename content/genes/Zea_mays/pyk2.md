@@ -8,7 +8,7 @@ tags: [ root,shoot,root number ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb406450](https://www.maizegdb.org/gene_center/gene/Zm00001eb406450)
-- **Gene Symbol:** Pyk2
+- **Gene Symbol:** <u>Pyk2</u>
 - **Gene Name:** pyruvate kinase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

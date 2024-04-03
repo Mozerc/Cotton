@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,phosphate,phosphorus,pi,phosphate starva
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb241920](https://www.maizegdb.org/gene_center/gene/Zm00001eb241920)
-- **Gene Symbol:** ZmGPX-PDE1;gpx1
+- **Gene Symbol:** <u>ZmGPX-PDE1</u>&nbsp;<u>gpx1</u>
 - **Gene Name:** glycerophosphodiester phosphodiesterase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

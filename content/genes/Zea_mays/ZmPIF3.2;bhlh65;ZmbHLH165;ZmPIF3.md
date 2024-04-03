@@ -8,7 +8,7 @@ tags: [ stress,stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb332400](https://www.maizegdb.org/gene_center/gene/Zm00001eb332400)
-- **Gene Symbol:** ZmPIF3.2;bhlh65;ZmbHLH165;ZmPIF3
+- **Gene Symbol:** <u>ZmPIF3.2</u>&nbsp;<u>bhlh65</u>&nbsp;<u>ZmbHLH165</u>&nbsp;<u>ZmPIF3</u>
 - **Gene Name:** bHLH-transcription factor 65
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

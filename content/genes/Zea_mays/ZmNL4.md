@@ -8,7 +8,7 @@ tags: [ leaf,map-based cloning,cell division,architecture,breeding,cell wall,pla
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb165710](https://www.maizegdb.org/gene_center/gene/Zm00001eb165710)
-- **Gene Symbol:** ZmNL4
+- **Gene Symbol:** <u>ZmNL4</u>
 - **Gene Name:** narrow leaf4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

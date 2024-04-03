@@ -8,7 +8,7 @@ tags: [ grain,transporter,embryo,endosperm,sugar,sucrose,sugar transport,sucrose
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb180830](https://www.maizegdb.org/gene_center/gene/Zm00001eb180830)
-- **Gene Symbol:** ZmSWEET15a;ZmSWEET10;ZmSWEET9
+- **Gene Symbol:** <u>ZmSWEET15a</u>&nbsp;<u>ZmSWEET10</u>&nbsp;<u>ZmSWEET9</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

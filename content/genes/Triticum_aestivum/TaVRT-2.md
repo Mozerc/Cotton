@@ -8,7 +8,7 @@ tags: [ floral,flowering,vernalization,photoperiod response,photoperiod ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G176700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G176700)
-- **Gene Symbol:** TaVRT-2
+- **Gene Symbol:** <u>TaVRT-2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ development,auxin,ga,sam ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc01g100050.2.1]()
-- **Gene Symbol:** SlTPL3
+- **Gene Symbol:** <u>SlTPL3</u>
 - **Gene Name:** TOPLESS3
 - **Genome:** [tomato reference genome (Solanum lycopersicum ITAG3.2)](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -20,10 +20,10 @@ tags: [ development,auxin,ga,sam ]
    - **SlTPL3** interacted with WUSCHEL (SlWUS), which plays an important role in SAM size maintenance. 
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[sam](/tags/sam/)
+   - [development](/tags/development/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[sam](/tags/sam/)
 
 ## Literature:
-   - [The SlTPL3-SlWUS module regulates multi-locule formation in tomato by modulating auxin and gibberellin levels in the shoot apical meristem.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13347](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35980297](https://pubmed.ncbi.nlm.nih.gov/35980297/)
+   - [The SlTPL3-SlWUS module regulates multi-locule formation in tomato by modulating auxin and gibberellin levels in the shoot apical meristem.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13347](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13347);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35980297](https://pubmed.ncbi.nlm.nih.gov/35980297/)
 
 ## Related News:
    - [JIPB | ​华南农业大学园艺学院陈日远教授课题组发现番茄多心室形成调控的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247536664&idx=5&sn=eaffb3de8a589b94a5a6f6f8ca732980&chksm=ce90fd4df9e7745ba737f0e75c0dd8f85e5e4dfc1e4f0dc494d598f221aaece84ef5995a569b&scene=27#wechat_redirect)

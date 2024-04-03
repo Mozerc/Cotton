@@ -8,7 +8,7 @@ tags: [ stems ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** GhCYP82L2
+- **Gene Symbol:** <u>GhCYP82L2</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -22,7 +22,7 @@ tags: [ stems ]
    - [stems](/tags/stems/)
 
 ## Literature:
-   - [Identification and functional analysis of two P450 enzymes of Gossypium hirsutum involved in DMNT and TMTT biosynthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12797](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12797)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28710782](https://pubmed.ncbi.nlm.nih.gov/28710782/)
+   - [Identification and functional analysis of two P450 enzymes of Gossypium hirsutum involved in DMNT and TMTT biosynthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12797](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12797);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28710782](https://pubmed.ncbi.nlm.nih.gov/28710782/)
 
 ## Related News:
 

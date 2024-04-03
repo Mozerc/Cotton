@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salt,abiotic stress,salt stress,secondary 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb304050](https://www.maizegdb.org/gene_center/gene/Zm00001eb304050)
-- **Gene Symbol:** UFGT2;ZmUGT9256;UGT76C2;ufgt2
+- **Gene Symbol:** <u>UFGT2</u>&nbsp;<u>ZmUGT9256</u>&nbsp;<u>UGT76C2</u>&nbsp;<u>ufgt2</u>
 - **Gene Name:** UDP-flavonol-glycosyltransferase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

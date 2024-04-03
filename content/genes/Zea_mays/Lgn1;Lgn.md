@@ -8,7 +8,7 @@ tags: [ growth,stress,defense,inflorescence,dwarf,branching,plasma membrane ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb382080](https://www.maizegdb.org/gene_center/gene/Zm00001eb382080)
-- **Gene Symbol:** Lgn1;Lgn
+- **Gene Symbol:** <u>Lgn1</u>&nbsp;<u>Lgn</u>
 - **Gene Name:** liguleless narrow1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

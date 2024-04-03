@@ -8,7 +8,7 @@ tags: [ transcription factor,root,development,auxin,crown root development,root 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb362740](https://www.maizegdb.org/gene_center/gene/Zm00001eb362740)
-- **Gene Symbol:** LRP1
+- **Gene Symbol:** <u>LRP1</u>
 - **Gene Name:** LATERAL ROOT PRIMORDIA 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ chloroplast,development,plant development,seedling,floral,chloroplast de
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb014850](https://www.maizegdb.org/gene_center/gene/Zm00001eb014850)
-- **Gene Symbol:** PhyB1;pge(phyB1)
+- **Gene Symbol:** <u>PhyB1</u>&nbsp;<u>pge(phyB1)</u>
 - **Gene Name:** phytochromeB1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

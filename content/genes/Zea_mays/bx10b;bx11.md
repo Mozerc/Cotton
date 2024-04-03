@@ -8,7 +8,7 @@ tags: [ methyltransferase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb018640](https://www.maizegdb.org/gene_center/gene/Zm00001eb018640)
-- **Gene Symbol:** Bx10b;Bx11
+- **Gene Symbol:** <u>Bx10b</u>&nbsp;<u>Bx11</u>
 - **Gene Name:** benzoxazinone synthesis11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

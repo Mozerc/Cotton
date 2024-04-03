@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G340900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G340900)
-- **Gene Symbol:** TaVQ4-D
+- **Gene Symbol:** <u>TaVQ4-D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

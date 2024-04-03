@@ -8,7 +8,7 @@ tags: [ leaf,breeding,internode length,leaf size ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb060200](https://www.maizegdb.org/gene_center/gene/Zm00001eb060200)
-- **Gene Symbol:** ZmAMP1;vp8
+- **Gene Symbol:** <u>ZmAMP1</u>&nbsp;<u>vp8</u>
 - **Gene Name:** viviparous8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

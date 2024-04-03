@@ -8,7 +8,7 @@ tags: [ seed,aba ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb366900](https://www.maizegdb.org/gene_center/gene/Zm00001eb366900)
-- **Gene Symbol:** ZmABI5
+- **Gene Symbol:** <u>ZmABI5</u>
 - **Gene Name:** ABA INSENSITIVE5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

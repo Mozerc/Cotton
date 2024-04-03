@@ -8,7 +8,7 @@ tags: [ growth,stress,nucleus,abiotic stress,cytoplasm,plant growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb367200](https://www.maizegdb.org/gene_center/gene/Zm00001eb367200)
-- **Gene Symbol:** ZmWOX5A;ZmWOX16;wox5a
+- **Gene Symbol:** <u>ZmWOX5A</u>&nbsp;<u>ZmWOX16</u>&nbsp;<u>wox5a</u>
 - **Gene Name:** WUSCHEL-homeobox-transcription factor 5A
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ fertility,pollen,anther,sterility,male sterility,male fertility,pollen f
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb197040](https://www.maizegdb.org/gene_center/gene/Zm00001eb197040)
-- **Gene Symbol:** ZmTGA9-1;bzip79
+- **Gene Symbol:** <u>ZmTGA9-1</u>&nbsp;<u>bzip79</u>
 - **Gene Name:** bZIP-transcription factor 79
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

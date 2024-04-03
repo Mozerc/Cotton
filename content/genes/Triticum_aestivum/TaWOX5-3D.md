@@ -8,7 +8,7 @@ tags: [ root,development,shoot,root development,embryo,embryo development,calli 
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G361100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G361100)
-- **Gene Symbol:** TaWOX5-3D
+- **Gene Symbol:** <u>TaWOX5-3D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

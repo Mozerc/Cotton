@@ -8,7 +8,7 @@ tags: [ submergence,development,stress,tolerance,nucleus,ethylene,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb006180](https://www.maizegdb.org/gene_center/gene/Zm00001eb006180)
-- **Gene Symbol:** ZmEREB180;ZmERF4;ereb180
+- **Gene Symbol:** <u>ZmEREB180</u>&nbsp;<u>ZmERF4</u>&nbsp;<u>ereb180</u>
 - **Gene Name:** AP2-EREBP-transcription factor 180
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

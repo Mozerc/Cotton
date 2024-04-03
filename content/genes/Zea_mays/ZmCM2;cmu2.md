@@ -8,7 +8,7 @@ tags: [ salicylic acid,sa ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb234080](https://www.maizegdb.org/gene_center/gene/Zm00001eb234080)
-- **Gene Symbol:** ZmCM2;cmu2
+- **Gene Symbol:** <u>ZmCM2</u>&nbsp;<u>cmu2</u>
 - **Gene Name:** chorismate mutase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

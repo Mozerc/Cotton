@@ -8,7 +8,7 @@ tags: [ seedling leaves,seedling ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb246270](https://www.maizegdb.org/gene_center/gene/Zm00001eb246270)
-- **Gene Symbol:** Gl8
+- **Gene Symbol:** <u>Gl8</u>
 - **Gene Name:** glossy8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

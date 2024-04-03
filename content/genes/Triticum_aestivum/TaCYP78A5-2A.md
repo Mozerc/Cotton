@@ -8,7 +8,7 @@ tags: [ growth,grain,auxin,grain yield,yield,breeding,plant growth,grain weight,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G175700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G175700)
-- **Gene Symbol:** TaCYP78A5-2A
+- **Gene Symbol:** <u>TaCYP78A5-2A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

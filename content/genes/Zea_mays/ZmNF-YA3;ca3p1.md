@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb148850](https://www.maizegdb.org/gene_center/gene/Zm00001eb148850)
-- **Gene Symbol:** ZmNF-YA3;ca3p1
+- **Gene Symbol:** <u>ZmNF-YA3</u>&nbsp;<u>ca3p1</u>
 - **Gene Name:** CCAAT-HAP3-transcription factor 31
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

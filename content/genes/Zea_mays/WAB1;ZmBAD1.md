@@ -8,7 +8,7 @@ tags: [ leaf,inflorescence,architecture,inflorescence architecture,leaf shape,le
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb099370](https://www.maizegdb.org/gene_center/gene/Zm00001eb099370)
-- **Gene Symbol:** WAB1;ZmBAD1
+- **Gene Symbol:** <u>WAB1</u>&nbsp;<u>ZmBAD1</u>
 - **Gene Name:** Wavy auricles in blades1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

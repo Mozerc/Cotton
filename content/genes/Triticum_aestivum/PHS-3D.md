@@ -8,7 +8,7 @@ tags: [ grain,resistance,aba,aba biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G468400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G468400)
-- **Gene Symbol:** PHS-3D
+- **Gene Symbol:** <u>PHS-3D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

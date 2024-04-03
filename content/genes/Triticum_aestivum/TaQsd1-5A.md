@@ -8,7 +8,7 @@ tags: [ seed,dormancy,seed dormancy ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G216200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G216200)
-- **Gene Symbol:** TaQsd1-5A
+- **Gene Symbol:** <u>TaQsd1-5A</u>
 - **Gene Name:** quantitative trait locus on seed dormancy 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

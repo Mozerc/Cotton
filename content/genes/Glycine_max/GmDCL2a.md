@@ -8,7 +8,7 @@ tags: [ seed ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.09G025300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.09G025300)
-- **Gene Symbol:** GmDCL2a
+- **Gene Symbol:** <u>GmDCL2a</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -22,7 +22,7 @@ tags: [ seed ]
    - [seed](/tags/seed/)
 
 ## Literature:
-   - [Soybean DICER-LIKE2 Regulates Seed Coat Color via Production of Primary 22-Nucleotide Small Interfering RNAs from Long Inverted Repeats.]( https://academic.oup.com/plcell/article/32/12/3662/6118589?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00562](https://academic.oup.com/plcell/article/32/12/3662/6118589?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33077493](https://pubmed.ncbi.nlm.nih.gov/33077493/)
+   - [Soybean DICER-LIKE2 Regulates Seed Coat Color via Production of Primary 22-Nucleotide Small Interfering RNAs from Long Inverted Repeats.]( https://academic.oup.com/plcell/article/32/12/3662/6118589?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00562](https://academic.oup.com/plcell/article/32/12/3662/6118589?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33077493](https://pubmed.ncbi.nlm.nih.gov/33077493/)
 
 ## Related News:
    - [DCL2蛋白可控制大豆种皮颜色](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247503257&idx=5&sn=126532d510e5a7775228a9e3a4282637&chksm=e8bdbf87dfca36917b4b9469a62f5a3ef41a8999125fcc7a18a657b1a0a2667370b651d0da3b&scene=27#wechat_redirect)

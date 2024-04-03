@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb279580](https://www.maizegdb.org/gene_center/gene/Zm00001eb279580)
-- **Gene Symbol:** ZmTCP21;tcptf1;tcptf10
+- **Gene Symbol:** <u>ZmTCP21</u>&nbsp;<u>tcptf1</u>&nbsp;<u>tcptf10</u>
 - **Gene Name:** TCP-transcription factor 10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

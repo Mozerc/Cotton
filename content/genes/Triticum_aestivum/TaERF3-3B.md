@@ -8,7 +8,7 @@ tags: [ transcription factor,development,grain,grain size,auxin,down-regulated g
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G357500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G357500)
-- **Gene Symbol:** TaERF3-3B
+- **Gene Symbol:** <u>TaERF3-3B</u>
 - **Gene Name:** Ethylene-responsive factor-like transcription factor 3
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

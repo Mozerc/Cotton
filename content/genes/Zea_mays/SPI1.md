@@ -8,7 +8,7 @@ tags: [ development,auxin,plant development,vegetative,inflorescence,auxin biosy
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb158550](https://www.maizegdb.org/gene_center/gene/Zm00001eb158550)
-- **Gene Symbol:** SPI1
+- **Gene Symbol:** <u>SPI1</u>
 - **Gene Name:** sparse inflorescence1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

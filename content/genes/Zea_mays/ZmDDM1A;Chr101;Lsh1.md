@@ -8,7 +8,7 @@ tags: [ root,development,stress,tolerance,root development,stress tolerance,embr
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb117870](https://www.maizegdb.org/gene_center/gene/Zm00001eb117870)
-- **Gene Symbol:** ZmDDM1A;Chr101;Lsh1
+- **Gene Symbol:** <u>ZmDDM1A</u>&nbsp;<u>Chr101</u>&nbsp;<u>Lsh1</u>
 - **Gene Name:** chromatin complex subunit A 101
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

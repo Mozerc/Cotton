@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,development,spikelet,grain,fertility,grain n
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G405700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G405700)
-- **Gene Symbol:** GNI-B1
+- **Gene Symbol:** <u>GNI-B1</u>
 - **Gene Name:** Grain Number Increase 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

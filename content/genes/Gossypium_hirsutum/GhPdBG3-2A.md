@@ -8,7 +8,7 @@ tags: [ glucanase,fiber ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A07G1597]()
-- **Gene Symbol:** GhPdBG3-2A
+- **Gene Symbol:** <u>GhPdBG3-2A</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -19,10 +19,10 @@ tags: [ glucanase,fiber ]
    - Altering sterol composition might affect the expression of **GhPdBG3-2A**/D through a feedback mechanism, as well as the targeting of **GhPdBG3-2A**/D to PDs in the plasma membranes of cotton fiber cells.
 
 ## Function-related keywords:
-   - [glucanase](/tags/glucanase/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [glucanase](/tags/glucanase/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [Suppressing a Putative Sterol Carrier Gene Reduces Plasmodesmal Permeability and Activates Sucrose Transporter Genes during Cotton Fiber Elongation.]( https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00358](https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28747422](https://pubmed.ncbi.nlm.nih.gov/28747422/)
+   - [Suppressing a Putative Sterol Carrier Gene Reduces Plasmodesmal Permeability and Activates Sucrose Transporter Genes during Cotton Fiber Elongation.]( https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.17.00358](https://academic.oup.com/plcell/article/29/8/2027/6100427?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28747422](https://pubmed.ncbi.nlm.nih.gov/28747422/)
 
 ## Related News:
 

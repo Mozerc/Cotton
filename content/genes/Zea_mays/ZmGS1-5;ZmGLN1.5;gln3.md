@@ -8,7 +8,7 @@ tags: [ leaf,stem,root,shoot,pollen,seedling,embryo,cytosol ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb399860](https://www.maizegdb.org/gene_center/gene/Zm00001eb399860)
-- **Gene Symbol:** ZmGS1-5;ZmGLN1.5;gln3
+- **Gene Symbol:** <u>ZmGS1-5</u>&nbsp;<u>ZmGLN1.5</u>&nbsp;<u>gln3</u>
 - **Gene Name:** glutamine synthetase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

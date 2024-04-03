@@ -8,7 +8,7 @@ tags: [ development,auxin,vegetative,meristem,inflorescence,reproductive,auxin b
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb336530](https://www.maizegdb.org/gene_center/gene/Zm00001eb336530)
-- **Gene Symbol:** Vt2
+- **Gene Symbol:** <u>Vt2</u>
 - **Gene Name:** vanishing tassel2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

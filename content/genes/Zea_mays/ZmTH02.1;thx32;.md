@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,drought,tolerance,drought tolerance,plant gr
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb075080](https://www.maizegdb.org/gene_center/gene/Zm00001eb075080)
-- **Gene Symbol:** ZmTH02.1;thx32;
+- **Gene Symbol:** <u>ZmTH02.1</u>&nbsp;<u>thx32</u>
 - **Gene Name:** Trihelix-transcription factor 32
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

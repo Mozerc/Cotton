@@ -8,7 +8,7 @@ tags: [ development,drought,tolerance,drought tolerance,breeding,melatonin ]
 
 ## Gene Details:
 - **Gene ID:**	[Traes_1AL_D9035D5E0.1](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Traes_1AL_D9035D5E0.1)
-- **Gene Symbol:** TaCOMT
+- **Gene Symbol:** <u>TaCOMT</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

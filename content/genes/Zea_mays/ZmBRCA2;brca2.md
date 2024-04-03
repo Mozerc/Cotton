@@ -8,7 +8,7 @@ tags: [ dna repair,meiotic ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb419130](https://www.maizegdb.org/gene_center/gene/Zm00001eb419130)
-- **Gene Symbol:** ZmBRCA2;brca2
+- **Gene Symbol:** <u>ZmBRCA2</u>&nbsp;<u>brca2</u>
 - **Gene Name:** BREAST CANCER SUSCEPTIBILITY PROTEIN 2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

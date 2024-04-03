@@ -8,7 +8,7 @@ tags: [ development,grain,plant development,seed,grain filling,aba,flowering tim
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb219160](https://www.maizegdb.org/gene_center/gene/Zm00001eb219160)
-- **Gene Symbol:** ZmSnRK2.10;ZmSnRK2.8;ZmOST1-1;snrkII10
+- **Gene Symbol:** <u>ZmSnRK2.10</u>&nbsp;<u>ZmSnRK2.8</u>&nbsp;<u>ZmOST1-1</u>&nbsp;<u>snrkII10</u>
 - **Gene Name:** SnRK2 serine threonine kinase10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

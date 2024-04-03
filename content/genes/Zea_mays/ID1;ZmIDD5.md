@@ -8,7 +8,7 @@ tags: [ transcription factor,growth,floral,homeostasis,breeding,flowering time,t
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb047750](https://www.maizegdb.org/gene_center/gene/Zm00001eb047750)
-- **Gene Symbol:** ID1;ZmIDD5
+- **Gene Symbol:** <u>ID1</u>&nbsp;<u>ZmIDD5</u>
 - **Gene Name:** indeterminate growth1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

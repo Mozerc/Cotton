@@ -8,7 +8,7 @@ tags: [ shoot,salt,tolerance,salt tolerance,breeding ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb330030](https://www.maizegdb.org/gene_center/gene/Zm00001eb330030)
-- **Gene Symbol:** ZmNHX5;nhx5
+- **Gene Symbol:** <u>ZmNHX5</u>&nbsp;<u>nhx5</u>
 - **Gene Name:** Na+/H+ antiporter 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

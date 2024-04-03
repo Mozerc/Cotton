@@ -8,7 +8,7 @@ tags: [ development,stress,tolerance,stress tolerance,embryo,cell proliferation,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb055640](https://www.maizegdb.org/gene_center/gene/Zm00001eb055640)
-- **Gene Symbol:** ZmDDM1B;Chr106
+- **Gene Symbol:** <u>ZmDDM1B</u>&nbsp;<u>Chr106</u>
 - **Gene Name:** chromatin complex subunit A 106
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,auxin,ethylene,cell wall,auxin response,auxin biosy
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D08G13101]()
-- **Gene Symbol:** GhERF108
+- **Gene Symbol:** <u>GhERF108</u>
 - **Gene Name:** 
 - **Genome:** [TM-1 reference genome]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ transcription factor,auxin,ethylene,cell wall,auxin response,auxin biosy
    - Our findings demonstrate that the collaboration between **GhERF108** and GhARF7s establishes crosstalk in ethylene–auxin signaling to activate GhMYBL1, ultimately leading to the activation of fiber SCW biosynthesis.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[auxin](/tags/auxin/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[auxin-response](/tags/auxin-response/)&nbsp;,&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/)&nbsp;,&nbsp;[ethylene-response](/tags/ethylene-response/)&nbsp;,&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[auxin](/tags/auxin/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[auxin-response](/tags/auxin-response/),&nbsp;&nbsp;[auxin-biosynthesis](/tags/auxin-biosynthesis/),&nbsp;&nbsp;[ethylene-response](/tags/ethylene-response/),&nbsp;&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.]( https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad214](https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542517](https://pubmed.ncbi.nlm.nih.gov/37542517/)
+   - [The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.]( https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad214](https://academic.oup.com/plcell/article/35/11/4133/7237771?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37542517](https://pubmed.ncbi.nlm.nih.gov/37542517/)
 
 ## Related News:
    - [The Plant Cell | 华中师范大学李学宝团队揭示棉纤维细胞次生壁调控新机制](https://mp.weixin.qq.com/s/czUMZxfjz28uKXx-OauFCA)

@@ -8,7 +8,7 @@ tags: [ grain,starch,nucleus,grain weight,grain protein ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6A02G114100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6A02G114100)
-- **Gene Symbol:** TabHLH95
+- **Gene Symbol:** <u>TabHLH95</u>
 - **Gene Name:** basic helix-loop-helix (bHLH) transcription factor95
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

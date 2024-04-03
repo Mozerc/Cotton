@@ -8,7 +8,7 @@ tags: [ leaf,temperature,resistance,drought,stress,drought stress,stems,photosyn
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb042490](https://www.maizegdb.org/gene_center/gene/Zm00001eb042490)
-- **Gene Symbol:** ZmNF-YB2;ZmNF-YB5;cadtfr11
+- **Gene Symbol:** <u>ZmNF-YB2</u>&nbsp;<u>ZmNF-YB5</u>&nbsp;<u>cadtfr11</u>
 - **Gene Name:** CCAAT-DR1-transcription factor 11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

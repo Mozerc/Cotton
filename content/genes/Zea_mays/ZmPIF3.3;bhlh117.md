@@ -8,7 +8,7 @@ tags: [ seedlings,breeding,height,plant height ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb417610](https://www.maizegdb.org/gene_center/gene/Zm00001eb417610)
-- **Gene Symbol:** ZmPIF3.3;bhlh117
+- **Gene Symbol:** <u>ZmPIF3.3</u>&nbsp;<u>bhlh117</u>
 - **Gene Name:** bHLH-transcription factor 117
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

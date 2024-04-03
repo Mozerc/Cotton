@@ -8,7 +8,7 @@ tags: [ seedlings,resistance,disease,disease resistance,insect,insect resistance
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G034300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G034300)
-- **Gene Symbol:** Sm1
+- **Gene Symbol:** <u>Sm1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ leaf,drought,leaf angle,drought response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb121380](https://www.maizegdb.org/gene_center/gene/Zm00001eb121380)
-- **Gene Symbol:** ZmNAC16;ZmNAC84
+- **Gene Symbol:** <u>ZmNAC16</u>&nbsp;<u>ZmNAC84</u>
 - **Gene Name:** NAC-transcription factor 16
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,anther,sterility,tapetum,sterile,anther development,cell pro
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb251650](https://www.maizegdb.org/gene_center/gene/Zm00001eb251650)
-- **Gene Symbol:** bHLH122;ZmbHLH122
+- **Gene Symbol:** <u>bHLH122</u>&nbsp;<u>ZmbHLH122</u>
 - **Gene Name:** bHLH-transcription factor 122
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

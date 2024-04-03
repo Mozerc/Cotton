@@ -8,7 +8,7 @@ tags: [ development,seed,cell wall,endosperm,seed size,seed development,cell wal
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb285570](https://www.maizegdb.org/gene_center/gene/Zm00001eb285570)
-- **Gene Symbol:** Mn6;gpm882
+- **Gene Symbol:** <u>Mn6</u>&nbsp;<u>gpm882</u>
 - **Gene Name:** miniature seed6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

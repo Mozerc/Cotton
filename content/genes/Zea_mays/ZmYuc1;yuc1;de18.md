@@ -8,7 +8,7 @@ tags: [ development,auxin,iaa,auxin biosynthesis,endosperm,endosperm development
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb409250](https://www.maizegdb.org/gene_center/gene/Zm00001eb409250)
-- **Gene Symbol:** ZmYuc1;yuc1;de18
+- **Gene Symbol:** <u>ZmYuc1</u>&nbsp;<u>yuc1</u>&nbsp;<u>de18</u>
 - **Gene Name:** defective18
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

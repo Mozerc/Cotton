@@ -8,7 +8,7 @@ tags: [ root,development,root development,root elongation ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2A02G105500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2A02G105500)
-- **Gene Symbol:** TaVSR1-A
+- **Gene Symbol:** <u>TaVSR1-A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

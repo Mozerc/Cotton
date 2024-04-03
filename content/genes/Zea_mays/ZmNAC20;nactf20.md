@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,aba,stomat
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb288360](https://www.maizegdb.org/gene_center/gene/Zm00001eb288360)
-- **Gene Symbol:** ZmNAC20;nactf20
+- **Gene Symbol:** <u>ZmNAC20</u>&nbsp;<u>nactf20</u>
 - **Gene Name:** NAC-transcription factor 20
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

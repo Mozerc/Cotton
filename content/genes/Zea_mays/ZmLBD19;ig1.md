@@ -8,7 +8,7 @@ tags: [ development,embryo,transcriptional regulator,female gametophyte developm
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb145150](https://www.maizegdb.org/gene_center/gene/Zm00001eb145150)
-- **Gene Symbol:** ZmLBD19;IG1
+- **Gene Symbol:** <u>ZmLBD19</u>&nbsp;<u>IG1</u>
 - **Gene Name:** indeterminate gametophyte1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

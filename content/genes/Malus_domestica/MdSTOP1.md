@@ -8,7 +8,7 @@ tags: [ transcription factor,tolerance,cytoplasm,al tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[MD05G1040600/MD16G1175800]()
-- **Gene Symbol:** MdSTOP1
+- **Gene Symbol:** <u>MdSTOP1</u>
 - **Gene Name:** SENSITIVE TO PROTON RHIZOTOXICITY 1
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ transcription factor,tolerance,cytoplasm,al tolerance ]
    - **MdSTOP1** and MdNAC2 coregulated MdNHX2 expression to increase H+ efflux from the vacuole to the cytoplasm to promote Al3+ compartmentalization and maintain cation balance in the vacuole.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cytoplasm](/tags/cytoplasm/)&nbsp;,&nbsp;[al-tolerance](/tags/al-tolerance/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[cytoplasm](/tags/cytoplasm/),&nbsp;&nbsp;[al-tolerance](/tags/al-tolerance/)
 
 ## Literature:
-   - [Melatonin promotes Al3+ compartmentalization via H+ transport and ion gradients in Malus hupehensis.]( https://academic.oup.com/plphys/article/193/1/821/7197289?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad339](https://academic.oup.com/plphys/article/193/1/821/7197289?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37311207](https://pubmed.ncbi.nlm.nih.gov/37311207/)
+   - [Melatonin promotes Al3+ compartmentalization via H+ transport and ion gradients in Malus hupehensis.]( https://academic.oup.com/plphys/article/193/1/821/7197289?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad339](https://academic.oup.com/plphys/article/193/1/821/7197289?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37311207](https://pubmed.ncbi.nlm.nih.gov/37311207/)
 
 ## Related News:
    - [Plant Physiology | 青岛农业大学王彩虹教授课题组揭示苹果耐铝新机制](https://mp.weixin.qq.com/s/XfjCcnn163e3BGNHDx09Ig)

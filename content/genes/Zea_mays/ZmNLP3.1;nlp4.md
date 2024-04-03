@@ -8,7 +8,7 @@ tags: [ growth,yield,cytokinin,plant growth,biomass,cytokinin response ]
 
 ## Gene Details:
 - **Gene ID:**	[GRMZM2G375675](https://www.maizegdb.org/gene_center/gene/GRMZM2G375675)
-- **Gene Symbol:** ZmNLP3.1;nlp4
+- **Gene Symbol:** <u>ZmNLP3.1</u>&nbsp;<u>nlp4</u>
 - **Gene Name:** NLP-transcription factor 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

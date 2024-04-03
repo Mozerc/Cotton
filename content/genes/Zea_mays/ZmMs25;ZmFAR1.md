@@ -8,7 +8,7 @@ tags: [ transcription factor,development,fertility,pollen,anther,sterility,polle
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d048337](https://www.maizegdb.org/gene_center/gene/Zm00001d048337)
-- **Gene Symbol:** ZmMs25;ZmFAR1
+- **Gene Symbol:** <u>ZmMs25</u>&nbsp;<u>ZmFAR1</u>
 - **Gene Name:** male sterile25
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

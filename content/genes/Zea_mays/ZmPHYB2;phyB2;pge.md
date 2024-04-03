@@ -8,7 +8,7 @@ tags: [ breeding,height,plant height,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb396030](https://www.maizegdb.org/gene_center/gene/Zm00001eb396030)
-- **Gene Symbol:** ZmPHYB2;PhyB2;pge
+- **Gene Symbol:** <u>ZmPHYB2</u>&nbsp;<u>PhyB2</u>&nbsp;<u>pge</u>
 - **Gene Name:** phytochromeB2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

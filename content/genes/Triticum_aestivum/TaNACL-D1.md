@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,resistant ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G111300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G111300)
-- **Gene Symbol:** TaNACL-D1
+- **Gene Symbol:** <u>TaNACL-D1</u>
 - **Gene Name:** NAC–like transcription factor
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

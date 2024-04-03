@@ -8,7 +8,7 @@ tags: [ resistance,calcium ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G178200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G178200)
-- **Gene Symbol:** TaCaM3-4B
+- **Gene Symbol:** <u>TaCaM3-4B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

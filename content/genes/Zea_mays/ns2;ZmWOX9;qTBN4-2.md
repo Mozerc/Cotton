@@ -8,7 +8,7 @@ tags: [ seedlings,shoot,sheath,vegetative,homeobox gene ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb197430](https://www.maizegdb.org/gene_center/gene/Zm00001eb197430)
-- **Gene Symbol:** NS2;ZmWOX9;qTBN4-2
+- **Gene Symbol:** <u>NS2</u>&nbsp;<u>ZmWOX9</u>&nbsp;<u>qTBN4-2</u>
 - **Gene Name:** narrow sheath2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

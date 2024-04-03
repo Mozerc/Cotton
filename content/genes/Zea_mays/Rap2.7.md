@@ -8,7 +8,7 @@ tags: [ development,floral,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb355240](https://www.maizegdb.org/gene_center/gene/Zm00001eb355240)
-- **Gene Symbol:** Rap2.7
+- **Gene Symbol:** <u>Rap2.7</u>
 - **Gene Name:** rap2.7 orthologue
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,grain,spike ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G175200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G175200)
-- **Gene Symbol:** TaVRT-A2;P1
+- **Gene Symbol:** <u>TaVRT-A2</u>&nbsp;<u>P1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ leaf,transcription factor,leaf shape,dwarf,cell elongation,internode elo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb287100](https://www.maizegdb.org/gene_center/gene/Zm00001eb287100)
-- **Gene Symbol:** Dwil1
+- **Gene Symbol:** <u>Dwil1</u>
 - **Gene Name:** dwarf & irregular leaf1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

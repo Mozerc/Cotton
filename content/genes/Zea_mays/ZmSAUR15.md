@@ -8,7 +8,7 @@ tags: [ auxin,cell division,iaa,auxin biosynthesis,embryo,callus,cell expansion,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d001964](https://www.maizegdb.org/gene_center/gene/Zm00001d001964)
-- **Gene Symbol:** ZmSAUR15
+- **Gene Symbol:** <u>ZmSAUR15</u>
 - **Gene Name:** small auxin up RNA15
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

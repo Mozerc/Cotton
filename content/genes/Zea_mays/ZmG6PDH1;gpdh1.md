@@ -8,7 +8,7 @@ tags: [ seedlings,resistance,stress,oxidative stress,tolerance,cold tolerance,ox
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb079220](https://www.maizegdb.org/gene_center/gene/Zm00001eb079220)
-- **Gene Symbol:** ZmG6PDH1;gpdh1
+- **Gene Symbol:** <u>ZmG6PDH1</u>&nbsp;<u>gpdh1</u>
 - **Gene Name:** glucose-6-phosphate dehydrogenase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

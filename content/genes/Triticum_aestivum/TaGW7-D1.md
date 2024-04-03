@@ -8,7 +8,7 @@ tags: [ grain,grain length,grain size,grain number,grain weight,grain width ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2D02G183400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2D02G183400)
-- **Gene Symbol:** TaGW7-D1
+- **Gene Symbol:** <u>TaGW7-D1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

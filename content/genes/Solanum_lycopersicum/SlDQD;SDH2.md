@@ -8,7 +8,7 @@ tags: [ resistance,flavonoid,flavonoid biosynthesis,flavonoid metabolism ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc10g038080]()
-- **Gene Symbol:** SlDQD;SDH2
+- **Gene Symbol:** <u>SlDQD</u>&nbsp;<u>SDH2</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -20,10 +20,10 @@ tags: [ resistance,flavonoid,flavonoid biosynthesis,flavonoid metabolism ]
    - Dual-luciferase reporter and EMSA assays indicated that **SlDQD**/SDH2 is a direct target of the key ripening regulator SlTAGL1.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[flavonoid](/tags/flavonoid/)&nbsp;,&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/)&nbsp;,&nbsp;[flavonoid-metabolism](/tags/flavonoid-metabolism/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[flavonoid](/tags/flavonoid/),&nbsp;&nbsp;[flavonoid-biosynthesis](/tags/flavonoid-biosynthesis/),&nbsp;&nbsp;[flavonoid-metabolism](/tags/flavonoid-metabolism/)
 
 ## Literature:
-   - [The MADS-box protein SlTAGL1 regulates a ripening-associated SlDQD/SDH2 involved in flavonoid biosynthesis and resistance against Botrytis cinerea in post-harvest tomato fruit.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16354)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16354](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16354)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37326247](https://pubmed.ncbi.nlm.nih.gov/37326247/)
+   - [The MADS-box protein SlTAGL1 regulates a ripening-associated SlDQD/SDH2 involved in flavonoid biosynthesis and resistance against Botrytis cinerea in post-harvest tomato fruit.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.16354)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.16354](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16354);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37326247](https://pubmed.ncbi.nlm.nih.gov/37326247/)
 
 ## Related News:
    - [The Plant Journal | 四川大学刘明春课题组在番茄品质和采后抗性调控方面取得进展](https://mp.weixin.qq.com/s/kEtV8ACqBz8NSl-0a9ENyA)

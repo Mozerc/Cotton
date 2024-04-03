@@ -8,7 +8,7 @@ tags: [ growth,resistance,drought,stress,drought stress,down-regulated genes,sal
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb121020](https://www.maizegdb.org/gene_center/gene/Zm00001eb121020)
-- **Gene Symbol:** ZmGRXCC5;grx12
+- **Gene Symbol:** <u>ZmGRXCC5</u>&nbsp;<u>grx12</u>
 - **Gene Name:** glutaredoxin12
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

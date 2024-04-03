@@ -8,7 +8,7 @@ tags: [ leaf,sheath,cell proliferation,cellular proliferation ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb299420](https://www.maizegdb.org/gene_center/gene/Zm00001eb299420)
-- **Gene Symbol:** RS1
+- **Gene Symbol:** <u>RS1</u>
 - **Gene Name:** Rough sheath1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

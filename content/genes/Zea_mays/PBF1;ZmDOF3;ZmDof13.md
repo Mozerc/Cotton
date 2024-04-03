@@ -8,7 +8,7 @@ tags: [ nitrogen,transcription factor,development,starch,endosperm,endosperm dev
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb094330](https://www.maizegdb.org/gene_center/gene/Zm00001eb094330)
-- **Gene Symbol:** PBF1;ZmDOF3;ZmDof13
+- **Gene Symbol:** <u>PBF1</u>&nbsp;<u>ZmDOF3</u>&nbsp;<u>ZmDof13</u>
 - **Gene Name:** prolamin-box binding factor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

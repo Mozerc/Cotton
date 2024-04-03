@@ -8,7 +8,7 @@ tags: [ grain,atpase,transporter,cadmium,cadmium accumulation,heavy metal ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb095020](https://www.maizegdb.org/gene_center/gene/Zm00001eb095020)
-- **Gene Symbol:** ZmHMA3;ZmHMA3a
+- **Gene Symbol:** <u>ZmHMA3</u>&nbsp;<u>ZmHMA3a</u>
 - **Gene Name:** heavy metal ATPase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

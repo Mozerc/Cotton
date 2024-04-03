@@ -8,7 +8,7 @@ tags: [ seedling,tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb331170](https://www.maizegdb.org/gene_center/gene/Zm00001eb331170)
-- **Gene Symbol:** ZmbZIP54;ZmTGA
+- **Gene Symbol:** <u>ZmbZIP54</u>&nbsp;<u>ZmTGA</u>
 - **Gene Name:** bZIP-transcription factor 54
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

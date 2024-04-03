@@ -8,7 +8,7 @@ tags: [ resistance,sa,acetyltransferase,powdery mildew,mildew resistance,mildew,
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4B02G100100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4B02G100100)
-- **Gene Symbol:** TaPAD4-B
+- **Gene Symbol:** <u>TaPAD4-B</u>
 - **Gene Name:** Phytoalexin Deficient 4
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ development,kinase,seed,meristem,seed weight,protein kinase,plasma membr
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb009640](https://www.maizegdb.org/gene_center/gene/Zm00001eb009640)
-- **Gene Symbol:** ZmBAM1d
+- **Gene Symbol:** <u>ZmBAM1d</u>
 - **Gene Name:** BARELY ANY MERISTEM 1d ortholog
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

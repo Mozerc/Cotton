@@ -8,7 +8,7 @@ tags: [ auxin,seed,seed germination,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb076420](https://www.maizegdb.org/gene_center/gene/Zm00001eb076420)
-- **Gene Symbol:** ZmARF5;ARF17;arftf5
+- **Gene Symbol:** <u>ZmARF5</u>&nbsp;<u>ARF17</u>&nbsp;<u>arftf5</u>
 - **Gene Name:** ARF-transcription factor 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

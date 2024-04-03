@@ -8,7 +8,7 @@ tags: [ growth,development,stress,cold stress,cold,transporter,stress response ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb304160](https://www.maizegdb.org/gene_center/gene/Zm00001eb304160)
-- **Gene Symbol:** ZmLAZ1-5;laz5
+- **Gene Symbol:** <u>ZmLAZ1-5</u>&nbsp;<u>laz5</u>
 - **Gene Name:** lazarus ortholog5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

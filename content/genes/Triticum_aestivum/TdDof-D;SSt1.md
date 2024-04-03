@@ -8,7 +8,7 @@ tags: [ stem,cell death,architecture,programmed cell death ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3D02G537400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3D02G537400)
-- **Gene Symbol:** TdDof-D;SSt1
+- **Gene Symbol:** <u>TdDof-D</u>&nbsp;<u>SSt1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

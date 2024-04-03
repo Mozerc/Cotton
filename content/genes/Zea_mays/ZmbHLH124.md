@@ -8,7 +8,7 @@ tags: [ transcription factor,drought,stress,drought stress,tolerance,drought tol
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb284130](https://www.maizegdb.org/gene_center/gene/Zm00001eb284130)
-- **Gene Symbol:** ZmbHLH124
+- **Gene Symbol:** <u>ZmbHLH124</u>
 - **Gene Name:** bHLH-transcription factor 124
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

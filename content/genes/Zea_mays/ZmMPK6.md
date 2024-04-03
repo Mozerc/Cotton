@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,ethylene,insect,salicylic acid,jasmonic,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb417810](https://www.maizegdb.org/gene_center/gene/Zm00001eb417810)
-- **Gene Symbol:** ZmMPK6
+- **Gene Symbol:** <u>ZmMPK6</u>
 - **Gene Name:** MAP kinase6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

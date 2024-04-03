@@ -8,7 +8,7 @@ tags: [ brassinosteroid,brassinosteroid signaling,stress,defense,oxidative stres
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb376640](https://www.maizegdb.org/gene_center/gene/Zm00001eb376640)
-- **Gene Symbol:** ZmMPK5;mpk2;MPK6
+- **Gene Symbol:** <u>ZmMPK5</u>&nbsp;<u>mpk2</u>&nbsp;<u>MPK6</u>
 - **Gene Name:** MAP kinase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salt,tolerance,drought tolerance,salt tole
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G141300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G141300)
-- **Gene Symbol:** TaAVP1-7A
+- **Gene Symbol:** <u>TaAVP1-7A</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

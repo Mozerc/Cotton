@@ -8,7 +8,7 @@ tags: [ leaf,xylem,growth,drought,stress,drought stress,map-based cloning,cell w
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb217500](https://www.maizegdb.org/gene_center/gene/Zm00001eb217500)
-- **Gene Symbol:** WI5;Zmxyl
+- **Gene Symbol:** <u>WI5</u>&nbsp;<u>Zmxyl</u>
 - **Gene Name:** wilted5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

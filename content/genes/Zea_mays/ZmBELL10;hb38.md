@@ -8,7 +8,7 @@ tags: [ transcription factor,cell division,cell elongation,height,plant height,i
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb268690](https://www.maizegdb.org/gene_center/gene/Zm00001eb268690)
-- **Gene Symbol:** ZmBELL10;hb38
+- **Gene Symbol:** <u>ZmBELL10</u>&nbsp;<u>hb38</u>
 - **Gene Name:** Homeobox-transcription factor 38
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

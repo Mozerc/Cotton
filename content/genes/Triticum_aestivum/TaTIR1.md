@@ -8,7 +8,7 @@ tags: [ auxin,resistance,auxin response ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A01G091300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A01G091300)
-- **Gene Symbol:** TaTIR1
+- **Gene Symbol:** <u>TaTIR1</u>
 - **Gene Name:** The Transport inhibitor response 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

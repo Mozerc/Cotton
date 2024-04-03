@@ -8,7 +8,7 @@ tags: [ development,br,plant development,ethylene,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc05g055070]()
-- **Gene Symbol:** SlETR7
+- **Gene Symbol:** <u>SlETR7</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -21,10 +21,10 @@ tags: [ development,br,plant development,ethylene,flowering ]
    - These results show that **SlETR7** is a functional ethylene receptor.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[ethylene](/tags/ethylene/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [development](/tags/development/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [Roles of SlETR7, a newly discovered ethylene receptor, in tomato plant and fruit development.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-020-0239-y/6445386?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[0.1038/s41438-020-0239-y](https://academic.oup.com/hr/article/doi/10.1038/s41438-020-0239-y/6445386?login=false)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32025320](https://pubmed.ncbi.nlm.nih.gov/32025320/)
+   - [Roles of SlETR7, a newly discovered ethylene receptor, in tomato plant and fruit development.]( https://academic.oup.com/hr/article/doi/10.1038/s41438-020-0239-y/6445386?login=false)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[0.1038/s41438-020-0239-y](https://academic.oup.com/hr/article/doi/10.1038/s41438-020-0239-y/6445386?login=false);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32025320](https://pubmed.ncbi.nlm.nih.gov/32025320/)
 
 ## Related News:
    - [Hortic Res | 新发现的乙烯受体SIETR7在番茄植株和果实发育中的作用](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247487551&idx=3&sn=ee2bce65b9490e5ad854790f66bb4452&chksm=ce93bd6af9e4347c70a6b351027007b4ffe699e2176fab1340016099af18cd81377f7716b412&scene=27#wechat_redirect)

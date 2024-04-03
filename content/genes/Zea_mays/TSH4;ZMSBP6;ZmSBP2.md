@@ -8,7 +8,7 @@ tags: [ development,inflorescence,inflorescence development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d020941](https://www.maizegdb.org/gene_center/gene/Zm00001d020941)
-- **Gene Symbol:** TSH4;ZMSBP6;ZmSBP2
+- **Gene Symbol:** <u>TSH4</u>&nbsp;<u>ZMSBP6</u>&nbsp;<u>ZmSBP2</u>
 - **Gene Name:** tassel sheath4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

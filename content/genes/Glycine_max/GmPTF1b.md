@@ -8,7 +8,7 @@ tags: [ root,lateral root,symbiosis ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.03G143900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.03G143900)
-- **Gene Symbol:** GmPTF1b
+- **Gene Symbol:** <u>GmPTF1b</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ root,lateral root,symbiosis ]
    - GmPTF1a/b coordinately regulates lateral root and nodule formation.
 
 ## Function-related keywords:
-   - [root](/tags/root/)&nbsp;,&nbsp;[lateral-root](/tags/lateral-root/)&nbsp;,&nbsp;[symbiosis](/tags/symbiosis/)
+   - [root](/tags/root/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[symbiosis](/tags/symbiosis/)
 
 ## Literature:
-   - [Molecular module GmPTF1a/b-GmNPLa regulates rhizobia infection and nodule formation in soybean.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19462)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19462](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19462)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38062896](https://pubmed.ncbi.nlm.nih.gov/38062896/)
+   - [Molecular module GmPTF1a/b-GmNPLa regulates rhizobia infection and nodule formation in soybean.]( https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19462)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19462](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19462);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38062896](https://pubmed.ncbi.nlm.nih.gov/38062896/)
 
 ## Related News:
    - [New Phytologist | 福建农林大学发文揭示大豆结瘤的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247560827&idx=5&sn=9eb146cdb02f8e4afa2aa045d42cfaec&chksm=cf461b1126ddf21509fe91b6614f6d867f15892df6dadc34e610528f35ae04adf7df08e7ea5e&scene=27#wechat_redirect)

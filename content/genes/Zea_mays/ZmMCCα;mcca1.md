@@ -8,7 +8,7 @@ tags: [ seed,mitochondria,tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb031330](https://www.maizegdb.org/gene_center/gene/Zm00001eb031330)
-- **Gene Symbol:** ZmMCCα;mcca1
+- **Gene Symbol:** <u>ZmMCCα</u>&nbsp;<u>mcca1</u>
 - **Gene Name:** 3-methylcrotonoyl-CoA carboxylase-α-subunit1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

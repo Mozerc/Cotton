@@ -8,7 +8,7 @@ tags: [ grain,grain length,resistance,seedling,grain number,disease,disease resi
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb285200](https://www.maizegdb.org/gene_center/gene/Zm00001eb285200)
-- **Gene Symbol:** ZmBON3;bon3
+- **Gene Symbol:** <u>ZmBON3</u>&nbsp;<u>bon3</u>
 - **Gene Name:** bonzai3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

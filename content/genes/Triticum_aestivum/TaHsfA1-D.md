@@ -8,7 +8,7 @@ tags: [ stress,ubiquitin,stress response,heat stress,heat stress response,thermo
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G553300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G553300)
-- **Gene Symbol:** TaHsfA1-D
+- **Gene Symbol:** <u>TaHsfA1-D</u>
 - **Gene Name:** Heat shock transcription factor 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

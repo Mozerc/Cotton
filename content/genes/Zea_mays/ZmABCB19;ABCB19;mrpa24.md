@@ -8,7 +8,7 @@ tags: [ stem,root,auxin,dwarf,auxin transport,as transport ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb243520](https://www.maizegdb.org/gene_center/gene/Zm00001eb243520)
-- **Gene Symbol:** ZmABCB19;ABCB19;mrpa24
+- **Gene Symbol:** <u>ZmABCB19</u>&nbsp;<u>ABCB19</u>&nbsp;<u>mrpa24</u>
 - **Gene Name:** multidrug resistance associated protein24
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,resistance,drought,tolerance,drought tolerance,home
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003920](https://www.maizegdb.org/gene_center/gene/Zm00001eb003920)
-- **Gene Symbol:** ZmLBD2;rtcs1
+- **Gene Symbol:** <u>ZmLBD2</u>&nbsp;<u>rtcs1</u>
 - **Gene Name:** rootless concerning crown and seminal roots1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

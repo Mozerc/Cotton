@@ -8,7 +8,7 @@ tags: [ grain,wax biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb195850](https://www.maizegdb.org/gene_center/gene/Zm00001eb195850)
-- **Gene Symbol:** ZmMYB97;Gl3;glossy3
+- **Gene Symbol:** <u>ZmMYB97</u>&nbsp;<u>Gl3</u>&nbsp;<u>glossy3</u>
 - **Gene Name:** glossy3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

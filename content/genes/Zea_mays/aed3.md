@@ -8,7 +8,7 @@ tags: [ resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb006530](https://www.maizegdb.org/gene_center/gene/Zm00001eb006530)
-- **Gene Symbol:** Aed3
+- **Gene Symbol:** <u>Aed3</u>
 - **Gene Name:** aspartyl protease3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ growth,drought,stress,drought stress,photosynthesis,tolerance,nucleus,yi
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb327140](https://www.maizegdb.org/gene_center/gene/Zm00001eb327140)
-- **Gene Symbol:** ZmNF-YB16;ca3p4;ZmNF-YB12
+- **Gene Symbol:** <u>ZmNF-YB16</u>&nbsp;<u>ca3p4</u>&nbsp;<u>ZmNF-YB12</u>
 - **Gene Name:** CCAAT-HAP3-transcription factor 34
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ starch,transcription regulator,starch biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D01G297900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D01G297900)
-- **Gene Symbol:** TaMYB44-D
+- **Gene Symbol:** <u>TaMYB44-D</u>
 - **Gene Name:** MYB transcription factor 44
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ transcription factor,sugar,sugar transport,as transport ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb148260](https://www.maizegdb.org/gene_center/gene/Zm00001eb148260)
-- **Gene Symbol:** ZmWRKY031;ZmWRKY130;ZmWRKY54;wrky54
+- **Gene Symbol:** <u>ZmWRKY031</u>&nbsp;<u>ZmWRKY130</u>&nbsp;<u>ZmWRKY54</u>&nbsp;<u>wrky54</u>
 - **Gene Name:** WRKY-transcription factor 54
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

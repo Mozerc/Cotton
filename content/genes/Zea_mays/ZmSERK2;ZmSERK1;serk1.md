@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,phytohormone,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb423960](https://www.maizegdb.org/gene_center/gene/Zm00001eb423960)
-- **Gene Symbol:** ZmSERK2;ZmSERK1;serk1
+- **Gene Symbol:** <u>ZmSERK2</u>&nbsp;<u>ZmSERK1</u>&nbsp;<u>serk1</u>
 - **Gene Name:** somatic embryogenesis receptor-like kinase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

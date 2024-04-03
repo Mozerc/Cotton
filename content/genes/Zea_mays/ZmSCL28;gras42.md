@@ -8,7 +8,7 @@ tags: [ leaf,architecture,plant architecture,leaf angle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb378590](https://www.maizegdb.org/gene_center/gene/Zm00001eb378590)
-- **Gene Symbol:** ZmSCL28;gras42
+- **Gene Symbol:** <u>ZmSCL28</u>&nbsp;<u>gras42</u>
 - **Gene Name:** SCARECROW-LIKE 28;GRAS-transcription factor 42
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

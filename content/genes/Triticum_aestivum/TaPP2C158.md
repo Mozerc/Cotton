@@ -8,7 +8,7 @@ tags: [ drought,aba,phosphatase,protein phosphatase,drought response ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G359900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G359900)
-- **Gene Symbol:** TaPP2C158
+- **Gene Symbol:** <u>TaPP2C158</u>
 - **Gene Name:** Protein phosphatase 2C
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

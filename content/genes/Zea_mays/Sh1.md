@@ -8,7 +8,7 @@ tags: [ seed,endosperm,sucrose,seed phenotype,seed filling,sucrose synthase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb374090](https://www.maizegdb.org/gene_center/gene/Zm00001eb374090)
-- **Gene Symbol:** Sh1
+- **Gene Symbol:** <u>Sh1</u>
 - **Gene Name:** shrunken1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

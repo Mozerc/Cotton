@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb289070](https://www.maizegdb.org/gene_center/gene/Zm00001eb289070)
-- **Gene Symbol:** ZmTLP7;tubtf10
+- **Gene Symbol:** <u>ZmTLP7</u>&nbsp;<u>tubtf10</u>
 - **Gene Name:** TUB-transcription factor 10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

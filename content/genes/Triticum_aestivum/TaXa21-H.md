@@ -8,7 +8,7 @@ tags: [ resistance,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G206100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6D02G206100)
-- **Gene Symbol:** TaXa21-H
+- **Gene Symbol:** <u>TaXa21-H</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

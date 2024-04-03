@@ -8,7 +8,7 @@ tags: [ root,shoot,stress,salt,cytokinin,salt stress,transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb096040](https://www.maizegdb.org/gene_center/gene/Zm00001eb096040)
-- **Gene Symbol:** ZmHP2;hp2
+- **Gene Symbol:** <u>ZmHP2</u>&nbsp;<u>hp2</u>
 - **Gene Name:** histidine-containing phosphotransfer protein2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ aba,heterosis,glycosyltransferase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb119140](https://www.maizegdb.org/gene_center/gene/Zm00001eb119140)
-- **Gene Symbol:** ZmKOB1;kob1
+- **Gene Symbol:** <u>ZmKOB1</u>&nbsp;<u>kob1</u>
 - **Gene Name:** kobito1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

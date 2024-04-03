@@ -8,7 +8,7 @@ tags: [ fertility,mitochondria,male fertility,protein translation ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00031ab118460](https://www.maizegdb.org/gene_center/gene/Zm00031ab118460)
-- **Gene Symbol:** ZmRF5
+- **Gene Symbol:** <u>ZmRF5</u>
 - **Gene Name:** 
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

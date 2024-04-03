@@ -8,7 +8,7 @@ tags: [ growth,defense,plant growth ]
 
 ## Gene Details:
 - **Gene ID:**	[Gh_A07G0717]()
-- **Gene Symbol:** GhGAI1
+- **Gene Symbol:** <u>GhGAI1</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -18,10 +18,10 @@ tags: [ growth,defense,plant growth ]
    - **GhGAI1** interacts with GhMYB33 and regulates trade-offs between plant growth and defense.
 
 ## Function-related keywords:
-   - [growth](/tags/growth/)&nbsp;,&nbsp;[defense](/tags/defense/)&nbsp;,&nbsp;[plant-growth](/tags/plant-growth/)
+   - [growth](/tags/growth/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/)
 
 ## Literature:
-   - [The cotton MYB33 gene is a hub gene regulating the trade-off between plant growth and defense in Verticillium dahliae infection.]( https://www.sciencedirect.com/science/article/pii/S2090123223002333?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jare.2023.08.017](https://www.sciencedirect.com/science/article/pii/S2090123223002333?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37648022](https://pubmed.ncbi.nlm.nih.gov/37648022/)
+   - [The cotton MYB33 gene is a hub gene regulating the trade-off between plant growth and defense in Verticillium dahliae infection.]( https://www.sciencedirect.com/science/article/pii/S2090123223002333?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jare.2023.08.017](https://www.sciencedirect.com/science/article/pii/S2090123223002333?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37648022](https://pubmed.ncbi.nlm.nih.gov/37648022/)
 
 ## Related News:
    - [中棉所李付广研究员团队揭示棉花抗黄萎病的关键基因及其调控通路](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247580219&idx=8&sn=0f2f2b7b507c7fcd02cc2cc3dbe77175&chksm=e90a2381c8b940ba1d896b4f610909e25285f61380729e70e07389fe6e470040721a2e6fc5a8&scene=27#wechat_redirect)

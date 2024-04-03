@@ -8,7 +8,7 @@ tags: [ transcription factor,xylem,root,growth,development,root development,root
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb253580](https://www.maizegdb.org/gene_center/gene/Zm00001eb253580)
-- **Gene Symbol:** ZmTMM1;mads26
+- **Gene Symbol:** <u>ZmTMM1</u>&nbsp;<u>mads26</u>
 - **Gene Name:** MADS-transcription factor 26
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

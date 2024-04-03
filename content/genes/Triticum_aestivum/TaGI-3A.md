@@ -8,7 +8,7 @@ tags: [ flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3A02G116300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3A02G116300)
-- **Gene Symbol:** TaGI-3A
+- **Gene Symbol:** <u>TaGI-3A</u>
 - **Gene Name:** GIGANTEA
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

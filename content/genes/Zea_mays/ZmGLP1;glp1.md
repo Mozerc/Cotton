@@ -8,7 +8,7 @@ tags: [ growth,resistance,stress,stems,ja,oxidative stress,oxidative,abiotic str
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb282040](https://www.maizegdb.org/gene_center/gene/Zm00001eb282040)
-- **Gene Symbol:** ZmGLP1;glp1
+- **Gene Symbol:** <u>ZmGLP1</u>&nbsp;<u>glp1</u>
 - **Gene Name:** germin-like protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

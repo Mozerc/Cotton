@@ -8,7 +8,7 @@ tags: [ kinase,nucleus,aba,protein kinase,pi ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb013100](https://www.maizegdb.org/gene_center/gene/Zm00001eb013100)
-- **Gene Symbol:** ZmMPK3;gpm443;mpk3
+- **Gene Symbol:** <u>ZmMPK3</u>&nbsp;<u>gpm443</u>&nbsp;<u>mpk3</u>
 - **Gene Name:** MAP kinase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

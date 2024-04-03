@@ -8,7 +8,7 @@ tags: [ pi ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G264500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G264500)
-- **Gene Symbol:** WPI1-1D
+- **Gene Symbol:** <u>WPI1-1D</u>
 - **Gene Name:** wheat PI STILLATA 1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

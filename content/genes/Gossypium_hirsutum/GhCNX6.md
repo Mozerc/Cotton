@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[Gh_D09G2402.1]()
-- **Gene Symbol:** GhCNX6
+- **Gene Symbol:** <u>GhCNX6</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
    - ER whorls triggered by **GhCNX6** were discovered involved in drought stress on cotton.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[er-stress](/tags/er-stress/)&nbsp;,&nbsp;[virus](/tags/virus/)
+   - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[er-stress](/tags/er-stress/),&nbsp;&nbsp;[virus](/tags/virus/)
 
 ## Literature:
-   - [ER whorls triggered by GhCNX6 were discovered involved in drought stress on cotton]( https://www.sciencedirect.com/science/article/pii/S0098847222002842?via%3Dihub#sec0010)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envexpbot.2022.105062](https://www.sciencedirect.com/science/article/pii/S0098847222002842?via%3Dihub#sec0010)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [ER whorls triggered by GhCNX6 were discovered involved in drought stress on cotton]( https://www.sciencedirect.com/science/article/pii/S0098847222002842?via%3Dihub#sec0010)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.envexpbot.2022.105062](https://www.sciencedirect.com/science/article/pii/S0098847222002842?via%3Dihub#sec0010);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [中国农业科学院研究发现棉花耐旱新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247552723&idx=6&sn=65aee8eacbae18da8b6a950e588702f3&chksm=e8bd7ccddfcaf5dbba21436576544b478243245598abedbe62f11189decea206fcb950d7787b&scene=27#wechat_redirect)

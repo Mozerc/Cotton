@@ -8,7 +8,7 @@ tags: [ resistance,ja,immunity ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb223620](https://www.maizegdb.org/gene_center/gene/Zm00001eb223620)
-- **Gene Symbol:** ZmJAZ15;JAZ3
+- **Gene Symbol:** <u>ZmJAZ15</u>&nbsp;<u>JAZ3</u>
 - **Gene Name:** ZIM-transcription factor 10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

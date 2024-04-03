@@ -8,7 +8,7 @@ tags: [ cell wall,cell elongation,ubiquitin,fiber ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** GhKNL1
+- **Gene Symbol:** <u>GhKNL1</u>
 - **Gene Name:** 
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
@@ -20,10 +20,10 @@ tags: [ cell wall,cell elongation,ubiquitin,fiber ]
    - hHUB2 negatively regulated **GhKNL1** protein levels and lead to the disinhibition of genes such as GhXTH1, Gh1,3-β-G, GhCesA4, GhAGP4, GhCTL1, and GhCOBL4, thus promoting fiber elongation and enhancing SCW biosynthesis.
 
 ## Function-related keywords:
-   - [cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[cell-elongation](/tags/cell-elongation/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[fiber](/tags/fiber/)
+   - [cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[fiber](/tags/fiber/)
 
 ## Literature:
-   - [GhHUB2, a ubiquitin ligase, is involved in cotton fiber development via the ubiquitin-26S proteasome pathway.]( https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery269](https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30053051](https://pubmed.ncbi.nlm.nih.gov/30053051/)
+   - [GhHUB2, a ubiquitin ligase, is involved in cotton fiber development via the ubiquitin-26S proteasome pathway.]( https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ery269](https://academic.oup.com/jxb/article/69/21/5059/5056425?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30053051](https://pubmed.ncbi.nlm.nih.gov/30053051/)
 
 ## Related News:
    - [中国农业大学和中国农科院棉花研究所揭示调控棉花纤维发育内稳态新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247489711&idx=2&sn=bd86cd9692417401df52fd3d24906458&chksm=e8be6ab1dfc9e3a7783768980647a1ccd12c0666116783661490967489152ca9cd09e285df9f&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tole
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.19G198600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.19G198600)
-- **Gene Symbol:** GmSYP24
+- **Gene Symbol:** <u>GmSYP24</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ drought,salt,tolerance,aba,drought tolerance,salt tolerance,osmotic tole
    - **GmSYP24** positively regulates the expression of some ABA/stomata-responsive genes in Arabidopsis.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[salt](/tags/salt/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[aba](/tags/aba/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[salt-tolerance](/tags/salt-tolerance/)&nbsp;,&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/)&nbsp;,&nbsp;[stomata](/tags/stomata/)
+   - [drought](/tags/drought/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[osmotic-tolerance](/tags/osmotic-tolerance/),&nbsp;&nbsp;[stomata](/tags/stomata/)
 
 ## Literature:
-   - [GmSYP24, a putative syntaxin gene, confers osmotic/drought, salt stress tolerances and ABA signal pathway.]( https://www.nature.com/articles/s41598-019-42332-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-019-42332-5](https://www.nature.com/articles/s41598-019-42332-5)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30979945](https://pubmed.ncbi.nlm.nih.gov/30979945/)
+   - [GmSYP24, a putative syntaxin gene, confers osmotic/drought, salt stress tolerances and ABA signal pathway.]( https://www.nature.com/articles/s41598-019-42332-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-019-42332-5](https://www.nature.com/articles/s41598-019-42332-5);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30979945](https://pubmed.ncbi.nlm.nih.gov/30979945/)
 
 ## Related News:
 

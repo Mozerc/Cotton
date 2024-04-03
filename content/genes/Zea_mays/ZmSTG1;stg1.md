@@ -8,7 +8,7 @@ tags: [ growth,stress,salt,tolerance,aba,salt tolerance,salt stress,stress toler
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb388110](https://www.maizegdb.org/gene_center/gene/Zm00001eb388110)
-- **Gene Symbol:** ZmSTG1;stg1
+- **Gene Symbol:** <u>ZmSTG1</u>&nbsp;<u>stg1</u>
 - **Gene Name:** Salt-Tolerant Gene 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

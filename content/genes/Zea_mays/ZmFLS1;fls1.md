@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb256020](https://www.maizegdb.org/gene_center/gene/Zm00001eb256020)
-- **Gene Symbol:** ZmFLS1;fls1
+- **Gene Symbol:** <u>ZmFLS1</u>&nbsp;<u>fls1</u>
 - **Gene Name:** flavonol synthase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

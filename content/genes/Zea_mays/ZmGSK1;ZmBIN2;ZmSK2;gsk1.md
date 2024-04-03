@@ -8,7 +8,7 @@ tags: [ leaf,development,kinase,leaf development,endosperm,protein kinase,endosp
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb120370](https://www.maizegdb.org/gene_center/gene/Zm00001eb120370)
-- **Gene Symbol:** ZmGSK1;ZmBIN2;ZmSK2;gsk1
+- **Gene Symbol:** <u>ZmGSK1</u>&nbsp;<u>ZmBIN2</u>&nbsp;<u>ZmSK2</u>&nbsp;<u>gsk1</u>
 - **Gene Name:** glycogen synthase kinase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

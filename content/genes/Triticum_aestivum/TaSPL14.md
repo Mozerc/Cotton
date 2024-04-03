@@ -8,7 +8,7 @@ tags: [ root,development,root development ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G235800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G235800)
-- **Gene Symbol:** TaSPL14
+- **Gene Symbol:** <u>TaSPL14</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

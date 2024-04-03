@@ -8,7 +8,7 @@ tags: [ seed,quality ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G514500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G514500)
-- **Gene Symbol:** Pinb2-2
+- **Gene Symbol:** <u>Pinb2-2</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

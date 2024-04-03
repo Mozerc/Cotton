@@ -8,7 +8,7 @@ tags: [ growth,development,grain,grain size,resistance,plant development,panicle
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb030570](https://www.maizegdb.org/gene_center/gene/Zm00001eb030570)
-- **Gene Symbol:** ZmXLG1;xlg1
+- **Gene Symbol:** <u>ZmXLG1</u>&nbsp;<u>xlg1</u>
 - **Gene Name:** extra-large guanine nucleotide-binding protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

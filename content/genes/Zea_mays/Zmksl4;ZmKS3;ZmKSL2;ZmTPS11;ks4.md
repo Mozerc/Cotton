@@ -8,7 +8,7 @@ tags: [ root,shoot,stress,abiotic stress,architecture,plant architecture,water l
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb133200](https://www.maizegdb.org/gene_center/gene/Zm00001eb133200)
-- **Gene Symbol:** Zmksl4;ZmKS3;ZmKSL2;ZmTPS11;ks4
+- **Gene Symbol:** <u>Zmksl4</u>&nbsp;<u>ZmKS3</u>&nbsp;<u>ZmKSL2</u>&nbsp;<u>ZmTPS11</u>&nbsp;<u>ks4</u>
 - **Gene Name:** kaurene synthase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

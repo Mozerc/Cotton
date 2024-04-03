@@ -8,7 +8,7 @@ tags: [ development,seed,map-based cloning,embryo,endosperm,pericarp,seed develo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb057030](https://www.maizegdb.org/gene_center/gene/Zm00001eb057030)
-- **Gene Symbol:** Emp10;ZmPPR072
+- **Gene Symbol:** <u>Emp10</u>&nbsp;<u>ZmPPR072</u>
 - **Gene Name:** empty pericarp 10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

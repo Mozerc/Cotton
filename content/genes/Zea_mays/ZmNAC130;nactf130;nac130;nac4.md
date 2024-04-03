@@ -8,7 +8,7 @@ tags: [ starch,transporter,endosperm,sucrose,sucrose transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb334180](https://www.maizegdb.org/gene_center/gene/Zm00001eb334180)
-- **Gene Symbol:** ZmNAC130;nactf130;nac130;nac4
+- **Gene Symbol:** <u>ZmNAC130</u>&nbsp;<u>nactf130</u>&nbsp;<u>nac130</u>&nbsp;<u>nac4</u>
 - **Gene Name:** NAC-transcription factor 130
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

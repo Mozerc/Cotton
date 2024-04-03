@@ -8,7 +8,7 @@ tags: [ leaf,leaf senescence,senescence,stress,heat stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb099470](https://www.maizegdb.org/gene_center/gene/Zm00001eb099470)
-- **Gene Symbol:** ZmbHLH69_2;bhlh88
+- **Gene Symbol:** <u>ZmbHLH69_2</u>&nbsp;<u>bhlh88</u>
 - **Gene Name:** bHLH-transcription factor 81
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

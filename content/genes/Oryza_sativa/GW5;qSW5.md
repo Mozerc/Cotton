@@ -9,7 +9,7 @@ tags: [cell division, grain width, flower, grain, yield, domestication, seed, br
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** GW5;qSW5
+- **Gene Symbol:** <u>GW5</u>&nbsp;<u>qSW5</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

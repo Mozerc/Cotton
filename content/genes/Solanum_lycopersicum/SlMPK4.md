@@ -8,7 +8,7 @@ tags: [ development,flower,pollen,pollen development,pollen wall,cell wall,signa
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** SlMPK4
+- **Gene Symbol:** <u>SlMPK4</u>
 - **Gene Name:** 
 - **Genome:** [](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -19,10 +19,10 @@ tags: [ development,flower,pollen,pollen development,pollen wall,cell wall,signa
    - **SlMPK4** plays a critical role in regulating pollen development and fruit development in tomato plants.
 
 ## Function-related keywords:
-   - [development](/tags/development/)&nbsp;,&nbsp;[flower](/tags/flower/)&nbsp;,&nbsp;[pollen](/tags/pollen/)&nbsp;,&nbsp;[pollen-development](/tags/pollen-development/)&nbsp;,&nbsp;[pollen-wall](/tags/pollen-wall/)&nbsp;,&nbsp;[cell-wall](/tags/cell-wall/)&nbsp;,&nbsp;[signal-transduction](/tags/signal-transduction/)&nbsp;,&nbsp;[flower-development](/tags/flower-development/)&nbsp;,&nbsp;[pollen-formation](/tags/pollen-formation/)
+   - [development](/tags/development/),&nbsp;&nbsp;[flower](/tags/flower/),&nbsp;&nbsp;[pollen](/tags/pollen/),&nbsp;&nbsp;[pollen-development](/tags/pollen-development/),&nbsp;&nbsp;[pollen-wall](/tags/pollen-wall/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[signal-transduction](/tags/signal-transduction/),&nbsp;&nbsp;[flower-development](/tags/flower-development/),&nbsp;&nbsp;[pollen-formation](/tags/pollen-formation/)
 
 ## Literature:
-   - [Mitogen-activated protein kinase 4 is obligatory for late pollen and early fruit development in tomato.]( https://academic.oup.com/hr/article/doi/10.1093/hr/uhac048/6548269?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhac048](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac048/6548269?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35591931](https://pubmed.ncbi.nlm.nih.gov/35591931/)
+   - [Mitogen-activated protein kinase 4 is obligatory for late pollen and early fruit development in tomato.]( https://academic.oup.com/hr/article/doi/10.1093/hr/uhac048/6548269?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhac048](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac048/6548269?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35591931](https://pubmed.ncbi.nlm.nih.gov/35591931/)
 
 ## Related News:
    - [浙江大学揭示SlMAPK4调控番茄花粉及果实发育的分子机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247538132&idx=6&sn=2fdff07677fd072787b35b55a9573878&chksm=e8bd27cadfcaaedca836ec569751a41d3d1d9f7c9e97450d1aa8980b0427472371ed1a784bf4&scene=27#wechat_redirect)

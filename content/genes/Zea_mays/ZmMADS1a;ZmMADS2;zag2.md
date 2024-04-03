@@ -8,7 +8,7 @@ tags: [ transcription factor,development,seed,starch,transcription regulator,see
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb138380](https://www.maizegdb.org/gene_center/gene/Zm00001eb138380)
-- **Gene Symbol:** ZmMADS1a;ZmMADS2;zag2
+- **Gene Symbol:** <u>ZmMADS1a</u>&nbsp;<u>ZmMADS2</u>&nbsp;<u>zag2</u>
 - **Gene Name:** Zea AGAMOUS homolog2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

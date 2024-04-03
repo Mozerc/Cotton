@@ -8,7 +8,7 @@ tags: [ embryo,somatic embryogenesis,callus,homeobox gene ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb148390](https://www.maizegdb.org/gene_center/gene/Zm00001eb148390)
-- **Gene Symbol:** ZmWOX2A;Wox2a
+- **Gene Symbol:** <u>ZmWOX2A</u>&nbsp;<u>Wox2a</u>
 - **Gene Name:** Wuschel-like homeobox protein 2a
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

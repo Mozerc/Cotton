@@ -8,7 +8,7 @@ tags: [ development,seed,seed development ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb072800](https://www.maizegdb.org/gene_center/gene/Zm00001eb072800)
-- **Gene Symbol:** DEK48
+- **Gene Symbol:** <u>DEK48</u>
 - **Gene Name:** DEFECTIVE KERNEL 48
 - **Genome:** [](https://www.maizegdb.org/genome/assembly/)
 - **Species:** *Zea mays*

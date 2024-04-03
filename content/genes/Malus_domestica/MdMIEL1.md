@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,tolerance,cold tolerance,cold stress,droug
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** MdMIEL1
+- **Gene Symbol:** <u>MdMIEL1</u>
 - **Gene Name:** Malus domestica MYB30-INTERACTING E3 LIGASE 1
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ drought,stress,drought stress,tolerance,cold tolerance,cold stress,droug
    - **MdMIEL1** has a negative effect on drought tolerance.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[cold-tolerance](/tags/cold-tolerance/)&nbsp;,&nbsp;[cold-stress](/tags/cold-stress/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[cold](/tags/cold/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)&nbsp;,&nbsp;[zinc](/tags/zinc/)&nbsp;,&nbsp;[stress-response](/tags/stress-response/)&nbsp;,&nbsp;[drought-stress-response](/tags/drought-stress-response/)&nbsp;,&nbsp;[drought-response](/tags/drought-response/)
+   - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[cold-tolerance](/tags/cold-tolerance/),&nbsp;&nbsp;[cold-stress](/tags/cold-stress/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[zinc](/tags/zinc/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/)
 
 ## Literature:
-   - [Zinc-finger protein MdBBX7/MdCOL9, a target of MdMIEL1 E3 ligase, confers drought tolerance in apple.]( https://academic.oup.com/plphys/article/188/1/540/6361660?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab420](https://academic.oup.com/plphys/article/188/1/540/6361660?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618120](https://pubmed.ncbi.nlm.nih.gov/34618120/)
+   - [Zinc-finger protein MdBBX7/MdCOL9, a target of MdMIEL1 E3 ligase, confers drought tolerance in apple.]( https://academic.oup.com/plphys/article/188/1/540/6361660?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiab420](https://academic.oup.com/plphys/article/188/1/540/6361660?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34618120](https://pubmed.ncbi.nlm.nih.gov/34618120/)
 
 ## Related News:
    - [Plant Physiology | 西北农林科技大学管清美教授课题组揭示MdMIEL1-MdBBX7赋予苹果耐旱性的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247516613&idx=5&sn=9ce78a8eb2fd86ff6fbdfd9baa659de4&chksm=ce902c90f9e7a5862d56ec7ed327db7231301f79e11438268412dd2a075ba4b15268147e0977&scene=27#wechat_redirect)

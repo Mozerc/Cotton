@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salinity,cold stress,abiotic stress,salicy
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb398970](https://www.maizegdb.org/gene_center/gene/Zm00001eb398970)
-- **Gene Symbol:** ZmCOI6.1
+- **Gene Symbol:** <u>ZmCOI6.1</u>
 - **Gene Name:** stress inducible protein coi6.1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

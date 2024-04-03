@@ -8,7 +8,7 @@ tags: [ resistance,disease,disease resistance,dwarf ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb349250](https://www.maizegdb.org/gene_center/gene/Zm00001eb349250)
-- **Gene Symbol:** ZmGDIα-hel;ZmGDIα;RabGDIα;gdi1
+- **Gene Symbol:** <u>ZmGDIα-hel</u>&nbsp;<u>ZmGDIα</u>&nbsp;<u>RabGDIα</u>&nbsp;<u>gdi1</u>
 - **Gene Name:** guanosine nucleotide diphosphate dissociation inhibitor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,development,seed,root development,root elongation,endosperm,seed de
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb254390](https://www.maizegdb.org/gene_center/gene/Zm00001eb254390)
-- **Gene Symbol:** Pin2;ZmPIN1b
+- **Gene Symbol:** <u>Pin2</u>&nbsp;<u>ZmPIN1b</u>
 - **Gene Name:** PIN-formed protein2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

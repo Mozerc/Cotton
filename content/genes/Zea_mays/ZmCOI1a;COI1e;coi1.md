@@ -8,7 +8,7 @@ tags: [ ja,immunity,ja signaling ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb147720](https://www.maizegdb.org/gene_center/gene/Zm00001eb147720)
-- **Gene Symbol:** ZmCOI1a;COI1e;coi1
+- **Gene Symbol:** <u>ZmCOI1a</u>&nbsp;<u>COI1e</u>&nbsp;<u>coi1</u>
 - **Gene Name:** coronatine insensitive1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

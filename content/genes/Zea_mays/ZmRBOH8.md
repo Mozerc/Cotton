@@ -8,7 +8,7 @@ tags: [ development,stress,cold stress,abiotic stress,cold,cell wall,stomatal,st
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb040550](https://www.maizegdb.org/gene_center/gene/Zm00001eb040550)
-- **Gene Symbol:** ZmRBOH8
+- **Gene Symbol:** <u>ZmRBOH8</u>
 - **Gene Name:** respiratory burst oxidase8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

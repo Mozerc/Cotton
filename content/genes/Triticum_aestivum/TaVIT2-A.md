@@ -8,7 +8,7 @@ tags: [ transporter,zinc,endosperm,manganese,iron,fe,as transport ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G203400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G203400)
-- **Gene Symbol:** TaVIT2-A
+- **Gene Symbol:** <u>TaVIT2-A</u>
 - **Gene Name:** VACUOLAR IRON TRANSPORTER 2
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

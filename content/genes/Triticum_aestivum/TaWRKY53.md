@@ -8,7 +8,7 @@ tags: [ resistance,rust resistance,rust ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G070400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G070400)
-- **Gene Symbol:** TaWRKY53
+- **Gene Symbol:** <u>TaWRKY53</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ chloroplast,seed,mitochondria,embryo,protoplasts ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb079410](https://www.maizegdb.org/gene_center/gene/Zm00001eb079410)
-- **Gene Symbol:** ZmPIMT2
+- **Gene Symbol:** <u>ZmPIMT2</u>
 - **Gene Name:** protein-L-isoaspartate methyltransferase2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

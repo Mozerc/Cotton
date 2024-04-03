@@ -8,7 +8,7 @@ tags: [ root,growth,stress,yield,root growth,stomatal,lateral root,stomatal dens
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7D02G501000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7D02G501000)
-- **Gene Symbol:** LRD
+- **Gene Symbol:** <u>LRD</u>
 - **Gene Name:** LATERAL ROOT DENSITY
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -9,7 +9,7 @@ tags: [resistance, disease, disease resistance, culm, cell wall, lodging, lodgin
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** Xa4
+- **Gene Symbol:** <u>Xa4</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

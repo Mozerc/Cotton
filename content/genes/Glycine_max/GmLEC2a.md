@@ -8,7 +8,7 @@ tags: [ seed,starch,transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.20G035700](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.20G035700)
-- **Gene Symbol:** GmLEC2a
+- **Gene Symbol:** <u>GmLEC2a</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ seed,starch,transporter ]
    - **GmLEC2a** Controls the Regulation of Lipid Transporters.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[starch](/tags/starch/)&nbsp;,&nbsp;[transporter](/tags/transporter/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[transporter](/tags/transporter/)
 
 ## Literature:
-   - [Soybean LEC2 Regulates Subsets of Genes Involved in Controlling the Biosynthesis and Catabolism of Seed Storage Substances and Seed Development.]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01604/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01604](https://www.frontiersin.org/articles/10.3389/fpls.2017.01604/full)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28979275](https://pubmed.ncbi.nlm.nih.gov/28979275/)
+   - [Soybean LEC2 Regulates Subsets of Genes Involved in Controlling the Biosynthesis and Catabolism of Seed Storage Substances and Seed Development.]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01604/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01604](https://www.frontiersin.org/articles/10.3389/fpls.2017.01604/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28979275](https://pubmed.ncbi.nlm.nih.gov/28979275/)
 
 ## Related News:
 

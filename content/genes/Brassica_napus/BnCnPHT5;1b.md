@@ -8,7 +8,7 @@ tags: [ seed,yield,floral,pi ]
 
 ## Gene Details:
 - **Gene ID:**	[BnaCnng51450D]()
-- **Gene Symbol:** BnCnPHT5;1b
+- **Gene Symbol:** <u>BnCnPHT5</u>&nbsp;<u>1b</u>
 - **Gene Name:** 
 - **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
@@ -19,10 +19,10 @@ tags: [ seed,yield,floral,pi ]
    - Highlight the importance of BnPHT5;**1b** proteins as vacuolar Pi influx transporters in cellular Pi homoeostasis in B. napus.
 
 ## Function-related keywords:
-   - [seed](/tags/seed/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[pi](/tags/pi/)
+   - [seed](/tags/seed/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[pi](/tags/pi/)
 
 ## Literature:
-   - [Identification of vacuolar phosphate influx transporters in Brassica napus.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14423)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14423](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14423)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35986580](https://pubmed.ncbi.nlm.nih.gov/35986580/)
+   - [Identification of vacuolar phosphate influx transporters in Brassica napus.]( https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14423)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14423](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.14423);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35986580](https://pubmed.ncbi.nlm.nih.gov/35986580/)
 
 ## Related News:
    - [华农大揭示油菜液泡磷转运子调控磷稳态的生物学机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247551401&idx=5&sn=14ef90e92cc643947751791741a5444c&chksm=e8bd7bb7dfcaf2a1ed878f3d8a1d065a75a9e5989ec4dda35b5d0c2058f60cf69498ebd858b3&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ leaf,brassinosteroid,br,drought,tolerance,nucleus,yield,drought toleranc
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.19g164600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.19g164600)
-- **Gene Symbol:** GmMYB14
+- **Gene Symbol:** <u>GmMYB14</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a2_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a2_v1)
 - **Species:** *Glycine max*
@@ -21,10 +21,10 @@ tags: [ leaf,brassinosteroid,br,drought,tolerance,nucleus,yield,drought toleranc
    - Overexpression of **GmMYB14** improves high-density yield and drought tolerance of soybean through regulating plant architecture mediated by the brassinosteroid pathway.
 
 ## Function-related keywords:
-   - [leaf](/tags/leaf/)&nbsp;,&nbsp;[brassinosteroid](/tags/brassinosteroid/)&nbsp;,&nbsp;[br](/tags/br/)&nbsp;,&nbsp;[drought](/tags/drought/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[nucleus](/tags/nucleus/)&nbsp;,&nbsp;[yield](/tags/yield/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[architecture](/tags/architecture/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[plant-architecture](/tags/plant-architecture/)&nbsp;,&nbsp;[leaf-angle](/tags/leaf-angle/)&nbsp;,&nbsp;[leaf-size](/tags/leaf-size/)
+   - [leaf](/tags/leaf/),&nbsp;&nbsp;[brassinosteroid](/tags/brassinosteroid/),&nbsp;&nbsp;[br](/tags/br/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[architecture](/tags/architecture/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[internode-length](/tags/internode-length/),&nbsp;&nbsp;[plant-architecture](/tags/plant-architecture/),&nbsp;&nbsp;[leaf-angle](/tags/leaf-angle/),&nbsp;&nbsp;[leaf-size](/tags/leaf-size/)
 
 ## Literature:
-   - [Overexpression of GmMYB14 improves high-density yield and drought tolerance of soybean through regulating plant architecture mediated by the brassinosteroid pathway.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13496)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13496](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13496)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098207](https://pubmed.ncbi.nlm.nih.gov/33098207/)
+   - [Overexpression of GmMYB14 improves high-density yield and drought tolerance of soybean through regulating plant architecture mediated by the brassinosteroid pathway.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13496)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13496](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13496);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33098207](https://pubmed.ncbi.nlm.nih.gov/33098207/)
 
 ## Related News:
    - [PBJ | 中国农业科学院油料作物研究所周新安课题组发现GmMYB14是调控大豆株型提高耐密植及耐旱性的重要基因](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247498971&idx=3&sn=6c755d94745eb993c3eeba2124d44179&chksm=ce90518ef9e7d898464e5f53861af7fe9ec355b82fd003a94f2bd39c1948dfe0b9a8e0c70011&scene=27#wechat_redirect)

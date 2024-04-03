@@ -8,7 +8,7 @@ tags: [ resistance,pathogen,viral resistance,pathogen resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.05g128200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.05g128200)
-- **Gene Symbol:** GmFLS2b
+- **Gene Symbol:** <u>GmFLS2b</u>
 - **Gene Name:** 
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -20,10 +20,10 @@ tags: [ resistance,pathogen,viral resistance,pathogen resistance ]
    - GmFLS2a and **GmFLS2b** might function redundantly in soybean.
 
 ## Function-related keywords:
-   - [resistance](/tags/resistance/)&nbsp;,&nbsp;[pathogen](/tags/pathogen/)&nbsp;,&nbsp;[viral-resistance](/tags/viral-resistance/)&nbsp;,&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
+   - [resistance](/tags/resistance/),&nbsp;&nbsp;[pathogen](/tags/pathogen/),&nbsp;&nbsp;[viral-resistance](/tags/viral-resistance/),&nbsp;&nbsp;[pathogen-resistance](/tags/pathogen-resistance/)
 
 ## Literature:
-   - [Silencing GmFLS2 enhances the susceptibility of soybean to bacterial pathogen through attenuating the activation of GmMAPK signaling pathway.]( https://www.sciencedirect.com/science/article/pii/S0168945219315596?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110386](https://www.sciencedirect.com/science/article/pii/S0168945219315596?via%3Dihub)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32005391](https://pubmed.ncbi.nlm.nih.gov/32005391/)
+   - [Silencing GmFLS2 enhances the susceptibility of soybean to bacterial pathogen through attenuating the activation of GmMAPK signaling pathway.]( https://www.sciencedirect.com/science/article/pii/S0168945219315596?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2019.110386](https://www.sciencedirect.com/science/article/pii/S0168945219315596?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32005391](https://pubmed.ncbi.nlm.nih.gov/32005391/)
 
 ## Related News:
 

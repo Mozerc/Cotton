@@ -8,7 +8,7 @@ tags: [ spikelet,grain,auxin,panicle,tiller,grain number,grain yield,yield,spike
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G095500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G095500)
-- **Gene Symbol:** TaPIN1-7B
+- **Gene Symbol:** <u>TaPIN1-7B</u>
 - **Gene Name:** 
 - **Genome:** [Description:	Down-expression of TaPIN1s Increases the Tiller Number and Grain Yield in Wheat.](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

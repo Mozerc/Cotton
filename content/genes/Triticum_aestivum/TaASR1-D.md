@@ -8,7 +8,7 @@ tags: [ resistance,stress,abiotic stress,aba,aba sensitivity ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4D02G109500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4D02G109500)
-- **Gene Symbol:** TaASR1-D
+- **Gene Symbol:** <u>TaASR1-D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

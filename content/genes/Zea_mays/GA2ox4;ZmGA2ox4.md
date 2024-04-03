@@ -8,7 +8,7 @@ tags: [ seedlings,stress,aba,chilling,chilling stress ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb247830](https://www.maizegdb.org/gene_center/gene/Zm00001eb247830)
-- **Gene Symbol:** GA2ox4;ZmGA2ox4
+- **Gene Symbol:** <u>GA2ox4</u>&nbsp;<u>ZmGA2ox4</u>
 - **Gene Name:** gibberellin 2-oxidase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,cuticle,ubiquitin,ubiquitin e3 ligase,cuticular wax
 
 ## Gene Details:
 - **Gene ID:**	[MD11G1131700]()
-- **Gene Symbol:** MdSIZ1
+- **Gene Symbol:** <u>MdSIZ1</u>
 - **Gene Name:** Malus domestica SAP AND MIZ1 DOMAIN CONTAINING LIGASE1
 - **Genome:** [Malus × domestica GDDH13 v1.1](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -20,10 +20,10 @@ tags: [ transcription factor,cuticle,ubiquitin,ubiquitin e3 ligase,cuticular wax
    - **MdSIZ1** promotes wax accumulation in a MdMYB30-dependent manner.
 
 ## Function-related keywords:
-   - [transcription-factor](/tags/transcription-factor/)&nbsp;,&nbsp;[cuticle](/tags/cuticle/)&nbsp;,&nbsp;[ubiquitin](/tags/ubiquitin/)&nbsp;,&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/)&nbsp;,&nbsp;[cuticular-wax-biosynthesis](/tags/cuticular-wax-biosynthesis/)&nbsp;,&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/)&nbsp;,&nbsp;[wax](/tags/wax/)
+   - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[cuticle](/tags/cuticle/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/),&nbsp;&nbsp;[cuticular-wax-biosynthesis](/tags/cuticular-wax-biosynthesis/),&nbsp;&nbsp;[wax-biosynthesis](/tags/wax-biosynthesis/),&nbsp;&nbsp;[wax](/tags/wax/)
 
 ## Literature:
-   - [Apple SUMO E3 ligase MdSIZ1 regulates cuticular wax biosynthesis by SUMOylating transcription factor MdMYB30.]( https://academic.oup.com/plphys/article/191/3/1771/6974531?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad007](https://academic.oup.com/plphys/article/191/3/1771/6974531?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36617241](https://pubmed.ncbi.nlm.nih.gov/36617241/)
+   - [Apple SUMO E3 ligase MdSIZ1 regulates cuticular wax biosynthesis by SUMOylating transcription factor MdMYB30.]( https://academic.oup.com/plphys/article/191/3/1771/6974531?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad007](https://academic.oup.com/plphys/article/191/3/1771/6974531?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36617241](https://pubmed.ncbi.nlm.nih.gov/36617241/)
 
 ## Related News:
    - [Plant Physiology | 山东农业大学李媛媛研究组揭示SUMO E3连接酶MdSIZ1调控苹果表皮蜡质合成的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247543887&idx=4&sn=c7afa2a399ed630eb1d1ccd041d60c46&chksm=ce90811af9e7080c044736610528aad855d26c7234ccda041e84464b2b8d7728531cf4229a10&scene=27#wechat_redirect)

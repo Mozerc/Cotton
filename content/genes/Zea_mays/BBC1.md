@@ -8,7 +8,7 @@ tags: [ leaf,cell division,leaf angle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb364190](https://www.maizegdb.org/gene_center/gene/Zm00001eb364190)
-- **Gene Symbol:** BBC1
+- **Gene Symbol:** <u>BBC1</u>
 - **Gene Name:** breast basic conserved homolog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

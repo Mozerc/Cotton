@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[MDP0000698835]()
-- **Gene Symbol:** MdMIPS1
+- **Gene Symbol:** <u>MdMIPS1</u>
 - **Gene Name:** 
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
@@ -21,10 +21,10 @@ tags: [ drought,stress,drought stress,tolerance,drought tolerance,stress toleran
    - **MdMIPS1**-mediated myo-inositol biosynthesis on drought tolerance and WUE in apple.
 
 ## Function-related keywords:
-   - [drought](/tags/drought/)&nbsp;,&nbsp;[stress](/tags/stress/)&nbsp;,&nbsp;[drought-stress](/tags/drought-stress/)&nbsp;,&nbsp;[tolerance](/tags/tolerance/)&nbsp;,&nbsp;[drought-tolerance](/tags/drought-tolerance/)&nbsp;,&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+   - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/)
 
 ## Literature:
-   - [Overexpression of MdMIPS1 enhances drought tolerance and water-use efficiency in apple]( https://www.sciencedirect.com/science/article/pii/S2095311921638224?via%3Dihub#ceack10)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[https://doi.org/10.1016/S2095-3119(21)63822-4](https://www.sciencedirect.com/science/article/pii/S2095311921638224?via%3Dihub#ceack10)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
+   - [Overexpression of MdMIPS1 enhances drought tolerance and water-use efficiency in apple]( https://www.sciencedirect.com/science/article/pii/S2095311921638224?via%3Dihub#ceack10)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[https://doi.org/10.1016/S2095-3119(21)63822-4](https://www.sciencedirect.com/science/article/pii/S2095311921638224?via%3Dihub#ceack10);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[](https://pubmed.ncbi.nlm.nih.gov//)
 
 ## Related News:
    - [JIA | 西北农林科技大学马锋旺教授团队关于苹果肌醇在干旱胁迫中的功能研究](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247531942&idx=5&sn=6a45acf1ad1ae49946685e1647fb90d7&chksm=ce90d0f3f9e759e563ba5a8cd70b0d8f599dc8ea81baf41314f85ed114925cba1be9c5dc96dd&scene=27#wechat_redirect)

@@ -8,7 +8,7 @@ tags: [ kinase,grain,grain length,grain number,grain yield,yield,meristem,inflor
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb273900](https://www.maizegdb.org/gene_center/gene/Zm00001eb273900)
-- **Gene Symbol:** KNR6
+- **Gene Symbol:** <u>KNR6</u>
 - **Gene Name:** KERNEL NUMBER PER ROW6
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

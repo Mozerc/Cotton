@@ -8,7 +8,7 @@ tags: [ leaf,stem,shoot,vegetative,reproductive,leaf angle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb147220](https://www.maizegdb.org/gene_center/gene/Zm00001eb147220)
-- **Gene Symbol:** ZmLG2;ZmbZIP11;ZmTGA9-2;lg2
+- **Gene Symbol:** <u>ZmLG2</u>&nbsp;<u>ZmbZIP11</u>&nbsp;<u>ZmTGA9-2</u>&nbsp;<u>lg2</u>
 - **Gene Name:** liguleless2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

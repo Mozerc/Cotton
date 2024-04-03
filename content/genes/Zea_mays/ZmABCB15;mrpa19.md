@@ -8,7 +8,7 @@ tags: [ seedlings,stem,root,auxin,resistance,homeostasis,transporter,dwarf,auxin
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb172740](https://www.maizegdb.org/gene_center/gene/Zm00001eb172740)
-- **Gene Symbol:** ZmABCB15;mrpa19
+- **Gene Symbol:** <u>ZmABCB15</u>&nbsp;<u>mrpa19</u>
 - **Gene Name:** multidrug resistance protein associated19
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

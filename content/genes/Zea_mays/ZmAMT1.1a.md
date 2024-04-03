@@ -8,7 +8,7 @@ tags: [ root,epidermis ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb426350](https://www.maizegdb.org/gene_center/gene/Zm00001eb426350)
-- **Gene Symbol:** ZmAMT1.1a
+- **Gene Symbol:** <u>ZmAMT1.1a</u>
 - **Gene Name:** ammonium transporter1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

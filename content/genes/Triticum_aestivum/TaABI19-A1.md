@@ -8,7 +8,7 @@ tags: [ development,grain,nucleus,transcriptional activator ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1A02G329900](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1A02G329900)
-- **Gene Symbol:** TaABI19-A1
+- **Gene Symbol:** <u>TaABI19-A1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

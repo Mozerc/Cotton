@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS4A02G418200](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS4A02G418200)
-- **Gene Symbol:** Wx-B1
+- **Gene Symbol:** <u>Wx-B1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

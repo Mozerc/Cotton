@@ -8,7 +8,7 @@ tags: [ lignin ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb202770](https://www.maizegdb.org/gene_center/gene/Zm00001eb202770)
-- **Gene Symbol:** ZmMYB42
+- **Gene Symbol:** <u>ZmMYB42</u>
 - **Gene Name:** myb transcription factor 42
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

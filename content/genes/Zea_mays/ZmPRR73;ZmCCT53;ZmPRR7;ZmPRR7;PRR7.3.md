@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb397240](https://www.maizegdb.org/gene_center/gene/Zm00001eb397240)
-- **Gene Symbol:** ZmPRR73;ZmCCT53;ZmPRR7;ZmPRR7;PRR7.3
+- **Gene Symbol:** <u>ZmPRR73</u>&nbsp;<u>ZmCCT53</u>&nbsp;<u>ZmPRR7</u>&nbsp;<u>ZmPRR7</u>&nbsp;<u>PRR7.3</u>
 - **Gene Name:** pseudo-response regulator transcription factor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

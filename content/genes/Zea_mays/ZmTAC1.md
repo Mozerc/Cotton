@@ -8,7 +8,7 @@ tags: [ leaf,root,development,leaf development,shoot,plant development,sheath,ro
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb103250](https://www.maizegdb.org/gene_center/gene/Zm00001eb103250)
-- **Gene Symbol:** ZmTAC1
+- **Gene Symbol:** <u>ZmTAC1</u>
 - **Gene Name:** tiller angle control1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

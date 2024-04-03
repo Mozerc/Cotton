@@ -8,7 +8,7 @@ tags: [ root,growth,shoot,resistance,ja,root growth,plant growth,jasmonic,jasmon
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A03G0999600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A03G0999600)
-- **Gene Symbol:** TaOPR3
+- **Gene Symbol:** <u>TaOPR3</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

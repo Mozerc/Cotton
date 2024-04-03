@@ -8,7 +8,7 @@ tags: [ resistance,defense,pathogen,lesion,pathogen resistance ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb299250](https://www.maizegdb.org/gene_center/gene/Zm00001eb299250)
-- **Gene Symbol:** ZmPSK1
+- **Gene Symbol:** <u>ZmPSK1</u>
 - **Gene Name:** phytosulfokine peptide precursor1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

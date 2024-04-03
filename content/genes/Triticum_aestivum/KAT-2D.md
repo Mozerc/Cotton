@@ -8,7 +8,7 @@ tags: [ grain,grain yield,ja,yield,grain weight,sucrose,ja biosynthesis ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6D02G493900LC](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6D02G493900LC)
-- **Gene Symbol:** KAT-2D
+- **Gene Symbol:** <u>KAT-2D</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

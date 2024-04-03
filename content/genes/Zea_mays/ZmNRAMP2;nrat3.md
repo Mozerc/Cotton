@@ -8,7 +8,7 @@ tags: [ xylem,root,growth,shoot,stress,root growth,plant growth,xylem parenchyma
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb400560](https://www.maizegdb.org/gene_center/gene/Zm00001eb400560)
-- **Gene Symbol:** ZmNRAMP2;nrat3
+- **Gene Symbol:** <u>ZmNRAMP2</u>&nbsp;<u>nrat3</u>
 - **Gene Name:** nramp aluminum transporter3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

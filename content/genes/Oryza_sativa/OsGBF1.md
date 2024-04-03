@@ -9,7 +9,7 @@ tags: [salinity, salt, tolerance, salt stress, stress, salinity stress, stress t
 ## Gene Details:
 - **MSU gene ID:** None  
 - **RAPdb gene ID:** None  
-- **Gene Symbol:** OsGBF1
+- **Gene Symbol:** <u>OsGBF1</u>
 - **Gene Name:**
 - **Genome:**  [MSU7](http://rice.uga.edu/),&nbsp;&nbsp;[IRGSP-1.0](https://rapdb.dna.affrc.go.jp/download/irgsp1.html)
 - **Species:** *Oryza sativa*

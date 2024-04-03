@@ -8,7 +8,7 @@ tags: [ drought,aba ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6B02G383800](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6B02G383800)
-- **Gene Symbol:** TaRAB21-6B
+- **Gene Symbol:** <u>TaRAB21-6B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

@@ -8,7 +8,7 @@ tags: [ oxidative,reactive oxygen species ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb408280](https://www.maizegdb.org/gene_center/gene/Zm00001eb408280)
-- **Gene Symbol:** ZmAPX6;ZmAPX;apx11
+- **Gene Symbol:** <u>ZmAPX6</u>&nbsp;<u>ZmAPX</u>&nbsp;<u>apx11</u>
 - **Gene Name:** ascorbate peroxidase11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

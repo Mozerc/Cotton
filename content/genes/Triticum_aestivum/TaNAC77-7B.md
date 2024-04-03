@@ -8,7 +8,7 @@ tags: [ ssp ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS7B02G056300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7B02G056300)
-- **Gene Symbol:** TaNAC77-7B
+- **Gene Symbol:** <u>TaNAC77-7B</u>
 - **Gene Name:** NAC domain protein 77
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

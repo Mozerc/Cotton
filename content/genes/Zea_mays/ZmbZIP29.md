@@ -8,7 +8,7 @@ tags: [ grain,starch,grain yield,grain filling,yield,aba,endosperm,abscisic acid
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb061930](https://www.maizegdb.org/gene_center/gene/Zm00001eb061930)
-- **Gene Symbol:** ZmbZIP29
+- **Gene Symbol:** <u>ZmbZIP29</u>
 - **Gene Name:** Zipper 29
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb203330](https://www.maizegdb.org/gene_center/gene/Zm00001eb203330)
-- **Gene Symbol:** ZmCBL4;ZmCBL8;cbl8
+- **Gene Symbol:** <u>ZmCBL4</u>&nbsp;<u>ZmCBL8</u>&nbsp;<u>cbl8</u>
 - **Gene Name:** calcineurin B-like8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

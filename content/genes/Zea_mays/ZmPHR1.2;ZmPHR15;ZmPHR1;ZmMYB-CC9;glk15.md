@@ -8,7 +8,7 @@ tags: [ nitrogen,transporter,phosphate,phosphorus,amino acid transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb306220](https://www.maizegdb.org/gene_center/gene/Zm00001eb306220)
-- **Gene Symbol:** ZmPHR1.2;ZmPHR15;ZmPHR1;ZmMYB-CC9;glk15
+- **Gene Symbol:** <u>ZmPHR1.2</u>&nbsp;<u>ZmPHR15</u>&nbsp;<u>ZmPHR1</u>&nbsp;<u>ZmMYB-CC9</u>&nbsp;<u>glk15</u>
 - **Gene Name:** G2-like-transcription factor 15
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

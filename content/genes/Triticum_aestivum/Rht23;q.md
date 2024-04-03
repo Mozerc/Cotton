@@ -8,7 +8,7 @@ tags: [ dwarf,height,plant height,spike,free-threshing,spike compactness ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5D02G486600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5D02G486600)
-- **Gene Symbol:** Rht23;q
+- **Gene Symbol:** <u>Rht23</u>&nbsp;<u>q</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

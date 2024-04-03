@@ -8,7 +8,7 @@ tags: [ kinase,resistance,cell death,pathogen,cell wall,protein kinase,programme
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1B02G004100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1B02G004100)
-- **Gene Symbol:** Snn1
+- **Gene Symbol:** <u>Snn1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

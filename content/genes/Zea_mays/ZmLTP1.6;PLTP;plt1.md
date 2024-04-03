@@ -8,7 +8,7 @@ tags: [ seed ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb406100](https://www.maizegdb.org/gene_center/gene/Zm00001eb406100)
-- **Gene Symbol:** ZmLTP1.6;PLTP;plt1
+- **Gene Symbol:** <u>ZmLTP1.6</u>&nbsp;<u>PLTP</u>&nbsp;<u>plt1</u>
 - **Gene Name:** phospholipid transfer protein homolog1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

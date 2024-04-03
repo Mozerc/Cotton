@@ -8,7 +8,7 @@ tags: [ starch,endosperm ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS6A02G287400](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS6A02G287400)
-- **Gene Symbol:** TaNF-YB1
+- **Gene Symbol:** <u>TaNF-YB1</u>
 - **Gene Name:** nuclear factor Y (NF-Y) transcription factor B1
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

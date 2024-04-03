@@ -8,7 +8,7 @@ tags: [ drought,stress,drought stress,salt,cold stress,abiotic stress,salt stres
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb023880](https://www.maizegdb.org/gene_center/gene/Zm00001eb023880)
-- **Gene Symbol:** ZmSnRK2.1;ZmSnRK2.3;snrkII3
+- **Gene Symbol:** <u>ZmSnRK2.1</u>&nbsp;<u>ZmSnRK2.3</u>&nbsp;<u>snrkII3</u>
 - **Gene Name:** SnRK2 serine threonine protein kinase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ transcription factor,fertility,sterility,sterile,tapetal,male sterility,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb208200](https://www.maizegdb.org/gene_center/gene/Zm00001eb208200)
-- **Gene Symbol:** BHLH51;ZmbHLH51
+- **Gene Symbol:** <u>BHLH51</u>&nbsp;<u>ZmbHLH51</u>
 - **Gene Name:** bHLH-transcription factor 51
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

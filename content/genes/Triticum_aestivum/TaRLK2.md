@@ -8,7 +8,7 @@ tags: [ resistance,oxidative,breeding,defence,defence response,powdery mildew,mi
 
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
-- **Gene Symbol:** TaRLK2
+- **Gene Symbol:** <u>TaRLK2</u>
 - **Gene Name:** Receptor-like kinase 2
 - **Genome:** [IWGSC reference sequence v1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

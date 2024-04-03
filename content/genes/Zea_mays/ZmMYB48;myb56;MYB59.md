@@ -8,7 +8,7 @@ tags: [ seedlings,drought,stress,drought stress,tolerance,aba,drought tolerance,
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb028820](https://www.maizegdb.org/gene_center/gene/Zm00001eb028820)
-- **Gene Symbol:** ZmMYB48;myb56;MYB59
+- **Gene Symbol:** <u>ZmMYB48</u>&nbsp;<u>myb56</u>&nbsp;<u>MYB59</u>
 - **Gene Name:** MYB-transcription factor 56
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

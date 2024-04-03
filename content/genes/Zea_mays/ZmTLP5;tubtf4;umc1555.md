@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb076160](https://www.maizegdb.org/gene_center/gene/Zm00001eb076160)
-- **Gene Symbol:** ZmTLP5;tubtf4;umc1555
+- **Gene Symbol:** <u>ZmTLP5</u>&nbsp;<u>tubtf4</u>&nbsp;<u>umc1555</u>
 - **Gene Name:** TUB-transcription factor 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

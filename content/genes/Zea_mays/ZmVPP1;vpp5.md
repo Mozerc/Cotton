@@ -8,7 +8,7 @@ tags: [ root,growth,development,drought,photosynthesis,tolerance,drought toleran
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb387010](https://www.maizegdb.org/gene_center/gene/Zm00001eb387010)
-- **Gene Symbol:** ZmVPP1;vpp5
+- **Gene Symbol:** <u>ZmVPP1</u>&nbsp;<u>vpp5</u>
 - **Gene Name:** vacuolar-type H+-pyrophosphatase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

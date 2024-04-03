@@ -8,7 +8,7 @@ tags: [ winter hardiness ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS5A02G311600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS5A02G311600)
-- **Gene Symbol:** CBF-A12
+- **Gene Symbol:** <u>CBF-A12</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

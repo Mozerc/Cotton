@@ -8,7 +8,7 @@ tags: [ kinase,aba,protein kinase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb163480](https://www.maizegdb.org/gene_center/gene/Zm00001eb163480)
-- **Gene Symbol:** ZmCIPK44
+- **Gene Symbol:** <u>ZmCIPK44</u>
 - **Gene Name:** calcineurin B-like-interacting protein kinase44
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

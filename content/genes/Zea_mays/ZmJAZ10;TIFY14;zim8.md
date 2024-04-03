@@ -8,7 +8,7 @@ tags: [ jasmonate,defense ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb087540](https://www.maizegdb.org/gene_center/gene/Zm00001eb087540)
-- **Gene Symbol:** ZmJAZ10;TIFY14;zim8
+- **Gene Symbol:** <u>ZmJAZ10</u>&nbsp;<u>TIFY14</u>&nbsp;<u>zim8</u>
 - **Gene Name:** ZIM-transcription factor 8
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

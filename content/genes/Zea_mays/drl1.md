@@ -8,7 +8,7 @@ tags: [ development,floral,meristem,floral meristem,floral meristem determinacy 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb008680](https://www.maizegdb.org/gene_center/gene/Zm00001eb008680)
-- **Gene Symbol:** Drl1
+- **Gene Symbol:** <u>Drl1</u>
 - **Gene Name:** drooping leaf1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

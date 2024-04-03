@@ -8,7 +8,7 @@ tags: [ transcription factor,drought,tolerance,drought tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS2B02G417500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS2B02G417500)
-- **Gene Symbol:** TaDTG6-B
+- **Gene Symbol:** <u>TaDTG6-B</u>
 - **Gene Name:** DREB Transcription Factor 6
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

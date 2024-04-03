@@ -8,7 +8,7 @@ tags: [ stress,quality,abiotic stress,breeding,phosphatase,protein phosphatase ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb374920](https://www.maizegdb.org/gene_center/gene/Zm00001eb374920)
-- **Gene Symbol:** ZmPP134;dbptf3
+- **Gene Symbol:** <u>ZmPP134</u>&nbsp;<u>dbptf3</u>
 - **Gene Name:** DBP-transcription factor 3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ development,grain,grain number,starch,grain yield,yield,grain weight,end
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb268250](https://www.maizegdb.org/gene_center/gene/Zm00001eb268250)
-- **Gene Symbol:** ZmDA1;limtf11
+- **Gene Symbol:** <u>ZmDA1</u>&nbsp;<u>limtf11</u>
 - **Gene Name:** LIM-transcription factor 11
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

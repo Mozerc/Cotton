@@ -8,7 +8,7 @@ tags: [ growth,stress,salt,salt stress,plant growth,cell elongation,stress respo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb306350](https://www.maizegdb.org/gene_center/gene/Zm00001eb306350)
-- **Gene Symbol:** ZmEXPB2;EXPB2;expb4
+- **Gene Symbol:** <u>ZmEXPB2</u>&nbsp;<u>EXPB2</u>&nbsp;<u>expb4</u>
 - **Gene Name:** beta expansin4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

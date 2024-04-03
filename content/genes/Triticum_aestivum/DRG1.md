@@ -8,7 +8,7 @@ tags: [ grain,grain length,br,height,plant height,grain shape,grain protein,acti
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS1D02G020000](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS1D02G020000)
-- **Gene Symbol:** DRG1
+- **Gene Symbol:** <u>DRG1</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

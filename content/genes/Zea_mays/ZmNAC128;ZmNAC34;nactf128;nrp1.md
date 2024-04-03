@@ -8,7 +8,7 @@ tags: [ starch,transporter,endosperm,sucrose,sucrose transporter ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb126890](https://www.maizegdb.org/gene_center/gene/Zm00001eb126890)
-- **Gene Symbol:** ZmNAC128;ZmNAC34;nactf128;nrp1
+- **Gene Symbol:** <u>ZmNAC128</u>&nbsp;<u>ZmNAC34</u>&nbsp;<u>nactf128</u>&nbsp;<u>nrp1</u>
 - **Gene Name:** no-apical-meristem-related protein1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

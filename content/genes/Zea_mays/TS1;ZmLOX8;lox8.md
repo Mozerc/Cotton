@@ -8,7 +8,7 @@ tags: [ inflorescence,jasmonic,jasmonic acid,plastid ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb081610](https://www.maizegdb.org/gene_center/gene/Zm00001eb081610)
-- **Gene Symbol:** TS1;ZmLOX8;lox8
+- **Gene Symbol:** <u>TS1</u>&nbsp;<u>ZmLOX8</u>&nbsp;<u>lox8</u>
 - **Gene Name:** tasselseed1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

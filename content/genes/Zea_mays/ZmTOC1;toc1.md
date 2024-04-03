@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb184870](https://www.maizegdb.org/gene_center/gene/Zm00001eb184870)
-- **Gene Symbol:** ZmTOC1;toc1
+- **Gene Symbol:** <u>ZmTOC1</u>&nbsp;<u>toc1</u>
 - **Gene Name:** timing of cab expression1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

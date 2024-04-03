@@ -8,7 +8,7 @@ tags: [ leaf,stress,down-regulated genes,phosphate,stress response,pi,phosphate 
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb433040](https://www.maizegdb.org/gene_center/gene/Zm00001eb433040)
-- **Gene Symbol:** ZmPHR18;glk52;php20568a;ZmMYB-CC12
+- **Gene Symbol:** <u>ZmPHR18</u>&nbsp;<u>glk52</u>&nbsp;<u>php20568a</u>&nbsp;<u>ZmMYB-CC12</u>
 - **Gene Name:** G2-like-transcription factor 52
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

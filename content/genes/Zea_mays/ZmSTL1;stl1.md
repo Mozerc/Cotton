@@ -8,7 +8,7 @@ tags: [ salt,lignin,casparian strip ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb056600](https://www.maizegdb.org/gene_center/gene/Zm00001eb056600)
-- **Gene Symbol:** ZmSTL1;stl1
+- **Gene Symbol:** <u>ZmSTL1</u>&nbsp;<u>stl1</u>
 - **Gene Name:** Salt-Tolerant Locus 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

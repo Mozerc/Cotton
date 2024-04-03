@@ -8,7 +8,7 @@ tags: [ homeostasis,cell wall,stomatal,cellulose,glycosylation,cell wall synthes
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb016850](https://www.maizegdb.org/gene_center/gene/Zm00001eb016850)
-- **Gene Symbol:** BZU3;zb9;ZmNHL31.1
+- **Gene Symbol:** <u>BZU3</u>&nbsp;<u>zb9</u>&nbsp;<u>ZmNHL31.1</u>
 - **Gene Name:** zebra crossbands9
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

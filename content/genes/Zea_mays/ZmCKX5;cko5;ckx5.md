@@ -8,7 +8,7 @@ tags: [ root,development,seed,root development,lateral root,seed development,roo
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb337910](https://www.maizegdb.org/gene_center/gene/Zm00001eb337910)
-- **Gene Symbol:** ZmCKX5;cko5;ckx5
+- **Gene Symbol:** <u>ZmCKX5</u>&nbsp;<u>cko5</u>&nbsp;<u>ckx5</u>
 - **Gene Name:** cytokinin oxidase 5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

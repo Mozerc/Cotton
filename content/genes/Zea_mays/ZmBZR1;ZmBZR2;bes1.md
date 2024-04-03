@@ -8,7 +8,7 @@ tags: [ leaf,resistant,leaf angle ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb325550](https://www.maizegdb.org/gene_center/gene/Zm00001eb325550)
-- **Gene Symbol:** ZmBZR1;ZmBZR2;bes1
+- **Gene Symbol:** <u>ZmBZR1</u>&nbsp;<u>ZmBZR2</u>&nbsp;<u>bes1</u>
 - **Gene Name:** Brassinazole Resistant 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ root,development,root development,zinc,cell cycle,lateral root ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb386220](https://www.maizegdb.org/gene_center/gene/Zm00001eb386220)
-- **Gene Symbol:** ZmHO-1;HO1;elm2
+- **Gene Symbol:** <u>ZmHO-1</u>&nbsp;<u>HO1</u>&nbsp;<u>elm2</u>
 - **Gene Name:** elongated mesocotyl2
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

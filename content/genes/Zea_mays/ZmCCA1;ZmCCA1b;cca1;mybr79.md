@@ -8,7 +8,7 @@ tags: [ flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb172450](https://www.maizegdb.org/gene_center/gene/Zm00001eb172450)
-- **Gene Symbol:** ZmCCA1;ZmCCA1b;cca1;mybr79
+- **Gene Symbol:** <u>ZmCCA1</u>&nbsp;<u>ZmCCA1b</u>&nbsp;<u>cca1</u>&nbsp;<u>mybr79</u>
 - **Gene Name:** circadian clock associated1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

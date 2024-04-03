@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb219580](https://www.maizegdb.org/gene_center/gene/Zm00001eb219580)
-- **Gene Symbol:** ZmFCL;ftcl3;GFT1
+- **Gene Symbol:** <u>ZmFCL</u>&nbsp;<u>ftcl3</u>&nbsp;<u>GFT1</u>
 - **Gene Name:** 5-formyltetrahydrofolate cyclo-ligase3
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

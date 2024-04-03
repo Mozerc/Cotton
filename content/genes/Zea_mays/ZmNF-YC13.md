@@ -8,7 +8,7 @@ tags: [ leaf,transcription factor,growth,architecture,plant growth,plant archite
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001d046967](https://www.maizegdb.org/gene_center/gene/Zm00001d046967)
-- **Gene Symbol:** ZmNF-YC13
+- **Gene Symbol:** <u>ZmNF-YC13</u>
 - **Gene Name:** CCAAT-HAP5-transcription factor 57
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

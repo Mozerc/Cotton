@@ -8,7 +8,7 @@ tags: [ development,plant development,fertility,pollen,anther,stress,seed,seed g
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb272750](https://www.maizegdb.org/gene_center/gene/Zm00001eb272750)
-- **Gene Symbol:** ZmLTP2.5;plt16
+- **Gene Symbol:** <u>ZmLTP2.5</u>&nbsp;<u>plt16</u>
 - **Gene Name:** phospholipid transfer protein16
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ nitrogen,growth,br,yield,plant growth,biomass,biomass production ]
 
 ## Gene Details:
 - **Gene ID:**	[TraesCS3B02G586500](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS3B02G586500)
-- **Gene Symbol:** TaDWF4-3B
+- **Gene Symbol:** <u>TaDWF4-3B</u>
 - **Gene Name:** 
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*

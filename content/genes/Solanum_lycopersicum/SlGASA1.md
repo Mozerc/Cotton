@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Solyc02g089350]()
-- **Gene Symbol:** SlGASA1
+- **Gene Symbol:** <u>SlGASA1</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
 - **Species:** *Solanum lycopersicum*
@@ -22,7 +22,7 @@ tags: [  ]
    - [](/tags//)
 
 ## Literature:
-   - [Genome-wide characterization of the tomato GASA family identifies SlGASA1 as a repressor of fruit ripening.]( https://academic.oup.com/hr/article/10/1/uhac222/6726627?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhac222](https://academic.oup.com/hr/article/10/1/uhac222/6726627?login=true)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36643743](https://pubmed.ncbi.nlm.nih.gov/36643743/)
+   - [Genome-wide characterization of the tomato GASA family identifies SlGASA1 as a repressor of fruit ripening.]( https://academic.oup.com/hr/article/10/1/uhac222/6726627?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhac222](https://academic.oup.com/hr/article/10/1/uhac222/6726627?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36643743](https://pubmed.ncbi.nlm.nih.gov/36643743/)
 
 ## Related News:
    - [四川大学刘明春课题组发现赤霉素响应基因SlGASA1抑制番茄果实成熟的分子机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247556106&idx=4&sn=d50c7d1c189847aa3c5ac6c9277412e3&chksm=e8bd6e14dfcae702a2a81bbfd646d59d7d85629c252644cc47c216c4ea7f211af8d217c4d63f&scene=27#wechat_redirect)

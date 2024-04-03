@@ -8,7 +8,7 @@ tags: [ starch,phosphate ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb192680](https://www.maizegdb.org/gene_center/gene/Zm00001eb192680)
-- **Gene Symbol:** ZmTPS9;trps10;TPSII.5.3
+- **Gene Symbol:** <u>ZmTPS9</u>&nbsp;<u>trps10</u>&nbsp;<u>TPSII.5.3</u>
 - **Gene Name:** trehalose-6-phosphate synthase10
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

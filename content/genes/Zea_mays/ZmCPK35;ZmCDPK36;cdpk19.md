@@ -8,7 +8,7 @@ tags: [ drought,tolerance,yield,aba,drought tolerance,stomatal,plasma membrane ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb324690](https://www.maizegdb.org/gene_center/gene/Zm00001eb324690)
-- **Gene Symbol:** ZmCPK35;ZmCDPK36;cdpk19
+- **Gene Symbol:** <u>ZmCPK35</u>&nbsp;<u>ZmCDPK36</u>&nbsp;<u>cdpk19</u>
 - **Gene Name:** calcium dependent protein kinase19
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

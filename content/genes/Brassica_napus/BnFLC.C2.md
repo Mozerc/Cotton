@@ -8,7 +8,7 @@ tags: [ breeding,flowering time,flowering ]
 
 ## Gene Details:
 - **Gene ID:**	[BnaC02g00490D]()
-- **Gene Symbol:** BnFLC.C2
+- **Gene Symbol:** <u>BnFLC.C2</u>
 - **Gene Name:** 
 - **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
@@ -19,10 +19,10 @@ tags: [ breeding,flowering time,flowering ]
    - BnaA02g00370D (hereafter as BnFLC.A2) and BnaC02g00490D (hereafter as **BnFLC.C2**) are most likely to be the target genes of qFlowering Time-A2 and qFlowering Time-C2.
 
 ## Function-related keywords:
-   - [breeding](/tags/breeding/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[flowering](/tags/flowering/)
+   - [breeding](/tags/breeding/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/)
 
 ## Literature:
-   - [A 2.833-kb Insertion in BnFLC.A2 and Its Homeologous Exchange with BnFLC.C2 during Breeding Selection Generated Early-Flowering Rapeseed.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30299-X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.09.020](https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30299-X)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29024744](https://pubmed.ncbi.nlm.nih.gov/29024744/)
+   - [A 2.833-kb Insertion in BnFLC.A2 and Its Homeologous Exchange with BnFLC.C2 during Breeding Selection Generated Early-Flowering Rapeseed.]( https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30299-X)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2017.09.020](https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30299-X);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29024744](https://pubmed.ncbi.nlm.nih.gov/29024744/)
 
 ## Related News:
 

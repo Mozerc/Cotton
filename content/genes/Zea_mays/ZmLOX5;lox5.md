@@ -8,7 +8,7 @@ tags: [ leaf,resistance,ja,defense,aba,insect,wounding,insect resistance,ja sign
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb216870](https://www.maizegdb.org/gene_center/gene/Zm00001eb216870)
-- **Gene Symbol:** ZmLOX5;lox5
+- **Gene Symbol:** <u>ZmLOX5</u>&nbsp;<u>lox5</u>
 - **Gene Name:** lipoxygenase5
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

@@ -8,7 +8,7 @@ tags: [ stem,development,shoot,plant development,floral,stamen,ga,floral organ,h
 
 ## Gene Details:
 - **Gene ID:**	[Glyma.16G091300](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.16G091300)
-- **Gene Symbol:** GmAP1a
+- **Gene Symbol:** <u>GmAP1a</u>
 - **Gene Name:** APETALA1
 - **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
 - **Species:** *Glycine max*
@@ -22,10 +22,10 @@ tags: [ stem,development,shoot,plant development,floral,stamen,ga,floral organ,h
    - GmAP1 regulates the GA metabolic pathway to control internode length.
 
 ## Function-related keywords:
-   - [stem](/tags/stem/)&nbsp;,&nbsp;[development](/tags/development/)&nbsp;,&nbsp;[shoot](/tags/shoot/)&nbsp;,&nbsp;[plant-development](/tags/plant-development/)&nbsp;,&nbsp;[floral](/tags/floral/)&nbsp;,&nbsp;[stamen](/tags/stamen/)&nbsp;,&nbsp;[ga](/tags/ga/)&nbsp;,&nbsp;[floral-organ](/tags/floral-organ/)&nbsp;,&nbsp;[height](/tags/height/)&nbsp;,&nbsp;[plant-height](/tags/plant-height/)&nbsp;,&nbsp;[flowering-time](/tags/flowering-time/)&nbsp;,&nbsp;[internode-length](/tags/internode-length/)&nbsp;,&nbsp;[flowering](/tags/flowering/)&nbsp;,&nbsp;[floral-organ-number](/tags/floral-organ-number/)&nbsp;,&nbsp;[node](/tags/node/)&nbsp;,&nbsp;[stamen-number](/tags/stamen-number/)&nbsp;,&nbsp;[floral-organ-number-control](/tags/floral-organ-number-control/)&nbsp;,&nbsp;[internode-development](/tags/internode-development/)
+   - [stem](/tags/stem/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[shoot](/tags/shoot/),&nbsp;&nbsp;[plant-development](/tags/plant-development/),&nbsp;&nbsp;[floral](/tags/floral/),&nbsp;&nbsp;[stamen](/tags/stamen/),&nbsp;&nbsp;[ga](/tags/ga/),&nbsp;&nbsp;[floral-organ](/tags/floral-organ/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[internode-length](/tags/internode-length/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[floral-organ-number](/tags/floral-organ-number/),&nbsp;&nbsp;[node](/tags/node/),&nbsp;&nbsp;[stamen-number](/tags/stamen-number/),&nbsp;&nbsp;[floral-organ-number-control](/tags/floral-organ-number-control/),&nbsp;&nbsp;[internode-development](/tags/internode-development/)
 
 ## Literature:
-   - [Soybean AP1 homologs control flowering time and plant height.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12988)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12988](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12988)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32619080](https://pubmed.ncbi.nlm.nih.gov/32619080/)
+   - [Soybean AP1 homologs control flowering time and plant height.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12988)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12988](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12988);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32619080](https://pubmed.ncbi.nlm.nih.gov/32619080/)
 
 ## Related News:
    - [JIPB | 广州大学孔凡江/刘宝辉团队在大豆AP1基因功能研究方面取得新进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247491932&idx=3&sn=e95ffb9437116812b76d87481d398c1f&chksm=ce904c09f9e7c51f4771f95cad389c230986b62b896497b308a2e995aa84e48f9899ad8c3162&scene=27#wechat_redirect)

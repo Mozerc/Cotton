@@ -8,7 +8,7 @@ tags: [ nucleus,cytokinin,cytokinin response,cytosol ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb362820](https://www.maizegdb.org/gene_center/gene/Zm00001eb362820)
-- **Gene Symbol:** ZmRR4;gpm84;crr4
+- **Gene Symbol:** <u>ZmRR4</u>&nbsp;<u>gpm84</u>&nbsp;<u>crr4</u>
 - **Gene Name:** cytokinin response regulator4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

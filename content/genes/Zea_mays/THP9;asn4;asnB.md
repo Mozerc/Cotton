@@ -8,7 +8,7 @@ tags: [ nitrogen,seed,map-based cloning,yield ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb396990](https://www.maizegdb.org/gene_center/gene/Zm00001eb396990)
-- **Gene Symbol:** THP9;asn4;asnB
+- **Gene Symbol:** <u>THP9</u>&nbsp;<u>asn4</u>&nbsp;<u>asnB</u>
 - **Gene Name:** asparagine synthetase4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*

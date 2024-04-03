@@ -8,7 +8,7 @@ tags: [  ]
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb158710](https://www.maizegdb.org/gene_center/gene/Zm00001eb158710)
-- **Gene Symbol:** ZmKL1;kl1
+- **Gene Symbol:** <u>ZmKL1</u>&nbsp;<u>kl1</u>
 - **Gene Name:** kernel length1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
