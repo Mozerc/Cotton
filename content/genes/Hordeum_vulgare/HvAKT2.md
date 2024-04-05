@@ -1,23 +1,23 @@
 ---
 description: Hordeum vulgare
 meta_title:
-title: HvHAK1
+title: HvAKT2
 categories: [Hordeum vulgare]
 tags: [ leaf,drought,tolerance,drought tolerance,plasma membrane,drought response,virus ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** <u> HvHAK1 </u>
+- **Gene Symbol:** <u> HvAKT2 </u>
 - **Gene Name:** 
 - **Genome:** []()
 - **Species:** *Hordeum vulgare*
 
 ## Functional Descriptions:
-   - Overexpression of HvAKT2 and **HvHAK1** enhanced K+ uptake and H+ homoeostasis leading to drought tolerance in these transgenic lines.
-   - HvAKT2 and **HvHAK1** confer drought tolerance in barley through enhanced leaf mesophyll H+ homoeostasis.
-   - HvAKT2 and **HvHAK1** were cloned and functionally characterized using barley stripe mosaic virus-induced gene silencing (BSMV-VIGS) in drought-tolerant wild barley XZ5 and agrobacterium-mediated gene transfer in the barley cultivar Golden Promise.
-   - HvAKT2- and **HvHAK1**-overexpressing lines showed distinct response of K+, H+ and Ca2+ fluxes across plasma membrane and production of nitric oxide and hydrogen peroxide in leaves as compared to the wild type and silenced lines.
+   - Overexpression of **HvAKT2** and HvHAK1 enhanced K+ uptake and H+ homoeostasis leading to drought tolerance in these transgenic lines.
+   - **HvAKT2** and HvHAK1 confer drought tolerance in barley through enhanced leaf mesophyll H+ homoeostasis.
+   - **HvAKT2** and HvHAK1 were cloned and functionally characterized using barley stripe mosaic virus-induced gene silencing (BSMV-VIGS) in drought-tolerant wild barley XZ5 and agrobacterium-mediated gene transfer in the barley cultivar Golden Promise.
+   - **HvAKT2**- and HvHAK1-overexpressing lines showed distinct response of K+, H+ and Ca2+ fluxes across plasma membrane and production of nitric oxide and hydrogen peroxide in leaves as compared to the wild type and silenced lines.
 
 ## Function-related keywords:
    - [leaf](/tags/leaf/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[virus](/tags/virus/)

@@ -3,7 +3,7 @@ description: VIT_217s0000g06190 ; Vitis vinifera
 meta_title:
 title: VvMYB30
 categories: [Vitis vinifera]
-tags: [  ]
+tags: [ abiotic stresse, biotic stresse ]
 ---
 
 ## Gene Details:
@@ -19,7 +19,7 @@ tags: [  ]
    - The VvMYB14–VvWRKY8–**VvMYB30** regulatory circuit balances stilbene biosynthesis.
 
 ## Function-related keywords:
-   - [](/tags//)
+   - [abiotic-stresse](/tags/abiotic-stresse/),&nbsp;&nbsp;[biotic-stresse](/tags/biotic-stresse/)
 
 ## Literature:
    - [MYB30 and MYB14 form a repressor-activator module with WRKY8 that controls stilbene biosynthesis in grapevine.]( https://academic.oup.com/plcell/article/35/1/552/6762871?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac308](https://academic.oup.com/plcell/article/35/1/552/6762871?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36255259](https://pubmed.ncbi.nlm.nih.gov/36255259/)
