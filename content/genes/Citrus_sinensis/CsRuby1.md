@@ -15,7 +15,7 @@ tags: [ cold ]
 
 ## Functional Descriptions:
    - The accumulation of anthocyanins in fruit peel of blood orange in response to light is regulated by the G-box (CACGTC) within the promoter of **CsRuby1**. On the other hand, cold-inducible accumulation of anthocyanins in blood orange is regulated by the LTR region of the retrotransposon-containing promoter of **CsRuby1**.
-   - Retrotransposon promoter of Ruby1 controls both light- and cold-induced accumulation of anthocyanins in blood orange.
+   - Retrotransposon promoter of **Ruby1** controls both light- and cold-induced accumulation of anthocyanins in blood orange.
    - Cold-inducible accumulation of anthocyanins in blood orange is regulated by the LTR region of the retrotransposon-containing promoter of **CsRuby1**.
    - Localization of key light-responsive elements in the CgRuby1 promoter.
 

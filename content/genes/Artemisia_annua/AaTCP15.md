@@ -1,25 +1,25 @@
 ---
-description: Artemisia annua
+description: aldehyde dehydrogenase 1 ; Artemisia annua
 meta_title:
-title: ALDH1
+title: AaTCP15
 categories: [Artemisia annua]
-tags: [ ja,aba,aba biosynthesis,ja biosynthesis,dehydrogenase ]
+tags: [ ja,aba,aba biosynthesis,ja biosynthesis,ja signalling ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** <u> ALDH1 </u>
-- **Gene Name:** 
+- **Gene Symbol:** <u> AaTCP15 </u>
+- **Gene Name:** aldehyde dehydrogenase 1
 - **Genome:** []()
 - **Species:** *Artemisia annua*
 
 ## Functional Descriptions:
-   - AaTCP15, a JA and ABA dual-responsive teosinte branched1/cycloidea/proliferating (TCP) TF, which is essential for JA and ABA-induced artemisinin biosynthesis by directly binding to and activating the promoters of DBR2 and **ALDH1**, two genes encoding enzymes for artemisinin biosynthesis.
-   - Then, dihydroartemisinic aldehyde is catalysed into dihydroartemisinic acid (DHAA) by aldehyde dehydrogenase 1 (**ALDH1**), and the second branch involves artemisinic aldehyde being converted to AA via **ALDH1** 
-   - Here we report that AaTCP15 acts as a positive regulator of JA and ABA-mediated AN biosynthesis by directly binding to and activating DBR2 and **ALDH1** promoters.
+   - **AaTCP15**, a JA and ABA dual-responsive teosinte branched1/cycloidea/proliferating (TCP) TF, which is essential for JA and ABA-induced artemisinin biosynthesis by directly binding to and activating the promoters of DBR2 and ALDH1, two genes encoding enzymes for artemisinin biosynthesis.
+   - More importantly, **AaTCP15** expression is activated by the multiple reported JA and ABA-responsive TFs that promote artemisinin biosynthesis.
+   - Our results establish a multilayer regulatory network of the AaGSW1-**AaTCP15**/AaORA module to regulate artemisinin biosynthesis through JA and ABA signalling, and provide an interesting avenue for future research exploring the special transcriptional regulation module of TCP genes associated with specialized metabolites in plants.
 
 ## Function-related keywords:
-   - [ja](/tags/ja/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[dehydrogenase](/tags/dehydrogenase/)
+   - [ja](/tags/ja/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[aba-biosynthesis](/tags/aba-biosynthesis/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[ja-signalling](/tags/ja-signalling/)
 
 ## Literature:
    - [and abscisic acid-activated AaGSW1-AaTCP15/AaORA transcriptional cascade promotes artemisinin biosynthesis in Artemisia annua.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13561)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13561](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13561);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33539631](https://pubmed.ncbi.nlm.nih.gov/33539631/)

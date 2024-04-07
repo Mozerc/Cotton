@@ -2,7 +2,7 @@
 description: Pt5g020530 ; Citrus sinensis
 meta_title:
 title: PtrABF4
-categories: [Citrus sinensis]
+categories: [Poncirus trifoliata]
 tags: [ drought,starch,drought response ]
 ---
 
@@ -11,7 +11,7 @@ tags: [ drought,starch,drought response ]
 - **Gene Symbol:** PtrABF4
 - **Gene Name:** 
 - **Genome:** [Poncirus trifoliata v1.0]()
-- **Species:** *Citrus sinensis*
+- **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
    - our finding reveals that a transcriptional cascade composed of ABF4 and ABR1 works synergistically to upregulate BAM3 expression and starch catabolism in response to drought condition.
