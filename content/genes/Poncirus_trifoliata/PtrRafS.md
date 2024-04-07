@@ -2,7 +2,7 @@
 description: Cs9g12460 ; Citrus sinensis
 meta_title:
 title: PtrRafS
-categories: [Citrus sinensis]
+categories: [Poncirus trifoliata]
 tags: [ tolerance,cold tolerance,cold ]
 ---
 
@@ -11,13 +11,23 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene Symbol:** PtrRafS
 - **Gene Name:** 
 - **Genome:** [sweet orange (C. sinensis) genome]()
-- **Species:** *Citrus sinensis*
+- **Species:** *Poncirus trifoliata*
 
 ## Functional Description:
    - The current results demonstrate that PtrERF108 plays a positive role in cold tolerance by modulation of raffinose synthesis via regulating **PtrRafS**.
 
 ## Literature:
-   - [ERF108 from Poncirus trifoliata (L.) Raf. functions in cold tolerance by modulating raffinose synthesis through transcriptional regulation of PtrRafS.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15465)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15465](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15465)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34398993](https://pubmed.ncbi.nlm.nih.gov/34398993/)
+   - [ERF108 from Poncirus trifoliata (L.) Raf. functions in cold tolerance by modulating raffinose synthesis through transcriptional regulation of PtrRafS.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15465
+        
+        
+        
+        )&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15465
+        
+        ](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15465
+        
+        
+        
+        )&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34398993](https://pubmed.ncbi.nlm.nih.gov/34398993/)
 
 ## Related News:
    - [Plant Journal | 华中农业大学刘继红课题组解析转录因子ERF108调控枳耐寒性的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247515923&idx=4&sn=cc5328d257157fbe9990f46a95ed614a&chksm=ce901246f9e79b501a77027dbe049ca89cf192d30cb980378a0be60ed6292ee8f22745ed0736&scene=27#wechat_redirect)
