@@ -10,11 +10,11 @@ tags: [ tolerance,cold tolerance,cold ]
 - **Gene ID:**	[Cs9g12460]()
 - **Gene Symbol:** PtrRafS
 - **Gene Name:** 
-- **Genome:** [sweet orange (C. sinensis) genome (http://citrus.hzau.edu.cn/orange/index.php)]()
+- **Genome:** [sweet orange (C. sinensis) genome]()
 - **Species:** *Citrus sinensis*
 
 ## Functional Description:
-   - the current results demonstrate that PtrERF108 plays a positive role in cold tolerance by modulation of raffinose synthesis via regulating **PtrRafS**.
+   - The current results demonstrate that PtrERF108 plays a positive role in cold tolerance by modulation of raffinose synthesis via regulating **PtrRafS**.
 
 ## Literature:
    - [ERF108 from Poncirus trifoliata (L.) Raf. functions in cold tolerance by modulating raffinose synthesis through transcriptional regulation of PtrRafS.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.15465)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15465](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15465)&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34398993](https://pubmed.ncbi.nlm.nih.gov/34398993/)
