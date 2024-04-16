@@ -8,7 +8,7 @@ tags: [ stress,tolerance,cold tolerance,cold stress,cold,stress tolerance ]
 
 ## Gene Details:
 - **Gene ID:**	[]()
-- **Gene Symbol:** <u> AaBAM3.1 </u>
+- **Gene Symbol:** <u>AaBAM3.1</u>
 - **Gene Name:** 
 - **Genome:** []()
 - **Species:** *Actinidia arguta*
