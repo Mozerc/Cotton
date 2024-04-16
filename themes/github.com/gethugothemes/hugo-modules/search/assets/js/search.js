@@ -74,33 +74,21 @@ if (hasSearchWrapper) {
   let searchString = "";
 
   // get search string from url
-  const urlParams = new URLSearchParams(window.location.search);
-  const urlSearchString = urlParams.get("s")
-    ? encodeURIComponent(urlParams.get("s"))
-    : null;
-
-  if (urlSearchString !== null) {
-    searchString = urlSearchString.replace(/\+/g, " ");
-    searchInput.forEach((el) => {
-      el.value = searchString;
-    });
-    searchIcon && (searchIcon.style.display = "none");
-    searchIconReset && (searchIconReset.style.display = "initial");
-  }
-
-  searchInput.forEach((el) => {
-    el.addEventListener("input", (e) => {
-      searchString = e.target.value.toLowerCase();
-      window.history.replaceState(
-        {},
-        "",
-        `${window.location.origin}${
-          window.location.pathname
-        }?s=${searchString.replace(/ /g, "+")}`
-      );
-
-      doSearch(searchString);
-    });
+  const searchButton = document.getElementById("search-button");
+  const searchModalInput = document.getElementById("search-modal-input");
+  
+  searchButton.addEventListener("click", () => {
+    const searchString = searchModalInput.value.toLowerCase();
+  
+    // 更新 URL
+    window.history.replaceState(
+      {},
+      "",
+      `${window.location.origin}${window.location.pathname}?s=${searchString.replace(/ /g, "+")}`
+    );
+  
+    // 执行搜索
+    doSearch(searchString);
   });
 
   // dom content loaded
