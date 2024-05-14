@@ -18,13 +18,19 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase,anthocyanin biosyn
    - The **MdMYB1** locus is methylated through binding of MdAGO4s to the **MdMYB1** promoter to regulate anthocyanin biosynthesis by the RdDM pathway.
    - Overexpressing MdWRKY75 promoted anthocyanin accumulation by activating the expression of **MdMYB1** and anthocyanin biosynthetic genes, whereas the opposite trend was observed when we suppressed MdWRKY75 expression.
    - **MdMYB1**, encoding the master regulator of anthocyanin biosynthesis in apple.
+   - Ethylene precisely regulates anthocyanin synthesis in apple via a module comprising **MdEIL1**, MdMYB1, and MdMYB17.
+   - ABI5 regulates ABA-induced anthocyanin biosynthesis by modulating the **MYB1**-bHLH3 complex in apple.
+   - Our results demonstrate that the dynamic regulatory module MdBT2-MdTCP46-**MdMYB1** plays a key role in modulating anthocyanin biosynthesis at different light intensities in apple, and provides new insights into the post-transcriptional regulation of TCP proteins.
 
 ## Function-related keywords:
-   - [transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/),&nbsp;&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/)
+   - [transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[ubiquitin](/tags/ubiquitin/),&nbsp;&nbsp;[ubiquitin-e3-ligase](/tags/ubiquitin-e3-ligase/),&nbsp;&nbsp;[anthocyanin-biosynthesis](/tags/anthocyanin-biosynthesis/),&nbsp;&nbsp;[anthocyanin](/tags/anthocyanin/)
 
 ## Literature:
-   - [The E3 ubiquitin ligase SINA1 and the protein kinase BIN2 cooperatively regulate PHR1 in apple anthocyanin biosynthesis.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13538](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37272713](https://pubmed.ncbi.nlm.nih.gov/37272713/)
-   - [Methylation of MdMYB1 locus mediated by RdDM pathway regulates anthocyanin biosynthesis in apple.]( https://pubmed.ncbi.nlm.nih.gov/31930634/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13337](https://pubmed.ncbi.nlm.nih.gov/31930634/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31930634](https://pubmed.ncbi.nlm.nih.gov/31930634/)
+   - [The E3 ubiquitin ligase SINA1 and the protein kinase BIN2 cooperatively regulate PHR1 in apple anthocyanin biosynthesis.](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13538](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13538);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37272713](https://pubmed.ncbi.nlm.nih.gov/37272713/)
+   - [Methylation of MdMYB1 locus mediated by RdDM pathway regulates anthocyanin biosynthesis in apple.](https://pubmed.ncbi.nlm.nih.gov/31930634/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13337](https://pubmed.ncbi.nlm.nih.gov/31930634/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31930634](https://pubmed.ncbi.nlm.nih.gov/31930634/)
+   - [Ethylene precisely regulates anthocyanin synthesis in apple via a module comprising MdEIL1, MdMYB1, and MdMYB17.](https://doi.org/10.1093/hr/uhac034)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/hr/uhac034](https://doi.org/10.1093/hr/uhac034);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35184186](https://pubmed.ncbi.nlm.nih.gov/35184186/)
+   - [ABI5 regulates ABA-induced anthocyanin biosynthesis by modulating the MYB1-bHLH3 complex in apple.](https://doi.org/10.1093/jxb/eraa525)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa525](https://doi.org/10.1093/jxb/eraa525);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33159793](https://pubmed.ncbi.nlm.nih.gov/33159793/)
+   - [Dynamic regulation of anthocyanin biosynthesis at different light intensities by the BT2-TCP46-MYB1 module in apple.](https://doi.org/10.1093/jxb/eraa056)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/eraa056](https://doi.org/10.1093/jxb/eraa056);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31996900](https://pubmed.ncbi.nlm.nih.gov/31996900/)
 
 ## Related News:
    - [JIPB | 武汉植物园联合山东农大发现低磷胁迫诱导花青苷合成的新机制](https://mp.weixin.qq.com/s/6f2-30A3Hl55wD1H4VZ0qQ)
@@ -33,8 +39,6 @@ tags: [ transcription regulator,ubiquitin,ubiquitin e3 ligase,anthocyanin biosyn
 ## Gene Resources:
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

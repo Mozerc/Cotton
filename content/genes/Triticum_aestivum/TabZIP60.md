@@ -1,5 +1,5 @@
 ---
-description: Triticum aestivum
+description: basic leucine zipper transcription factor 60 ; Triticum aestivum
 meta_title:
 title: TabZIP60
 categories: [Triticum aestivum]
@@ -9,7 +9,7 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
 - **Gene Symbol:** <u>TabZIP60</u>
-- **Gene Name:** 
+- **Gene Name:** basic leucine zipper transcription factor 60
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
@@ -23,7 +23,8 @@ tags: [ leaf,root,growth,grain,seedling,grain yield,grain filling,yield,root gro
    - [leaf](/tags/leaf/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[grain](/tags/grain/),&nbsp;&nbsp;[seedling](/tags/seedling/),&nbsp;&nbsp;[grain-yield](/tags/grain-yield/),&nbsp;&nbsp;[grain-filling](/tags/grain-filling/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[grain-growth](/tags/grain-growth/),&nbsp;&nbsp;[seedling-growth](/tags/seedling-growth/)
 
 ## Literature:
-   - [Reducing expression of a nitrate-responsive bZIP transcription factor increases grain yield and N use in wheat.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13103](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30811829](https://pubmed.ncbi.nlm.nih.gov/30811829/)
+   - [Reducing expression of a nitrate-responsive bZIP transcription factor increases grain yield and N use in wheat.](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13103](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30811829](https://pubmed.ncbi.nlm.nih.gov/30811829/)
+   - [Reducing expression of a nitrate-responsive bZIP transcription factor increases grain yield and N use in wheat.](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13103](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13103);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30811829](https://pubmed.ncbi.nlm.nih.gov/30811829/)
 
 ## Related News:
    - [童依平组在小麦氮吸收、生长和产量研究中取得进展](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247483714&idx=2&sn=51cd9cad5c832450a3d8cb638c6a9a20&chksm=ce93ac17f9e425014b1b597cf3a868d872df6e7deafa2976e0e404b68f04f69ff2349e8821ce&scene=27#wechat_redirect)

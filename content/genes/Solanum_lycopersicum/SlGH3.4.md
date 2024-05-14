@@ -7,7 +7,7 @@ tags: [ development,auxin,iaa,mycorrhizal symbiosis,am symbiosis,symbiosis,arbus
 ---
 
 ## Gene Details:
-- **Gene ID:**	[]()
+- **Gene ID:**	[Solyc02g092820]()
 - **Gene Symbol:** <u>SlGH3.4</u>
 - **Gene Name:** 
 - **Genome:** [Tomato Genome version SL4.0](https://solgenomics.net/organism/solanum_lycopersicum/genome)
@@ -24,6 +24,7 @@ tags: [ development,auxin,iaa,mycorrhizal symbiosis,am symbiosis,symbiosis,arbus
 
 ## Literature:
    - [Auxin-mediated regulation of arbuscular mycorrhizal symbiosis: A role of SlGH3.4 in tomato.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14210)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14210](https://onlinelibrary.wiley.com/doi/10.1111/pce.14210);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34713922](https://pubmed.ncbi.nlm.nih.gov/34713922/)
+   - [Auxin homeostasis is maintained by sly-miR167-SlARF8A/B-SlGH3.4 feedback module in the development of locular and placental tissues of tomato fruits.](https://doi.org/10.1111/nph.19391)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.19391](https://doi.org/10.1111/nph.19391);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37985404](https://pubmed.ncbi.nlm.nih.gov/37985404/)
 
 ## Related News:
    - [PCE | 南京农业大学陈爱群团队揭示生长素介导丛枝菌根共生的分子调控机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247519992&idx=4&sn=77a3c9264623bbc9b270c65f6c722e2a&chksm=ce9023adf9e7aabb2bc393b26fa4af9a9097552bec0a16681eb97fe7c1ebcb973d9f75b6fdaf&scene=27#wechat_redirect)

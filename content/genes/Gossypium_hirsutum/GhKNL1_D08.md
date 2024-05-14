@@ -1,5 +1,5 @@
 ---
-description: Gh_D08G198400 ; Gossypium hirsutum
+description: class II KNOX protein 1 ; Gh_D08G198400 ; Gossypium hirsutum
 meta_title:
 title: GhKNL1_D08
 categories: [Gossypium hirsutum]
@@ -9,14 +9,16 @@ tags: [ development,quality,breeding,cell wall,cell elongation,cell wall synthes
 ## Gene Details:
 - **Gene ID:**	[Gh_D08G198400]()
 - **Gene Symbol:** <u>GhKNL1_D08</u>
-- **Gene Name:** 
+- **Gene Name:** class II KNOX protein 1
 - **Genome:** [genomes of G.hirsutum TM-1]()
 - **Species:** *Gossypium hirsutum*
 
 ## Functional Descriptions:
-   - GhKNL1 controls fiber elongation and secondary cell wall synthesis by repressing its downstream genes in cotton (Gossypium hirsutum).
-   - A cotton class II KNOX protein (GhKNL1) as a transcription repressor functioning in fiber development.
-   - An effective clue for potentially improving fiber quality by genetic manipulation of GhKNL1 in cotton breeding.
+   - **GhKNL1** controls fiber elongation and secondary cell wall synthesis by repressing its downstream genes in cotton (Gossypium hirsutum).
+   - A cotton class II KNOX protein (**GhKNL1**) as a transcription repressor functioning in fiber development.
+   - An effective clue for potentially improving fiber quality by genetic manipulation of **GhKNL1** in cotton breeding.
+   - **GhKNL1** influences fiber elongation by directly regulating expressions of GhEXPAs.
+   - Taken together, the results indicated that **GhKNL1** may regulate expressions of these GhEXPAs to affect fiber elongation of cotton.
 
 ## Function-related keywords:
    - [development](/tags/development/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/),&nbsp;&nbsp;[cell-wall-synthesis](/tags/cell-wall-synthesis/),&nbsp;&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/),&nbsp;&nbsp;[fiber](/tags/fiber/)

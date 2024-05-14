@@ -22,7 +22,7 @@ tags: [ nitrogen,transcription factor,nitrate ]
    - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[nitrate](/tags/nitrate/)
 
 ## Literature:
-   - [Rates and dates of divergence between AIDS virus nucleotide sequences.]( https://academic.oup.com/jxb/article/73/3/770/6288465)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab245](https://academic.oup.com/jxb/article/73/3/770/6288465);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[3405075](https://pubmed.ncbi.nlm.nih.gov/3405075/)
+   - [Rates and dates of divergence between AIDS virus nucleotide sequences.](https://academic.oup.com/jxb/article/73/3/770/6288465)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/erab245](https://academic.oup.com/jxb/article/73/3/770/6288465);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34050753](https://pubmed.ncbi.nlm.nih.gov/34050753/)
 
 ## Related News:
    - [JXB | 山东农业大学王勇课题组揭示大麦转录因子 HvNLP2 调控硝酸盐信号传导和氮利用效率的功能机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247511306&idx=5&sn=5f05d2d6f612dfa4a458f333dfee3ea8&chksm=ce90005ff9e789497602fa9e2d20be3d8c5bf512ce867eaff6afc06f68869abe892fd7e683c0&scene=27#wechat_redirect)

@@ -18,12 +18,15 @@ tags: [ seed,oil content ]
    - GmWRI1a/**GmWRI1b** and GmLEC1a/GmLEC1b are considered to be two homoeologous pairs formed by the ~13-mya WGD event (Figure S2), which are likely to be the orthologs of the Arabidopsis WRI1 and LEC1.
    - GmWRI1a/**GmWRI1b**, GmLEC1a/GmLEC1b, and GmABI3a/GmABI3b homoeologous pairs showed very similar evolutionary rates as reflected by non-synonymous substitution rates (Ks), synonymous substitution rates (Ka), and their ratios (ω), suggesting that the two members of each of the three duplicated gene pairs have experienced similar intensities of purifying selection.
    - Expression level of GmWRI1a is associated with seed oil content in soybeans, whereas that of **GmWRI1b** is not.
+   - Overexpression of **GmWRI1b** in soybean stably improves plant architecture and associated yield parameters, and increases total seed oil production under field conditions.
 
 ## Function-related keywords:
    - [seed](/tags/seed/),&nbsp;&nbsp;[oil-content](/tags/oil-content/)
 
 ## Literature:
-   - [Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean.]( https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13533](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28295817](https://pubmed.ncbi.nlm.nih.gov/28295817/)
+   - [Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean.](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13533](https://onlinelibrary.wiley.com/doi/10.1111/tpj.13533);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28295817](https://pubmed.ncbi.nlm.nih.gov/28295817/)
+   - [Overexpression of GmWRI1b in soybean stably improves plant architecture and associated yield parameters, and increases total seed oil production under field conditions.](https://doi.org/10.1111/pbi.13324)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13324](https://doi.org/10.1111/pbi.13324);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31912650](https://pubmed.ncbi.nlm.nih.gov/31912650/)
+
 
 ## Related News:
 

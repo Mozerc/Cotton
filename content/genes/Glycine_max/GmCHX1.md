@@ -1,5 +1,5 @@
 ---
-description: Glyma.03G171600 ; Glycine max
+description: Glysoja01g005509 ; Glycine max
 meta_title:
 title: GmCHX1
 categories: [Glycine max]
@@ -7,10 +7,10 @@ tags: [ stress,salt,tolerance,salt tolerance,salt stress,stress tolerance,transp
 ---
 
 ## Gene Details:
-- **Gene ID:**	[Glyma.03G171600](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=Glyma.03G171600)
+- **Gene ID:**	[Glysoja01g005509]()
 - **Gene Symbol:** <u>GmCHX1</u>
 - **Gene Name:** 
-- **Genome:** [Gmax_Wm82_a4_v1](https://phytozome-next.jgi.doe.gov/info/Gmax_Wm82_a4_v1)
+- **Genome:** []()
 - **Species:** *Glycine max*
 
 ## Functional Descriptions:

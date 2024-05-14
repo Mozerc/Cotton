@@ -15,16 +15,17 @@ tags: [ transcription factor,resistance,jasmonate,ja,ja biosynthesis,ja signalin
 
 ## Functional Descriptions:
    - We generated maize mutants in which **ZmMYC2a** and ZmMYC2b, two transcription factor genes important in JA signaling, were individually or both knocked out.
-   - ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.
+   - **ZmMYC2s** play important roles in maize responses to simulated herbivory and jasmonate.
    - **ZmMYC2a** and ZmMYC2b played a redundant role in maize resistance to insects and JA signaling.
-   - CUT&Tag-Seq and dual luciferase assays revealed that ZmMYC2s transactivate the benzoxazinoid and volatile terpene biosynthesis genes IGPS1/3, BX10/11/12/14, and TPS10/2/3/4/5/8 by directly binding to their promoters.
+   - CUT&Tag-Seq and dual luciferase assays revealed that **ZmMYC2s** transactivate the benzoxazinoid and volatile terpene biosynthesis genes IGPS1/3, BX10/11/12/14, and TPS10/2/3/4/5/8 by directly binding to their promoters.
    - Double mutant with myc7 (**ZmMYC2a**) was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower.double mutant with myc7 (**ZmMYC2a**) was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower.double mutant with myc7 (**ZmMYC2a**) was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower.
+
 
 ## Function-related keywords:
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[jasmonate](/tags/jasmonate/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[ja-biosynthesis](/tags/ja-biosynthesis/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13404](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36349965](https://pubmed.ncbi.nlm.nih.gov/36349965/)
+   - [ZmMYC2s play important roles in maize responses to simulated herbivory and jasmonate.](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13404](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13404);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36349965](https://pubmed.ncbi.nlm.nih.gov/36349965/)
 
 ## Related News:
 

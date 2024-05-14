@@ -18,12 +18,14 @@ tags: [ transporter,sugar,sucrose,sucrose transporter,rust ]
    - TaSTP3 is transcriptionally activated by **TaWRKY19**/61/82.
    - **TaWRKY19**/61/82 facilitate wheat susceptibility to Pst via regulation of TaSTP3 expression.
    - The Pst-induced sugar transporter TaSTP3 is transcriptionally activated by **TaWRKY19**/61/82 and facilitates wheat susceptibility to stripe rust possibly through elevated sucrose concentration.
+   - Transcriptional repression of TaNOX10 by **TaWRKY19** compromises ROS generation and enhances wheat susceptibility to stripe rust.
 
 ## Function-related keywords:
    - [transporter](/tags/transporter/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[sucrose-transporter](/tags/sucrose-transporter/),&nbsp;&nbsp;[rust](/tags/rust/)
 
 ## Literature:
-   - [Sugar transporter TaSTP3 activation by TaWRKY19/61/82 enhances stripe rust susceptibility in wheat.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18331](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35729085](https://pubmed.ncbi.nlm.nih.gov/35729085/)
+   - [Sugar transporter TaSTP3 activation by TaWRKY19/61/82 enhances stripe rust susceptibility in wheat.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18331](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18331);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35729085](https://pubmed.ncbi.nlm.nih.gov/35729085/)
+   - [A qWRKY regulator of ROS: TaWRKY19 suppresses TaNOX10 and causes pathogen susceptibility in wheat.](https://doi.org/10.1093/plcell/koac016)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koac016](https://doi.org/10.1093/plcell/koac016);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35234928](https://pubmed.ncbi.nlm.nih.gov/35234928/)
 
 ## Related News:
    - [西北农林科技大学康振生院士/刘杰教授课题组揭示糖转运蛋白TaSTP3介导小麦感条锈病的分子机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247544420&idx=1&sn=15cdc6110e245f8f4f72e2fb783d2f09&chksm=e8bd5c7adfcad56cda94a2bb25b723a0baf066cc8e50ffa11434133979ed9b0b0370aa1e9744&scene=27#wechat_redirect)

@@ -28,7 +28,7 @@ tags: [ transporter ]
    - [PBJ | 浙江大学殷学仁教授团队利用基因编辑获得低酸猕猴桃](https://mp.weixin.qq.com/s/A0G2yptd2tMel6YVlHvfFA)
 
 ## Gene Resources:
-- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [OP178892](https://www.ncbi.nlm.nih.gov/gene/?term=OP178892)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

@@ -30,7 +30,7 @@ tags: [ auxin,stress,atpase,tolerance,stress tolerance,plasma membrane,phosphata
    - [山东大学刘树伟教授课题组解析TaCCD1调控小麦耐碱性分子机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247563881&idx=4&sn=8d38ce78781872917f3e78e4189f4001&chksm=e8bc8877dfcb0161fd60b7f765678b6efc3c3d4bf9db8645ba8a1ed50e711eba36191f1d0ccb&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [AF181661](https://www.ncbi.nlm.nih.gov/gene/?term=AF181661)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 

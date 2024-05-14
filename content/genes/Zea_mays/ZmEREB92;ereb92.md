@@ -20,13 +20,15 @@ tags: [ temperature,growth,seed,starch,seed germination,ethylene,cold,plant grow
    - **ZmEREB92**, as a negative regulator of seed germination in maize. Enhanced germination in ereb92 mutants is contributed by elevated ethylene signaling and starch degradation.
    - **ZmEREB92** negatively regulates seed germination in maize by affecting embryo growth during imbibition.
    - **ZmEREB92** is a candidate gene that regulates ear height and the ratio of ear to plant height.
+   - **ZmEREB92** interacts with ZmMYC2 to activate maize terpenoid phytoalexin biosynthesis upon Fusarium graminearum infection through jasmonic acid/ethylene signaling.
 
 ## Function-related keywords:
 - [temperature](/tags/temperature/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[starch](/tags/starch/),&nbsp;&nbsp;[seed-germination](/tags/seed-germination/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[cold](/tags/cold/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[seed-growth](/tags/seed-growth/)
 
 ## Literature:
    - [ZmEREB92 plays a negative role in seed germination by regulating ethylene signaling and starch mobilization in maize.]( https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011052)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1371/journal.pgen.1011052](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011052);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37976306](https://pubmed.ncbi.nlm.nih.gov/37976306/)
-   - [Teosinte confers specific alleles and yield potential to maize improvement.]( https://link.springer.com/article/10.1007/s00122-022-04199-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-022-04199-5](https://link.springer.com/article/10.1007/s00122-022-04199-5);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36121453](https://pubmed.ncbi.nlm.nih.gov/36121453/)
+   - [Teosinte confers specific alleles and yield potential to maize improvement.](https://link.springer.com/article/10.1007/s00122-022-04199-5)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00122-022-04199-5](https://link.springer.com/article/10.1007/s00122-022-04199-5);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36121453](https://pubmed.ncbi.nlm.nih.gov/36121453/)
+   - [ZmEREB92 interacts with ZmMYC2 to activate maize terpenoid phytoalexin biosynthesis upon Fusarium graminearum infection through jasmonic acid/ethylene signaling.](https://doi.org/10.1111/nph.18590)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18590](https://doi.org/10.1111/nph.18590);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36319608](https://pubmed.ncbi.nlm.nih.gov/36319608/)
 
 ## Related News:
 

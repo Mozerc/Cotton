@@ -1,5 +1,5 @@
 ---
-description: Malus domestica
+description: DELLA protein ; MD09G1264800 ; Malus domestica
 meta_title:
 title: MdRGL2a
 categories: [Malus domestica]
@@ -7,9 +7,9 @@ tags: [ kinase,ga,protein kinase,transcription regulator,ga biosynthesis,ubiquit
 ---
 
 ## Gene Details:
-- **Gene ID:**	[]()
+- **Gene ID:**	[MD09G1264800]()
 - **Gene Symbol:** <u>MdRGL2a</u>
-- **Gene Name:** 
+- **Gene Name:** DELLA protein
 - **Genome:** [Malus x domestica Whole Genome v1.0 Assembly & Annotation](https://www.rosaceae.org/species/malus/malus_x_domestica/genome_v1.0)
 - **Species:** *Malus domestica*
 

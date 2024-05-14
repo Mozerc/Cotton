@@ -1,5 +1,5 @@
 ---
-description: Artemisia annua
+description: glandular trichome–specific WRKY1 ; Artemisia annua
 meta_title:
 title: AaGSW1
 categories: [Artemisia annua]
@@ -9,7 +9,7 @@ tags: [ transcription factor,ja,ja biosynthesis ]
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** <u> AaGSW1 </u>
-- **Gene Name:** 
+- **Gene Name:** glandular trichome–specific WRKY1
 - **Genome:** []()
 - **Species:** *Artemisia annua*
 

@@ -23,6 +23,7 @@ tags: [ transcription factor,resistance,disease,disease resistance,resistant ]
 
 ## Function-related keywords:
    - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[resistant](/tags/resistant/)
+   - [Histone acetyltransferase TaHAG1 interacts with TaNACL to promote heat stress tolerance in wheat.](https://doi.org/10.1111/pbi.13881)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13881](https://doi.org/10.1111/pbi.13881);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35763387](https://pubmed.ncbi.nlm.nih.gov/35763387/)
 
 ## Literature:
    - [A wheat NAC interacts with an orphan protein and enhances resistance to Fusarium head blight disease.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.13105)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13105](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13105);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30821405](https://pubmed.ncbi.nlm.nih.gov/30821405/)

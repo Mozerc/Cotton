@@ -3,7 +3,7 @@ description: colored aleurone1 ; Zm00001eb373660 ; Zea mays
 meta_title:
 title: ZmC1;ZmMYB1
 categories: [Zea mays]
-tags: [ fluorescence visualization ]
+tags: [ fluorescence visualization, seed, embryo ]
 ---
 
 ## Gene Details:
@@ -17,12 +17,14 @@ tags: [ fluorescence visualization ]
    - **ZmC1**, ZmIn1, ZmDFR, ZmBz1 and ZmBz2 were not detected in HiII embryos, whereas all the nine genes were actively expressed in purple transgenic embryos 
    - ZmBz1, ZmBz2, **ZmC1** and ZmR2 are four genes involved in anthocyanin synthesis.
    - Fluorescence visualization for GFP and anthocyanin biosynthesis for ZmBz1, ZmBz2, **ZmC1** and ZmR2 in developing kernels.
+   - Identification marker through co-expression of two transcription factor genes (**ZmC1** and ZmR2) driven by the embryo–aleurone-specific bidirectional promoter PZmBD1; these factors can activate anthocyanin biosynthesis in the embryo and aleurone layer during early seed development.
 
 ## Function-related keywords:
-- [fluorescence-visualization](/tags/fluorescence-visualization/)
+- [fluorescence-visualization](/tags/fluorescence-visualization/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[seed](/tags/seed/)
 
 ## Literature:
-   - [Engineering of &#x27;Purple Embryo Maize&#x27; with a multigene expression system derived from a bidirectional promoter and self-cleaving 2A peptides.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12883](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29337409](https://pubmed.ncbi.nlm.nih.gov/29337409/)
+   - [Engineering of &#x27;Purple Embryo Maize&#x27; with a multigene expression system derived from a bidirectional promoter and self-cleaving 2A peptides.](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.12883](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12883);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29337409](https://pubmed.ncbi.nlm.nih.gov/29337409/)
+   - [Co-expression of transcription factors ZmC1 and ZmR2 establishes an efficient and accurate haploid embryo identification system in maize.](https://doi.org/10.1111/tpj.15888)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15888](https://doi.org/10.1111/tpj.15888);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35793378](https://pubmed.ncbi.nlm.nih.gov/35793378/)
 
 ## Related News:
    - [玉米多基因表达体系与紫胚玉米种质创制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247488154&idx=3&sn=dfc39d825aabdbcb168d39b26abe71bf&chksm=fd7088fdca0701ebd1d6d02eb0eec9b0c74f6af6237a9f445822a75459c6fd977fb8f9061858&scene=27#wechat_redirect)

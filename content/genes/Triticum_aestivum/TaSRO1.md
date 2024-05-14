@@ -25,7 +25,7 @@ tags: [ transcription factor,growth,stress,mitochondria,salinity,tolerance,nucle
 
 ## Literature:
    - [TaSRO1 plays a dual role in suppressing TaSIP1 to fine tune mitochondrial retrograde signalling and enhance salinity stress tolerance.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18340](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35751377](https://pubmed.ncbi.nlm.nih.gov/35751377/)
-   - [TaSRO1 plays a dual role in suppressing TaSIP1 to fine tune mitochondrial retrograde signalling and enhance salinity stress tolerance.]( https://academic.oup.com/plcell/article/26/1/164/6102305)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18340 ](https://academic.oup.com/plcell/article/26/1/164/6102305);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35751377](https://pubmed.ncbi.nlm.nih.gov/35751377/)
+   - [A Wheat SIMILAR TO RCD-ONE Gene Enhances Seedling Growth and Abiotic Stress Resistance by Modulating Redox Homeostasis and Maintaining Genomic Integrity.](https://doi.org/10.1105/tpc.113.118687)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.113.118687](https://doi.org/10.1105/tpc.113.118687);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24443520](https://pubmed.ncbi.nlm.nih.gov/24443520/)
 
 ## Related News:
    - [New Phytol | 山东大学、中科院土壤所等合作揭示TaSRO1介导的小麦特色耐盐新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247532194&idx=3&sn=3827c6662256ac5ea1bd56d2389e12bc&chksm=ce90d3f7f9e75ae1c697aba2b8d9b6d62b4f6db1f22ae2b358890b9acebf93cd8ec8186128e2&scene=27#wechat_redirect)

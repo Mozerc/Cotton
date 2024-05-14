@@ -36,6 +36,14 @@ const loadJsonData = async () => {
   }
 };
 
+// escape HTML entities
+function escapeHTML(input) {
+  return input
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
 if (hasSearchWrapper) {
   // disable enter key on searchInput
   searchInput.forEach((el) => {
@@ -72,31 +80,87 @@ if (hasSearchWrapper) {
   const categories = searchWrapper.getAttribute("data-categories");
 
   let searchString = "";
-
+  
   // get search string from url
-  const searchButton = document.getElementById("search-button");
-  const searchModalInput = document.getElementById("search-modal-input");
+  document.addEventListener("DOMContentLoaded", async () => {
+    const searchButton = document.getElementById("search-button");
+    const searchModalInput = document.getElementById("search-modal-input");
+    const searchButton2 = document.getElementById("search-button-2");
+    const searchModalInput2 = document.getElementById("search-modal-input-2");
   
-  searchButton.addEventListener("click", () => {
-    const searchString = searchModalInput.value.toLowerCase();
+    if (!searchButton || !searchModalInput) {
+      console.error("search-button or search-modal-input not found");
+      return;
+    }
   
-    // 更新 URL
-    window.history.replaceState(
-      {},
-      "",
-      `${window.location.origin}${window.location.pathname}?s=${searchString.replace(/ /g, "+")}`
-    );
+    // 添加第一个输入框和按钮的点击事件监听器
+    searchButton.addEventListener("click", () => {
+      const searchString = searchModalInput.value.toLowerCase();
+      console.log(`Search string from first input: ${searchString}`);
   
-    // 执行搜索
-    doSearch(searchString);
+      // 更新 URL
+      window.history.replaceState(
+        {},
+        "",
+        `${window.location.origin}${window.location.pathname}?s=${searchString.replace(/ /g, "+")}`
+      );
+  
+      // 执行搜索
+      if (typeof doSearch === "function") {
+        doSearch(searchString);
+      } else {
+        console.error("doSearch function is not defined.");
+      }
+    });
+  
+    // 如果第二个输入框和按钮存在，添加它们的点击事件监听器
+    if (searchButton2 && searchModalInput2) {
+      searchButton2.addEventListener("click", () => {
+        const searchString = searchModalInput2.value.toLowerCase();
+        console.log(`Search string from second input: ${searchString}`);
+  
+        // 更新 URL
+        window.history.replaceState(
+          {},
+          "",
+          `${window.location.origin}${window.location.pathname}?s=${searchString.replace(/ /g, "+")}`
+        );
+  
+        // 执行搜索
+        if (typeof doSearch === "function") {
+          doSearch(searchString);
+        } else {
+          console.error("doSearch function is not defined.");
+        }
+      });
+    }
+  
+    // 加载 JSON 数据并执行搜索（如有需要）
+    if (typeof loadJsonData === "function") {
+      await loadJsonData();
+    } else {
+      console.error("loadJsonData function is not defined.");
+    }
+  
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchString = urlParams.get('s');
+    if (searchString) {
+      if (typeof doSearch === "function") {
+        doSearch(searchString);
+      } else {
+        console.error("doSearch function is not defined.");
+      }
+    }
   });
+
 
   // dom content loaded
   document.addEventListener("DOMContentLoaded", async () => {
     await loadJsonData();
     doSearch(searchString);
   });
-
+  
+  
   // doSearch
   const doSearch = async (searchString) => {
     if (searchString !== "") {

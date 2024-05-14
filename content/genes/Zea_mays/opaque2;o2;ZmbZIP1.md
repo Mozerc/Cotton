@@ -18,12 +18,15 @@ tags: [ development,endosperm,endosperm development ]
    - The first TF identified related to zein biosynthesis was **Opaque2** (O2), which directly regulates the expression of 22-kD α-zein through the recognition of the O2-box cis-element in its promoter.
    - **Opaque2** (O2) are transcription factors important for cell patterning and nutrient storage in maize (Zea mays) endosperm.
    - Three key transcription factors, NAKED ENDOSPERM1 (NKD1), NKD2, and **Opaque2** (O2), play important roles in maize endosperm cellular development and storage material accumulation.
+   - A SnRK1-ZmRFWD3-**Opaque2** Signaling Axis Regulates Diurnal Nitrogen Accumulation in Maize Seeds.
 
 ## Function-related keywords:
 - [development](/tags/development/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/)
 
 ## Literature:
-   - [A Subsidiary Cell-Localized Glucose Transporter Promotes Stomatal Conductance and Photosynthesis.]( https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00736](https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30996077](https://pubmed.ncbi.nlm.nih.gov/30996077/)
+   - [A Subsidiary Cell-Localized Glucose Transporter Promotes Stomatal Conductance and Photosynthesis.](https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.18.00736](https://academic.oup.com/plcell/article/31/6/1328/5985672?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30996077](https://pubmed.ncbi.nlm.nih.gov/30996077/)
+   - [A SnRK1-ZmRFWD3-Opaque2 Signaling Axis Regulates Diurnal Nitrogen Accumulation in Maize Seeds.](https://doi.org/10.1105/tpc.20.00352)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.20.00352](https://doi.org/10.1105/tpc.20.00352);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32699171](https://pubmed.ncbi.nlm.nih.gov/32699171/)
+
 
 ## Related News:
    - [Plant Cell | 中国农科院生物技术所揭示调控玉米气孔开关和光合作用的新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247490407&idx=3&sn=9ef4440e20bac174261ed09beca215c9&chksm=fd708100ca070816484e85ef4f50073485a7cab7fdfaae02cc5de699554dfe71fd1b9eed0bc1&scene=27#wechat_redirect)

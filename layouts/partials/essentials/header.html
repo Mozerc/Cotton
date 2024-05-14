@@ -106,22 +106,43 @@
       {{ end }}
     </ul>
 
-    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;">
-      <!-- navigation btn -->
-
-      
-      {{ if site.Params.navigation_button.enable }}
-      <a href="{{ site.Params.navigation_button.link | relLangURL }}" class="btn btn-outline-primary btn-sm hidden lg:inline-block" >
-        {{ site.Params.navigation_button.label }}
-      </a>
-      {{ end }}
     
+     
 
-    </div>
-      <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;"></div>
+  <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;">
+
+    <input
+  id="search-modal-input"
+  type="text"
+  placeholder="Search"
+  autocomplete="on"
+  aria-label="Search"
+  aria-describedby="Search"
+  placeholder="Search Post ..."
+  style="width: 120px; /* 设置宽度为800像素 */
+         padding: 5px;
+         border: 2px solid #ccc;
+         border-radius: 20px;
+         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+         outline: none;
+         transition: border-color 0.3s ease-in-out;
+         margin-right: 20px; /* 添加右边距 */"/>
+    <button
+        id="search-button"
+        aria-label="search"
+        class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
+        data-target="search-modal"
+        onclick="search()">
+        <i class="fa-solid fa-search"></i>
+    </button>
+
+   
+   </div>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;"></div>
           {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-theme-light rounded") }}
           {{ partial "components/theme-switcher" (dict "Class" "mr-5") }}
-      </div>
+    </div>
 
   </nav>
        
