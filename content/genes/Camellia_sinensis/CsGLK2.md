@@ -1,5 +1,5 @@
 ---
-description: Camellia sinensis
+description: GOLDEN2 LIKE2 ; Camellia sinensis
 meta_title:
 title: CsGLK2
 categories: [Camellia sinensis]
@@ -9,7 +9,7 @@ tags: [ chloroplast,development,chloroplast development ]
 ## Gene Details:
 - **Gene ID:**	[]()
 - **Gene Symbol:** <u> CsGLK2 </u>
-- **Gene Name:** 
+- **Gene Name:** GOLDEN2 LIKE2
 - **Genome:** [TeaPGDB V1.0 since 2020]()
 - **Species:** *Camellia sinensis*
 

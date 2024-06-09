@@ -1,5 +1,5 @@
 ---
-description: TraesCS7A02G423100 ; Triticum aestivum
+description: Zinc-finger protein expressed in Inflorescence Meristem ; TraesCS7A02G423100 ; Triticum aestivum
 meta_title:
 title: TaZIM-A1
 categories: [Triticum aestivum]
@@ -9,7 +9,7 @@ tags: [ heading date,flowering time,flowering,heading time,photoperiod ]
 ## Gene Details:
 - **Gene ID:**	[TraesCS7A02G423100](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=TraesCS7A02G423100)
 - **Gene Symbol:** <u>TaZIM-A1</u>
-- **Gene Name:** 
+- **Gene Name:** Zinc-finger protein expressed in Inflorescence Meristem
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
@@ -24,7 +24,7 @@ tags: [ heading date,flowering time,flowering,heading time,photoperiod ]
    - [heading-date](/tags/heading-date/),&nbsp;&nbsp;[flowering-time](/tags/flowering-time/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[heading-time](/tags/heading-time/),&nbsp;&nbsp;[photoperiod](/tags/photoperiod/)
 
 ## Literature:
-   - [TaZIM-A1 negatively regulates flowering time in common wheat (Triticum aestivum L.).]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12720 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30226297](https://pubmed.ncbi.nlm.nih.gov/30226297/)
+   - [TaZIM-A1 negatively regulates flowering time in common wheat (Triticum aestivum L.).](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12720 ](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12720);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30226297](https://pubmed.ncbi.nlm.nih.gov/30226297/)
 
 ## Related News:
 

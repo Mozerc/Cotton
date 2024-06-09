@@ -1,5 +1,5 @@
 ---
-description: Triticum aestivum
+description: SIMILAR TO RCD-ONE ; Triticum aestivum
 meta_title:
 title: TaSRO1
 categories: [Triticum aestivum]
@@ -9,7 +9,7 @@ tags: [ transcription factor,growth,stress,mitochondria,salinity,tolerance,nucle
 ## Gene Details:
 - **Gene ID:**	[](https://ensembl.gramene.org/Triticum_aestivum/Gene/Summary?g=)
 - **Gene Symbol:** <u>TaSRO1</u>
-- **Gene Name:** 
+- **Gene Name:** SIMILAR TO RCD-ONE
 - **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
 - **Species:** *Triticum aestivum*
 
@@ -24,7 +24,7 @@ tags: [ transcription factor,growth,stress,mitochondria,salinity,tolerance,nucle
    - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[mitochondria](/tags/mitochondria/),&nbsp;&nbsp;[salinity](/tags/salinity/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[nucleus](/tags/nucleus/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[cytoplasm](/tags/cytoplasm/),&nbsp;&nbsp;[salinity-stress](/tags/salinity-stress/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[er-stress](/tags/er-stress/),&nbsp;&nbsp;[endoplasmic-reticulum-stress-response](/tags/endoplasmic-reticulum-stress-response/),&nbsp;&nbsp;[reticulum-stress-response](/tags/reticulum-stress-response/)
 
 ## Literature:
-   - [TaSRO1 plays a dual role in suppressing TaSIP1 to fine tune mitochondrial retrograde signalling and enhance salinity stress tolerance.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18340](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35751377](https://pubmed.ncbi.nlm.nih.gov/35751377/)
+   - [TaSRO1 plays a dual role in suppressing TaSIP1 to fine tune mitochondrial retrograde signalling and enhance salinity stress tolerance.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.18340](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18340);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35751377](https://pubmed.ncbi.nlm.nih.gov/35751377/)
    - [A Wheat SIMILAR TO RCD-ONE Gene Enhances Seedling Growth and Abiotic Stress Resistance by Modulating Redox Homeostasis and Maintaining Genomic Integrity.](https://doi.org/10.1105/tpc.113.118687)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.113.118687](https://doi.org/10.1105/tpc.113.118687);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24443520](https://pubmed.ncbi.nlm.nih.gov/24443520/)
 
 ## Related News:

@@ -18,18 +18,22 @@ tags: [ growth,cell division,cell elongation ]
    - The **CmTCP20** gene regulates petal elongation growth in Chrysanthemum morifolium.
    - OX-**CmTCP20** in chrysanthemum led to the longer petals with longer cells, and the CmBPE2 expression level was down-regulated in OX-**CmTCP20** lines.
    - Ectopic expression in S. pombe yeast cells showed that **CmTCP20** could repress cell division and promote cell elongation.
+   - **CmTCP20** Plays a Key Role in Nitrate and Auxin Signaling-Regulated Lateral Root Development in Chrysanthemum.
+   - **CmTCP20** increases nitrogen metabolism and carbohydrate metabolism in chrysanthemum.
 
 ## Function-related keywords:
    - [growth](/tags/growth/),&nbsp;&nbsp;[cell-division](/tags/cell-division/),&nbsp;&nbsp;[cell-elongation](/tags/cell-elongation/)
 
 ## Literature:
-   - [The CmTCP20 gene regulates petal elongation growth in Chrysanthemum morifolium.]( https://www.sciencedirect.com/science/article/pii/S0168945218309725?pes=vor#sec0125)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2018.12.008](https://www.sciencedirect.com/science/article/pii/S0168945218309725?pes=vor#sec0125);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30824003](https://pubmed.ncbi.nlm.nih.gov/30824003/)
+   - [The CmTCP20 gene regulates petal elongation growth in Chrysanthemum morifolium.](https://www.sciencedirect.com/science/article/pii/S0168945218309725?pes=vor#sec0125)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.plantsci.2018.12.008](https://www.sciencedirect.com/science/article/pii/S0168945218309725?pes=vor#sec0125);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30824003](https://pubmed.ncbi.nlm.nih.gov/30824003/)
+   - [CmTCP20 Plays a Key Role in Nitrate and Auxin Signaling-Regulated Lateral Root Development in Chrysanthemum.](https://doi.org/10.1093/pcp/pcz061)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcz061](https://doi.org/10.1093/pcp/pcz061);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[31058993](https://pubmed.ncbi.nlm.nih.gov/31058993/)
+
 
 ## Related News:
 
 ## Gene Resources:
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
+- **UniProt accessions:** [A0A481XUC2](https://www.uniprot.org/uniprotkb/A0A481XUC2/entry)
 
 ## Orthologs:
 

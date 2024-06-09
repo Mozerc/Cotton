@@ -1,14 +1,14 @@
 ---
 description: multidrug resistance-associated protein 4 ; Zm00001eb003490 ; Zea mays
 meta_title:
-title: ZmMRP4;lpa1
+title: ZmMRP4|lpa1
 categories: [Zea mays]
-tags: [ resistance,al resistance ]
+tags: [ resistance,al resistance]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb003490](https://www.maizegdb.org/gene_center/gene/Zm00001eb003490)
-- **Gene Symbol:** <u>ZmMRP4</u>&nbsp;<u>lpa1</u>&nbsp;<u>mrpa4</u>
+- **Gene Symbol:** <u>ZmMRP4</u>&nbsp;<u>ZmABCB1</u>&nbsp;<u>lpa1</u>&nbsp;<u>mrpa4</u>
 - **Gene Name:** multidrug resistance-associated protein 4
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
@@ -25,8 +25,6 @@ tags: [ resistance,al resistance ]
 
 ## Literature:
    - [A paramutation phenomenon is involved in the genetics of maize low phytic acid1-241 (lpa1-241) trait.]( https://www.nature.com/articles/hdy200896)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/hdy.2008.96](https://www.nature.com/articles/hdy200896);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18781168](https://pubmed.ncbi.nlm.nih.gov/18781168/)
-   - [A paramutation phenomenon is involved in the genetics of maize low phytic acid1-241 (lpa1-241) trait.]( https://www.mdpi.com/2077-0472/13/7/1286)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/agriculture13071286](https://www.mdpi.com/2077-0472/13/7/1286);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[18781168](https://pubmed.ncbi.nlm.nih.gov/18781168/)
-
 ## Related News:
 
 ## Gene Resources:

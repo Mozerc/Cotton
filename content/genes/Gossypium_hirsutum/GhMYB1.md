@@ -27,7 +27,7 @@ tags: [ development,cell wall,cell wall synthesis ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [NM_001326832.1](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001326832.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 

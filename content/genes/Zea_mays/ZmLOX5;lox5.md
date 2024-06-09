@@ -19,12 +19,15 @@ tags: [ leaf,resistance,ja,defense,aba,insect,wounding,insect resistance,ja sign
    - 9,10-KODA, an α-ketol produced by the tonoplast-localized 9-lipoxygenase **ZmLOX5**, plays a signaling role in maize defense against insect herbivory.
    - Expression of **ZmLOX5** is regulated by both wounding and simulated herbivory.
    - Disruption of **ZmLOX5** results in decreased wound-induced 9-oxylipins, 12-OPDA, JA, ABA, and benzoxazinoids.
+   - The transcripts of **ZmLOX5** were increased in response to JA and salicylic acid treatments. **ZmLOX5** was transiently induced both locally and systemically by wounding, which was accompanied by increased levels of 9-oxylipins, and fall armyworm herbivory, suggesting a putative role for this gene in defense against insects.
 
 ## Function-related keywords:
 - [leaf](/tags/leaf/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[ja](/tags/ja/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[insect](/tags/insect/),&nbsp;&nbsp;[wounding](/tags/wounding/),&nbsp;&nbsp;[insect-resistance](/tags/insect-resistance/),&nbsp;&nbsp;[ja-signaling](/tags/ja-signaling/)
 
 ## Literature:
-   - [9,10-KODA, an α-ketol produced by the tonoplast-localized 9-lipoxygenase ZmLOX5, plays a signaling role in maize defense against insect herbivory.]( https://www.sciencedirect.com/science/article/pii/S167420522300179X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.07.003](https://www.sciencedirect.com/science/article/pii/S167420522300179X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37434355](https://pubmed.ncbi.nlm.nih.gov/37434355/)
+   - [9,10-KODA, an α-ketol produced by the tonoplast-localized 9-lipoxygenase ZmLOX5, plays a signaling role in maize defense against insect herbivory.](https://www.sciencedirect.com/science/article/pii/S167420522300179X?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.molp.2023.07.003](https://www.sciencedirect.com/science/article/pii/S167420522300179X?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37434355](https://pubmed.ncbi.nlm.nih.gov/37434355/)
+   - [Comparative molecular and biochemical characterization of segmentally duplicated 9-lipoxygenase genes ZmLOX4 and ZmLOX5 of maize.](https://doi.org/10.1007/s00425-010-1143-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-010-1143-8](https://doi.org/10.1007/s00425-010-1143-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[20349083](https://pubmed.ncbi.nlm.nih.gov/20349083/)
+
 
 ## Related News:
    - [美国德州农工大学研究团队揭示玉米抗虫防御中的新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247576595&idx=5&sn=de9fbfe60840484591a683e4745478c8&chksm=e9f348277bb0b9b65b881422fc52bfd993657943cf5b4b5217ed07f1e73e63042f6278d34b13&scene=27#wechat_redirect)

@@ -17,12 +17,15 @@ tags: [ cytoplasm ]
    - **ZmTrxh**-mediated protection against sugarcane Mosaic virus.
    - **ZmTrxh**, which encodes an atypical h-type thioredoxin protein, was identified as the causal gene of the Scmv1 QTL, which confers QDR to sugarcane mosaic virus (SCMV) in maize. 
    - **ZmTrxh** was unable to reduce disulfide bridges. Instead, **ZmTrxh** possesses a strong molecular chaperone-like activity and suppresses SCMV viral accumulation in maize cytoplasm.
+   - Combined linkage and association mapping reveals candidates for **Scmv1**, a major locus involved in resistance to sugarcane mosaic virus (SCMV) in maize.
+   - These results pave the way towards cloning of **Scmv1** and facilitate marker-assisted selection for potyvirus resistance in maize.
 
 ## Function-related keywords:
 - [cytoplasm](/tags/cytoplasm/)
 
 ## Literature:
-   - [Quantitative disease resistance: Multifaceted players in plant defense.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.13419)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13419](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13419);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36448658](https://pubmed.ncbi.nlm.nih.gov/36448658/)
+   - [Quantitative disease resistance: Multifaceted players in plant defense.](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13419)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.13419](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13419);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36448658](https://pubmed.ncbi.nlm.nih.gov/36448658/)
+   - [Combined linkage and association mapping reveals candidates for Scmv1, a major locus involved in resistance to sugarcane mosaic virus (SCMV) in maize.](https://doi.org/10.1186/1471-2229-13-162)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/1471-2229-13-162](https://doi.org/10.1186/1471-2229-13-162);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[24134222](https://pubmed.ncbi.nlm.nih.gov/24134222/)
 
 ## Related News:
 

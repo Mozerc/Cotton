@@ -19,6 +19,8 @@ tags: [ transcription factor,root,growth,development,drought,tolerance,aba,droug
    - **ZmPTF1** was found to be a positive regulator of root development, ABA synthesis, signalling pathways, and drought tolerance.
    - The bHLH family member **ZmPTF1** regulates drought tolerance in maize by promoting root development and abscisic acid synthesis.
    - Knockdown of **ZmPTF1** slowed root system development by reducing the number and growth of lateral roots.
+   - Overexpression of transcription factor **ZmPTF1** improves low phosphate tolerance of maize by regulating carbon metabolism and root growth
+   - Overexpression of **ZmPTF1** enhanced the expression of fructose-1,6-bisphosphatase and sucrose phosphate synthase1 participated in sucrose synthesis in the leaves but decreased them in the root, and reduced the expression of genes involved in sucrose catabolism in the roots.
 
 ## Function-related keywords:
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[root](/tags/root/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[root-development](/tags/root-development/),&nbsp;&nbsp;[root-growth](/tags/root-growth/),&nbsp;&nbsp;[abscisic-acid](/tags/abscisic-acid/),&nbsp;&nbsp;[lateral-root](/tags/lateral-root/),&nbsp;&nbsp;[transcription-regulator](/tags/transcription-regulator/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[phosphate-starvation](/tags/phosphate-starvation/),&nbsp;&nbsp;[root-number](/tags/root-number/),&nbsp;&nbsp;[lateral-root-number](/tags/lateral-root-number/)

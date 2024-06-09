@@ -17,12 +17,15 @@ tags: [ kinase,drought,stress,drought stress,defense,tolerance,aba,drought toler
    - ZmBSK1 localizes in plasma membrane, interacts with calcium/calmodulin (Ca2+/CaM)-dependent protein kinase (**ZmCCaMK**), and phosphorylates **ZmCCaMK**. Ser-67 is a crucial phosphorylation site of **ZmCCaMK** by ZmBSK1.
    - Drought stress enhances not only the interaction between ZmBSK1 and **ZmCCaMK** but also the phosphorylation of Ser-67 in **ZmCCaMK** by ZmBSK1. Furthermore, Ser-67 phosphorylation in **ZmCCaMK** regulates its Ca2+/CaM binding, autophosphorylation and transphosphorylation activity, and positively affects its function in drought tolerance in maize.
    - In maize, **ZmCCaMK** phosphorylating NAC84 regulates ABA-induced antioxidant defense and drought stress.
+   - Calcium and **ZmCCaMK** are involved in brassinosteroid-induced antioxidant defense in maize leaves.
+   - Our results also showed that **ZmCCaMK** and H2O2 influenced each other. These results indicate that Ca2+ works together with **ZmCCaMK** in BR-induced antioxidant defense, and there are two positive feedback loops between Ca2+ or H2O2 and **ZmCCaMK** in BR signaling in maize.
 
 ## Function-related keywords:
 - [kinase](/tags/kinase/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[calcium](/tags/calcium/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/),&nbsp;&nbsp;[antioxidant-defense](/tags/antioxidant-defense/)
 
 ## Literature:
-   - [BRASSINOSTEROID-SIGNALING KINASE 1 phosphorylating CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE functions in drought tolerance in maize.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17403](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33864702](https://pubmed.ncbi.nlm.nih.gov/33864702/)
+   - [BRASSINOSTEROID-SIGNALING KINASE 1 phosphorylating CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE functions in drought tolerance in maize.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.17403](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17403);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33864702](https://pubmed.ncbi.nlm.nih.gov/33864702/)
+   - [Calcium and ZmCCaMK are involved in brassinosteroid-induced antioxidant defense in maize leaves.](https://doi.org/10.1093/pcp/pcv014)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/pcp/pcv014](https://doi.org/10.1093/pcp/pcv014);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[25647327](https://pubmed.ncbi.nlm.nih.gov/25647327/)
 
 ## Related News:
 

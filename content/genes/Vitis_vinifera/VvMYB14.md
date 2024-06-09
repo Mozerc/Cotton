@@ -1,5 +1,5 @@
 ---
-description: VIT_207s0005g03340 ; Vitis vinifera
+description: MYB transcription factor 14 ; VIT_207s0005g03340 ; Vitis vinifera
 meta_title:
 title: VvMYB14
 categories: [Vitis vinifera]
@@ -9,7 +9,7 @@ tags: [ abiotic stresse , biotic stresse, proanthocyanidin]
 ## Gene Details:
 - **Gene ID:**	[VIT_207s0005g03340]()
 - **Gene Symbol:** <u>VvMYB14</u>
-- **Gene Name:** 
+- **Gene Name:** MYB transcription factor 14
 - **Genome:** [V. vinifera reference genome]()
 - **Species:** *Vitis vinifera*
 

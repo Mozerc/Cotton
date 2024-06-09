@@ -1,14 +1,14 @@
 ---
 description: SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 ; Zm00001eb403750 ; Zea mays
 meta_title:
-title: ZmSOC1
+title: ZmSOC1|ZmMADS1
 categories: [Zea mays]
 tags: [ transcription factor,growth,seed,quality,yield,reproductive,zinc,plant growth,height,plant height,flowering,reproductive growth,seed growth ]
 ---
 
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb403750](https://www.maizegdb.org/gene_center/gene/Zm00001eb403750)
-- **Gene Symbol:** <u>ZmSOC1</u>
+- **Gene Symbol:** <u>ZmSOC1</u><u>ZmMADS1</u>
 - **Gene Name:** SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
@@ -19,12 +19,15 @@ tags: [ transcription factor,growth,seed,quality,yield,reproductive,zinc,plant g
    - We transformed the **ZmSOC1** into soybean to examine the possible impact of a major MADS-box gene on soybean plant growth and flowering.
    - This consistency suggested that expression of the **ZmSOC1** was able to enhance reproductive production and reduce plant height.
    - Effect of **ZmSOC1** expression on seed quality.
+   - Flowering Time-Regulated Genes in Maize Include the Transcription Factor **ZmMADS1**.
+   - **ZmMADS1** represents a positive FTi regulator that shares an evolutionarily conserved function with SOC1 and may now serve as an ideal stating point to study the integration and variation of FTi pathways also in maize.
 
 ## Function-related keywords:
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[seed](/tags/seed/),&nbsp;&nbsp;[quality](/tags/quality/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[zinc](/tags/zinc/),&nbsp;&nbsp;[plant-growth](/tags/plant-growth/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[reproductive-growth](/tags/reproductive-growth/),&nbsp;&nbsp;[seed-growth](/tags/seed-growth/)
 
 ## Literature:
-   - [Expression of a maize SOC1 gene enhances soybean yield potential through modulating plant growth and flowering.]( https://www.nature.com/articles/s41598-021-92215-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-021-92215-x](https://www.nature.com/articles/s41598-021-92215-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34140602](https://pubmed.ncbi.nlm.nih.gov/34140602/)
+   - [Expression of a maize SOC1 gene enhances soybean yield potential through modulating plant growth and flowering.](https://www.nature.com/articles/s41598-021-92215-x)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41598-021-92215-x](https://www.nature.com/articles/s41598-021-92215-x);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[34140602](https://pubmed.ncbi.nlm.nih.gov/34140602/)
+   - [Flowering Time-Regulated Genes in Maize Include the Transcription Factor ZmMADS1.](https://doi.org/10.1104/pp.16.00285)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1104/pp.16.00285](https://doi.org/10.1104/pp.16.00285);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[27457125](https://pubmed.ncbi.nlm.nih.gov/27457125/)
 
 ## Related News:
 
