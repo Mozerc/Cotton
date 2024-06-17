@@ -9,7 +9,7 @@ tags: [ growth,pollen,reproductive,breeding,reproductive growth ]
 ## Gene Details:
 - **Gene ID:**	[Zm00001d016244](https://www.maizegdb.org/gene_center/gene/Zm00001d016244)
 - **Gene Symbol:** <u>ZmGa2F</u>
-- **Gene Name:** 
+- **Gene Name:** Ga2 locus female determinant
 - **Genome:** [Zm-B73-REFERENCE-GRAMENE-4.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-GRAMENE-4.0)
 - **Species:** *Zea mays*
 
@@ -33,8 +33,6 @@ tags: [ growth,pollen,reproductive,breeding,reproductive growth ]
 ## Gene Resources:
 - **NCBI ID:** [103627040](https://www.ncbi.nlm.nih.gov/gene/?term=103627040)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

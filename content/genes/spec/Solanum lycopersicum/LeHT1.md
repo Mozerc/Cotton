@@ -18,12 +18,15 @@ tags: [ leaf,resistance,defense,transporter,sugar,virus ]
    - Previously, we demonstrated that the hexose transporter gene **LeHT1** is up-regulated upon infection in R plants and its silencing in R plants (RH) leads to the collapse of resistance.
    - In R plants where **LeHT1** has been silenced , the hexose transporter is not expressed, and hence hexoses cannot be internalized into the cell in order to act as defense signaling molecules, likely decreasing the PTM effect, and inducing the collapse of resistance.
    - These results demonstrate the cardinal role of **LeHT1** in regulating sugar content in R plants. In all tomato plants, the hexose content correlated with the expression level of **LeHT1**.
+   - Tomato yellow leaf curl virus infection of a resistant tomato line with a silenced sucrose transporter gene **LeHT1** results in inhibition of growth, enhanced virus spread, and necrosis.
+   - They demonstrate that the hexose transporter **LeHT1** is essential for the expression of natural resistance against TYLCV and its expression correlates with inhibition of virus replication and movement.
 
 ## Function-related keywords:
    - [leaf](/tags/leaf/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[defense](/tags/defense/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[sugar](/tags/sugar/),&nbsp;&nbsp;[virus](/tags/virus/)
 
 ## Literature:
    - [Involvement of the hexose transporter gene LeHT1 and of sugars in resistance of tomato to tomato yellow leaf curl virus.](https://doi.org/10.1093/mp/sst036)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/mp/sst036](https://doi.org/10.1093/mp/sst036);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[23430051](https://pubmed.ncbi.nlm.nih.gov/23430051/)
+   - [Tomato yellow leaf curl virus infection of a resistant tomato line with a silenced sucrose transporter gene LeHT1 results in inhibition of growth, enhanced virus spread, and necrosis.](https://doi.org/10.1007/s00425-009-1072-6)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-009-1072-6](https://doi.org/10.1007/s00425-009-1072-6);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[19946703](https://pubmed.ncbi.nlm.nih.gov/19946703/)
 
 ## Related News:
 

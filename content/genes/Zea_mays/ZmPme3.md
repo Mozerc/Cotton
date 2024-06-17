@@ -1,5 +1,5 @@
 ---
-description: Zm00001eb167600 ; Zea mays
+description: silk-expressed PME ; Zm00001eb167600 ; Zea mays
 meta_title:
 title: ZmPme3
 categories: [Zea mays]
@@ -9,7 +9,7 @@ tags: [  ]
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb167600](https://www.maizegdb.org/gene_center/gene/Zm00001eb167600)
 - **Gene Symbol:** <u>ZmPme3</u>
-- **Gene Name:** 
+- **Gene Name:** silk-expressed PME
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
@@ -25,9 +25,11 @@ tags: [  ]
 - [](/tags//)
 
 ## Literature:
-   - [A Pectin Methylesterase ZmPme3 Is Expressed in Gametophyte factor1-s (Ga1-s) Silks and Maps to that Locus in Maize (Zea mays L.).]( https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01926](https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29170674](https://pubmed.ncbi.nlm.nih.gov/29170674/)
+   - [A Pectin Methylesterase ZmPme3 Is Expressed in Gametophyte factor1-s (Ga1-s) Silks and Maps to that Locus in Maize (Zea mays L.).](https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2017.01926](https://www.frontiersin.org/articles/10.3389/fpls.2017.01926/full);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29170674](https://pubmed.ncbi.nlm.nih.gov/29170674/)
+   - [A Pectin Methylesterase ZmPme3 Is Expressed in Gametophyte factor1-s (Ga1-s) Silks and Maps to that Locus in Maize.](https://doi.org/10.1038/s41467-022-32180-9)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-022-32180-9](https://doi.org/10.1038/s41467-022-32180-9);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35922428](https://pubmed.ncbi.nlm.nih.gov/35922428/)
 
-## Related News:
+# Related News:
+   - [Nature Commun | 华中农业大学严建兵团队揭示玉米单向杂交不亲和的奥秘](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247521010&idx=1&sn=756f259d2666295b025bcf17c9ed113a&chksm=fd730895ca0481836a1d80bdddc00c47d5aed5094fd5c11737990332c9bb00c924ab116fa73a&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [103655090](https://www.ncbi.nlm.nih.gov/gene/?term=103655090)

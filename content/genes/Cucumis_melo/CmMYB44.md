@@ -1,5 +1,5 @@
 ---
-description: MELO3C016789 ; Cucumis melo
+description: MYB44 transcription factor ; MELO3C016789 ; Cucumis melo
 meta_title:
 title: CmMYB44
 categories: [Cucumis melo]
@@ -8,8 +8,8 @@ tags: [ transcription factor,ethylene,sucrose,phosphate,transcriptional represso
 
 ## Gene Details:
 - **Gene ID:**	[MELO3C016789]()
-- **Gene Symbol:** <u> CmMYB44 </u>
-- **Gene Name:** 
+- **Gene Symbol:** <u>CmMYB44</u>
+- **Gene Name:** MYB44 transcription factor
 - **Genome:** [Melon (DHL92) v3.6.1]()
 - **Species:** *Cucumis melo*
 
@@ -23,7 +23,7 @@ tags: [ transcription factor,ethylene,sucrose,phosphate,transcriptional represso
    - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[ethylene](/tags/ethylene/),&nbsp;&nbsp;[sucrose](/tags/sucrose/),&nbsp;&nbsp;[phosphate](/tags/phosphate/),&nbsp;&nbsp;[transcriptional-repressor](/tags/transcriptional-repressor/),&nbsp;&nbsp;[ethylene-production](/tags/ethylene-production/),&nbsp;&nbsp;[sucrose-synthase](/tags/sucrose-synthase/)
 
 ## Literature:
-   - [The transcription factor CmERFI-2 represses CmMYB44 expression to increase sucrose levels in oriental melon fruit.]( https://academic.oup.com/plphys/article/192/2/1378/7080808#supplementary-data)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad155](https://academic.oup.com/plphys/article/192/2/1378/7080808#supplementary-data);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36938625](https://pubmed.ncbi.nlm.nih.gov/36938625/)
+   - [The transcription factor CmERFI-2 represses CmMYB44 expression to increase sucrose levels in oriental melon fruit.](https://academic.oup.com/plphys/article/192/2/1378/7080808#supplementary-data)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad155](https://academic.oup.com/plphys/article/192/2/1378/7080808#supplementary-data);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36938625](https://pubmed.ncbi.nlm.nih.gov/36938625/)
 
 ## Related News:
    - [Plant Physiology|沈阳农业大学齐红岩课题组揭示CmERFⅠ-2和CmMYB44调控薄皮甜瓜果实蔗糖积累的分子机制](https://mp.weixin.qq.com/s/21slw6DXwLM6b9ROEUdO1w)

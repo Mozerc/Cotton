@@ -28,8 +28,8 @@ tags: [ auxin,pollen,sterility,tapetum,transporter,auxin transport,phloem,sugar,
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:**  [MG324290](https://www.ncbi.nlm.nih.gov/gene/?term=MG324290)
-- **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:** [MG324290.1](https://www.ncbi.nlm.nih.gov/gene/?term=MG324290.1)
+- **UniProt accessions:** [A0A345FZL7](https://www.uniprot.org/uniprotkb/A0A345FZL7/entry)
 
 ## Orthologs:
 

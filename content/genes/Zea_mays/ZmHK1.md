@@ -1,5 +1,5 @@
 ---
-description: Z. mays Histidine Kinase1 ; Zm00001eb253970 ; Zea mays
+description: Histidine Kinase1 ; Zm00001eb253970 ; Zea mays
 meta_title:
 title: ZmHK1
 categories: [Zea mays]
@@ -9,7 +9,7 @@ tags: [ cytokinin ]
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb253970](https://www.maizegdb.org/gene_center/gene/Zm00001eb253970)
 - **Gene Symbol:** <u>ZmHK1</u>
-- **Gene Name:** Z. mays Histidine Kinase1
+- **Gene Name:** Histidine Kinase1
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
@@ -24,16 +24,14 @@ tags: [ cytokinin ]
 - [cytokinin](/tags/cytokinin/)
 
 ## Literature:
-   - [The Maize Hairy Sheath Frayed1 (Hsf1) Mutation Alters Leaf Patterning through Increased Cytokinin Signaling.]( https://academic.oup.com/plcell/article/32/5/1501/6115706?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00677](https://academic.oup.com/plcell/article/32/5/1501/6115706?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32205456](https://pubmed.ncbi.nlm.nih.gov/32205456/)
+   - [The Maize Hairy Sheath Frayed1 (Hsf1) Mutation Alters Leaf Patterning through Increased Cytokinin Signaling.](https://academic.oup.com/plcell/article/32/5/1501/6115706?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1105/tpc.19.00677](https://academic.oup.com/plcell/article/32/5/1501/6115706?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32205456](https://pubmed.ncbi.nlm.nih.gov/32205456/)
 
 ## Related News:
    - [Plant Cell | 细胞分裂素信号在玉米叶片发育中的关键调控作用](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247494500&idx=1&sn=7a3e850559dc65c4844668dc634e7a14&chksm=fd737103ca04f81552d77815b44a132ebaa6f58226be9a0a4bfb84bbf388bf0ad56010310f33&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [NM_001111389	541634](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001111389	541634)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **NCBI ID:** [NM_001111389](https://www.ncbi.nlm.nih.gov/gene/?term=NM_001111389),&nbsp;&nbsp;[LOC541634](https://www.ncbi.nlm.nih.gov/gene/?term=LOC541634)
+- **UniProt accessions:** [Q9FRY7](https://www.uniprot.org/uniprotkb/Q9FRY7/entry)
 
 ## Sequences:
 - **CDS Sequence:**

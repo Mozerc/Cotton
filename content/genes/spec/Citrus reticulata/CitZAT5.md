@@ -10,7 +10,7 @@ tags: [ transcription factor,zinc,sugar,sucrose,fructose,fructose accumulation ]
 - **Gene ID:** []()
 - **Gene Symbol:** <u>CitZAT5</u>
 - **Gene Name:** ZINC FINGER OF ARABIDOPSIS THALIANA
-- **Genome:** [Citrus Genome Database (http://www.citrusgenomedb.org)]()
+- **Genome:** [Citrus Genome Database](http://www.citrusgenomedb.org)
 - **Species:** *Citrus reticulata*
 
 ## Functional Descriptions:
@@ -26,10 +26,11 @@ tags: [ transcription factor,zinc,sugar,sucrose,fructose,fructose accumulation ]
    - [The transcription factor CitZAT5 modifies sugar accumulation and hexose proportion in citrus fruit.](https://doi.org/10.1093/plphys/kiad156)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad156](https://doi.org/10.1093/plphys/kiad156);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36911987](https://pubmed.ncbi.nlm.nih.gov/36911987/)
 
 ## Related News:
+   - [Plant Physiol | 浙江大学果实品质团队揭示柑橘果实成熟过程糖积累调控的新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247526613&idx=3&sn=4c8656a430d7d976708f17b464a9909d&chksm=fcc449a7699f4640d9d5f1ded1b430297989fb1858272fcee4c6620c1a8b98ad00cc117e91ec&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [XM_006424377](https://www.ncbi.nlm.nih.gov/gene/?term=XM_006424377)
-- **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
+- **UniProt accessions:**  [V4SFV4](https://www.uniprot.org/uniprotkb/V4SFV4/entry)
 
 ## Orthologs:
 

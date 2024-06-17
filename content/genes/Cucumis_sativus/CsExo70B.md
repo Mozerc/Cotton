@@ -1,5 +1,5 @@
 ---
-description: CsaV3_1G036490.1 ; Cucumis sativus
+description: exocytosis subunit Exo70B ; CsaV3_1G036490.1 ; Cucumis sativus
 meta_title:
 title: CsExo70B
 categories: [Cucumis sativus]
@@ -9,7 +9,7 @@ tags: [ development,kinase,resistance,disease,disease resistance,yield,plasma me
 ## Gene Details:
 - **Gene ID:**	[CsaV3_1G036490.1]()
 - **Gene Symbol:** <u> CsExo70B </u>
-- **Gene Name:** 
+- **Gene Name:** exocytosis subunit Exo70B
 - **Genome:** [Cucumber (Chinese Long) v3 Genome]()
 - **Species:** *Cucumis sativus*
 
@@ -23,7 +23,7 @@ tags: [ development,kinase,resistance,disease,disease resistance,yield,plasma me
    - [development](/tags/development/),&nbsp;&nbsp;[kinase](/tags/kinase/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[disease](/tags/disease/),&nbsp;&nbsp;[disease-resistance](/tags/disease-resistance/),&nbsp;&nbsp;[yield](/tags/yield/),&nbsp;&nbsp;[plasma-membrane](/tags/plasma-membrane/),&nbsp;&nbsp;[receptor-kinase](/tags/receptor-kinase/),&nbsp;&nbsp;[defence](/tags/defence/),&nbsp;&nbsp;[disease-development](/tags/disease-development/)
 
 ## Literature:
-   - [The exocyst subunit CsExo70B promotes both fruit length and disease resistance via regulating receptor kinase abundance at plasma membrane in cucumber.]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14189)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[Cucumis sativus](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14189);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37795910](https://pubmed.ncbi.nlm.nih.gov/37795910/)
+   - [The exocyst subunit CsExo70B promotes both fruit length and disease resistance via regulating receptor kinase abundance at plasma membrane in cucumber.](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14189)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[Cucumis sativus](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14189);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37795910](https://pubmed.ncbi.nlm.nih.gov/37795910/)
 
 ## Related News:
    - [PBJ | 中国农业大学张小兰课题组揭示CsExo70B促进黄瓜果实伸长及抗病性的分子机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247557393&idx=2&sn=73ca830664abe2e227152d6e2770c562&chksm=f53427bb50fe09b549c331f729bc1123463b98b0a04dfee163c2cb6a9ee626b8cd310aa838df&scene=27#wechat_redirect)

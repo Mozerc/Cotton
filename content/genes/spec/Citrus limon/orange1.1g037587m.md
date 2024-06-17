@@ -10,7 +10,7 @@ tags: [ gibberellin,ethylene,ga,dwarf,height,plant height,ga biosynthesis,gibber
 - **Gene ID:** [orange1.1g037587m]()
 - **Gene Symbol:** <u>CiACS4</u>
 - **Gene Name:** Citrus ACC synthase 4
-- **Genome:** [citrus reference genome (https://www.nature.com/articles/ng.2472)]()
+- **Genome:** [citrus reference genome](https://www.nature.com/articles/ng.2472)
 - **Species:** *Citrus limon*
 
 ## Functional Descriptions:
@@ -26,6 +26,7 @@ tags: [ gibberellin,ethylene,ga,dwarf,height,plant height,ga biosynthesis,gibber
    - [Citrus ACC synthase CiACS4 regulates plant height by inhibiting gibberellin biosynthesis.](https://doi.org/10.1093/plphys/kiad159)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad159](https://doi.org/10.1093/plphys/kiad159);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36913259](https://pubmed.ncbi.nlm.nih.gov/36913259/)
 
 ## Related News:
+   - [Plant Physiol | 华中农业大学胡春根课题组揭示乙烯生物合成酶基因调控柑橘株高的新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247532815&idx=2&sn=d54e44ef66ee45d298abc1373ab08bdd&chksm=fc3d0f9d7772920f7ef48f571b78771a41f3fa9e19ddf1962ae90fa0f08c1c2651656d8d3d1e&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)

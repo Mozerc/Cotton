@@ -2,7 +2,7 @@
 description: WRKY transcription factor 42 ; Citrus sinensis
 meta_title:
 title: CrWRKY42
-categories: [Citrus sinensis]
+categories: [Citrus clementina]
 tags: [ transcription factor,chlorophyll,transcription regulator,calli,carotene,carotene accumulation,carotenoid,carotenoid biosynthesis ]
 ---
 
@@ -11,7 +11,7 @@ tags: [ transcription factor,chlorophyll,transcription regulator,calli,carotene,
 - **Gene Symbol:** <u>CrWRKY42</u>
 - **Gene Name:** WRKY transcription factor 42
 - **Genome:** []()
-- **Species:** *Citrus sinensis*
+- **Species:** *Citrus clementina*
 
 ## Functional Descriptions:
    - Transcription factor **CrWRKY42** coregulates chlorophyll degradation and carotenoid biosynthesis in citrus.
@@ -27,10 +27,11 @@ tags: [ transcription factor,chlorophyll,transcription regulator,calli,carotene,
    - [Transcription factor CrWRKY42 coregulates chlorophyll degradation and carotenoid biosynthesis in citrus.](https://doi.org/10.1093/plphys/kiae048)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiae048](https://doi.org/10.1093/plphys/kiae048);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38394457](https://pubmed.ncbi.nlm.nih.gov/38394457/)
 
 ## Related News:
+   - [华中农业大学邓秀新院士团队揭示转录因子CrWRKY42协同调控柑橘果实叶绿素降解和类胡萝卜素合成的分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247533563&idx=3&sn=5f86d27905decc7b6c6d41aac3c5108f&chksm=fc4852d2212b8bc504585a9e97c952508b212529317b35c219309b3f5ad59ed7d6a36d5e1458&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:**  [OR227423](https://www.ncbi.nlm.nih.gov/gene/?term=OR227423)
-- **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:** [OR227423.1](https://www.ncbi.nlm.nih.gov/gene/?term=OR227423.1)
+- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:
 

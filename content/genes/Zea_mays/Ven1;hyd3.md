@@ -3,7 +3,7 @@ description: Vitreous endosperm 1 ; Zm00001eb428470 ; Zea mays
 meta_title:
 title: Ven1;hyd3
 categories: [Zea mays]
-tags: [  ]
+tags: [ carotenoids ]
 ---
 
 ## Gene Details:
@@ -19,7 +19,7 @@ tags: [  ]
    - **Ven1**A619 causes over-accumulation of nonpolar carotenoids.
 
 ## Function-related keywords:
-- [](/tags//)
+- [carotenoids](/tags/carotenoids/)
 
 ## Literature:
    - [Carotenoids modulate kernel texture in maize by influencing amyloplast envelope integrity.]( https://www.nature.com/articles/s41467-020-19196-9#Sec29)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41467-020-19196-9](https://www.nature.com/articles/s41467-020-19196-9#Sec29);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33093471](https://pubmed.ncbi.nlm.nih.gov/33093471/)

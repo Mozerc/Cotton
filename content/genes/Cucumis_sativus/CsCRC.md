@@ -28,7 +28,7 @@ tags: [ breeding ]
    - [The Plant Cell | 中国农大黄瓜张小兰课题组在果实长度调控取得重要进展](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247559442&idx=1&sn=89450cba81818028ae2dcf3856458df4&chksm=e8bc9b0cdfcb121a431f1cd1b24872f6da693ad9c5a3cdf0907643597506a594f479f6afe331&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [MW413375.1](https://www.ncbi.nlm.nih.gov/gene/?term=MW413375.1)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

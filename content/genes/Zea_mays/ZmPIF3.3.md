@@ -22,15 +22,14 @@ tags: [ seedlings,breeding,height,plant height ]
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[height](/tags/height/),&nbsp;&nbsp;[plant-height](/tags/plant-height/)
 
 ## Literature:
-   - [Genome-wide selection and genetic improvement during modern maize breeding.]( https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
+   - [Genome-wide selection and genetic improvement during modern maize breeding.](https://www.nature.com/articles/s41588-020-0616-3)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1038/s41588-020-0616-3](https://www.nature.com/articles/s41588-020-0616-3);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32341525](https://pubmed.ncbi.nlm.nih.gov/32341525/)
 
 ## Related News:
+   - [Nature Genetics | 华南农业大学王海洋团队解析现代玉米“育种选择指纹”，揭示现代玉米育种的遗传规律](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247494902&idx=1&sn=9df4847b6f07b7b41cd6d4054584feca&chksm=fd737691ca04ff8713a761b1f063de7427d4b48debe177313dbfe422b7dc8ea9e6f0dd4f756e&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC103641361](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103641361)
 - **UniProt accessions:** [K7TIH0](https://www.uniprot.org/uniprotkb/K7TIH0/entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

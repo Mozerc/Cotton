@@ -28,12 +28,11 @@ tags: [ pollen,sterility,defense,male sterility ]
 
 ## Related News:
    - [中科院遗传所/华中农大合作揭示活性氧是单倍体诱导的核心因子](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247537474&idx=1&sn=7e550a9130a64092b2d69ad62ceb0740&chksm=e8bd215cdfcaa84ab8abd4785f52f4d971d2498aecfceb0e235eeca0e99728296b7629a4b2b9&scene=27#wechat_redirect)
+   - [Mol Plant | 破解关键科学问题！李响/严建兵合作发现活性氧是单倍体诱导的核心因子](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247517616&idx=3&sn=24176d79708466bc841ef757a5302622&chksm=fd731fd7ca0496c1aa2e29ee97f66bfb29f6ad67a0a196db995df6936e7666e7df7e1c756c8b&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [100284887](https://www.ncbi.nlm.nih.gov/gene/?term=100284887)
+- **NCBI ID:** [LOC100284887](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100284887)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

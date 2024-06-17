@@ -1,5 +1,5 @@
 ---
-description: Capsicum annuum
+description: PTI1-like tyrosine-protein kinase 3 ; Capsicum annuum
 meta_title:
 title: CaPti1
 categories: [Capsicum annuum]
@@ -7,9 +7,9 @@ tags: [ kinase,resistance,tolerance,aba,ethylene,immunity,r protein,stomatal,pro
 ---
 
 ## Gene Details:
-- **Gene ID:** []()
+- **Gene ID:** [PHT85140](https://ensembl.gramene.org/Capsicum_annuum/Transcript/Summary?g=T459_07246;r=3:450362-460921;t=PHT85140)
 - **Gene Symbol:** <u>CaPti1</u>
-- **Gene Name:** 
+- **Gene Name:** PTI1-like tyrosine-protein kinase 3
 - **Genome:** []()
 - **Species:** *Capsicum annuum*
 
@@ -26,10 +26,11 @@ tags: [ kinase,resistance,tolerance,aba,ethylene,immunity,r protein,stomatal,pro
    - [The CaPti1-CaERF3 module positively regulates resistance of Capsicum annuum to bacterial wilt disease by coupling enhanced immunity and dehydration tolerance.](https://doi.org/10.1111/tpj.15790)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.15790](https://doi.org/10.1111/tpj.15790);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[35491968](https://pubmed.ncbi.nlm.nih.gov/35491968/)
 
 ## Related News:
+   - [Plant Journal | 福建农林大学何水林/刘志钦团队揭示辣椒应答青枯菌侵染的调控新机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247518557&idx=3&sn=51a5cde2d1f19d976488fa6f106febbf&chksm=fd73133aca049a2cf3d43f60b8627dc5da822298461510c76ca2ac38da7b8c3d77134385351c&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [XM_016710753](https://www.ncbi.nlm.nih.gov/gene/?term=XM_016710753)
-- **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
+- **UniProt accessions:**  [A0A1U8GDV6](https://www.uniprot.org/uniprotkb/A0A1U8GDV6/entry)
 
 ## Orthologs:
 

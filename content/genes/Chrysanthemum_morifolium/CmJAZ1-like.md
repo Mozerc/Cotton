@@ -29,6 +29,8 @@ tags: [ transcription factor,cell expansion ]
 
 ## Related News:
    - [The Plant Journal | 南京农大揭示调控菊花花瓣大小的新机制](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247542368&idx=5&sn=1c62aeb0b340236863f781566ab3cde2&chksm=ce908b35f9e70223ecb9100061ab37b09173c3ec1650bcdbfc0e1e8194fea2d58a498a25f5dd&scene=27#wechat_redirect)
+   - [南京农业大学陈发棣团队揭示JA信号通路关键组分CmJAZ1-like在菊花花期调控中的功能](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247504934&idx=4&sn=350af10eb86787981ac77e48ad0bf85d&chksm=fd734e41ca04c757d470750ca8f41260f7bb6c567b280a2c47ce819dfee0a9921bbca5541125&scene=27#wechat_redirect)
+
 
 ## Gene Resources:
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)

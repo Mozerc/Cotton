@@ -26,11 +26,12 @@ tags: [ transcription factor,transcription regulator,thermotolerance,protein ]
 ## Literature:
    - [Transcription factor CaHDZ15 promotes pepper basal thermotolerance by activating HEAT SHOCK FACTORA6a.](https://doi.org/10.1093/plphys/kiae037)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiae037](https://doi.org/10.1093/plphys/kiae037);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38270532](https://pubmed.ncbi.nlm.nih.gov/38270532/)
 
-## Related News:
+## Related News: 
+   - [Plant Physiology | 福建农林大学何水林团队揭示转录因子CaHDZ15调控辣椒高温耐受性的分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247533026&idx=2&sn=e9385b83b9c30db936704387bbab0e86&chksm=fc174cda4a656619b0309ddc100790bbdf395ce3612ad08fbeaba2ad5497c3adac4ea7cb8a91&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [XP_016561539](https://www.ncbi.nlm.nih.gov/gene/?term=XP_016561539)
-- **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
+- **UniProt accessions:**  [A0A1U8G0N0](https://www.uniprot.org/uniprotkb/A0A1U8G0N0/entry)
 
 ## Orthologs:
 

@@ -1,5 +1,5 @@
 ---
-description: Unigene017036 ; Camellia sinensis
+description: MYB75 protein ; Unigene017036 ; Camellia sinensis
 meta_title:
 title: CsMYB75
 categories: [Camellia sinensis]
@@ -9,7 +9,7 @@ tags: [ transcription factor,anthocyanin biosynthesis,anthocyanin ]
 ## Gene Details:
 - **Gene ID:** [Unigene017036]()
 - **Gene Symbol:** <u>CsMYB75</u>
-- **Gene Name:** 
+- **Gene Name:** MYB75 protein
 - **Genome:** []()
 - **Species:** *Camellia sinensis*
 
@@ -28,7 +28,7 @@ tags: [ transcription factor,anthocyanin biosynthesis,anthocyanin ]
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [OK349297.1](https://www.ncbi.nlm.nih.gov/gene/?term=OK349297.1)
 - **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
 
 ## Orthologs:

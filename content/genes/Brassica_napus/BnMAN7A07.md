@@ -1,5 +1,5 @@
 ---
-description: BnaA07g12390D ; Brassica napus
+description: MANNANASE7 ; BnaA07g12390D ; Brassica napus
 meta_title:
 title: BnMAN7A07
 categories: [Brassica napus]
@@ -9,7 +9,7 @@ tags: [ vegetative,reproductive,breeding ]
 ## Gene Details:
 - **Gene ID:**	[BnaA07g12390D]()
 - **Gene Symbol:** <u>BnMAN7A07</u>
-- **Gene Name:** 
+- **Gene Name:** MANNANASE7
 - **Genome:** [B. napus reference genome Darmor v4.1]()
 - **Species:** *Brassica napus*
 
@@ -17,6 +17,9 @@ tags: [ vegetative,reproductive,breeding ]
    - An AtMAN7 homolog from rapeseed, and demonstrate its function in the dehiscence of rapeseed siliques.
    - **BnMAN7A07** was expressed in both vegetative and reproductive organs and significantly highly expressed in leaves, flowers and siliques where the abscission or dehiscence process occurs.
    - The expression of hemicellulase gene **BnMAN7A07**, which could provide an available genetic resource for breeding practice in rapeseed which is beneficial to mechanized harvest.
+   - The biological activity of the **BnMAN7A07** protein isolated and purified through prokaryotic expression system was verified to catalyse the decomposition of xylan into xylose.
+   - Our results demonstrate that dehiscence-resistance can be manipulated by altering the expression of hemicellulase gene **BnMAN7A07**, which could provide an available genetic resource for breeding practice in rapeseed which is beneficial to mechanized harvest.
+   - The tissue-specific expression profile of **BnMAN7A07** may provide an expression support to the potential biological functions associated with the silique dehiscence.
 
 ## Function-related keywords:
    - [vegetative](/tags/vegetative/),&nbsp;&nbsp;[reproductive](/tags/reproductive/),&nbsp;&nbsp;[breeding](/tags/breeding/)

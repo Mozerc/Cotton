@@ -25,15 +25,14 @@ tags: [ development,embryo,endosperm,cell cycle,endosperm development,embryo dev
 - [development](/tags/development/),&nbsp;&nbsp;[embryo](/tags/embryo/),&nbsp;&nbsp;[endosperm](/tags/endosperm/),&nbsp;&nbsp;[cell-cycle](/tags/cell-cycle/),&nbsp;&nbsp;[endosperm-development](/tags/endosperm-development/),&nbsp;&nbsp;[embryo-development](/tags/embryo-development/)
 
 ## Literature:
-   - [A Systemic Investigation of Genetic Architecture and Gene Resources Controlling Kernel Size-Related Traits in Maize.]( https://academic.oup.com/plcell/article/31/2/465/5985441)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021025](https://academic.oup.com/plcell/article/31/2/465/5985441);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36674545](https://pubmed.ncbi.nlm.nih.gov/36674545/)
+   - [A Systemic Investigation of Genetic Architecture and Gene Resources Controlling Kernel Size-Related Traits in Maize.](https://academic.oup.com/plcell/article/31/2/465/5985441)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3390/ijms24021025](https://academic.oup.com/plcell/article/31/2/465/5985441);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36674545](https://pubmed.ncbi.nlm.nih.gov/36674545/)
 
 ## Related News:
+   - [Plant Cell | 中国农业大学宋任涛课题组揭示染色体分离和玉米籽粒发育的分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247489406&idx=1&sn=49d8cbaf48946ffa4f5aa11bbb424a50&chksm=fd708d19ca07040fb06fea89352f7e536d445634475fbee0cd053f54b1cf92d43e84e15ba75f&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100192084](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100192084)
 - **UniProt accessions:** [A0A1D6QE72](https://www.uniprot.org/uniprotkb/A0A1D6QE72/entry),&nbsp;&nbsp;[A0A1D6QE77](https://www.uniprot.org/uniprotkb/A0A1D6QE77/entry),&nbsp;&nbsp;[A0A1D6QE82](https://www.uniprot.org/uniprotkb/A0A1D6QE82/entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**
