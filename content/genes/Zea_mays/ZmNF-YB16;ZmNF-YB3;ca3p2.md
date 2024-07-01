@@ -22,15 +22,13 @@ tags: [ temperature,drought,stress,drought stress,breeding,resistant ]
 - [temperature](/tags/temperature/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[resistant](/tags/resistant/)
 
 ## Literature:
-   - [Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1159955](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37265635](https://pubmed.ncbi.nlm.nih.gov/37265635/)
+   - [Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.3389/fpls.2023.1159955](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229843/);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37265635](https://pubmed.ncbi.nlm.nih.gov/37265635/)
 
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:**  [103648324](https://www.ncbi.nlm.nih.gov/gene/?term=103648324)
+- **NCBI ID:**  [LOC103648324](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103648324)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

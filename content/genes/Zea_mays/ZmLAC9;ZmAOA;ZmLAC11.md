@@ -23,7 +23,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
 - [development](/tags/development/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[vascular-development](/tags/vascular-development/),&nbsp;&nbsp;[lignin](/tags/lignin/),&nbsp;&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
 
 ## Literature:
-   - [MicroRNA408 negatively regulates salt tolerance by affecting secondary cell wall development in maize.]( https://academic.oup.com/plphys/article/192/2/1569/7067771?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad135](https://academic.oup.com/plphys/article/192/2/1569/7067771?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36864608](https://pubmed.ncbi.nlm.nih.gov/36864608/)
+   - [MicroRNA408 negatively regulates salt tolerance by affecting secondary cell wall development in maize.](https://academic.oup.com/plphys/article/192/2/1569/7067771?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad135](https://academic.oup.com/plphys/article/192/2/1569/7067771?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[36864608](https://pubmed.ncbi.nlm.nih.gov/36864608/)
    - [Untying the regulatory roles of miRNAs in CuO-NPs stress response mechanism in maize: A genome-wide sRNA transcriptome analysis.]( https://www.sciencedirect.com/science/article/pii/S0045653523028989?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.chemosphere.2023.140628](https://www.sciencedirect.com/science/article/pii/S0045653523028989?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37951395](https://pubmed.ncbi.nlm.nih.gov/37951395/)
 
 ## Related News:
@@ -31,9 +31,7 @@ tags: [ development,salt,tolerance,salt tolerance,cell wall,vascular development
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100282094](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100282094)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **UniProt accessions:** [A0A1D6N822](https://www.uniprot.org/uniprotkb/A0A1D6N822/entry),&nbsp;&nbsp;[B6T3I3](https://www.uniprot.org/uniprotkb/B6T3I3/entry)
 
 ## Sequences:
 - **CDS Sequence:**

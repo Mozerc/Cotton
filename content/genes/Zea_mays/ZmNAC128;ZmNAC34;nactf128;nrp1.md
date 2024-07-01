@@ -30,6 +30,7 @@ tags: [ starch,transporter,endosperm,sucrose,sucrose transporter ]
 
 ## Related News:
    - [The Plant Cell | 中国科学技术大学张志勇团队揭示玉米籽粒灌浆发育调控新机制](https://mp.weixin.qq.com/s/14kCQ91vSSQiwGt5qBVm7A)
+   - [PNAS | 两个NAC转录因子调控玉米种子淀粉和蛋白质的积累](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247490795&idx=1&sn=f60ec1f586e1c433a88705b914edfe1a&chksm=fd70868cca070f9aa2da93c8636616d56b528f43149d0179c1b6667431b6732122a19554587d&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC542131](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542131)

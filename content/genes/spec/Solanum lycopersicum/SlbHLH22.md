@@ -1,5 +1,5 @@
 ---
-description: Solyc03g097820 ; Solanum lycopersicum
+description: basic helix-loop-helix 12 ; Solyc03g097820 ; Solanum lycopersicum
 meta_title:
 title: SlbHLH22
 categories: [Solanum lycopersicum]
@@ -9,7 +9,7 @@ tags: [ transcription factor,aba,ethylene,iaa,flowering time,flowering,ethylene 
 ## Gene Details:
 - **Gene ID:** [Solyc03g097820]()
 - **Gene Symbol:** <u>SlbHLH22</u>
-- **Gene Name:** 
+- **Gene Name:** basic helix-loop-helix 12
 - **Genome:** []()
 - **Species:** *Solanum lycopersicum*
 
@@ -28,8 +28,8 @@ tags: [ transcription factor,aba,ethylene,iaa,flowering time,flowering,ethylene 
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
-- **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
+- **NCBI ID:**  [LOC101055586](https://www.ncbi.nlm.nih.gov/gene/?term=LOC101055586)
+- **UniProt accessions:**  [A0A3Q7FNJ7](https://www.uniprot.org/uniprotkb/A0A3Q7FNJ7/entry)
 
 ## Orthologs:
 

@@ -33,8 +33,6 @@ tags: [ leaf,shoot,vegetative,floral,meristem,reproductive,floral meristem,phloe
 - **NCBI ID:** [100283866](https://www.ncbi.nlm.nih.gov/gene/?term=100283866)
 - **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
 
-
-
 ## Sequences:
 - **CDS Sequence:**
 - **Protein Sequence:**

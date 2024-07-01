@@ -1,5 +1,5 @@
 ---
-description: Zm00001eb068640 ; Zea mays
+description: chloride channel G ; Zm00001eb068640 ; Zea mays
 meta_title:
 title: ZmCLCg
 categories: [Zea mays]
@@ -9,7 +9,7 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 ## Gene Details:
 - **Gene ID:**	[Zm00001eb068640](https://www.maizegdb.org/gene_center/gene/Zm00001eb068640)
 - **Gene Symbol:** <u>ZmCLCg</u>
-- **Gene Name:** 
+- **Gene Name:** chloride channel G
 - **Genome:** [Zm-B73-REFERENCE-NAM-5.0](https://www.maizegdb.org/genome/assembly/Zm-B73-REFERENCE-NAM-5.0)
 - **Species:** *Zea mays*
 
@@ -33,8 +33,6 @@ tags: [ root,shoot,stress,salt,tolerance,salt tolerance,salt stress,stress toler
 ## Gene Resources:
 - **NCBI ID:** [LOC100191503](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100191503)
 - **UniProt accessions:** [A0A1D6DWJ0](https://www.uniprot.org/uniprotkb/A0A1D6DWJ0/entry),&nbsp;&nbsp;[A0A1D6DWJ1](https://www.uniprot.org/uniprotkb/A0A1D6DWJ1/entry),&nbsp;&nbsp;[A0A1D6DWJ2](https://www.uniprot.org/uniprotkb/A0A1D6DWJ2/entry),&nbsp;&nbsp;[A0A3L6FZM6](https://www.uniprot.org/uniprotkb/A0A3L6FZM6/entry),&nbsp;&nbsp;[B4F913](https://www.uniprot.org/uniprotkb/B4F913/entry),&nbsp;&nbsp;[D5LGX3](https://www.uniprot.org/uniprotkb/D5LGX3/entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

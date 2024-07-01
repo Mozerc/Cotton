@@ -26,16 +26,14 @@ tags: [ seedlings,growth,development,vegetative ]
 - [seedlings](/tags/seedlings/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[vegetative](/tags/vegetative/)
 
 ## Literature:
-   - [Maize Urb2 protein is required for kernel development and vegetative growth by affecting pre-ribosomal RNA processing.]( https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15057)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15057](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15057);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29479724](https://pubmed.ncbi.nlm.nih.gov/29479724/)
+   - [Maize Urb2 protein is required for kernel development and vegetative growth by affecting pre-ribosomal RNA processing.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15057)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/nph.15057](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15057);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29479724](https://pubmed.ncbi.nlm.nih.gov/29479724/)
 
 ## Related News:
    - [中国农科院与河南农大合力解析玉米籽粒发育新机制](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247488397&idx=1&sn=e8dfaf06a7f06cbc882ccf981cf789f0&chksm=e8be6193dfc9e885bc3c8cdbfbf2be1ec0c1fd402b7e83183a857a13b2ec138140ef04d8d54d&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100381737](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100381737)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **UniProt accessions:** [A0A1D6JRY9](https://www.uniprot.org/uniprotkb/A0A1D6JRY9/entry),&nbsp;&nbsp;[A0A1D6JS07](https://www.uniprot.org/uniprotkb/A0A1D6JS07/entry)
 
 ## Sequences:
 - **CDS Sequence:**

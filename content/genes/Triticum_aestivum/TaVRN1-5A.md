@@ -25,16 +25,14 @@ tags: [ temperature,growth,flower,vernalization,temperature response ]
    - [temperature](/tags/temperature/),&nbsp;&nbsp;[growth](/tags/growth/),&nbsp;&nbsp;[flower](/tags/flower/),&nbsp;&nbsp;[vernalization](/tags/vernalization/),&nbsp;&nbsp;[temperature-response](/tags/temperature-response/)
 
 ## Literature:
-   - [Positional cloning of the wheat vernalization gene VRN1.]( https://www.pnas.org/doi/10.1073/pnas.0937399100?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.0937399100](https://www.pnas.org/doi/10.1073/pnas.0937399100?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12730378](https://pubmed.ncbi.nlm.nih.gov/12730378/)
+   - [Positional cloning of the wheat vernalization gene VRN1.](https://www.pnas.org/doi/10.1073/pnas.0937399100?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.0937399100](https://www.pnas.org/doi/10.1073/pnas.0937399100?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[12730378](https://pubmed.ncbi.nlm.nih.gov/12730378/)
    - [Wheat FRIZZY PANICLE activates VERNALIZATION1-A and HOMEOBOX4-A to regulate spike development in wheat.](https://doi.org/10.1111/pbi.13535)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.13535](https://doi.org/10.1111/pbi.13535);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[33368973](https://pubmed.ncbi.nlm.nih.gov/33368973/)
 
 ## Related News:
 
 ## Gene Resources:
-- **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
+- **NCBI ID:**  [KT696535.1](https://www.ncbi.nlm.nih.gov/gene/?term=KT696535.1)
 - **UniProt accessions:** [Q5ETV1](https://www.uniprot.org/uniprotkb/Q5ETV1/entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

@@ -22,15 +22,14 @@ tags: [ shoot,somatic embryogenesis ]
 - [shoot](/tags/shoot/),&nbsp;&nbsp;[somatic-embryogenesis](/tags/somatic-embryogenesis/)
 
 ## Literature:
-   - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).]( https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
+   - [A key to totipotency: Wuschel-like homeobox 2a unlocks embryogenic culture response in maize (Zea mays L.).](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pbi.14098](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14098);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37357571](https://pubmed.ncbi.nlm.nih.gov/37357571/)
 
 ## Related News:
+   - [华中农大研究团队联合多家单位建立不依赖基因型的高效玉米遗传转化体系！](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247518669&idx=3&sn=c89cf398a7f6f0e1dfdfbf9e983e1b78&chksm=fd7313aaca049abcd7ff93c495ffcff850c6877c1284eec8f265079c9356de7e0c7416ac19f7&scene=27#wechat_redirect)
 
-## Gene Resources:
+# Gene Resources:
 - **NCBI ID:**  [LOC100037787](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100037787)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **UniProt accessions:** [A0AAS6](https://www.uniprot.org/uniprotkb/A0AAS6/entry)
 
 ## Sequences:
 - **CDS Sequence:**

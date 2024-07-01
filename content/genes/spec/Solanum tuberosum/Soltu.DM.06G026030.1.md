@@ -27,6 +27,7 @@ tags: [ transcription factor,ga ]
    - [Spud buds: stAST1 antagonizes potato tuber development by suppressing the alternative Tuberization Activation Complex (aTAC).](https://doi.org/10.1093/plphys/kiae180)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiae180](https://doi.org/10.1093/plphys/kiae180);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38513697](https://pubmed.ncbi.nlm.nih.gov/38513697/)
 
 ## Related News:
+   - [Plant Physiol | 华中农业大学马铃薯团队揭示TCP家族转录因子StAST1调控马玲薯熟性的分子机制](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247534244&idx=3&sn=a055552e83a83088fafb1064407c9627&chksm=fc88d6a27525c14c09a3e153367ed14ef47328a5d87210ebe91076c83dcc223c61a83844e404&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)

@@ -25,16 +25,14 @@ tags: [ root,resistance,stress,tolerance,root elongation,stress tolerance,transp
 - [root](/tags/root/),&nbsp;&nbsp;[resistance](/tags/resistance/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[root-elongation](/tags/root-elongation/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[transporter](/tags/transporter/),&nbsp;&nbsp;[aluminum](/tags/aluminum/),&nbsp;&nbsp;[al-tolerance](/tags/al-tolerance/),&nbsp;&nbsp;[nitrate](/tags/nitrate/),&nbsp;&nbsp;[nitrate-transporter](/tags/nitrate-transporter/),&nbsp;&nbsp;[al-resistance](/tags/al-resistance/),&nbsp;&nbsp;[aluminum-resistance](/tags/aluminum-resistance/),&nbsp;&nbsp;[aluminum-tolerance](/tags/aluminum-tolerance/)
 
 ## Literature:
-   - [Nitrate improves aluminium resistance through SLAH-mediated citrate exudation from roots.]( https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14688](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37574955](https://pubmed.ncbi.nlm.nih.gov/37574955/)
+   - [Nitrate improves aluminium resistance through SLAH-mediated citrate exudation from roots.](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/pce.14688](https://onlinelibrary.wiley.com/doi/10.1111/pce.14688);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37574955](https://pubmed.ncbi.nlm.nih.gov/37574955/)
 
 ## Related News:
    - [山东大学揭示了硝态氮在玉米和拟南芥中保守地改善铝胁迫耐受性的分子作用机制。](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247578874&idx=3&sn=c8868cfb59fcc7ac1032e6443567a260&chksm=e938695f2cb13a5a10ffd514646b74d5097e95ee3379ddd21555ab6a1b21d822c518b9f6865d&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100279242](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100279242)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **UniProt accessions:** [B7ZX38](https://www.uniprot.org/uniprotkb/B7ZX38/entry),&nbsp;&nbsp;[K7THW9](https://www.uniprot.org/uniprotkb/K7THW9/entry)
 
 ## Sequences:
 - **CDS Sequence:**

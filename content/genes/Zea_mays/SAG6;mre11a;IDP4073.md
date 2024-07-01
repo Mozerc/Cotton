@@ -22,7 +22,7 @@ tags: [ salt,tolerance,salt tolerance ]
 - [salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/)
 
 ## Literature:
-   - [Genome-wide association study dissects the genetic bases of salt tolerance in maize seedlings.]( https://onlinelibrary.wiley.com/doi/10.1111/jipb.12797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12797](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12797);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30803125](https://pubmed.ncbi.nlm.nih.gov/30803125/)
+   - [Genome-wide association study dissects the genetic bases of salt tolerance in maize seedlings.](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12797)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/jipb.12797](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12797);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30803125](https://pubmed.ncbi.nlm.nih.gov/30803125/)
 
 ## Related News:
    - [华中农业大学代明球课题组解析玉米耐盐遗传基础](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247489779&idx=3&sn=9c496a686f6e0a34d6bba6a3524ec2c8&chksm=fd708294ca070b8228af0fc23e98e4a092ca99c41552c32af88cec9b0b08b896ceb78a415196&scene=27#wechat_redirect)
@@ -30,8 +30,6 @@ tags: [ salt,tolerance,salt tolerance ]
 ## Gene Resources:
 - **NCBI ID:**  [100285133](https://www.ncbi.nlm.nih.gov/gene/?term=100285133)
 - **UniProt accessions:** [A0A1D6DX49](https://www.uniprot.org/uniprotkb/A0A1D6DX49/entry),&nbsp;&nbsp;[A5YT63](https://www.uniprot.org/uniprotkb/A5YT63/entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

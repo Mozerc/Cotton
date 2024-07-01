@@ -29,10 +29,8 @@ tags: [ kinase,defense response,defense,immune response,receptor kinase ]
    - [西北农林农学院玉米生物学与抗逆遗传育种团队发现玉米小斑病感病新基因](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247564904&idx=6&sn=b0ba6f76d25f5eb3f8cb21ea2076933e&chksm=e8bc8c76dfcb0560be6440b119d114e8c1e3349dddaf7c9b591f0e08e263c3c3c4c00970d085&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:** [103649762](https://www.ncbi.nlm.nih.gov/gene/?term=103649762)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **NCBI ID:** [LOC103649762](https://www.ncbi.nlm.nih.gov/gene/?term=LOC103649762)
+- **UniProt accessions:** [A0A1D6ML90](https://www.uniprot.org/uniprotkb/A0A1D6ML90/entry)
 
 ## Sequences:
 - **CDS Sequence:**

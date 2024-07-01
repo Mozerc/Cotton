@@ -23,16 +23,15 @@ tags: [ seed,aba ]
 - [seed](/tags/seed/),&nbsp;&nbsp;[aba](/tags/aba/)
 
 ## Literature:
-   - [Maize VIVIPAROUS1 Interacts with ABA INSENSITIVE5 to Regulate GALACTINOL SYNTHASE2 Expression Controlling Seed Raffinose Accumulation.]( https://pubs.acs.org/doi/10.1021/acs.jafc.9b00322)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1021/acs.jafc.9b00322](https://pubs.acs.org/doi/10.1021/acs.jafc.9b00322);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30915847](https://pubmed.ncbi.nlm.nih.gov/30915847/)
+   - [Maize VIVIPAROUS1 Interacts with ABA INSENSITIVE5 to Regulate GALACTINOL SYNTHASE2 Expression Controlling Seed Raffinose Accumulation.](https://pubs.acs.org/doi/10.1021/acs.jafc.9b00322)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1021/acs.jafc.9b00322](https://pubs.acs.org/doi/10.1021/acs.jafc.9b00322);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[30915847](https://pubmed.ncbi.nlm.nih.gov/30915847/)
 
 ## Related News:
    - [西北农林科技大学赵天永团队发现玉米种子棉子糖生物合成调控新通路](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247490290&idx=3&sn=e478dd2405d6a96091a428a039a8e0a6&chksm=fd708095ca070983c854c050116922c53df6632da66469f313ac06ce22b3d93d537ccd82fa6f&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC100285149](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100285149)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **UniProt accessions:** [B6U1B2](https://www.uniprot.org/uniprotkb/B6U1B2/entry),&nbsp;&nbsp;
+[B6UI01](https://www.uniprot.org/uniprotkb/B6UI01/entry)
 
 ## Sequences:
 - **CDS Sequence:**

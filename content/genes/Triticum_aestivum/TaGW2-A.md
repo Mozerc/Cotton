@@ -24,6 +24,7 @@ tags: [ cell proliferation,cell expansion, drought resistance]
    - Down-regulation of the **TaGW2** gene by RNA interference results in decreased grain size and weight in wheat.
    - **TaGW2-6A** allelic variation contributes to grain size possibly by regulating the expression of cytokinins and starch-related genes in wheat.
   - Functional allelic variants of **TaGW2-6A** produce large grains, possibly via changes in endosperm cells and dry matter by regulating the expression of cytokinins and starch-related genes via the ubiquitin-proteasome system.
+   - The E3 ligase **TaGW2** mediates transcription factor TaARR12 degradation to promote drought resistance in wheat.
 
 ## Function-related keywords:
    - [cell-proliferation](/tags/cell-proliferation/),&nbsp;&nbsp;[cell-expansion](/tags/cell-expansion/),&nbsp;&nbsp;[drought-resistance](/tags/drought-resistance/)
@@ -34,15 +35,15 @@ tags: [ cell proliferation,cell expansion, drought resistance]
    - [Analysis of the functions of TaGW2 homoeologs in wheat grain weight and protein content traits.](https://doi.org/10.1111/tpj.13903)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1111/tpj.13903](https://doi.org/10.1111/tpj.13903);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[29570880](https://pubmed.ncbi.nlm.nih.gov/29570880/)
    - [Down-regulation of the TaGW2 gene by RNA interference results in decreased grain size and weight in wheat.](https://doi.org/10.1093/jxb/ers249)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/jxb/ers249](https://doi.org/10.1093/jxb/ers249);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[22996678](https://pubmed.ncbi.nlm.nih.gov/22996678/)
    - [TaGW2-6A allelic variation contributes to grain size possibly by regulating the expression of cytokinins and starch-related genes in wheat.](https://doi.org/10.1007/s00425-017-2759-8)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1007/s00425-017-2759-8](https://doi.org/10.1007/s00425-017-2759-8);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[28825220](https://pubmed.ncbi.nlm.nih.gov/28825220/)
+   - [The E3 ligase TaGW2 mediates transcription factor TaARR12 degradation to promote drought resistance in wheat.](https://doi.org/10.1093/plcell/koad307)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plcell/koad307](https://doi.org/10.1093/plcell/koad307);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[38079275](https://pubmed.ncbi.nlm.nih.gov/38079275/)
 
 ## Related News:
    - [PBJ | 中国农科院作物所张学勇课题组在小麦粒重基因互作网络研究方面取得重大进展！](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247486409&idx=2&sn=666b450f07f841c1bbce7bbe49e058da&chksm=ce93a69cf9e42f8a4da461a3d99a9333da04954c14d5a2223bf7d1008fd7139f5a8f78ffdb39&scene=27#wechat_redirect)
+   - [TaGW2调控小麦的耐旱性](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247566368&idx=5&sn=41791d8b217a6f8b6447c4ae453cba08&chksm=cfc0ba45698730c7a0e0c10b72beb5f680aa28a643d99b78e167eeaa6f61b29128776ac6443b&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [](https://www.ncbi.nlm.nih.gov/gene/?term=)
 - **UniProt accessions:** [A0A097ET43](https://www.uniprot.org/uniprotkb/A0A097ET43/entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**

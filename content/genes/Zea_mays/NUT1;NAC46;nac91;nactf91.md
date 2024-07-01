@@ -24,16 +24,14 @@ tags: [ transcription factor,xylem,development,drought,stress,drought stress,bre
 - [transcription-factor](/tags/transcription-factor/),&nbsp;&nbsp;[xylem](/tags/xylem/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[cell-wall](/tags/cell-wall/),&nbsp;&nbsp;[flowering](/tags/flowering/),&nbsp;&nbsp;[heat-stress](/tags/heat-stress/),&nbsp;&nbsp;[secondary-cell-wall](/tags/secondary-cell-wall/)
 
 ## Literature:
-   - [Necrotic upper tips1 mimics heat and drought stress and encodes a protoxylem-specific transcription factor in maize.]( https://www.pnas.org/doi/10.1073/pnas.2005014117?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2005014117](https://www.pnas.org/doi/10.1073/pnas.2005014117?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32778598](https://pubmed.ncbi.nlm.nih.gov/32778598/)
+   - [Necrotic upper tips1 mimics heat and drought stress and encodes a protoxylem-specific transcription factor in maize.](https://www.pnas.org/doi/10.1073/pnas.2005014117?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1073/pnas.2005014117](https://www.pnas.org/doi/10.1073/pnas.2005014117?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32778598](https://pubmed.ncbi.nlm.nih.gov/32778598/)
 
 ## Related News:
    - [PNAS | 玉米中一个与高温和干旱胁迫相关的关键转录因子](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247497710&idx=1&sn=1fb9a54d2001b998468bfb6741afb8bd&chksm=fd736d89ca04e49f600bc3ac6549ec0cb2996133e3b286eeee2d75062292bf800dab8647a128&scene=27#wechat_redirect)
 
 ## Gene Resources:
-- **NCBI ID:**  [100281519](https://www.ncbi.nlm.nih.gov/gene/?term=100281519)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **NCBI ID:**  [LOC100281519](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100281519)
+- **UniProt accessions:** [A0A804UIT4](https://www.uniprot.org/uniprotkb/A0A804UIT4/entry),&nbsp;&nbsp;[B6SW55](https://www.uniprot.org/uniprotkb/B6SW55/entry)
 
 ## Sequences:
 - **CDS Sequence:**

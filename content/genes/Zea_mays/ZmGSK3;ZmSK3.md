@@ -22,16 +22,14 @@ tags: [ kinase,brassinosteroid,stress,salt,salt stress,homeostasis,breeding,prot
 - [kinase](/tags/kinase/),&nbsp;&nbsp;[brassinosteroid](/tags/brassinosteroid/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[homeostasis](/tags/homeostasis/),&nbsp;&nbsp;[breeding](/tags/breeding/),&nbsp;&nbsp;[protein-kinase](/tags/protein-kinase/),&nbsp;&nbsp;[calcium](/tags/calcium/)
 
 ## Literature:
-   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.]( https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
+   - [Inhibition of the maize salt overly sensitive pathway by ZmSK3 and ZmSK4.](https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1016/j.jgg.2023.04.010](https://www.sciencedirect.com/science/article/pii/S1673852723000978?via%3Dihub);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37127254](https://pubmed.ncbi.nlm.nih.gov/37127254/)
 
 ## Related News:
    - [JGG｜中国农大郭岩团队解析盐胁迫下玉米SOS途径的调控机制](https://mp.weixin.qq.com/s/gUQP-zuzfb9JtTU8k_vBdw)
 
 ## Gene Resources:
 - **NCBI ID:** [LOC100283610](https://www.ncbi.nlm.nih.gov/gene/?term=LOC100283610)
-- **UniProt accessions:** [](https://www.uniprot.org/uniprotkb//entry)
-
-
+- **UniProt accessions:** [A0A1D6H670](https://www.uniprot.org/uniprotkb/A0A1D6H670/entry),&nbsp;&nbsp;[A0A1D6QQ05](https://www.uniprot.org/uniprotkb/A0A1D6QQ05/entry)
 
 ## Sequences:
 - **CDS Sequence:**

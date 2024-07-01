@@ -24,15 +24,14 @@ tags: [ drought,stress,drought stress,photosynthesis,tolerance,abiotic stress,ab
 - [drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[photosynthesis](/tags/photosynthesis/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[aba](/tags/aba/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/),&nbsp;&nbsp;[stomatal](/tags/stomatal/),&nbsp;&nbsp;[stress-response](/tags/stress-response/),&nbsp;&nbsp;[drought-stress-response](/tags/drought-stress-response/),&nbsp;&nbsp;[drought-response](/tags/drought-response/),&nbsp;&nbsp;[abiotic-stress-response](/tags/abiotic-stress-response/)
 
 ## Literature:
-   - [Maize GOLDEN2-LIKE proteins enhance drought tolerance in rice by promoting stomatal closure.]( https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad561](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37850886](https://pubmed.ncbi.nlm.nih.gov/37850886/)
+   - [Maize GOLDEN2-LIKE proteins enhance drought tolerance in rice by promoting stomatal closure.](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1093/plphys/kiad561](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad561/7321085?login=true);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[37850886](https://pubmed.ncbi.nlm.nih.gov/37850886/)
 
 ## Related News:
+   - [SCLS | 刘耀光院士团队发现玉米GOLDEN 2通过促进叶绿体的发育提高水稻和玉米的转化效率](https://mp.weixin.qq.com/s?__biz=MzU3ODY3MDM0NA==&mid=2247521394&idx=3&sn=fec2417505c0dc9fce6263b85ca3fdf9&chksm=fd730e15ca0487039870aa018a20d4d88b9a6f95d6ce19bf58a33752342cafe8398960de4ff7&scene=27#wechat_redirect)
 
 ## Gene Resources:
 - **NCBI ID:**  [LOC542493](https://www.ncbi.nlm.nih.gov/gene/?term=LOC542493)
 - **UniProt accessions:** [P26216](https://www.uniprot.org/uniprotkb/P26216/entry)
-
-
 
 ## Sequences:
 - **CDS Sequence:**
