@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seed Development on COTTON</title>
+    <link>//localhost:1313/tags/seed-development/</link>
+    <description>Recent content in Seed Development on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/seed-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhGASL3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D04G017310 Gene Symbol: GhGASL3 Gene Name: Genome: TM-1 genome (HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>GhMML3_A12</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmml3_a12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmml3_a12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMML3_A12 Gene Name: MYBMIXTA-like transcription factor 3 Genome: Species: Gossypium hirsutum Functional Descriptions: Small interfering RNAs from bidirectional transcripts of GhMML3_A12 regulate cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhMYB212</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</guid>
+      <description>Gene Details: Gene ID: Gorai.007G350500.1 Gene Symbol: GhMYB212 Gene Name: R2R3-MYB transcription factor 212 Genome: Phytozome v.</description>
+    </item>
+    <item>
+      <title>GhPAS1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G0607 Gene Symbol: GhPAS1 Gene Name: PAGODA1 SUPPRESSOR 1 Genome: Species: Gossypium hirsutum Functional Descriptions: The bHLH transcription factor GhPAS1 mediates BR signaling to regulate plant development and architecture in cotton.</description>
+    </item>
+    <item>
+      <title>GhSWEET12</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</guid>
+      <description>Gene Details: Gene ID: Gorai.005G195100 Gene Symbol: GhSWEET12 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: RNA-seq and protein−DNA binding assays revealed that GhMYB212 was closely linked to the pathways of sucrose and starch transportation and metabolism, directly controling the expression of a sucrose transporter gene GhSWEET12.</description>
+    </item>
+    <item>
+      <title>GhVIP1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghvip1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghvip1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhVIP1 Gene Name: bZIP transcription factor 1 Genome: cotton genome (G.</description>
+    </item>
+  </channel>
+</rss>

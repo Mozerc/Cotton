@@ -34,5 +34,9 @@ tags: [ growth,development,auxin,resistance,plant development,stress,salt,salt s
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

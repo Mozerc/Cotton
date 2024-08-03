@@ -1,0 +1,2819 @@
+<!doctype html>
+<html
+  itemscope
+  class=""
+  lang="en-us"
+  itemtype="http://schema.org/WebPage">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=60475&amp;path=livereload" data-no-instant defer></script>
+    
+    <meta charset="utf-8" />
+
+
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+
+<meta name="theme-name" content="hugoplate" />
+
+
+
+
+
+
+
+
+
+<link rel="manifest" href="/manifest.webmanifest" />
+<meta
+  name="msapplication-TileColor"
+  content="#ddd" />
+<meta
+  name="theme-color"
+  content="#ffffff" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <base href="//localhost:60475/tags/development/" />
+
+
+
+
+
+
+
+
+<title>funPlantGenes</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta
+    name="keywords"
+    content="Boilerplate, Hugo" />
+
+
+
+
+<meta
+  name="description"
+  content="Hugo &amp; Tailwindcss Starter" />
+
+
+
+  <meta name="author" content="zeon.studio" />
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+
+
+  
+  
+
+
+  
+
+
+
+
+
+<meta property="og:title" content="funPlantGenes" />
+<meta property="og:description" content="Hugo &amp; Tailwindcss Starter" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="//localhost:60475/tags/development/" />
+
+
+<meta name="twitter:title" content="funPlantGenes" />
+<meta name="twitter:description" content="Hugo &amp; Tailwindcss Starter" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  let indexURL = "//localhost:60475/searchindex.json";
+  let includeSectionsInSearch = ["genes","pages","sections","submit"];
+  let no_results_for = "No results for";
+  let empty_search_results_placeholder = "Type something to search..";
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="preconnect" href="https://use.fontawesome.com" crossorigin />
+<link rel="preconnect" href="//cdnjs.cloudflare.com" />
+<link rel="preconnect" href="//www.googletagmanager.com" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://use.fontawesome.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="dns-prefetch" href="//platform.linkedin.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<script>
+  (function () {
+    const googleFont = document.createElement("link");
+    googleFont.href = "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Montserrat:wght@500;700&display=swap";
+    googleFont.type = "text/css";
+    googleFont.rel = "stylesheet";
+    document.head.appendChild(googleFont);
+  })();
+</script>
+
+
+
+
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<link
+  href="/css/style.css"
+  integrity=""
+  rel="stylesheet" />
+
+
+<link
+  defer
+  async
+  rel="stylesheet"
+  href="/css/style-lazy.css"
+  integrity=""
+  media="print"
+  onload="this.media='all'; this.onload=null;" />
+
+  </head>
+
+  <body style="padding-top: 2px; padding-bottom: 2px;">
+    
+    
+      
+
+
+
+      
+
+    
+  
+    
+    <header
+  class="header sticky top-0 z-30">
+  <nav class="navbar container">
+    
+    <div class="order-0">
+      
+      <a class="navbar-brand block" href="/">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  funPlantGenes
+
+
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Menu Open</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Menu Close</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/species/"
+              >SPECIES</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/genes/"
+              >GENES</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/tags/"
+              >FUNCTION</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item nav-dropdown group relative">
+            <span
+              class="nav-link 
+                
+                
+                
+              
+                
+                
+                
+               inline-flex items-center">
+              HELP
+              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+                <path
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+              </svg>
+            </span>
+            <ul
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/about/">
+                    LINKS
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/submit/">
+                    SUBMIT
+                  </a>
+                </li>
+              
+            </ul>
+          </li>
+        
+      
+      
+        <li class="mt-4 inline-block lg:hidden">
+          <a
+            class="btn btn-outline-primary btn-sm"
+            href="/submit">
+            Submit
+          </a>
+        </li>
+      
+    </ul>
+
+    
+     
+
+  <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;">
+
+    <input
+  id="search-modal-input"
+  type="text"
+  placeholder="Search"
+  autocomplete="on"
+  aria-label="Search"
+  aria-describedby="Search"
+  placeholder="Search Post ..."
+  style="width: 120px; /* 设置宽度为800像素 */
+         padding: 5px;
+         border: 2px solid #ccc;
+         border-radius: 20px;
+         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+         outline: none;
+         transition: border-color 0.3s ease-in-out;
+         margin-right: 20px; /* 添加右边距 */"/>
+    <button
+        id="search-button"
+        aria-label="search"
+        class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
+        data-target="search-modal"
+        onclick="search()">
+        <i class="fa-solid fa-search"></i>
+    </button>
+
+   
+   </div>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;"></div>
+          
+
+
+
+
+
+
+
+
+
+          
+
+
+  <div class="theme-switcher mr-5">
+    <input id="theme-switcher" data-theme-switcher type="checkbox" />
+    <label for="theme-switcher">
+      <span class="sr-only">theme switcher</span>
+      <span>
+        
+        <svg
+          class="absolute left-[4px] top-[4px] z-10 opacity-100 dark:opacity-0"
+          viewBox="0 0 56 56"
+          fill="#fff"
+          height="16"
+          width="16">
+          <path
+            d="M30 4.6c0-1-.9-2-2-2a2 2 0 0 0-2 2v5c0 1 .9 2 2 2s2-1 2-2Zm9.6 9a2 2 0 0 0 0 2.8c.8.8 2 .8 2.9 0L46 13a2 2 0 0 0 0-2.9 2 2 0 0 0-3 0Zm-26 2.8c.7.8 2 .8 2.8 0 .8-.7.8-2 0-2.9L13 10c-.7-.7-2-.8-2.9 0-.7.8-.7 2.1 0 3ZM28 16a12 12 0 0 0-12 12 12 12 0 0 0 12 12 12 12 0 0 0 12-12 12 12 0 0 0-12-12Zm23.3 14c1.1 0 2-.9 2-2s-.9-2-2-2h-4.9a2 2 0 0 0-2 2c0 1.1 1 2 2 2ZM4.7 26a2 2 0 0 0-2 2c0 1.1.9 2 2 2h4.9c1 0 2-.9 2-2s-1-2-2-2Zm37.8 13.6a2 2 0 0 0-3 0 2 2 0 0 0 0 2.9l3.6 3.5a2 2 0 0 0 2.9 0c.8-.8.8-2.1 0-3ZM10 43.1a2 2 0 0 0 0 2.9c.8.7 2.1.8 3 0l3.4-3.5c.8-.8.8-2.1 0-2.9-.8-.8-2-.8-2.9 0Zm20 3.4c0-1.1-.9-2-2-2a2 2 0 0 0-2 2v4.9c0 1 .9 2 2 2s2-1 2-2Z" />
+        </svg>
+        
+        <svg
+          class="absolute left-[4px] top-[4px] z-10 opacity-0 dark:opacity-100"
+          viewBox="0 0 24 24"
+          fill="none"
+          height="16"
+          width="16">
+          <path
+            fill="#000"
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M8.2 2.2c1-.4 2 .6 1.6 1.5-1 3-.4 6.4 1.8 8.7a8.4 8.4 0 0 0 8.7 1.8c1-.3 2 .5 1.5 1.5v.1a10.3 10.3 0 0 1-9.4 6.2A10.3 10.3 0 0 1 3.2 6.7c1-2 2.9-3.5 4.9-4.4Z" />
+        </svg>
+      </span>
+    </label>
+  </div>
+
+  
+  <script>
+    var darkMode = false;
+
+    
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches){darkMode = true}
+    
+
+    if (localStorage.getItem("theme") === "dark"){darkMode = true}
+    else if (localStorage.getItem("theme") === "light"){darkMode = false}
+    if (darkMode){document.documentElement.classList.toggle("dark")}
+    var themeSwitch = document.querySelectorAll("[data-theme-switcher]");
+
+    document.addEventListener("DOMContentLoaded", () => {
+      [].forEach.call(themeSwitch, function (ts) {
+        ts.checked = darkMode ? true : false;
+        ts.addEventListener("click", () => {
+          document.documentElement.classList.toggle("dark");
+          localStorage.setItem(
+            "theme",
+            document.documentElement.classList.contains("dark") ? "dark" : "light"
+          );
+        });
+      });
+    });
+  </script>
+
+
+    </div>
+
+  </nav>
+       
+</header>
+
+    
+
+
+
+
+  
+    <div
+      class="search-modal "
+      aria-hidden="true"
+      style="--color-primary: #121212">
+      <div data-target="close-search-modal" class="search-modal-overlay"></div>
+      <div
+        class="search-wrapper"
+        #data-image="true"
+        data-description="true"
+        data-tags="true"
+        data-categories="true">
+        <div class="search-wrapper-header">
+          <label for="search-modal-input" style="margin-top:-1px">
+            <span class="sr-only">search icon</span>
+          </label>
+        </div>   
+        <div class="search-wrapper-body">
+          <div class="search-result" data-search-result></div>
+          <span class="search-result-empty">
+            Type something to search..
+          </span>
+        </div>
+        <div class="search-wrapper-footer">
+          <span>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                fill="currentColor"
+                viewBox="0 0 16 16">
+                <path
+                  d="M3.204 11h9.592L8 5.519 3.204 11zm-.753-.659 4.796-5.48a1 1 0 0 1 1.506 0l4.796 5.48c.566.647.106 1.659-.753 1.659H3.204a1 1 0 0 1-.753-1.659z" />
+              </svg>
+            </kbd>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                fill="currentColor"
+                style="margin-top:1px;"
+                viewBox="0 0 16 16">
+                <path
+                  d="M3.204 5h9.592L8 10.481 3.204 5zm-.753.659 4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
+              </svg>
+            </kbd>
+            to navigate
+          </span>
+          <span>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="12"
+                height="12"
+                fill="currentColor"
+                style="display:inline-block;"
+                viewBox="0 0 16 16">
+                <path
+                  fill-rule="evenodd"
+                  d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z" />
+              </svg>
+            </kbd>
+            to select
+          </span>
+          <span class="search-result-info"></span>
+          <span data-target="close-search-modal">
+            <kbd>ESC</kbd> to close
+          </span>
+        </div>
+      </div>
+    </div>
+  
+
+
+  
+    <main>
+      
+<style>
+   
+  .title-text {
+    font-size: 20px;  
+    color: #000;  
+    font-weight: bold;  
+  }
+
+   
+  .description-text {
+    font-size: 14px;  
+    color: #666;  
+  }
+</style>
+
+<section class="section" style="padding-bottom: 30px; padding-top: 10px;">
+  <div style="text-align: center; margin-bottom: 30px;">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+ <nav 
+    class="flex items-center justify-center space-x-3" 
+    aria-label="Pagination"  >
+    
+    <div style="text-align: left; display: block;">Total pages: 20</div>
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5" 
+        href="/tags/development/page/7/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Previous</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+      
+    
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/4/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            4
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/5/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            5
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/6/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            6
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/7/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            7
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <span
+            aria-current="page"
+            class="bg-primary dark:bg-darkmode-primary dark:text-dark rounded px-2 py-1 text-white">
+            8
+          </span>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/9/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            9
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/10/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            10
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/11/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            11
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/12/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            12
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+     
+
+    
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
+        href="/tags/development/page/9/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Next</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+    
+        
+        
+        <button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white ">Go to page</button>
+        <input type="number" id="pageInput" min="1" max="20" placeholder="8" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" onfocus="this.placeholder=''" onblur="this.placeholder='8'">
+        
+        
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('jumpBtn').addEventListener('click', function() {
+        var pageInput = document.getElementById('pageInput').value;
+        var totalPages =  20 ;
+        
+        if (pageInput >= 1 && pageInput <= totalPages) {
+            var url = "\/tags\/development\/page\/8\/";
+            
+            if (url.includes("8")) {
+                
+                url = url.replace("8", pageInput);
+            } else {
+                
+                url += "/page/" + pageInput;
+            }
+            
+            window.location.href = url;
+        } else {
+            alert("Invalid page number!");
+        }
+    });
+});
+        </script>
+  
+  </nav>
+  
+
+
+
+
+
+   
+  </div>
+  <div class="container">
+    <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" >
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os10g35180/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsABCG26
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os10g35180 ; Os10g0494300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g61940/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsABCG3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g61940 ; Os01g0836600 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os07g33780/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsABCG43;PDR5
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os07g33780 ; Os07g0522500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os11g29850/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsABCI8;TSC1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os11g29850 ; Os11g0490800 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g02490/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsACBP2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g02490 ; Os06g0115300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g04120/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsACS
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g04120 ; Os03g0133500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os10g03660/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsADF
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os10g03660 ; Os10g0125300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g65940/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsADK1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g65940 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g08850/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAFB6;OsAFB5
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g08850 ; Os03g0187500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g07310/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAGO17
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g07310 ; Os02g0169400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g47870/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAGO1b
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g47870 ; Os04g0566500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g51310/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAGO1d
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g51310 ; Os06g0729300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g52540/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAGO2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g52540 ; Os04g0615700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os05g25840/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAGSW1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os05g25840 ; Os05g0323800 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os08g02490/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAHL1;AHL1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os08g02490 ; Os08g0118000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g45990/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAKT1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g45990 ; Os01g0648000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g40640/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAld-Y
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g40640 ; Os06g0608700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g15990/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsALDH2b;OsALDH2B1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g15990 ; Os06g0270900 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g45160/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsALMT7
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g45160 ; Os02g0673100 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g52090/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAP2-39
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g52090 ; Os04g0610400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os10g28360/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsARD4
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os10g28360 ; Os10g0419500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g36670/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsARGOS
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g36670 ; Os04g0444300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g41730/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsARID3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g41730 ; Os06g0622300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os12g04930/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsASHL1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os12g04930 ; Os12g0143200 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os11g04930/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsASHL2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os11g04930 ; Os11g0146500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g18130/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsASN1;OsAS1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g18130 ; Os03g0291500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g53240/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsATG8b
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g53240 ; Os04g0624000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g63770/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAUX1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g63770 ; Os01g0856500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os05g37470/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsAUX3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os05g37470 ; Os05g0447200 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g18910/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBC1L1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g18910 ; Os03g0301200 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os07g49080/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBC1L8
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os07g49080 ; Os07g0690900 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g06640/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsbHLH035;OsbHLH35
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g06640 ; Os01g0159800 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g57580/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsbHLH069
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g57580 ; Os01g0784900 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g56140/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsbHLH107
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g56140 ; Os02g0805250 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g27390/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsbHLH138
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g27390 ; Os03g0391700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g55270/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBHT
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g55270 ; Os01g0757500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os09g07294/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBIG
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os09g07294 ; Os09g0247700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g01830/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBIRH1;TCD33
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g01830 ; Os03g0108600 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os08g07760/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBISERK1;OsSERK1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os08g07760 ; Os08g0174700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g02290/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBRM
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g02290 ; Os02g0114000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g10800/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBT1-1;OsBT1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g10800 ; Os02g0202400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g40050/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBT1-3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g40050 ; Os06g0602700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os10g34180/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsBTF3;Osj10gBTF3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os10g34180 ; Os10g0483000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g15480/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsbZIP47
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g15480 ; Os06g0265400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g39960/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsbZIP48
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g39960 ; Os06g0601500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os09g34880/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsbZIP76
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os09g34880 ; Os09g0520400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g31110/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCAF1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g31110 ; Os01g0495900 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g58810/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCAF1B
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g58810 ; Os04g0684900 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g21990/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCAF2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g21990 ; Os01g0323300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os10g41780/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCAO1;PGL
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os10g41780 ; Os10g0567400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g03660/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCDPK1;OsCDPK13
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g03660 ; Os03g0128700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g40784/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCER1;OsGL1-4
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g40784 ; Os02g0621300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g39060/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCFM2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g39060 ; Os04g0464800 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g20380/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCK1;OsCIPK31
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g20380 ; Os03g0319400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g50480/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCKT1;OHK5
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g50480 ; Os02g0738400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g71310/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCKX4
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g71310 ; Os01g0940000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g16390/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCLF;SDG711
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g16390 ; Os06g0275500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os05g51450/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsClpR1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os05g51450 ; Os05g0592100 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os05g45280/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCOLE1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os05g45280 ; Os05g0529000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os11g04710/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCPD1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os11g04710 ; Os11g0143200 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os12g04480/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCPD2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os12g04480 ; Os12g0139300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os08g42750/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCPK21
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os08g42750 ; Os08g0540400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os11g07040/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCPK24;OsCDPK14
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os11g07040 ; Os11g0171500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g03410/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCPK4
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g03410 ; Os02g0126400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os06g02380/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCpn60beta1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os06g02380 ; Os06g0114000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g02020/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCPPR1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g02020 ; Os02g0110400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os11g05556/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OscpSRP54b
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os11g05556 ; Os11g0153700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g43670/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCR4;MIS2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g43670 ; Os03g0637800 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os11g36440/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCRTISO;ZEBRA2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os11g36440 ; Os11g0572700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g02540/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCSN1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g02540 ; Os03g0116500 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os08g40030/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCUC3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os08g40030 ; Os08g0511200 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os01g43380/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCUGT1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os01g43380 ; Os01g0622000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os07g47360/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCW-ZF7;WG7
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os07g47360 ; Os07g0669800 ; Os07g0669900 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os02g02890/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCYP2;OsCyp2-P
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os02g02890 ; Os02g0121300 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os11g32240/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCYP51G1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os11g32240 ; Os11g0525200 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os05g12040/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCYP51G3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os05g12040 ; Os05g0211100 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os07g28110/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCYP51H3
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os07g28110 ; Os07g0464700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g04680/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsCYP96B4;BSH1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g04680 ; Os03g0140400 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os04g20330/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OscZOG1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os04g20330 ; Os04g0271700 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os03g31570/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                OsDES1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os03g31570 ; Os03g0430000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+    </ul>
+    <div style="text-align: center; margin-top: 20px;">
+      
+
+
+
+
+
+
+
+
+
+
+
+  
+ <nav 
+    class="flex items-center justify-center space-x-3" 
+    aria-label="Pagination"  >
+    
+    <div style="text-align: left; display: block;">Total pages: 20</div>
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5" 
+        href="/tags/development/page/7/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Previous</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+      
+    
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/4/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            4
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/5/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            5
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/6/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            6
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/7/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            7
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <span
+            aria-current="page"
+            class="bg-primary dark:bg-darkmode-primary dark:text-dark rounded px-2 py-1 text-white">
+            8
+          </span>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/9/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            9
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/10/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            10
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/11/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            11
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/12/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            12
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+     
+
+    
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
+        href="/tags/development/page/9/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Next</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+    
+        
+        
+        <button id="jumpBtnBottom" class="rounded px-2 py-1 bg-primary text-white ">Go to page</button>
+        <input type="number" id="pageInputBottom" min="1" max="20" placeholder="8" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" onfocus="this.placeholder=''" onblur="this.placeholder='8'">
+        
+        
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('jumpBtnBottom').addEventListener('click', function() {
+               var pageInput = document.getElementById('pageInputBottom').value;
+               var totalPages =  20 ;
+          
+            if (pageInput >= 1 && pageInput <= totalPages) {
+                var url = "\/tags\/development\/page\/8\/";
+            
+                if (url.includes("8")) {
+                
+                url = url.replace("8", pageInput);
+             } else {
+                
+                url += "/page/" + pageInput;
+              }
+            
+             window.location.href = url;
+          } else {
+            alert("Invalid page number!");
+               }
+             });
+          });
+        </script>
+  
+  </nav>
+  
+
+
+
+
+
+   
+    </div>
+  </div>
+</section>
+
+    </main>
+  
+    
+    
+      <footer class="bg-theme-light dark:bg-darkmode-theme-light">
+  <div class="container">
+    <div class="row items-center py-0">
+      <div class="lg:col-6 mb-8 text-center lg:mb-0">
+        <ul>
+          
+        </ul>
+      </div>
+      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:mt-0 lg:text-right">
+        <ul class="social-icons">
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="border-border dark:border-darkmode-border border-t py-7">
+    <div class="text-light dark:text-darkmode-light container text-center">
+      <p>
+        Designed &amp; Developed by <a href="https://gohugo.io/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Hugo</a>
+ and <a href="https://www.netlify.com/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>netlify</a>
+ | 2024 Jinbiao Cao (曹金彪)
+      </p>
+    </div>
+  </div>
+</footer>
+      
+
+
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<script
+  crossorigin="anonymous"
+  integrity=""
+  src="/js/script.js"></script>
+
+
+<script
+  defer
+  async
+  crossorigin="anonymous"
+  integrity=""
+  src="/js/script-lazy.js"></script>
+
+
+
+<script>
+  if ('serviceWorker' in navigator){navigator.serviceWorker.register("/service-worker.js");}
+</script>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+    
+  </body>
+  
+</html>

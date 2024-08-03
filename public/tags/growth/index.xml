@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Growth on COTTON</title>
+    <link>//localhost:1313/tags/growth/</link>
+    <description>Recent content in Growth on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/growth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GaJAZ1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gajaz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gajaz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cotton_A_11862 Gene Symbol: GaJAZ1 Gene Name: Genome: Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>GhAPX</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghapx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghapx/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhAPX Gene Name: Genome: Cotton Genome Database Species: Gossypium hirsutum Functional Descriptions: Root growth of GhAPX-overexpressing Arabidopsis subjected to abiotic stress.</description>
+    </item>
+    <item>
+      <title>GhARF17</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A06G004210 Gene Symbol: GhARF17 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF18</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G042500 Gene Symbol: GhARF18 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhBRC1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhBRC1 Gene Name: BRANCHED 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhBRC1 has the same function as Arabidopsis BRC1 in repressing axillary bud development.</description>
+    </item>
+    <item>
+      <title>GhCERP</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcerp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcerp/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D02G2021 Gene Symbol: GhCERP Gene Name: Genome: cotton genome (Gossypium hirsutum, NAU) Species: Gossypium hirsutum Functional Descriptions: Inter-species functional analysis of the BR-mediated BES1-CERP-EXPA3 signaling cascade also promotes Arabidopsis root and hypocotyl growth.</description>
+    </item>
+    <item>
+      <title>GhDREB1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghdreb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghdreb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhDREB1 Gene Name: DREB-like transcription factor Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhDREB1 increases plant tolerance to low temperature and is negatively regulated by gibberellic acid.</description>
+    </item>
+    <item>
+      <title>GhEXPA1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghexpa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghexpa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhEXPA1 Gene Name: alpha-expansin 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, we show that GhRDL1 is localized in cell wall and interacts with GhEXPA1, an α-expansin functioning in wall loosening.</description>
+    </item>
+    <item>
+      <title>GhEXPA3-1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghexpa3-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghexpa3-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D04G1924 Gene Symbol: GhEXPA3-1 Gene Name: Genome: cotton genome (Gossypium hirsutum, NAU) Species: Gossypium hirsutum Functional Descriptions: GhBES1 directly binds to E-box of GhCERP and regulates the transcription of GhCERP, which further binds to E-box of GhEXPA3-1 to enhance its transcription to promote plant cell elongation.</description>
+    </item>
+    <item>
+      <title>GhFIM2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghfim2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghfim2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhFIM2 Gene Name: fimbrin-2 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhFIM2 propels cotton fiber development by enhancing actin bundle formation.</description>
+    </item>
+    <item>
+      <title>GhGAI1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgai1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgai1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A07G0717 Gene Symbol: GhGAI1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhLPL2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlpl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlpl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhLPL2 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhMKK3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK3 Gene Name: Mitogen-Activated Protein Kinase Kinase 3 Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton Mitogen-Activated Protein Kinase Kinase 3 (GhMKK3) Functions in Drought Tolerance by Regulating Stomatal Responses and Root Growth.</description>
+    </item>
+    <item>
+      <title>GhMYB33</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyb33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyb33/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D05G2713 Gene Symbol: GhMYB33 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhPAO</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpao/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPAO Gene Name: polyamine oxidase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton polyamine oxidase (GhPAO) is required for spermine and camalexin signalling in the defence response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhPIP2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPIP2|6 Gene Name: plasma membrane intrinsic protein 2 Genome: Species: Gossypium hirsutum Functional Descriptions: GhPIP2|6|3 interacted with GhPIP2|6|4 and GhPIP2|6|GhPIP2|6, but GhPIP2|6|GhPIP2|6 did not interact with GhPIP2|6|4.</description>
+    </item>
+    <item>
+      <title>GhRDL1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghrdl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghrdl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhRDL1 Gene Name: dehydration-induced protein RD22-like protein1 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, we show that GhRDL1 is localized in cell wall and interacts with GhEXPA1, an α-expansin functioning in wall loosening.</description>
+    </item>
+    <item>
+      <title>GhSFT</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a08g261500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a08g261500.1/</guid>
+      <description>Gene Details: Gene ID: Gh_A08G261500.1 Gene Symbol: GhSFT Gene Name: SINGLE FLOWER TRUSS Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSFT</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g252300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g252300.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D08G252300.1 Gene Symbol: GhSFT Gene Name: SINGLE FLOWER TRUSS Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSP</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g120000.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g120000.1/</guid>
+      <description>Gene Details: Gene ID: Gh_A07G120000.1 Gene Symbol: GhSP Gene Name: SELF-PRUNING Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSP</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g116400.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g116400.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D07G116400.1 Gene Symbol: GhSP Gene Name: SELF-PRUNING Genome: G.</description>
+    </item>
+    <item>
+      <title>GhTCE1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtce1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtce1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G2316 Gene Symbol: GhTCE1 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GhTCE1–GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton Identify GhTCE1, a basic helix–loop–helix family transcription factor, and its interacting partners as a central regulatory module of early cell fate transition during in vitro dedifferentiation of cotton (Gossypium hirsutum).</description>
+    </item>
+    <item>
+      <title>GhTFL1-L1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gohir.a09g138800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gohir.a09g138800/</guid>
+      <description>Gene Details: Gene ID: Gohir.A09G138800 Gene Symbol: GhTFL1-L1 Gene Name: TERMINAL FLOWER 1-like Genome: Species: Gossypium hirsutum Functional Descriptions: We demonstrate that genes of the TERMINAL FLOWER 1 (TFL1)-like clade show different roles in regulating growth patterns.</description>
+    </item>
+    <item>
+      <title>GhTFL1-L1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gohir.d09g135900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gohir.d09g135900/</guid>
+      <description>Gene Details: Gene ID: Gohir.D09G135900 Gene Symbol: GhTFL1-L1 Gene Name: TERMINAL FLOWER 1-like Genome: Species: Gossypium hirsutum Functional Descriptions: We demonstrate that genes of the TERMINAL FLOWER 1 (TFL1)-like clade show different roles in regulating growth patterns.</description>
+    </item>
+    <item>
+      <title>GhTFL1-L2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gohir.d04g100700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gohir.d04g100700/</guid>
+      <description>Gene Details: Gene ID: Gohir.D04G100700 Gene Symbol: GhTFL1-L2 Gene Name: TERMINAL FLOWER 1-like Genome: Species: Gossypium hirsutum Functional Descriptions: We demonstrate that genes of the TERMINAL FLOWER 1 (TFL1)-like clade show different roles in regulating growth patterns.</description>
+    </item>
+    <item>
+      <title>GhTINY2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</guid>
+      <description>Gene Details: Gene ID:&#x9;GhD06G0642 Gene Symbol: GhTINY2 Gene Name: Genome: Cotton Functional Genomics Database Species: Gossypium hirsutum Functional Descriptions: Orchestration of plant development and defense by indirect crosstalk of salicylic acid and brassinosteorid signaling via transcription factor GhTINY2.</description>
+    </item>
+    <item>
+      <title>GhUBC2L</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubc2l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubc2l/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G2323 Gene Symbol: GhUBC2L Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhUBP15</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A01G038500 Gene Symbol: GhUBP15 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhWRKY17</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhWRKY17 Gene Name: WRKY transcription factor 17 Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton WRKY Transcription Factor GhWRKY17 Functions in Drought and Salt Stress in Transgenic Nicotiana benthamiana Through ABA Signaling and the Modulation of Reactive Oxygen Species Production.</description>
+    </item>
+    <item>
+      <title>GoSTR</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gostr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gostr/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D08G0109 Gene Symbol: GoSTR Gene Name: Gossypium Stem Trichome Repressor Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GoSTR, a negative modulator of stem trichome formation in cotton.</description>
+    </item>
+  </channel>
+</rss>

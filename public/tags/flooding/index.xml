@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flooding on funPlantGenes</title>
+    <link>//localhost:60475/tags/flooding/</link>
+    <description>Recent content in Flooding on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/flooding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsSUS3</title>
+      <link>//localhost:60475/genes/2024.6.9/cucumis-sativus/cssus3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/cucumis-sativus/cssus3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsSUS3 Gene Name: Sucrose Synthase 3 Genome: Species: Cucumis sativus Functional Descriptions: Antisense expression of CsSUS3 clearly reduced cucumber tolerance to hypoxic stress induced by flooding.</description>
+    </item>
+    <item>
+      <title>nuRIP;OsjRIP11.2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os11g06460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os11g06460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g06460 RAPdb gene ID: Os11g0164000 Gene Symbol: nuRIP OsjRIP11.</description>
+    </item>
+    <item>
+      <title>OsLP1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g40500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g40500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g40500 RAPdb gene ID: Os06g0607100 Gene Symbol: OsLP1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

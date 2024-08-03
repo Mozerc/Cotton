@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flavonoid Biosynthesis on COTTON</title>
+    <link>//localhost:1313/tags/flavonoid-biosynthesis/</link>
+    <description>Recent content in Flavonoid Biosynthesis on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/flavonoid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbBM</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</guid>
+      <description>Gene Details: Gene ID: Gbar_A07G008330 Gene Symbol: GbBM Gene Name: Beauty Mark Genome: Species: Gossypium barbadense Functional Descriptions: Demonstrate that GbBM directly targets the promoter of four flavonoid biosynthesis genes to positively regulate petal spot development.</description>
+    </item>
+    <item>
+      <title>GhMKK2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmkk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmkk2/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_23706 Gene Symbol: GhMKK2 Gene Name: Genome: Gossypium hirsutum (AD1) &amp;lsquo;TM-1&amp;rsquo; genome CGP-BGI_v1 Species: Gossypium hirsutum Functional Descriptions: Group IIc WRKY transcription factors regulate cotton resistance to Fusarium oxysporum by promoting GhMKK2-mediated flavonoid biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhMYC2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_32778 Gene Symbol: GhMYC2 Gene Name: Genome: Gossypium hirsutum (AD1) &amp;lsquo;TM-1&amp;rsquo; genome CGP-BGI_v1 Species: Gossypium hirsutum Functional Descriptions: A novel mitogen-activated protein kinase (MAPK) cascade composed of GhMKK2, GhNTF6 and GhMYC2 was identified.</description>
+    </item>
+    <item>
+      <title>GhNTF6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghntf6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghntf6/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_09564 Gene Symbol: GhNTF6 Gene Name: Genome: Gossypium hirsutum (AD1) &amp;lsquo;TM-1&amp;rsquo; genome CGP-BGI_v1 Species: Gossypium hirsutum Functional Descriptions: A novel mitogen-activated protein kinase (MAPK) cascade composed of GhMKK2, GhNTF6 and GhMYC2 was identified.</description>
+    </item>
+    <item>
+      <title>GhOMT1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g2052/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g2052/</guid>
+      <description>Gene Details: Gene ID: GH_A01G2052 Gene Symbol: GhOMT1 Gene Name: flavonoid O-methyltransferase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Function deficiency of GhOMT1 causes anthocyanidins over-accumulation and diversifies fibre colours in cotton.</description>
+    </item>
+    <item>
+      <title>GhSPL10</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a12g0866/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a12g0866/</guid>
+      <description>Gene Details: Gene ID: Gh_A12G0866 Gene Symbol: GhSPL10 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The GhmiR157a–GhSPL10 regulatory module controls initial cellular dedifferentiation and callus proliferation in cotton by modulating ethylene-mediated flavonoid biosynthesis.</description>
+    </item>
+  </channel>
+</rss>

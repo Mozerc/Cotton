@@ -34,5 +34,9 @@ tags: [ cell wall,cell elongation,cell wall synthesis,secondary cell wall ]
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

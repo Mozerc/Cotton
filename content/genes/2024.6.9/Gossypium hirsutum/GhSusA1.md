@@ -35,5 +35,9 @@ tags: [ seedling,seed,quality,yield,vegetative,cell wall,biomass,seed weight,see
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

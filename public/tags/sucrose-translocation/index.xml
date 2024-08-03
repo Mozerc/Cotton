@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sucrose Translocation on funPlantGenes</title>
+    <link>//localhost:60475/tags/sucrose-translocation/</link>
+    <description>Recent content in Sucrose Translocation on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/sucrose-translocation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsPK3</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g58110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g58110/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g58110 RAPdb gene ID: Os04g0677500 Gene Symbol: OsPK3 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSWEET15</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os02g30910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os02g30910/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g30910 RAPdb gene ID: Os02g0513100 Gene Symbol: OsSWEET15 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>tdy2</title>
+      <link>//localhost:60475/genes/2024.7.17/zea-mays/zm00001eb259620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/zea-mays/zm00001eb259620/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb259620 Gene Symbol: tdy2 Gene Name: tie-dyed2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal Transduction on COTTON</title>
+    <link>//localhost:1313/tags/signal-transduction/</link>
+    <description>Recent content in Signal Transduction on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/signal-transduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhBRC1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhBRC1 Gene Name: BRANCHED 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhBRC1 has the same function as Arabidopsis BRC1 in repressing axillary bud development.</description>
+    </item>
+  </channel>
+</rss>

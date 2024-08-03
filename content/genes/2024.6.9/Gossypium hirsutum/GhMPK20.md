@@ -34,5 +34,9 @@ tags: [ kinase,resistance,tolerance,salicylic acid,sa,defence,virus ]
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

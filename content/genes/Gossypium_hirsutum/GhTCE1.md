@@ -35,5 +35,9 @@ tags: [ transcription factor,growth,cell elongation,callus,callus formation,cell
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

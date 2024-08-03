@@ -1,0 +1,2819 @@
+<!doctype html>
+<html
+  itemscope
+  class=""
+  lang="en-us"
+  itemtype="http://schema.org/WebPage">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=60475&amp;path=livereload" data-no-instant defer></script>
+    
+    <meta charset="utf-8" />
+
+
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+
+<meta name="theme-name" content="hugoplate" />
+
+
+
+
+
+
+
+
+
+<link rel="manifest" href="/manifest.webmanifest" />
+<meta
+  name="msapplication-TileColor"
+  content="#ddd" />
+<meta
+  name="theme-color"
+  content="#ffffff" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <base href="//localhost:60475/tags/development/" />
+
+
+
+
+
+
+
+
+<title>funPlantGenes</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta
+    name="keywords"
+    content="Boilerplate, Hugo" />
+
+
+
+
+<meta
+  name="description"
+  content="Hugo &amp; Tailwindcss Starter" />
+
+
+
+  <meta name="author" content="zeon.studio" />
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+
+
+  
+  
+
+
+  
+
+
+
+
+
+<meta property="og:title" content="funPlantGenes" />
+<meta property="og:description" content="Hugo &amp; Tailwindcss Starter" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="//localhost:60475/tags/development/" />
+
+
+<meta name="twitter:title" content="funPlantGenes" />
+<meta name="twitter:description" content="Hugo &amp; Tailwindcss Starter" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  let indexURL = "//localhost:60475/searchindex.json";
+  let includeSectionsInSearch = ["genes","pages","sections","submit"];
+  let no_results_for = "No results for";
+  let empty_search_results_placeholder = "Type something to search..";
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="preconnect" href="https://use.fontawesome.com" crossorigin />
+<link rel="preconnect" href="//cdnjs.cloudflare.com" />
+<link rel="preconnect" href="//www.googletagmanager.com" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://use.fontawesome.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="dns-prefetch" href="//platform.linkedin.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<script>
+  (function () {
+    const googleFont = document.createElement("link");
+    googleFont.href = "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Montserrat:wght@500;700&display=swap";
+    googleFont.type = "text/css";
+    googleFont.rel = "stylesheet";
+    document.head.appendChild(googleFont);
+  })();
+</script>
+
+
+
+
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<link
+  href="/css/style.css"
+  integrity=""
+  rel="stylesheet" />
+
+
+<link
+  defer
+  async
+  rel="stylesheet"
+  href="/css/style-lazy.css"
+  integrity=""
+  media="print"
+  onload="this.media='all'; this.onload=null;" />
+
+  </head>
+
+  <body style="padding-top: 2px; padding-bottom: 2px;">
+    
+    
+      
+
+
+
+      
+
+    
+  
+    
+    <header
+  class="header sticky top-0 z-30">
+  <nav class="navbar container">
+    
+    <div class="order-0">
+      
+      <a class="navbar-brand block" href="/">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  funPlantGenes
+
+
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Menu Open</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Menu Close</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/species/"
+              >SPECIES</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/genes/"
+              >GENES</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/tags/"
+              >FUNCTION</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item nav-dropdown group relative">
+            <span
+              class="nav-link 
+                
+                
+                
+              
+                
+                
+                
+               inline-flex items-center">
+              HELP
+              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+                <path
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+              </svg>
+            </span>
+            <ul
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/about/">
+                    LINKS
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/submit/">
+                    SUBMIT
+                  </a>
+                </li>
+              
+            </ul>
+          </li>
+        
+      
+      
+        <li class="mt-4 inline-block lg:hidden">
+          <a
+            class="btn btn-outline-primary btn-sm"
+            href="/submit">
+            Submit
+          </a>
+        </li>
+      
+    </ul>
+
+    
+     
+
+  <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;">
+
+    <input
+  id="search-modal-input"
+  type="text"
+  placeholder="Search"
+  autocomplete="on"
+  aria-label="Search"
+  aria-describedby="Search"
+  placeholder="Search Post ..."
+  style="width: 120px; /* 设置宽度为800像素 */
+         padding: 5px;
+         border: 2px solid #ccc;
+         border-radius: 20px;
+         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+         outline: none;
+         transition: border-color 0.3s ease-in-out;
+         margin-right: 20px; /* 添加右边距 */"/>
+    <button
+        id="search-button"
+        aria-label="search"
+        class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
+        data-target="search-modal"
+        onclick="search()">
+        <i class="fa-solid fa-search"></i>
+    </button>
+
+   
+   </div>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-right: 20px;"></div>
+          
+
+
+
+
+
+
+
+
+
+          
+
+
+  <div class="theme-switcher mr-5">
+    <input id="theme-switcher" data-theme-switcher type="checkbox" />
+    <label for="theme-switcher">
+      <span class="sr-only">theme switcher</span>
+      <span>
+        
+        <svg
+          class="absolute left-[4px] top-[4px] z-10 opacity-100 dark:opacity-0"
+          viewBox="0 0 56 56"
+          fill="#fff"
+          height="16"
+          width="16">
+          <path
+            d="M30 4.6c0-1-.9-2-2-2a2 2 0 0 0-2 2v5c0 1 .9 2 2 2s2-1 2-2Zm9.6 9a2 2 0 0 0 0 2.8c.8.8 2 .8 2.9 0L46 13a2 2 0 0 0 0-2.9 2 2 0 0 0-3 0Zm-26 2.8c.7.8 2 .8 2.8 0 .8-.7.8-2 0-2.9L13 10c-.7-.7-2-.8-2.9 0-.7.8-.7 2.1 0 3ZM28 16a12 12 0 0 0-12 12 12 12 0 0 0 12 12 12 12 0 0 0 12-12 12 12 0 0 0-12-12Zm23.3 14c1.1 0 2-.9 2-2s-.9-2-2-2h-4.9a2 2 0 0 0-2 2c0 1.1 1 2 2 2ZM4.7 26a2 2 0 0 0-2 2c0 1.1.9 2 2 2h4.9c1 0 2-.9 2-2s-1-2-2-2Zm37.8 13.6a2 2 0 0 0-3 0 2 2 0 0 0 0 2.9l3.6 3.5a2 2 0 0 0 2.9 0c.8-.8.8-2.1 0-3ZM10 43.1a2 2 0 0 0 0 2.9c.8.7 2.1.8 3 0l3.4-3.5c.8-.8.8-2.1 0-2.9-.8-.8-2-.8-2.9 0Zm20 3.4c0-1.1-.9-2-2-2a2 2 0 0 0-2 2v4.9c0 1 .9 2 2 2s2-1 2-2Z" />
+        </svg>
+        
+        <svg
+          class="absolute left-[4px] top-[4px] z-10 opacity-0 dark:opacity-100"
+          viewBox="0 0 24 24"
+          fill="none"
+          height="16"
+          width="16">
+          <path
+            fill="#000"
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M8.2 2.2c1-.4 2 .6 1.6 1.5-1 3-.4 6.4 1.8 8.7a8.4 8.4 0 0 0 8.7 1.8c1-.3 2 .5 1.5 1.5v.1a10.3 10.3 0 0 1-9.4 6.2A10.3 10.3 0 0 1 3.2 6.7c1-2 2.9-3.5 4.9-4.4Z" />
+        </svg>
+      </span>
+    </label>
+  </div>
+
+  
+  <script>
+    var darkMode = false;
+
+    
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches){darkMode = true}
+    
+
+    if (localStorage.getItem("theme") === "dark"){darkMode = true}
+    else if (localStorage.getItem("theme") === "light"){darkMode = false}
+    if (darkMode){document.documentElement.classList.toggle("dark")}
+    var themeSwitch = document.querySelectorAll("[data-theme-switcher]");
+
+    document.addEventListener("DOMContentLoaded", () => {
+      [].forEach.call(themeSwitch, function (ts) {
+        ts.checked = darkMode ? true : false;
+        ts.addEventListener("click", () => {
+          document.documentElement.classList.toggle("dark");
+          localStorage.setItem(
+            "theme",
+            document.documentElement.classList.contains("dark") ? "dark" : "light"
+          );
+        });
+      });
+    });
+  </script>
+
+
+    </div>
+
+  </nav>
+       
+</header>
+
+    
+
+
+
+
+  
+    <div
+      class="search-modal "
+      aria-hidden="true"
+      style="--color-primary: #121212">
+      <div data-target="close-search-modal" class="search-modal-overlay"></div>
+      <div
+        class="search-wrapper"
+        #data-image="true"
+        data-description="true"
+        data-tags="true"
+        data-categories="true">
+        <div class="search-wrapper-header">
+          <label for="search-modal-input" style="margin-top:-1px">
+            <span class="sr-only">search icon</span>
+          </label>
+        </div>   
+        <div class="search-wrapper-body">
+          <div class="search-result" data-search-result></div>
+          <span class="search-result-empty">
+            Type something to search..
+          </span>
+        </div>
+        <div class="search-wrapper-footer">
+          <span>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                fill="currentColor"
+                viewBox="0 0 16 16">
+                <path
+                  d="M3.204 11h9.592L8 5.519 3.204 11zm-.753-.659 4.796-5.48a1 1 0 0 1 1.506 0l4.796 5.48c.566.647.106 1.659-.753 1.659H3.204a1 1 0 0 1-.753-1.659z" />
+              </svg>
+            </kbd>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                fill="currentColor"
+                style="margin-top:1px;"
+                viewBox="0 0 16 16">
+                <path
+                  d="M3.204 5h9.592L8 10.481 3.204 5zm-.753.659 4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
+              </svg>
+            </kbd>
+            to navigate
+          </span>
+          <span>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="12"
+                height="12"
+                fill="currentColor"
+                style="display:inline-block;"
+                viewBox="0 0 16 16">
+                <path
+                  fill-rule="evenodd"
+                  d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z" />
+              </svg>
+            </kbd>
+            to select
+          </span>
+          <span class="search-result-info"></span>
+          <span data-target="close-search-modal">
+            <kbd>ESC</kbd> to close
+          </span>
+        </div>
+      </div>
+    </div>
+  
+
+
+  
+    <main>
+      
+<style>
+   
+  .title-text {
+    font-size: 20px;  
+    color: #000;  
+    font-weight: bold;  
+  }
+
+   
+  .description-text {
+    font-size: 14px;  
+    color: #666;  
+  }
+</style>
+
+<section class="section" style="padding-bottom: 30px; padding-top: 10px;">
+  <div style="text-align: center; margin-bottom: 30px;">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+ <nav 
+    class="flex items-center justify-center space-x-3" 
+    aria-label="Pagination"  >
+    
+    <div style="text-align: left; display: block;">Total pages: 20</div>
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5" 
+        href="/tags/development/page/13/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Previous</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+      
+    
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/10/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            10
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/11/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            11
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/12/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            12
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/13/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            13
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <span
+            aria-current="page"
+            class="bg-primary dark:bg-darkmode-primary dark:text-dark rounded px-2 py-1 text-white">
+            14
+          </span>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/15/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            15
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/16/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            16
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/17/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            17
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/18/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            18
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+     
+
+    
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
+        href="/tags/development/page/15/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Next</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+    
+        
+        
+        <button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white ">Go to page</button>
+        <input type="number" id="pageInput" min="1" max="20" placeholder="14" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" onfocus="this.placeholder=''" onblur="this.placeholder='14'">
+        
+        
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('jumpBtn').addEventListener('click', function() {
+        var pageInput = document.getElementById('pageInput').value;
+        var totalPages =  20 ;
+        
+        if (pageInput >= 1 && pageInput <= totalPages) {
+            var url = "\/tags\/development\/page\/14\/";
+            
+            if (url.includes("14")) {
+                
+                url = url.replace("14", pageInput);
+            } else {
+                
+                url += "/page/" + pageInput;
+            }
+            
+            window.location.href = url;
+        } else {
+            alert("Invalid page number!");
+        }
+    });
+});
+        </script>
+  
+  </nav>
+  
+
+
+
+
+
+   
+  </div>
+  <div class="container">
+    <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" >
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sietr7/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SIETR7
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc05g055070 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/sir109944/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                siR109944
+              </a>
+            </p>
+            
+            <p class="description-text">Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc11g028020/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Sl-AGL11
+              </a>
+            </p>
+            
+            <p class="description-text">agamous-like MADS-box protein AGL11 ; Solyc11g028020 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc05g052030/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Sl-ERF.B3
+              </a>
+            </p>
+            
+            <p class="description-text">Ethylene Response Factor ; Solyc05g052030 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/sl-iaa27/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Sl-IAA27
+              </a>
+            </p>
+            
+            <p class="description-text">Aux/IAA transcription factor27 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/fvh4_7g28640/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SL1
+              </a>
+            </p>
+            
+            <p class="description-text">SIMPLE LEAF1 ; FvH4_7g28640 ; Fragaria vesca</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slalmt4/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlALMT4
+              </a>
+            </p>
+            
+            <p class="description-text">aluminum-activated malate transporter 4 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slalmt5/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlALMT5
+              </a>
+            </p>
+            
+            <p class="description-text">aluminum-activated malate transporter 5 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc04g081070/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlARC6
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc04g081070 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slareb1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlAREB1
+              </a>
+            </p>
+            
+            <p class="description-text">ABA-response element binding factor 1 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc11g069500/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlARF10
+              </a>
+            </p>
+            
+            <p class="description-text">auxin response factor 10 ; Solyc11g069500 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slarf7/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlARF7
+              </a>
+            </p>
+            
+            <p class="description-text">AUXIN RESPONSE FACTOR 7 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc03g031970/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlARF8
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc03g031970 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc02g037530/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlARF8B
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc02g037530 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slas2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlAS2
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc03g063140 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slatg7/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlATG7
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc11g068930 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc11g068950/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlBEL11
+              </a>
+            </p>
+            
+            <p class="description-text">S. lycopersicum BEL1-LIKE HOMEODOMAIN11 ; Solyc11g068950 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc06g074120/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlBEL2
+              </a>
+            </p>
+            
+            <p class="description-text">BEL1-LIKE HOMEODOMAIN 2 ; Solyc06g074120 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slbes1.8/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlBES1.8
+              </a>
+            </p>
+            
+            <p class="description-text">Brassinazole-resistant 1 ; Solyc10g076390 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc08g065420/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlBL4
+              </a>
+            </p>
+            
+            <p class="description-text">BEL1-LIKE HOMEODOMAIN4 ; Solyc08g065420 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc01g079480.3/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlbZIP1
+              </a>
+            </p>
+            
+            <p class="description-text">Basic leucine zipper transcription factor 1 ; Solyc01g079480.3 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os08g44590/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SLC1
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os08g44590 ; Os08g0560000 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/oryza_sativa/loc_os09g39720/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SLC2
+              </a>
+            </p>
+            
+            <p class="description-text">LOC_Os09g39720 ; Os09g0570800 ; Oryza sativa</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.7.17/solanum-lycopersicum/slccd8/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlCCD8
+              </a>
+            </p>
+            
+            <p class="description-text">CAROTENOID CLEAVAGE DIOXYGENASE8 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc01g079690/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlCHR1
+              </a>
+            </p>
+            
+            <p class="description-text">chromatin remodelling ATPase 1 ; Solyc01g079690 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slckx2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlCKX2
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc01g088160 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc08g005400.2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlCMT4
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc08g005400.2 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slcobra-like/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlCOBRA-like
+              </a>
+            </p>
+            
+            <p class="description-text">COBRA-like gene ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slcyp1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlCyp1
+              </a>
+            </p>
+            
+            <p class="description-text">low-temperature-induced cysteine proteinase ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc12g056740/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlDEAD39
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc12g056740 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sldof9/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlDOF9
+              </a>
+            </p>
+            
+            <p class="description-text">DNA-binding with one zinc finger 9 ; Solyc02g090220 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc09g089580/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlE8
+              </a>
+            </p>
+            
+            <p class="description-text">C-27 hydroxylase ; Solyc09g089580 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slerf52/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlERF52
+              </a>
+            </p>
+            
+            <p class="description-text">ETHYLENE-RESPONSIVE FACTOR 52 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sletr7/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlETR7
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc05g055070 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slfrk3/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlFRK3
+              </a>
+            </p>
+            
+            <p class="description-text">fructokinase3 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slga2ox1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlGA2ox1
+              </a>
+            </p>
+            
+            <p class="description-text">gibberellin 2-oxidase ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slga3ox1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlGA3ox1
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc06g066820 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slga3ox2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlGA3ox2
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc03g119910 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slgad2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlGAD2
+              </a>
+            </p>
+            
+            <p class="description-text">glutamate decarboxylase isoform2 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slgad3/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlGAD3
+              </a>
+            </p>
+            
+            <p class="description-text">glutamate decarboxylase isoform3 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slgh3.4/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlGH3.4
+              </a>
+            </p>
+            
+            <p class="description-text">Putative indole-3-acetic acid amido synthetase ; Solyc02g092820 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc10g008160/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlGLK2
+              </a>
+            </p>
+            
+            <p class="description-text">GOLDEN2-LIKE 2 ; Solyc10g008160 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc10g078990/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlHair2
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc10g078990 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slhb15a/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlHB15A
+              </a>
+            </p>
+            
+            <p class="description-text">SolyC03g120910 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc08g066500/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlHB8
+              </a>
+            </p>
+            
+            <p class="description-text">HD-Zip III family transcription factor 8 ; Solyc08g066500 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.7.17/solanum-lycopersicum/sliaa15/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlIAA15
+              </a>
+            </p>
+            
+            <p class="description-text">Auxin-responsive protein ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc05g010000.1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlIDA
+              </a>
+            </p>
+            
+            <p class="description-text">IDA homolog ; Solyc05g010000.1.1 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sljul/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlJUL
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc08g067180.3.1 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/slmads1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMADS1
+              </a>
+            </p>
+            
+            <p class="description-text">MADS-Box Transcription Factor 1 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc05g017980/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMAP70-1
+              </a>
+            </p>
+            
+            <p class="description-text">MICROTUBULE-ASSOCIATED PROTEIN 70 ; Solyc05g017980 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc01g005330/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMAP70-2
+              </a>
+            </p>
+            
+            <p class="description-text">MICROTUBULE-ASSOCIATED PROTEIN 70 ; Solyc01g005330 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc04g008040/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMAP70-3
+              </a>
+            </p>
+            
+            <p class="description-text">MICROTUBULE-ASSOCIATED PROTEIN 70 ; Solyc04g008040 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc04g015010/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMAP70-4
+              </a>
+            </p>
+            
+            <p class="description-text">MICROTUBULE-ASSOCIATED PROTEIN 70 ; Solyc04g015010 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc11g012660/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMAP70-5
+              </a>
+            </p>
+            
+            <p class="description-text">MICROTUBULE-ASSOCIATED PROTEIN 70 ; Solyc11g012660 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc06g064840/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMBP3
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc06g064840 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc11g030600/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMET1
+              </a>
+            </p>
+            
+            <p class="description-text">Methyltransferase 1 ; Solyc11g030600 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slmpk4/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMPK4
+              </a>
+            </p>
+            
+            <p class="description-text">Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slmyb21/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMYB21
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc02g067760 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slmyb72/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMYB72
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc07g055000 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slmyb99/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMYB99
+              </a>
+            </p>
+            
+            <p class="description-text">Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc08g076930/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlMYC2
+              </a>
+            </p>
+            
+            <p class="description-text">transcription factor MYC2 ; Solyc08g076930 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slofp20/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlOFP20
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc10g076180 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slpif4/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlPIF4
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc07g043580 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc03g121880/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlPP2C5
+              </a>
+            </p>
+            
+            <p class="description-text">type 2C protein phosphatase5 ; Solyc03g121880 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc05g052050/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlPti4
+              </a>
+            </p>
+            
+            <p class="description-text">DNA-binding protein Pti4 ; Solyc05g052050 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slrcm1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlRCM1
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc08g005010 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc12g014230/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlRIP1b
+              </a>
+            </p>
+            
+            <p class="description-text">RIP/MORF protein ; Solyc12g014230 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slscl3/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlSCL3
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc12g099900 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc05g015840/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlSPL13
+              </a>
+            </p>
+            
+            <p class="description-text">SQUAMOSA PROMOTER BINDING PROTEIN LIKE 13 ; Solyc05g015840 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slspl13/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlSPL13
+              </a>
+            </p>
+            
+            <p class="description-text">SQUAMOSA PROMOTER BINDING PROTEIN-LIKE 13 ; Solyc05g015840 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slstr1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlSTR1
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc03g053130 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/2024.6.9/solanum-lycopersicum/solyc09g074530/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlSWEET15
+              </a>
+            </p>
+            
+            <p class="description-text">sugars will eventually be exported transporter 15 ; Solyc09g074530 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sltagl1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlTAGL1
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc07g055920 ; TOMATO AGAMOUS-LIKE1 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sltcp24/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlTCP24
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc08g048390 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sltcp29/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlTCP29
+              </a>
+            </p>
+            
+            <p class="description-text">Solyc08g048370 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/sltpl3/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlTPL3
+              </a>
+            </p>
+            
+            <p class="description-text">TOPLESS3 ; Solyc01g100050.2.1 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/solanum_lycopersicum/slwus/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                SlWUS
+              </a>
+            </p>
+            
+            <p class="description-text">WUSCHEL ; Solyc02g083950 ; Solanum lycopersicum</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/zea_mays/smk11/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Smk11
+              </a>
+            </p>
+            
+            <p class="description-text">small kernel11 ; Zm00001eb221050 ; Zea mays</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/zea_mays/smk4/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Smk4
+              </a>
+            </p>
+            
+            <p class="description-text">small kernel4 ; Zm00001eb169670 ; Zea mays</p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:60475/genes/zea_mays/smk501/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Smk501
+              </a>
+            </p>
+            
+            <p class="description-text">small kernel 501 ; Zm00001eb332890 ; Zea mays</p>
+          </div>
+        </li>
+      
+    </ul>
+    <div style="text-align: center; margin-top: 20px;">
+      
+
+
+
+
+
+
+
+
+
+
+
+  
+ <nav 
+    class="flex items-center justify-center space-x-3" 
+    aria-label="Pagination"  >
+    
+    <div style="text-align: left; display: block;">Total pages: 20</div>
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5" 
+        href="/tags/development/page/13/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Previous</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+      
+    
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/10/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            10
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/11/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            11
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/12/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            12
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/13/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            13
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <span
+            aria-current="page"
+            class="bg-primary dark:bg-darkmode-primary dark:text-dark rounded px-2 py-1 text-white">
+            14
+          </span>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/15/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            15
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/16/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            16
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/17/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            17
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+            
+          
+        
+        
+      
+      
+      
+
+        
+          <a
+            href="/tags/development/page/18/"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            18
+          </a>
+        
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+      
+      
+      
+        
+        
+        
+          
+        
+        
+      
+      
+      
+    
+     
+
+    
+    
+    
+    
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
+        href="/tags/development/page/15/"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Next</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+    
+        
+        
+        <button id="jumpBtnBottom" class="rounded px-2 py-1 bg-primary text-white ">Go to page</button>
+        <input type="number" id="pageInputBottom" min="1" max="20" placeholder="14" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" onfocus="this.placeholder=''" onblur="this.placeholder='14'">
+        
+        
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('jumpBtnBottom').addEventListener('click', function() {
+               var pageInput = document.getElementById('pageInputBottom').value;
+               var totalPages =  20 ;
+          
+            if (pageInput >= 1 && pageInput <= totalPages) {
+                var url = "\/tags\/development\/page\/14\/";
+            
+                if (url.includes("14")) {
+                
+                url = url.replace("14", pageInput);
+             } else {
+                
+                url += "/page/" + pageInput;
+              }
+            
+             window.location.href = url;
+          } else {
+            alert("Invalid page number!");
+               }
+             });
+          });
+        </script>
+  
+  </nav>
+  
+
+
+
+
+
+   
+    </div>
+  </div>
+</section>
+
+    </main>
+  
+    
+    
+      <footer class="bg-theme-light dark:bg-darkmode-theme-light">
+  <div class="container">
+    <div class="row items-center py-0">
+      <div class="lg:col-6 mb-8 text-center lg:mb-0">
+        <ul>
+          
+        </ul>
+      </div>
+      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:mt-0 lg:text-right">
+        <ul class="social-icons">
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="border-border dark:border-darkmode-border border-t py-7">
+    <div class="text-light dark:text-darkmode-light container text-center">
+      <p>
+        Designed &amp; Developed by <a href="https://gohugo.io/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Hugo</a>
+ and <a href="https://www.netlify.com/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>netlify</a>
+ | 2024 Jinbiao Cao (曹金彪)
+      </p>
+    </div>
+  </div>
+</footer>
+      
+
+
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<script
+  crossorigin="anonymous"
+  integrity=""
+  src="/js/script.js"></script>
+
+
+<script
+  defer
+  async
+  crossorigin="anonymous"
+  integrity=""
+  src="/js/script-lazy.js"></script>
+
+
+
+<script>
+  if ('serviceWorker' in navigator){navigator.serviceWorker.register("/service-worker.js");}
+</script>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+    
+  </body>
+  
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant Defense Signaling on COTTON</title>
+    <link>//localhost:1313/tags/plant-defense-signaling/</link>
+    <description>Recent content in Plant Defense Signaling on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/plant-defense-signaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GaJAZ1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gajaz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gajaz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cotton_A_11862 Gene Symbol: GaJAZ1 Gene Name: Genome: Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>GbWRKY1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbwrky1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbwrky1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GbWRKY1 Gene Name: WRKY transcription factor 1 Genome: Species: Gossypium barbadense Functional Descriptions: Our data suggest that GbWRKY1 is a critical regulator mediating the plant defense-to-development transition during V.</description>
+    </item>
+    <item>
+      <title>GhSAMDC</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsamdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsamdc/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSAMDC Gene Name: S-adenosylmethionine decarboxylase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton S-adenosylmethionine decarboxylase(GhSAMDC)-mediated spermine biosynthesis is required for salicylic acid- and leucine-correlated signaling in the defense response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhSPMS</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghspms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghspms/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSPMS Gene Name: Spm synthase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton S-adenosylmethionine decarboxylase(GhSAMDC)-mediated spermine biosynthesis is required for salicylic acid- and leucine-correlated signaling in the defense response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhTINY2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</guid>
+      <description>Gene Details: Gene ID:&#x9;GhD06G0642 Gene Symbol: GhTINY2 Gene Name: Genome: Cotton Functional Genomics Database Species: Gossypium hirsutum Functional Descriptions: Orchestration of plant development and defense by indirect crosstalk of salicylic acid and brassinosteorid signaling via transcription factor GhTINY2.</description>
+    </item>
+  </channel>
+</rss>

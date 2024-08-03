@@ -1,5 +1,5 @@
 ---
 banner:
-  content: A comprehensive repository of functionally characterized plant genes.
-  title: Welcome to funPlantGenes!
+  content: A database about the cotton gene family.
+  title: Welcome to COTTON!
 ---

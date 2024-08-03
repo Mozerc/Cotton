@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peduncle on funPlantGenes</title>
+    <link>//localhost:60475/tags/peduncle/</link>
+    <description>Recent content in Peduncle on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/peduncle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsAGA2</title>
+      <link>//localhost:60475/genes/2024.7.17/cucumis-sativus/csa4g167980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/cucumis-sativus/csa4g167980/</guid>
+      <description>Gene Details: Gene ID: Csa4G167980 Gene Symbol: CsAGA2 Gene Name: Alkaline α-galactosidase 2 Genome: Cucurbit Genomics Database Species: Cucumis sativus Functional Descriptions: Alkaline α-galactosidase 2 (CsAGA2) plays a pivotal role in mediating source–sink communication in cucumber.</description>
+    </item>
+    <item>
+      <title>Iw1</title>
+      <link>//localhost:60475/genes/2024.6.9/brachypodium-distachyon/bradi5g01180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/brachypodium-distachyon/bradi5g01180/</guid>
+      <description>Gene Details: Gene ID: Bradi5g01180 Gene Symbol: Iw1 Gene Name: Inhibitor of wax 1 Genome: Species: Brachypodium distachyon Functional Descriptions: Using synteny and a large number of F2 gametes, Iw1 was fine-mapped to a sub-cM genetic interval on wheat chromosome arm 2BS, which includes a single collinear gene from the corresponding Brachypodium and rice physical maps.</description>
+    </item>
+    <item>
+      <title>OsERF34</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g46440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g46440/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g46440 RAPdb gene ID: Os04g0550200 Gene Symbol: OsERF34 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaARF12-A</title>
+      <link>//localhost:60475/genes/triticum_aestivum/taarf12-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/triticum_aestivum/taarf12-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A03G1263300 Gene Symbol: TaARF12-A Gene Name: Auxin response factor 12 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaARF12-B</title>
+      <link>//localhost:60475/genes/triticum_aestivum/taarf12-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/triticum_aestivum/taarf12-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B03G1444700 Gene Symbol: TaARF12-B Gene Name: Auxin response factor 12 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaARF12-D</title>
+      <link>//localhost:60475/genes/triticum_aestivum/taarf12-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/triticum_aestivum/taarf12-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D03G1217700 Gene Symbol: TaARF12-D Gene Name: Auxin response factor 12 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaPRR95</title>
+      <link>//localhost:60475/genes/2024.7.17/triticum-aestivum/traescs5b02g320500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/triticum-aestivum/traescs5b02g320500/</guid>
+      <description>Gene Details: Gene ID: TraesCS5B02G320500 Gene Symbol: TaPRR95 Gene Name: pseudo-response regulator 95 Genome: Species: Triticum aestivum Functional Descriptions: Genome-editing of a circadian clock gene TaPRR95 facilitates wheat peduncle growth and heading date.</description>
+    </item>
+    <item>
+      <title>TaSAP1-A1</title>
+      <link>//localhost:60475/genes/2024.6.9/triticum-aestivum/tasap1-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/triticum-aestivum/tasap1-a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaSAP1-A1 Gene Name: A20/AN1 zinc-finger protein Genome: Species: Triticum aestivum Functional Descriptions: Polymorphism of TaSAP1-A1 and its association with agronomic traits in wheat.</description>
+    </item>
+    <item>
+      <title>TraesCS5A02G542600</title>
+      <link>//localhost:60475/genes/2024.6.9/triticum-aestivum/traescs5a02g542600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/triticum-aestivum/traescs5a02g542600/</guid>
+      <description>Gene Details: Gene ID: TraesCS5A02G542600 Gene Symbol: TraesCS5A02G542600 Gene Name: transmembrane transporter Genome: Species: Triticum aestivum Functional Descriptions: We identified putative candidate genes that are potentially involved in metal uptake, transport, and assimilation, including TraesCS5A02G542600 on chromosome 5A, which was annotated as a Major Facilitator Superfamily transporter and acted on all the minerals except K.</description>
+    </item>
+    <item>
+      <title>ZmVLN2;vln2</title>
+      <link>//localhost:60475/genes/zea_mays/zmvln2vln2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmvln2vln2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb362860 Gene Symbol: ZmVLN2 vln2 Gene Name: villin-like2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

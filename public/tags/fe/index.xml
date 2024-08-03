@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fe on COTTON</title>
+    <link>//localhost:1313/tags/fe/</link>
+    <description>Recent content in Fe on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/fe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhACT1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghact1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghact1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G040150 Gene Symbol: GhACT1 Gene Name: Genome: HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>GhGASL3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D04G017310 Gene Symbol: GhGASL3 Gene Name: Genome: TM-1 genome (HAU-AD1_genome_v1.</description>
+    </item>
+  </channel>
+</rss>

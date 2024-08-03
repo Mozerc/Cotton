@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heat Tolerance on COTTON</title>
+    <link>//localhost:1313/tags/heat-tolerance/</link>
+    <description>Recent content in Heat Tolerance on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/heat-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhHSP24.7</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhsp24.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhsp24.7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHSP24.7 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The regulation circuit composed of GhHSP24.</description>
+    </item>
+    <item>
+      <title>GhHSP70-26</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhsp70-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhsp70-26/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gohir.D06G173000 Gene Symbol: GhHSP70-26 Gene Name: Genome: Gossypium hirsutum L.</description>
+    </item>
+  </channel>
+</rss>

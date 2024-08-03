@@ -35,5 +35,9 @@ tags: [ brassinosteroid,br,cell elongation,brassinosteroid biosynthesis ]
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

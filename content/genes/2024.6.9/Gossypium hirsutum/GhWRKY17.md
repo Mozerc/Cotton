@@ -34,5 +34,9 @@ tags: [ leaf,transcription factor,root,growth,drought,stress,drought stress,seed
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

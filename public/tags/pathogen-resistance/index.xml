@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pathogen Resistance on COTTON</title>
+    <link>//localhost:1313/tags/pathogen-resistance/</link>
+    <description>Recent content in Pathogen Resistance on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/pathogen-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbNRX1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbnrx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbnrx1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GbNRX1 Gene Name: nucleoredoxin 1 Genome: Species: Gossypium barbadense Functional Descriptions: The Thioredoxin GbNRX1 Plays a Crucial Role in Homeostasis of Apoplastic Reactive Oxygen Species in Response to Verticillium dahliae Infection in Cotton.</description>
+    </item>
+    <item>
+      <title>GhGLR4.8</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghglr4.8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghglr4.8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D03G0209 Gene Symbol: GhGLR4.8 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhLac1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhLac1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhMKK5</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK5 Gene Name: mitogen-activated protein kinase kinase5 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhMKK5 affects disease resistance, induces HR-like cell death, and reduces the tolerance to salt and drought stress in transgenic Nicotiana benthamiana.</description>
+    </item>
+    <item>
+      <title>GhnsLTPsA10</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghnsltpsa10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghnsltpsa10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G2049 Gene Symbol: GhnsLTPsA10 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GoPGF</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g2172/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g2172/</guid>
+      <description>Gene Details: Gene ID: Gh_A12G2172 Gene Symbol: GoPGF Gene Name: Gossypium Pigment Gland Formation Genome: NBI_Gossypium_hirsutum_v1.</description>
+    </item>
+  </channel>
+</rss>

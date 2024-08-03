@@ -35,5 +35,9 @@ tags: [ resistance,stress,tolerance,stress tolerance,h2o2 ]
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

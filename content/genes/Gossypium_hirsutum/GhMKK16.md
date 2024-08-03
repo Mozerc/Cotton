@@ -35,5 +35,9 @@ tags: [ drought,stress,drought stress,tolerance,aba,drought tolerance,stress tol
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lateral Root Number on funPlantGenes</title>
+    <link>//localhost:60475/tags/lateral-root-number/</link>
+    <description>Recent content in Lateral Root Number on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/lateral-root-number/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cg1</title>
+      <link>//localhost:60475/genes/zea_mays/cg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/cg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM5G838324 Gene Symbol: Cg1 Gene Name: Corngrass1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>GmEIL4</title>
+      <link>//localhost:60475/genes/glycine_max/gmeil4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/glycine_max/gmeil4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02g274600 Gene Symbol: GmEIL4 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmEIL4 enhances soybean (Glycine max) phosphorus efficiency by improving root system development.</description>
+    </item>
+    <item>
+      <title>GmWNK1</title>
+      <link>//localhost:60475/genes/2024.6.9/glycine-max/gmwnk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/glycine-max/gmwnk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmWNK1 Gene Name: WNK kinase homolog1 Genome: Species: Glycine max Functional Descriptions: The soybean root-specific protein kinase GmWNK1 regulates stress-responsive ABA signaling on the root system architecture.</description>
+    </item>
+    <item>
+      <title>LBL1;rgd1</title>
+      <link>//localhost:60475/genes/zea_mays/lbl1rgd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/lbl1rgd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsMADS25</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g23910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g23910/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g23910 RAPdb gene ID: Os04g0304400 Gene Symbol: OsMADS25 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaMOR-D</title>
+      <link>//localhost:60475/genes/triticum_aestivum/tamor-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/triticum_aestivum/tamor-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G312800 Gene Symbol: TaMOR-D Gene Name: MORE ROOT Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TIPS-11-9</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os11g44950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os11g44950/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g44950 RAPdb gene ID: Os11g0673200 Gene Symbol: TIPS-11-9 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmCKX5;cko5</title>
+      <link>//localhost:60475/genes/zea_mays/zmckx5cko5ckx5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmckx5cko5ckx5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb337910 Gene Symbol: ZmCKX5 cko5 ckx5 Gene Name: cytokinin oxidase 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHb77</title>
+      <link>//localhost:60475/genes/2024.7.17/zea-mays/zm00001eb377480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/zea-mays/zm00001eb377480/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb377480 Gene Symbol: ZmHb77 Gene Name: Homeobox-transcription factor 77 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIAA5;ZmIAA10</title>
+      <link>//localhost:60475/genes/zea_mays/zmiaa5zmiaa10rum1iaa13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmiaa5zmiaa10rum1iaa13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: ZmIAA5 ZmIAA10 rum1 iaa13 Gene Name: rootless with undetectable meristems1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLRT</title>
+      <link>//localhost:60475/genes/zea_mays/zmlrt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmlrt/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb248920 Gene Symbol: ZmLRT Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPTF1</title>
+      <link>//localhost:60475/genes/zea_mays/zmptf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmptf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM2G024530 Gene Symbol: ZmPTF1 Gene Name: Pi starvation-induced transcription factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

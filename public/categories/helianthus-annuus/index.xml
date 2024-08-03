@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helianthus Annuus on funPlantGenes</title>
+    <link>//localhost:60475/categories/helianthus-annuus/</link>
+    <description>Recent content in Helianthus Annuus on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/categories/helianthus-annuus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HaDREB2</title>
+      <link>//localhost:60475/genes/2024.6.9/helianthus-annuus/hadreb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/helianthus-annuus/hadreb2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HaDREB2 Gene Name: DREB2 transcription factor Genome: Species: Helianthus annuus Functional Descriptions: The HaDREB2 transcription factor enhances basal thermotolerance and longevity of seeds through functional interaction with HaHSFA9.</description>
+    </item>
+    <item>
+      <title>HaHSFA9</title>
+      <link>//localhost:60475/genes/2024.6.9/helianthus-annuus/hahsfa9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/helianthus-annuus/hahsfa9/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HaHSFA9 Gene Name: heat stress transcription factor HSFA9 Genome: Species: Helianthus annuus Functional Descriptions: The HaDREB2 transcription factor enhances basal thermotolerance and longevity of seeds through functional interaction with HaHSFA9.</description>
+    </item>
+  </channel>
+</rss>

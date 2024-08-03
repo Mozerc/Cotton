@@ -35,5 +35,9 @@ tags: [ root,disease,defense,tolerance,ethylene,salicylic acid,jasmonic,jasmonic
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

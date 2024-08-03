@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthocyanin on COTTON</title>
+    <link>//localhost:1313/tags/anthocyanin/</link>
+    <description>Recent content in Anthocyanin on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/anthocyanin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbBM</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</guid>
+      <description>Gene Details: Gene ID: Gbar_A07G008330 Gene Symbol: GbBM Gene Name: Beauty Mark Genome: Species: Gossypium barbadense Functional Descriptions: Demonstrate that GbBM directly targets the promoter of four flavonoid biosynthesis genes to positively regulate petal spot development.</description>
+    </item>
+    <item>
+      <title>GhANR</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghanr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghanr/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhANR Gene Name: anthocyanidin reductase Genome: Species: Gossypium hirsutum Functional Descriptions: The three key genes of GhCHS, GhANR and GhLAR were predominantly expressed in the developing fibers of colored cotton.</description>
+    </item>
+    <item>
+      <title>GhCHS</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghchs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghchs/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCHS Gene Name: chalcone synthase 1-like Genome: Species: Gossypium hirsutum Functional Descriptions: The three key genes of GhCHS, GhANR and GhLAR were predominantly expressed in the developing fibers of colored cotton.</description>
+    </item>
+    <item>
+      <title>GhJAZ2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d06g0810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d06g0810/</guid>
+      <description>Gene Details: Gene ID: Gh_D06G0810 Gene Symbol: GhJAZ2 Gene Name: jasmonate2 Genome: Species: Gossypium hirsutum Functional Descriptions: GhJAZ2 attenuates cotton resistance to biotic stresses via the inhibition of the transcriptional activity of GhbHLH171.</description>
+    </item>
+    <item>
+      <title>GhLAR</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghlar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghlar/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhLAR Gene Name: leucoanthocyanidin reductase Genome: Species: Gossypium hirsutum Functional Descriptions: The three key genes of GhCHS, GhANR and GhLAR were predominantly expressed in the developing fibers of colored cotton.</description>
+    </item>
+  </channel>
+</rss>

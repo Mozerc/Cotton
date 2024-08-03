@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tryptophan Aminotransferase on funPlantGenes</title>
+    <link>//localhost:60475/tags/tryptophan-aminotransferase/</link>
+    <description>Recent content in Tryptophan Aminotransferase on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/tryptophan-aminotransferase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIB;TSG1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g07500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g07500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g07500 RAPdb gene ID: Os01g0169800 Gene Symbol: FIB TSG1 OsFIB MHZ10 OsTAR2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTAR1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os05g07720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os05g07720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g07720 RAPdb gene ID: Os05g0169300 Gene Symbol: OsTAR1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTARL2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g51980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g51980/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g51980 RAPdb gene ID: Os01g0717400 Gene Symbol: OsTARL2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaTAR2.1-3A</title>
+      <link>//localhost:60475/genes/2024.6.9/triticum-aestivum/tatar2.1-3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/triticum-aestivum/tatar2.1-3a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaTAR2.1-3A Gene Name: RYPTOPHAN AMINOTRANSFERASE RELATED Genome: Species: Triticum aestivum Functional Descriptions: The Auxin Biosynthetic TRYPTOPHAN AMINOTRANSFERASE RELATED TaTAR2.</description>
+    </item>
+    <item>
+      <title>Vt2</title>
+      <link>//localhost:60475/genes/zea_mays/vt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/vt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb336530 Gene Symbol: Vt2 Gene Name: vanishing tassel2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

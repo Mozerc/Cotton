@@ -1,11 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on funPlantGenes</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on funPlantGenes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on COTTON</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on COTTON</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jul 2024 18:48:15 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application</title>
+      <link>//localhost:1313/categories/application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>//localhost:1313/categories/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>//localhost:1313/categories/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>//localhost:1313/categories/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>//localhost:1313/categories/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Group0</title>
+      <link>//localhost:1313/categories/group0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/group0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polymerases Superfamily Protein</title>
+      <link>//localhost:1313/categories/polymerases-superfamily-protein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/polymerases-superfamily-protein/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A</title>
+      <link>//localhost:1313/categories/a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>B</title>
+      <link>//localhost:1313/categories/b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gossypium Arboreum</title>
+      <link>//localhost:1313/categories/gossypium-arboreum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/gossypium-arboreum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gossypium Barbadense</title>
+      <link>//localhost:1313/categories/gossypium-barbadense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/gossypium-barbadense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gossypium Hirsutum</title>
+      <link>//localhost:1313/categories/gossypium-hirsutum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/gossypium-hirsutum/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

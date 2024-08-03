@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Litchi Chinensis on funPlantGenes</title>
+    <link>//localhost:60475/categories/litchi-chinensis/</link>
+    <description>Recent content in Litchi Chinensis on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/categories/litchi-chinensis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LcFT1</title>
+      <link>//localhost:60475/genes/2024.6.9/litchi-chinensis/lcft1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/litchi-chinensis/lcft1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LcFT1 Gene Name: FLOWERING LOCUS T 1 Genome: Species: Litchi chinensis Functional Descriptions: Promoter difference of LcFT1 is a leading cause of natural variation of flowering timing in different litchi cultivars.</description>
+    </item>
+  </channel>
+</rss>

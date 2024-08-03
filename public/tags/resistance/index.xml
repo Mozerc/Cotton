@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resistance on COTTON</title>
+    <link>//localhost:1313/tags/resistance/</link>
+    <description>Recent content in Resistance on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/resistance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbCML45</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</guid>
+      <description>Gene Details: Gene ID: Gbar_D04G005070 Gene Symbol: GbCML45 Gene Name: calmodulin-like 45 Genome: Species: Gossypium barbadense Functional Descriptions: Positive roles of the Ca2+ sensors GbCML45 and GbCML50 in improving cotton Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GbCML50</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d03g007630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d03g007630/</guid>
+      <description>Gene Details: Gene ID: Gbar_D03G007630 Gene Symbol: GbCML50 Gene Name: calmodulin-like 50 Genome: Species: Gossypium barbadense Functional Descriptions: Positive roles of the Ca2+ sensors GbCML45 and GbCML50 in improving cotton Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GbNRX1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbnrx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbnrx1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GbNRX1 Gene Name: nucleoredoxin 1 Genome: Species: Gossypium barbadense Functional Descriptions: The Thioredoxin GbNRX1 Plays a Crucial Role in Homeostasis of Apoplastic Reactive Oxygen Species in Response to Verticillium dahliae Infection in Cotton.</description>
+    </item>
+    <item>
+      <title>Gh4CL3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh4cl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh4cl3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Gh4CL3 Gene Name: Cotton 4-coumarate-CoA ligase 3 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton 4-coumarate-CoA ligase 3 (Gh4CL3) enhanced plant resistance to Verticillium dahliae by promoting jasmonic acid signaling-mediated vascular lignification and metabolic flux.</description>
+    </item>
+    <item>
+      <title>GhARF17</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A06G004210 Gene Symbol: GhARF17 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF18</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G042500 Gene Symbol: GhARF18 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhBAK1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghbak1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghbak1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhBAK1 Gene Name: somatic embryogenesis receptor-like kinase 3 protein Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhBAK1 Mediates Verticillium Wilt Resistance and Cell Death†.</description>
+    </item>
+    <item>
+      <title>GhBIN2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghbin2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghbin2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhBIN2 Gene Name: Genome: reference genome sequence for G.</description>
+    </item>
+    <item>
+      <title>GhCaM7</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a09g122000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a09g122000/</guid>
+      <description>Gene Details: Gene ID: Gh_A09G122000 Gene Symbol: GhCaM7 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCaM7 is acetylated upon Verticillium dahliae (V.</description>
+    </item>
+    <item>
+      <title>GhCAS</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcas/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCAS Gene Name: Genome: Cotton Genome Database Species: Gossypium hirsutum Functional Descriptions: GhCAS, GhAPX, GhSDH, and GhPOD, were cloned from cotton complementary DNA, and their expression patterns under stress were analyzed.</description>
+    </item>
+    <item>
+      <title>GhCDPK28-A10</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcdpk28-a10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcdpk28-a10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G086300 Gene Symbol: GhCDPK28-A10 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCKX14</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g1177/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g1177/</guid>
+      <description>Gene Details: Gene ID: GH_D01G1177 Gene Symbol: GhCKX14 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCKX14 responding to drought stress by modulating antioxi-dative enzyme activity in Gossypium hirsutum compared to CKX family genes.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g0621/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g0621/</guid>
+      <description>Gene Details: Gene ID: Gh_A01G0621 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0148/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0148/</guid>
+      <description>Gene Details: Gene ID: Gh_A04G0148 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1164/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1164/</guid>
+      <description>Gene Details: Gene ID: Gh_A13G1164 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g2360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g2360/</guid>
+      <description>Gene Details: Gene ID: Gh_D01G2360 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3567/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3567/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G3567 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d13g1455/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d13g1455/</guid>
+      <description>Gene Details: Gene ID: Gh_D13G1455 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhERF-IIb3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF-IIb3 Gene Name: cultivar Reba B50 ethylene-responsive transcription factor-IIb3 Genome: Species: Gossypium hirsutum Functional Descriptions: GhERF-IIb3 regulates the accumulation of jasmonate and leads to enhanced cotton resistance to blight diseas.</description>
+    </item>
+    <item>
+      <title>GhGLR4.8</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghglr4.8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghglr4.8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D03G0209 Gene Symbol: GhGLR4.8 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhGPA</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgpa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgpa/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhGPA Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: A cotton G-protein α-subunit-encoding gene (GhGPA) was isolated from Verticillium wilt-resistant Gossypium hirsutum (upland cotton) cv.</description>
+    </item>
+    <item>
+      <title>GhGST</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgst/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A09G1509 Gene Symbol: GhGST Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhIQD10</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d01g0420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d01g0420/</guid>
+      <description>Gene Details: Gene ID: Gh_D01G0420 Gene Symbol: GhIQD10 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhIQD10 promoted resistance to verticillium wilt in cotton.</description>
+    </item>
+    <item>
+      <title>GhJAZ2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d06g0810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d06g0810/</guid>
+      <description>Gene Details: Gene ID: Gh_D06G0810 Gene Symbol: GhJAZ2 Gene Name: jasmonate2 Genome: Species: Gossypium hirsutum Functional Descriptions: GhJAZ2 attenuates cotton resistance to biotic stresses via the inhibition of the transcriptional activity of GhbHLH171.</description>
+    </item>
+    <item>
+      <title>GhLac1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhLac1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhLAC4-3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlac4-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlac4-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D04G1418 Gene Symbol: GhLAC4-3 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: These results suggest that GhLAC4-3 might enhance aphid resistance by regulating lignin biosynthesis in cotton.</description>
+    </item>
+    <item>
+      <title>GhLPL2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlpl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlpl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhLPL2 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhMKK2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmkk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmkk2/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_23706 Gene Symbol: GhMKK2 Gene Name: Genome: Gossypium hirsutum (AD1) &amp;lsquo;TM-1&amp;rsquo; genome CGP-BGI_v1 Species: Gossypium hirsutum Functional Descriptions: Group IIc WRKY transcription factors regulate cotton resistance to Fusarium oxysporum by promoting GhMKK2-mediated flavonoid biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhMKK4</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK4 Gene Name: mitogen-activated protein kinase kinase 2 Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton MAPK kinase GhMPK20 negatively regulates resistance to Fusarium oxysporum by mediating the MKK4–MPK20–WRKY40 cascade.</description>
+    </item>
+    <item>
+      <title>GhMKK5</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK5 Gene Name: mitogen-activated protein kinase kinase5 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhMKK5 affects disease resistance, induces HR-like cell death, and reduces the tolerance to salt and drought stress in transgenic Nicotiana benthamiana.</description>
+    </item>
+    <item>
+      <title>GhMKK6</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_21502/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_21502/</guid>
+      <description>Gene Details: Gene ID: CotAD_21502 Gene Symbol: GhMKK6 Gene Name: mitogen-activated protein kinase 6 Genome: Species: Gossypium hirsutum Functional Descriptions: Scaffold protein GhMORG1 enhances the resistance of cotton to Fusarium oxysporum by facilitating the GhMKK6-GhMPK4 cascade.</description>
+    </item>
+    <item>
+      <title>GhMPK20</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmpk20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmpk20/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMPK20 Gene Name: mitogen-activated protein kinase 20 Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton MAPK kinase GhMPK20 negatively regulates resistance to Fusarium oxysporum by mediating the MKK4–MPK20–WRKY40 cascade.</description>
+    </item>
+    <item>
+      <title>GhMPK4</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_19088/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_19088/</guid>
+      <description>Gene Details: Gene ID: CotAD_19088 Gene Symbol: GhMPK4 Gene Name: mitogen-activated protein kinase 4 Genome: Species: Gossypium hirsutum Functional Descriptions: Scaffold protein GhMORG1 enhances the resistance of cotton to Fusarium oxysporum by facilitating the GhMKK6-GhMPK4 cascade.</description>
+    </item>
+    <item>
+      <title>GhMYB33</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyb33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyb33/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D05G2713 Gene Symbol: GhMYB33 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhMYB36</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyb36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyb36/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhMYB36 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The GhMYB36 transcription factor confers resistance to biotic and abiotic stress by enhancing PR1 gene expression in plants.</description>
+    </item>
+    <item>
+      <title>GhMYC2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_32778 Gene Symbol: GhMYC2 Gene Name: Genome: Gossypium hirsutum (AD1) &amp;lsquo;TM-1&amp;rsquo; genome CGP-BGI_v1 Species: Gossypium hirsutum Functional Descriptions: A novel mitogen-activated protein kinase (MAPK) cascade composed of GhMKK2, GhNTF6 and GhMYC2 was identified.</description>
+    </item>
+    <item>
+      <title>GhnsLTPsA10</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghnsltpsa10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghnsltpsa10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G2049 Gene Symbol: GhnsLTPsA10 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhNTF6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghntf6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghntf6/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_09564 Gene Symbol: GhNTF6 Gene Name: Genome: Gossypium hirsutum (AD1) &amp;lsquo;TM-1&amp;rsquo; genome CGP-BGI_v1 Species: Gossypium hirsutum Functional Descriptions: A novel mitogen-activated protein kinase (MAPK) cascade composed of GhMKK2, GhNTF6 and GhMYC2 was identified.</description>
+    </item>
+    <item>
+      <title>GhPAO</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpao/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPAO Gene Name: polyamine oxidase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton polyamine oxidase (GhPAO) is required for spermine and camalexin signalling in the defence response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhRVE2A</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghrve2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghrve2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhRVE2A Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhRVE2D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghrve2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghrve2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhRVE2D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhSAMDC</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsamdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsamdc/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSAMDC Gene Name: S-adenosylmethionine decarboxylase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton S-adenosylmethionine decarboxylase(GhSAMDC)-mediated spermine biosynthesis is required for salicylic acid- and leucine-correlated signaling in the defense response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhSPMS</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghspms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghspms/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSPMS Gene Name: Spm synthase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton S-adenosylmethionine decarboxylase(GhSAMDC)-mediated spermine biosynthesis is required for salicylic acid- and leucine-correlated signaling in the defense response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhSSI2-A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-B</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-B Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-C</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-C Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhWIN2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</guid>
+      <description>Gene Details: Gene ID: Gh_A07G036100 Gene Symbol: GhWIN2 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton GhWIN2 gene activates the cuticle biosynthesis pathway and influences the salicylic and jasmonic acid biosynthesis pathways.</description>
+    </item>
+    <item>
+      <title>GhWRKY41</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghwrky41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghwrky41/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A08G2417 Gene Symbol: GhWRKY41 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhZFP1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghzfp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghzfp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhZFP1 Gene Name: CCCH-type zinc finger protein 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhZFP1, a novel CCCH-type zinc finger protein from cotton, enhances salt stress tolerance and fungal disease resistance in transgenic tobacco by interacting with GZIRD21A and GZIPR5.</description>
+    </item>
+    <item>
+      <title>GoPGF</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g2172/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g2172/</guid>
+      <description>Gene Details: Gene ID: Gh_A12G2172 Gene Symbol: GoPGF Gene Name: Gossypium Pigment Gland Formation Genome: NBI_Gossypium_hirsutum_v1.</description>
+    </item>
+  </channel>
+</rss>

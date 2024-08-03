@@ -34,5 +34,9 @@ tags: [ resistance,cell death,reactive oxygen species ]
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

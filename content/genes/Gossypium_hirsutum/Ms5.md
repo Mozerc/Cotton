@@ -35,5 +35,9 @@ tags: [ fertility,sterility,map-based cloning,male sterility,male fertility,fatt
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

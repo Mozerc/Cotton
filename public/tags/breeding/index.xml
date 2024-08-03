@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breeding on COTTON</title>
+    <link>//localhost:1313/tags/breeding/</link>
+    <description>Recent content in Breeding on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/breeding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbCML45</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</guid>
+      <description>Gene Details: Gene ID: Gbar_D04G005070 Gene Symbol: GbCML45 Gene Name: calmodulin-like 45 Genome: Species: Gossypium barbadense Functional Descriptions: Positive roles of the Ca2+ sensors GbCML45 and GbCML50 in improving cotton Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GbCML50</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d03g007630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d03g007630/</guid>
+      <description>Gene Details: Gene ID: Gbar_D03G007630 Gene Symbol: GbCML50 Gene Name: calmodulin-like 50 Genome: Species: Gossypium barbadense Functional Descriptions: Positive roles of the Ca2+ sensors GbCML45 and GbCML50 in improving cotton Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhACT1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghact1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghact1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G040150 Gene Symbol: GhACT1 Gene Name: Genome: HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>GhCAL</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcal/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D07G0876 Gene Symbol: GhCAL Gene Name: Genome: The TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: High-resolution temporal dynamic transcriptome landscape reveals a GhCAL-mediated flowering regulatory pathway in cotton.</description>
+    </item>
+    <item>
+      <title>GhCUL1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcul1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcul1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A11G1857 Gene Symbol: GhCUL1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhGASL3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D04G017310 Gene Symbol: GhGASL3 Gene Name: Genome: TM-1 genome (HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>Ghir_COL2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghir_col2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghir_col2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D03G011010.1 Gene Symbol: Ghir_COL2 Gene Name: CONSTANS-like 2 Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: A genome-wide association study (GWAS) was performed with 15 agronomic traits using 267 cotton accessions and identified 163 quantitative trait loci (QTL) and an important candidate gene (Ghir_COL2) for early maturity traits.</description>
+    </item>
+    <item>
+      <title>GhKNL1_A08</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknl1_a08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknl1_a08/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A03G021900 Gene Symbol: GhKNL1_A08 Gene Name: class II KNOX protein 1 Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhKNL1_D08</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknl1_d08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknl1_d08/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G198400 Gene Symbol: GhKNL1_D08 Gene Name: class II KNOX protein 1 Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhUBP15</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A01G038500 Gene Symbol: GhUBP15 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>WLIM1a</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: WLIM1a Gene Name: LIM domain protein LIM-2 Genome: Species: Gossypium hirsutum Functional Descriptions: The Dual Functions of WLIM1a in Cell Elongation and Secondary Wall Formation in Developing Cotton Fibers.</description>
+    </item>
+  </channel>
+</rss>

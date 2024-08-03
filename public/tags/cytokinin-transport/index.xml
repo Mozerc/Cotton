@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cytokinin Transport on funPlantGenes</title>
+    <link>//localhost:60475/tags/cytokinin-transport/</link>
+    <description>Recent content in Cytokinin Transport on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/cytokinin-transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BG3;OsPUP4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g48800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g48800/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g48800 RAPdb gene ID: Os01g0680200 Gene Symbol: BG3 OsPUP4 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MtCRE1</title>
+      <link>//localhost:60475/genes/2024.6.9/medicago-truncatula/mtruna17chr8g0392301/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/medicago-truncatula/mtruna17chr8g0392301/</guid>
+      <description>Gene Details: Gene ID: MtrunA17Chr8g0392301 Gene Symbol: MtCRE1 Gene Name: Cytokinin Response Element 1 Genome: M.</description>
+    </item>
+  </channel>
+</rss>

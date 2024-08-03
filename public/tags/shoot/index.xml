@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shoot on COTTON</title>
+    <link>//localhost:1313/tags/shoot/</link>
+    <description>Recent content in Shoot on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/shoot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhAOC1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghaoc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghaoc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhAOC1 Gene Name: allene oxide cyclase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Improvement of copper tolerance of Arabidopsis by transgenic expression of an allene oxide cyclase gene, GhAOC1, in upland cotton.</description>
+    </item>
+    <item>
+      <title>GhCUC2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCUC2 Gene Name: CUP-SHAPED COTYLEDON2 Genome: reference genome TM-1 (AD1) genome NAU-NBI Species: Gossypium hirsutum Functional Descriptions: The miR164-GhCUC2-GhBRC1 module regulates plant architecture through abscisic acid in cotton.</description>
+    </item>
+    <item>
+      <title>GhHAK5aA</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g1516/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g1516/</guid>
+      <description>Gene Details: Gene ID: Gh_A01G1516 Gene Symbol: GhHAK5aA Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton High-Affinity K+ Transporter, GhHAK5a, Is Essential for Shoot Regulation of K+ Uptake in Root under Potassium Deficiency.</description>
+    </item>
+    <item>
+      <title>GhHAK5aD</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g1760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g1760/</guid>
+      <description>Gene Details: Gene ID: Gh_D01G1760 Gene Symbol: GhHAK5aD Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton High-Affinity K+ Transporter, GhHAK5a, Is Essential for Shoot Regulation of K+ Uptake in Root under Potassium Deficiency.</description>
+    </item>
+    <item>
+      <title>GhSWEET10D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghsweet10d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghsweet10d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D12G1898 Gene Symbol: GhSWEET10D Gene Name: Genome: genomes of G.</description>
+    </item>
+  </channel>
+</rss>

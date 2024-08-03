@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actin Protein on COTTON</title>
+    <link>//localhost:1313/tags/actin-protein/</link>
+    <description>Recent content in Actin Protein on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/actin-protein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCFE1A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcfe1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcfe1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCFE1A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCFE1A, a dynamic linker between the ER network and actin cytoskeleton, plays an important role in cotton fibre cell initiation and elongation.</description>
+    </item>
+    <item>
+      <title>GhPFN2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpfn2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpfn2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPFN2 Gene Name: profilin2 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of a Profilin (GhPFN2) Promotes the Progression of Developmental Phases in Cotton Fibers.</description>
+    </item>
+    <item>
+      <title>GhXLIM6</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_24080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_24080/</guid>
+      <description>Gene Details: Gene ID: CotAD_24080 Gene Symbol: GhXLIM6 Gene Name: lim protein 6 Genome: Species: Gossypium hirsutum Functional Descriptions: In this study, we identified a cotton XLIM protein (GhXLIM6) that is preferentially expressed in cotton fiber during whole elongation stage and early secondary cell wall (SCW) synthesis stage.</description>
+    </item>
+  </channel>
+</rss>

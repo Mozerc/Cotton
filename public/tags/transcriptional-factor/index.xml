@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcriptional Factor on funPlantGenes</title>
+    <link>//localhost:60475/tags/transcriptional-factor/</link>
+    <description>Recent content in Transcriptional Factor on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/transcriptional-factor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MdMa11</title>
+      <link>//localhost:60475/genes/2024.6.9/malus-domestica/mdma11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/malus-domestica/mdma11/</guid>
+      <description>Gene Details: Gene ID: MD17G1155800 Gene Symbol: MdMa11 Gene Name: Genome: Genome Database for Rosaceae database Species: Malus domestica Functional Descriptions: Allelic variation of MdMYB123 controls malic acid content by regulating MdMa1 and MdMa11 expression in apple.</description>
+    </item>
+  </channel>
+</rss>

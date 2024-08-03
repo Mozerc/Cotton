@@ -35,5 +35,9 @@ tags: [ seedlings,drought,stress,drought stress,tolerance,abiotic stress,vegetat
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

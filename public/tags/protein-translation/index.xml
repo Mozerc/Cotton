@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protein Translation on COTTON</title>
+    <link>//localhost:1313/tags/protein-translation/</link>
+    <description>Recent content in Protein Translation on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/protein-translation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCPK84</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d10g2029/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d10g2029/</guid>
+      <description>Gene Details: Gene ID: Gh_D10G2029 Gene Symbol: GhCPK84 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Comparative phosphoproteomic analysis reveals that phosphorylation of sucrose synthase GhSUS2 by Ca2+-dependent protein kinases GhCPK84/GhCPK93 affects cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhCPK93</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2743/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2743/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G2743 Gene Symbol: GhCPK93 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Comparative phosphoproteomic analysis reveals that phosphorylation of sucrose synthase GhSUS2 by Ca2+-dependent protein kinases GhCPK84/GhCPK93 affects cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhHDA14</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhda14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhda14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHDA14 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The regulation circuit composed of GhHSP24.</description>
+    </item>
+    <item>
+      <title>GhHSP24.7</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhsp24.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhsp24.7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHSP24.7 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The regulation circuit composed of GhHSP24.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pigmentation on COTTON</title>
+    <link>//localhost:1313/tags/pigmentation/</link>
+    <description>Recent content in Pigmentation on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/pigmentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CGP1a</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/cgp1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/cgp1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A07G0703 Gene Symbol: CGP1a Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>CGP1d</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/cgp1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/cgp1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D07G0770 Gene Symbol: CGP1d Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhTT19</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtt19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtt19/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_A07G0814 Gene Symbol: GhTT19 Gene Name: Genome: G.</description>
+    </item>
+  </channel>
+</rss>

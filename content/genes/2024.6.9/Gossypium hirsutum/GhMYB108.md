@@ -34,5 +34,9 @@ tags: [ defense response,defense,tolerance,ethylene,salicylic acid,pathogen,jasm
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Triacylglycerol on funPlantGenes</title>
+    <link>//localhost:60475/tags/triacylglycerol/</link>
+    <description>Recent content in Triacylglycerol on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/triacylglycerol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsELT1</title>
+      <link>//localhost:60475/genes/citrus_sinensis/cselt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/citrus_sinensis/cselt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs3g11690 Gene Symbol: CsELT1 Gene Name: Esterase/lipase/thioesterase 1 Genome: sweet orange (Citrus sinensis) reference genome Species: Citrus sinensis Functional Descriptions: CsELT1 promotes the accumulation of β-chain carotenoids in plastid globules by forming a fat-soluble environment rich in triacylglycerol (TGA).</description>
+    </item>
+    <item>
+      <title>GmFATA1</title>
+      <link>//localhost:60475/genes/2024.6.9/gyma.18g167300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/gyma.18g167300/</guid>
+      <description>Gene Details: Gene ID: Gyma.18G167300 Gene Symbol: GmFATA1 Gene Name: acyl–acyl carrier protein thioesterase 1 Genome: Species: Glycine max Functional Descriptions: The acyl–acyl carrier protein thioesterases GmFATA1 and GmFATA2 are essential for fatty acid accumulation and growth in soybean.</description>
+    </item>
+    <item>
+      <title>OsLP1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g40500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g40500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g40500 RAPdb gene ID: Os06g0607100 Gene Symbol: OsLP1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

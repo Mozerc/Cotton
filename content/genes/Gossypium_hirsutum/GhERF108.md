@@ -35,5 +35,9 @@ tags: [ transcription factor,auxin,ethylene,cell wall,auxin response,auxin biosy
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

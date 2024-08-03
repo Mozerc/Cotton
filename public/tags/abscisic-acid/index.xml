@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abscisic Acid on COTTON</title>
+    <link>//localhost:1313/tags/abscisic-acid/</link>
+    <description>Recent content in Abscisic Acid on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/abscisic-acid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCPK84</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d10g2029/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d10g2029/</guid>
+      <description>Gene Details: Gene ID: Gh_D10G2029 Gene Symbol: GhCPK84 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Comparative phosphoproteomic analysis reveals that phosphorylation of sucrose synthase GhSUS2 by Ca2+-dependent protein kinases GhCPK84/GhCPK93 affects cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhCPK93</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2743/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2743/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G2743 Gene Symbol: GhCPK93 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Comparative phosphoproteomic analysis reveals that phosphorylation of sucrose synthase GhSUS2 by Ca2+-dependent protein kinases GhCPK84/GhCPK93 affects cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhCUC2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCUC2 Gene Name: CUP-SHAPED COTYLEDON2 Genome: reference genome TM-1 (AD1) genome NAU-NBI Species: Gossypium hirsutum Functional Descriptions: The miR164-GhCUC2-GhBRC1 module regulates plant architecture through abscisic acid in cotton.</description>
+    </item>
+    <item>
+      <title>GhDREB1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghdreb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghdreb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhDREB1 Gene Name: DREB-like transcription factor Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhDREB1 increases plant tolerance to low temperature and is negatively regulated by gibberellic acid.</description>
+    </item>
+    <item>
+      <title>GhGLU19A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0109/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0109/</guid>
+      <description>Gene Details: Gene ID: Gh_A04G0109 Gene Symbol: GhGLU19A Gene Name: Glucanase 19 Genome: Species: Gossypium hirsutum Functional Descriptions: Suppression of GhGLU19 encoding β-1,3-glucanase promotes seed germination in cotton.</description>
+    </item>
+    <item>
+      <title>GhGLU19D</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3612/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3612/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G3612 Gene Symbol: GhGLU19D Gene Name: Glucanase 19 Genome: Species: Gossypium hirsutum Functional Descriptions: Suppression of GhGLU19 encoding β-1,3-glucanase promotes seed germination in cotton.</description>
+    </item>
+    <item>
+      <title>GhHSP70-26</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhsp70-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhsp70-26/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gohir.D06G173000 Gene Symbol: GhHSP70-26 Gene Name: Genome: Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>GhMKK4</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmkk4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK4 Gene Name: mitogen-activated protein kinase kinase 2 Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton MAPK kinase GhMPK20 negatively regulates resistance to Fusarium oxysporum by mediating the MKK4–MPK20–WRKY40 cascade.</description>
+    </item>
+    <item>
+      <title>GhMT3a</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmt3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmt3a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMT3a Gene Name: Metallothionein-like Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton metallothionein GhMT3a, a reactive oxygen species scavenger, increased tolerance against abiotic stress in transgenic tobacco and yeast.</description>
+    </item>
+  </channel>
+</rss>

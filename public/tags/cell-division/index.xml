@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cell Division on COTTON</title>
+    <link>//localhost:1313/tags/cell-division/</link>
+    <description>Recent content in Cell Division on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/cell-division/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhVQ22</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g0470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g0470/</guid>
+      <description>Gene Details: Gene ID: GH_A12G0470 Gene Symbol: GhVQ22 Gene Name: PG-specific valine glutamine 22 Genome: Species: Gossypium hirsutum Functional Descriptions: Gland-specific GhVQ22 negatively regulates gland size and affects secondary metabolic accumulation in cotton.</description>
+    </item>
+    <item>
+      <title>GhVQ22</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0482/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0482/</guid>
+      <description>Gene Details: Gene ID: GH_D12G0482 Gene Symbol: GhVQ22 Gene Name: PG-specific valine glutamine 22 Genome: Species: Gossypium hirsutum Functional Descriptions: Gland-specific GhVQ22 negatively regulates gland size and affects secondary metabolic accumulation in cotton.</description>
+    </item>
+  </channel>
+</rss>

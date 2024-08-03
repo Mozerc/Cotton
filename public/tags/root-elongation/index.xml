@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Root Elongation on COTTON</title>
+    <link>//localhost:1313/tags/root-elongation/</link>
+    <description>Recent content in Root Elongation on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/root-elongation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhBZR3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G0312 Gene Symbol: GhBZR3 Gene Name: Genome: genome version is NBI v1.</description>
+    </item>
+    <item>
+      <title>GhCERP</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcerp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcerp/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D02G2021 Gene Symbol: GhCERP Gene Name: Genome: cotton genome (Gossypium hirsutum, NAU) Species: Gossypium hirsutum Functional Descriptions: Inter-species functional analysis of the BR-mediated BES1-CERP-EXPA3 signaling cascade also promotes Arabidopsis root and hypocotyl growth.</description>
+    </item>
+    <item>
+      <title>GhEXPA3-1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghexpa3-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghexpa3-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D04G1924 Gene Symbol: GhEXPA3-1 Gene Name: Genome: cotton genome (Gossypium hirsutum, NAU) Species: Gossypium hirsutum Functional Descriptions: GhBES1 directly binds to E-box of GhCERP and regulates the transcription of GhCERP, which further binds to E-box of GhEXPA3-1 to enhance its transcription to promote plant cell elongation.</description>
+    </item>
+  </channel>
+</rss>

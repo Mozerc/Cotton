@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methyl Jasmonate on COTTON</title>
+    <link>//localhost:1313/tags/methyl-jasmonate/</link>
+    <description>Recent content in Methyl Jasmonate on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/methyl-jasmonate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhJAZ2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d06g0810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d06g0810/</guid>
+      <description>Gene Details: Gene ID: Gh_D06G0810 Gene Symbol: GhJAZ2 Gene Name: jasmonate2 Genome: Species: Gossypium hirsutum Functional Descriptions: GhJAZ2 attenuates cotton resistance to biotic stresses via the inhibition of the transcriptional activity of GhbHLH171.</description>
+    </item>
+    <item>
+      <title>GhMYC2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2074/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2074/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G2074 Gene Symbol: GhMYC2 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhMYC2 activates cytochrome P450 gene CYP71BE79 to regulate gossypol biosynthesis in cotton.</description>
+    </item>
+  </channel>
+</rss>

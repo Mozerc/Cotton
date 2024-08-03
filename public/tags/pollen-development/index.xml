@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pollen Development on COTTON</title>
+    <link>//localhost:1313/tags/pollen-development/</link>
+    <description>Recent content in Pollen Development on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/pollen-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhACS1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACS1 Gene Name: ACS-like protein Genome: Species: Gossypium hirsutum Functional Descriptions: The GhACS1 gene encodes an acyl-CoA synthetase which is essential for normal microsporogenesis in early anther development of cotton。 Real-time quantitative RT-PCR and northern blot analyses revealed that GhACS1 transcripts were predominantly accumulated in the developing anthers of cotton.</description>
+    </item>
+    <item>
+      <title>GhAOC2A</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_A08G004050.1 Gene Symbol: GhAOC2A Gene Name: allene oxide cyclase 2 Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhAOC2D</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_D08G004260.1 Gene Symbol: GhAOC2D Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhFAD2–3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a11g2814/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a11g2814/</guid>
+      <description>Gene Details: Gene ID: Gh_A11G2814 Gene Symbol: GhFAD2–3 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhFAD2–3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d11g3169/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d11g3169/</guid>
+      <description>Gene Details: Gene ID: Gh_D11G3169 Gene Symbol: GhFAD2–3 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhMYB24</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb24/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMYB24 Gene Name: R2R3-MYB-like protein 24 Genome: Species: Gossypium hirsutum Functional Descriptions: A Cotton Gene Encoding MYB-Like Transcription Factor (GhMYB24) is Specifically Expressed in Pollen and is Involved in Regulation of Late Anther/Pollen Development.</description>
+    </item>
+  </channel>
+</rss>

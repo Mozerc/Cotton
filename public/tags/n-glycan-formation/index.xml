@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N-Glycan Formation on funPlantGenes</title>
+    <link>//localhost:60475/tags/n-glycan-formation/</link>
+    <description>Recent content in N-Glycan Formation on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/n-glycan-formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsMOGS</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g69210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g69210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g69210 RAPdb gene ID: Os01g0921200 Gene Symbol: OsMOGS Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

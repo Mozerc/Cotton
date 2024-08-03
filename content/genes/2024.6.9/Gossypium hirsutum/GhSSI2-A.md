@@ -35,5 +35,9 @@ tags: [ resistance,disease,disease resistance,ja,salicylic acid,jasmonic,jasmoni
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

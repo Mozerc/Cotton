@@ -35,5 +35,9 @@ tags: [ development,cell wall,cell elongation,ubiquitin,secondary cell wall,fibe
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcription Regulator on COTTON</title>
+    <link>//localhost:1313/tags/transcription-regulator/</link>
+    <description>Recent content in Transcription Regulator on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/transcription-regulator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhERF-IIb3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF-IIb3 Gene Name: cultivar Reba B50 ethylene-responsive transcription factor-IIb3 Genome: Species: Gossypium hirsutum Functional Descriptions: GhERF-IIb3 regulates the accumulation of jasmonate and leads to enhanced cotton resistance to blight diseas.</description>
+    </item>
+    <item>
+      <title>GhERF6</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF6 Gene Name: ethylene response factor 6 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton Major Latex Protein 28 (GhMLP28) Functions as a Positive Regulator of the Ethylene Responsive Factor 6 (GhERF6) in Defense against Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhFSN1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghfsn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghfsn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A12G1049 Gene Symbol: GhFSN1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhMYB212</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</guid>
+      <description>Gene Details: Gene ID: Gorai.007G350500.1 Gene Symbol: GhMYB212 Gene Name: R2R3-MYB transcription factor 212 Genome: Phytozome v.</description>
+    </item>
+    <item>
+      <title>GhPAS1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G0607 Gene Symbol: GhPAS1 Gene Name: PAGODA1 SUPPRESSOR 1 Genome: Species: Gossypium hirsutum Functional Descriptions: The bHLH transcription factor GhPAS1 mediates BR signaling to regulate plant development and architecture in cotton.</description>
+    </item>
+    <item>
+      <title>GhSOC1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghsoc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghsoc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhSOC1 Gene Name: Genome: cotton reference genome v2.</description>
+    </item>
+  </channel>
+</rss>

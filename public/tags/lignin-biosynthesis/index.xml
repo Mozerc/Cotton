@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lignin Biosynthesis on COTTON</title>
+    <link>//localhost:1313/tags/lignin-biosynthesis/</link>
+    <description>Recent content in Lignin Biosynthesis on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/lignin-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhLAC4-3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlac4-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlac4-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D04G1418 Gene Symbol: GhLAC4-3 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: These results suggest that GhLAC4-3 might enhance aphid resistance by regulating lignin biosynthesis in cotton.</description>
+    </item>
+  </channel>
+</rss>

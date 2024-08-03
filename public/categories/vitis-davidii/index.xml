@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vitis Davidii on funPlantGenes</title>
+    <link>//localhost:60475/categories/vitis-davidii/</link>
+    <description>Recent content in Vitis Davidii on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/categories/vitis-davidii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VdCRK10</title>
+      <link>//localhost:60475/genes/2024.6.9/vitis-davidii/vit_10s0116g00150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/vitis-davidii/vit_10s0116g00150/</guid>
+      <description>Gene Details: Gene ID: VIT_10s0116g00150 Gene Symbol: VdCRK10 Gene Name: Vitis davidii cysteine-rich receptor-like kinase 10 Genome: Species: Vitis davidii Functional Descriptions: The activity of the VdCRK10 promoter is induced by C.</description>
+    </item>
+  </channel>
+</rss>

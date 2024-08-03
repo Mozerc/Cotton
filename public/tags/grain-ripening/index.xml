@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grain Ripening on funPlantGenes</title>
+    <link>//localhost:60475/tags/grain-ripening/</link>
+    <description>Recent content in Grain Ripening on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/grain-ripening/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsGS1;3;OsGLN1;3</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g50490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g50490/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g50490 RAPdb gene ID: Os03g0712800 Gene Symbol: OsGS1 3 OsGLN1 3 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaABCC3.2</title>
+      <link>//localhost:60475/genes/2024.6.9/triticum-aestivum/taabcc3.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/triticum-aestivum/taabcc3.2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaABCC3.2 Gene Name: ABC transporter C family member 3 protein 2 Genome: Species: Triticum aestivum Functional Descriptions: Two variants of an ATP-binding cassette (ABC) family C transporter gene were cloned from DON-treated wheat mRNA, namely TaABCC3.</description>
+    </item>
+    <item>
+      <title>TaARF15-A1</title>
+      <link>//localhost:60475/genes/triticum_aestivum/taarf15-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/triticum_aestivum/taarf15-a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6A02G113000 Gene Symbol: TaARF15-A1 Gene Name: Auxin response factor 15 Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

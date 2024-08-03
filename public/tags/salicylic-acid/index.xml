@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salicylic Acid on COTTON</title>
+    <link>//localhost:1313/tags/salicylic-acid/</link>
+    <description>Recent content in Salicylic Acid on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/salicylic-acid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbCML45</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</guid>
+      <description>Gene Details: Gene ID: Gbar_D04G005070 Gene Symbol: GbCML45 Gene Name: calmodulin-like 45 Genome: Species: Gossypium barbadense Functional Descriptions: Positive roles of the Ca2+ sensors GbCML45 and GbCML50 in improving cotton Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhMLP28</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmlp28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmlp28/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMLP28 Gene Name: Major Latex Protein 28 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton Major Latex Protein 28 (GhMLP28) Functions as a Positive Regulator of the Ethylene Responsive Factor 6 (GhERF6) in Defense against Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhMPK20</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmpk20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmpk20/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMPK20 Gene Name: mitogen-activated protein kinase 20 Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton MAPK kinase GhMPK20 negatively regulates resistance to Fusarium oxysporum by mediating the MKK4–MPK20–WRKY40 cascade.</description>
+    </item>
+    <item>
+      <title>GhMYB108</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb108/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMYB108 Gene Name: defense-related MYB 108 Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton MYB108 forms a positive feedback regulation loop with CML11 and participates in the defense response against Verticillium dahliae infection.</description>
+    </item>
+    <item>
+      <title>GhPAO</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpao/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPAO Gene Name: polyamine oxidase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton polyamine oxidase (GhPAO) is required for spermine and camalexin signalling in the defence response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhSAMDC</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsamdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsamdc/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSAMDC Gene Name: S-adenosylmethionine decarboxylase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton S-adenosylmethionine decarboxylase(GhSAMDC)-mediated spermine biosynthesis is required for salicylic acid- and leucine-correlated signaling in the defense response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhSPMS</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghspms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghspms/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSPMS Gene Name: Spm synthase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton S-adenosylmethionine decarboxylase(GhSAMDC)-mediated spermine biosynthesis is required for salicylic acid- and leucine-correlated signaling in the defense response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhSSI2-A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-B</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-B Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-C</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-C Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhTINY2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</guid>
+      <description>Gene Details: Gene ID:&#x9;GhD06G0642 Gene Symbol: GhTINY2 Gene Name: Genome: Cotton Functional Genomics Database Species: Gossypium hirsutum Functional Descriptions: Orchestration of plant development and defense by indirect crosstalk of salicylic acid and brassinosteorid signaling via transcription factor GhTINY2.</description>
+    </item>
+    <item>
+      <title>GhWIN2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</guid>
+      <description>Gene Details: Gene ID: Gh_A07G036100 Gene Symbol: GhWIN2 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton GhWIN2 gene activates the cuticle biosynthesis pathway and influences the salicylic and jasmonic acid biosynthesis pathways.</description>
+    </item>
+    <item>
+      <title>GhZFP1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghzfp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghzfp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhZFP1 Gene Name: CCCH-type zinc finger protein 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhZFP1, a novel CCCH-type zinc finger protein from cotton, enhances salt stress tolerance and fungal disease resistance in transgenic tobacco by interacting with GZIRD21A and GZIPR5.</description>
+    </item>
+  </channel>
+</rss>

@@ -34,5 +34,9 @@ tags: [ resistance,ja,cell wall,jasmonic,jasmonic acid,flavonoid,lignin,ja signa
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

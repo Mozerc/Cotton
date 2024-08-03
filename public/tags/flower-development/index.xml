@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flower Development on COTTON</title>
+    <link>//localhost:1313/tags/flower-development/</link>
+    <description>Recent content in Flower Development on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/flower-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbBM</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</guid>
+      <description>Gene Details: Gene ID: Gbar_A07G008330 Gene Symbol: GbBM Gene Name: Beauty Mark Genome: Species: Gossypium barbadense Functional Descriptions: Demonstrate that GbBM directly targets the promoter of four flavonoid biosynthesis genes to positively regulate petal spot development.</description>
+    </item>
+    <item>
+      <title>GhACS2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACS2 Gene Name: ACS-like protein Genome: Species: Gossypium hirsutum Functional Descriptions: To elucidate the roles of genes during anther development, two anther-specific cDNAs (designated GhACS1 and GhACS2) encoding acyl-CoA synthetases (ACSs) were isolated from a cotton (Gossypium hirsutum) flower cDNA library.</description>
+    </item>
+    <item>
+      <title>GhMYB24</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb24/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMYB24 Gene Name: R2R3-MYB-like protein 24 Genome: Species: Gossypium hirsutum Functional Descriptions: A Cotton Gene Encoding MYB-Like Transcription Factor (GhMYB24) is Specifically Expressed in Pollen and is Involved in Regulation of Late Anther/Pollen Development.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methyltransferase on COTTON</title>
+    <link>//localhost:1313/tags/methyltransferase/</link>
+    <description>Recent content in Methyltransferase on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/methyltransferase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhOMT1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g2052/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g2052/</guid>
+      <description>Gene Details: Gene ID: GH_A01G2052 Gene Symbol: GhOMT1 Gene Name: flavonoid O-methyltransferase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Function deficiency of GhOMT1 causes anthocyanidins over-accumulation and diversifies fibre colours in cotton.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seedling on COTTON</title>
+    <link>//localhost:1313/tags/seedling/</link>
+    <description>Recent content in Seedling on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/seedling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhAPX</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghapx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghapx/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhAPX Gene Name: Genome: Cotton Genome Database Species: Gossypium hirsutum Functional Descriptions: Root growth of GhAPX-overexpressing Arabidopsis subjected to abiotic stress.</description>
+    </item>
+    <item>
+      <title>GhBRC1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhBRC1 Gene Name: BRANCHED 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhBRC1 has the same function as Arabidopsis BRC1 in repressing axillary bud development.</description>
+    </item>
+    <item>
+      <title>GhCIPK6a</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcipk6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcipk6a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCIPK6a Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCIPK6a increases salt tolerance in transgenic upland cotton by involving in ROS scavenging and MAPK signaling pathways.</description>
+    </item>
+    <item>
+      <title>GhSusA1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsusa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsusa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSusA1 Gene Name: sucrose synthase1 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhSusA1 increases plant biomass and improves cotton fiber yield and quality.</description>
+    </item>
+    <item>
+      <title>GhYGL1d</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_30325/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_30325/</guid>
+      <description>Gene Details: Gene ID: CotAD_30325 Gene Symbol: GhYGL1d Gene Name: YELLOW-GREEN LEAF Genome: Species: Gossypium hirsutum Functional Descriptions: GhYGL1d, a pentatricopeptide repeat protein, is required for chloroplast development in cotton.</description>
+    </item>
+  </channel>
+</rss>

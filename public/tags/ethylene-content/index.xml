@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethylene Content on COTTON</title>
+    <link>//localhost:1313/tags/ethylene-content/</link>
+    <description>Recent content in Ethylene Content on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/ethylene-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhACO1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghaco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghaco1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACO1 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhXB38D represses cotton fibre elongation through ubiquitination of ethylene biosynthesis enzymes GhACS4 and GhACO1.</description>
+    </item>
+    <item>
+      <title>GhACS4</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACS4 Gene Name: 1-aminocyclopropane-1-carboxylate synthase 4 Genome: Species: Gossypium hirsutum Functional Descriptions: GhXB38D represses cotton fibre elongation through ubiquitination of ethylene biosynthesis enzymes GhACS4 and GhACO1.</description>
+    </item>
+    <item>
+      <title>GhERF9</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</guid>
+      <description>Gene Details: Gene ID: Gh_D02G1817 Gene Symbol: GhERF9 Gene Name: ethylene response factor 9 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, we have demonstrated that one of the ERF TFs in cotton, GhERF9, exerts a regulatory role in enhancing the expression of GhHAK5a by binding to its promoter region.</description>
+    </item>
+  </channel>
+</rss>

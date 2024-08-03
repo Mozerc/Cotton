@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stem on COTTON</title>
+    <link>//localhost:1313/tags/stem/</link>
+    <description>Recent content in Stem on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/stem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCDPK28-A10</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcdpk28-a10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcdpk28-a10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G086300 Gene Symbol: GhCDPK28-A10 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCFE1A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcfe1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcfe1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCFE1A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCFE1A, a dynamic linker between the ER network and actin cytoskeleton, plays an important role in cotton fibre cell initiation and elongation.</description>
+    </item>
+    <item>
+      <title>GoSPGF</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gospgf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gospgf/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D08G1984 Gene Symbol: GoSPGF Gene Name: Gossypium STEM PIGMENT GLAND FORMING GENE Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The discovery of the novel stem pigment gland-forming gene GoSPGF by map-based cloning.</description>
+    </item>
+    <item>
+      <title>GoSTR</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gostr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gostr/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D08G0109 Gene Symbol: GoSTR Gene Name: Gossypium Stem Trichome Repressor Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GoSTR, a negative modulator of stem trichome formation in cotton.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,18 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>auxin on funPlantGenes</title>
-    <link>/tags/auxin/</link>
-    <description>Recent content in auxin on funPlantGenes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Auxin on COTTON</title>
+    <link>//localhost:1313/tags/auxin/</link>
+    <description>Recent content in Auxin on COTTON</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/tags/auxin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/auxin/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ZmTE1</title>
-      <link>/infor_gene/zmte1/</link>
+      <title>GhARF16-1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf16-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/infor_gene/zmte1/</guid>
-      <description>Gene Details Gene ID: GRMZM2G085113 Gene Symbol: ZmTE1 Gene Name: TERMINAL EAR 1 Species: Zea mays NCBI ID: 541683 Protein Sequence: Not Available Genome Version: B73 RefGen_v3 Functions:</description>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf16-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_08070 Gene Symbol: GhARF16-1 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF17</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A06G004210 Gene Symbol: GhARF17 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF18</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G042500 Gene Symbol: GhARF18 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G0304 Gene Symbol: GhARF3 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhBLH1_3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghblh1_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghblh1_3/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_59721 Gene Symbol: GhBLH1_3 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhBLH1_4</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghblh1_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghblh1_4/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_48024 Gene Symbol: GhBLH1_4 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GHCU</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a11g3380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a11g3380/</guid>
+      <description>Gene Details: Gene ID: GH_A11G3380 Gene Symbol: GHCU Gene Name: Gossypium hirsutum cup-shaped leaf Genome: [cotton genome (ZJUV2.</description>
+    </item>
+    <item>
+      <title>GhERF108</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gherf108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gherf108/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G13101 Gene Symbol: GhERF108 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhKNOX2-1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknox2-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknox2-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_36041 Gene Symbol: GhKNOX2-1 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhL1L1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g1686/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g1686/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G1686 Gene Symbol: GhL1L1 Gene Name: Leafy cotyledon1-like 1 Genome: Cotton Functional Genomics Database (https://cottonfgd.</description>
+    </item>
+    <item>
+      <title>GhVIN1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghvin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghvin1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhVIN1 Gene Name: vacuolar invertase1 Genome: Species: Gossypium hirsutum Functional Descriptions: Silencing the vacuolar invertase gene GhVIN1 blocks cotton fiber initiation from the ovule epidermis, probably by suppressing a cohort of regulatory genes via sugar signaling.</description>
     </item>
   </channel>
 </rss>

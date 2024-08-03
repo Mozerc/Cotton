@@ -35,5 +35,9 @@ tags: [ development,quality,yield,breeding,embryo,fe,embryo development,fiber ]
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

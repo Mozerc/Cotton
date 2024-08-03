@@ -35,5 +35,9 @@ tags: [ seedlings,temperature,drought,stress,drought stress,salinity,tolerance,a
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

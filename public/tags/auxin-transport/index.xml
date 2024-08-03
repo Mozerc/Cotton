@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auxin Transport on COTTON</title>
+    <link>//localhost:1313/tags/auxin-transport/</link>
+    <description>Recent content in Auxin Transport on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/auxin-transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GHCU</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a11g3380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a11g3380/</guid>
+      <description>Gene Details: Gene ID: GH_A11G3380 Gene Symbol: GHCU Gene Name: Gossypium hirsutum cup-shaped leaf Genome: [cotton genome (ZJUV2.</description>
+    </item>
+  </channel>
+</rss>

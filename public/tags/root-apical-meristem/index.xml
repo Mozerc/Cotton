@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Root Apical Meristem on funPlantGenes</title>
+    <link>//localhost:60475/tags/root-apical-meristem/</link>
+    <description>Recent content in Root Apical Meristem on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/root-apical-meristem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDKB1;1;CDKB1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g67160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g67160/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g67160 RAPdb gene ID: Os01g0897000 Gene Symbol: CDKB1 1 CDKB1 OsCDKB1 1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CycZmG1;cycZme1</title>
+      <link>//localhost:60475/genes/zea_mays/cyczmg1cyczme1cyc5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/cyczmg1cyczme1cyc5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb332550 Gene Symbol: CycZmG1 cycZme1 cyc5 Gene Name: cyclin5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>DEC</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os12g27994/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os12g27994/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g27994 RAPdb gene ID: Os12g0465700 Gene Symbol: DEC Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FCP2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g34180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g34180/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g34180 RAPdb gene ID: Os06g0532500 Gene Symbol: FCP2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GLR3.1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g49570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g49570/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g49570 RAPdb gene ID: Os04g0585200 Gene Symbol: GLR3.</description>
+    </item>
+    <item>
+      <title>MtNOOT1</title>
+      <link>//localhost:60475/genes/2024.6.9/medicago-truncatula/medtr7g090020.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/medicago-truncatula/medtr7g090020.1/</guid>
+      <description>Gene Details: Gene ID: Medtr7g090020.1 Gene Symbol: MtNOOT1 Gene Name: NODULE ROOT1 Genome: Species: Medicago truncatula Functional Descriptions: The Medicago truncatula nodule identity gene MtNOOT1 is required for coordinated apical-basal development of the root.</description>
+    </item>
+    <item>
+      <title>MtNOOT1</title>
+      <link>//localhost:60475/genes/2024.6.9/medicago-truncatula/medtr7g090020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/medicago-truncatula/medtr7g090020/</guid>
+      <description>Gene Details: Gene ID: Medtr7g090020 Gene Symbol: MtNOOT1 Gene Name: NODULE ROOT1 Genome: Species: Medicago truncatula Functional Descriptions: The Medicago truncatula nodule identity gene MtNOOT1 is required for coordinated apical-basal development of the root.</description>
+    </item>
+    <item>
+      <title>OsFEN-1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os05g46270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os05g46270/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g46270 RAPdb gene ID: Os05g0540100 Gene Symbol: OsFEN-1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsORC1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g08790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g08790/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g08790 RAPdb gene ID: Os06g0187000 Gene Symbol: OsORC1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPCNA;PCNA</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os02g56130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os02g56130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g56130 RAPdb gene ID: Os02g0805200 Gene Symbol: OsPCNA PCNA Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRLR4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g58960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g58960/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g58960 RAPdb gene ID: Os04g0686200 Gene Symbol: OsRLR4 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>StNAC103</title>
+      <link>//localhost:60475/genes/2024.6.9/solanum-tuberosum/stnac103/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/solanum-tuberosum/stnac103/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: StNAC103 Gene Name: NAC transcription factor 103 Genome: Species: Solanum tuberosum Functional Descriptions: Silencing of the potato StNAC103 gene enhances the accumulation of suberin polyester and associated wax in tuber skin.</description>
+    </item>
+    <item>
+      <title>ZmCOLD1-2;cold2</title>
+      <link>//localhost:60475/genes/zea_mays/zmcold1-2cold2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmcold1-2cold2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d002431 Gene Symbol: ZmCOLD1-2 cold2 Gene Name: cold rsponsive2 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
+    </item>
+    <item>
+      <title>ZmTAC1</title>
+      <link>//localhost:60475/genes/zea_mays/zmtac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmtac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb103250 Gene Symbol: ZmTAC1 Gene Name: tiller angle control1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

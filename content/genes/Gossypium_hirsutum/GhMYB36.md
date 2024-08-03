@@ -35,5 +35,9 @@ tags: [ transcription factor,resistance,drought,stress,drought stress,tolerance,
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

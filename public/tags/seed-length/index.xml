@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seed Length on COTTON</title>
+    <link>//localhost:1313/tags/seed-length/</link>
+    <description>Recent content in Seed Length on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/seed-length/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCIPK6a</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcipk6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcipk6a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCIPK6a Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCIPK6a increases salt tolerance in transgenic upland cotton by involving in ROS scavenging and MAPK signaling pathways.</description>
+    </item>
+    <item>
+      <title>GhKRP6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghkrp6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghkrp6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D11G206800 Gene Symbol: GhKRP6 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhPAS1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G0607 Gene Symbol: GhPAS1 Gene Name: PAGODA1 SUPPRESSOR 1 Genome: Species: Gossypium hirsutum Functional Descriptions: The bHLH transcription factor GhPAS1 mediates BR signaling to regulate plant development and architecture in cotton.</description>
+    </item>
+    <item>
+      <title>GhSusA1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsusa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsusa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSusA1 Gene Name: sucrose synthase1 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhSusA1 increases plant biomass and improves cotton fiber yield and quality.</description>
+    </item>
+  </channel>
+</rss>

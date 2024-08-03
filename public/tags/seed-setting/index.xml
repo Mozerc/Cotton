@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seed-Setting on funPlantGenes</title>
+    <link>//localhost:60475/tags/seed-setting/</link>
+    <description>Recent content in Seed-Setting on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/seed-setting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaSSA07.CRC</title>
+      <link>//localhost:60475/genes/2024.6.9/brassica-napus/bnaa07g0307300zs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/brassica-napus/bnaa07g0307300zs/</guid>
+      <description>Gene Details: Gene ID: BnaA07G0307300ZS Gene Symbol: BnaSSA07.CRC Gene Name: CRABS CLAW Genome: Species: Brassica napus Functional Descriptions: BnaCRCs with domestication preference positively correlate with the seed-setting rate of canola.</description>
+    </item>
+    <item>
+      <title>BnaSSC06.CRC</title>
+      <link>//localhost:60475/genes/2024.6.9/brassica-napus/bnac06g0356800zs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/brassica-napus/bnac06g0356800zs/</guid>
+      <description>Gene Details: Gene ID: BnaC06G0356800ZS Gene Symbol: BnaSSC06.CRC Gene Name: CRABS CLAW Genome: Species: Brassica napus Functional Descriptions: BnaCRCs with domestication preference positively correlate with the seed-setting rate of canola.</description>
+    </item>
+    <item>
+      <title>CmLEC1</title>
+      <link>//localhost:60475/genes/2024.6.9/chrysanthemum-morifolium/cl4474.contig1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/chrysanthemum-morifolium/cl4474.contig1/</guid>
+      <description>Gene Details: Gene ID: CL4474.Contig1 Gene Symbol: CmLEC1 Gene Name: LEAFY COTYLEDON1 Genome: Species: Chrysanthemum morifolium Functional Descriptions: The transcription factor CmLEC1 positively regulates the seed-setting rate in hybridization breeding of chrysanthemum.</description>
+    </item>
+    <item>
+      <title>OsARF2;OsARF4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g70270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g70270/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g70270 RAPdb gene ID: Os01g0927600 Gene Symbol: OsARF2 OsARF4 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDES1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g31570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g31570/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g31570 RAPdb gene ID: Os03g0430000 Gene Symbol: OsDES1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsOAT</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g44150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g44150/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g44150 RAPdb gene ID: Os03g0643300 Gene Symbol: OsOAT Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZjPOD1</title>
+      <link>//localhost:60475/genes/ziziphus_jujuba/zjpod1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/ziziphus_jujuba/zjpod1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zj.jz015743041 Gene Symbol: ZjPOD1 Gene Name: Genome: reference jujube genomes, for ‘Dongzao’ Species: Ziziphus jujuba Functional Description: These results indicated that ZjPOD1 is an important candidate gene regulating seed-setting rate in jujube.</description>
+    </item>
+  </channel>
+</rss>

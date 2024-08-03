@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fatty Acid on COTTON</title>
+    <link>//localhost:1313/tags/fatty-acid/</link>
+    <description>Recent content in Fatty Acid on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/fatty-acid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhACS1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACS1 Gene Name: ACS-like protein Genome: Species: Gossypium hirsutum Functional Descriptions: The GhACS1 gene encodes an acyl-CoA synthetase which is essential for normal microsporogenesis in early anther development of cotton。 Real-time quantitative RT-PCR and northern blot analyses revealed that GhACS1 transcripts were predominantly accumulated in the developing anthers of cotton.</description>
+    </item>
+    <item>
+      <title>GhBZR3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G0312 Gene Symbol: GhBZR3 Gene Name: Genome: genome version is NBI v1.</description>
+    </item>
+    <item>
+      <title>GhCYP703A2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcyp703a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcyp703a2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir D12G012350.1 Gene Symbol: GhCYP703A2 Gene Name: Genome: Gossypium hirsutum (TM-1) reference genome Species: Gossypium hirsutum Functional Descriptions: Cytochrome P450 mono-oxygenase CYP703A2 plays a central role in sporopollenin formation and ms5ms6 fertility in cotton.</description>
+    </item>
+    <item>
+      <title>GhFAD2-1A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1850/</guid>
+      <description>Gene Details: Gene ID: Gh_A13G1850 Gene Symbol: GhFAD2-1A Gene Name: Genome: Cotton Functional Genomics Database (https://cottonfgd.</description>
+    </item>
+    <item>
+      <title>GhL1L1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g1686/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g1686/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G1686 Gene Symbol: GhL1L1 Gene Name: Leafy cotyledon1-like 1 Genome: Cotton Functional Genomics Database (https://cottonfgd.</description>
+    </item>
+    <item>
+      <title>GhSSI2-A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-B</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-B Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-C</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-C Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhWIN2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</guid>
+      <description>Gene Details: Gene ID: Gh_A07G036100 Gene Symbol: GhWIN2 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton GhWIN2 gene activates the cuticle biosynthesis pathway and influences the salicylic and jasmonic acid biosynthesis pathways.</description>
+    </item>
+    <item>
+      <title>Ms5</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ms5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ms5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A12G012140 Gene Symbol: Ms5 Gene Name: Genome: genome sequence of G.</description>
+    </item>
+    <item>
+      <title>Ms6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ms6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ms6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D12G012350 Gene Symbol: Ms6 Gene Name: Genome: genome sequence of G.</description>
+    </item>
+  </channel>
+</rss>

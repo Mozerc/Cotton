@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant Architecture on COTTON</title>
+    <link>//localhost:1313/tags/plant-architecture/</link>
+    <description>Recent content in Plant Architecture on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/plant-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCUC2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCUC2 Gene Name: CUP-SHAPED COTYLEDON2 Genome: reference genome TM-1 (AD1) genome NAU-NBI Species: Gossypium hirsutum Functional Descriptions: The miR164-GhCUC2-GhBRC1 module regulates plant architecture through abscisic acid in cotton.</description>
+    </item>
+    <item>
+      <title>GhCUL1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcul1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcul1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A11G1857 Gene Symbol: GhCUL1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhDREB1B</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghdreb1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghdreb1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D12G245100 Gene Symbol: GhDREB1B Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: A copy number variant at the HPDA locus on Chromosome D12 (HPDA-D12), encoding a dehydration-responsive element-binding (DREB) transcription factor, GhDREB1B, strongly affects plant architecture in the AS98 mutant.</description>
+    </item>
+    <item>
+      <title>GhPAS1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G0607 Gene Symbol: GhPAS1 Gene Name: PAGODA1 SUPPRESSOR 1 Genome: Species: Gossypium hirsutum Functional Descriptions: The bHLH transcription factor GhPAS1 mediates BR signaling to regulate plant development and architecture in cotton.</description>
+    </item>
+    <item>
+      <title>GhUBP15</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A01G038500 Gene Symbol: GhUBP15 Gene Name: Genome: genomes of G.</description>
+    </item>
+  </channel>
+</rss>

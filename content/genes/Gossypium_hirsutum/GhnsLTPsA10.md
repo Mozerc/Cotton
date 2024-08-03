@@ -36,5 +36,9 @@ tags: [ resistance,stress,disease,disease resistance,insect,pathogen,reactive ox
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

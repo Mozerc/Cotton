@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>plant height on funPlantGenes</title>
-    <link>/tags/plant-height/</link>
-    <description>Recent content in plant height on funPlantGenes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Plant Height on COTTON</title>
+    <link>//localhost:1313/tags/plant-height/</link>
+    <description>Recent content in Plant Height on COTTON</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/tags/plant-height/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/plant-height/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ZmTE1</title>
-      <link>/infor_gene/zmte1/</link>
+      <title>GhBZR3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/infor_gene/zmte1/</guid>
-      <description>Gene Details Gene ID: GRMZM2G085113 Gene Symbol: ZmTE1 Gene Name: TERMINAL EAR 1 Species: Zea mays NCBI ID: 541683 Protein Sequence: Not Available Genome Version: B73 RefGen_v3 Functions:</description>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G0312 Gene Symbol: GhBZR3 Gene Name: Genome: genome version is NBI v1.</description>
+    </item>
+    <item>
+      <title>GhDREB1B</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghdreb1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghdreb1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D12G245100 Gene Symbol: GhDREB1B Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: A copy number variant at the HPDA locus on Chromosome D12 (HPDA-D12), encoding a dehydration-responsive element-binding (DREB) transcription factor, GhDREB1B, strongly affects plant architecture in the AS98 mutant.</description>
+    </item>
+    <item>
+      <title>GhMYB33</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyb33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyb33/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D05G2713 Gene Symbol: GhMYB33 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhPRF1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghprf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghprf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPRF1 Gene Name: Gossypium profilin 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Domestication-driven Gossypium profilin 1 (GhPRF1) gene transduces early flowering phenotype in tobacco by spatial alteration of apical/floral-meristem related gene expression.</description>
     </item>
   </channel>
 </rss>

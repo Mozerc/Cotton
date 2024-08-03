@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bacterial Blight Disease on funPlantGenes</title>
+    <link>//localhost:60475/tags/bacterial-blight-disease/</link>
+    <description>Recent content in Bacterial Blight Disease on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/bacterial-blight-disease/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MeHB16</title>
+      <link>//localhost:60475/genes/2024.7.17/manihot-esculenta/mehb16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/manihot-esculenta/mehb16/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MeHB16 Gene Name: homeodomain leucine-zipper I (HD-Zip I) TF Genome: Species: Manihot esculenta Functional Descriptions: KIN10-mediated HB16 protein phosphorylation and self-association improve cassava disease resistance by transcriptional activation of lignin biosynthesis genes.</description>
+    </item>
+    <item>
+      <title>MeKIN10</title>
+      <link>//localhost:60475/genes/2024.7.17/manihot-esculenta/mekin10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/manihot-esculenta/mekin10/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MeKIN10 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: KIN10-mediated HB16 protein phosphorylation and self-association improve cassava disease resistance by transcriptional activation of lignin biosynthesis genes.</description>
+    </item>
+    <item>
+      <title>MeNF-YC15</title>
+      <link>//localhost:60475/genes/2024.7.17/manihot-esculenta/menf-yc15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/manihot-esculenta/menf-yc15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MeNF-YC15 Gene Name: nuclear factor Y Genome: Species: Manihot esculenta Functional Descriptions: NF-YC15 transcription factor activates ethylene biosynthesis and improves cassava disease resistance.</description>
+    </item>
+    <item>
+      <title>OsDR10</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os08g05960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os08g05960/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g05960 RAPdb gene ID: Os08g0155900 Gene Symbol: OsDR10 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTGA2;OsTGAL1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g59350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g59350/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g59350 RAPdb gene ID: Os01g0808100 Gene Symbol: OsTGA2 OsTGAL1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaCPK2-A</title>
+      <link>//localhost:60475/genes/2024.6.9/triticum-aestivum/tacpk2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/triticum-aestivum/tacpk2-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCPK2-A Gene Name: calcium-dependent protein kinase 2 Genome: Species: Triticum aestivum Functional Descriptions: TaCPK2-A, a calcium-dependent protein kinase gene that is required for wheat powdery mildew resistance enhances bacterial blight resistance in transgenic rice.</description>
+    </item>
+  </channel>
+</rss>

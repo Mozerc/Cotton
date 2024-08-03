@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Senescence on COTTON</title>
+    <link>//localhost:1313/tags/senescence/</link>
+    <description>Recent content in Senescence on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/senescence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhLYI</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlyi/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G0312 Gene Symbol: GhLYI Gene Name: LINT YIELD INCREASING Genome: eference genome of G.</description>
+    </item>
+    <item>
+      <title>GhSAG20</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghsag20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghsag20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A06G1407 Gene Symbol: GhSAG20 Gene Name: Genome: reference genome of G.</description>
+    </item>
+    <item>
+      <title>GhWRKY27</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghwrky27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghwrky27/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhWRKY27 Gene Name: WRKY transcription factor 27 Genome: Species: Gossypium hirsutum Functional Descriptions: GhWRKY27, was isolated and characterized.</description>
+    </item>
+  </channel>
+</rss>

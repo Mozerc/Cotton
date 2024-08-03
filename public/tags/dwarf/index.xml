@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dwarf on COTTON</title>
+    <link>//localhost:1313/tags/dwarf/</link>
+    <description>Recent content in Dwarf on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/dwarf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhACT_LI1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d04g0865/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d04g0865/</guid>
+      <description>Gene Details: Gene ID: Gh_D04G0865 Gene Symbol: GhACT_LI1 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: A Gly65Val substitution in an actin, GhACT_LI1, disrupts cell polarity and F-actin organization resulting in dwarf, lintless cotton plants.</description>
+    </item>
+    <item>
+      <title>GhDR</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghdr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghdr/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_A09G2280 Gene Symbol: GhDR Gene Name: Genome: reference genome TM-1_ZJU_v2.</description>
+    </item>
+  </channel>
+</rss>

@@ -36,5 +36,9 @@ tags: [ kinase,br,br signaling,seed,cell cycle,seed size,cell expansion,seed len
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

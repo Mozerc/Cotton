@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biotic Stress on COTTON</title>
+    <link>//localhost:1313/tags/biotic-stress/</link>
+    <description>Recent content in Biotic Stress on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/biotic-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhLac1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhLac1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhMYB36</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyb36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyb36/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhMYB36 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The GhMYB36 transcription factor confers resistance to biotic and abiotic stress by enhancing PR1 gene expression in plants.</description>
+    </item>
+    <item>
+      <title>GhZFP1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghzfp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghzfp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhZFP1 Gene Name: CCCH-type zinc finger protein 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhZFP1, a novel CCCH-type zinc finger protein from cotton, enhances salt stress tolerance and fungal disease resistance in transgenic tobacco by interacting with GZIRD21A and GZIPR5.</description>
+    </item>
+  </channel>
+</rss>

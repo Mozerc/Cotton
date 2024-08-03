@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brassinosteroid Biosynthesis on COTTON</title>
+    <link>//localhost:1313/tags/brassinosteroid-biosynthesis/</link>
+    <description>Recent content in Brassinosteroid Biosynthesis on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/brassinosteroid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhFP1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghfp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghfp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A11G2808 Gene Symbol: GhFP1 Gene Name: Fibre-related Protein 1 Genome: AADD genome Species: Gossypium hirsutum Functional Descriptions: A basic helix–loop–helix protein (GhFP1) promotes fibre elongation of cotton (Gossypium hirsutum) by modulating brassinosteroid biosynthesis and signalling.</description>
+    </item>
+  </channel>
+</rss>

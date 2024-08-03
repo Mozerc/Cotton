@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shoot Apical Meristem on funPlantGenes</title>
+    <link>//localhost:60475/tags/shoot-apical-meristem/</link>
+    <description>Recent content in Shoot Apical Meristem on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/shoot-apical-meristem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CUR1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os07g37640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os07g37640/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g37640 RAPdb gene ID: Os07g0563700 Gene Symbol: CUR1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>d18;OsGA3ox2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g08220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g08220/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g08220 RAPdb gene ID: Os01g0177400 Gene Symbol: d18 OsGA3ox2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>D6;OSH15</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os07g03770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os07g03770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g03770 RAPdb gene ID: Os07g0129700 Gene Symbol: D6 OSH15 Oskn3 RLB Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Ehd1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os10g32600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os10g32600/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g32600 RAPdb gene ID: Os10g0463400 Gene Symbol: Ehd1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FC1;OsCAD7</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g52280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g52280/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g52280 RAPdb gene ID: Os04g0612700 Gene Symbol: FC1 OsCAD7 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FCP1;OsCLE402</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g39770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g39770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g39770 RAPdb gene ID: Os04g0473800 Gene Symbol: FCP1 OsCLE402 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FCP2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g34180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g34180/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g34180 RAPdb gene ID: Os06g0532500 Gene Symbol: FCP2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FON1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g50340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g50340/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g50340 RAPdb gene ID: Os06g0717200 Gene Symbol: FON1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FON2;FON4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os11g38270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os11g38270/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g38270 RAPdb gene ID: Os11g0595400 Gene Symbol: FON2 FON4 TG1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FSM;CAF-1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g67100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g67100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g67100 RAPdb gene ID: Os01g0896300 Gene Symbol: FSM CAF-1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GE;CYP78A13</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os07g41240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os07g41240/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g41240 RAPdb gene ID: Os07g0603700 Gene Symbol: GE CYP78A13 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GmSPL9d</title>
+      <link>//localhost:60475/genes/glycine_max/gmspl9d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/glycine_max/gmspl9d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02G177500 Gene Symbol: GmSPL9d Gene Name: SQUAMOSA PROMOTER BINDING PROTEIN-LIKE9 Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmSPL9d is expressed in the shoot apical meristem and axillary meristems (AMs) of soya bean.</description>
+    </item>
+    <item>
+      <title>Hd1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g16370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g16370/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g16370 RAPdb gene ID: Os06g0275000 Gene Symbol: Hd1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Hd3a</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g06320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g06320/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g06320 RAPdb gene ID: Os06g0157700 Gene Symbol: Hd3a Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>HvFT4</title>
+      <link>//localhost:60475/genes/2024.6.9/hordeum-vulgare/hvft4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/hordeum-vulgare/hvft4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvFT4 Gene Name: FLOWERING LOCUS T4 Genome: Species: Hordeum vulgare Functional Descriptions: FLOWERING LOCUS T4 (HvFT4) delays flowering and decreases floret fertility in barley.</description>
+    </item>
+    <item>
+      <title>LAX1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g61480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g61480/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g61480 RAPdb gene ID: Os01g0831000 Gene Symbol: LAX1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MtNAM</title>
+      <link>//localhost:60475/genes/2024.6.9/medicago-truncatula/mtnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/medicago-truncatula/mtnam/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MtNAM Gene Name: NO APICAL MERISTEM Genome: Species: Medicago truncatula Functional Descriptions: NO APICAL MERISTEM (MtNAM) regulates floral organ identity and lateral organ separation in Medicago truncatula.</description>
+    </item>
+    <item>
+      <title>ONAC300</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os12g03050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os12g03050/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g03050 RAPdb gene ID: Os12g0123800 Gene Symbol: ONAC300 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ONI1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g08360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g08360/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g08360 RAPdb gene ID: Os03g0181500 Gene Symbol: ONI1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>osa-miR171c</title>
+      <link>//localhost:60475/genes/oryza_sativa/os04g0623901/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/os04g0623901/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: Os04g0623901 Gene Symbol: osa-miR171c Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsAGO7;shl4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g33650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g33650/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g33650 RAPdb gene ID: Os03g0449200 Gene Symbol: OsAGO7 shl4 SHO2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsATM3</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g03770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g03770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g03770 RAPdb gene ID: Os06g0128300 Gene Symbol: OsATM3 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsBLE3</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os05g15630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os05g15630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g15630 RAPdb gene ID: Os05g0245300 Gene Symbol: OsBLE3 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEXPA7</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g60720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g60720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g60720 RAPdb gene ID: Os03g0822000 Gene Symbol: OsEXPA7 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsFD4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os08g43600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os08g43600/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g43600 RAPdb gene ID: Os08g0549600 Gene Symbol: OsFD4 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsFEN-1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os05g46270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os05g46270/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g46270 RAPdb gene ID: Os05g0540100 Gene Symbol: OsFEN-1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsFH15</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os09g34180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os09g34180/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g34180 RAPdb gene ID: Os09g0517600 Gene Symbol: OsFH15 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGA2ox1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os05g06670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os05g06670/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g06670 RAPdb gene ID: Os05g0158600 Gene Symbol: OsGA2ox1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OSH1;Oskn1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g51690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g51690/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g51690 RAPdb gene ID: Os03g0727000 Gene Symbol: OSH1 Oskn1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHAK1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g32920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g32920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g32920 RAPdb gene ID: Os04g0401700 Gene Symbol: OsHAK1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OSHB1;LF1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g01890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g01890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g01890 RAPdb gene ID: Os03g0109400 Gene Symbol: OSHB1 LF1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OSHB3;OsHox33</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os12g41860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os12g41860/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g41860 RAPdb gene ID: Os12g0612700 Gene Symbol: OSHB3 OsHox33 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OSHB4;OsHox32</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g43930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g43930/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g43930 RAPdb gene ID: Os03g0640800 Gene Symbol: OSHB4 OsHox32 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Oshox4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os09g29460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os09g29460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g29460 RAPdb gene ID: Os09g0470500 Gene Symbol: Oshox4 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMPG1;OsVTC1-1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g62840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g62840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g62840 RAPdb gene ID: Os01g0847200 Gene Symbol: OsMPG1 OsVTC1-1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPCNA;PCNA</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os02g56130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os02g56130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g56130 RAPdb gene ID: Os02g0805200 Gene Symbol: OsPCNA PCNA Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPNH1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g39640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g39640/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g39640 RAPdb gene ID: Os06g0597400 Gene Symbol: OsPNH1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRad6</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g57790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g57790/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g57790 RAPdb gene ID: Os03g0791800 Gene Symbol: OsRad6 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTB1;FC1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g49880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g49880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g49880 RAPdb gene ID: Os03g0706500 Gene Symbol: OsTB1 FC1 SCM3 MP3 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsU11;U12-31K</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os09g37720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os09g37720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g37720 RAPdb gene ID: Os09g0549500 Gene Symbol: OsU11 U12-31K Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWOX4</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g55590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g55590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g55590 RAPdb gene ID: Os04g0649400 Gene Symbol: OsWOX4 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsZHD2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os08g37400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os08g37400/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g37400 RAPdb gene ID: Os08g0479400 Gene Symbol: OsZHD2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PACP</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g01840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g01840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g01840 RAPdb gene ID: Os03g0108700 Gene Symbol: PACP Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PLA1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os10g26340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os10g26340/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g26340 RAPdb gene ID: Os10g0403000 Gene Symbol: PLA1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>qSH1;RIL1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os01g62920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os01g62920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g62920 RAPdb gene ID: Os01g0848400 Gene Symbol: qSH1 RIL1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RFT1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g06300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g06300/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g06300 RAPdb gene ID: Os06g0157500 Gene Symbol: RFT1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SH5;RI</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os05g38120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os05g38120/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g38120 RAPdb gene ID: Os05g0455200 Gene Symbol: SH5 RI Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlBES1.8</title>
+      <link>//localhost:60475/genes/solanum_lycopersicum/slbes1.8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/solanum_lycopersicum/slbes1.8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g076390 Gene Symbol: SlBES1.8 Gene Name: Brassinazole-resistant 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFAF1;2a</title>
+      <link>//localhost:60475/genes/solanum_lycopersicum/slfaf12a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/solanum_lycopersicum/slfaf12a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g084280 Gene Symbol: SlFAF1 2a Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWUS</title>
+      <link>//localhost:60475/genes/solanum_lycopersicum/slwus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/solanum_lycopersicum/slwus/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g083950 Gene Symbol: SlWUS Gene Name: WUSCHEL Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>spPLD</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os06g44060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os06g44060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44060 RAPdb gene ID: Os06g0649900 Gene Symbol: spPLD Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SS1;ONAC025</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os11g31330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os11g31330/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g31330 RAPdb gene ID: Os11g0512000 Gene Symbol: SS1 ONAC025 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TAW1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os10g33780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os10g33780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g33780 RAPdb gene ID: Os10g0478000 Gene Symbol: TAW1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>THI2</title>
+      <link>//localhost:60475/genes/zea_mays/thi2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/thi2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb159850 Gene Symbol: THI2 Gene Name: thiamine biosynthesis2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>WUSCHEL</title>
+      <link>//localhost:60475/genes/vitis_vinifera/wuschel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/vitis_vinifera/wuschel/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_217s0000g02460 Gene Symbol: WUSCHEL Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>ZmAMP1_grmm</title>
+      <link>//localhost:60475/genes/zea_mays/zmamp1_grmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmamp1_grmm/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb060210 Gene Symbol: ZmAMP1_grmm Gene Name: LBD-transcription factor 13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOLD1-2;cold2</title>
+      <link>//localhost:60475/genes/zea_mays/zmcold1-2cold2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmcold1-2cold2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d002431 Gene Symbol: ZmCOLD1-2 cold2 Gene Name: cold rsponsive2 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
+    </item>
+    <item>
+      <title>Zmlox4</title>
+      <link>//localhost:60475/genes/2024.6.9/zea-mays/zm00001eb054050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/zea-mays/zm00001eb054050/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb054050 Gene Symbol: Zmlox4 Gene Name: lipoxygenase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSPL13;ZmSBP13</title>
+      <link>//localhost:60475/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb105640 Gene Symbol: ZmSPL13 ZmSBP13 ZmGLW7-1 sbp13 Gene Name: SBP-transcription factor 13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSPL29;ZmSBP18</title>
+      <link>//localhost:60475/genes/zea_mays/zmspl29zmsbp18sbp29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmspl29zmsbp18sbp29/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb322280 Gene Symbol: ZmSPL29 ZmSBP18 sbp29 Gene Name: SBP-transcription factor 29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTAC1</title>
+      <link>//localhost:60475/genes/zea_mays/zmtac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmtac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb103250 Gene Symbol: ZmTAC1 Gene Name: tiller angle control1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

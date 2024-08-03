@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secondary Cell Wall on COTTON</title>
+    <link>//localhost:1313/tags/secondary-cell-wall/</link>
+    <description>Recent content in Secondary Cell Wall on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/secondary-cell-wall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbEXPATR</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbexpatr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbexpatr/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GbEXPATR Gene Name: Genome: Species: Gossypium barbadense Functional Descriptions: GbEXPATR, a species-specific expansin, enhances cotton fibre elongation through cell wall restructuring.</description>
+    </item>
+    <item>
+      <title>GhADF1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghadf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghadf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhADF1 Gene Name: actin depolymerizing factor1 Genome: Species: Gossypium hirsutum Functional Descriptions: characterized the function of a member of the actin depolymerizing factor (ADF) family in Gossypium hirsutum by down-regulation of the gene (designated as GhADF1) expression in the transgenic cotton plants.</description>
+    </item>
+    <item>
+      <title>GhERF108</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gherf108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gherf108/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G13101 Gene Symbol: GhERF108 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhFIM2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghfim2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghfim2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhFIM2 Gene Name: fimbrin-2 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhFIM2 propels cotton fiber development by enhancing actin bundle formation.</description>
+    </item>
+    <item>
+      <title>GhFSN1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghfsn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghfsn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A12G1049 Gene Symbol: GhFSN1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhGT47B_A13</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgt47b_a13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgt47b_a13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A13G2031 Gene Symbol: GhGT47B_A13 Gene Name: Genome: reference genome sequence for G.</description>
+    </item>
+    <item>
+      <title>GhGT47B_D13</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgt47b_d13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgt47b_d13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D13G2434 Gene Symbol: GhGT47B_D13 Gene Name: Genome: reference genome sequence for G.</description>
+    </item>
+    <item>
+      <title>GhHUB2-A</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhub2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhub2-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHUB2-A Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhHUB2-D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhub2-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhub2-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHUB2-D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhKNL1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghknl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghknl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhKNL1 Gene Name: KNOTTED1-LIKE Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton KNL1, encoding a class II KNOX transcription factor, is involved in regulation of fibre development.</description>
+    </item>
+    <item>
+      <title>GhKNL1_A08</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknl1_a08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknl1_a08/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A03G021900 Gene Symbol: GhKNL1_A08 Gene Name: class II KNOX protein 1 Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhKNL1_D08</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknl1_d08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknl1_d08/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G198400 Gene Symbol: GhKNL1_D08 Gene Name: class II KNOX protein 1 Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhPFN2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpfn2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpfn2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPFN2 Gene Name: profilin2 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of a Profilin (GhPFN2) Promotes the Progression of Developmental Phases in Cotton Fibers.</description>
+    </item>
+    <item>
+      <title>GhSFT</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a08g261500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a08g261500.1/</guid>
+      <description>Gene Details: Gene ID: Gh_A08G261500.1 Gene Symbol: GhSFT Gene Name: SINGLE FLOWER TRUSS Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSFT</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g252300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g252300.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D08G252300.1 Gene Symbol: GhSFT Gene Name: SINGLE FLOWER TRUSS Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSP</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g120000.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g120000.1/</guid>
+      <description>Gene Details: Gene ID: Gh_A07G120000.1 Gene Symbol: GhSP Gene Name: SELF-PRUNING Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSP</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g116400.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g116400.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D07G116400.1 Gene Symbol: GhSP Gene Name: SELF-PRUNING Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSusA1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsusa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghsusa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSusA1 Gene Name: sucrose synthase1 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhSusA1 increases plant biomass and improves cotton fiber yield and quality.</description>
+    </item>
+    <item>
+      <title>GhXLIM6</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_24080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_24080/</guid>
+      <description>Gene Details: Gene ID: CotAD_24080 Gene Symbol: GhXLIM6 Gene Name: lim protein 6 Genome: Species: Gossypium hirsutum Functional Descriptions: In this study, we identified a cotton XLIM protein (GhXLIM6) that is preferentially expressed in cotton fiber during whole elongation stage and early secondary cell wall (SCW) synthesis stage.</description>
+    </item>
+    <item>
+      <title>Lg</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/lg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/lg/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D11G3168 Gene Symbol: Lg Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>WLIM1a</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: WLIM1a Gene Name: LIM domain protein LIM-2 Genome: Species: Gossypium hirsutum Functional Descriptions: The Dual Functions of WLIM1a in Cell Elongation and Secondary Wall Formation in Developing Cotton Fibers.</description>
+    </item>
+  </channel>
+</rss>

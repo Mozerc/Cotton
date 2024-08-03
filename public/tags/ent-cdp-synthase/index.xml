@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ent-CDP Synthase on funPlantGenes</title>
+    <link>//localhost:60475/tags/ent-cdp-synthase/</link>
+    <description>Recent content in Ent-CDP Synthase on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/ent-cdp-synthase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsCPS;OsCPS1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os02g17780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os02g17780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g17780 RAPdb gene ID: Os02g0278700 Gene Symbol: OsCPS OsCPS1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCPS2;OsCyc2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os02g36210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os02g36210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g36210 RAPdb gene ID: Os02g0571100 ,Os02g0570900 Gene Symbol: OsCPS2 OsCyc2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

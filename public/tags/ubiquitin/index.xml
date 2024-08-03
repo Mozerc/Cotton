@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubiquitin on COTTON</title>
+    <link>//localhost:1313/tags/ubiquitin/</link>
+    <description>Recent content in Ubiquitin on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/ubiquitin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhHUB2-A</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhub2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhub2-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHUB2-A Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhHUB2-D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhub2-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhub2-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHUB2-D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhKNL1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhKNL1 Gene Name: class II KNOX protein 1 Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhUBP15</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubp15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A01G038500 Gene Symbol: GhUBP15 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhUCE</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghuce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghuce/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D03G0718 Gene Symbol: GhUCE Gene Name: ubiquitin-conjugating enzyme Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhXB38D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghxb38d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghxb38d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D09G1474 Gene Symbol: GhXB38D Gene Name: Genome: reference genome sequence for G.</description>
+    </item>
+  </channel>
+</rss>

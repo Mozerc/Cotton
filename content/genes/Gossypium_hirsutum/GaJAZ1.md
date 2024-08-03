@@ -35,5 +35,9 @@ tags: [ root,growth,development,plant development,stress,ja,defense,salinity,sal
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on COTTON</title>
+    <link>//localhost:1313/tags/development/</link>
+    <description>Recent content in Development on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GaFZ</title>
+      <link>//localhost:1313/genes/gossypium_arboreum/gafz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_arboreum/gafz/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ga08G0121 Gene Symbol: GaFZ Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GaJAZ1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gajaz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gajaz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cotton_A_11862 Gene Symbol: GaJAZ1 Gene Name: Genome: Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>GbBM</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</guid>
+      <description>Gene Details: Gene ID: Gbar_A07G008330 Gene Symbol: GbBM Gene Name: Beauty Mark Genome: Species: Gossypium barbadense Functional Descriptions: Demonstrate that GbBM directly targets the promoter of four flavonoid biosynthesis genes to positively regulate petal spot development.</description>
+    </item>
+    <item>
+      <title>GbWRKY1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbwrky1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-barbadense/gbwrky1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GbWRKY1 Gene Name: WRKY transcription factor 1 Genome: Species: Gossypium barbadense Functional Descriptions: Our data suggest that GbWRKY1 is a critical regulator mediating the plant defense-to-development transition during V.</description>
+    </item>
+    <item>
+      <title>GhAATF1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghaatf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghaatf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A13G0332 Gene Symbol: GhAATF1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhACS1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACS1 Gene Name: ACS-like protein Genome: Species: Gossypium hirsutum Functional Descriptions: The GhACS1 gene encodes an acyl-CoA synthetase which is essential for normal microsporogenesis in early anther development of cotton。 Real-time quantitative RT-PCR and northern blot analyses revealed that GhACS1 transcripts were predominantly accumulated in the developing anthers of cotton.</description>
+    </item>
+    <item>
+      <title>GhACS2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghacs2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACS2 Gene Name: ACS-like protein Genome: Species: Gossypium hirsutum Functional Descriptions: To elucidate the roles of genes during anther development, two anther-specific cDNAs (designated GhACS1 and GhACS2) encoding acyl-CoA synthetases (ACSs) were isolated from a cotton (Gossypium hirsutum) flower cDNA library.</description>
+    </item>
+    <item>
+      <title>GhACT_LI1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d04g0865/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d04g0865/</guid>
+      <description>Gene Details: Gene ID: Gh_D04G0865 Gene Symbol: GhACT_LI1 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: A Gly65Val substitution in an actin, GhACT_LI1, disrupts cell polarity and F-actin organization resulting in dwarf, lintless cotton plants.</description>
+    </item>
+    <item>
+      <title>GhACT1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghact1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghact1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G040150 Gene Symbol: GhACT1 Gene Name: Genome: HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>GhADF1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghadf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghadf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhADF1 Gene Name: actin depolymerizing factor1 Genome: Species: Gossypium hirsutum Functional Descriptions: characterized the function of a member of the actin depolymerizing factor (ADF) family in Gossypium hirsutum by down-regulation of the gene (designated as GhADF1) expression in the transgenic cotton plants.</description>
+    </item>
+    <item>
+      <title>GhAOC2A</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_A08G004050.1 Gene Symbol: GhAOC2A Gene Name: allene oxide cyclase 2 Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhAOC2D</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_D08G004260.1 Gene Symbol: GhAOC2D Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhAPX1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghapx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghapx1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhAPX1 Gene Name: cytosolic ascorbate peroxidase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, a cotton (Gossypium hirsutum) cytosolic APX1 (GhAPX1) was identified to be highly accumulated during cotton fibre elongation by proteomic analysis.</description>
+    </item>
+    <item>
+      <title>GhARF16-1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf16-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf16-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_08070 Gene Symbol: GhARF16-1 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF17</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A06G004210 Gene Symbol: GhARF17 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF18</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G042500 Gene Symbol: GhARF18 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhARF3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gharf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gharf3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G0304 Gene Symbol: GhARF3 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhBLH1_3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghblh1_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghblh1_3/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_59721 Gene Symbol: GhBLH1_3 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhBLH1_4</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghblh1_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghblh1_4/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_48024 Gene Symbol: GhBLH1_4 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhBRC1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghbrc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhBRC1 Gene Name: BRANCHED 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhBRC1 has the same function as Arabidopsis BRC1 in repressing axillary bud development.</description>
+    </item>
+    <item>
+      <title>GhBZR3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghbzr3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G0312 Gene Symbol: GhBZR3 Gene Name: Genome: genome version is NBI v1.</description>
+    </item>
+    <item>
+      <title>GhCaM7</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcam7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcam7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCaM7 Gene Name: calmodulin-7 Genome: Species: Gossypium hirsutum Functional Descriptions: The calcium sensor GhCaM7 promotes cotton fiber elongation by modulating reactive oxygen species (ROS) production.</description>
+    </item>
+    <item>
+      <title>GhCesA4-2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcesa4-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcesa4-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G0509 Gene Symbol: GhCesA4-2 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCesA7-3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcesa7-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcesa7-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_405G3965 Gene Symbol: GhCesA7-3 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCesA8-2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcesa8-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcesa8-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D10G0333 Gene Symbol: GhCesA8-2 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCFE1A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcfe1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcfe1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCFE1A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCFE1A, a dynamic linker between the ER network and actin cytoskeleton, plays an important role in cotton fibre cell initiation and elongation.</description>
+    </item>
+    <item>
+      <title>GhCPK84</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d10g2029/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d10g2029/</guid>
+      <description>Gene Details: Gene ID: Gh_D10G2029 Gene Symbol: GhCPK84 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Comparative phosphoproteomic analysis reveals that phosphorylation of sucrose synthase GhSUS2 by Ca2+-dependent protein kinases GhCPK84/GhCPK93 affects cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhCPK93</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2743/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d12g2743/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G2743 Gene Symbol: GhCPK93 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Comparative phosphoproteomic analysis reveals that phosphorylation of sucrose synthase GhSUS2 by Ca2+-dependent protein kinases GhCPK84/GhCPK93 affects cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GHCU</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a11g3380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a11g3380/</guid>
+      <description>Gene Details: Gene ID: GH_A11G3380 Gene Symbol: GHCU Gene Name: Gossypium hirsutum cup-shaped leaf Genome: [cotton genome (ZJUV2.</description>
+    </item>
+    <item>
+      <title>GhCUC2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcuc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCUC2 Gene Name: CUP-SHAPED COTYLEDON2 Genome: reference genome TM-1 (AD1) genome NAU-NBI Species: Gossypium hirsutum Functional Descriptions: The miR164-GhCUC2-GhBRC1 module regulates plant architecture through abscisic acid in cotton.</description>
+    </item>
+    <item>
+      <title>GhDREB1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghdreb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghdreb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhDREB1 Gene Name: DREB-like transcription factor Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhDREB1 increases plant tolerance to low temperature and is negatively regulated by gibberellic acid.</description>
+    </item>
+    <item>
+      <title>GhExp1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghexp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghexp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhExp1 Gene Name: alpha-expansin precursor 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Exp2 polymorphisms associated with variation for fiber quality properties in cotton.</description>
+    </item>
+    <item>
+      <title>GhExp2</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghexp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/ghexp2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhExp2 Gene Name: alpha-expansin precursor 2 Genome: Species: Gossypium hirsutum Functional Descriptions: Exp2 polymorphisms associated with variation for fiber quality properties in cotton.</description>
+    </item>
+    <item>
+      <title>GhFAD2–3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a11g2814/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a11g2814/</guid>
+      <description>Gene Details: Gene ID: Gh_A11G2814 Gene Symbol: GhFAD2–3 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhFAD2–3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d11g3169/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d11g3169/</guid>
+      <description>Gene Details: Gene ID: Gh_D11G3169 Gene Symbol: GhFAD2–3 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhFIM2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghfim2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghfim2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhFIM2 Gene Name: fimbrin-2 Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhFIM2 propels cotton fiber development by enhancing actin bundle formation.</description>
+    </item>
+    <item>
+      <title>GhGalT1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_62126/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_62126/</guid>
+      <description>Gene Details: Gene ID: CotAD_62126 Gene Symbol: GhGalT1 Gene Name: β-galactosyltransferase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: A gene (GhGalT1) encoding a putative β-1,3-galactosyltransferase (GalT) was identified in cotton.</description>
+    </item>
+    <item>
+      <title>GhGASL3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghgasl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D04G017310 Gene Symbol: GhGASL3 Gene Name: Genome: TM-1 genome (HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>GhGLR4.8</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghglr4.8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghglr4.8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D03G0209 Gene Symbol: GhGLR4.8 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhHDA5</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d03g0906/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d03g0906/</guid>
+      <description>Gene Details: Gene ID: Gh_D03G0906 Gene Symbol: GhHDA5 Gene Name: Genome: CottonFGD(https://www.</description>
+    </item>
+    <item>
+      <title>GhHUB2-A</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhub2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhub2-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHUB2-A Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhHUB2-D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghhub2-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghhub2-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHUB2-D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhIQD10</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d01g0420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d01g0420/</guid>
+      <description>Gene Details: Gene ID: Gh_D01G0420 Gene Symbol: GhIQD10 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Overexpression of GhIQD10 promoted resistance to verticillium wilt in cotton.</description>
+    </item>
+    <item>
+      <title>Ghir_D05G01221</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghir_d05g01221/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghir_d05g01221/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D05G01221 Gene Symbol: Ghir_D05G01221 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhKNL1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghknl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghknl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhKNL1 Gene Name: KNOTTED1-LIKE Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton KNL1, encoding a class II KNOX transcription factor, is involved in regulation of fibre development.</description>
+    </item>
+    <item>
+      <title>GhKNL1_A08</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknl1_a08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknl1_a08/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A03G021900 Gene Symbol: GhKNL1_A08 Gene Name: class II KNOX protein 1 Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhKNL1_D08</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknl1_d08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknl1_d08/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G198400 Gene Symbol: GhKNL1_D08 Gene Name: class II KNOX protein 1 Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhKNOX2-1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghknox2-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghknox2-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_36041 Gene Symbol: GhKNOX2-1 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhMML3_A12</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmml3_a12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmml3_a12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMML3_A12 Gene Name: MYBMIXTA-like transcription factor 3 Genome: Species: Gossypium hirsutum Functional Descriptions: Small interfering RNAs from bidirectional transcripts of GhMML3_A12 regulate cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhmTERF1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmterf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmterf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A13G0336 Gene Symbol: GhmTERF1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhMYB1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_64719 Gene Symbol: GhMYB1 Gene Name: Genome: Gossypium hirsutum genome (AD) Species: Gossypium hirsutum Functional Descriptions: GhMYB1 regulates SCW stage-specific expression of the GhGDSL promoter in the fibres of Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>GhMYB212</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</guid>
+      <description>Gene Details: Gene ID: Gorai.007G350500.1 Gene Symbol: GhMYB212 Gene Name: R2R3-MYB transcription factor 212 Genome: Phytozome v.</description>
+    </item>
+    <item>
+      <title>GhMYB24</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb24/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMYB24 Gene Name: R2R3-MYB-like protein 24 Genome: Species: Gossypium hirsutum Functional Descriptions: A Cotton Gene Encoding MYB-Like Transcription Factor (GhMYB24) is Specifically Expressed in Pollen and is Involved in Regulation of Late Anther/Pollen Development.</description>
+    </item>
+    <item>
+      <title>GhMYB30</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g2269/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g2269/</guid>
+      <description>Gene Details: Gene ID: GH_D07G2269 Gene Symbol: GhMYB30 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhMYB30-GhMUR3 affects fiber elongation and secondary wall thickening in cotton.</description>
+    </item>
+    <item>
+      <title>GhPAS1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0607/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G0607 Gene Symbol: GhPAS1 Gene Name: PAGODA1 SUPPRESSOR 1 Genome: Species: Gossypium hirsutum Functional Descriptions: The bHLH transcription factor GhPAS1 mediates BR signaling to regulate plant development and architecture in cotton.</description>
+    </item>
+    <item>
+      <title>GhPdBG</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghpdbg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghpdbg/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D05G3800 Gene Symbol: GhPdBG Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The plasmodesmata-associated β-1,3-glucanase gene GhPdBG regulates fiber development in cotton.</description>
+    </item>
+    <item>
+      <title>GhPSK</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-arboreum/ghpsk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-arboreum/ghpsk/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPSK Gene Name: Phytosulfokine-α Genome: Species: Gossypium arboreum Functional Descriptions: A peptide hormone gene, GhPSK promotes fibre elongation and contributes to longer and finer cotton fibre.</description>
+    </item>
+    <item>
+      <title>GhSUS2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g1309/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g1309/</guid>
+      <description>Gene Details: Gene ID: Gh_D08G1309 Gene Symbol: GhSUS2 Gene Name: sucrose synthase 2 Genome: Species: Gossypium hirsutum Functional Descriptions: Comparative phosphoproteomic analysis reveals that phosphorylation of sucrose synthase GhSUS2 by Ca2+-dependent protein kinases GhCPK84/93 affects cotton fiber development.</description>
+    </item>
+    <item>
+      <title>GhSWEET12</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</guid>
+      <description>Gene Details: Gene ID: Gorai.005G195100 Gene Symbol: GhSWEET12 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: RNA-seq and protein−DNA binding assays revealed that GhMYB212 was closely linked to the pathways of sucrose and starch transportation and metabolism, directly controling the expression of a sucrose transporter gene GhSWEET12.</description>
+    </item>
+    <item>
+      <title>GhTINY2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtiny2/</guid>
+      <description>Gene Details: Gene ID:&#x9;GhD06G0642 Gene Symbol: GhTINY2 Gene Name: Genome: Cotton Functional Genomics Database Species: Gossypium hirsutum Functional Descriptions: Orchestration of plant development and defense by indirect crosstalk of salicylic acid and brassinosteorid signaling via transcription factor GhTINY2.</description>
+    </item>
+    <item>
+      <title>GhUBC2L</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubc2l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubc2l/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G2323 Gene Symbol: GhUBC2L Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhUbox8</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubox8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubox8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A10G0168 Gene Symbol: GhUbox8 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhVIP1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghvip1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghvip1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhVIP1 Gene Name: bZIP transcription factor 1 Genome: cotton genome (G.</description>
+    </item>
+    <item>
+      <title>GhVQ22</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g0470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a12g0470/</guid>
+      <description>Gene Details: Gene ID: GH_A12G0470 Gene Symbol: GhVQ22 Gene Name: PG-specific valine glutamine 22 Genome: Species: Gossypium hirsutum Functional Descriptions: Gland-specific GhVQ22 negatively regulates gland size and affects secondary metabolic accumulation in cotton.</description>
+    </item>
+    <item>
+      <title>GhVQ22</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0482/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_d12g0482/</guid>
+      <description>Gene Details: Gene ID: GH_D12G0482 Gene Symbol: GhVQ22 Gene Name: PG-specific valine glutamine 22 Genome: Species: Gossypium hirsutum Functional Descriptions: Gland-specific GhVQ22 negatively regulates gland size and affects secondary metabolic accumulation in cotton.</description>
+    </item>
+    <item>
+      <title>GhWRKY16</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghwrky16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghwrky16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0175 Gene Symbol: GhWRKY16 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Our data demonstrate that GhWRKY16 plays a crucial role in fiber initiation and elongation, and that GhWRKY16 phosphorylation by GhMPK3-1 is essential for the transcriptional activation on downstream genes during the fiber development of cotton.</description>
+    </item>
+    <item>
+      <title>GhWRKY16-A</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghwrky16-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghwrky16-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A06G0179 Gene Symbol: GhWRKY16-A Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhWRKY16-D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghwrky16-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghwrky16-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0175 Gene Symbol: GhWRKY16-D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhYGL1d</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_30325/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_30325/</guid>
+      <description>Gene Details: Gene ID: CotAD_30325 Gene Symbol: GhYGL1d Gene Name: YELLOW-GREEN LEAF Genome: Species: Gossypium hirsutum Functional Descriptions: GhYGL1d, a pentatricopeptide repeat protein, is required for chloroplast development in cotton.</description>
+    </item>
+    <item>
+      <title>WLIM1a</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: WLIM1a Gene Name: LIM domain protein LIM-2 Genome: Species: Gossypium hirsutum Functional Descriptions: The Dual Functions of WLIM1a in Cell Elongation and Secondary Wall Formation in Developing Cotton Fibers.</description>
+    </item>
+  </channel>
+</rss>

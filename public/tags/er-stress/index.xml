@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Er Stress on COTTON</title>
+    <link>//localhost:1313/tags/er-stress/</link>
+    <description>Recent content in Er Stress on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/er-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCNX6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcnx6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcnx6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D09G2402.1 Gene Symbol: GhCNX6 Gene Name: Genome: genomes of G.</description>
+    </item>
+  </channel>
+</rss>

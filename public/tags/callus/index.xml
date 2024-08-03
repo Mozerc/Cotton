@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Callus on COTTON</title>
+    <link>//localhost:1313/tags/callus/</link>
+    <description>Recent content in Callus on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/callus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhSPL10</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a12g0866/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a12g0866/</guid>
+      <description>Gene Details: Gene ID: Gh_A12G0866 Gene Symbol: GhSPL10 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The GhmiR157a–GhSPL10 regulatory module controls initial cellular dedifferentiation and callus proliferation in cotton by modulating ethylene-mediated flavonoid biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhTCE1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtce1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtce1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G2316 Gene Symbol: GhTCE1 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GhTCE1–GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton Identify GhTCE1, a basic helix–loop–helix family transcription factor, and its interacting partners as a central regulatory module of early cell fate transition during in vitro dedifferentiation of cotton (Gossypium hirsutum).</description>
+    </item>
+    <item>
+      <title>GhTCEE1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtcee1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtcee1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D11G3523 Gene Symbol: GhTCEE1 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GhTCE1–GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton.</description>
+    </item>
+  </channel>
+</rss>

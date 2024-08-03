@@ -35,5 +35,9 @@ tags: [ fertility,pollen,sterile,male fertility,pollen fertility,pollen exine fo
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

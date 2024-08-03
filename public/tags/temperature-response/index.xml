@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temperature Response on COTTON</title>
+    <link>//localhost:1313/tags/temperature-response/</link>
+    <description>Recent content in Temperature Response on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/temperature-response/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCKI</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcki/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCKI Gene Name: Gossypium hirsutum Casein kinase I Genome: TM-1 reference genome TM-1 Species: Gossypium hirsutum Functional Descriptions: GhCKI DNA methylation are all involved in HT-induced male sterility in cotton.</description>
+    </item>
+    <item>
+      <title>GhMYB4</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyb4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyb4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A12G003840 Gene Symbol: GhMYB4 Gene Name: Genome: TM-1 reference genome TM-1 Species: Gossypium hirsutum Functional Descriptions: In the tapetum of early-stage cotton anthers, upregulated expression of GhMYB4 under HT and overexpressed GhMYB4 under normal temperature both led to severe male sterility phenotypes, coupled with enhanced expression of GhCKI.</description>
+    </item>
+  </channel>
+</rss>

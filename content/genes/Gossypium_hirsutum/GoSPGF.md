@@ -34,5 +34,9 @@ tags: [ stem,stems,map-based cloning,pigment biosynthesis,virus,gossypol,gland ]
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

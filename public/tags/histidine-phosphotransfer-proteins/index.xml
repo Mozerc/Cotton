@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Histidine Phosphotransfer Proteins on funPlantGenes</title>
+    <link>//localhost:60475/tags/histidine-phosphotransfer-proteins/</link>
+    <description>Recent content in Histidine Phosphotransfer Proteins on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/histidine-phosphotransfer-proteins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OHP1;OsAHP1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os08g44350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os08g44350/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g44350 RAPdb gene ID: Os08g0557700 Gene Symbol: OHP1 OsAHP1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OHP2;OsAHP2</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os09g39400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os09g39400/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g39400 RAPdb gene ID: Os09g0567400 Gene Symbol: OHP2 OsAHP2 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

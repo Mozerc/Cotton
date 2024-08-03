@@ -35,5 +35,9 @@ tags: [ kinase,resistance,protein kinase,flavonoid,protoplasts,flavonoid biosynt
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protoplasts on COTTON</title>
+    <link>//localhost:1313/tags/protoplasts/</link>
+    <description>Recent content in Protoplasts on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/protoplasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhMKK6</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_21502/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_21502/</guid>
+      <description>Gene Details: Gene ID: CotAD_21502 Gene Symbol: GhMKK6 Gene Name: mitogen-activated protein kinase 6 Genome: Species: Gossypium hirsutum Functional Descriptions: Scaffold protein GhMORG1 enhances the resistance of cotton to Fusarium oxysporum by facilitating the GhMKK6-GhMPK4 cascade.</description>
+    </item>
+    <item>
+      <title>GhMPK4</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_19088/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/cotad_19088/</guid>
+      <description>Gene Details: Gene ID: CotAD_19088 Gene Symbol: GhMPK4 Gene Name: mitogen-activated protein kinase 4 Genome: Species: Gossypium hirsutum Functional Descriptions: Scaffold protein GhMORG1 enhances the resistance of cotton to Fusarium oxysporum by facilitating the GhMKK6-GhMPK4 cascade.</description>
+    </item>
+    <item>
+      <title>GhMYC2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghmyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_32778 Gene Symbol: GhMYC2 Gene Name: Genome: Gossypium hirsutum (AD1) &amp;lsquo;TM-1&amp;rsquo; genome CGP-BGI_v1 Species: Gossypium hirsutum Functional Descriptions: A novel mitogen-activated protein kinase (MAPK) cascade composed of GhMKK2, GhNTF6 and GhMYC2 was identified.</description>
+    </item>
+  </channel>
+</rss>

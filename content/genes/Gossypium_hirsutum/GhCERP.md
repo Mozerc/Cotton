@@ -35,5 +35,9 @@ tags: [ root,growth,br,br signaling,root elongation,root growth,cell elongation,
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

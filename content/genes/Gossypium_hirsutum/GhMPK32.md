@@ -35,5 +35,9 @@ tags: [ kinase,drought,tolerance,aba,drought tolerance,stomatal,drought response
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

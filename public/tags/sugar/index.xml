@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sugar on COTTON</title>
+    <link>//localhost:1313/tags/sugar/</link>
+    <description>Recent content in Sugar on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/sugar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCBL2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcbl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcbl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A01G0740 Gene Symbol: GhCBL2 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Overexpression of either GhCBL2, GhCIPK6, or GhTST2 was sufficient to promote sugar accumulation in transgenic cotton, whereas RNAi-mediated knockdown of GhCIPK6 expression or CRISPR-Cas9-mediated knockout of GhTST2 resulted in significantly decreased Glc content.</description>
+    </item>
+    <item>
+      <title>GhCIPK6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcipk6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcipk6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G1020 Gene Symbol: GhCIPK6 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Overexpression of either GhCBL2, GhCIPK6, or GhTST2 was sufficient to promote sugar accumulation in transgenic cotton, whereas RNAi-mediated knockdown of GhCIPK6 expression or CRISPR-Cas9-mediated knockout of GhTST2 resulted in significantly decreased Glc content.</description>
+    </item>
+    <item>
+      <title>GhMYB212</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</guid>
+      <description>Gene Details: Gene ID: Gorai.007G350500.1 Gene Symbol: GhMYB212 Gene Name: R2R3-MYB transcription factor 212 Genome: Phytozome v.</description>
+    </item>
+    <item>
+      <title>GhSCP2D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghscp2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghscp2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0145 Gene Symbol: GhSCP2D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhSWEET12</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</guid>
+      <description>Gene Details: Gene ID: Gorai.005G195100 Gene Symbol: GhSWEET12 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: RNA-seq and protein−DNA binding assays revealed that GhMYB212 was closely linked to the pathways of sucrose and starch transportation and metabolism, directly controling the expression of a sucrose transporter gene GhSWEET12.</description>
+    </item>
+    <item>
+      <title>GhTST2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtst2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtst2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D01G0848 Gene Symbol: GhTST2 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Overexpression of either GhCBL2, GhCIPK6, or GhTST2 was sufficient to promote sugar accumulation in transgenic cotton, whereas RNAi-mediated knockdown of GhCIPK6 expression or CRISPR-Cas9-mediated knockout of GhTST2 resulted in significantly decreased Glc content.</description>
+    </item>
+    <item>
+      <title>GhVIN1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghvin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghvin1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhVIN1 Gene Name: vacuolar invertase1 Genome: Species: Gossypium hirsutum Functional Descriptions: Silencing the vacuolar invertase gene GhVIN1 blocks cotton fiber initiation from the ovule epidermis, probably by suppressing a cohort of regulatory genes via sugar signaling.</description>
+    </item>
+  </channel>
+</rss>

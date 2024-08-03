@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Down-Regulated Genes on COTTON</title>
+    <link>//localhost:1313/tags/down-regulated-genes/</link>
+    <description>Recent content in Down-Regulated Genes on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/down-regulated-genes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhPIP2</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPIP2|6 Gene Name: plasma membrane intrinsic protein 2 Genome: Species: Gossypium hirsutum Functional Descriptions: GhPIP2|6|3 interacted with GhPIP2|6|4 and GhPIP2|6|GhPIP2|6, but GhPIP2|6|GhPIP2|6 did not interact with GhPIP2|6|4.</description>
+    </item>
+  </channel>
+</rss>

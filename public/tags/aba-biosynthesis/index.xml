@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aba Biosynthesis on COTTON</title>
+    <link>//localhost:1313/tags/aba-biosynthesis/</link>
+    <description>Recent content in Aba Biosynthesis on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/aba-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhGLU19A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0109/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0109/</guid>
+      <description>Gene Details: Gene ID: Gh_A04G0109 Gene Symbol: GhGLU19A Gene Name: Glucanase 19 Genome: Species: Gossypium hirsutum Functional Descriptions: Suppression of GhGLU19 encoding β-1,3-glucanase promotes seed germination in cotton.</description>
+    </item>
+    <item>
+      <title>GhGLU19D</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3612/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3612/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G3612 Gene Symbol: GhGLU19D Gene Name: Glucanase 19 Genome: Species: Gossypium hirsutum Functional Descriptions: Suppression of GhGLU19 encoding β-1,3-glucanase promotes seed germination in cotton.</description>
+    </item>
+    <item>
+      <title>GhNAC83</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/glaun057212/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/glaun057212/</guid>
+      <description>Gene Details: Gene ID: GlaUn057212 Gene Symbol: GhNAC83 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhNAC83 inhibits corm dormancy release by regulating ABA signaling and cytokinin biosynthesis in Gladiolus hybridus.</description>
+    </item>
+  </channel>
+</rss>

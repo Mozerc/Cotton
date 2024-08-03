@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seed Vigour on funPlantGenes</title>
+    <link>//localhost:60475/tags/seed-vigour/</link>
+    <description>Recent content in Seed Vigour on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/seed-vigour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HvGA3ox1</title>
+      <link>//localhost:60475/genes/hordeum_vulgare/hvga3ox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/hordeum_vulgare/hvga3ox1/</guid>
+      <description>Gene Details: Gene ID:&#x9;HORVU.MOREX.r3.2HG0208900 Gene Symbol: HvGA3ox1 Gene Name: Genome: genome sequence of barley cv.</description>
+    </item>
+    <item>
+      <title>OsHIPL1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g48540/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g48540/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g48540 RAPdb gene ID: Os03g0691800 Gene Symbol: OsHIPL1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaNAC2-5A</title>
+      <link>//localhost:60475/genes/2024.6.9/triticum-aestivum/tanac2-5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/triticum-aestivum/tanac2-5a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaNAC2-5A Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: The Nitrate-Inducible NAC Transcription Factor TaNAC2-5A Controls Nitrate Response and Increases Wheat Yield.</description>
+    </item>
+    <item>
+      <title>TaNRT2.5-3B</title>
+      <link>//localhost:60475/genes/2024.6.9/triticum-aestivum/traesc83b01g285900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/triticum-aestivum/traesc83b01g285900/</guid>
+      <description>Gene Details: Gene ID: TraesC83B01G285900 Gene Symbol: TaNRT2.5-3B Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Overexpressing TaNAC2-5A increases grain nitrate concentration and seed vigour by directly binding to the promoter of TaNRT2.</description>
+    </item>
+  </channel>
+</rss>

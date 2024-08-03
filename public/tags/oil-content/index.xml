@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oil Content on COTTON</title>
+    <link>//localhost:1313/tags/oil-content/</link>
+    <description>Recent content in Oil Content on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/oil-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhDGAT1</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a07g0132.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-hirsutum/gh_a07g0132.1/</guid>
+      <description>Gene Details: Gene ID: GH_A07G0132.1 Gene Symbol: GhDGAT1 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Seed-specific overexpression of cotton GhDGAT1 gene leads to increased oil accumulation in cottonseed.</description>
+    </item>
+    <item>
+      <title>GhFAD2-1A</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1850/</guid>
+      <description>Gene Details: Gene ID: Gh_A13G1850 Gene Symbol: GhFAD2-1A Gene Name: Genome: Cotton Functional Genomics Database (https://cottonfgd.</description>
+    </item>
+  </channel>
+</rss>

@@ -37,5 +37,9 @@ tags: [ development,quality,breeding,cell wall,cell elongation,cell wall synthes
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

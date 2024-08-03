@@ -3,8 +3,8 @@
 # main menu
 
 [[main]]
-name = "SPECIES"
-url = "species/"
+name = "FAS"
+url = "FAS/"
 weight = 1
 
 

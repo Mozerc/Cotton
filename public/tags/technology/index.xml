@@ -1,26 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>technology on Hugoplate</title>
-    <link>/tags/technology/</link>
-    <description>Recent content in technology on Hugoplate</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Technology on COTTON</title>
+    <link>//localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on COTTON</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>/blog/post-2/</link>
+      <title>Gossypium barbadense (AD2) &#39;Pima90&#39; genome HEAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-barbadense-ad2-pima90-genome-heau_v1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/blog/post-2/</guid>
+      <guid>//localhost:1313/group0/gossypium-barbadense-ad2-pima90-genome-heau_v1/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>/blog/post-4/</link>
+      <title>Gossypium barbadense (AD2) &#39;Yuma&#39; genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-barbadense-ad2-yuma-genome-hau_v1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/blog/post-4/</guid>
+      <guid>//localhost:1313/group0/gossypium-barbadense-ad2-yuma-genome-hau_v1/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium bickii (G1) genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-bickii-g1-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-bickii-g1-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium bickii (G1) genome JZU_v1</title>
+      <link>//localhost:1313/group0/gossypium-bickii-g1-genome-jzu_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-bickii-g1-genome-jzu_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium darwinii (AD5) genome HGS_v1.1</title>
+      <link>//localhost:1313/group0/gossypium-darwinii-ad5-genome-hgs_v1.1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-darwinii-ad5-genome-hgs_v1.1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium davidsonii (D3d-27) genome ISU_v1</title>
+      <link>//localhost:1313/group0/gossypium-davidsonii-d3d-27-genome-isu_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-davidsonii-d3d-27-genome-isu_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium davidsonii (D3d-8) genome CRI_v1</title>
+      <link>//localhost:1313/group0/gossypium-davidsonii-d3d-8-genome-cri_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-davidsonii-d3d-8-genome-cri_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium gossypioides (D6) genome CRI_v1</title>
+      <link>//localhost:1313/group0/gossypium-gossypioides-d6-genome-cri_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-gossypioides-d6-genome-cri_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium gossypioides (D6) genome ISU_v1</title>
+      <link>//localhost:1313/group0/gossypium-gossypioides-d6-genome-isu_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-gossypioides-d6-genome-isu_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium harknessii (D2-2) genome CRI_v1</title>
+      <link>//localhost:1313/group0/gossypium-harknessii-d2-2-genome-cri_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-harknessii-d2-2-genome-cri_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium harknessii (D2-2) genome ISU_v1</title>
+      <link>//localhost:1313/group0/gossypium-harknessii-d2-2-genome-isu_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-harknessii-d2-2-genome-isu_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium herbaceum (A1) &#39;A1a wild&#39; genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-herbaceum-a1-a1a-wild-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-herbaceum-a1-a1a-wild-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium herbaceum (A1) &#39;Mutema&#39; genome WHU_v1</title>
+      <link>//localhost:1313/group0/gossypium-herbaceum-a1-mutema-genome-whu_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-herbaceum-a1-mutema-genome-whu_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium herbaceum (A1) &#39;ZhongCao1&#39; genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-herbaceum-a1-zhongcao1-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-herbaceum-a1-zhongcao1-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium hirsutum (AD1) &#39;B713&#39; genome NSF_v1</title>
+      <link>//localhost:1313/group0/gossypium-hirsutum-ad1-b713-genome-nsf_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-hirsutum-ad1-b713-genome-nsf_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium hirsutum (AD1) &#39;ZM24&#39; genome CRI_v1</title>
+      <link>//localhost:1313/group0/gossypium-hirsutum-ad1-zm24-genome-cri_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-hirsutum-ad1-zm24-genome-cri_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium klotzschianum (D3-k) genome CRI_v1</title>
+      <link>//localhost:1313/group0/gossypium-klotzschianum-d3-k-genome-cri_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-klotzschianum-d3-k-genome-cri_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium longicalyx (F1) genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-longicalyx-f1-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-longicalyx-f1-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium longicalyx (F1) genome NSF_v1</title>
+      <link>//localhost:1313/group0/gossypium-longicalyx-f1-genome-nsf_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-longicalyx-f1-genome-nsf_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium mustelinum (AD4) genome JGI_v1.1</title>
+      <link>//localhost:1313/group0/gossypium-mustelinum-ad4-genome-jgi_v1.1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-mustelinum-ad4-genome-jgi_v1.1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium raimondii (D5) &#39;D5-4&#39; genome NSF_v1</title>
+      <link>//localhost:1313/group0/gossypium-raimondii-d5-d5-4-genome-nsf_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-raimondii-d5-d5-4-genome-nsf_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium raimondii (D5) &#39;GPD5lz&#39; genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-raimondii-d5-gpd5lz-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-raimondii-d5-gpd5lz-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium raimondii (D5) &#39;Grai D502&#39; genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-raimondii-d5-grai-d502-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-raimondii-d5-grai-d502-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium raimondii (D5) genome JGI_v2_a2.1</title>
+      <link>//localhost:1313/group0/gossypium-raimondii-d5-genome-jgi_v2_a2.1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-raimondii-d5-genome-jgi_v2_a2.1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium stephensii (AD7) &#39;AD701&#39; genome CRI_v1</title>
+      <link>//localhost:1313/group0/gossypium-stephensii-ad7-ad701-genome-cri_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-stephensii-ad7-ad701-genome-cri_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium stocksii (E1) genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-stocksii-e1-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-stocksii-e1-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium stocksii (E1) genome NSF_v1</title>
+      <link>//localhost:1313/group0/gossypium-stocksii-e1-genome-nsf_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-stocksii-e1-genome-nsf_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium stocksii (E1) genome ZSTU_v1</title>
+      <link>//localhost:1313/group0/gossypium-stocksii-e1-genome-zstu_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-stocksii-e1-genome-zstu_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Gossypium sturtianum (C1) genome HAU_v1</title>
+      <link>//localhost:1313/group0/gossypium-sturtianum-c1-genome-hau_v1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/gossypium-sturtianum-c1-genome-hau_v1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Grotundifolium genome HAU v1.0</title>
+      <link>//localhost:1313/group0/grotundifolium-genome-hau-v1.0/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/group0/grotundifolium-genome-hau-v1.0/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stems on COTTON</title>
+    <link>//localhost:1313/tags/stems/</link>
+    <description>Recent content in Stems on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/stems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCYP82L1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcyp82l1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcyp82l1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCYP82L1 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Two CYP genes (GhCYP82L1 and GhCYP82L2) involved in homoterpene biosynthesis in G.</description>
+    </item>
+    <item>
+      <title>GhCYP82L2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcyp82l2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcyp82l2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCYP82L2 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhKNL1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghknl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghknl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhKNL1 Gene Name: KNOTTED1-LIKE Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton KNL1, encoding a class II KNOX transcription factor, is involved in regulation of fibre development.</description>
+    </item>
+    <item>
+      <title>GoSPGF</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gospgf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gospgf/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D08G1984 Gene Symbol: GoSPGF Gene Name: Gossypium STEM PIGMENT GLAND FORMING GENE Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The discovery of the novel stem pigment gland-forming gene GoSPGF by map-based cloning.</description>
+    </item>
+    <item>
+      <title>GoSTR</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gostr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gostr/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D08G0109 Gene Symbol: GoSTR Gene Name: Gossypium Stem Trichome Repressor Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GoSTR, a negative modulator of stem trichome formation in cotton.</description>
+    </item>
+  </channel>
+</rss>

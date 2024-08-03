@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recombination on COTTON</title>
+    <link>//localhost:1313/tags/recombination/</link>
+    <description>Recent content in Recombination on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/recombination/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghir_COL2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghir_col2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghir_col2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D03G011010.1 Gene Symbol: Ghir_COL2 Gene Name: CONSTANS-like 2 Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: A genome-wide association study (GWAS) was performed with 15 agronomic traits using 267 cotton accessions and identified 163 quantitative trait loci (QTL) and an important candidate gene (Ghir_COL2) for early maturity traits.</description>
+    </item>
+  </channel>
+</rss>

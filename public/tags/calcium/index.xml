@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calcium on COTTON</title>
+    <link>//localhost:1313/tags/calcium/</link>
+    <description>Recent content in Calcium on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/calcium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhANN8b</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghann8b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghann8b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D10G1895 Gene Symbol: GhANN8b Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCaM7</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcam7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghcam7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhCaM7 Gene Name: calmodulin-7 Genome: Species: Gossypium hirsutum Functional Descriptions: The calcium sensor GhCaM7 promotes cotton fiber elongation by modulating reactive oxygen species (ROS) production.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g0621/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g0621/</guid>
+      <description>Gene Details: Gene ID: Gh_A01G0621 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0148/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a04g0148/</guid>
+      <description>Gene Details: Gene ID: Gh_A04G0148 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1164/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a13g1164/</guid>
+      <description>Gene Details: Gene ID: Gh_A13G1164 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g2360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g2360/</guid>
+      <description>Gene Details: Gene ID: Gh_D01G2360 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3567/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g3567/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G3567 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d13g1455/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d13g1455/</guid>
+      <description>Gene Details: Gene ID: Gh_D13G1455 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhDsPTP3aA</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghdsptp3aa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghdsptp3aa/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A06G0600 Gene Symbol: GhDsPTP3aA Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhDsPTP3aD</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghdsptp3ad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghdsptp3ad/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0680 Gene Symbol: GhDsPTP3aD Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhOPR3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g0339.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d05g0339.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G0339.1 Gene Symbol: GhOPR3 Gene Name: 12-oxophytodienoate reductase3 Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 phosphorylates GhOPR3 at threonine-246, leading to decreased stability of GhOPR3, which consequently limits JA biosynthesis.</description>
+    </item>
+  </channel>
+</rss>

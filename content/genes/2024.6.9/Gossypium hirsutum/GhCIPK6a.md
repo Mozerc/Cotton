@@ -34,5 +34,9 @@ tags: [ stress,seedling,seed,salt,seed germination,tolerance,salt tolerance,salt
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

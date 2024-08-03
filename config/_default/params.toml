@@ -10,7 +10,7 @@ logo_height = "200px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = false
 # logo text will only show when logo is missing.
-logo_text = "funPlantGenes"
+logo_text = "COTTON"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -50,6 +50,8 @@ include_sections = [""]
 include_all_sections = true
 show_description = true
 show_tags = true
+show_image = true
+show_categories = true
 
 
 

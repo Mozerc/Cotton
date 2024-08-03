@@ -34,5 +34,9 @@ tags: [ resistance,stress,ja,defense,resistant,reactive oxygen species,sa,ja sig
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

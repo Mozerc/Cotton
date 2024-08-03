@@ -33,5 +33,9 @@ tags: [ shoot,transporter,flowering time,sucrose,flowering,sucrose transporter ]
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

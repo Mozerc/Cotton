@@ -34,5 +34,9 @@ tags: [ root,growth,kinase,drought,stress,drought stress,tolerance,abiotic stres
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

@@ -36,5 +36,9 @@ tags: [ transcription factor,resistance,disease,disease resistance,ja,jasmonic,j
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

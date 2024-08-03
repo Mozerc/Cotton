@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cell Expansion on COTTON</title>
+    <link>//localhost:1313/tags/cell-expansion/</link>
+    <description>Recent content in Cell Expansion on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/cell-expansion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhBES1.4</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghicr24_a05g201500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghicr24_a05g201500.1/</guid>
+      <description>Gene Details: Gene ID: Ghicr24_A05G201500.1 Gene Symbol: GhBES1.4 Gene Name: BRI1-EMS-SUPPRESOR 1.</description>
+    </item>
+    <item>
+      <title>GhKRP6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghkrp6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghkrp6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D11G206800 Gene Symbol: GhKRP6 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhMYB212</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</guid>
+      <description>Gene Details: Gene ID: Gorai.007G350500.1 Gene Symbol: GhMYB212 Gene Name: R2R3-MYB transcription factor 212 Genome: Phytozome v.</description>
+    </item>
+    <item>
+      <title>GhPK6</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpk6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghpk6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPK6 Gene Name: pyruvate kinase6 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton cytosolic pyruvate kinase GhPK6 participates in fast fiber elongation regulation in a ROS-mediated manner.</description>
+    </item>
+    <item>
+      <title>GhSWEET12</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</guid>
+      <description>Gene Details: Gene ID: Gorai.005G195100 Gene Symbol: GhSWEET12 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: RNA-seq and protein−DNA binding assays revealed that GhMYB212 was closely linked to the pathways of sucrose and starch transportation and metabolism, directly controling the expression of a sucrose transporter gene GhSWEET12.</description>
+    </item>
+    <item>
+      <title>GhUBC2L</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghubc2l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghubc2l/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G2323 Gene Symbol: GhUBC2L Gene Name: Genome: G.</description>
+    </item>
+  </channel>
+</rss>

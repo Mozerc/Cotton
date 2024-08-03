@@ -35,5 +35,9 @@ tags: [ transcription factor,resistance,jasmonate,ja,blight,ethylene,transcripti
 ## Orthologs:
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lipoxygenase Isozymes on funPlantGenes</title>
+    <link>//localhost:60475/tags/lipoxygenase-isozymes/</link>
+    <description>Recent content in Lipoxygenase Isozymes on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/lipoxygenase-isozymes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmLOX2;LOX2</title>
+      <link>//localhost:60475/genes/glycine_max/gmlox2lox2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/glycine_max/gmlox2lox2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.13g347500 Gene Symbol: GmLOX2 LOX2 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Mature soybean seeds contain mainly three lipoxygenase isozymes,GmLOX1,GmLox2 and GmLox3.</description>
+    </item>
+    <item>
+      <title>GmLOX3;LOX3</title>
+      <link>//localhost:60475/genes/glycine_max/gmlox3lox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/glycine_max/gmlox3lox3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.15g026300 Gene Symbol: GmLOX3 LOX3 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Mature soybean seeds contain mainly three lipoxygenase isozymes,GmLOX1,GmLox2 and GmLox3.</description>
+    </item>
+  </channel>
+</rss>

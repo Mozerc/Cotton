@@ -35,5 +35,9 @@ tags: [ resistance,stress,ja,defense response,defense,tolerance,insect,biotic st
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

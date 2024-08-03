@@ -34,5 +34,9 @@ tags: [ transcription factor,cell wall,cell elongation,cell wall synthesis,fiber
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

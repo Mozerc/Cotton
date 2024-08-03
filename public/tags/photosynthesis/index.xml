@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photosynthesis on COTTON</title>
+    <link>//localhost:1313/tags/photosynthesis/</link>
+    <description>Recent content in Photosynthesis on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/photosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhSFT</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a08g261500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a08g261500.1/</guid>
+      <description>Gene Details: Gene ID: Gh_A08G261500.1 Gene Symbol: GhSFT Gene Name: SINGLE FLOWER TRUSS Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSFT</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g252300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d08g252300.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D08G252300.1 Gene Symbol: GhSFT Gene Name: SINGLE FLOWER TRUSS Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSP</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g120000.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a07g120000.1/</guid>
+      <description>Gene Details: Gene ID: Gh_A07G120000.1 Gene Symbol: GhSP Gene Name: SELF-PRUNING Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSP</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g116400.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d07g116400.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D07G116400.1 Gene Symbol: GhSP Gene Name: SELF-PRUNING Genome: G.</description>
+    </item>
+  </channel>
+</rss>

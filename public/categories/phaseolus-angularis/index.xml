@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phaseolus Angularis on funPlantGenes</title>
+    <link>//localhost:60475/categories/phaseolus-angularis/</link>
+    <description>Recent content in Phaseolus Angularis on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/categories/phaseolus-angularis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VaXTH1</title>
+      <link>//localhost:60475/genes/2024.7.17/phaseolus-angularis/vaxth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/phaseolus-angularis/vaxth1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VaXTH1 Gene Name: Xyloglucan endotransglucosylase/hydrolase 1 Genome: Species: Phaseolus angularis Functional Descriptions: Two Azuki Bean XTH Genes, VaXTH1 and VaXTH2, with Similar Tissue-Specific Expression Profiles, are Differently Regulated by Auxin.</description>
+    </item>
+    <item>
+      <title>VaXTH2</title>
+      <link>//localhost:60475/genes/2024.7.17/phaseolus-angularis/vaxth2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.7.17/phaseolus-angularis/vaxth2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VaXTH2 Gene Name: Xyloglucan endotransglucosylase/hydrolase 2 Genome: Species: Phaseolus angularis Functional Descriptions: Two Azuki Bean XTH Genes, VaXTH1 and VaXTH2, with Similar Tissue-Specific Expression Profiles, are Differently Regulated by Auxin.</description>
+    </item>
+  </channel>
+</rss>

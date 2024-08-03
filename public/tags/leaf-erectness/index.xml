@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaf Erectness on funPlantGenes</title>
+    <link>//localhost:60475/tags/leaf-erectness/</link>
+    <description>Recent content in Leaf Erectness on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/leaf-erectness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CYCU4;1;OsCYCP4;1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os10g41430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os10g41430/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g41430 RAPdb gene ID: Os10g0563900 Gene Symbol: CYCU4 1 OsCYCP4 1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCPL3</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os11g31890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os11g31890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g31890 RAPdb gene ID: Os11g0521900 Gene Symbol: OsCPL3 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musa Balbisiana on funPlantGenes</title>
+    <link>//localhost:60475/categories/musa-balbisiana/</link>
+    <description>Recent content in Musa Balbisiana on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/categories/musa-balbisiana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MusaDMR6</title>
+      <link>//localhost:60475/genes/2024.6.9/musa-balbisiana/ma04_p20880.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/musa-balbisiana/ma04_p20880.1/</guid>
+      <description>Gene Details: Gene ID: Ma04_p20880.1 Gene Symbol: MusaDMR6 Gene Name: downy mildew resistance 6 Genome: Species: Musa balbisiana Functional Descriptions: The downy mildew resistance 6 (DMR6) is a susceptibility gene encoding 2-oxoglutarate Fe(II)-dependent oxygenase (2OGO), which is up-regulated during pathogen infection.</description>
+    </item>
+  </channel>
+</rss>

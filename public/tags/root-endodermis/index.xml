@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Root Endodermis on funPlantGenes</title>
+    <link>//localhost:60475/tags/root-endodermis/</link>
+    <description>Recent content in Root Endodermis on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/root-endodermis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaA4.BOR2</title>
+      <link>//localhost:60475/genes/brassica_napus/bnaann31830d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/brassica_napus/bnaann31830d/</guid>
+      <description>Gene Details: Gene ID: BnaAnn31830D Gene Symbol: BnaA4.BOR2 Gene Name: B efflux transporter Genome: Brassica napus Genome Resources Species: Brassica napus Functional Descriptions: BnaA4.</description>
+    </item>
+    <item>
+      <title>HvYS2</title>
+      <link>//localhost:60475/genes/2024.6.9/hordeum-vulgare/hvys2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/hordeum-vulgare/hvys2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvYS2 Gene Name: Putative iron-phytosiderophore transporter Genome: Species: Hordeum vulgare Functional Descriptions: Here, we report the cloning and characterization of HvYSL2, a novel metal–PS transporter encoding gene.</description>
+    </item>
+    <item>
+      <title>OsMYB36a</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os08g15020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os08g15020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g15020 RAPdb gene ID: Os08g0248700 Gene Symbol: OsMYB36a Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB36b</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os02g54520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os02g54520/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g54520 RAPdb gene ID: Os02g0786300 ,Os02g0786400 Gene Symbol: OsMYB36b Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB36c</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os03g56090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os03g56090/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g56090 RAPdb gene ID: Os03g0771100 Gene Symbol: OsMYB36c Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmSCR</title>
+      <link>//localhost:60475/genes/zea_mays/zmscr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmscr/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb195650 Gene Symbol: ZmSCR Gene Name: scarecrow1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSCR1;ZmGRAS78</title>
+      <link>//localhost:60475/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb195650 Gene Symbol: ZmSCR1 ZmGRAS78 ZmSCR SCARECROW SCR scro1 Gene Name: scarecrow1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

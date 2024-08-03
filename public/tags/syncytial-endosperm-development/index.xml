@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syncytial Endosperm Development on funPlantGenes</title>
+    <link>//localhost:60475/tags/syncytial-endosperm-development/</link>
+    <description>Recent content in Syncytial Endosperm Development on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/tags/syncytial-endosperm-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ENL1</title>
+      <link>//localhost:60475/genes/oryza_sativa/loc_os04g59624/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/oryza_sativa/loc_os04g59624/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g59624 RAPdb gene ID: Os04g0692750 Gene Symbol: ENL1 Gene Name: Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>HvHK1</title>
+      <link>//localhost:60475/genes/2024.6.9/hordeum-vulgare/horvu7hr1g030040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/hordeum-vulgare/horvu7hr1g030040/</guid>
+      <description>Gene Details: Gene ID: HORVU7Hr1G030040 Gene Symbol: HvHK1 Gene Name: HISTIDINE KINASE 1 Genome: Species: Hordeum vulgare Functional Descriptions: HvHK1 encodes a histidine kinase and is specifically expressed in the syncytial endosperm at the maternal–filial boundary.</description>
+    </item>
+  </channel>
+</rss>

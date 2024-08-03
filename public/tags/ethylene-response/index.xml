@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethylene Response on COTTON</title>
+    <link>//localhost:1313/tags/ethylene-response/</link>
+    <description>Recent content in Ethylene Response on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/ethylene-response/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhAPX1</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghapx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghapx1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhAPX1 Gene Name: cytosolic ascorbate peroxidase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, a cotton (Gossypium hirsutum) cytosolic APX1 (GhAPX1) was identified to be highly accumulated during cotton fibre elongation by proteomic analysis.</description>
+    </item>
+    <item>
+      <title>GhCKX3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghckx3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghckx3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0733 Gene Symbol: GhCKX3 Gene Name: Genome: cotton genome (G.</description>
+    </item>
+    <item>
+      <title>GhCKX3-1</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghckx3-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghckx3-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D13G2062 Gene Symbol: GhCKX3-1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCKX3-2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghckx3-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghckx3-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A06G0643 Gene Symbol: GhCKX3-2 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCKX3-3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghckx3-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghckx3-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D07G2372 Gene Symbol: GhCKX3-3 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhERF-IIb3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF-IIb3 Gene Name: cultivar Reba B50 ethylene-responsive transcription factor-IIb3 Genome: Species: Gossypium hirsutum Functional Descriptions: GhERF-IIb3 regulates the accumulation of jasmonate and leads to enhanced cotton resistance to blight diseas.</description>
+    </item>
+    <item>
+      <title>GhERF108</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/gherf108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/gherf108/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G13101 Gene Symbol: GhERF108 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhERF6</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gherf6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF6 Gene Name: ethylene response factor 6 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton Major Latex Protein 28 (GhMLP28) Functions as a Positive Regulator of the Ethylene Responsive Factor 6 (GhERF6) in Defense against Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhERF9</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</guid>
+      <description>Gene Details: Gene ID: Gh_D02G1817 Gene Symbol: GhERF9 Gene Name: ethylene response factor 9 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, we have demonstrated that one of the ERF TFs in cotton, GhERF9, exerts a regulatory role in enhancing the expression of GhHAK5a by binding to its promoter region.</description>
+    </item>
+    <item>
+      <title>GhLYI</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlyi/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G0312 Gene Symbol: GhLYI Gene Name: LINT YIELD INCREASING Genome: eference genome of G.</description>
+    </item>
+    <item>
+      <title>GhMYB108</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/ghmyb108/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMYB108 Gene Name: defense-related MYB 108 Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton MYB108 forms a positive feedback regulation loop with CML11 and participates in the defense response against Verticillium dahliae infection.</description>
+    </item>
+  </channel>
+</rss>

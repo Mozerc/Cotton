@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transporter on COTTON</title>
+    <link>//localhost:1313/tags/transporter/</link>
+    <description>Recent content in Transporter on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/transporter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCBL2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcbl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcbl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A01G0740 Gene Symbol: GhCBL2 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Overexpression of either GhCBL2, GhCIPK6, or GhTST2 was sufficient to promote sugar accumulation in transgenic cotton, whereas RNAi-mediated knockdown of GhCIPK6 expression or CRISPR-Cas9-mediated knockout of GhTST2 resulted in significantly decreased Glc content.</description>
+    </item>
+    <item>
+      <title>GhCIPK6</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghcipk6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghcipk6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G1020 Gene Symbol: GhCIPK6 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Overexpression of either GhCBL2, GhCIPK6, or GhTST2 was sufficient to promote sugar accumulation in transgenic cotton, whereas RNAi-mediated knockdown of GhCIPK6 expression or CRISPR-Cas9-mediated knockout of GhTST2 resulted in significantly decreased Glc content.</description>
+    </item>
+    <item>
+      <title>GhHAK5aA</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g1516/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_a01g1516/</guid>
+      <description>Gene Details: Gene ID: Gh_A01G1516 Gene Symbol: GhHAK5aA Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton High-Affinity K+ Transporter, GhHAK5a, Is Essential for Shoot Regulation of K+ Uptake in Root under Potassium Deficiency.</description>
+    </item>
+    <item>
+      <title>GhHAK5aD</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g1760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh_d01g1760/</guid>
+      <description>Gene Details: Gene ID: Gh_D01G1760 Gene Symbol: GhHAK5aD Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton High-Affinity K+ Transporter, GhHAK5a, Is Essential for Shoot Regulation of K+ Uptake in Root under Potassium Deficiency.</description>
+    </item>
+    <item>
+      <title>GhMYB212</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.007g350500.1/</guid>
+      <description>Gene Details: Gene ID: Gorai.007G350500.1 Gene Symbol: GhMYB212 Gene Name: R2R3-MYB transcription factor 212 Genome: Phytozome v.</description>
+    </item>
+    <item>
+      <title>GhSWEET10D</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghsweet10d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghsweet10d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D12G1898 Gene Symbol: GhSWEET10D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhSWEET12</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</guid>
+      <description>Gene Details: Gene ID: Gorai.005G195100 Gene Symbol: GhSWEET12 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: RNA-seq and protein−DNA binding assays revealed that GhMYB212 was closely linked to the pathways of sucrose and starch transportation and metabolism, directly controling the expression of a sucrose transporter gene GhSWEET12.</description>
+    </item>
+    <item>
+      <title>GhTST2</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghtst2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghtst2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D01G0848 Gene Symbol: GhTST2 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Overexpression of either GhCBL2, GhCIPK6, or GhTST2 was sufficient to promote sugar accumulation in transgenic cotton, whereas RNAi-mediated knockdown of GhCIPK6 expression or CRISPR-Cas9-mediated knockout of GhTST2 resulted in significantly decreased Glc content.</description>
+    </item>
+  </channel>
+</rss>

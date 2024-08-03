@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thapsia Garganica on funPlantGenes</title>
+    <link>//localhost:60475/categories/thapsia-garganica/</link>
+    <description>Recent content in Thapsia Garganica on funPlantGenes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:60475/categories/thapsia-garganica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TgCYP76AE2</title>
+      <link>//localhost:60475/genes/2024.6.9/thapsia-garganica/tgcyp76ae2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:60475/genes/2024.6.9/thapsia-garganica/tgcyp76ae2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TgCYP76AE2 Gene Name: Thapsia garganica cytochrome P450 Genome: Species: Thapsia garganica Functional Descriptions: We present the putative second step in thapsigargin biosynthesis, by showing that the cytochrome P450 TgCYP76AE2, transiently expressed in Nicotiana benthamiana, converts epikunzeaol into epidihydrocostunolide.</description>
+    </item>
+  </channel>
+</rss>

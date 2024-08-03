@@ -35,5 +35,9 @@ tags: [ stress,salinity,salt,tolerance,salt tolerance,salt stress,stress toleran
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

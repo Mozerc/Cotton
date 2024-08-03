@@ -35,5 +35,9 @@ tags: [ drought,stress,drought stress,salt,tolerance,cold tolerance,cold stress,
 
 
 ## Sequences:
-- **CDS Sequence:**
-- **Protein Sequence:**
+- {{< accordion "CDS Sequence:" >}}
+
+{{< /accordion >}}
+- {{< accordion "Protein Sequence:" >}}
+
+{{< /accordion >}}

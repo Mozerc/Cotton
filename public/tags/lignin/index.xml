@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lignin on COTTON</title>
+    <link>//localhost:1313/tags/lignin/</link>
+    <description>Recent content in Lignin on COTTON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/lignin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GbCML45</title>
+      <link>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.7.17/gossypium-barbadense/gbar_d04g005070/</guid>
+      <description>Gene Details: Gene ID: Gbar_D04G005070 Gene Symbol: GbCML45 Gene Name: calmodulin-like 45 Genome: Species: Gossypium barbadense Functional Descriptions: Positive roles of the Ca2+ sensors GbCML45 and GbCML50 in improving cotton Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>Gh4CL3</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh4cl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh4cl3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Gh4CL3 Gene Name: Cotton 4-coumarate-CoA ligase 3 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton 4-coumarate-CoA ligase 3 (Gh4CL3) enhanced plant resistance to Verticillium dahliae by promoting jasmonic acid signaling-mediated vascular lignification and metabolic flux.</description>
+    </item>
+    <item>
+      <title>Gh4CL7</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh4cl7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/gh4cl7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Gh4CL7 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The Gh4CL7-silencing cotton plants showed more sensitive to drought stress, probably due to decreased relative water content (RWC), chlorophyll content and antioxidative enzyme activity, increased stomatal aperture, and the contents of malondialdehyde (MDA) and hydrogen peroxide (H2O2).</description>
+    </item>
+    <item>
+      <title>GhLAC4-3</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghlac4-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghlac4-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D04G1418 Gene Symbol: GhLAC4-3 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: These results suggest that GhLAC4-3 might enhance aphid resistance by regulating lignin biosynthesis in cotton.</description>
+    </item>
+    <item>
+      <title>GhWRKY41</title>
+      <link>//localhost:1313/genes/gossypium_hirsutum/ghwrky41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/gossypium_hirsutum/ghwrky41/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A08G2417 Gene Symbol: GhWRKY41 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>WLIM1a</title>
+      <link>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genes/2024.6.9/gossypium-hirsutum/wlim1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: WLIM1a Gene Name: LIM domain protein LIM-2 Genome: Species: Gossypium hirsutum Functional Descriptions: The Dual Functions of WLIM1a in Cell Elongation and Secondary Wall Formation in Developing Cotton Fibers.</description>
+    </item>
+  </channel>
+</rss>
