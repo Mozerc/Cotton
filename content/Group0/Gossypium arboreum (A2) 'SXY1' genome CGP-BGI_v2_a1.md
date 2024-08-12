@@ -1,36 +1,288 @@
 ---
 title: "Gossypium arboreum (A2) 'SXY1' genome CGP-BGI_v2_a1"
-date: 2014-05-31T18:48:15+08:00
-meta_title: ""
-description: "this is meta description"
-image: "/images/5.png"
-categories: ["Application", "Data"]
-author: "Li et. al"
-tags: ["nextjs", "tailwind"]
+categories: ["A", "B"]
+tags: ["A", "B"]
 draft: false
 ---
 ## Overview
-### Analysis Name:	Gossypium arboreum (A2) 'SXY1' genome CGP-BGI_v2_a1
-### Method	:SOAPdenovo
-### Source	:(G. arboreum A genome)
-### About the Assembly:
-The Gossypium arboreum diploid genome is a putative contributor of the A subgenome of tetraploid cotton      species. A highly homozygous single-seed descendant, derived from 18 successive generations of  self-fertilization, of the cultivated diploid cotton Shixiya1 (SXY1) was used for DNA sequencing. Paired-end  reads obtained from the Illumina HiSeq 2000 platform were obtained from various libraries of different insert  sizes. The assembly was performed using SoapDenovo to generate contigs and scaffolds.
-
-The work was performed by researchers from the Cotton Research Institute (CRI) of the Chinese Academy of Agricultural Sciences, the Beijing Genomics Institute (BGI) at Shenzhen, Peking University, Agricultural University of Hebei, USDA-ARS, the University of Copenhagen, King Adbulaziz University, Macau University of Science and Technology, and University of Hong Kong.
-
-The predicted genes and proteins for the G. arboreum assembly were identified in the original genome assembly, all other annotation was performed by CottonGen.
-
-Summary|  |
-|:-----:|:------:|
-Number of pseudomolecules (chromosomes)	|13
-Total scaffolds (≥ 2kb)|	7,914
-Number of Gene models	|41,330
-Number of miRNA	|431
-Number of rRNA	|10,464
-Number of tRNA	|2,289
-Number of snRNA	|7,619
- 
-
-
-## Publication
->[Li et. al., Genome sequence of the cultivated cotton Gossypium arboreum.  Nature Genetics. 46, 567–572. 2014 ](https://www.nature.com/articles/ng.2987)
+### Analysis Name: Gossypium arboreum (A2) 'SXY1' genome CGP-BGI_v2_a1
+## Cotton_A_07882_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_09976_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_22560_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_24197_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_24762_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_26785_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_28768_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_28784_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_29564_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_29921_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_30204_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_32620_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_32675_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_34436_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_35437_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_35725_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_35732_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_36248_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_36616_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_36714_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_37307_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_37832_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_37995_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_38389_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_38413_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_38989_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_39044_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_39611_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_39720_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_40082_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_40088_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_40406_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_40692_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_40855_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_40972_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_41074_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_41193_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_41215_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_41271_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_A_41288_BGI-A2_v1.0
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}

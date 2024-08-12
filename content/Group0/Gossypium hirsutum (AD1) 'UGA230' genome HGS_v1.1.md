@@ -1,23 +1,50 @@
 ---
 title: "Gossypium hirsutum (AD1) 'UGA230' genome HGS_v1.1"
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Software"]
-author: "John Doe"
-tags: ["software", "tailwind"]
+categories: ["A", "B"]
+tags: ["A", "B"]
 draft: false
 ---
-
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Overview
+### Analysis Name: Gossypium hirsutum (AD1) 'UGA230' genome HGS_v1.1
+## GhUGA230.A01G157000.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GhUGA230.A05G405600.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GhUGA230.A12G097000.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GhUGA230.D03G176000.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GhUGA230.D04G098500.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GhUGA230.D09G180900.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}

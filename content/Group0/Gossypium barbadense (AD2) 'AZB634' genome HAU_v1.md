@@ -1,30 +1,1079 @@
 ---
 title: "Gossypium barbadense (AD2) 'AZB634' genome HAU_v1"
-meta_title: ""
-description: "this is meta description"
-date: 2024-03-08T05:00:00Z
-image: "/images/17.png"
-categories: ["Application", "Data"]
-author: ""
-tags: ["nextjs", "tailwind"]
+categories: ["A", "B"]
+tags: ["A", "B"]
 draft: false
 ---
 ## Overview
-### Analysis Name：Gossypium barbadense (AD2) 'AZB634' genome HAU_v1
-### Method：HiFi, HiFiasm, BUSCO, LTR Assembly Index
-### Source:Y2032
-
-We selected 12 representative G. barbadense accessions from around the world, including 7 primitively domesticated accessions from South America, 2 Sea Island landrace accessions from the Caribbean region, and 3 cultivated accessions. An average of 63.1 GB of high-fidelity (HiFi) reads were generated for the 12 accessions. These were initially assembled via HiFiasm into individual genomes ranging from 2.21 to 2.25GB in size (Table 1) and with contig N50 ranging from 55.0 Mb to 102.7 Mb (average = 70.4 Mb), longer than the previously published genome of G. barbadense.  These 98.40% (range 97.48% to 98.93%) assembled contigs were further anchored and ordered into 26 pseudo-chromosomes based on the 3-79 reference genome.  Assembly completeness was high for all assemblies, which contained more than 99.5% complete BUSCOs, and the LTR Assembly Index (LAI) scores ranged from 13.78 to 15.18 per genome, which is considered reference quality according to LAI scores (Table 1). 
-
-### Table 1. Statistics of the genomic assembly and annotation of 12 G. barbadense accessions
-Sample_ID|Y2003|Y2005|Y2010|Y2013|Y2016|Y2029|Y2031|Y2032|Y2033|Y2034|Y2036|Y3048
-:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-GermplasmName|GB249|AZB51|AZB375|Yuma|AZK101|Giza7|AZB339|AZB634|GB660|GB776|Junhai-1|CEG
-Total length (MB)|2240|2299|2237|2244|2213|2237|2247|2252|2235|2269|2267|2251
-Anchor and Orient(%)|99.5|99.5|99.6|99.6|99.6|99.6|99.5|99.6|99.5|99.5|99.6|99.6
-Contigs N50(BP)|64.72|67.25|77.88|102.72|65.91|56.54|61.99|102.73|56.31|61.89|68.79|64.62
-GC content(%)|34.42|34.56|34.37|34.39|34.18|34.36|34.43|34.54|34.41|34.63|34.55|34.44
-BUSCO (%)|99.5|99.5|99.6|99.6|99.6|99.6|99.5|99.6|99.5|99.5|99.6|99.6
-LTR Assembly Index(LAI)|14.51|14.69|15.01|14.46|14.83|14.17|14.18|14.54|14.08|13.78|15.18|15.11
-Repeatation|72.63|69.88|69.61|72.63|68.92|72.62|72.69|71.46|70.97|72.16|72.89|72.51
-Number of Genes|71549|74094|71963|74046|71312|76012|72247|72870|72281|74527|75774|75755
+### Analysis Name: Gossypium barbadense (AD2) 'AZB634' genome HAU_v1
+## GB0414.A01G001773.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G001789.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G001835.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G001877.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G001917.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G001968.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G002005.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G002037.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G002059.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G002075.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A01G002205.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A02G000948.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A02G000970.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A02G001206.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A02G001330.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A02G001331.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A02G001345.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G000742.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G000889.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G000925.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G000935.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001027.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001030.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001060.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001146.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001151.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001331.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001399.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A03G001520.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A04G000494.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A04G000630.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A04G000684.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A04G000692.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A04G000711.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A04G000792.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A04G001012.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G002971.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003040.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003141.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003161.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003214.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003296.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003301.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003302.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003427.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003624.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003641.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A05G003642.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G000821.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G000985.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G000992.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001312.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001313.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001320.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001404.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001412.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001444.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001466.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001741.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A06G001756.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A07G000859.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A07G001255.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A07G001620.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A07G002022.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G000851.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G000889.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G000905.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G000990.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G001034.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G001078.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G001138.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G001623.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G001742.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A08G002153.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000382.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000471.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000488.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000501.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000531.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000537.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000541.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000549.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G000553.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A09G001066.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G000864.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001223.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001229.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001250.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001262.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001346.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001399.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001942.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001943.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001944.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001945.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G001946.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A10G002030.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002226.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002305.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002346.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002408.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002485.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002530.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002660.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002724.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A11G002726.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A12G000776.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A12G000835.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A13G000627.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A13G000852.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A13G000930.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A13G000935.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A13G000945.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.A13G001133.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D02G000741.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D02G001042.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D02G001079.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D02G001213.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D02G001290.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D03G000689.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D03G000739.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D03G001055.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D03G001158.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D04G001066.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D05G003351.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D06G000803.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D06G000873.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D06G001136.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D06G001260.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D06G001359.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D06G001606.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D07G001267.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D07G001795.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D07G001954.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D08G001126.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D09G000464.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D09G000468.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D09G000469.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D09G000639.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D10G001243.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D10G001332.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D10G001365.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D10G001473.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D11G002026.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D11G002305.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D11G002307.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D11G002313.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D12G000792.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D12G000899.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D12G000958.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D12G000959.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D13G001042.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  GB0414.D13G001189.mRNA1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}

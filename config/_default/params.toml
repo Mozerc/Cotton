@@ -26,7 +26,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Hugo](https://gohugo.io/) and [netlify](https://www.netlify.com/) | 2024 Jinbiao Cao (曹金彪)"
+copyright = "Designed & Developed by [Hugo](https://gohugo.io/) and [netlify](https://www.netlify.com/) | 2024 Guoxin Li (李国鑫)"
 
 
 # Preloader
@@ -46,8 +46,7 @@ link = "submit"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = [""]
-include_all_sections = true
+include_all_sections =true
 show_description = true
 show_tags = true
 show_image = true

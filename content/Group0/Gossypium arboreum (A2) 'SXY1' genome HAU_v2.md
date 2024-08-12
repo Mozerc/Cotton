@@ -1,34 +1,267 @@
 ---
 title: "Gossypium arboreum (A2) 'SXY1' genome HAU_v2"
-date: 2023-01-30T18:48:15+08:00
-meta_title: ""
-description: "this is meta description"
-image: "/images/8.png"
-categories: ["Application", "Data"]
-author: "Wang, M. et al"
-tags: ["nextjs", "tailwind"]
+categories: ["A", "B"]
+tags: ["A", "B"]
 draft: false
 ---
 ## Overview
-### Analysis Name:Gossypium arboreum (A2) 'SXY1' genome HAU_v2
-### Method:Canu v. 1.3; Oxford Nanopore; Illumina (Canu v. 1.3)
-### Source:(v2)
-### Global statistics
-
-Genomic feature|Gossypium arboreum 'ShiXiYa-1' HAU.v2 (NCBI: ASM2569848v2)
-:----:|:----:
-Total sequence length|1,621,352,140
-Total ungapped length|1,621,329,640
-Gaps between scaffolds|0
-Number of scaffolds|948
-Scaffold N50|129,592,444
-Scaffold L50|6
-Number of contigs|1,173
-Contig N50|11,691,474
-Contig L50|40
-Total number of chromosomes and plasmids|15
-Number of component sequences (WGS or clone)|948
- 
-
-## Publication
->[Wang, M. et al. Genomic innovation and regulatory rewiring during evolution of the cotton genus Gossypium. Nat. Genet. 2022 Dec;54(12):1959-1971. doi: 10.1038/s41588-022-01237-2. Epub 2022 Dec 6.](https://www.nature.com/articles/s41588-022-01237-2)
+### Analysis Name: Gossypium arboreum (A2) 'SXY1' genome HAU_v2
+## XP_017604459.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017609647.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017617815.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017620901.2
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017631790.2
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017633951.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017640166.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017644477.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017644506.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_017647736.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052874346.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052874525.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052874567.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052874572.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052874605.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052875919.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052877262.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052877263.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052877963.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052878387.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052878851.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052880498.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052880582.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052882196.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052882250.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052882707.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052882711.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052883509.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052885252.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052885267.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052886907.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052886919.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052886925.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052886932.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052886957.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052887986.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  XP_052888038.1
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}

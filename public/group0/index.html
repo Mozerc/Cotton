@@ -159,7 +159,7 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["group0","genes","og0000000","pages","sections","submit"];
+  let includeSectionsInSearch = ["genes","group0","pages","sections","submit"];
   let no_results_for = "No results for";
   let empty_search_results_placeholder = "Type something to search..";
 </script>
@@ -682,122 +682,6 @@
 
 
 
-  
- <nav 
-    class="flex items-center justify-center space-x-3" 
-    aria-label="Pagination"  >
-    
-    
-    
-    
-      <span class="text-light rounded px-2 py-1.5">
-        <span class="sr-only">Previous</span>
-        <svg
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          aria-hidden="true"
-          height="30"
-          width="30">
-          <path
-            fill-rule="evenodd"
-            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
-            clip-rule="evenodd" />
-        </svg>
-      </span>
-    
-    
-    
-      
-      
-      
-        
-      
-      
-      
-
-        
-          <span
-            aria-current="page"
-            class="bg-primary dark:bg-darkmode-primary dark:text-dark rounded px-2 py-1 text-white">
-            1
-          </span>
-        
-      
-    
-      
-      
-      
-        
-      
-      
-      
-
-        
-          <a
-            href="/group0/page/2/"
-            aria-current="page"
-            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
-            2
-          </a>
-        
-      
-    
-     
-
-    
-    
-    
-    
-      <a
-        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
-        href="/group0/page/2/"
-        aria-label="Pagination Arrow">
-        <span class="sr-only">Next</span>
-        <svg
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          aria-hidden="true"
-          height="30"
-          width="30">
-          <path
-            fill-rule="evenodd"
-            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-            clip-rule="evenodd" />
-        </svg>
-      </a>
-    
-        
-        
-        
-        <script>
-          document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('jumpBtn').addEventListener('click', function() {
-        var pageInput = document.getElementById('pageInput').value;
-        var totalPages =  2 ;
-        
-        if (pageInput >= 1 && pageInput <= totalPages) {
-            var url = "\/group0\/";
-            
-            if (url.includes("1")) {
-                
-                url = url.replace("1", pageInput);
-            } else {
-                
-                url += "/page/" + pageInput;
-            }
-            
-            window.location.href = url;
-        } else {
-            alert("Invalid page number!");
-        }
-    });
-});
-        </script>
-  
-  </nav>
-  
-
-
 
 
 
@@ -810,272 +694,12 @@
           <div class="mt-1">
             
             <p>
-              <a href="//localhost:1313/group0/gossypium-ekmanianum-ad6-ad602-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium ekmanianum (AD6) &#39;AD602&#39; genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-wagad-genome-usda_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium herbaceum (A1) &#39;Wagad&#39; genome USDA_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-csx8308-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;CSX8308&#39; genome HGS_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-whu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome WHU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-raimondii-d5-d5-3-genome-bgi-cgp-draft_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium raimondii (D5) &#39;D5-3&#39; genome BGI-CGP-draft_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-thurberi-d1-5-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium thurberi (D1-5) genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-tomentosum-ad3-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium tomentosum (AD3) genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-tomentosum-ad3-genome-hgs_v1-1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium tomentosum (AD3) genome HGS_v1-1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-trilobum-d8-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium trilobum (D8) genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-turneri-d10-genome-nsf_v1_a2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium turneri (D10) genome NSF_v1_a2
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb339-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;AZB339&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb375-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;AZB375&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb51-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;AZB51&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb634-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;AZB634&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azk101-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;AZK101&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-ceg-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;CEG&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb_m210936-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;Gb_M210936&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb-0660-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;GB-0660&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb-0776-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;GB-0776&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
               <a href="//localhost:1313/group0/gossypium-anomalum-b1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
                 Gossypium anomalum (B1) genome HAU_v1
               </a>
             </p>
             
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-hau_v2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium arboreum (A2) &#39;SXY1&#39; genome HAU_v2
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
+            <p class="description-text"></p>
           </div>
         </li>
       
@@ -1088,683 +712,7 @@
               </a>
             </p>
             
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-whu-updated-v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium arboreum (A2) &#39;SXY1&#39; genome WHU-updated v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb249-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;GB249&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-giza7-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;Giza7&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-h7124-genome-zju_v1.1_a1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;H7124&#39; genome ZJU_v1.1_a1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-junhai-1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;Junhai-1&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-pima90-genome-heau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;Pima90&#39; genome HEAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-yuma-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;Yuma&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-bickii-g1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium bickii (G1) genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-bickii-g1-genome-jzu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium bickii (G1) genome JZU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-darwinii-ad5-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium darwinii (AD5) genome HGS_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-davidsonii-d3d-27-genome-isu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium davidsonii (D3d-27) genome ISU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-davidsonii-d3d-8-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium davidsonii (D3d-8) genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-gossypioides-d6-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium gossypioides (D6) genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-gossypioides-d6-genome-isu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium gossypioides (D6) genome ISU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-harknessii-d2-2-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium harknessii (D2-2) genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-harknessii-d2-2-genome-isu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium harknessii (D2-2) genome ISU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-a1a-wild-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium herbaceum (A1) &#39;A1a wild&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-mutema-genome-whu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium herbaceum (A1) &#39;Mutema&#39; genome WHU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-zhongcao1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium herbaceum (A1) &#39;ZhongCao1&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-b713-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;B713&#39; genome NSF_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-bar32-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;Bar32&#39; genome NSF_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-hpf17-genome-zju_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;HPF17&#39; genome ZJU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-ndm8-genome-heau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;NDM8&#39; genome HEAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-psc355-genome-usda_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;PSC355&#39; genome USDA_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-cgp-bgi_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome CGP-BGI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-hau_v1-1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome HAU_v1-1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-nau-nbi_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome NAU-NBI_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-utx_v2.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome UTX_v2.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-utx-jgi-interim-release_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome UTX-JGI-Interim-release_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-zju-improved_v2.1_a1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome ZJU-improved_v2.1_a1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tx-1000-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;TX-1000&#39; genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-ua48-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;UA48&#39; genome HGS_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-uga230-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;UGA230&#39; genome HGS_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-ym11-genome-xaas_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;YM11&#39; genome XAAS_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-zm24-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium hirsutum (AD1) &#39;ZM24&#39; genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-klotzschianum-d3-k-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium klotzschianum (D3-k) genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-longicalyx-f1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium longicalyx (F1) genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-longicalyx-f1-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium longicalyx (F1) genome NSF_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-mustelinum-ad4-genome-jgi_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium mustelinum (AD4) genome JGI_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-raimondii-d5-d5-4-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium raimondii (D5) &#39;D5-4&#39; genome NSF_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-raimondii-d5-gpd5lz-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium raimondii (D5) &#39;GPD5lz&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-raimondii-d5-grai-d502-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium raimondii (D5) &#39;Grai D502&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-raimondii-d5-genome-jgi_v2_a2.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium raimondii (D5) genome JGI_v2_a2.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-stephensii-ad7-ad701-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium stephensii (AD7) &#39;AD701&#39; genome CRI_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-stocksii-e1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium stocksii (E1) genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-stocksii-e1-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium stocksii (E1) genome NSF_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-stocksii-e1-genome-zstu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium stocksii (E1) genome ZSTU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-sturtianum-c1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium sturtianum (C1) genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/grotundifolium-genome-hau-v1.0/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Grotundifolium genome HAU v1.0
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium arboreum (A2) &#39;SXY1&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
+            <p class="description-text"></p>
           </div>
         </li>
       
@@ -1777,7 +725,7 @@
               </a>
             </p>
             
-            <p class="description-text">this is meta description</p>
+            <p class="description-text"></p>
           </div>
         </li>
       
@@ -1785,51 +733,12 @@
           <div class="mt-1">
             
             <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-3-79-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;3-79&#39; genome HGS_v1.1
+              <a href="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-cgp-bgi_v2_a1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium arboreum (A2) &#39;SXY1&#39; genome CGP-BGI_v2_a1
               </a>
             </p>
             
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-australe-g2-genome-cri_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium australe (G2) genome CRI_v1.1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypioides-kirkii-genome-isu_v3/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypioides kirkii genome ISU_v3
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
-          </div>
-        </li>
-      
-        <li class="m-1 p-1 shadow-md ">
-          <div class="mt-1">
-            
-            <p>
-              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-3-79-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
-                Gossypium barbadense (AD2) &#39;3-79&#39; genome HAU_v1
-              </a>
-            </p>
-            
-            <p class="description-text">this is meta description</p>
+            <p class="description-text"></p>
           </div>
         </li>
       
@@ -1842,7 +751,852 @@
               </a>
             </p>
             
-            <p class="description-text">this is meta description</p>
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium arboreum (A2) &#39;SXY1&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-hau_v2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium arboreum (A2) &#39;SXY1&#39; genome HAU_v2
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-whu-updated-v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium arboreum (A2) &#39;SXY1&#39; genome WHU-updated v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-australe-g2-genome-cri_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium australe (G2) genome CRI_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-3-79-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;3-79&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-3-79-genome-hau_v2_a1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;3-79&#39; genome HAU_v2_a1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-3-79-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;3-79&#39; genome HGS_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb339-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;AZB339&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb375-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;AZB375&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb51-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;AZB51&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azb634-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;AZB634&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-azk101-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;AZK101&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-ceg-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;CEG&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb_m210936-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;Gb_M210936&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb-0660-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;GB-0660&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb-0776-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;GB-0776&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-gb249-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;GB249&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-giza7-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;Giza7&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-h7124-genome-zju_v1.1_a1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;H7124&#39; genome ZJU_v1.1_a1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-junhai-1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;Junhai-1&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-barbadense-ad2-yuma-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium barbadense (AD2) &#39;Yuma&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-bickii-g1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium bickii (G1) genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-darwinii-ad5-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium darwinii (AD5) genome HGS_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-davidsonii-d3d-8-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium davidsonii (D3d-8) genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-gossypioides-d6-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium gossypioides (D6) genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-harknessii-d2-2-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium harknessii (D2-2) genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-harknessii-d2-2-genome-isu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium harknessii (D2-2) genome ISU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-a1a-wild-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium herbaceum (A1) &#39;A1a wild&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-mutema-genome-whu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium herbaceum (A1) &#39;Mutema&#39; genome WHU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-wagad-genome-usda_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium herbaceum (A1) &#39;Wagad&#39; genome USDA_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-herbaceum-a1-zhongcao1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium herbaceum (A1) &#39;ZhongCao1&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-b713-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;B713&#39; genome NSF_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-bar32-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;Bar32&#39; genome NSF_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-csx8308-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;CSX8308&#39; genome HGS_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-ndm8-genome-heau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;NDM8&#39; genome HEAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-psc355-genome-usda_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;PSC355&#39; genome USDA_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-nau-nbi_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome NAU-NBI_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-utx_v2.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome UTX_v2.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-whu_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome WHU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tm-1-genome-zju-improved_v2.1_a1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;TM-1&#39; genome ZJU-improved_v2.1_a1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-tx-1000-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;TX-1000&#39; genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-ua48-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;UA48&#39; genome HGS_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-uga230-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;UGA230&#39; genome HGS_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-ym11-genome-xaas_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;YM11&#39; genome XAAS_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-hirsutum-ad1-zm24-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium hirsutum (AD1) &#39;ZM24&#39; genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-klotzschianum-d3-k-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium klotzschianum (D3-k) genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-longicalyx-f1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium longicalyx (F1) genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-longicalyx-f1-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium longicalyx (F1) genome NSF_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-mustelinum-ad4-genome-jgi_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium mustelinum (AD4) genome JGI_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-raimondii-d5-d5-3-genome-bgi-cgp-draft_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium raimondii (D5) &#39;D5-3&#39; genome BGI-CGP-draft_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-raimondii-d5-d5-4-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium raimondii (D5) &#39;D5-4&#39; genome NSF_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-raimondii-d5-gpd5lz-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium raimondii (D5) &#39;GPD5lz&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-raimondii-d5-grai-d502-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium raimondii (D5) &#39;Grai D502&#39; genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-stephensii-ad7-ad701-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium stephensii (AD7) &#39;AD701&#39; genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-stocksii-e1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium stocksii (E1) genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-stocksii-e1-genome-nsf_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium stocksii (E1) genome NSF_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-sturtianum-c1-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium sturtianum (C1) genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-thurberi-d1-5-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium thurberi (D1-5) genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-tomentosum-ad3-genome-hau_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium tomentosum (AD3) genome HAU_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-tomentosum-ad3-genome-hgs_v1.1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium tomentosum (AD3) genome HGS_v1.1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-trilobum-d8-genome-cri_v1/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium trilobum (D8) genome CRI_v1
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/gossypium-turneri-d10-genome-nsf_v1_a2/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Gossypium turneri (D10) genome NSF_v1_a2
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
+          </div>
+        </li>
+      
+        <li class="m-1 p-1 shadow-md ">
+          <div class="mt-1">
+            
+            <p>
+              <a href="//localhost:1313/group0/grotundifolium_genome_hau_v1.0/" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+                Grotundifolium genome HAU v1.0
+              </a>
+            </p>
+            
+            <p class="description-text"></p>
           </div>
         </li>
       
@@ -1858,122 +1612,6 @@
 
 
 
-
-
-  
- <nav 
-    class="flex items-center justify-center space-x-3" 
-    aria-label="Pagination"  >
-    
-    
-    
-    
-      <span class="text-light rounded px-2 py-1.5">
-        <span class="sr-only">Previous</span>
-        <svg
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          aria-hidden="true"
-          height="30"
-          width="30">
-          <path
-            fill-rule="evenodd"
-            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
-            clip-rule="evenodd" />
-        </svg>
-      </span>
-    
-    
-    
-      
-      
-      
-        
-      
-      
-      
-
-        
-          <span
-            aria-current="page"
-            class="bg-primary dark:bg-darkmode-primary dark:text-dark rounded px-2 py-1 text-white">
-            1
-          </span>
-        
-      
-    
-      
-      
-      
-        
-      
-      
-      
-
-        
-          <a
-            href="/group0/page/2/"
-            aria-current="page"
-            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
-            2
-          </a>
-        
-      
-    
-     
-
-    
-    
-    
-    
-      <a
-        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
-        href="/group0/page/2/"
-        aria-label="Pagination Arrow">
-        <span class="sr-only">Next</span>
-        <svg
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          aria-hidden="true"
-          height="30"
-          width="30">
-          <path
-            fill-rule="evenodd"
-            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-            clip-rule="evenodd" />
-        </svg>
-      </a>
-    
-        
-        
-        
-        <script>
-          document.addEventListener('DOMContentLoaded', function() {
-            document.getElementById('jumpBtnBottom').addEventListener('click', function() {
-               var pageInput = document.getElementById('pageInputBottom').value;
-               var totalPages =  2 ;
-          
-            if (pageInput >= 1 && pageInput <= totalPages) {
-                var url = "\/group0\/";
-            
-                if (url.includes("1")) {
-                
-                url = url.replace("1", pageInput);
-             } else {
-                
-                url += "/page/" + pageInput;
-              }
-            
-             window.location.href = url;
-          } else {
-            alert("Invalid page number!");
-               }
-             });
-          });
-        </script>
-  
-  </nav>
-  
 
 
 
@@ -2026,7 +1664,7 @@
 
 
 >netlify</a>
- | 2024 Jinbiao Cao (曹金彪)
+ | 2024 Guoxin Li (李国鑫)
       </p>
     </div>
   </div>

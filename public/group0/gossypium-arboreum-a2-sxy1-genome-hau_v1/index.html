@@ -89,7 +89,7 @@
 
 <meta
   name="description"
-  content="this is meta description" />
+  content="Hugo &amp; Tailwindcss Starter" />
 
 
 
@@ -101,14 +101,11 @@
 
 
   
-  
 
 
 
 
 
-
-  
 
 
 
@@ -134,13 +131,13 @@
 
 
 <meta property="og:title" content="Gossypium arboreum (A2) &#39;SXY1&#39; genome HAU_v1" />
-<meta property="og:description" content="this is meta description" />
+<meta property="og:description" content="Hugo &amp; Tailwindcss Starter" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="//localhost:1313/group0/gossypium-arboreum-a2-sxy1-genome-hau_v1/" />
 
 
 <meta name="twitter:title" content="Gossypium arboreum (A2) &#39;SXY1&#39; genome HAU_v1" />
-<meta name="twitter:description" content="this is meta description" />
+<meta name="twitter:description" content="Hugo &amp; Tailwindcss Starter" />
 
 
 
@@ -164,7 +161,7 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["group0","genes","og0000000","pages","sections","submit"];
+  let includeSectionsInSearch = ["genes","group0","pages","sections","submit"];
   let no_results_for = "No results for";
   let empty_search_results_placeholder = "Type something to search..";
 </script>
@@ -664,202 +661,6572 @@
         <div class="lg:col-11">
           <div class="content">
             <h2 id="overview">Overview</h2>
-<h3 id="analysis-namegossypium-arboreum-a2-sxy1-genome-hau_v1">Analysis Name:Gossypium arboreum (A2) &lsquo;SXY1&rsquo; genome HAU_v1</h3>
-<h3 id="methodllumina-and-pacbio">Method:llumina and PacBio</h3>
-<h3 id="sourcev1">Source:(v1)</h3>
-<h3 id="about-the-assembly">About the assembly:</h3>
-<p>In this study, we applied Oxford Nanopore sequencing technology to assemble G. rotundifolium (K2*) &lsquo;K201&rsquo;, G. arboreum (A2) &lsquo;SXY1&rsquo;, and G. raimondii (D5) &lsquo;D502&rsquo; genomes. G. arboreum and G. raimondii genomes have been de novo assembled previously using Illumina and PacBio reads, but both genomes have a number of sequence gaps and require an improvement in assembly contiguity. We generated a total of 304 Gb, 212 Gb, 125 Gb Nanopore sequencing data with a genome coverage 124×, 131×, 167× for K2*, A2 and D5, respectively. We assembled 3,593, 1,173 and 366 contigs for G. rotundifolium, G. arboreum and G. raimondii with a contig length of 2.44 Gb, 1.62 Gb and 0.75 Gb, respectively (Table 1). These initial contigs were polished using Illumina paired-end reads with a genome coverage of 108×, 118×, 132× for K2*, A2 and D5. The contig N50 is 5.33 Mb, 11.69 Mb and 17.04 Mb for K2*, A2 and D5, respectively. The maximum contig has a length of 32.72 Mb, 58.57 Mb and 43.74 Mb. After polishing contig using Illumina reads, we used high-through chromosome conformation capture (Hi-C) data to order and orient contigs, aimed at constructing pseudo chromosomes of each species. In the Hi-C assisted assembly, 2,559, 485 and 201 contigs were placed on the 13 chromosomes of K2*, A2 and D5 genomes, occupying over 99% of genome length.</p>
-<p><strong><em>*Should be K12</em></strong></p>
-<h3 id="table-1-summary-of-genome-assemblies-and-annotations-of-g-rotundifolium-g-arboreum-and-graimondii">Table 1. Summary of genome assemblies and annotations of G. rotundifolium, G. arboreum and G.raimondii.</h3>
-<table>
-<thead>
-<tr>
-<th style="text-align:center">Genomic feature</th>
-<th style="text-align:center">G. rotundifolium &lsquo;Grot K201&rsquo;</th>
-<th style="text-align:center">G. arboreum &lsquo;Shixiya1&rsquo;</th>
-<th style="text-align:center">G. raimondii &lsquo;Grai D502&rsquo;</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Total length of contigs, bp</td>
-<td style="text-align:center">2,444,364,209</td>
-<td style="text-align:center">1,621,008,062</td>
-<td style="text-align:center">750,197,587</td>
-</tr>
-<tr>
-<td style="text-align:center">Total length of scaffolds, bp</td>
-<td style="text-align:center">2,444,484,509</td>
-<td style="text-align:center">1,621,030,562</td>
-<td style="text-align:center">750,205,487</td>
-</tr>
-<tr>
-<td style="text-align:center">Total length of gaps, bp</td>
-<td style="text-align:center">120,300</td>
-<td style="text-align:center">22,500</td>
-<td style="text-align:center">7,900</td>
-</tr>
-<tr>
-<td style="text-align:center">Percentage of anchoring</td>
-<td style="text-align:center">99.28%</td>
-<td style="text-align:center">99.47%</td>
-<td style="text-align:center">99.57%</td>
-</tr>
-<tr>
-<td style="text-align:center">Percentage of anchoring and ordering</td>
-<td style="text-align:center">93.16%</td>
-<td style="text-align:center">98.84%</td>
-<td style="text-align:center">99.01%</td>
-</tr>
-<tr>
-<td style="text-align:center">Number of contigs</td>
-<td style="text-align:center">3,593</td>
-<td style="text-align:center">1,173</td>
-<td style="text-align:center">366</td>
-</tr>
-<tr>
-<td style="text-align:center">Number of scaffolds</td>
-<td style="text-align:center">2,390</td>
-<td style="text-align:center">948</td>
-<td style="text-align:center">287</td>
-</tr>
-<tr>
-<td style="text-align:center">Contig N50, bp</td>
-<td style="text-align:center">5,326,689</td>
-<td style="text-align:center">11,691,474</td>
-<td style="text-align:center">17,043,680</td>
-</tr>
-<tr>
-<td style="text-align:center">Contig N90, bp</td>
-<td style="text-align:center">621,066</td>
-<td style="text-align:center">2,910,421</td>
-<td style="text-align:center">3,537,560</td>
-</tr>
-<tr>
-<td style="text-align:center">Scaffold N50, bp</td>
-<td style="text-align:center">177,839,665</td>
-<td style="text-align:center">129,592,444</td>
-<td style="text-align:center">57,716,579</td>
-</tr>
-<tr>
-<td style="text-align:center">Scaffold N90, bp</td>
-<td style="text-align:center">115,394,628</td>
-<td style="text-align:center">93,157,762</td>
-<td style="text-align:center">49,929,625</td>
-</tr>
-<tr>
-<td style="text-align:center">Maximun contig length, bp</td>
-<td style="text-align:center">32,728,186</td>
-<td style="text-align:center">58,575,076</td>
-<td style="text-align:center">43,739,617</td>
-</tr>
-<tr>
-<td style="text-align:center">Maximum scaffold length, bp</td>
-<td style="text-align:center">205,722,655</td>
-<td style="text-align:center">143,367,608</td>
-<td style="text-align:center">63,188,200</td>
-</tr>
-<tr>
-<td style="text-align:center">GC content</td>
-<td style="text-align:center">36.38%</td>
-<td style="text-align:center">35.16%</td>
-<td style="text-align:center">33.23%</td>
-</tr>
-<tr>
-<td style="text-align:center">Percentage of repeat sequences</td>
-<td style="text-align:center">80.92%</td>
-<td style="text-align:center">68.05%</td>
-<td style="text-align:center">57.04%</td>
-</tr>
-<tr>
-<td style="text-align:center">GC content</td>
-<td style="text-align:center">36.38%</td>
-<td style="text-align:center">35.16%</td>
-<td style="text-align:center">33.23%</td>
-</tr>
-<tr>
-<td style="text-align:center">Number of genes</td>
-<td style="text-align:center">41,590</td>
-<td style="text-align:center">41,778</td>
-<td style="text-align:center">40,820</td>
-</tr>
-</tbody>
-</table>
-<h3 id="supplementary-table-4-comparing-a2-genome-with-previously-published-genome-version">Supplementary Table 4. Comparing A2 genome with previously published genome version.</h3>
-<table>
-<thead>
-<tr>
-<th style="text-align:center">Genomic feature</th>
-<th style="text-align:center">HAU_A2</th>
-<th style="text-align:center">WHU_A2</th>
-<th style="text-align:center">CRI_A2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Total assemblied size, bp</td>
-<td style="text-align:center">1,621,008,062</td>
-<td style="text-align:center">1,636,985,834</td>
-<td style="text-align:center">1,710,104,083</td>
-</tr>
-<tr>
-<td style="text-align:center">Number of total scaffolds</td>
-<td style="text-align:center">948</td>
-<td style="text-align:center">1,269</td>
-<td style="text-align:center">4,516</td>
-</tr>
-<tr>
-<td style="text-align:center">Total length of gaps, bp</td>
-<td style="text-align:center">22,500</td>
-<td style="text-align:center">116,300</td>
-<td style="text-align:center">3,730,000</td>
-</tr>
-<tr>
-<td style="text-align:center">Contig N50, bp</td>
-<td style="text-align:center">11,691,474</td>
-<td style="text-align:center">1,832,000</td>
-<td style="text-align:center">1,100,000</td>
-</tr>
-<tr>
-<td style="text-align:center">Scaffold N50, bp</td>
-<td style="text-align:center">129,592,444</td>
-<td style="text-align:center">118,841,821</td>
-<td style="text-align:center">113,035,596</td>
-</tr>
-<tr>
-<td style="text-align:center">Scaffold N90, bp</td>
-<td style="text-align:center">93,157,762</td>
-<td style="text-align:center">87,096,684</td>
-<td style="text-align:center">162,124</td>
-</tr>
-<tr>
-<td style="text-align:center">Percentage of anchoring and ordering</td>
-<td style="text-align:center">98.84%</td>
-<td style="text-align:center">92.19%</td>
-<td style="text-align:center">85.94%</td>
-</tr>
-<tr>
-<td style="text-align:center">Number of genes</td>
-<td style="text-align:center">41,778</td>
-<td style="text-align:center">43,278</td>
-<td style="text-align:center">40,960</td>
-</tr>
-</tbody>
-</table>
-<h2 id="publication">Publication</h2>
-<blockquote>
-<p><a href="https://academic.oup.com/mbe/article/38/9/3621/6262643?login=false"
+<h3 id="analysis-name-gossypium-arboreum-a2-sxy1-genome-hau_v1">Analysis Name: Gossypium arboreum (A2) &lsquo;SXY1&rsquo; genome HAU_v1</h3>
+<h2 id="garb_01g0174001">Garb_01G017400.1</h2>
+<p>
 
 
 
 
- target="_blank"
- 
+
+  
 
 
->Wang, M. et al. Comparative genome analyses highlight transposon-mediated genome expansion and the evolutionary architecture of 3D genomic folding in cotton. Mol Biol Evol. 2021 May 11:msab128. doi: 10.1093/molbev/msab128.</a>
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
 </p>
-</blockquote>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_01g0255201">Garb_01G025520.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0039901">Garb_02G003990.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0085301">Garb_02G008530.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0087701">Garb_02G008770.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0096401">Garb_02G009640.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0096501">Garb_02G009650.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0103401">Garb_02G010340.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0115601">Garb_02G011560.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_02g0131001">Garb_02G013100.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_03g0074601">Garb_03G007460.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_03g0082501">Garb_03G008250.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_03g0093801">Garb_03G009380.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_03g0144601">Garb_03G014460.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_03g0154001">Garb_03G015400.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_04g0076501">Garb_04G007650.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_04g0086401">Garb_04G008640.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_04g0089601">Garb_04G008960.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_04g0107301">Garb_04G010730.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_04g0125101">Garb_04G012510.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_04g0160301">Garb_04G016030.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_04g0162001">Garb_04G016200.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_05g0043501">Garb_05G004350.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_05g0280001">Garb_05G028000.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_05g0302701">Garb_05G030270.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_05g0304001">Garb_05G030400.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_05g0329001">Garb_05G032900.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_05g0336201">Garb_05G033620.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_05g0353401">Garb_05G035340.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0070501">Garb_06G007050.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0073601">Garb_06G007360.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0098701">Garb_06G009870.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0127201">Garb_06G012720.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0138701">Garb_06G013870.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0147801">Garb_06G014780.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0158501">Garb_06G015850.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0176801">Garb_06G017680.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_06g0206401">Garb_06G020640.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0052001">Garb_07G005200.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0061401">Garb_07G006140.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0061501">Garb_07G006150.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0063501">Garb_07G006350.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0083801">Garb_07G008380.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0095801">Garb_07G009580.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0095901">Garb_07G009590.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0131101">Garb_07G013110.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0199501">Garb_07G019950.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_07g0244901">Garb_07G024490.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0090201">Garb_08G009020.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0114001">Garb_08G011400.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0117301">Garb_08G011730.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0134401">Garb_08G013440.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0174301">Garb_08G017430.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0175601">Garb_08G017560.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0217901">Garb_08G021790.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0220001">Garb_08G022000.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0221201">Garb_08G022120.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0230901">Garb_08G023090.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0235701">Garb_08G023570.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_08g0256601">Garb_08G025660.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0038901">Garb_09G003890.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0049601">Garb_09G004960.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0060501">Garb_09G006050.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0066201">Garb_09G006620.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0114701">Garb_09G011470.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0114901">Garb_09G011490.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0179001">Garb_09G017900.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_09g0236501">Garb_09G023650.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0087701">Garb_10G008770.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0121701">Garb_10G012170.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0135701">Garb_10G013570.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0151801">Garb_10G015180.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0153601">Garb_10G015360.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0172201">Garb_10G017220.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0184001">Garb_10G018400.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0186901">Garb_10G018690.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0192101">Garb_10G019210.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0193701">Garb_10G019370.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0195301">Garb_10G019530.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_10g0221201">Garb_10G022120.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_11g0206701">Garb_11G020670.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_11g0257401">Garb_11G025740.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_11g0321101">Garb_11G032110.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_11g0323701">Garb_11G032370.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_11g0373201">Garb_11G037320.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_12g0088901">Garb_12G008890.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_12g0090001">Garb_12G009000.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_12g0187701">Garb_12G018770.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_12g0282601">Garb_12G028260.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_12g0287701">Garb_12G028770.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_12g0290701">Garb_12G029070.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0036001">Garb_13G003600.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0038301">Garb_13G003830.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0095501">Garb_13G009550.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0122501">Garb_13G012250.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0142201">Garb_13G014220.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0147101">Garb_13G014710.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0154801">Garb_13G015480.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0164101">Garb_13G016410.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0237601">Garb_13G023760.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
+<h2 id="garb_13g0272501">Garb_13G027250.1</h2>
+<p>
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    CDS Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+<div class="accordion ">
+  <button class="accordion-header " data-accordion>
+    Protein Sequence
+    <svg
+      class="accordion-icon"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      xmlspace="preserve">
+      <path
+        fill="currentColor"
+        d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+    </svg>
+  </button>
+  <div class="accordion-content ">
+    <p><ul>
+<li></li>
+</ul>
+</p>
+  </div>
+</div>
+</p>
 
           </div>
         </div>
@@ -909,7 +7276,7 @@
 
 
 >netlify</a>
- | 2024 Jinbiao Cao (曹金彪)
+ | 2024 Guoxin Li (李国鑫)
       </p>
     </div>
   </div>

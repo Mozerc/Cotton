@@ -1,13 +1,22 @@
 ---
 title: "Gossypium raimondii (D5) 'D5-3' genome BGI-CGP-draft_v1"
-date: 2024-07-14T18:48:15+08:00
-meta_title: ""
-description: "this is meta description"
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+categories: ["A", "B"]
+tags: ["A", "B"]
 draft: false
 ---
-
-##你好
+## Overview
+### Analysis Name: Gossypium raimondii (D5) 'D5-3' genome BGI-CGP-draft_v1
+## Cotton_D_gene_10013582
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
+##  Cotton_D_gene_10032964
+{{< accordion "CDS Sequence" >}}
+- 
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+- 
+{{< /accordion >}}
