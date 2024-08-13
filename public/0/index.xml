@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OG0000000s on COTTON</title>
-    <link>//localhost:1313/og0000000/</link>
-    <description>Recent content in OG0000000s on COTTON</description>
+    <title>0s on COTTON</title>
+    <link>//localhost:1313/0/</link>
+    <description>Recent content in 0s on COTTON</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/og0000000/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gossypium anomalum (B1) genome HAU_v1</title>
-      <link>//localhost:1313/og0000000/gossypium-anomalum-b1-genome-hau_v1/</link>
+      <link>//localhost:1313/0/gossypium-anomalum-b1-genome-hau_v1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/og0000000/gossypium-anomalum-b1-genome-hau_v1/</guid>
+      <guid>//localhost:1313/0/gossypium-anomalum-b1-genome-hau_v1/</guid>
       <description>Overview Analysis Name: Gossypium anomalum (B1) genome HAU_v1 Gano_01G006880.1 CDS Sequence Protein Sequence Gano_01G010490.</description>
     </item>
   </channel>
